@@ -1,0 +1,69 @@
+Will our future phone need to be charged 
+0
+Your future phone may never need to be charged .
+charged	8	CT-	CT-
+never	4	neg_cue
+may	3	ps_cue
+need	5	ps_cue
+########
+1
+<EOP> .
+########
+2
+That 's the exciting implication of new research out of the University of Washington , where researchers have created a mobile phone prototype that does n't require a battery to operate .
+battery	28	CT-	CT-
+n't	25	neg_cue
+########
+3
+<EOP> .
+########
+4
+The astonishingly efficient prototype requires just 3.5 microwatts of juice , and it employs an innovative approach to avoid the need for a battery cell .
+avoid	18	neg_cue
+need	20	ps_cue
+########
+5
+Instead , it uses ambient power from radio signals and light -- its onboard solar cell is `` roughly the size of a grain of rice '' -- to transmit a signal back to a base station 50 feet away .
+########
+6
+<EOP> .
+########
+7
+The prototype itself is made of simple materials : capacitive touch buttons , a circuit board , and other `` off the shelf '' components .
+########
+8
+More impressive is that the team of scientists were able to create a custom base station to transmit the signal with such a small amount of power .
+########
+9
+<EOP> .
+########
+10
+Using this setup , the researchers were able to successfully make and receive calls LRB via Skype RRB and place callers on hold .
+########
+11
+But the scientists say they want to improve the prototype by adding an e_ink display with video_streaming capabilities and encryption to make the calls more secure .
+########
+12
+<EOP> .
+########
+13
+Vamsi Tall , who coauthored the paper , says the base station technology they developed -- while it 's still an early prototype -- could make it possible for battery_free mobile phones to become ubiquitous .
+could	24	ps_cue
+possible	27	ps_cue
+########
+14
+<EOP> .
+########
+15
+`` You could imagine in the future that all cell towers or Wi_Fi routers could come with our base station technology embedded in it , '' Tall said .
+could	2	ps_cue
+or	11	ps_cue
+could	14	ps_cue
+########
+16
+`` And if every house has a Wi_Fi router in it , you could get battery_free cellphone coverage everywhere . ''
+could	13	ps_cue
+########
+17
+<EOP> .
+########

@@ -1,0 +1,247 @@
+Does Italy seek synergies for economic revival
+0
+Italy seeks synergies for economic revival <EOP> .
+seeks	1	CT+	CT+
+seeks	1	ps_cue
+########
+1
+2017_05_12 07:29 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+<EOP> .
+########
+4
+The Mediterranean country has pledged active promotion and engagement with the ` new Silk Road ' .
+########
+5
+Fu Jing reports from Rome .
+########
+6
+<EOP> .
+########
+7
+Editor 's note : This is the latest in a series of reports focusing on the development of the Belt and Road Initiative , the proposed trade route linking China with the rest of the world .
+proposed	25	ps_cue
+########
+8
+<EOP> .
+########
+9
+Italy was the European terminus of the old Silk Road , and therefore a meeting point for China and Europe .
+########
+10
+<EOP> .
+########
+11
+Now , in seeking synergies with the Belt and Road Initiative , which many Europeans are calling the `` new Silk Road '' , the country is determined to seize the opportunity to revive its economy .
+seeking	3	CT+	CT+
+seeking	3	ps_cue
+########
+12
+<EOP> .
+########
+13
+<EOP> .
+########
+14
+<EOP> .
+########
+15
+Sergio Mattarella , Italy 's president , has pledged that his country will actively promote and develop the initiative .
+will	12	ps_cue
+########
+16
+<EOP> .
+########
+17
+During a six_day visit to China in February , Mattarella said that given Italy 's geopolitical advantages in connecting Asia , Africa and Europe , the two countries can `` write a new chapter in history '' by implementing the initiative .
+can	28	ps_cue
+########
+18
+<EOP> .
+########
+19
+Paolo Gentiloni , Italy 's prime minister , will join about 30 national leaders at the Belt and Road Forum for International Cooperation in Beijing at the weekend .
+will	8	ps_cue
+########
+20
+<EOP> .
+########
+21
+Gentiloni is familiar with China after meetings with Chinese counterparts when he was foreign minister in Matteo Renzi 's cabinet from 2014 until December .
+########
+22
+He was also minister for communications when Romano Prodi served his second term as prime minister from 2006 to 2008 .
+########
+23
+<EOP> .
+########
+24
+Development strategies <EOP> .
+########
+25
+<EOP> .
+########
+26
+Last year , Gentiloni , then foreign minister , agreed with his Chinese counterpart Wang Yi that both sides should promote three major strategies : Exploring the synergies between the Belt and Road Initiative and Italy 's development strategy ; the links between Made in China 2025 and Italy 's Industry 4.0 program ; and the relationship between China 's Internet Plus strategy and Italy 's technological innovation plan .
+Exploring	25	CT+	CT+
+should	19	ps_cue
+plan	68	ps_cue
+########
+27
+<EOP> .
+########
+28
+`` The Italian side earnestly expects to be considered a key cooperative partner by China in jointly building the Belt and Road , and hopes that more Italian businesses will participate in the initiative , '' Gentiloni said , in an official statement .
+expects	5	ps_cue
+considered	8	ps_cue
+hopes	24	ps_cue
+will	29	ps_cue
+########
+29
+<EOP> .
+########
+30
+In November , when President Xi Jinping made a technical stopover on the Italian island of Sardinia en route to South America , he met with Renzi , who promised that Italy will actively participate in the development of the initiative .
+will	32	ps_cue
+########
+31
+<EOP> .
+########
+32
+`` Italy 's leaders have shown a strong desire for cooperation .
+########
+33
+President Mattarella has demonstrated full confidence in the initiative , and Prime Minister Gentiloni has also expressed his strong support on many occasions , '' said Li Ruiyu , China 's ambassador to Italy .
+########
+34
+<EOP> .
+########
+35
+Mutual benefits <EOP> .
+########
+36
+<EOP> .
+########
+37
+Italian businesses have also shown strong interest in exploring the mutual benefits that will accrue from embracing the initiative .
+will	13	ps_cue
+########
+38
+<EOP> .
+########
+39
+`` I have attended many themed promotional activities organized by the Italians to push economic and trade cooperation to a new high , '' Li said .
+########
+40
+<EOP> .
+########
+41
+Trade between China and Italy was $ 43 billion last year , while China has invested more than $ 12 billion in Italy .
+########
+42
+<EOP> .
+########
+43
+`` Chinese companies have participated in some heavyweight projects in Italy , '' he said , adding that China and Italy will soon renew the action plan for cooperation , which expired at the end of last year .
+will	21	ps_cue
+plan	26	ps_cue
+########
+44
+<EOP> .
+########
+45
+Luigi Gambardella , president of ChinaEU , a business_led international association in Brussels , said the two countries can explore third_party cooperation in the fifth_generation era by improving the digital and telecommunications infrastructure along Belt and Road routes .
+can	18	ps_cue
+########
+46
+<EOP> .
+########
+47
+One of the main Chinese investors in Italy is ZTE , the telecommunications giant , which last year won a $ 1 billion contract to upgrade Italy 's telecommunications infrastructure .
+########
+48
+<EOP> .
+########
+49
+Hu Kun , ZTE 's head of operations in Western Europe , said the company will upgrade Italy 's telecommunications infrastructure in preparation for the 5G era : `` When the project is finished , Italy will be the European frontrunner in terms of telecommunications infrastructure . ''
+will	15	ps_cue
+will	36	ps_cue
+########
+50
+<EOP> .
+########
+51
+He added that the project will create about 2,500 new jobs in Italy in the next two and a half years , and ZTE will expand its `` smart city '' business and research facilities in the country .
+will	5	ps_cue
+will	24	ps_cue
+########
+52
+<EOP> .
+########
+53
+John Hooper , correspondent for the Economist magazine in London , is a close observer of the benefits Italy could gain from the dynamics of Asia , especially China 's development .
+could	19	ps_cue
+########
+54
+<EOP> .
+########
+55
+He said Italy is traditionally an exporting country and its economy can easily be influenced by external factors , so economic reform will be needed to further unlock its potential : `` The country needs outside demand to develop its economy , especially from China , '' he said .
+can	11	ps_cue
+will	22	ps_cue
+potential	29	ps_cue
+needs	34	ps_cue
+########
+56
+<EOP> .
+########
+57
+`` However , Italy is still a country dominated by family_owned businesses and small and medium_sized enterprises , which makes it difficult to engage with China 's demands and penetrate the Chinese market , '' he added .
+########
+58
+<EOP> .
+########
+59
+`` What I suggest is letting Italian SMEs form alliances region by region to engage Chinese customers and boost their presence in the huge market . ''
+suggest	3	ps_cue
+########
+60
+<EOP> .
+########
+61
+Wang Keju , Zheng Jinqiang and Zhang Zhaoqing contributed to the story .
+########
+62
+<EOP> .
+########
+63
+Contact the writer at fujing@chinadaily.com.cn <EOP> .
+########
+64
+<EOP> .
+########
+65
+<EOP> .
+########
+66
+<EOP> .
+########
+67
+<EOP> .
+########
+68
+Chinese customers use the Alipay platform to purchase goods at a store in Rome.Photo By Xinhua <EOP> .
+########
+69
+<EOP> .
+########
+70
+<EOP> .
+########
+71
+LRB China Daily 05_12_2017 page6 RRB <EOP> .
+########

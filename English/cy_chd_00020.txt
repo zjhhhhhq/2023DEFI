@@ -1,0 +1,73 @@
+Does UN designate Pakistan 's Malala as youngest Messenger of Peace
+0
+UN designates Pakistan 's Malala as youngest Messenger of Peace <EOP> .
+designates	1	CT+	CT+
+########
+1
+2017_04_11 10:33 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+<EOP> .
+########
+4
+Malala Yousafzai attends a ceremony with United Nations Secretary General Antonio Guterres after being selected a United Nations messenger of peace in New York , NY , April 10 , 2017 .
+selected	14	CT+	CT+
+########
+5
+LRB Photo_Agencies RRB <EOP> .
+########
+6
+In a ceremony held at UN , Guterres said the designation came for Malala 's service to the ideals and objectives of the United Nations and her courageous defense of the rights of all people , including women and girls .
+designation	10	CT+	CT+
+########
+7
+<EOP> .
+########
+8
+Wearing a light pink headscarf , Malala said she was honored to be the Messenger of Peace .
+########
+9
+At the occasion , she once again appealed for equal education opportunities for girls .
+opportunities	11	ps_cue
+########
+10
+<EOP> .
+########
+11
+`` Education is the basic right for every child ; especially for girls , this right should not be neglected , '' she said in a calm but firm voice .
+should	16	ps_cue
+not	17	neg_cue
+########
+12
+<EOP> .
+########
+13
+Born on July 12 , 1997 in Pakistan 's Swat Valley , Yousafzai became an international symbol of the fight for girls ' education after being shot on Oct. 9 , 2012 for opposing Taliban restrictions on female education .
+opposing	33	neg_cue
+########
+14
+<EOP> .
+########
+15
+She survived the attack and became an advocate for the millions of girls denied a formal education worldwide .
+denied	13	neg_cue
+########
+16
+<EOP> .
+########
+17
+In 2013 , Yousafzai and her father , Ziauddin Yousafzai , co_founded Malala Fund to raise awareness to the social and economic impact of girls ' education and to empower girls to demand change .
+raise	15	ps_cue
+########
+18
+<EOP> .
+########
+19
+Yousafzai became the youngest_ever Nobel Peace Prize laureate in 2014 .
+########
+20
+<EOP> .
+########

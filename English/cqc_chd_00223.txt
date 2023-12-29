@@ -1,0 +1,130 @@
+Are there a book outlining the history of Tokyo Trial
+0
+Book details Tokyo Trial , keeping memory of postwar tribunal alive <EOP> .
+Book	0	CT+	CT+
+########
+1
+2017_05_03 07:36 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+<EOP> .
+########
+4
+A book outlining the history of tribunals for accused Japanese war criminals , and its far_reaching impact , made its debut in Shanghai on Tuesday .
+book	1	CT+	CT+
+########
+5
+<EOP> .
+########
+6
+The Tokyo Trial : For World Peace , showcases the latest viewpoints and evidence collected by researchers in China , Japan and the West , said Cheng Zhaoqi , the book 's author and director of Shanghai Jiao Tong University 's Center for the Tokyo Trial Studies .
+########
+7
+<EOP> .
+########
+8
+`` We present the readers with a more substantial and objective legal basis of the whole process , from the establishment of the court and the disputes over jurisdiction to the court trials and the discussion of sentencing and measurement of penalties , '' he said .
+########
+9
+<EOP> .
+########
+10
+<EOP> .
+########
+11
+<EOP> .
+########
+12
+The book will be translated into eight languages , including Japanese .
+book	1	CT+	CT+
+will	2	ps_cue
+########
+13
+<EOP> .
+########
+14
+On May 3 , 1946 , the post_World War II trials , known as the International Military Tribunal for the Far East , began in Tokyo .
+May	1	ps_cue
+########
+15
+The tribunal was active until Nov 12 , 1948 .
+########
+16
+<EOP> .
+########
+17
+As an initiative to implement the Cairo Declaration _ a 1943 statement by China , Britain and the United States setting postwar goals _ the tribunal followed the model of the Nuremberg trials .
+########
+18
+Japanese leaders were tried for conspiracy to start and wage war ; atrocities against humanity ; and planning , authorizing or failing to prevent transgressions by commanders .
+against	13	neg_cue
+planning	17	ps_cue
+or	20	ps_cue
+failing	21	neg_cue
+prevent	23	neg_cue
+########
+19
+<EOP> .
+########
+20
+Officials in Japan have repeatedly tried to overthrow the result of the Tokyo Trial and sometimes call it `` the trial of the victors '' , Cheng said , adding that more books denying the event than respecting it are in Japanese bookstores .
+########
+21
+<EOP> .
+########
+22
+`` Their ultimate purpose is to deny the Tokyo Trial and thus overthrow the international community 's judgment of Japan 's aggression and atrocities .
+deny	6	neg_cue
+########
+23
+Therefore , it is imperative to recognize the achievements of the Tokyo Trial , and China must air a voice of justice , '' Cheng said .
+########
+24
+<EOP> .
+########
+25
+The trials in Tokyo and Nuremberg were not `` trials of the victors '' but of civilization and justice , said Wang Xin , a law professor at Peking University .
+not	7	neg_cue
+########
+26
+<EOP> .
+########
+27
+`` The fundamental purpose of the trials was not revenge or punishment but long_term international peace and stability _ so countries can achieve a real reconciliation , '' he said .
+not	8	neg_cue
+or	10	ps_cue
+can	21	ps_cue
+########
+28
+<EOP> .
+########
+29
+The highly readable book , with pictures and illustrations , is also good for the public , especially younger generations , to learn about history , said Xiang Longwan , son of Xiang Zhejun , who was among the Tokyo Trial prosecutors .
+########
+30
+<EOP> .
+########
+31
+zhouwenting@chinadaily.com.cn <EOP> .
+########
+32
+<EOP> .
+########
+33
+<EOP> .
+########
+34
+<EOP> .
+########
+35
+<EOP> .
+########
+36
+Cheng Zhaoqi , author of The Tokyo Trial : For World Peace and director of Shanghai Jiao Tong University 's Center for the Tokyo Trial Studies , speaks at the premiere of the book at the university on Tuesday.Gao Erqiang _ China Daily <EOP> .
+########
+37
+LRB China Daily 05_03_2017 page4 RRB <EOP> .
+########

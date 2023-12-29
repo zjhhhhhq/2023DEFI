@@ -1,0 +1,116 @@
+Does Japan hold exhibitions
+0
+Historical records of Nanjing Massacre exhibited in Japan <EOP> .
+exhibited	5	CT+	CT+
+########
+1
+2017_07_18 15:12 <EOP> .
+########
+2
+People 's Daily Online <EOP> .
+########
+3
+An exhibition on the Nanjing Massacre opened in Hiroshima , Japan , on July 15 , Nanjing Daily reported .
+exhibition	1	CT+	CT+
+########
+4
+It 's the first such exhibition in the city in 20 years .
+exhibition	5	CT+	CT+
+########
+5
+Fifty displays consisting of more than 200 photos show the various atrocities that Japanese invaders committed in China , especially in Nanjing .
+########
+6
+<EOP> .
+########
+7
+A civil peace delegation from Nanjing brought many of the objects to the exhibition , drawing much attention from Japanese citizens .
+exhibition	13	CT+	CT+
+objects	10	neg_cue
+########
+8
+Many of the objects were open to the public for the first time .
+objects	3	neg_cue
+########
+9
+<EOP> .
+########
+10
+Nine personal letters from Japanese soldier Nakajima Ryozo record many of the miserable details of the invasion 80 years ago .
+########
+11
+<EOP> .
+########
+12
+During the war , all Japanese soldiers ' belongings had to be checked by the military before they could go back home .
+could	18	ps_cue
+########
+13
+A lot of the records had been erased .
+########
+14
+However , Nakajima Ryozo died while fighting and the letters were brought back to Japan by his comrade .
+########
+15
+A Japanese scholar named Kurabashi Masanao got a chance to print copies of the letters .
+########
+16
+In the ninth letter , Nakajima Ryozo mentions that Japanese soldiers killed Chinese people every day and about 30,000 bodies were thrown into the Yangtze River .
+########
+17
+Kurabashi Masanao expressed his view when sorting the letters : `` Nakajima Ryozo is only an ordinary soldier , but he directly witnessed the death of 30,000 Chinese people .
+########
+18
+This tells us a huge number of Chinese people were killed by Japanese soldiers . ''
+########
+19
+<EOP> .
+########
+20
+In 2014 , the Japanese scholar sent copies of the letters to Anti_Japanese War Museum in Nanjing during an exhibition in Nagoya .
+########
+21
+Japanese soldiers recorded their combat gains on flags during the war .
+########
+22
+The museum has a collection of three Japanese flags with war records .
+########
+23
+A banner written by the main Japanese war criminal Hisao Tani recorded the moment when Japanese soldiers ' invaded Nanjing .
+########
+24
+`` The words on the flags and the banner are undeniable evidence of the Nanjing Massacre , '' said Wu Xianbin , curator of the museum .
+########
+25
+<EOP> .
+########
+26
+An investigative report on the massacre issued by the then Nanjing Provisional Senate became a focus of the exhibition .
+########
+27
+After the anti_Japanese victory , the Chinese government conducted a large_scale investigation of Japanese crimes .
+########
+28
+The Nanjing Provisional Senate formed an investigation commission for this specific reason .
+########
+29
+The report contains many survivors ' testimonies .
+########
+30
+<EOP> .
+########
+31
+The exhibition will last till July 23 .
+exhibition	1	CT+	CT+
+will	2	ps_cue
+########
+32
+Kurihara Kimiko , a former Japanese senator , attended the opening of the exhibition .
+########
+33
+She stressed its importance and hoped for more Japanese visitors and more such activities in the future .
+hoped	5	ps_cue
+########
+34
+<EOP> .
+########

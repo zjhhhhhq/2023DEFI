@@ -1,0 +1,147 @@
+Do Indian rape laws apply to married couples
+0
+A man who allegedly drugged and raped his wife has been acquitted after a judge confirmed Indian rape laws do not apply to married couples .
+apply	21	CT-	CT-
+not	20	neg_cue
+########
+1
+<EOP> .
+########
+2
+Feminist campaigners said the judgment highlighted the failure of Indianlaw to protect the majority of women in the country _ those who are married _ from being raped or their right to refuse to have sex with their husbands .
+failure	7	neg_cue
+or	28	ps_cue
+refuse	32	neg_cue
+########
+3
+<EOP> .
+########
+4
+In this latest case , the women , whose identity was not revealed , claimed her marriage was illegal and had been conducted against her will after she had been sedated .
+not	11	neg_cue
+against	23	neg_cue
+will	25	ps_cue
+########
+5
+<EOP> .
+########
+6
+A man , identified only as Vikash , had taken her to a registry office in Ghaziabad , just outside New Delhi , in March last year where he forced her to sign a marriage certificate while she was intoxicated .
+########
+7
+He later raped her and then fled , she alleged .
+########
+8
+<EOP> .
+########
+9
+The accused denied drugging the woman or raping her and said their marriage had been consensual .
+consensual	15	CT-	CT-
+denied	2	neg_cue
+or	6	ps_cue
+########
+10
+She had only alleged rape six months after their marriage when they became involved in a property dispute .
+########
+11
+<EOP> .
+########
+12
+In his judgment , Judge Virender Bhat said there was no evidence Vikash had drugged his wife or forced her to marry him but even if he had forced the complainant to have sex with him , it would not be a crime under Indian law .
+no	10	neg_cue
+or	17	ps_cue
+would	38	ps_cue
+not	39	neg_cue
+########
+13
+<EOP> .
+########
+14
+`` The prosecutrix LRB the wife RRB and the accused LRB Vikash RRB being legally wedded husband and wife , and the prosecutrix being major , the sexual intercourse between the two , even if forcible , is not rape and no culpability can be fastened upon the accused '' , the court ruled .
+not	38	neg_cue
+no	41	neg_cue
+can	43	ps_cue
+########
+15
+<EOP> .
+########
+16
+The ruling was made just over a year after the Indian government strengthened its rape laws and increased sentences amid a public outcry over the gang_rape and murder of a student on a Delhi bus .
+########
+17
+<EOP> .
+########
+18
+The changes were based on the recommendations of the Verma Committee , headed by the late Justice Verma , who also urged the government to criminalise rape within marriage .
+########
+19
+<EOP> .
+########
+20
+`` Under the Indian Penal Code sexual intercourse without consent is prohibited .
+without	8	neg_cue
+prohibited	11	neg_cue
+########
+21
+However , an exception to the offence of rape exists in relation to un_consented sexual intercourse by a husband upon a wife .
+########
+22
+The Committee recommended that the exception to marital rape should be removed .
+recommended	2	ps_cue
+should	9	ps_cue
+########
+23
+Marriage should not be considered as an irrevocable consent to sexual acts , '' the Committee said in its report .
+should	1	ps_cue
+not	2	neg_cue
+considered	4	ps_cue
+########
+24
+<EOP> .
+########
+25
+His recommendation however was rejected amid fears that it would encourage false cases and damage the institution of arranged marriages which are usually based on financial deals between families .
+rejected	4	neg_cue
+would	9	ps_cue
+########
+26
+<EOP> .
+########
+27
+`` Rape within marriage is not illegal in India which says everything about the position of women .
+not	5	neg_cue
+########
+28
+We are donated for marriage rather than enter it as a partner .
+rather	5	neg_cue
+########
+29
+The ownership is with the man and whatever he does after marriage is acceptable '' , said Ranjana Kumari , a women 's rights campaigner who lobbied members of parliament on the issue .
+########
+30
+<EOP> .
+########
+31
+Nilanjana Roy , a leading author and campaigner , said the law as it stands in India offers no protection to women raped by their husbands but can intervene in cases of domestic violence .
+no	18	neg_cue
+can	27	ps_cue
+########
+32
+<EOP> .
+########
+33
+`` Under Indian law , what the judge has said is correct and that is horrifying .
+########
+34
+It 's easier for a woman to file a case for a black eye .
+########
+35
+If a woman is being repeatedly raped in a marriage and he does not use extreme violence , she has no recourse in law , there is nothing she can do '' , she said .
+not	13	neg_cue
+no	20	neg_cue
+nothing	27	neg_cue
+can	29	ps_cue
+########
+36
+<EOP> .
+########

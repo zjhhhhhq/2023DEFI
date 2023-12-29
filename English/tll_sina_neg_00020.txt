@@ -1,0 +1,81 @@
+Did a public elementary school in New York Cityhas give its students homework
+0
+A public elementary school in New York Cityhas stopped giving its students homework .
+giving	9	CT-	CT-
+stopped	8	neg_cue
+########
+1
+<EOP> .
+########
+2
+P.S. 116 Principal Jane Hsu wrote a letter to parents last month detailing the decision , explaining that after more than a year of analyzing studies , the school had concluded that students ' after_school time would be better spent on activities like reading at their own pace and playing rather than working on class assignments .
+would	36	ps_cue
+like	42	ps_cue
+rather	50	neg_cue
+########
+3
+<EOP> .
+########
+4
+Hsu 's letter says that many studies indicate that there is no connection between homework and academic success .
+indicate	7	ps_cue
+no	11	neg_cue
+########
+5
+Indeed , there are some studies that show that the link between homework and success is dubious at the primary school level .
+########
+6
+<EOP> .
+########
+7
+A seminal 1989 study on homework by Harris Cooper , a social psychologist who researches education , found that doing homework led students to perform better in school as they grew older .
+########
+8
+In later grades , students who did homework performed increasingly better than students who did not .
+not	15	neg_cue
+########
+9
+In 2006 , Cooper published a study that analyzed 15 years ' worth of data on the effectiveness of homework .
+########
+10
+He found that homework had a more positive impact on students as they aged , and identified stronger correlations between homework and achievement for students in grades seven through 12 than for students in kindergarten through sixth grade .
+########
+11
+<EOP> .
+########
+12
+A 2012 study from the Indiana University School of Education on 10th_graders found little correlation between time spent on homework and better course grades , although it did find a positive correlation between homework time and standardized test performance .
+little	13	neg_cue
+########
+13
+<EOP> .
+########
+14
+Some parents of P.S. 116 students are not happy with the decision to eliminate homework .
+eliminate	13	CT+	CT-
+not	7	neg_cue
+########
+15
+<EOP> .
+########
+16
+`` I think they should have homework __ some of it is about discipline .
+should	4	ps_cue
+########
+17
+I want LRB my daughter RRB to have fun , but I also want her to be working towards a goal , '' Daniel Tasman , the father of a second_grader at the school , told DNAinfo .
+########
+18
+<EOP> .
+########
+19
+`` You have to do homework in order to gain ; you have to do homework because they may not be able to comprehend everything in school , '' Sharon Blake , a grandmother of a P.S. 116 student , told ABC news .
+may	18	ps_cue
+not	19	neg_cue
+########
+20
+<EOP> .
+########
+21
+Vocabulary <EOP> .
+########

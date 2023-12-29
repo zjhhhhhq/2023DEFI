@@ -1,0 +1,136 @@
+Did Faiz Siddiqui get a second_grade 2:1 degree 
+0
+Unemployed graduate sues Oxford for $ 1.3 m over inadequate teaching <EOP> .
+########
+1
+2017_11_25 07:12 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+<EOP> .
+########
+4
+An unemployed graduate is suing Oxford University because he did not get a first_class degre , which he claims hindered his chances of a lucrative legal career .
+degre	14	CT-	CT-
+not	10	neg_cue
+########
+5
+<EOP> .
+########
+6
+Faiz Siddiqui began his court case at London 's High Court on Tuesday over allegations of `` inadequate '' teaching he received on an Indian special subject , part of his modern history course , which he said resulted him in getting a second_grade 2:1 degree in June 2000 instead of a `` first '' or high 2:1 .
+degree	45	CT+	CT-
+instead	49	neg_cue
+or	55	ps_cue
+########
+7
+<EOP> .
+########
+8
+He claimed that had he received adequate teaching and achieved his higher grade , he would have gone on to become an international commercial lawyer .
+would	15	ps_cue
+########
+9
+<EOP> .
+########
+10
+The 39_year_old blamed staff members being absent on sabbatical leave and is claiming damages of 1 million pounds LRB $ 1.3 million RRB .
+absent	6	neg_cue
+claiming	12	ps_cue
+########
+11
+<EOP> .
+########
+12
+Siddiqui , who studied at Brasenose College , also alleges that a tutor failed to submit medical information about him to examiners .
+failed	13	neg_cue
+########
+13
+<EOP> .
+########
+14
+He claimed that his clinical depression and insomnia had been worsened by his `` inexplicable failure '' .
+failure	15	neg_cue
+########
+15
+<EOP> .
+########
+16
+The London court heard that Siddiqui was a `` driven young man '' as a student , aiming at a postgraduate qualification from an Ivy League university before a career at the tax bar in England or a major US law company .
+or	36	ps_cue
+########
+17
+<EOP> .
+########
+18
+Second rate <EOP> .
+########
+19
+His barrister Roger Mallalieu told Mr Justice Foskett that , `` while a 2:1 degree from Oxford might rightly seem like a tremendous achievement to move , it feels significantly short of Mr Siddiqui 's expectations and was , to him , a huge disappointment '' .
+degree	14	CT+	CT-
+might	17	ps_cue
+seem	19	ps_cue
+like	20	ps_cue
+disappointment	44	neg_cue
+########
+20
+<EOP> .
+########
+21
+Under the UK 's university grading system , a first , or first class , is the highest honors degree achievable .
+degree	19	CT+	CT-
+or	11	ps_cue
+########
+22
+A second_class degree is split into two divisions , the higher of which is the upper second class , commonly known as a 2:1 .
+########
+23
+<EOP> .
+########
+24
+Mallalieu said that Saddiqui 's employment history in legal and tax roles after Oxford was `` frankly poor '' and he is now unemployed .
+########
+25
+`` Mr Siddiqui has been badly let down by Oxford .
+########
+26
+He went there with high , perhaps extraordinarily high , expectations , '' he added .
+perhaps	6	ps_cue
+########
+27
+<EOP> .
+########
+28
+After graduating from Oxford , Siddiqui trained at a major law company , Clifford Chance , according to court filings , but was not kept on at the end of the program .
+not	23	neg_cue
+########
+29
+He worked for three other law firms and then as a tax adviser at the accounting company EY but was dismissed in December 2011 `` essentially for poor performance '' , court papers said .
+########
+30
+<EOP> .
+########
+31
+The university asked last year for his case to be struck out , but a judge ruled that a trial should take place .
+should	20	ps_cue
+########
+32
+<EOP> .
+########
+33
+Oxford University denies negligence and said the case was brought `` massively '' outside the legal time limit .
+denies	2	neg_cue
+limit	17	neg_cue
+########
+34
+<EOP> .
+########
+35
+Julian Milford , representing the institution , told the court that Siddiqui complained about insufficient resources , but had only described the teaching as `` a little bit dull '' .
+little	26	neg_cue
+########
+36
+<EOP> .
+########

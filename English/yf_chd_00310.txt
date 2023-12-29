@@ -1,0 +1,123 @@
+Is there a two_week festival in San Francisco
+0
+Chengdu festival served up in SF <EOP> .
+########
+1
+2017_11_01 11:14 <EOP> .
+########
+2
+China Daily USA <EOP> .
+########
+3
+<EOP> .
+########
+4
+Acclaimed chefs from the Chinese food capital of Chengdu will team up with local restaurants in San Francisco to serve up authentic Sichuan cuisine .
+will	9	ps_cue
+########
+5
+<EOP> .
+########
+6
+A two_week festival celebrating Chengdu arts and cuisine kicked off on Tuesday in San Francisco .
+festival	2	CT+	CT+
+########
+7
+Mayor Edwin Lee and Chengdu Vice_Mayor Liu Xiaoliu will co_host an evening gala on Wednesday at City Hall featuring Sichuan cuisine , special brews , dancing and an opera performance .
+will	8	ps_cue
+########
+8
+<EOP> .
+########
+9
+The festival is the second of its kind between San Francisco and its friendship city of Chengdu , capital of Sichuan province and one of the most celebrated culinary destinations in China .
+festival	1	CT+	CT+
+########
+10
+<EOP> .
+########
+11
+<EOP> .
+########
+12
+<EOP> .
+########
+13
+`` The people of San Francisco and Chengdu share many cultural similarities , including a deep appreciation for great food , '' Lee said at a city hall press conference on Tuesday .
+########
+14
+<EOP> .
+########
+15
+`` We are excited to continue and expand our success from last year in promoting Sichuan cuisine , '' he said .
+########
+16
+`` Food is a universal language that helps bond people from different places together . ''
+helps	7	ps_cue
+########
+17
+<EOP> .
+########
+18
+Liu 's delegation brought a variety of treats to introduce to the foodies of San Francisco , including white and red peppercorn and salted black beans .
+########
+19
+<EOP> .
+########
+20
+As an outreach to future generations of San Francisco , the city of Chengdu sent 300 clay panda statues to the San Francisco Unified School District .
+########
+21
+Students decorated the pandas , and a selection will be featured at Wednesday 's gala .
+will	8	ps_cue
+########
+22
+<EOP> .
+########
+23
+`` Chengdu is a unique city known for pandas and its cuisine and chili peppers , '' Ren Faqiang , Chinese deputy consul general in San Francisco , told the press conference .
+########
+24
+`` Sichuan cuisine is catching on quickly in China and the US as well .
+########
+25
+I hope the food can bring the two star cities closer . ''
+hope	1	ps_cue
+can	4	ps_cue
+########
+26
+<EOP> .
+########
+27
+The opening gala will be followed by Chengdu Days in the Bay Area .
+will	3	ps_cue
+########
+28
+On Thursday , the festival will visit UC Berkeley , showcasing an evening of Sichuan cuisine and entertainment .
+festival	4	CT+	CT+
+will	5	ps_cue
+########
+29
+The Chengdu delegation will also visit various technology companies in Silicon Valley to promote the Sichuan cuisine and culture .
+will	3	ps_cue
+########
+30
+<EOP> .
+########
+31
+In addition , there will be three Chengdu_themed dinners open to the public : MY China in San Francisco , Koi Palace in Milpitas and Chef Chu 's in Los Altos .
+will	4	ps_cue
+########
+32
+Each restaurant will feature a different Chengdu_inspired menu for the evening .
+will	2	ps_cue
+########
+33
+<EOP> .
+########
+34
+liazhu@chinadailyusa.cm <EOP> .
+########
+35
+LRB China Daily USA 11_01_2017 page2 RRB <EOP> .
+########

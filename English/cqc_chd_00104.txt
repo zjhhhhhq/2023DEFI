@@ -1,0 +1,121 @@
+Did China concern about reported killing of kidnapped Chinese in Pakistan
+0
+China ` gravely concerned ' about reported killing of kidnapped Chinese in Pakistan <EOP> .
+concerned	3	PS+	PS+
+########
+1
+2017_06_09 07:23 <EOP> .
+########
+2
+chinadaily.com.cn _ Xinhua <EOP> .
+########
+3
+<EOP> .
+########
+4
+BEIJING _ China on Friday expressed grave concern over the reported killing of two Chinese nationals kidnapped in Pakistan late last month .
+concern	7	CT+	PS+
+concern	7	ps_cue
+########
+5
+<EOP> .
+########
+6
+`` We have taken note of relevant reports and we express our grave concern , '' Foreign Ministry spokeswoman Hua Chunying said in response to the reports .
+concern	13	PS+	PS+
+concern	13	ps_cue
+########
+7
+`` We have been trying to rescue the two kidnapped hostages over the past days . ''
+########
+8
+<EOP> .
+########
+9
+`` The Chinese side is working to learn about and verify relevant information through various channels , including working with Pakistani authorities , '' she said .
+########
+10
+<EOP> .
+########
+11
+`` China is against any act of kidnapping of civilians and opposes terrorism and extreme violence in any form , '' Hua added .
+against	3	neg_cue
+########
+12
+Islamic State has killed two Chinese teachers it kidnapped in Pakistan 's southwestern Baluchistan province last month , the militant group 's Amaq news agency said on Thursday , Reuters reported at midnight on Friday .
+########
+13
+<EOP> .
+########
+14
+The Reuters report quoted a Baluchistan government spokesman as saying that officials were in the process of confirming `` whether the report was true '' .
+whether	19	ps_cue
+########
+15
+<EOP> .
+########
+16
+<EOP> .
+########
+17
+A soldier stands guard near the site where two Chinese language teachers were kidnapped by unidentified gunmen , in Quetta , Pakistan , May 24 , 2017 .
+May	23	ps_cue
+########
+18
+LRB Photo_Agencies RRB <EOP> .
+########
+19
+Two Chinese language teachers , based in the Pakistani township of Jinnah , Quetta city , in the southwestern province of Baluchistan , were captured by gunmen pretending to be police on May 24 , Pakistani newspaper <EOP> .
+May	32	ps_cue
+########
+20
+The Dawn <EOP> .
+########
+21
+, reported two weeks ago .
+########
+22
+<EOP> .
+########
+23
+The report said three Chinese citizens _ two women and a man _ were intercepted by three people in a white car while leaving a language center and forced them into the vehicle at gunpoint .
+########
+24
+One of the women narrowly escaped during the turmoil when the kidnappers fired warning shots into the air to scare passers_by and the other two , a couple , were taken away .
+########
+25
+<EOP> .
+########
+26
+Islamic State , which controls some territory in neighboring Afghanistan , has struggled to establish a presence in Pakistan .
+########
+27
+But it has claimed several major attacks , including one on the deputy chairman of the Senate last month in Baluchistan , in which 25 people were killed .
+########
+28
+<EOP> .
+########
+29
+Earlier on Thursday , Pakistan 's military published details of a three_day raid on an militant hideout in a cave not far from Quetta , saying it had killed 12 `` hardcore terrorists '' from a banned local Islamist group and prevented Islamic State from gaining a `` foothold '' in Baluchistan , said Reuters .
+not	20	neg_cue
+banned	36	neg_cue
+prevented	41	neg_cue
+########
+30
+<EOP> .
+########
+31
+Reuters _ <EOP> .
+########
+32
+The Dawn <EOP> .
+########
+33
+<EOP> .
+########
+34
+A photo grab from Reuters shows its latest report on the incident .
+########
+35
+<EOP> .
+########

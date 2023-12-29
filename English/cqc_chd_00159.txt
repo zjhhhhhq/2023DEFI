@@ -1,0 +1,68 @@
+Did Chinese legislative leader visit Uzbekistan 
+0
+Chinese legislative leader visits Uzbekistan on boosting ties <EOP> .
+visits	3	CT+	CT+
+########
+1
+2017_05_21 07:13 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+TASHKENT __ Wang Chen , vice chairman of the Standing Committee of the National People 's Congress LRB NPC RRB of China , visited Uzbekistan on May 17_20 to promote bilateral ties .
+visited	23	CT+	CT+
+May	26	ps_cue
+########
+4
+<EOP> .
+########
+5
+Invited by Oliy Majlis , the Uzbek parliament , Wang made the tour and held talks with President Shavkat Mirziyoyev and top parliament leaders .
+########
+6
+He also paid tribute to former Uzbek President Islam Karimov at his burial site .
+########
+7
+<EOP> .
+########
+8
+In his meeting with Mirziyoyev , Wang congratulated him on the latter 's just_concluded successful visit to China , and thanked him for attending the Belt and Road Forum for International Cooperation on May 14_15 in Beijing , and for his contribution to the forum .
+meeting	2	CT+	CT+
+May	33	ps_cue
+########
+9
+<EOP> .
+########
+10
+Wang said China_Uzbekistan relations have embarked on a new journey , adding that the common task of both countries is to implement the consensus reached by Chinese President Xi Jinping and Mirziyoyev in their first meeting , and the fruits of the forum .
+########
+11
+<EOP> .
+########
+12
+He said the NPC is ready to enhance exchanges with the Uzbek parliament so as to contribute to the development of bilateral ties .
+ready	5	ps_cue
+########
+13
+<EOP> .
+########
+14
+For his part , Mirziyoyev extended congratulations on the success of the forum held in Beijing , and spoke highly of his first meeting with Xi .
+########
+15
+<EOP> .
+########
+16
+He said the Uzbek side has begun to implement the fruits of the meeting so as to achieve results as early as possible .
+possible	22	ps_cue
+########
+17
+<EOP> .
+########
+18
+He also voiced his support for enhancing exchanges between the two countries ' parliaments .
+########
+19
+<EOP> .
+########

@@ -1,0 +1,124 @@
+Do men help a woman wearing heels 
+0
+Research shows that men are more likely to help a woman wearing heels than one in flats .
+help	8	PS+	PS+
+likely	6	ps_cue
+########
+1
+<EOP> .
+########
+2
+This assistance ranges from taking part in a survey , to chasing after a woman who has dropped a glove .
+########
+3
+<EOP> .
+########
+4
+French researcher Nicholas Guéguen said : ` Women 's shoe heel size exerts a powerful influence on men 's behaviour . '
+########
+5
+<EOP> .
+########
+6
+Professor Guéguen first showed that men were much more likely to agree to fill in a questionnaire when stopped in the street by a woman in heels .
+agree	11	PS+	PS+
+likely	9	ps_cue
+stopped	18	neg_cue
+########
+7
+And the higher the heels , the more willing they were .
+willing	8	ps_cue
+########
+8
+<EOP> .
+########
+9
+When the women doing the survey were in flats , just 25 of the 60 men took part .
+########
+10
+<EOP> .
+########
+11
+A two_inch heel made them more amenable , with 36 out of the 60 that were approached agreeing to answer the woman 's questions .
+########
+12
+<EOP> .
+########
+13
+But when the heels rose to almost four inches , the number of male volunteers rose to 49 out of 60 , or as Professor Guéguen put it : ` Men responded more favourably to the survey request as soon as the length of her heels increased . '
+or	22	ps_cue
+########
+14
+<EOP> .
+########
+15
+Tellingly , heel height had no effect on women 's odds of agreeing to do the survey .
+no	5	neg_cue
+########
+16
+<EOP> .
+########
+17
+In another experiment , men were almost twice as likely to return a glove to a woman if she was in high heels .
+likely	9	ps_cue
+########
+18
+<EOP> .
+########
+19
+Some 56 out of 60 men stopped or chased down a female who dropped a glove while walking ahead of them in four_inch heels .
+stopped	6	neg_cue
+or	7	ps_cue
+########
+20
+<EOP> .
+########
+21
+The professor , from the University of South Brittany , said that men may see offering help as a non_threatening way of making contact with an attractive female .
+may	13	ps_cue
+########
+22
+<EOP> .
+########
+23
+His final experiment involved watching how long it took men standing drinking in a bar to approach a woman sitting alone at a nearby table .
+########
+24
+<EOP> .
+########
+25
+A woman in high heels was chatted up almost twice as quickly as one in sensible shoes , the journal Archives of Sexual Behavior reports .
+########
+26
+<EOP> .
+########
+27
+Professor Guéguen is n't sure why heels make a woman more attractive but he says that it may be by that changes in gait and posture make her seem more feminine .
+n't	3	neg_cue
+may	17	ps_cue
+seem	28	ps_cue
+########
+28
+<EOP> .
+########
+29
+However , a previous British study found that a man ca n't tell from a woman 's walk whether she is wearing heels .
+n't	11	neg_cue
+whether	18	ps_cue
+########
+30
+<EOP> .
+########
+31
+In any case , the women in the bar were sitting down .
+########
+32
+<EOP> .
+########
+33
+Another possibility is that that the use of high heels in sexy films and adverts has led to men near_automatically associating them with desirability .
+possibility	1	ps_cue
+########
+34
+<EOP> .
+########

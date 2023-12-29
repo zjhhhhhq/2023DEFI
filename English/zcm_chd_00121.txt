@@ -1,0 +1,127 @@
+Will US President Donald Trump improve relations with Moscow 
+0
+Trump signs Russia sanctions bill into law _ White House <EOP> .
+########
+1
+2017_08_03 00:08 <EOP> .
+########
+2
+null <EOP> .
+########
+3
+WASHINGTON _ US President Donald Trump has signed into law new sanctions against Russia that were passed overwhelmingly by Congress last week and that run counter to his desire to improve relations with Moscow .
+improve	30	CT+	CT+
+against	12	neg_cue
+########
+4
+<EOP> .
+########
+5
+A White House official said on Wednesday he had signed the bill , and White House adviser Kellyanne Conway confirmed this during an interview with Fox News .
+########
+6
+<EOP> .
+########
+7
+Given the delay since Congress approved the legislation last Thursday , there had been speculation that the Republican president might be resisting signing a bill that has already provoked countermeasures by Russian President Vladimir Putin .
+speculation	14	ps_cue
+might	19	ps_cue
+########
+8
+<EOP> .
+########
+9
+Congress , controlled by Republicans , approved the sanctions to punish the Russian government over interference in the 2016 presidential election , annexation of Ukraine 's Crimea and other perceived violations of international norms .
+########
+10
+<EOP> .
+########
+11
+Trump , who has long said he would like better relations with Russia , grudgingly accepted the new sanctions , which also include Iran and DPRK .
+better	9	CT+	CT+
+would	7	ps_cue
+like	8	ps_cue
+########
+12
+The bill had enough support in Congress to override a presidential veto .
+########
+13
+<EOP> .
+########
+14
+There were conflicting signals from the administration in recent days about the sanctions .
+########
+15
+US Secretary of State Rex Tillerson told reporters on Tuesday that he and Trump did not believe they would `` be helpful to our efforts '' on diplomacy with Russia .
+not	15	neg_cue
+would	18	ps_cue
+########
+16
+Vice_President Mike Pence said that the bill showed Trump and Congress were speaking `` with a unified voice . ''
+########
+17
+<EOP> .
+########
+18
+The new sanctions measure , the first major foreign policy legislation approved by Congress since Trump took office in January , includes a provision allowing Congress to stop any effort by the president to ease existing sanctions on Russia .
+stop	27	neg_cue
+########
+19
+<EOP> .
+########
+20
+The legislation will affect a range of Russian industries and might further hurt the Russian economy , already weakened by 2014 sanctions imposed after Russia annexed Crime from Ukraine .
+will	2	ps_cue
+might	10	ps_cue
+########
+21
+<EOP> .
+########
+22
+After Congress approved the sanctions last week , the Kremlin ordered the United States to cut about 60 percent of its diplomatic staff in Russia .
+########
+23
+<EOP> .
+########
+24
+Putin said on Sunday that Russia had ordered the United States to cut 755 of its 1,200 embassy and consulate staff by September , and was seizing two diplomatic properties .
+########
+25
+<EOP> .
+########
+26
+Several provisions of the new sanctions target the Russian energy sector , with new limits on US investment in Russian companies .
+########
+27
+American companies also would be barred from participating in energy exploration projects where Russian firms have a stake of 33 percent or higher .
+would	3	ps_cue
+or	21	ps_cue
+########
+28
+<EOP> .
+########
+29
+The bill includes sanctions on foreign companies investing in or helping Russian energy exploration , although the president could waive those sanctions .
+or	9	ps_cue
+could	18	ps_cue
+########
+30
+<EOP> .
+########
+31
+The bill would give the Trump administration the option of imposing sanctions on companies helping develop Russian export pipelines , such as the Nord Stream 2 pipeline carrying natural gas to Europe , in which German companies are involved .
+would	2	ps_cue
+########
+32
+<EOP> .
+########
+33
+Besides angering Moscow , the legislation has upset the European Union , which has said the new sanctions might affect its energy security and prompt it to act , too .
+might	18	ps_cue
+########
+34
+<EOP> .
+########
+35
+Reuters <EOP> .
+########

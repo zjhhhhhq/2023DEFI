@@ -1,0 +1,115 @@
+Does US quit talks on global migration pact 
+0
+US quits talks on global migration pact <EOP> .
+talks	2	CT-	CT-
+########
+1
+2017_12_05 08:01 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+<EOP> .
+########
+4
+UNITED NATIONS _ The United States has quit negotiations on a voluntary pact to deal with migration because the global approach to the issue was `` simply not compatible with US sovereignty , '' said US Ambassador to the United Nations Nikki Haley .
+negotiations	8	CT-	CT-
+quit	7	neg_cue
+not	27	neg_cue
+########
+5
+<EOP> .
+########
+6
+In a statement on Saturday , the US mission to the UN said that President Donald Trump made the decision .
+########
+7
+<EOP> .
+########
+8
+`` No country has done more than the United States , and our generosity will continue , '' said Haley , whose parents are immigrants from India .
+No	1	neg_cue
+will	14	ps_cue
+########
+9
+<EOP> .
+########
+10
+`` But our decisions on immigration policies must always be made by Americans and Americans alone .
+########
+11
+We will decide how best to control our borders and who will be allowed to enter our country . ''
+will	1	ps_cue
+will	11	ps_cue
+########
+12
+<EOP> .
+########
+13
+Trump campaigned last year on a promise to deport large numbers of immigrants and build a wall on the US border with Mexico to help tackle illegal immigration and crime in the US .
+########
+14
+Since he took office in January , he has also moved to ban US entry by people from select Muslim countries .
+ban	12	neg_cue
+########
+15
+<EOP> .
+########
+16
+With a record 21.3 million refugees globally , the 193_member UN General Assembly adopted a political declaration in September last year in which they also agreed to spend two years negotiating the pact on safe , orderly and regular migration .
+########
+17
+<EOP> .
+########
+18
+Former US president Barack Obama 's administration backed the resolution , known as the New York Declaration , which also asked UN High Commissioner for Refugees Filippo Grandi to propose a global compact on refugees for adoption next year .
+########
+19
+<EOP> .
+########
+20
+UN chief Antonio Guterres regretted the US decision , his spokesman said on Sunday .
+########
+21
+<EOP> .
+########
+22
+`` The positive story of migration is clear : It needs to be better told .
+needs	10	ps_cue
+########
+23
+Equally , the challenges it throws up need to be tackled with more determination and greater international coordination , '' UN spokesman Farhan Haq said .
+need	7	ps_cue
+########
+24
+<EOP> .
+########
+25
+Three days of preparatory talks begin in Mexico on Monday ahead of the start of formal negotiations in February over the nonbinding pact .
+negotiations	16	CT+	CT-
+########
+26
+<EOP> .
+########
+27
+Haley 's predecessor Samantha Power mocked the US move .
+########
+28
+<EOP> .
+########
+29
+`` How to further insult your Mexican neighbor , turn your back on humanity 's most desperate , and make America irrelevant on a hugely destabilizing global crisis in one easy step , '' she said on Twitter .
+########
+30
+<EOP> .
+########
+31
+Reuters <EOP> .
+########
+32
+<EOP> .
+########
+33
+LRB China Daily 12_05_2017 page12 RRB <EOP> .
+########

@@ -1,0 +1,136 @@
+Do China and Canada issue joint statement on climate change
+0
+China , Canada agree to issue joint statement on climate change <EOP> .
+change	10	CT+	CT+
+########
+1
+2017_12_05 08:57 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+BEIJING __ China and Canada Monday agreed to issue a joint statement on climate change and clean growth during the second meeting of the Annual Dialogue between the Chinese premier and the Canadian prime minister .
+change	14	CT+	CT+
+########
+4
+<EOP> .
+########
+5
+The two sides also agreed to establish two ministerial_level dialogues between their respective departments of environment and clean energy .
+########
+6
+<EOP> .
+########
+7
+During the talks with visiting Canadian Prime Minister Justin Trudeau , Chinese Premier Li Keqiang affirmed the positive roles of the annual dialogue between prime ministers , the annual meeting of foreign ministers , economic and financial strategic dialogue , as well as the national security and rule of law dialogue .
+########
+8
+<EOP> .
+########
+9
+He called on the two countries to expand common interests on the basis of mutual respect , equality and mutual benefit .
+########
+10
+<EOP> .
+########
+11
+Li suggested the two sides expand two_way investment , encourage enterprises of the two countries to invest in each other and jointly explore third_party markets .
+suggested	1	ps_cue
+########
+12
+<EOP> .
+########
+13
+He called on the two sides to tap cooperation potential in areas such as clean technology , aviation and aerospace , civilian nuclear energy and agricultural science .
+potential	9	ps_cue
+########
+14
+<EOP> .
+########
+15
+Li said the two sides should promote cultural exchanges and successfully run the China_Canada `` Year of Tourism '' next year .
+should	5	ps_cue
+########
+16
+<EOP> .
+########
+17
+He said he hoped the two countries could strengthen communication and coordination in international and regional affairs and join hands in coping with global challenges including climate change .
+change	27	PS+	CT+
+could	7	ps_cue
+hoped	3	ps_cue
+########
+18
+<EOP> .
+########
+19
+`` China and Canada , both as important countries in the Asia_Pacific region and major trading countries in the world , should send positive signals on promoting trade and investment liberalization and facilitation , which is also in the common interests of both sides , '' Li said .
+should	21	ps_cue
+########
+20
+`` China will open its door even wider to the outside world , '' he said , promising that `` China 's business environment will get better and better , and China will continue to be a hot destination for international investments . ''
+will	2	ps_cue
+will	24	ps_cue
+will	32	ps_cue
+########
+21
+<EOP> .
+########
+22
+Trudeau said he appreciated the achievements of China 's economic development and China 's role in international affairs .
+########
+23
+<EOP> .
+########
+24
+He said Canada was willing to work with China to maintain high_level exchanges , enhance economic and trade cooperation , expand people_to_people exchanges and promote friendship in the spirit of mutual benefit .
+willing	4	ps_cue
+########
+25
+<EOP> .
+########
+26
+`` Canada supports free trade and has actively participated in the globalization process , '' Trudeau said .
+########
+27
+`` Canada will strengthen communication and coordination with China to jointly advance globalization and free trade to make a contribution to the sustainable development of the world . ''
+will	2	ps_cue
+########
+28
+<EOP> .
+########
+29
+After their talks , the two leaders witnessed the signing of three cooperative documents on education , food safety and energy .
+########
+30
+<EOP> .
+########
+31
+Li told the press that both sides had agreed to discuss the feasibility of a China_Canada free trade agreement with a pragmatic and open attitude .
+########
+32
+<EOP> .
+########
+33
+Trudeau called for more closer cooperation in dealing with global challenges such as climate change .
+change	14	CT+	CT+
+########
+34
+<EOP> .
+########
+35
+He said Canada was ready to work with China to `` push forward cooperation in tourism , education , culture and people_to_people exchanges , in a bid to promote common prosperity and build long_term , stable and dynamic Canada_China ties . ''
+ready	4	ps_cue
+forward	12	ps_cue
+forward	12	neg_cue
+########
+36
+<EOP> .
+########
+37
+Before their talks , Li held a welcome ceremony for Trudeau at the Great Hall of the People in central Beijing .
+########
+38
+<EOP> .
+########

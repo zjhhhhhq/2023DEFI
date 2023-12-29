@@ -1,0 +1,146 @@
+Does Clinton have a history with attractive men
+0
+Former Secretary of State Hillary Clinton made a very awkward joke on Wednesday about her inability to turn down ` charismatic , attractive ' men .
+men	24	CT-	CT-
+inability	15	neg_cue
+########
+1
+<EOP> .
+########
+2
+During an on_stage interview at the Economic Club of Chicago , Clinton revealed that she rejected President Barack Obama 's offer to join his cabinet twice before saying yes .
+rejected	15	neg_cue
+########
+3
+<EOP> .
+########
+4
+Noting that she also refused former president Bill Clinton 's hand in marriage twice before she accepted his proposal , the presumed 2016 presidential candidate said : ' I have a history with charismatic , attractive men .
+men	36	CT+	CT-
+refused	4	neg_cue
+########
+5
+They just wear me out . '
+########
+6
+<EOP> .
+########
+7
+According to the Washington Post , Clinton confessed her weakness for handsome men while in conversation with venture capitalist J.B. Pritzker , who served as national co_chairman of Clinton 's 2008 presidential campaign .
+men	12	CT-	CT-
+weakness	9	neg_cue
+########
+8
+<EOP> .
+########
+9
+Clinton was Illinois on Wednesday to participate in the event and campaign for Illinois Gov. Pat Quinn .
+########
+10
+<EOP> .
+########
+11
+The former first lady reportedly made an appearance at a private fundraiser for Quinn at a law firm while she was in town .
+########
+12
+She also accompanied him to a campaign stop at DePaul University before speaking to the Economic Club .
+stop	7	neg_cue
+########
+13
+<EOP> .
+########
+14
+Quinn is seeking reelection this November and is in danger of losing to Republican challenger Bruce Rauner .
+seeking	2	ps_cue
+########
+15
+<EOP> .
+########
+16
+Today Clinton is in Philadelphia where she is scheduled to headline a rally for Pennsylvania gubernatorial candidate Tom Wolf .
+scheduled	8	ps_cue
+########
+17
+<EOP> .
+########
+18
+Wolf is hoping to oust the state 's Republican governor , Tom Corbett , in next month 's statewide election .
+hoping	2	ps_cue
+########
+19
+<EOP> .
+########
+20
+During her dialogue with Prtizker on Wednesday night in Chicago , Clinton shifted gears to federal politics and railed on Republicans for shutting the government down last fall .
+########
+21
+The move forced her then_boss , President Obama , to cancel a previously planned trip to the Asia_Pacific Economic Cooperation summit in Bali , Indonesia , much to her chagrin .
+planned	13	ps_cue
+########
+22
+<EOP> . '
+########
+23
+I do n't care what party you are , Democrats never did that to George W. Bush despite our deep differences with President Bush on taxes , on Iraq , on so many other things , Clinton said , according to CNN .
+n't	2	neg_cue
+never	10	neg_cue
+########
+24
+<EOP> .
+########
+25
+` We never did it , ' the former New York Senator told the audience .
+never	2	neg_cue
+########
+26
+<EOP> .
+########
+27
+Clinton went on to speculate whether members of Congress whom she believes are more interested in partisan politics than governing ` really understand the world ' and ` understand what it means for the United States to lead and to be perceived as a leader . '
+speculate	4	ps_cue
+whether	5	ps_cue
+########
+28
+<EOP> .
+########
+29
+` Or do they just not care ? '
+not	5	neg_cue
+########
+30
+Clinton asked .
+########
+31
+` Do they just have a whole other agenda that enables them to say whatever they want to say and spout whatever rhetoric they want to spout ? '
+########
+32
+<EOP> .
+########
+33
+The former Democratic lawmaker said members of Congress from both parties are guilty of putting politics before problem solving but placed more of the blame on politicians ` on the other side of the aisle . '
+########
+34
+<EOP> .
+########
+35
+Clinton also said she finds it ` deeply distressing ' that the refusal to compromise is now worn by federal lawmakers as a badge of honor .
+refusal	12	neg_cue
+########
+36
+<EOP> .
+########
+37
+` That is why it is imperative that you have people in business and other positions of responsibility basically say ... `` Get out there and do your job .
+########
+38
+Stay off the talk shows .
+########
+39
+Get back to the Congress .
+########
+40
+Legislate and solve America 's problems , '' ' she asserted .
+########
+41
+<EOP> .
+########

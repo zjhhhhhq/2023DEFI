@@ -1,0 +1,113 @@
+Is a new dinosaur species uncovered by scientists
+0
+Odd duck : Scientists marvel at diverse dino <EOP> .
+########
+1
+2017_12_09 07:44 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+WASHINGTON _ With a bill like a duck but teeth like a croc 's , a swanlike neck and killer claws , a new dinosaur species uncovered by scientists looks like something Doctor Hans Seuss could have dreamed up .
+species	25	CT+	CT+
+like	5	ps_cue
+like	10	ps_cue
+like	30	ps_cue
+could	35	ps_cue
+########
+4
+<EOP> .
+########
+5
+It also had flippers like a penguin , and while it walked like an ostrich it could also swim .
+like	4	ps_cue
+like	12	ps_cue
+could	16	ps_cue
+########
+6
+That 's the first time swimming ability has been shown for a two_legged , meat_eating dinosaur .
+########
+7
+<EOP> .
+########
+8
+The creature , only about 45 centimeters tall , roamed 75 million years ago in what is now Mongolia .
+creature	1	CT+	CT+
+########
+9
+Its full curled_up skeleton was found in a sandstone rock .
+########
+10
+<EOP> .
+########
+11
+`` It 's such a peculiar animal , '' said Dennis Voeten , a paleontology researcher at Palacky University in the Czech Republic .
+########
+12
+`` It combines different parts we knew from other groups into this one small animal . ''
+########
+13
+<EOP> .
+########
+14
+In a study released on Wednesday by the journal Nature , Voeten and co_authors named it Halszkaraptor escuilliei or `` Halszka '' after the late Polish paleontologist Halszka Osmolska .
+or	18	ps_cue
+########
+15
+<EOP> .
+########
+16
+Paleontologist Kristi Curry Rogers of Macalester College in St. Paul , Minnesota , who did n't participate in the study , called it `` a pretty crazy chimera : a swan neck and dinosaur body , but with a mouthful of tiny teeth and hands and feet that look like they might be good for swimming '' .
+n't	15	neg_cue
+like	49	ps_cue
+might	51	ps_cue
+########
+17
+<EOP> .
+########
+18
+Its mashup body let it run and hunt on the ground and fish in fresh water , said study co_author Paul Tafforeau .
+########
+19
+He 's a paleontologist at the ESRF , known as the European Synchrotrona , a powerful X_ray generator , in Grenoble , France , where numerous tests were made on the fossil .
+########
+20
+<EOP> .
+########
+21
+Lead author Andrea Cau , a paleontologist at the Geological Museum Capellini in Bologna , Italy , said he was at first highly suspicious about the fossil 's authenticity , both because of its appearance and the fact that the rock containing the skeleton had been smuggled out of Mongolia and left in a private collector 's hands .
+suspicious	23	ps_cue
+########
+22
+<EOP> .
+########
+23
+So researchers used the Synchrotron to create three_dimensional images of the fossil , which showed the creature was indeed a single animal and not a concoction built up from several sources .
+creature	16	CT+	CT+
+not	23	neg_cue
+########
+24
+For example , an arm hidden in the rock perfectly matched the visible left arm .
+########
+25
+<EOP> .
+########
+26
+Even though the creature was n't dreamed up by Doctor Seuss , it got a blessing from a Doctor Sues .
+creature	3	CT+	CT+
+n't	5	neg_cue
+########
+27
+<EOP> .
+########
+28
+Hans Sues , a paleontologist at the Smithsonian Institution who was n't part of the research , praised the work and said it `` shows again how amazingly diverse dinosaurs were '' .
+n't	11	neg_cue
+########
+29
+<EOP> .
+########
+30
+Ap _ Afp <EOP> .
+########

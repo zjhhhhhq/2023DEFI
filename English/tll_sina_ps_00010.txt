@@ -1,0 +1,71 @@
+Were guide dogs allowed on subway trains by Beijing authorities
+0
+Zi Long guides Wu Wenhao out of the metro train in Beijing , May 1 , 2015 .
+May	13	ps_cue
+########
+1
+Wu Wenhao , a visually impaired woman , accompanied by her guide dog Zi Long and her boyfriend , took subway line 15 from home to a supermarket after guide dogs were allowed on subway trains by Beijing authorities .
+allowed	32	CT+	CT+
+########
+2
+<EOP> .
+########
+3
+Beijing on Friday started allowing visually impaired passengers to take guide dogs onto the subway , while blind rights advocates continue to urge greater accessibility for the dogs in the city 's public transportation system .
+allowing	4	CT+	CT+
+########
+4
+<EOP> .
+########
+5
+The widely praised change was the result of a subway management regulation approved by the Chinese capital last year , which took effect on Friday .
+########
+6
+The regulation also bans begging , performing and handing out fliers and threatens violators with fines .
+bans	3	neg_cue
+########
+7
+<EOP> .
+########
+8
+Chen Yan , a blind piano tuner and campaigner , got some curious stares from other passengers as she entered the Tiantongyuan station on Line 5 with her guide dog Jenny on Friday .
+########
+9
+<EOP> .
+########
+10
+With the help of subway employees , Chen and her dog entered a carriage designed for disabled passengers and later transferred to Line 2 to arrive at Beijing Railway Station .
+########
+11
+<EOP> .
+########
+12
+Guide dogs are a rare sight in China .
+rare	4	ps_cue
+########
+13
+Only about 70 guide dogs are in service in the country , which is home to 16.9 million visually impaired people , and the animals are often denied entry to public transportation .
+denied	27	neg_cue
+########
+14
+<EOP> .
+########
+15
+Chen said the city still lacks regulations on bus travel for guide dogs and it is common for them to be turned down by taxi drivers .
+lacks	5	neg_cue
+########
+16
+<EOP> .
+########
+17
+Crowdedness on the trains , especially during the morning and evening rush hours , poses another challenge for blind passengers who want to ride the subway with their guide dogs , said a blind translator and campaigner using the nickname `` Candie 's Mom . ''
+########
+18
+<EOP> .
+########
+19
+Shanghai and Chengdu have passed similar regulations to allow guide dogs on the subway .
+########
+20
+<EOP> .
+########

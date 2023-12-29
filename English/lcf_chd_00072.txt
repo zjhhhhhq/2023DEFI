@@ -1,0 +1,105 @@
+Do Golden Week shoppers provide a boost for UK retailers
+0
+Golden Week shoppers provide a boost for UK retailers <EOP> .
+########
+1
+2017_10_13 00:05 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+British retailers have reported a boost in sales as Chinese shoppers hit the stores during the Golden Week national holiday .
+boost	5	CT+	CT+
+########
+4
+<EOP> .
+########
+5
+Data released on Thursday by financial services company Premier Tax Free revealed that Chinese shoppers spent 10 percent more in British shops this year than they did during last year 's Golden Week .
+more	18	CT+	CT+
+########
+6
+<EOP> .
+########
+7
+This year 's week_long national vacation began on Oct 1 , giving holidaymakers the weekend to travel further afield .
+########
+8
+<EOP> .
+########
+9
+`` While early signs of another record_breaking Golden Week for UK retail are welcomed , the growing opportunity presented by this market is something that retailers should be mindful of all_year_round , '' said Premier Chief Executive Patrick Waldron .
+should	26	ps_cue
+########
+10
+<EOP> .
+########
+11
+The extended Golden Week , coupled with favorable exchange rates in the United Kingdom , made a long_haul trip to Britain a more attractive proposition for many Chinese holidaymakers .
+########
+12
+<EOP> .
+########
+13
+ForwardKeys , the flight data analyst , said bookings from China to the UK between September and November are up 10 percent on last year .
+up	19	CT+	CT+
+########
+14
+<EOP> .
+########
+15
+Tax_free sales to Chinese shoppers in the UK have increased by 30 percent , so far , this year on the same period in 2016 , according to Premier , which uses records of tax refunds claimed by outbound tourists at airports , as well as transaction information gathered at point of sale from some retailers , to compile its data .
+increased	9	CT+	CT+
+########
+16
+<EOP> .
+########
+17
+The research suggests around 60 percent of Chinese tourists arriving in the UK for Golden Week shopped in London , while a fifth of shoppers targeted the Bicester Village designer outlet in Oxfordshire .
+suggests	2	ps_cue
+########
+18
+<EOP> .
+########
+19
+Regent Street was the most popular destination in central London with Chinese shoppers , followed by Bond Street and Oxford Street .
+########
+20
+<EOP> .
+########
+21
+Elsewhere , Manchester , Glasgow , Birmingham and Scotland 's Edinburgh all saw strong sales .
+########
+22
+<EOP> .
+########
+23
+Premier 's Waldron said hiring Mandarin speaking staff and offering popular Chinese mobile payment options such as Union Pay , Alipay and WeChat Pay can increase sales at British stores .
+can	24	ps_cue
+########
+24
+<EOP> .
+########
+25
+`` If UK retailers proactively build their marketing plans around this valuable audience , they will be well_placed to leverage known peaks , like Chinese New Year Golden Week , and ultimately increase revenue and margins from this important segment of the market , '' he said .
+plans	8	ps_cue
+will	15	ps_cue
+like	23	ps_cue
+########
+26
+<EOP> .
+########
+27
+Payments made in European stores using Chinese mobile payment platform Alipay increased six_fold over Golden Week , according to the tech company .
+increased	11	CT+	CT+
+########
+28
+<EOP> .
+########
+29
+The UK accounted for 23 percent of Alipay transaction volumes in Europe , the second_highest in the region behind Germany which registered 40 percent .
+########
+30
+<EOP> .
+########

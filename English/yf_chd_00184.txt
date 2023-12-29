@@ -1,0 +1,109 @@
+Does US recognition of Jerusalem as Israeli capital stir sentiments of Islamic world
+0
+US recognition of Jerusalem as Israeli capital stirs sentiments of Islamic world <EOP> .
+stirs	7	CT+	CT+
+########
+1
+2017_12_07 13:50 <EOP> .
+########
+2
+Xinhua_chinadialy .
+########
+3
+com.cn <EOP> .
+########
+4
+The US President Donald Trump 's declaration on Wednesday to recognize Jerusalem as Israel 's capital drew strong condemnation from the Arab states and the Islamic world , despite Israel hailing the move as `` courageous and just decision . ''
+drew	16	CT+	CT+
+########
+5
+<EOP> .
+########
+6
+Defying all warnings , Trump announced his official recognition and instructed the State Department to begin the process of moving the US embassy from Tel Aviv to Jerusalem .
+########
+7
+<EOP> .
+########
+8
+`` I am determined that it is time to officially recognize Jerusalem as the capital of Israel , '' said Trump , adding he judged `` this cause of action to be in the best interests of the United States of America and the pursuit of peace between Israel and the Palestinians . ''
+########
+9
+<EOP> .
+########
+10
+Shortly after Trump 's announcement , international community voiced condemnation against the US move .
+voiced	8	CT+	CT+
+against	10	neg_cue
+########
+11
+<EOP> .
+########
+12
+China <EOP> .
+########
+13
+China said on Wednesday that the status of Jerusalem is sensitive and complicated , and urged all parties concerned to `` exercise caution '' for peace and tranquility in the Middle East .
+########
+14
+<EOP> .
+########
+15
+Foreign Ministry spokesperson Geng Shuang made the remarks when asked to comment on US intention to recognize Jerusalem as Israel 's capital .
+########
+16
+<EOP> .
+########
+17
+He said all parties concerned should exercise caution and avoid rocking the basis for the settlement of the Palestinian issue , which may trigger new regional confrontation .
+should	5	ps_cue
+avoid	9	neg_cue
+may	22	ps_cue
+########
+18
+<EOP> .
+########
+19
+China firmly supports the Middle East peace process and the just cause of the Palestinian people to restore their legitimate rights and interests , said Geng .
+########
+20
+<EOP> .
+########
+21
+He said China supports the establishment of a Palestinian state with full sovereignty and independence on the basis of the 1967 borders with East Jerusalem as its capital .
+########
+22
+<EOP> .
+########
+23
+Palestine <EOP> .
+########
+24
+Palestinian President Mahmoud Abbas condemned and rejected the US decision in a speech aired live on the official Palestinian Television , saying the declaration will not give any legitimacy to Israel in this matter .
+condemned	4	neg_cue
+rejected	6	neg_cue
+will	24	ps_cue
+not	25	neg_cue
+########
+25
+<EOP> .
+########
+26
+He said the United States is ignoring and contradicting `` the international consensus expressed by the positions of various countries of the world . ''
+########
+27
+<EOP> .
+########
+28
+Abbas clearly stated that the declaration represents a withdrawal of US role in sponsoring the peace process , adding that the move encourages Israel `` to pursue the policy of occupation , settlement and ethnic cleansing . ''
+########
+29
+<EOP> .
+########
+30
+Meanwhile , mass rallies , demonstrations and protests took place in most of the Gaza Strip area , rejecting the US decision .
+took	8	CT+	CT+
+########
+31
+<EOP> .
+########

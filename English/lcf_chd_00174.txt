@@ -1,0 +1,71 @@
+Can women become candidates for Russian 2018 presidential election
+0
+Female candidates named as possible candidates for Russian presidency <EOP> .
+candidates	5	PS+	PS+
+possible	4	ps_cue
+########
+1
+2017_09_06 19:07 <EOP> .
+########
+2
+sputniknews <EOP> .
+########
+3
+Several women may become candidates for Russian 2018 presidential election , local media reported Friday , citing sources in administration of Russian President Vladimir Putin .
+candidates	4	PS+	PS+
+may	2	ps_cue
+########
+4
+<EOP> .
+########
+5
+One of the sources told the Vedomosti newspaper that overall 5_7 women candidates could run for presidency , with three of them from the Just Russia party .
+could	13	ps_cue
+########
+6
+<EOP> .
+########
+7
+Another source close to the administration told the newspaper that a non_partisan candidate is being also a considered .
+considered	17	ps_cue
+########
+8
+An ideal candidate could be the daughter of late First Mayor of St. Petersburg Anatoly Sobchak , Ksenia Sobchak , who is known in the country as a TV host , but the question is whether she would agree , the source noted .
+could	3	ps_cue
+question	33	ps_cue
+whether	35	ps_cue
+would	37	ps_cue
+########
+9
+<EOP> .
+########
+10
+Women ran for presidency in Russia two times .
+########
+11
+In 2000 , current chairwoman of Russia 's Central Election Commission LRB CEC RRB Ella Pamfilova gained 1.01 percent of votes .
+########
+12
+In 2004 , Irina Khakamada , the Russian politician , gained 3.84 percent of votes .
+########
+13
+<EOP> .
+########
+14
+Russian presidential election is scheduled to take place in March 2018 .
+scheduled	4	ps_cue
+########
+15
+The Kremlin has not provided any comments yet whether Putin would run for another presidential term .
+not	3	neg_cue
+yet	7	neg_cue
+whether	8	ps_cue
+would	10	ps_cue
+########
+16
+The latest polls of the Public Opinion Foundation research agency showed that 65 percent of Russian citizens would vote for Putin .
+would	17	ps_cue
+########
+17
+<EOP> .
+########

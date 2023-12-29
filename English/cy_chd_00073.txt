@@ -1,0 +1,39 @@
+Does ROK offer high_level dialogue with DPRK 
+0
+ROK offers high_level dialogue with DPRK on Jan 9 <EOP> .
+dialogue	3	CT+	CT+
+########
+1
+2018_01_02 13:33 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+SEOUL _ South Korea on Tuesday offered to hold a high_level dialogue with the Democratic People 's Republic of Korea LRB DPRK RRB on January 9 in the truce village of Panmunjom .
+dialogue	11	CT+	CT+
+########
+4
+<EOP> .
+########
+5
+`` The government proposes LRB to the DPRK RRB holding a senior_level inter_governmental dialogue of the South and the North LRB Koreas RRB on Jan 9 at Peace House in Panmunjom , '' South Korean Unification Minister Cho Myoung_gyon told a press conference .
+dialogue	13	CT+	CT+
+########
+6
+<EOP> .
+########
+7
+The Peace House is a building in Panmunjom controlled by South Korea .
+########
+8
+<EOP> .
+########
+9
+The dialogue overture came a day after top DPRK leader Kim Jong_un said in his New Year speech that Pyongyang was willing to take necessary measures , including dispatch of a DPRK delegation to the South Korea_hosted PyeongChang Winter Olympics , and to discuss with Seoul about it .
+dialogue	1	CT+	CT+
+willing	21	ps_cue
+########
+10
+<EOP> .
+########

@@ -1,0 +1,127 @@
+Did two former Brazilian presidents on Tuesday deny allegations of corruption
+0
+Former Brazil leaders deny corruption claims <EOP> .
+deny	3	neg_cue
+########
+1
+2017_09_07 09:20 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+<EOP> .
+########
+4
+RIO DE JANEIRO _ Two former Brazilian presidents on Tuesday denied allegations of corruption and embezzlement leveled against them as part of an investigation into a far_reaching bribery scandal .
+allegations	11	CT-	CT-
+denied	10	neg_cue
+against	17	neg_cue
+########
+5
+<EOP> .
+########
+6
+Brazil 's top prosecutor accused former president Luiz Inacio Lula da Silva of leading a criminal organization , along with several of his political allies , in order to extract millions of dollars in bribes .
+accused	4	CT+	CT-
+########
+7
+<EOP> .
+########
+8
+Attorney General Rodrigo Janot also named Silva 's successor , Dilma Rousseff , and several members of their administrations or party in the charges filed with the Supreme Federal Tribunal .
+or	19	ps_cue
+########
+9
+<EOP> .
+########
+10
+<EOP> .
+########
+11
+<EOP> .
+########
+12
+He accuses them of orchestrating the receipt of around $ 480 million in bribes from 2002 to 2016 through their control of state bodies .
+accuses	1	CT+	CT-
+########
+13
+<EOP> .
+########
+14
+`` The Prosecution General 's accusations are baseless and are a political action ... a campaign of persecution against former president Lula , moved by party_dominated sectors of the judicial system , '' Lula 's press office said .
+against	18	neg_cue
+########
+15
+<EOP> .
+########
+16
+`` It was announced today to try to create negativity on the day Lula concludes his victorious journey through the northeast . ''
+########
+17
+<EOP> .
+########
+18
+Silva , who is more commonly known as Lula , is currently holding rallies in the northeastern states to gather support and highlight the achievements of the Workers ' Party 's government in the region .
+########
+19
+<EOP> .
+########
+20
+Based on the testimony of Marcelo Odebrecht , head of construction company Odebrecht , the prosecution accused both former presidents of heading a scheme to favor the Workers ' Party and embezzle money from oil giant Petrobras .
+accused	16	CT+	CT-
+########
+21
+<EOP> .
+########
+22
+Rousseff also released a statement , accusing Odebrech of lying in his testimony and denied any participation in corruption schemes and bribe_taking .
+denied	14	neg_cue
+########
+23
+<EOP> .
+########
+24
+`` The information that Dilma Rousseff asked or ordered anyone to ask for any resources or favors from Marcelo Odebrecht or his company 's executives is a lie , '' Rousseff 's office said .
+or	7	ps_cue
+or	15	ps_cue
+or	20	ps_cue
+########
+25
+<EOP> .
+########
+26
+`` That has never happened .
+never	3	neg_cue
+########
+27
+The truth will come to light . ''
+will	2	ps_cue
+########
+28
+<EOP> .
+########
+29
+In addition to Lula and Rousseff , Senator Gleisi Hoffmann , current leader of the Workers ' Party , was also accused in the same case .
+########
+30
+<EOP> .
+########
+31
+Hoffmann denied all allegations , claiming the prosecution was trying to divert attention from a prominent case of corruption involving Geddel Vieira Lima , a former minister of the current administration , who was found in possession of several million reals in cash earlier on Tuesday .
+allegations	3	CT-	CT-
+denied	1	neg_cue
+claiming	5	ps_cue
+########
+32
+<EOP> .
+########
+33
+Xinhua _ Ap <EOP> .
+########
+34
+<EOP> .
+########
+35
+LRB China Daily 09_07_2017 page11 RRB <EOP> .
+########

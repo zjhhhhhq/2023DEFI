@@ -1,0 +1,129 @@
+Will the find have major implications for sufferers of Alzheimer 's and other forms of dementia
+0
+One in five people carry a ` smart gene ' variant linked to long lifespan , bigger forebrains and enhanced mental ability , researchers have found .
+########
+1
+<EOP> .
+########
+2
+Scientists found people who carry the gene have larger volumes in a front part of the brain involved in planning and decision_making .
+planning	19	ps_cue
+########
+3
+<EOP> .
+########
+4
+.
+########
+5
+<EOP> .
+########
+6
+They say the find could have major implications for sufferers of Alzheimer 's and other forms of dementia .
+implications	7	PS+	PS+
+could	4	ps_cue
+########
+7
+<EOP> .
+########
+8
+It follows the previous discovery that middle_aged and older people who have a single copy of the gene variant performed better in a wide range of mental tests .
+########
+9
+<EOP> .
+########
+10
+` We 've known for a long time that people lose cognitive abilities as they age , but now we 're beginning to understand that factors like klotho can give people a boost and confer resilience in aging , ' said senior author Dena Dubal of UCSF .
+like	26	ps_cue
+can	28	ps_cue
+########
+11
+<EOP> .
+########
+12
+` Genetic variation in KLOTHO could help us predict brain health and find ways to protect people from the devastating diseases that happen to us as we grow old , like Alzheimer 's and other dementias . '
+help	6	PS+	PS+
+could	5	ps_cue
+predict	8	ps_cue
+like	30	ps_cue
+########
+13
+<EOP> .
+########
+14
+About one in five people carry a single copy of the variant , known as KL_VS , that boosts levels of the protein and is associated with longer lifespan and improved heart and kidney function .
+########
+15
+<EOP> .
+########
+16
+A small minority , 3 % of the population , has two copies , which is linked to a shorter lifespan .
+########
+17
+<EOP> .
+########
+18
+In the new study scientists scanned the brains of 422 men and women aged 53 and over who were also tested for the KLOTHO gene .
+########
+19
+<EOP> .
+########
+20
+They found that participants with a single copy of the gene variant also had a larger brain region known as the right dorsolateral prefrontal cortex LRB rDLPFC RRB , which is especially susceptible to shrinkage with age .
+########
+21
+<EOP> .
+########
+22
+Loss of neurons in this area may be one reason why older people are sometimes easily distracted and find it difficult to multitask .
+may	6	ps_cue
+########
+23
+<EOP> .
+########
+24
+The results appear in the journal Annals of Clinical and Translational Neurology .
+appear	2	ps_cue
+########
+25
+<EOP> .
+########
+26
+A previous study , funded by the U.S. _ based National Institutes of Health , found the protein boosts brain skills such as thinking , learning and memory .
+########
+27
+<EOP> .
+########
+28
+It is believed it could increase the strength of connections between nerve cells in the brain .
+believed	2	ps_cue
+could	4	ps_cue
+########
+29
+<EOP> .
+########
+30
+` Our results suggest klotho may increase the brain 's capacity to perform everyday intellectual tasks , ' said coauthor Lennart Mucke , professor of neuroscience at the University of California San Francisco .
+suggest	3	ps_cue
+may	5	ps_cue
+########
+31
+<EOP> .
+########
+32
+People who have one copy of a variant , or form , of the kloto gene , called KL_VS , tend to live longer and have lower chances of suffering a stroke whereas people who have two copies may live shorter lives and have a higher risk of stroke .
+or	9	ps_cue
+tend	20	ps_cue
+may	38	ps_cue
+########
+33
+<EOP> .
+########
+34
+In the study , researchers found that people who had one copy of the KL_VS variant performed better on a battery of cognitive tests than subjects who did not have it , regardless of age , sex or the presence of the apolipoprotein 4 gene , the main genetic risk factor for Alzheimer 's disease .
+not	28	neg_cue
+or	37	ps_cue
+########
+35
+<EOP> .
+########

@@ -1,0 +1,115 @@
+Does UK car_boot diamond sell for more than 650,000 pounds 
+0
+UK car_boot diamond sells for more than 650,000 pounds <EOP> .
+sells	3	CT+	CT+
+########
+1
+2017_06_08 23:55 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+A diamond that was snapped up at a junk sale for 10 pounds LRB $ 12 RRB has sold at auction in Londonfor 656,750 pounds LRB $ 848,000 RRB .
+sold	18	CT+	CT+
+########
+4
+<EOP> .
+########
+5
+The gemstone , which has been dubbed the ` tenner ' diamond , was bought as a ring at a Sunday flea market in West London back in the 1980s , and then worn for many years by its oblivious owner , who had no idea itwas a genuine 26.27 _ carat cushion_shaped white diamond .
+no	44	neg_cue
+########
+6
+<EOP> .
+########
+7
+The buyer thought it was just a piece of costume jewelry due to its `` filthy mount '' and had no idea it was valuable .
+no	20	neg_cue
+########
+8
+<EOP> .
+########
+9
+After decades of wear , the true value of the stone became apparent when it was taken to Sotheby 's for a valuation after a jeweler said it might be valuable .
+might	28	ps_cue
+########
+10
+<EOP> .
+########
+11
+Jessica Wyndham , head of Sotheby 's London jewelry department said the owner wore the rock while carrying out everyday chores .
+########
+12
+<EOP> .
+########
+13
+`` The owner would wear it out shopping , wear it day_to_day , '' she said .
+would	3	ps_cue
+########
+14
+`` It 's a good_looking ring .
+########
+15
+No_one had any idea it had any intrinsic value at all .
+########
+16
+They enjoyed it all this time . ''
+########
+17
+<EOP> .
+########
+18
+The auction house originally valued the ring at 350,000 pounds , but it ended up going for nearly twice that amount when it went under the hammer at Sotheby 's Fine Jewels sale on Wednesday .
+########
+19
+<EOP> .
+########
+20
+The successful final bid of 656,750 pounds was made by an international buyer .
+bid	3	CT+	CT+
+########
+21
+<EOP> .
+########
+22
+The ring was recently confirmed as a genuine diamond by the Gemological Institute of America .
+########
+23
+It is thought to have been cut in the 19th century , but thestyle at that time was to cut to conserve weight , rather than show brilliance , so it is large but relatively dull .
+rather	24	neg_cue
+########
+24
+<EOP> .
+########
+25
+`` Many of us in our lifetime would never even dream of owning ... a stone like this , '' Wyndham told a news program .
+would	7	ps_cue
+never	8	neg_cue
+like	16	ps_cue
+########
+26
+<EOP> .
+########
+27
+Another highlight of the sale was a Cartier diamond brooch worn by Margaret Thatcher on a number of high_profile occasions while she was prime minister , including on the day she offered the queen her resignation .
+########
+28
+<EOP> .
+########
+29
+The brooch fetched81 ,250 pounds .
+########
+30
+The proceeds are being donated to charity .
+########
+31
+<EOP> .
+########
+32
+Wyndham said : `` It was a thrill to bring the hammer down on two objects which have been the subject of so much interest and attention over the last few weeks and to see that attention translate into such strong bidding competition . ''
+objects	15	neg_cue
+########
+33
+<EOP> .
+########

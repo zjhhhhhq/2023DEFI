@@ -1,0 +1,74 @@
+Does Trump start Asia trip
+0
+Trump starts Asia trip , to work with China to promote peace , prosperity <EOP> .
+trip	3	CT+	CT+
+########
+1
+2017_11_05 07:34 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+<EOP> .
+########
+4
+US President Donald Trump LRB L , Front RRB speaks to the media before boarding Marine One departing the White House for Joint Base Andrews , in Washington DC , the United States , on Nov 3 , 2017 .
+########
+5
+Trump started his Asia trip on Friday to Japan , South Korea , China , Vietnam and the Philippines .
+trip	4	CT+	CT+
+########
+6
+LRB Photo_Xinhua RRB <EOP> .
+########
+7
+WASHINGTON _ US National Security Adviser H.R. McMaster said Thursday that US President Donald Trump looks forward to his upcoming visit to China and is ready to work with Beijing to promote peace and prosperity in the region and beyond .
+forward	16	ps_cue
+forward	16	neg_cue
+ready	25	ps_cue
+########
+8
+<EOP> .
+########
+9
+China is `` an immensely important part of ... regional security as well as protecting and advancing the systems that have benefitted all of us , '' McMaster told reporters .
+########
+10
+<EOP> .
+########
+11
+`` These are really the rule_based security , economic , political and diplomatic organizations and systems that emerged after the bloodiest war in human history in the previous century , '' he added .
+########
+12
+`` We have to really work hard to preserve and advance what has lifted so many people out of poverty , and what has prevented great_power conflict for 70 years .
+prevented	24	neg_cue
+########
+13
+We can not take it for granted . ''
+can	1	ps_cue
+not	2	neg_cue
+########
+14
+<EOP> .
+########
+15
+`` So I know the president is committed to working with China , with President Xi in particular , and with all leaders in the region , to make sure that for the next 70 years , we enjoy a degree of prosperity and security we 've enjoyed over the past 70 years , '' he said .
+########
+16
+<EOP> .
+########
+17
+Trump will start his 12_day Asia trip on Friday to Japan , South Korea , China , Vietnam and the Philippines .
+trip	6	CT+	CT+
+will	1	ps_cue
+########
+18
+He will participate in a string of multilateral engagements like the Asia_Pacific Economic Cooperation LRB APEC RRB Economic Leaders ' Meeting and the Association of Southeast Asian Nations summit in the last two legs of the trip .
+trip	36	CT+	CT+
+will	1	ps_cue
+like	9	ps_cue
+########
+19
+<EOP> .
+########

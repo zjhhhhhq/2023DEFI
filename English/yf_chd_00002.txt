@@ -1,0 +1,74 @@
+Will fired VP return to Zimbabwe
+0
+Fired VP expected to return to Zimbabwe <EOP> .
+return	4	PS+	PS+
+expected	2	ps_cue
+########
+1
+2017_11_22 07:23 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+<EOP> .
+########
+4
+HARARE _ The Zimbabwe Defense Forces said on Monday they are encouraged by the opening of talks between President Robert Mugabe and former vice_president Emmerson Mnangagwa , who he fired two weeks ago .
+encouraged	11	ps_cue
+########
+5
+<EOP> .
+########
+6
+Army chief Constantino Chiwenga told a news conference that Mnangagwa , currently in self imposed exile , was expected back in the country soon .
+back	19	PS+	PS+
+expected	18	ps_cue
+########
+7
+<EOP> .
+########
+8
+`` Thereafter , the nation will be advised on the outcome of talks between the two , '' Chiwenga said .
+will	5	ps_cue
+########
+9
+<EOP> .
+########
+10
+He said in the meantime , Mugabe , who was removed from the position of party leader on Sunday , had started processes toward a solution and road map for the country .
+########
+11
+<EOP> .
+########
+12
+`` As this happens we as the Zimbabwe Defense Forces and Security Services urge Zimbabweans to remain calm and patient , fully observing and respecting the laws of the country , '' Chiwenga said .
+########
+13
+<EOP> .
+########
+14
+His appeal came as students at the University of Zimbabwe students staged demonstrations and refused to take part in examinations on Monday until Mugabe steps down .
+refused	14	neg_cue
+########
+15
+<EOP> .
+########
+16
+The ZDF statement came as the ruling ZANU_PF party on Sunday removed Mugabe from the party leadership and replaced him with Mnangagwa .
+replaced	18	CT+	PS+
+########
+17
+<EOP> .
+########
+18
+The party has also resolved to move a motion to impeach Mugabe in Parliament on Tuesday , the same day he was scheduled to chair a cabinet meeting .
+resolved	4	neg_cue
+scheduled	22	ps_cue
+########
+19
+<EOP> .
+########
+20
+Xinhua <EOP> .
+########

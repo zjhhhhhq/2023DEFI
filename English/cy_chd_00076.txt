@@ -1,0 +1,73 @@
+Does Beijing back peninsula proposals
+0
+Beijing backs peninsula proposals <EOP> .
+backs	1	CT+	CT+
+########
+1
+2018_01_03 07:27 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+China supports the idea of the Democratic People 's Republic of Korea and the Republic of Korea using the 2018 Winter Olympics to improve ties , a Foreign Ministry spokesman said on Tuesday .
+supports	1	CT+	CT+
+########
+4
+The ROK will host the Games in Pyeongchang in February .
+will	2	ps_cue
+########
+5
+<EOP> .
+########
+6
+DPRK top leader Kim Jong_un said in a New Year 's Day speech that Pyongyang was willing to talk with Seoul about it possibly participating in the upcoming Winter Olympics .
+willing	16	ps_cue
+possibly	23	ps_cue
+########
+7
+<EOP> .
+########
+8
+ROK President Moon Jae_in welcomed Kim 's proposal and ordered government officials to rapidly restore inter_Korean talks and draft follow_up measures to make it possible for the DPRK delegation to participate .
+possible	24	ps_cue
+########
+9
+<EOP> .
+########
+10
+If realized , the re_initiated talks would mark the first inter_Korean dialogue since December 2015 , which was for a meeting of vice_ministerial_level officials .
+would	6	ps_cue
+########
+11
+<EOP> .
+########
+12
+Moon had urged Pyongyang several times since his inauguration in May to participate in the ROK_hosted Winter Olympics to make the winter sports event a history_making opportunity to improve relations between the neighbors .
+May	10	ps_cue
+########
+13
+<EOP> .
+########
+14
+`` We have noticed the positive information from the leaders of the two countries .
+########
+15
+... It is a good thing , '' Foreign Ministry spokesman Geng Shuang said at a regular news conference in Beijing .
+########
+16
+<EOP> .
+########
+17
+`` China welcomes and supports both countries to use the 2018 Winter Olympics as an opportunity to make effective efforts to improve their relations , relax the situation on the Korean Peninsula and promote denuclearization of the peninsula . ''
+supports	4	CT+	CT+
+########
+18
+<EOP> .
+########
+19
+Xinhua contributed to this story .
+########
+20
+<EOP> .
+########

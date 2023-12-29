@@ -1,0 +1,87 @@
+Is wartime sex slavery issue resolved by 2015 deal 
+0
+S. Korean president says wartime sex slavery issue ca n't be resolved by 2015 deal <EOP> .
+resolved	11	CT-	CT-
+n't	9	neg_cue
+resolved	11	neg_cue
+########
+1
+2017_12_28 14:44 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+SEOUL __ South Korean President Moon Jae_in said Thursday that the wartime sexual slavery issue can not be resolved by a 2015 deal with Japan .
+not	16	neg_cue
+can	15	ps_cue
+resolved	18	neg_cue
+########
+4
+<EOP> .
+########
+5
+Moon said though the deal was an official promise approved by the leaders of both countries , he , as the president of South Korea , should make it clear again that the comfort women issue can not be resolved by the 2015 deal .
+not	37	neg_cue
+resolved	39	neg_cue
+should	26	ps_cue
+can	36	ps_cue
+########
+6
+<EOP> .
+########
+7
+The South Korean leader said he felt a heavy heart when he was briefed on the review report over the 2015 deal , presidential spokesman Park Soo_hyun told a press briefing .
+########
+8
+<EOP> .
+########
+9
+Moon 's comments came a day after Seoul 's foreign ministry confirmed a secret deal in the 2015 agreement between the then South Korean government under ousted President Park Geun_hye and the Japanese government led by Prime Minister Shinzo Abe .
+########
+10
+<EOP> .
+########
+11
+The Park government reached a `` final and irreversible '' agreement with Japan over South Korean victims , who were forced into sexual servitude for Japanese military brothels during World War II .
+########
+12
+<EOP> .
+########
+13
+Under the deal reached on Dec 28 , 2015 , Japan agreed to offer 1 billion yen LRB 9 million US dollars RRB to a foundation dedicated to supporting the South Korean sex slavery victims in return for the final and irreversible agreement .
+########
+14
+<EOP> .
+########
+15
+President Moon , who took office in May , ordered a review over how the 2015 deal was reached and whether there was any procedural fault , saying the 2015 deal was not `` emotionally '' acceptable to South Koreans .
+May	7	ps_cue
+whether	20	ps_cue
+not	32	neg_cue
+########
+16
+<EOP> .
+########
+17
+The task force team under Foreign Minister Kang Kyung_wha released the review results Wednesday , saying secret agreements were found in the 2015 deal .
+########
+18
+<EOP> .
+########
+19
+According to the 31_page report , Japan demanded South Korea persuade advocacy groups supporting the sex slavery victims to accept the 2015 deal .
+########
+20
+Then South Korean government vowed to make efforts to prod the groups into actually accepting Japan 's demand .
+########
+21
+<EOP> .
+########
+22
+Behind the scenes , Japan demanded South Korea not use the word `` sex slave , '' and the South Korean side replied that it only used the word `` comfort women '' in the past , actually accepting Japan 's demand , according to the report .
+not	8	neg_cue
+########
+23
+<EOP> .
+########

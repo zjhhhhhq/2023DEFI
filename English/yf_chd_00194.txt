@@ -1,0 +1,174 @@
+Will Dr Wilson be remembered by us 
+0
+US doctor who saved many lives during Nanjing Massacre commemorated <EOP> .
+########
+1
+2017_12_04 14:07 <EOP> .
+########
+2
+China Daily USA <EOP> .
+########
+3
+LOS ANGELES -- With flowers in their hands , hundreds of people waited in line at noon on Nov 12 to pay tribute to late US physician Robert O. Wilson in the United Methodist Church in Arcadia , the western US state of California .
+########
+4
+<EOP> .
+########
+5
+One by one , they leave flowers in front of the granite monument of the civic pride of the Arcadia city and the benefactor of China 's Nanjing city in the unveil ceremony of Dr Wilson 's monument .
+########
+6
+<EOP> .
+########
+7
+The inscription on the face of the monument reads : `` He will always be remembered by us for his courageous act during Nanjing Massacre . ''
+remembered	15	CT+	CT+
+will	12	ps_cue
+########
+8
+<EOP> .
+########
+9
+Wilson was born in Nanjing LRB capital of Jiangsu province RRB on Oct 5 , 1906 to missionary parents .
+########
+10
+He received his medical degree from Harvard in 1929 and returned to Nanjing in 1936 as a doctor and a missionary dispatched from Arcadia Methodist church .
+########
+11
+<EOP> .
+########
+12
+He decided to remain in the war zone during the 1937 Nanjing Massacre to treat victims .
+########
+13
+His work at the University of Nanking Hospital , and in the Safety Zone , helped to save thousands of lives .
+########
+14
+<EOP> .
+########
+15
+Over a period of six weeks starting on Dec 13 , 1937 , invading Japanese aggressor troops committed mass murder and mass rape against the residents of Nanjing after they captured the city .
+against	23	neg_cue
+########
+16
+Over 300,000 Chinese civilians and disarmed soldiers were murdered by the Japanese army .
+########
+17
+<EOP> .
+########
+18
+Aside from saving lives in Nanjing in 1937 , Wilson , who deceased in 1967 , also played a role in offering the world more knowledge of what Japanese troops did to Chinese during the period , by testifying before the International Military Tribunal for the Far East in Tokyo after the surrender of Japan , and publishing a collection of his diary entries recording the stark realities in Nanjing at the time of the atrocities .
+########
+19
+<EOP> .
+########
+20
+`` My father loves Chinese people .
+########
+21
+Chinese were his people from the time he was born , '' said Marjorie Garrett , daughter of Wilson , noting that the history of the Nanjing Massacre needs to be told to the younger generation today .
+needs	28	ps_cue
+########
+22
+<EOP> .
+########
+23
+Accompanied by several other family members from four different generations , white_haired Garrett was greeted enthusiastically by the crowd .
+########
+24
+<EOP> .
+########
+25
+`` I am humbled today by the people that have come up to me , to shake my hand and say ` thank you . '
+########
+26
+They are thanking me for what my father did .
+########
+27
+They are letting me know what they feel , '' Garrett told Xinhua .
+########
+28
+<EOP> .
+########
+29
+`` Dr Wilson helped many Chinese as an American surgeon and a missionary dispatched from Arcadia in 1937 .
+########
+30
+But little is known of his act during the Nanjing Massacre for American people .
+little	1	neg_cue
+########
+31
+So it 's significative for us to commemorate Dr Wilson today , '' said Sho Tay , Mayor Pro Tem , City of Arcadia .
+'s	2	CT+	CT+
+########
+32
+<EOP> .
+########
+33
+Professor Ying Ying Chang , mother of the late celebrity author Iris Chang , also took part in the ceremony .
+########
+34
+<EOP> .
+########
+35
+Iris Chang published her best known international best_seller <EOP> .
+########
+36
+The Rape of Nanking , The Forgotten Holocaust of World War II <EOP> .
+########
+37
+.
+########
+38
+After Iris ' untimely death in 2004 , Ying Ying Chang and her husband have channeled their energy into the preservation of the history of World War II in Asia .
+########
+39
+They co_founded the Iris Chang Memorial Fund in 2006 to honor their beloved daughter .
+########
+40
+<EOP> .
+########
+41
+`` The history of the Nanjing Massacre ca n't be forgotten , especially when Japanese government is still trying every means to deny their crimes committed in the World War II , '' said Chang .
+n't	8	neg_cue
+deny	22	neg_cue
+########
+42
+<EOP> .
+########
+43
+David Rio , a local resident of Arcadia , witnessed the unveiling ceremony of Dr Wilson 's monument with his family members .
+########
+44
+<EOP> .
+########
+45
+`` I have never heard the story of Dr Wilson before .
+never	3	neg_cue
+########
+46
+It 's a moving story .
+########
+47
+I am honored to live in the community he lived , '' said Rio .
+########
+48
+<EOP> .
+########
+49
+`` The reason that Chinese American citizen want to donate and build this monument is that , Dr Wilson not only saved lives of thousands of Chinese , but also helped to record the atrocities and crimes committed by the Japanese army in our darkest history , '' said Consul Tang Chang ' an , who is in charge of the Overseas Chinese Affairs Section in the Consulate General of China in Los Angeles .
+not	19	neg_cue
+########
+50
+<EOP> .
+########
+51
+`` Dr Wilson was an international humanitarian hero , he was one of us , and that 's why we memorize him as ` a Nanjing citizen with blue eyes ' , '' said Tang .
+'s	17	CT+	CT+
+########
+52
+<EOP> .
+########
+53
+XinHua <EOP> .
+########

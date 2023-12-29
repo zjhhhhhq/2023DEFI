@@ -1,0 +1,100 @@
+Does James Bond actor Sir Roger Moore die at age 89
+0
+James Bond actor Sir Roger Moore dies at age 89 <EOP> .
+dies	6	CT+	CT+
+########
+1
+2017_05_23 22:44 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+<EOP> .
+########
+4
+British actor Roger Moore stands atop his newly unveiled star on the Hollywood Walk of Fame in Hollywood , California , Oct 11 , 2007 .
+########
+5
+LRB Photo_Agencies RRB <EOP> .
+########
+6
+In a Twitter message on the actor 's official account , his family wrote : `` With heaviest of hearts , we must share the awful news that our father , Sir Roger Moor , passed away today .
+passed	35	CT+	CT+
+########
+7
+We are all devastated . ''
+########
+8
+<EOP> .
+########
+9
+The statement continued , `` It is with a heavy heart that we must announce our lovely father , Sir Roger Moor , has passed away today in Switzerland after a short but brave battle with cancer .
+########
+10
+The love with which he was surrounded in his final days was so great it can not be quantified in words alone . ''
+love	1	ps_cue
+can	15	ps_cue
+not	16	neg_cue
+########
+11
+<EOP> .
+########
+12
+Moore was the third actor to play the famous spy in seven James Bond films between 1973 and 1985 including Live and Let Die , For Your Eyes Only and the Spy Who Loved Me .
+########
+13
+<EOP> .
+########
+14
+The statement from his children , Deborah , Geoffrey and Christian added , `` We know our own love and admiration will be magnified many times over , across the world by people who knew him for his films , his television shows and his passionate work for UNICEF which he considered to be his greatest achievement '' <EOP> .
+love	18	ps_cue
+will	21	ps_cue
+considered	51	ps_cue
+########
+15
+`` Thank you Pops for being you and for being so very special to so many people . ''
+########
+16
+<EOP> .
+########
+17
+They said their thoughts must now turn to supporting Kristina , Moore 's wife , `` at this difficult time '' <EOP> .
+########
+18
+They also said there will be a private funeral in Monaco `` in accordance with our father 's wishes '' .
+will	4	ps_cue
+########
+19
+<EOP> .
+########
+20
+Roger Moore was born on 14 October 1927 in Stockwell , London .
+########
+21
+<EOP> .
+########
+22
+He starred in television series such as Ivanhoe and Maverick before achieving worldwide fame as Simon Templar in the new small screen adaptation of The Saint , based on the novels by Leslie Charteris .
+########
+23
+<EOP> .
+########
+24
+Off screen , the actor was known for his charitable work .
+########
+25
+Moore was introduced to the charity UNICEF by his friend Audrey Hepburn and he went on to become a UNICEF Goodwill Ambassador in 1991 .
+########
+26
+<EOP> .
+########
+27
+In 2003 , Moore was given a Knighthood for his humanitarian work , which became his main focus for many of his final years .
+########
+28
+<EOP> .
+########
+29
+To contact reporter : boleung@mail.chinadailyuk.com <EOP> .
+########

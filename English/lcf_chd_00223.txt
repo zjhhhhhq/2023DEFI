@@ -1,0 +1,129 @@
+Does feuding trouble the process 
+0
+Brexit talks start in Brussels with 20 months to go <EOP> .
+########
+1
+2017_07_17 19:15 <EOP> .
+########
+2
+Agencies <EOP> .
+########
+3
+<EOP> .
+########
+4
+UK Secretary of State for Exiting the European Union David Davis LRB L RRB and the European Commission 's Chief Brexit Negotiator Michel Barnier talk to reporters at the start of a first full round of talks on Britain 's divorce terms from the European Union , in Brussels , Belgium , July 17 , 2017 .
+########
+5
+LRB Photo_Agencies RRB <EOP> .
+########
+6
+BRUSSELS _ British and European Union envoys on Monday began a first round of negotiations on Britain 's divorce from the EU with both sides saying it was high time to tackle details , though feuding within the London cabinet over Brexit terms may trouble the process .
+trouble	44	PS+	PS+
+may	43	ps_cue
+########
+7
+<EOP> .
+########
+8
+With little more than a year to decide the terms before Britain leaves , deal or no deal , on March 30 , 2019 , the 27 other EU national leaders want British Prime Minister Theresa May to rally her polarised nation _ and her fractious cabinet _ swiftly behind a clear , detailed Brexit plan .
+little	1	neg_cue
+or	15	ps_cue
+no	16	neg_cue
+May	36	ps_cue
+plan	55	ps_cue
+########
+9
+<EOP> .
+########
+10
+EU leaders are keen to minimise economic and social disruption across Europe as its second biggest economy cuts loose from the continent after four decades of myriad links .
+########
+11
+<EOP> .
+########
+12
+Chief EU negotiator Michel Barnier will press UK Brexit Secretary David Davis to agree to Britain covering substantial , existing British financial commitments and offer more detail on Britain 's approach , clouded by infighting within May 's cabinet .
+clouded	32	CT+	PS+
+will	5	ps_cue
+May	36	ps_cue
+########
+13
+<EOP> .
+########
+14
+`` We made a good start last month but ... we are now getting into the substance of the matter , '' Davis told reporters as he was welcomed at the European Commission in Brussels by Barnier , a little more than a year after Britons voted by a narrow majority to leave the EU .
+little	39	neg_cue
+########
+15
+<EOP> .
+########
+16
+Davis and Barnier shook hands for the cameras at the European Commission 's Berlaymont headquarters before a first full session of a scheduled four days of talks .
+scheduled	22	ps_cue
+########
+17
+<EOP> .
+########
+18
+`` We will now delve into the heart of the matter .
+will	2	ps_cue
+########
+19
+We need to examine and compare our respective positions in order to make good progress , '' Barnier told reporters .
+need	1	ps_cue
+########
+20
+<EOP> .
+########
+21
+Davis said it was `` incredibly important '' to make progress , `` that we negotiate through this and identify the differences so that we can deal with them and identify the similarities so that we can reinforce them '' .
+can	25	ps_cue
+can	36	ps_cue
+########
+22
+<EOP> .
+########
+23
+`` Now it 's time to get down to work and make this a successful negotiation , '' he said before Davis and Barnier headed off for talks .
+########
+24
+<EOP> .
+########
+25
+Both men declined further comment , with Barnier saying they would brief the media on Thursday after their teams have spent four days tackling a range of priority issues .
+declined	2	neg_cue
+would	10	ps_cue
+########
+26
+<EOP> .
+########
+27
+After a June snap election in which May 's Conservatives lost their majority , her cabinet appears bitterly divided over the type of outcome it wants from the Brexit talks .
+May	7	ps_cue
+appears	16	ps_cue
+wants	25	ps_cue
+########
+28
+Finance minister Philip Hammond has emerged as the champion of a `` soft Brexit '' prioritising trade ties with the EU over curbing immigration .
+########
+29
+<EOP> .
+########
+30
+He said he came under attack at the weekend from hardline Brexiteers `` who are not happy with LRB my RRB agenda '' after a series of cabinet leaks intended to undermine him .
+not	15	neg_cue
+intended	29	ps_cue
+########
+31
+<EOP> .
+########
+32
+But he suggested his view that Britain would require a gradual transition towards Brexit aimed at limiting the damage for business and jobs was now gaining traction in May 's government .
+suggested	2	ps_cue
+would	7	ps_cue
+May	28	ps_cue
+########
+33
+<EOP> .
+########

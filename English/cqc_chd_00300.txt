@@ -1,0 +1,117 @@
+Does DJ Alice win award
+0
+DJ wins award for giving voice to Chinese community in UK <EOP> .
+wins	1	CT+	CT+
+########
+1
+2017_11_03 01:11 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+<EOP> .
+########
+4
+DJ Alice hosts Chinese Spectrum every day between 5 and 8 pm UK time .
+########
+5
+LRB Photo_chinadaily .
+########
+6
+com.cn RRB <EOP> .
+########
+7
+A radio presenter has won an award for her work preparing British Chinese youngsters for jobs in the media .
+won	4	CT+	CT+
+########
+8
+<EOP> .
+########
+9
+Alice Yu , who goes by the name DJ Alice , received the Asian Media Group 's GG2 INSPIRE Award , which recognizes outstanding work in the community that has served to inspire young people .
+received	11	CT+	CT+
+########
+10
+<EOP> .
+########
+11
+The presenter hosts a daily radio show called Chinese Spectrum , which broadcasts music , current affairs and discussion about British_Chinese community issues in Mandarin and Cantonese .
+########
+12
+<EOP> .
+########
+13
+`` I never thought I would win an award like this , '' she told China Daily .
+win	6	CT+	CT+
+never	2	neg_cue
+would	5	ps_cue
+like	9	ps_cue
+########
+14
+`` It gives me motivation to do more with the community and much more with the younger generation . ''
+########
+15
+<EOP> .
+########
+16
+After arriving in Britain from Hong Kong as a student in the early 1980s , Alice started a Chinese community radio program in Manchester .
+########
+17
+She later joined the Spectrum Radio Network , which hosts several shows for ethnic minority communities in the UK .
+########
+18
+<EOP> .
+########
+19
+Alice has volunteered for the British Chinese Project , which promotes Chinese issues in British politics .
+########
+20
+Eleven years ago she started the Chinese Youth Radio project , training young people from the British Chinese community in radio and presenting skills .
+########
+21
+<EOP> .
+########
+22
+`` We are underrepresented in media , in television , in politics , '' Alice said .
+########
+23
+`` I feel the strong need to train second generation Chinese so they can have a platform and are able to voice their opinions more than their parents have . ''
+need	5	ps_cue
+can	13	ps_cue
+########
+24
+<EOP> .
+########
+25
+Chinese people make up just 0.28 percent of the journalism workforce in the UK , despite accounting for 0.7 percent of the population , according to a study by Neil Thurman , a lecturer in communication at City University London .
+########
+26
+<EOP> .
+########
+27
+Thurman said his research revealed a lack of diversity in British journalism .
+lack	6	neg_cue
+########
+28
+<EOP> .
+########
+29
+The 2016 study found 94 percent of journalists are white , compared to 87 percent of the UK working population .
+########
+30
+<EOP> .
+########
+31
+`` British journalism is unrepresentative of the general population , and certainly the number of Asian journalists does not represent the number of Asians in the UK , '' Thurman told China Daily .
+not	18	neg_cue
+########
+32
+<EOP> .
+########
+33
+<EOP> .
+########
+34
+<EOP> .
+########

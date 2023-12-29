@@ -1,0 +1,99 @@
+Does China 's ICBC list first green bonds in Luxembourg 
+0
+China 's ICBC lists first green bonds in Luxembourg <EOP> .
+lists	3	CT+	CT+
+########
+1
+2017_10_31 02:52 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+The Industrial and Commercial Bank of China celebrated its first ever listing of green bonds on the Luxembourg Stock Exchange on Monday , building on the strong momentum of China 's green finance market .
+listing	11	CT+	CT+
+########
+4
+<EOP> .
+########
+5
+The bonds , issued at the end of last month in US dollars and euros , are raising funds to finance environmentally_friendly projects along area related to the Belt and Road Initiative .
+########
+6
+They raised $ 2.15 billion .
+########
+7
+<EOP> .
+########
+8
+Chen Fei , general manager of ICBC 's Luxembourg branch , said that the ICBC green bond issue reflects the bank 's strategy of promoting responsible banking while advancing the Belt and Road Initiative .
+########
+9
+<EOP> .
+########
+10
+`` Tapping the international green capital market gives us a new channel to fund the projects with environmental benefits . ''
+########
+11
+Chen said .
+########
+12
+<EOP> .
+########
+13
+Green bonds became popular recently among investors seeking long_term stability .
+seeking	7	ps_cue
+########
+14
+Certified green infrastructure and energy projects adhere to stricter future climate_friendly regulations , so reducing climate policy risks for investors .
+########
+15
+<EOP> .
+########
+16
+China is already a leader in green finance .
+########
+17
+It issued $ 36 billion of green bonds in 2016 , which was almost 40 percent of the $ 81 billion of green bonds issued globally .
+########
+18
+<EOP> .
+########
+19
+ICBC said the funds raised from its green bonds will be dedicated to financing and refinancing projects relating to renewable energy , low carbon and low emission transportation , energy efficiency , and sustainable water and wastewater management .
+will	9	ps_cue
+########
+20
+<EOP> .
+########
+21
+The ICBC bonds satisfy the Green Bond Principles standards for green bonds , and are certified by the Oslo_based Center for International Climate and Environmental Research .
+########
+22
+<EOP> .
+########
+23
+Robert Scharfe , chief executive of the Luxembourg Stock Exchange , said the ICBC green bond is `` another testimony of the dedication of Chinese issuers toward green finance '' .
+########
+24
+<EOP> .
+########
+25
+`` It 's listing on the Luxembourg Green Exchange will foster full transparency of information toward investors '' Scharfe said .
+will	9	ps_cue
+########
+26
+<EOP> .
+########
+27
+By the end of 2016 , ICBC saw a lending balance of 978.56 billion yuan LRB $ 147.21 billion RRB to energy_saving , environmental_friendly projects and services .
+########
+28
+<EOP> .
+########
+29
+It is also the largest underwriting bank in green bonds in China .
+########
+30
+<EOP> .
+########

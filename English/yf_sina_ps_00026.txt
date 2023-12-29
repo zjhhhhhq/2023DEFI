@@ -1,0 +1,68 @@
+Is there the sample LRB technically known as a coprolite RRB
+0
+A fossilised piece of million_year_old animal dung more than a metre in length is set to go on auction tomorrow in the US .
+########
+1
+<EOP> .
+########
+2
+It 's not clear what beast produced the sample LRB technically known as a coprolite RRB but it 's expected that it will fetch between $ 8,000 and $ 10,000 when it goes under the hammer .
+coprolite	14	PS+	PS+
+expected	19	ps_cue
+not	2	neg_cue
+will	22	ps_cue
+########
+3
+<EOP> .
+########
+4
+The clay_coloured sample is thought to date back to the Oligocence and Minocene Epochs , making it between 5.3 and 33.9 million years old .
+########
+5
+<EOP> .
+########
+6
+`` This truly spectacular specimen is possibly the longest example of coprolite _ fossilised dinosaur feces _ ever to be offered at auction , '' reads the auction description from I.M. Chait .
+coprolite	11	PS+	PS+
+possibly	6	ps_cue
+########
+7
+`` It boasts a wonderfully even , pale brown_yellow colouring and terrifically detailed texture to the heavily botryoidal surface across the whole of its immense length . ''
+########
+8
+<EOP> .
+########
+9
+For those of you who have never had to describe fossilized , possibly_dinosaur poo , ` botryoidal ' means globular and comes from the Greek word ` botrus ' _ meaning a ` bunch of grapes ' .
+never	6	neg_cue
+########
+10
+<EOP> .
+########
+11
+The specimen will be `` presented in four sections , each with a heavy black marble custom base , an eye_watering 40_inches in length overall . ''
+will	2	ps_cue
+########
+12
+<EOP> .
+########
+13
+Despite their innate weirdness , coprolites and paleofeces LRB fossilized human faeces RRB are rich sources of information for archaeologists and were also invaluable at the time of their creation : dinosaur droppings provided the fertilizer necessary to keep those prehistoric jungles looking green and lush .
+coprolites	5	CT+	PS+
+########
+14
+<EOP> .
+########
+15
+Coprolites have been used for everything from dating the timeline of certain species to proving the existence of cannibalism in ancient human cultures LRB thanks to the discovery of human proteins in unearthed paleofeces RRB .
+########
+16
+<EOP> .
+########
+17
+The 40_inch sample seen above will actually go on sale alongside five other stool_shaped specimens that to have come from a Miocene_era turtle , each of which is estimated to sell for $ 4,000 to $ 6,000 .
+will	5	ps_cue
+########
+18
+<EOP> .
+########

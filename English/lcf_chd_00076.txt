@@ -1,0 +1,96 @@
+Do musicians from Silk Road countries perform at Geneva
+0
+Musicians from Silk Road countries perform at Geneva to showcase intercultural dialogue <EOP> .
+perform	5	CT+	CT+
+########
+1
+2017_10_15 19:21 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+<EOP> .
+########
+4
+<EOP> .
+########
+5
+<EOP> .
+########
+6
+Russian tenor Vladimir Galouzine LRB front RRB performs during a concert held at the Palais des Nations , the United Nations European headquarters in Geneva , Switzerland , Oct 14 , 2017 .
+performs	7	CT+	CT+
+########
+7
+LRB Photo_Xinhua RRB <EOP> .
+########
+8
+GENEVA _ A group of prestigious musicians from various Silk Road countries Saturday performed at a special concert at the United Nations LRB UN RRB headquarters here as an example of intercultural dialogue and understanding .
+performed	13	CT+	CT+
+########
+9
+<EOP> .
+########
+10
+Held in the famous Human Rights and Alliance of Civilizations Hall of the Palais des Nations at Geneva , the concert was described as `` a true encounter between East and West . ''
+Held	0	CT+	CT+
+########
+11
+<EOP> .
+########
+12
+The special concert , co_organized by the United Nations Alliance of Civilizations LRB UNAOC RRB and the Barcelona_based Fundacion Onuart , brought together the Symphonic Orchestra of the Balearic Islands directed by Spanish Maestro Pablo Mielgo , as well as some well_known artists from Silk Road countries .
+co_organized	4	CT+	CT+
+########
+13
+<EOP> .
+########
+14
+While offering a musical journey through the Silk Road , the organizers said the concert set out to use music `` as an instrument to foster intercultural dialogues and rapprochement between nations and cultures . ''
+########
+15
+<EOP> .
+########
+16
+`` The setting of the Human Rights and Alliance of Civilizations Hall in the Palais des Nations in Geneva will provide the ideal backdrop to promote dialogue and peace around the world through music , '' the organizers said in a statement .
+will	19	ps_cue
+########
+17
+<EOP> .
+########
+18
+Ma Zhenxuan , president of the Center for Public Diplomacy and Cultural Exchange and one of the organizers of the event , said the concert demonstrated the power of music in the process of enhancing mutual understanding among people , as well as people 's support towards the China_proposed Belt and Road Initiative which links the countries located on the ancient Silk Road and beyond .
+########
+19
+<EOP> .
+########
+20
+In order to better practice the Chinese concept of `` building a community of shared future for all humankind , '' the center is now trying to establish an international network for public diplomacy , or even a World Public Diplomatic Organization , he added .
+or	35	ps_cue
+########
+21
+<EOP> .
+########
+22
+Cao Mingqi , vice president of the Center for Public Diplomacy and Cultural Exchange , said after the concert that the center hopes to better promote the Belt and Road Initiative through cultural exchanges .
+hopes	22	ps_cue
+########
+23
+<EOP> .
+########
+24
+He voices his hope that the concert will bring more countries together to contribute even more to world peace and prosperity in the future .
+hope	3	ps_cue
+will	7	ps_cue
+########
+25
+<EOP> .
+########
+26
+The Belt and Road Initiative , which comprises the Silk Road Economic Belt and the 21st Century Maritime Silk Road , seeks to promote trade , financial integration , infrastructure inter_connectivity and people_to_people exchanges along and beyond the ancient Silk Road trade routes linking Asia with Europe and Africa .
+seeks	21	ps_cue
+########
+27
+<EOP> .
+########

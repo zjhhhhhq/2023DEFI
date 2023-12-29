@@ -1,0 +1,75 @@
+Is there ` decisive progress ' made in Brexit talks
+0
+EU 's Barnier says no ` decisive progress ' made in Brexit talks <EOP> .
+made	9	CT-	CT-
+no	4	neg_cue
+########
+1
+2017_08_31 21:39 <EOP> .
+########
+2
+Agencies <EOP> .
+########
+3
+BRUSSELS _ The European Union 's chief Brexit negotiator said on Thursday no `` decisive progress '' had been achieved in the third round of Brexit talks , and that opening talks on the two sides ' future ties in October was doubtful at the current pace .
+achieved	19	CT-	CT-
+no	12	neg_cue
+########
+4
+<EOP> .
+########
+5
+Britain 's Brexit minister David Davis said the sides `` made some concrete progress '' , that there was `` high degree of convergence '' on the future Irish border and that London would `` interrogate rigorously '' what it would pay the EU on departure .
+would	33	ps_cue
+would	40	ps_cue
+########
+6
+<EOP> .
+########
+7
+Brexit talks have resumed in Brussels more than a year after Britons narrowly voted in a national referendum to leave the EU .
+########
+8
+Despite both the EU and Britain being on a short deadline to deliver a deal , the talks have seen a slow start .
+########
+9
+<EOP> .
+########
+10
+`` Over the course of this week we have made a number of useful clarifications on a number of points , for instance the status of border workers , '' Michel Barnier told a joint news conference with Davis after the latest round of talks .
+########
+11
+<EOP> .
+########
+12
+`` However , we did not get any decisive progress on any of the principle subjects , even though on the discussion we had about Ireland _ that discussion was fruitful . ''
+get	6	CT-	CT-
+not	5	neg_cue
+########
+13
+<EOP> .
+########
+14
+Barnier scolded London for demanding the `` impossible '' _ including having a say on the EU 's single market rules while being outside of it _ in a series of position papers the British government released last week .
+impossible	7	ps_cue
+impossible	7	neg_cue
+########
+15
+<EOP> .
+########
+16
+He said both sides disagreed again on Thursday on the EU 's demand , firmly rejected by Britain , that the European Court of Justice must be allowed to police the enforcement of rights of EU citizens residing in Britain after Brexit , and vice versa .
+rejected	15	neg_cue
+########
+17
+<EOP> .
+########
+18
+<EOP> .
+########
+19
+<EOP> .
+########
+20
+<EOP> .
+########

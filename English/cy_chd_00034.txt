@@ -1,0 +1,127 @@
+Will Donald Trump label China a currency manipulator
+0
+Trump : China not currency manipulator <EOP> .
+not	3	neg_cue
+########
+1
+2017_04_13 10:05 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+<EOP> .
+########
+4
+US President Donald Trump attends a press conference at the White House in Washington DC , on April 12 , 2017 .
+########
+5
+LRB Photo_Xinhua RRB <EOP> .
+########
+6
+US President Donald Trump said on Wednesday that he will not label China a currency manipulator .
+label	11	CT-	CT-
+not	10	neg_cue
+will	9	ps_cue
+########
+7
+<EOP> .
+########
+8
+Trump made the remarks in an interview with the Wall Street Journal on Wednesday , indicating that China will not be named a currency manipulator in a US Treasury Department report on the exchange rate policies of its major trading partners .
+named	21	CT-	CT-
+not	19	neg_cue
+will	18	ps_cue
+########
+9
+The report is expected to be released later this week .
+expected	3	ps_cue
+########
+10
+<EOP> .
+########
+11
+`` They 're not currency manipulators , '' Trump told the Journal .
+manipulators	5	CT-	CT-
+not	3	neg_cue
+########
+12
+<EOP> .
+########
+13
+During the campaign , Trump vowed to impose 45 percent tariffs on Chinese exports into the US , triggering concern about a possible trade war between the two largest economies .
+concern	19	ps_cue
+possible	22	ps_cue
+########
+14
+<EOP> .
+########
+15
+Such concerns have been greatly eased lately , especially following the first meeting between Trump and his Chinese counterpart President Xi Jinping in Trump 's Mar_a_Lago estate in Florida last week .
+########
+16
+<EOP> .
+########
+17
+Both sides have spoken positively of the meeting .
+########
+18
+Chinese Foreign Minister Wang Yi said both sides reached several important consensuses and the meeting has set a constructive tone for the development of the bilateral relationship .
+########
+19
+<EOP> .
+########
+20
+Wang praised the meeting for boosting mutual understanding and establishing a good working relationship and personal friendship between the two leaders .
+########
+21
+Trump also accepted Xi 's invitation to visit China this year .
+########
+22
+<EOP> .
+########
+23
+The two sides also announced the China_US Comprehensive Dialogue mechanism to be overseen by the two presidents .
+########
+24
+It includes four pillars : Diplomatic and Security Dialogue ; Comprehensive Economic Dialogue ; Law Enforcement and Cybersecurty Dialogue ; and Social and Cultural Issues Dialogue .
+########
+25
+<EOP> .
+########
+26
+Most top US economists do n't believe China has manipulated its currency in the past years .
+believe	6	CT-	CT-
+n't	5	neg_cue
+########
+27
+<EOP> .
+########
+28
+The most recent US Treasury semi_annual report issued last October said China met only one of the three criteria for measuring a currency manipulator .
+########
+29
+<EOP> .
+########
+30
+In its last annual evaluation of the Chinese economy , the International Monetary Fund described the value of the Chinese currency , known as yuan or renminbi LRB RMB RRB , as `` remains broadly in line with fundamentals . ''
+or	25	ps_cue
+########
+31
+<EOP> .
+########
+32
+US Treasury Secretary Steven Mnuchin also signaled in the past months that the US is unlikely to name China a currency manipulator anytime soon .
+name	17	CT-	CT-
+unlikely	15	ps_cue
+unlikely	15	neg_cue
+########
+33
+<EOP> .
+########
+34
+Larry Summers , US Treasury secretary from 1999 to 2001 and an economic adviser to former President Obama from 2009 to 2010 , admitted recently that the US has been wrong to push for the appreciation of the yuan while the market force is to keep it down .
+########
+35
+<EOP> .
+########

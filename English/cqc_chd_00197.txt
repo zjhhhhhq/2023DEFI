@@ -1,0 +1,60 @@
+Does Singapore pass death penalty law 
+0
+Singapore passes death penalty law for nuclear terrorism <EOP> .
+law	4	CT+	CT+
+########
+1
+2017_05_08 19:06 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+SINGAPORE __ Singapore passed death penalty law for nuclear terrorism acts in Parliament on Monday .
+law	6	CT+	CT+
+########
+4
+<EOP> .
+########
+5
+Death penalty will be enforced for a person who commits a fatal act of terrorism using radioactive material or nuclear explosive devices , local media reported .
+will	2	ps_cue
+or	18	ps_cue
+########
+6
+<EOP> .
+########
+7
+Second Minister for Home Affairs Desmond Lee said Singapore can not discount the rise of terror group Islamic State especially when many countries , including those within the region , use nuclear energy , or are actively exploring the use of nuclear energy .
+can	9	ps_cue
+not	10	neg_cue
+or	34	ps_cue
+########
+8
+<EOP> .
+########
+9
+Lee added that the new laws also provide for extra_territorial jurisdiction , allowing the legal ability of Singapore 's government to exercise authority beyond its normal boundaries .
+laws	5	CT+	CT+
+########
+10
+<EOP> .
+########
+11
+Singapore has been preparing and developing to deal with the risks of nuclear terrorism .
+########
+12
+<EOP> .
+########
+13
+`` Agencies such as National Environment AgencyLRB NEA RRB and Singapore Civil Defence Force LRB SCDF RRB have developed the necessary operational capabilities to deal with illicit use of nuclear and radioactive material in Singapore , '' Minister Lee said .
+########
+14
+<EOP> .
+########
+15
+He added that Ministry of Home Affairs LRB MHA RRB and NEA have also been working together to tighten security measures at premises storing high_risk radioactive material .
+########
+16
+<EOP> .
+########

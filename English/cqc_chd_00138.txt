@@ -1,0 +1,163 @@
+Will polling bring good leaders to Cambodian communes
+0
+Cambodian voters hope local polls could bring good leaders to their communes <EOP> .
+polls	4	PS+	PS+
+could	5	ps_cue
+hope	2	ps_cue
+########
+1
+2017_06_04 14:45 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+<EOP> .
+########
+4
+Cambodia 's Prime Minister and president of Cambodian People 's Party LRB CPP RRB Hun Sen looks at the ballot box after casting his vote during local elections in Kandal province , Cambodia June 4 , 2017 .
+########
+5
+LRB Photo_Agencies RRB <EOP> .
+########
+6
+Cambodians are confident that their votes will bring good leaders to their villages and communes .
+will	6	ps_cue
+########
+7
+<EOP> .
+########
+8
+`` The election is crucial to electing good commune chiefs and councilors who care about the people and devote their physical and mental energies to commune and village development , '' 56_year_old businesswoman Seang Chantheng told Xinhua after casting her vote at a polling station in the southern Kandal province .
+polling	43	CT+	PS+
+########
+9
+<EOP> .
+########
+10
+She revealed that she voted for the ruling Cambodian People 's Party LRB CPP RRB since the party has brought full peace and development to the country .
+########
+11
+<EOP> .
+########
+12
+`` The party I trust , the party I have always supported is the Cambodian People 's Party and today I voted for the party , '' she said .
+########
+13
+<EOP> .
+########
+14
+Eang Dane , 19 , a high_school student in the capital of Phnom Penh , said she also cast her ballot for the CPP and believed that only leaders from the CPP could bring real development to the grassroots people .
+believed	25	ps_cue
+could	32	ps_cue
+########
+15
+<EOP> .
+########
+16
+`` It was the first time I have voted , I 'm really happy , '' she told Xinhua after voting at a station in Phnom Penh .
+########
+17
+`` I love the CPP because the party has brought peace and development to our country . ''
+love	2	ps_cue
+########
+18
+<EOP> .
+########
+19
+Dane was confident that the CPP would continue to win the elections for further development in communes and villages , especially the development of roads , bridges , schools and hospitals .
+would	6	ps_cue
+########
+20
+<EOP> .
+########
+21
+Kim Sokhonn , a 46_year_old housewife who voted at a polling station in Kandal province , said she felt free to vote for the party she liked , and there was no intimidation .
+polling	10	CT+	PS+
+no	31	neg_cue
+########
+22
+<EOP> .
+########
+23
+`` I hope that all political parties will accept the election results .
+hope	2	ps_cue
+will	7	ps_cue
+########
+24
+I do n't want to see the situation like it was in 2013 , '' she told Xinhua , referring to the national elections in July 2013 in which the main opposition Cambodia National Rescue Party LRB CNRP RRB did not recognize the election results and staged mass protests for months .
+n't	2	neg_cue
+like	8	ps_cue
+opposition	31	neg_cue
+not	40	neg_cue
+########
+25
+<EOP> .
+########
+26
+Twelve political parties have contested in Sunday 's elections , with the ruling CPP and the opposition CNRP being the major contestants , according to the National Election Committee LRB NEC RRB .
+opposition	16	neg_cue
+########
+27
+<EOP> .
+########
+28
+CPP President and Cambodian Prime Minister Samdech Techo Hun Sen voted at a polling station near his mansion in Kandal province , roughly 10 km south of the capital on Sunday , while CNRP President Kem Sokha cast his ballot in Phnom Penh .
+polling	13	CT+	PS+
+########
+29
+<EOP> .
+########
+30
+Hun Sen said during an election campaign on Friday that he was confident that the CPP would continue to win the majority in the polls .
+would	16	ps_cue
+########
+31
+<EOP> .
+########
+32
+`` There is only the CPP that has sufficient capacity to govern Cambodia and to maintain the country 's peace and development , '' he said , adding that the party has more than 5 million members .
+########
+33
+<EOP> .
+########
+34
+Approximately 7.87 million eligible voters are expected to vote in the elections which are held to elect 11,572 commune chiefs and councilors for the kingdom 's 1,646 communes .
+expected	6	ps_cue
+########
+35
+<EOP> .
+########
+36
+The preliminary election results are expected on Sunday evening and the official results will be released 21 days after the votes .
+expected	5	ps_cue
+will	13	ps_cue
+########
+37
+<EOP> .
+########
+38
+Held every five years , the commune elections are seen as a bellwether of the ruling party 's support ahead of the national elections in July 2018 .
+########
+39
+<EOP> .
+########
+40
+In the last commune elections in June 2012 , the CPP gained 61.9 percent of the votes , compared to about 30.6 percent for the opposition .
+opposition	25	neg_cue
+########
+41
+<EOP> .
+########
+42
+<EOP> .
+########
+43
+<EOP> .
+########
+44
+<EOP> .
+########
+45
+<EOP> .
+########

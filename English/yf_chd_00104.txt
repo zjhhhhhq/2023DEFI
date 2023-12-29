@@ -1,0 +1,71 @@
+Does Iran blast US veto over UN resolution on Jerusalem
+0
+Iran blasts US veto over UN resolution on Jerusalem <EOP> .
+blasts	1	CT+	CT+
+########
+1
+2017_12_19 21:00 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+TEHRAN __ Iran Foreign Ministry on Tuesday condemned the US veto of a UN Security Council resolution against its decision on Jerusalem , Tasnim news agency reported on Tuesday .
+condemned	7	CT+	CT+
+condemned	7	neg_cue
+against	17	neg_cue
+########
+4
+<EOP> .
+########
+5
+Iranian Foreign Ministry Spokesman Bahram Qasemi said in a statement that by vetoing the resolution , which was backed by 14 other member states of the UNSC , the United States once again proved that it is taking steps in line with the interests of Israel and is seeking to violate the legitimate rights of all Palestinians .
+said	6	CT+	CT+
+seeking	48	ps_cue
+########
+6
+<EOP> .
+########
+7
+The US move is against international peace and security , Qasemi was quoted as saying by Tasnim .
+is	3	CT+	CT+
+against	4	neg_cue
+########
+8
+<EOP> .
+########
+9
+Iran urges the international community and all the countries in the world to prevent the United States from implementing its plan on Jerusalem to preserve international peace and security .
+urges	1	CT+	CT+
+prevent	13	neg_cue
+plan	20	ps_cue
+########
+10
+<EOP> .
+########
+11
+In the meantime , Iran 's Ambassador to the United Nations Gholamali Khoshroo , slammed the move , stressing it was proof that the US is a main supporter of the Tel Aviv regime 's occupation and aggression .
+slammed	14	CT+	CT+
+########
+12
+<EOP> .
+########
+13
+`` The US wishes to remove solving Palestine 's problems from the UN 's agenda by twisting reality and misleading public opinion , '' Khoshroo was quoted as saying by Press TV .
+wishes	3	CT+	CT+
+########
+14
+<EOP> .
+########
+15
+It was also another example of Washington 's hostility towards Muslims and the free world , he said .
+########
+16
+<EOP> .
+########
+17
+On Monday , 14 members of the 15_member UN Security Council voted in favor of the Egyptian_drafted resolution , and expressed `` deep regret at the US decision on Jerusalem . ''
+########
+18
+<EOP> .
+########

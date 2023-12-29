@@ -1,0 +1,26 @@
+Will Russian PM Medvedev visit China
+0
+Russian PM Medvedev to visit China Oct 31_Nov 2 <EOP> .
+visit	4	CT+	CT+
+########
+1
+2017_10_24 18:04 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+Russian Prime Minister Dmitry Medvedev will pay an official visit to China from Oct 31 to Nov 2 at the invitation of Premier Li Keqiang , Foreign Ministry spokesman Geng Shuang announced on Tuesday .
+visit	9	CT+	CT+
+will	5	ps_cue
+########
+4
+<EOP> .
+########
+5
+During the visit , Premier Li and Medvedev will hold the 22nd regular meeting between Chinese and Russian prime ministers .
+will	8	ps_cue
+########
+6
+<EOP> .
+########

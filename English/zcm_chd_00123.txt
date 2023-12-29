@@ -1,0 +1,122 @@
+Did US President Donald Trump back legislation set to slash legal immigration
+0
+Trump backs merit_based immigration legislation <EOP> .
+########
+1
+2017_08_03 09:31 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+<EOP> .
+########
+4
+US President Donald Trump leaves after delivering remarks on immigration reform , accompanied by Senator Tom Cotton LRB R_AR RRB LRB L RRB in the Roosevelt Room of the White House in Washington , US , August 2 , 2017 .
+########
+5
+LRB Photo_Agencies RRB <EOP> .
+########
+6
+WASHINGTON _ US President Donald Trump backed legislation set to slash legal immigration on Wednesday by unveiling a `` merit_based '' system unfavorable for low_skill immigrants .
+slash	10	CT+	CT+
+########
+7
+<EOP> .
+########
+8
+Introducing what he called the most significant overhaul of immigration in half a century , Trump said the current system `` has not been fair '' to US workers as it allows entries of low_skill immigrants hired at a lower salary .
+not	22	neg_cue
+########
+9
+<EOP> .
+########
+10
+Struggling American families `` deserve an immigration system that puts their needs first and that puts America first , '' Trump said in a speech at the White House , joined by the bill 's sponsors , Republican Senator Tom Cotton of Arkansas and David Perdue of Georgia .
+needs	11	ps_cue
+########
+11
+<EOP> .
+########
+12
+The Cotton_Perdue bill , or the Reforming American Immigration for Strong Employment LRB RAISE RRB Act , was first introduced in February .
+or	4	ps_cue
+########
+13
+<EOP> .
+########
+14
+The early version of the bill was designed to cut legal immigrants onto the United States by 50 percent over the next 10 years .
+cut	9	CT+	CT+
+########
+15
+<EOP> .
+########
+16
+After being reintroduced with some changes , the bill proposed to eliminate certain pathways to family_based immigration , stipulating that only spouses and minor children of the US citizen and permanent residents would be eligible for green cards .
+eliminate	11	CT+	CT+
+proposed	9	ps_cue
+would	32	ps_cue
+########
+17
+<EOP> .
+########
+18
+Meanwhile , the act creates a merit_based system that grades possible immigrants for earning a green card , a major attempt to completely overhaul the family_based approach .
+possible	10	ps_cue
+########
+19
+<EOP> .
+########
+20
+<EOP> .
+########
+21
+<EOP> .
+########
+22
+Factors that would be taken into account in the competitive process include English language skills , education , financial capability , and age .
+would	2	ps_cue
+########
+23
+<EOP> .
+########
+24
+The legislation , Trump stressed , also `` prevents new immigrants from collecting welfare and protects US workers from being displaced . ''
+prevents	8	CT+	CT+
+########
+25
+<EOP> .
+########
+26
+`` And that 's a very big thing .
+########
+27
+They 're not going to come in and just immediately go and collect welfare , '' he continued .
+not	2	neg_cue
+########
+28
+<EOP> .
+########
+29
+The initial bill , stalled in the Senate for several months , was praised by the country 's anti_immigration groups , while it is predicted to face an uphill battle through the Congress .
+predicted	24	ps_cue
+########
+30
+<EOP> .
+########
+31
+Shortly after the bill was unveiled , Republican Senator Lindsey Graham of South Carolina said the bill would be `` devastating '' to the US economy `` which relies on this immigrant workforce . ''
+would	17	ps_cue
+########
+32
+<EOP> .
+########
+33
+Other critics argued that such measures would dissuade skilled immigrants who would otherwise want to come to the United States .
+would	6	ps_cue
+would	11	ps_cue
+########
+34
+<EOP> .
+########

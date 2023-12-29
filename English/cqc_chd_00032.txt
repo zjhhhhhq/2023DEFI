@@ -1,0 +1,105 @@
+Does Thailand_China railway serve Thailand 's long_term development
+0
+Thailand_China railway serves Thailand 's long_term development : Chinese FM <EOP> .
+serves	2	CT+	CT+
+########
+1
+2017_07_25 14:28 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+<EOP> .
+########
+4
+Visiting Foreign Minister Wang Yi LRB L RRB and his Thai counterpart Don Pramudwinai attend a joint press conference in Bangkok , Thailand , on July 24 , 2017 .
+########
+5
+LRB Photo_Xinhua RRB <EOP> .
+########
+6
+<EOP> .
+########
+7
+<EOP> .
+########
+8
+BANGKOK _ Chinese Foreign Minister Wang Yi said on Monday that Thailand_China railway project is conducive to the long_term development of Thailand and meets the interests of the Thai people .
+conducive	15	CT+	CT+
+########
+9
+<EOP> .
+########
+10
+Speaking at a press conference alongside his Thai counterpart Don Pramudwinai , Wang said Thailand_China railway is an important project in the mutually beneficial cooperation between the two countries .
+important	18	CT+	CT+
+########
+11
+<EOP> .
+########
+12
+The railway project is also an important connectivity project under the framework of the Belt and Road Initiative , he added .
+important	6	CT+	CT+
+########
+13
+<EOP> .
+########
+14
+Proposed by China in 2013 , the Belt and Road Initiative refers to the Silk Road Economic Belt and the 21st Century Maritime Silk Road , aiming at building a trade and infrastructure network connecting Asia with Europe and Africa along the ancient trade routes of Silk Road .
+########
+15
+<EOP> .
+########
+16
+Wang noted that building of Thailand_China railway will not only bring about growth and prosperity of local industries along the railway in Thailand , but also achieve breakthrough of the Pan_Asian railway network .
+will	7	ps_cue
+not	8	neg_cue
+########
+17
+<EOP> .
+########
+18
+Furthermore , the project will lay the foundation for Thailand to be the hub for regional connectivity as well as an important center of ASEAN economy , he stressed .
+will	4	ps_cue
+########
+19
+<EOP> .
+########
+20
+`` No matter judging from a domestic or regional perspective , the project will benefit Thailand in the long run and meet the interests of the Thai people , '' Wang said .
+benefit	14	CT+	CT+
+No	1	neg_cue
+or	7	ps_cue
+will	13	ps_cue
+########
+21
+<EOP> .
+########
+22
+While noting that it is inevitable to encounter some difficulties in pushing forward the project , Wang said that with the personal endeavor of Thai Prime Minister Prayut Chan_o_cha , the technical bottleneck has been broken and major progress has been made in the negotiation of the project .
+forward	12	ps_cue
+forward	12	neg_cue
+########
+23
+<EOP> .
+########
+24
+The two sides have worked out a roadmap for cooperation including the time of launching construction of the project and its anticipated completion , the Chinese minister said .
+########
+25
+<EOP> .
+########
+26
+Wang also highlighted that China is willing to share high_speed railway technology with Thailand , help the Thai side train technicians and management personnel .
+willing	6	ps_cue
+########
+27
+<EOP> .
+########
+28
+Thai cabinet early this month approved the Bangkok_Nakhon Ratchasima high speed railway project under Thailand_China rail cooperation , which is set to start operation in 2021 .
+########
+29
+<EOP> .
+########

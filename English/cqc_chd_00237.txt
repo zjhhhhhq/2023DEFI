@@ -1,0 +1,88 @@
+Is talks the only effective way to solve the region 's nuclear issue
+0
+Foreign Ministry hopeful over US remarks <EOP> .
+remarks	5	PS+	PS+
+hopeful	2	ps_cue
+########
+1
+2017_04_21 07:16 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+Denuclearization peacefully through talks and maintaining peace and stability of the Korean Peninsula is the only effective way to solve the region 's nuclear issue , Foreign Ministry spokesman Lu Kang said in Beijing on Thursday .
+talks	3	CT+	PS+
+########
+4
+<EOP> .
+########
+5
+Lu made the remark after US President Donald Trump was quoted by the Associated Press as urging the leadership of the Democratic People 's Republic of Korea to seek a peaceful solution .
+remark	3	CT+	PS+
+########
+6
+<EOP> .
+########
+7
+Trump said that the deciding factor in easing tensions between the two countries will be how much the DPRK 's leader desires peace .
+will	13	ps_cue
+########
+8
+<EOP> .
+########
+9
+The United States wants peace , Trump said , and he hopes DPRK leader Kim Jong_un also wants peace .
+wants	3	ps_cue
+hopes	11	ps_cue
+wants	17	ps_cue
+########
+10
+That will be `` the end determination '' , he said .
+will	1	ps_cue
+########
+11
+<EOP> .
+########
+12
+Lu said he had seen the report and reiterated that China 's consistent position has been that the peninsula should be denuclearized peacefully through talks and that peace and stability should be maintained .
+should	19	ps_cue
+should	30	ps_cue
+########
+13
+<EOP> .
+########
+14
+`` As I said here yesterday , none of the major parties in the peninsula 's nuclear issue want to see conflict and war , and an overwhelming majority of the members of the international community want peace , '' the spokesman said .
+none	7	neg_cue
+########
+15
+<EOP> .
+########
+16
+`` We hope all parties can reach consensus over this general direction and general principle , and make concrete efforts toward it , '' Lu said .
+hope	2	ps_cue
+can	5	ps_cue
+########
+17
+<EOP> .
+########
+18
+China has urged the parties involved in the Korean Peninsula nuclear issue to exercise restraint and avoid any actions that could increase tensions .
+avoid	16	neg_cue
+could	20	ps_cue
+########
+19
+It has proposed a `` dual_suspension '' for solving the issue and said it is open to helpful proposals from relevant parties .
+proposed	2	ps_cue
+########
+20
+<EOP> .
+########
+21
+In a news conference on Wednesday , Lu said the consequences of an eventual war would be `` out of anyone 's hands '' .
+would	15	ps_cue
+########
+22
+<EOP> .
+########

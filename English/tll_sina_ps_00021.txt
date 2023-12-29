@@ -1,0 +1,146 @@
+Will teenagers who believe they 're overweight be obese later in life
+0
+You really can THINK yourself fat : Teenagers who believe they 're overweight are ` more likely to be obese later in life <EOP> .
+obese	19	PS+	PS+
+can	2	ps_cue
+likely	16	ps_cue
+########
+1
+Teenagers who mistakenly perceive themselves as overweight are actually at greater risk of obesity as adults , new research has revealed .
+########
+2
+<EOP> .
+########
+3
+Researchers suggest people who wrongly believe they are overweight may be more likely to engage in unhealthy weight_control behaviors such as using diet pills or vomiting _ and these , in turn , are linked with long_term weight gain .
+suggest	1	ps_cue
+may	9	ps_cue
+likely	12	ps_cue
+or	24	ps_cue
+########
+4
+<EOP> .
+########
+5
+And it was boys , rather than girls , who were most at risk .
+rather	5	neg_cue
+########
+6
+<EOP> .
+########
+7
+` Our research shows that psychological factors are important in the development of obesity , ' said study author Angelina Sutin , a psychological scientist at Florida State University .
+########
+8
+<EOP> .
+########
+9
+In previous work , Dr Sutin and her study co_author , Antonio Terracciano , had found that people who were judged on their weight were more likely to be obese .
+obese	29	PS+	PS+
+likely	26	ps_cue
+########
+10
+<EOP> .
+########
+11
+Extending these findings , they wondered whether individuals ' own perceptions of their weight might be just as harmful , especially during the teenage years .
+whether	6	ps_cue
+might	14	ps_cue
+########
+12
+<EOP> .
+########
+13
+The researchers used data from the National Longitudinal Study of Adolescent Health .
+########
+14
+<EOP> .
+########
+15
+This enabled them to examine the height , weight , and body image thoughts of more than 6,500 young people when they were 16 and 28 years old .
+########
+16
+<EOP> .
+########
+17
+At age 16 , the participants were asked to rate how they thought of themselves in terms of weight , with response options ranging from very underweight LRB a score of 1 RRB to very overweight LRB a score of 5 RRB .
+########
+18
+<EOP> .
+########
+19
+The researchers were specifically interested in looking at the outcomes for teenagers who saw themselves as overweight , even though they were a healthy weight by medical standards .
+########
+20
+<EOP> .
+########
+21
+Compared to those who perceived their weight accurately , young people who wrongly perceived themselves as being overweight had a 40 per cent greater risk of becoming obese as adults .
+########
+22
+<EOP> .
+########
+23
+But why would seeing themselves as heavier than they actually are predispose teens to later weight gain ?
+would	2	ps_cue
+########
+24
+<EOP> .
+########
+25
+As well as being more likely to adopt unhealthy behaviours such as using diet pills or vomiting , these people may also have less self control , the study suggests .
+likely	5	ps_cue
+or	15	ps_cue
+may	20	ps_cue
+suggests	29	ps_cue
+########
+26
+<EOP> .
+########
+27
+` The teens are likely also influenced by weight_related stigmatisation , which is itself associated with obesity .
+likely	4	ps_cue
+########
+28
+<EOP> .
+########
+29
+Ultimately , these factors may result in a self_fulfilling prophecy , they say .
+may	4	ps_cue
+########
+30
+<EOP> .
+########
+31
+But why would boys be more affected than girls ?
+would	2	ps_cue
+########
+32
+<EOP> .
+########
+33
+` It may be that girls are more attentive to their weight and may intervene earlier when they experience any weight gain .
+may	2	ps_cue
+may	13	ps_cue
+########
+34
+As such , the self_fulfilling prophecy may be stronger for boys than for girls . '
+may	6	ps_cue
+########
+35
+says Dr Sutin .
+########
+36
+<EOP> .
+########
+37
+She suggests that healthcare professionals may also notice weight gain sooner for girls than for boys , or may be more likely to address any weight gain with girls than with boys .
+suggests	1	ps_cue
+may	5	ps_cue
+or	17	ps_cue
+may	18	ps_cue
+likely	21	ps_cue
+########
+38
+<EOP> .
+########

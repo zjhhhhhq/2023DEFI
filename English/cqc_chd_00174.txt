@@ -1,0 +1,75 @@
+Do China and Philippine reach consensus through dialogue
+0
+Talks set with Philippines on South China Sea <EOP> .
+Talks	0	CT+	CT+
+########
+1
+2017_05_17 07:49 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+<EOP> .
+########
+4
+Chinese and Philippine officials will meet in the southwestern city of Guiyang on Friday to consult for the first time on South China Sea disputes .
+will	4	ps_cue
+########
+5
+<EOP> .
+########
+6
+Delegations led by Vice_Foreign Minister Liu Zhenmin and Philippine Ambassador Jose Santiago Santa Romana will engage in a `` friendly dialogue and consultations '' on topics related to the South China Sea in the city in Guizhou province , Foreign Ministry spokeswoman Hua Chunying said on Tuesday .
+dialogue	20	CT+	CT+
+will	14	ps_cue
+########
+7
+<EOP> .
+########
+8
+`` The meeting aims to implement the consensus reached by leaders of the two countries in October and establish an institutional dialogue platform , '' she said at a daily news conference in Beijing .
+meeting	2	CT+	CT+
+########
+9
+<EOP> .
+########
+10
+Philippine President Rodrigo Duterte made his first state visit to China in October , a move that helped repair ties that had been damaged by the previous administration in Manila .
+########
+11
+<EOP> .
+########
+12
+According to Hua , China expects and believes the meeting will help the two countries manage differences , promote maritime cooperation and lead to resolving related disputes and creating a good atmosphere to enhance ties and cooperation in various areas .
+expects	5	ps_cue
+will	10	ps_cue
+########
+13
+<EOP> .
+########
+14
+Hua said the two leaders again reached consensus on resolving the South China Sea issue through dialogue and negotiations on Monday when President Xi Jinping met with Duterte , who attended the Belt and Road Forum for International Cooperation in Beijing .
+dialogue	16	CT+	CT+
+########
+15
+<EOP> .
+########
+16
+`` China appreciates President Duterte for conducting active dialogue and cooperation with China on the issue and jointly safeguarding peace and stability in the South China Sea , '' she said .
+dialogue	8	CT+	CT+
+########
+17
+<EOP> .
+########
+18
+Before Friday 's bilateral meeting , the 14th meeting of senior officials from China and the Association of Southeast Asian Nations regarding the implementation of a code of conduct in the South China Sea will be held in Guiyang on Thursday .
+meeting	4	CT+	CT+
+will	34	ps_cue
+########
+19
+<EOP> .
+########
+20
+mojingxi@chinadaily.com.cn <EOP> .
+########

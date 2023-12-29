@@ -1,0 +1,129 @@
+Do you resist a cold misted bottle of Coca_Cola
+0
+You know it 's so unhealthy but sometimes you simply can not resist a cold misted bottle of Coca_Cola .
+resist	12	CT-	CT-
+not	11	neg_cue
+can	10	ps_cue
+########
+1
+Here we present you 10 facts about this beverage you might never heard of .
+might	10	ps_cue
+never	11	neg_cue
+########
+2
+<EOP> .
+########
+3
+1 .
+########
+4
+CocaCola only sold 25 bottles the first year but kept going.It 's a perfect lesson for everyone _ never give up on the way to your dream !
+give	19	CT-	CT-
+never	18	neg_cue
+########
+5
+<EOP> .
+########
+6
+2 .
+########
+7
+American Coca Cola tastes different to International Coca Cola .
+########
+8
+Maybe it 's even for the better : you may travel and discover new flavours of the famous beverage .
+may	9	ps_cue
+########
+9
+<EOP> .
+########
+10
+3 .
+########
+11
+If you bought ONE share of Coca_Cola stock in 1920 , it would be worth $ 6.7 million by 2010 .
+would	12	ps_cue
+########
+12
+Now you know where to go when time travel becomes possible .
+possible	10	ps_cue
+########
+13
+<EOP> .
+########
+14
+4 .
+########
+15
+There are only 2 countries in the entire world that do not sell Coca Cola _ North Korea and Cuba.Both countries are under long_term trade American embargoes .
+not	11	neg_cue
+########
+16
+If you find it in any of these two countries , be sure it was brought by smugglers .
+########
+17
+<EOP> .
+########
+18
+5 .
+########
+19
+Coca Cola produces so many different products that if you were to drink one each day , it would take you 9 years to try them all .
+would	18	ps_cue
+########
+20
+Would you dare to try such an experiment with your health ?
+########
+21
+<EOP> .
+########
+22
+green if coloring were not added to it .
+not	4	neg_cue
+########
+23
+It could be a perfect drink for St. Patrick Day then !
+could	1	ps_cue
+########
+24
+<EOP> .
+########
+25
+because they associated Diet Coke with women .
+########
+26
+In fact there is no any difference except pleasing your ears .
+no	4	neg_cue
+except	7	neg_cue
+########
+27
+<EOP> .
+########
+28
+8 .
+########
+29
+3.1 % of all beverages consumed around the world are Coca_Cola products.Every day 55 billion different beverages are drunk by people all over the world , 1.7 billion are tradmarked or licensed drinks of Coca_Cola Company .
+or	30	ps_cue
+########
+30
+<EOP> .
+########
+31
+9 .
+########
+32
+The red and white Coca_Cola logo is recognized by 94 % of the world 's population.Many people consume it daily !
+########
+33
+<EOP> .
+########
+34
+10 .
+########
+35
+Around the world , the average person consumes a Coke product every four days.No wonder , they spend on advertising more than Apple and Microsoft combined .
+########
+36
+<EOP> .
+########

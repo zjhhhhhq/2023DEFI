@@ -1,0 +1,101 @@
+Did the United States on Wednesday lay down a tough line for modernizing the North American Free Trade Agreement
+0
+US takes tough lines as NAFTA negotiations begin <EOP> .
+########
+1
+2017_08_17 02:56 <EOP> .
+########
+2
+Agencies <EOP> .
+########
+3
+<EOP> .
+########
+4
+<EOP> .
+########
+5
+<EOP> .
+########
+6
+United States Trade Representative Robert Lighthizer , flanked by US Chief Negotiator John Melle and US General Counsel Stephen Vaughn , speaks at a news conference prior to the inaugural round of North American Free Trade Agreement renegotiations in Washington , US , August 16 , 2017 .
+########
+7
+LRB Photo_Agencies RRB <EOP> .
+########
+8
+The United States on Wednesday laid down a tough line for modernizing the North American Free Trade Agreement , demanding major changes to the pact that would reduce US trade deficits with Mexico and Canada and increase US content for autos .
+modernizing	11	CT+	CT+
+would	26	ps_cue
+########
+9
+<EOP> .
+########
+10
+Speaking at the start of the talks in Washington , US President Donald Trump 's top trade adviser , Robert Lighthizer , said Trump was not interested in `` a mere tweaking '' of the 23_year_old pact , which he blames for hundreds of thousands of job losses to Mexico .
+not	25	neg_cue
+########
+11
+<EOP> .
+########
+12
+`` We feel that NAFTA has fundamentally failed many , many Americans and needs major improvement , '' Lighthizer , the US Trade Representative , said in an opening statement .
+failed	7	neg_cue
+needs	13	ps_cue
+########
+13
+<EOP> .
+########
+14
+Canadian and Mexican officials defended NAFTA and said its benefits and structure should be preserved while it is modernized .
+should	12	ps_cue
+########
+15
+<EOP> .
+########
+16
+Lighthizer said he would demand increased regional and US content in autos produced in the region , the largest source of a $ 64_billion US goods trade deficit with Mexico last year .
+would	3	ps_cue
+########
+17
+He also said the United States would insist on strong provisions governing labor and currency practices .
+would	6	ps_cue
+########
+18
+<EOP> .
+########
+19
+`` We need to ensure that the huge trade deficits do not continue and we have balance and reciprocity .
+need	2	ps_cue
+not	11	neg_cue
+########
+20
+This should be periodically reviewed , '' said Lighthizer .
+reviewed	4	CT+	CT+
+should	1	ps_cue
+########
+21
+`` The rules of origin , particularly on autos and auto parts , must require higher NAFTA content and substantial US content . ''
+########
+22
+<EOP> .
+########
+23
+The demand is at odds with auto producers and suppliers in the region , who are concerned that increasing local content requirements will raise their costs and make their factories less competitive with those in Asia and Europe .
+will	22	ps_cue
+raise	23	ps_cue
+########
+24
+<EOP> .
+########
+25
+Canadian Foreign Minister Chrystia Freeland , who suggested this week her country could walk away if the US insisted on scrapping a NAFTA mechanism to resolve trade disputes , also took a swipe at the US fixation on cutting its trade deficits .
+suggested	7	ps_cue
+could	12	ps_cue
+########
+26
+<EOP> .
+########
+27
+REUTERS <EOP> .
+########

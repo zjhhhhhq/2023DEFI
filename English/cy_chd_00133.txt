@@ -1,0 +1,108 @@
+Were many foreigners hurt in Melbourne car attack
+0
+Many foreigners hurt in Melbourne car attack <EOP> .
+hurt	2	CT+	CT+
+########
+1
+2017_12_23 14:50 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+MELBOURNE _ Nearly half the 19 people injured when a driver with no known extremist links plowed into pedestrians in the southern city of Melbourne were foreign nationals , Australian Prime Minister Malcolm Turnbull said on Friday .
+injured	7	CT+	CT+
+no	12	neg_cue
+########
+4
+<EOP> .
+########
+5
+Police alleged that the 32_year_old Australian man , a refugee from Afghanistan , had a history of mental illness and drove a car into Christmas shoppers on one of the busiest roads in Australia 's second_largest city on Thursday .
+########
+6
+<EOP> .
+########
+7
+The incident was a chilling reminder of attacks using vehicles in cities around the world .
+########
+8
+Four people were killed in a similar incident in Melbourne in January .
+########
+9
+<EOP> .
+########
+10
+Police said the driver had no known ties to extremist organizations , although they also said he had spoken of the perceived mistreatment of Muslims after his arrest .
+no	5	neg_cue
+########
+11
+<EOP> .
+########
+12
+They have yet to interview , charge or identify the man .
+yet	2	neg_cue
+or	7	ps_cue
+########
+13
+<EOP> .
+########
+14
+Turnbull said nine of the victims were foreign nationals .
+########
+15
+He did not specify their nationalities , but Australian media reported they included people from China , India , Ireland , Italy , New Zealand , South Korea and Venezuela .
+not	2	neg_cue
+########
+16
+<EOP> .
+########
+17
+`` This is a shocking incident to occur just on the eve of Christmas , but we will not be cowed by it , '' Turnbull told reporters in Sydney .
+will	17	ps_cue
+not	18	neg_cue
+########
+18
+<EOP> .
+########
+19
+Four people were killed and more than 20 injured in January when a man deliberately drove into pedestrians just a few hundred meters away from Thursday 's attack .
+injured	8	CT+	CT+
+########
+20
+That was also not designated as a terror attack .
+not	3	neg_cue
+########
+21
+<EOP> .
+########
+22
+Canberra has become increasingly worried about homegrown extremism and officials said they have prevented 13 terror attacks on home soil in the past few years .
+prevented	13	neg_cue
+########
+23
+<EOP> .
+########
+24
+The government in August unveiled a strategy aimed at preventing vehicle attacks in crowded public places .
+########
+25
+<EOP> .
+########
+26
+Suggested steps include deterrent options like fencing and closed circuit cameras , and delaying approaches with trees and bollards to slow down vehicles .
+like	5	ps_cue
+delaying	13	neg_cue
+########
+27
+<EOP> .
+########
+28
+Police had cordoned off the area immediately after the incident but roads in central Melbourne were open and trams were operating as usual on Friday morning .
+########
+29
+<EOP> .
+########
+30
+Reuters _ Afp _ Ap <EOP> .
+########

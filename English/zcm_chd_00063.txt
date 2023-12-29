@@ -1,0 +1,87 @@
+Does FM Wang visit Panamanian president
+0
+FM Wang visits Panamanian president <EOP> .
+visits	2	CT+	CT+
+########
+1
+2017_09_18 07:36 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+<EOP> .
+########
+4
+Visiting Foreign Minister Wang Yi meets Panamanian President Juan Carlos Varela on Saturday in Panama City.LRB Photo_Xinhua RRB <EOP> .
+########
+5
+Panamanian President Juan Carlos Varela told visiting Foreign Minister Wang Yi on Saturday in Panama City that he is glad to be able to visit China this year .
+########
+6
+<EOP> .
+########
+7
+Wang relayed President Xi Jinping 's greetings to the president and said China is ready to make good preparations for the visit .
+relayed	1	CT+	CT+
+ready	14	ps_cue
+########
+8
+He spoke of the hope that both countries would take the visit as an opportunity to introduce a new era of mutually beneficial cooperation and common prosperity .
+hope	4	ps_cue
+would	8	ps_cue
+########
+9
+<EOP> .
+########
+10
+Varela said he has been motivated by the rapid development of bilateral ties .
+########
+11
+<EOP> .
+########
+12
+Wang commented that bilateral exchanges in various fields have surged in that time and the potential for cooperation has been fully unleashed .
+potential	15	ps_cue
+########
+13
+<EOP> .
+########
+14
+Facts have proved that the diplomatic relations between China and Panama serve the fundamental , long_term interests of Panama and its people and were a correct strategic choice , Wang said .
+########
+15
+<EOP> .
+########
+16
+Varela said Panama warmly responds to and actively supports the Belt and Road Initiative proposed by Xi .
+proposed	14	ps_cue
+########
+17
+<EOP> .
+########
+18
+Panama is willing to fully use its unique geographical location , participate in building the Maritime Silk Road and work together with China to contribute to global connectivity , he added .
+willing	2	ps_cue
+########
+19
+<EOP> .
+########
+20
+Panama will firmly adhere to the one_China principle , abide by its commitment to the Taiwan question made when its diplomatic relations with China were forged , and will in no way violate the one_China principle or damage mutual political trust , he said .
+will	1	ps_cue
+question	16	ps_cue
+will	28	ps_cue
+no	30	neg_cue
+or	36	ps_cue
+########
+21
+<EOP> .
+########
+22
+Francisco Carlo Escobar , the Panamanian ambassador to China , said in a recent interview with Xinhua that Panama will discuss with China the construction of several important Panamanian projects including the expansion of Tocumen International Airport and ports in Colon province .
+will	19	ps_cue
+########
+23
+<EOP> .
+########

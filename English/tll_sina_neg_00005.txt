@@ -1,0 +1,115 @@
+Will most modern electronics be adversely affected by small magnets
+0
+Do magnets actually pose a terrifying risk to our gadgets , and where did we get the idea that they 're dangerous in the first place ?
+########
+1
+<EOP> .
+########
+2
+Let 's find out .
+########
+3
+<EOP> .
+########
+4
+This more than likely stems from old electronic devices , such as CRT monitors and televisions , which were susceptible to magnetic fields , explains Matt Newby from first4magnets , `` When placing a strong magnet near one of these you could distort the picture .
+likely	3	ps_cue
+could	41	ps_cue
+########
+5
+Thankfully , modern televisions and monitors are n't susceptible in this way . ''
+n't	7	neg_cue
+########
+6
+<EOP> .
+########
+7
+Most modern electronics , like our smartphones , are not going to be adversely affected by small magnets ; but is that all there is to it ?
+affected	14	CT-	CT-
+like	4	ps_cue
+not	9	neg_cue
+########
+8
+<EOP> .
+########
+9
+How do magnets affect smartphones ?
+########
+10
+<EOP> .
+########
+11
+The vast majority of magnets that you come across day to day , even many of the super_strong ones on the market , will have no adverse effect on your smartphone , says Matt , `` In fact , within the device there will be a number of very small magnets which perform important functions.For example , the new Apple Watch uses a magnetic inductive wireless charging system . ''
+effect	27	CT-	CT-
+will	23	ps_cue
+no	25	neg_cue
+will	43	ps_cue
+########
+12
+<EOP> .
+########
+13
+However , before you get carried away and start rubbing magnets all over your smartphone , there is something else to consider .
+consider	21	ps_cue
+########
+14
+<EOP> .
+########
+15
+Matt warned that magnetic fields can temporarily interfere with the digital compass and magnetometer inside your smartphone , and that 's more serious than you may think .
+can	5	ps_cue
+may	25	ps_cue
+########
+16
+<EOP> .
+########
+17
+The engineers over at KandJ Magnetics actually experimented with an iPhone to show how the sensors inside can be affected by a magnet .
+can	17	ps_cue
+########
+18
+<EOP> .
+########
+19
+The problem we found is that a nearby magnet will affect the internal magnetic sensors inside the phone .
+will	9	ps_cue
+########
+20
+The compass wo n't read correctly , explained Michael Paul , an engineer at KandJ , `` What 's worse , if you stick a strong magnet to the phone , you could slightly magnetize some steel components inside , making them act like weak magnets .
+n't	3	neg_cue
+could	32	ps_cue
+like	43	ps_cue
+########
+21
+This can make it difficult to properly calibrate the compass . ''
+can	1	ps_cue
+########
+22
+<EOP> .
+########
+23
+You might think it 's unimportant because you never use the compass app , but that does n't mean other apps are n't relying on the same sensor .
+might	1	ps_cue
+never	8	neg_cue
+n't	17	neg_cue
+n't	22	neg_cue
+########
+24
+<EOP> .
+########
+25
+Google LRB GOOGL , Tech30 RRB Maps , for example , uses the sensor to detect which way the phone is facing , and a number of games also rely on it to work out your orientation .
+########
+26
+<EOP> .
+########
+27
+It seems as though magnets are n't likely to kill your smartphone , but there 's definitely a possibility they 'll mess some pretty important aspects up , so why take the risk ?
+seems	1	ps_cue
+n't	6	neg_cue
+likely	7	ps_cue
+possibility	18	ps_cue
+########
+28
+<EOP> .
+########

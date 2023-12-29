@@ -1,0 +1,159 @@
+Does Tire company build plant in North Carolina 
+0
+Tire company to build plant in North Carolina <EOP> .
+########
+1
+2017_12_21 12:03 <EOP> .
+########
+2
+China Daily USA <EOP> .
+########
+3
+A Chinese tire company will build a $ 580 million plant in North Carolina that will employ hundreds and produce about 6 million tires annually .
+build	5	CT+	CT+
+will	4	ps_cue
+will	15	ps_cue
+########
+4
+<EOP> .
+########
+5
+`` We are a global brand that has had a limited presence in the US market , '' said Manny Cicero , CEO of CEO of Triangle Tire USA , a subsidiary of Triangle Tyre Co Ltd in China , a well_known tire manufacturer on the mainland for 40 years .
+########
+6
+`` This plant will enable us to penetrate the American consumer market and build the Triangle brand . ''
+will	3	ps_cue
+########
+7
+<EOP> .
+########
+8
+Cicero and Triangle Tire Chairman Ding Yuhua were in North Carolina on Tuesday to formally unveil plans for the plant .
+plans	16	ps_cue
+########
+9
+It will be built on the 1,449 _ acre Kingsboro Megasite in Edgecombe County , North Carolina , about 65 miles east of the state capital of Raleigh .
+will	1	ps_cue
+########
+10
+<EOP> .
+########
+11
+News reports have said that the plant could employ around 800 , and that triangle Tire could get up to $ 152 million in state and local tax breaks , worker training and other incentives if it meets hiring targets .
+could	7	ps_cue
+could	16	ps_cue
+########
+12
+<EOP> .
+########
+13
+Salaries for the new positions will vary , with an average annual salary of $ 56,450 once all positions are filled .
+will	5	ps_cue
+########
+14
+The average wage in Edgecombe County is $ 32,642 , according to a press release from the office of North Carolina Governor Roy Cooper .
+########
+15
+<EOP> .
+########
+16
+The plant will be built in two phases : a passenger tire facility in the first phase and a commercial tire facility in the second .
+be	3	CT+	CT+
+will	2	ps_cue
+########
+17
+<EOP> .
+########
+18
+`` We expect to break ground by the middle of 2018 and the first passenger tire produced by the end of 2019 .
+expect	2	ps_cue
+########
+19
+The plant should be fully operational by the middle of 2020 , '' said Cicero .
+should	2	ps_cue
+########
+20
+<EOP> .
+########
+21
+Cicero said the facility will be highly automated .
+will	4	ps_cue
+########
+22
+`` It 's going to be a smart factory , and there will be hundreds of jobs .
+will	12	ps_cue
+########
+23
+While there may not be as many employees as in a traditional tire plant , the ones at our facility will be high_paying positions , '' he said .
+may	2	ps_cue
+not	3	neg_cue
+will	20	ps_cue
+########
+24
+<EOP> .
+########
+25
+Cicero said Triangle looked at 60 to 100 sites before settling on the North Carolina site .
+########
+26
+`` In the end it was determined that Edgecombe County , North Carolina , was the best choice for the plant , '' he said .
+########
+27
+The site is near major highway Interstate 95 and a rail line .
+########
+28
+<EOP> .
+########
+29
+`` Triangle Tyre chose North Carolina for its first_ever manufacturing center outside of China because they know our workers share their commitment to innovation , education and excellence , '' Cooper said in a statement .
+########
+30
+<EOP> .
+########
+31
+Triangle established its American headquarters in Franklin , Tennessee , outside of Nashville in 2015 after opening a research center in Akron , Ohio , in 2011 .
+########
+32
+The Franklin facility and the one in Akron have about 10 employees each .
+########
+33
+<EOP> .
+########
+34
+Cicero said there are no plans at this time to move those to North Carolina .
+no	4	neg_cue
+plans	5	ps_cue
+########
+35
+`` We may look at consolidation in the future , '' he said .
+may	2	ps_cue
+########
+36
+<EOP> .
+########
+37
+Triangle Tyre Co manufactures more than 22 million tires a year that are sold in 180 countries .
+########
+38
+Triangle Tire USA will market medium_heavy truck tires , as well as passenger and light truck tires , including ultra_high_performance , winter and specialty trailer tires .
+will	3	ps_cue
+########
+39
+The company also offers off_the_road tires for the construction and mining industries .
+########
+40
+<EOP> .
+########
+41
+Triangle will become the third Chinese tire company to build a production plant in the US .
+will	1	ps_cue
+########
+42
+<EOP> .
+########
+43
+paulwelitzkin@chinadailyusa.com <EOP> .
+########
+44
+LRB China Daily USA 12_21_2017 page2 RRB <EOP> .
+########

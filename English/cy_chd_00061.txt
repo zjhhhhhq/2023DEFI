@@ -1,0 +1,90 @@
+Does China 's UN rep call for tackling autism among migrants
+0
+China 's UN rep calls for tackling autism among migrants <EOP> .
+autism	7	CT+	CT+
+########
+1
+2017_04_01 05:34 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+In celebration of World Autism Day on Friday , the Chinese permanent representative to the UN said that autism must be tackled within the broader context of the UN 's health policy as designated by the 2030 agenda of sustainable development .
+autism	18	CT+	CT+
+########
+4
+<EOP> .
+########
+5
+Governments should establish mechanisms to foster cooperation between countries to implement health and disability goals related to the 2030 agenda , and more financial resources must be invested to improve medical services and healthcare in remote and underdeveloped areas because `` these are coincidentally areas where migration is more likely to take place , '' said Liu Jieyi at the UN .
+should	1	ps_cue
+likely	49	ps_cue
+########
+6
+<EOP> .
+########
+7
+He made his remarks at a high_level meeting on migrants with autism and developmental disabilities .
+autism	11	CT+	CT+
+########
+8
+<EOP> .
+########
+9
+`` It is important to stress the role of reform and innovation in the overall public health system , and also in the technology and medicine involved to address the challenge of more cases of autism throughout the world , '' Liu said .
+autism	35	CT+	CT+
+########
+10
+<EOP> .
+########
+11
+It is also important to stress prevention , shifting the perception of health from `` a treatment_centered approach to a health_centered approach , '' he said .
+########
+12
+<EOP> .
+########
+13
+China has emphasized public health as a part of its development strategy because the country is `` guided by the concept that prosperity can not be achieved without health , '' Liu said .
+can	23	ps_cue
+not	24	neg_cue
+without	27	neg_cue
+########
+14
+<EOP> .
+########
+15
+China is working to promote healthy lifestyles , optimize health services , improve the healthcare system , build a healthy environment , and develop its health industries , he added .
+########
+16
+<EOP> .
+########
+17
+On autism , China is implementing a program called Colorful Dream to help children with disabilities , providing financial assistance and rehabilitation services to children with autism , particularly those from impoverished and migrant worker families .
+autism	1	CT+	CT+
+autism	26	CT+	CT+
+########
+18
+<EOP> .
+########
+19
+`` In China children with autism are fondly called ` children of stars , ' '' Liu said .
+autism	5	CT+	CT+
+########
+20
+<EOP> .
+########
+21
+`` China will continue to work with other countries to support autism treatment and rehabilitation and also raise global awareness and strengthen cooperation so that children of the stars from all over the world will enjoy a life as fruitful of all other kids , and that will certainly be a much better world , '' he said .
+autism	11	CT+	CT+
+will	2	ps_cue
+raise	17	ps_cue
+will	34	ps_cue
+will	47	ps_cue
+########
+22
+<EOP> .
+########
+23
+amyhe@chinadailyusa.com <EOP> .
+########

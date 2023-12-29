@@ -1,0 +1,91 @@
+Does innovation power Chinese brands ' global success
+0
+Innovation powers Chinese brands ' global success <EOP> .
+powers	1	CT+	CT+
+########
+1
+2017_12_25 10:50 <EOP> .
+########
+2
+null <EOP> .
+########
+3
+Chinese companies need to be fueled by innovation through diversity in order to break through incredibly difficult barriers like brand recognition to go global , entrepreneurs said Friday in Beijing .
+fueled	5	CT+	CT+
+need	2	ps_cue
+like	18	ps_cue
+########
+4
+<EOP> .
+########
+5
+A great brand should be meaningful by standing for something or meeting people 's expectations , said Chen Yilong , chairman of China 's Sunshine Kaidi New Energy Group .
+should	3	ps_cue
+or	10	ps_cue
+########
+6
+<EOP> .
+########
+7
+Last year , Kaidi announced it planned to invest about 1 billion euros LRB $ 1.13 billion RRB in a new wood_based biodiesel plant in Finland , due to employ about 4,000 people during its construction .
+planned	6	ps_cue
+########
+8
+<EOP> .
+########
+9
+Chen said it was the first industrial_scale biodiesel plant in Europe adopting Chinese renewable energy standards and technology .
+########
+10
+`` Taking advantage of the Belt and Road Initiative will help more Chinese brands extend their reach around the globe , '' explained Chen , adding the company has operated about 30 biomass plants in both China and Vietnam .
+will	9	ps_cue
+########
+11
+<EOP> .
+########
+12
+The situation is similar for the Jiangsu_based HOdo Group .
+########
+13
+Investments from the group are closely linked to the establishment of Sihanoukville Special Economic Zone in southern Cambodia , which has become a key part of China 's Belt and Road Initiative in Southeast Asia .
+########
+14
+<EOP> .
+########
+15
+`` A number of excellent Chinese companies have located there , bringing their technical prowess and providing job opportunities to 14,000 Cambodian nationals , '' said Qian Wenhua , a director of the textile and garment company in Wuxi , East China 's Jiangsu province .
+opportunities	18	ps_cue
+########
+16
+<EOP> .
+########
+17
+`` To succeed amid the shifting focus on healthy eating , Daoxiangcun snacks are now low in fat and sugar while typically containing lots of minerals and fiber , '' said Zhou Guangjun , chairman of the Daoxiangcun board .
+########
+18
+<EOP> .
+########
+19
+As one of the capital 's time_honored brands , Daoxiangcun snacks have found their way into the hearts and stomachs of countless internationals , he added .
+########
+20
+`` The key is to change yourself and meet global demands for great taste and simplicity . ''
+########
+21
+<EOP> .
+########
+22
+`` Our brand started its business by helping overseas travelers to draft a shopping list before they hit the road , '' said Qu Fang , the founder of Xiaohongshu , an overseas shopping tip app .
+########
+23
+<EOP> .
+########
+24
+The brand won 70 million registered users around the world by creating a platform to develop cross_border e_commerce , resolving the information imbalance and shortening the distance between product and market in time and space .
+########
+25
+<EOP> .
+########
+26
+Contact the writer at liuhui1@chinadaily.com.cn <EOP> .
+########

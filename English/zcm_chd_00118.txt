@@ -1,0 +1,113 @@
+Was Christopher A. Wray confirmed as the next director of the Federal Bureau of Investigation LRB FBI RRB .
+0
+US Senate confirms Christopher Wray as new FBI director <EOP> .
+########
+1
+2017_08_02 09:02 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+<EOP> .
+########
+4
+<EOP> .
+########
+5
+<EOP> .
+########
+6
+File photo shows FBI Director nominee Christopher Wray sits during a meeting with Senate Judiciary Committee Chairman Chuck Grassley LRB R_IA RRB on Capitol Hill in Washington , US , June 29 , 2017 .
+########
+7
+LRB Photo_Agencies RRB <EOP> .
+########
+8
+WASHINGTON _ The US Senate voted Tuesday to confirm Christopher A. Wray as the next director of the Federal Bureau of Investigation LRB FBI RRB .
+confirm	8	CT+	CT+
+########
+9
+<EOP> .
+########
+10
+Wray , with a 92_5 vote , replaces James Comey who was abruptly fired by US President Donald Trump in May as investigators were looking into possible links between the Trump campaign and the Russian government .
+May	20	ps_cue
+possible	26	ps_cue
+########
+11
+<EOP> .
+########
+12
+At Wray 's nomination debate on Tuesday afternoon , Democratic Senator Amy Klobuchar said `` this is a tough time to take this tough job . ''
+########
+13
+<EOP> .
+########
+14
+`` The previous FBI director , as we know , was fired because of the Russia investigation .
+########
+15
+The former acting attorney general was fired .
+########
+16
+And we 've had a slew of other firings throughout the government over the last few months , '' she said .
+########
+17
+<EOP> .
+########
+18
+In June , Wray was nominated by Trump to succeed Comey as the FBI director .
+nominated	5	CT+	CT+
+########
+19
+<EOP> .
+########
+20
+During a confirmation hearing last month , Wray told the Senate Judiciary Committee that he would strive for independence , in light of that Trump had allegedly asked for loyalty from the then_FBI leader .
+would	15	ps_cue
+########
+21
+<EOP> .
+########
+22
+`` My commitment is to the rule of law , to the Constitution , to follow the facts wherever they may lead , '' Wray said .
+may	20	ps_cue
+########
+23
+<EOP> .
+########
+24
+`` There is n't a person on this planet whose lobbying or influence could convince to just drop or abandon a properly predicated and meritorious investigation , '' he added .
+n't	3	neg_cue
+or	11	ps_cue
+could	13	ps_cue
+or	18	ps_cue
+########
+25
+<EOP> .
+########
+26
+Born into a family of New York lawyers , Wray graduated in 1989 from Yale University and got a law degree in 1992 from the Yale Law School .
+########
+27
+<EOP> .
+########
+28
+Wray was later hired as a Justice Department prosecutor for years before rising to assistant general in charge of overseeing fraud investigations .
+########
+29
+<EOP> .
+########
+30
+In 2005 , he resigned to join private practice as a litigation partner with the law firm King and Spalding .
+########
+31
+<EOP> .
+########
+32
+Under US law , the FBI director serve a single 10_year term .
+########
+33
+<EOP> .
+########

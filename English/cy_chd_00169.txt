@@ -1,0 +1,141 @@
+Do launches lead to ban on imports
+0
+Launches lead to ban on imports <EOP> .
+imports	5	CT-	CT-
+ban	3	neg_cue
+########
+1
+2017_08_15 06:02 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+China complies with UN resolution , halts DPRK coal , iron , lead , seafood <EOP> .
+########
+4
+Starting on Tuesday , China `` completely prohibits '' imports of coal , iron , iron ore , lead and seafood from the Democratic People 's Republic of Korea , the Ministry of Commerce and General Administration of Customs said .
+prohibits	7	neg_cue
+########
+5
+<EOP> .
+########
+6
+The joint announcement on Monday said Beijing issued the ban to fulfill United Nations Security Council Resolution 2371 , which targets Pyongyang 's intercontinental ballistic missile tests in July .
+fulfill	11	CT-	CT-
+ban	9	neg_cue
+########
+7
+<EOP> .
+########
+8
+Observers noted that the ban has gone further than a February statement by the Ministry of Commerce , which responded to an earlier Security Council resolution on the DPRK and announced China 's suspension of coal imports from the DPRK for the rest of this year .
+ban	4	neg_cue
+########
+9
+<EOP> .
+########
+10
+China 's total imports from the DPRK have seen a drastic drop from March to June , and the country `` has strictly abided '' by the past Security Council resolutions , General Administration of Customs spokesman Huang Songping said last month .
+########
+11
+<EOP> .
+########
+12
+Zhang Liangui , an expert on Korean studies at the Party School of the Central Committee of the Communist Party of China , said it is natural to see China , a permanent member of the Security Council , honor the resolution in a substantial way after voting for it .
+########
+13
+<EOP> .
+########
+14
+The ban could be viewed as a signal to urge Pyongyang to adjust its policies regarding its nuclear and missile programs , Zhang said .
+ban	1	neg_cue
+could	2	ps_cue
+########
+15
+<EOP> .
+########
+16
+Wang Junsheng , a researcher of Asia_Pacific studies at the Chinese Academy of Social Sciences , warned that the situation is `` entering a bottleneck stage '' as there is not enough readiness from either Washington or Pyongyang to tone down their rhetoric and barbs .
+not	30	neg_cue
+either	34	ps_cue
+or	36	ps_cue
+########
+17
+<EOP> .
+########
+18
+Beijing and Washington have remained in contact over the peninsula situation .
+########
+19
+A phone conversation on Saturday between President Xi Jinping and US President Donald Trump touched on the issue .
+########
+20
+<EOP> .
+########
+21
+Joseph Dunford , chairman of the US Joint Chiefs of Staff , is visiting the Republic of Korea , and his trip also includes Japan and China , the Associated Press reported on Monday .
+########
+22
+<EOP> .
+########
+23
+`` We are seeking a peaceful resolution to the crisis , '' said Dunford , who also met with ROK President Moon Jae_in .
+seeking	3	ps_cue
+########
+24
+<EOP> .
+########
+25
+Foreign Ministry spokeswoman Hua Chunying said on Monday that it is hoped all parties concerned consider the constructive proposals made by China .
+hoped	11	ps_cue
+consider	15	ps_cue
+########
+26
+<EOP> .
+########
+27
+It further is hoped the parties seek a breakthrough and viable ways to resume dialogue on the issue , Hua said at a daily news conference in Beijing .
+hoped	3	ps_cue
+########
+28
+<EOP> .
+########
+29
+Earlier this month , Washington threatened potential retaliatory trade measures against China if the country failed to pressure Pyongyang .
+potential	6	ps_cue
+against	10	neg_cue
+failed	15	neg_cue
+########
+30
+<EOP> .
+########
+31
+In response , Hua said trade and the Korean Peninsula are two separate issues and the two countries should reinforce cooperation on them .
+should	18	ps_cue
+########
+32
+`` It 's not appropriate to use one issue as a tool to keep pressure on the other issue , '' Hua said .
+not	3	neg_cue
+########
+33
+<EOP> .
+########
+34
+In another development , Assistant Foreign Minister Kong Xuanyou has taken a concurrent post of China 's special representative on Korean Peninsula affairs , according to Kong 's updated profile on the foreign ministry 's website .
+########
+35
+<EOP> .
+########
+36
+Kong was to replace Wu Dawei , a former vice_foreign minister who served as the country 's top envoy on the peninsula issue since 2010 .
+########
+37
+<EOP> .
+########
+38
+Before taking over Wu 's job , Kong 's areas of responsibility included Asia , treaty and law , boundary and ocean affairs as well as consular affairs .
+########
+39
+<EOP> .
+########

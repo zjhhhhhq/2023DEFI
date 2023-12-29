@@ -1,0 +1,97 @@
+Does Labor leader Corbyn back Britain 's nuclear deterrent
+0
+Labor leader Corbyn insists he backs Britain 's nuclear deterrent <EOP> .
+backs	5	CT+	CT+
+########
+1
+2017_05_21 10:46 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+Jeremy Corbyn , leader of Britain 's opposition Labor Party , delivers a speech at a campaign event in Birmingham , Britain May 20 , 2017 .
+opposition	7	neg_cue
+May	22	ps_cue
+########
+4
+LRB Photo_Agencies RRB <EOP> .
+########
+5
+LONDON _ Jeremy Corbyn , lifelong anti_nuclear war campaigner and leader of the main opposition Labor party , said in Birmingham Saturday he would back the renewal of Britain 's Trident nuclear deterrent program .
+back	24	PS+	CT+
+opposition	14	neg_cue
+would	23	ps_cue
+########
+6
+<EOP> .
+########
+7
+He gave an unequivocal response during a media grilling after some members of his front team gave conflicting responses on Trident , which uses nuclear powered submarines as Britain 's nuclear capability .
+gave	1	neg_cue
+gave	16	neg_cue
+########
+8
+<EOP> .
+########
+9
+Labor 's official party policy is to support the nuclear deterrent program , with Corbyn so far not giving clear responses as to his views on whether he would trigger the launch of nuclear bombs in a war situation .
+support	7	CT+	CT+
+not	17	neg_cue
+whether	26	ps_cue
+would	28	ps_cue
+########
+10
+<EOP> .
+########
+11
+The fall_out within Labor has led to Prime Minister Theresa May and her governing Conservatives to say a Labor government would put Britain 's security at risk .
+May	10	ps_cue
+would	20	ps_cue
+########
+12
+Rival parties have taken advantage of the way Labor has been split on the nuclear issue .
+########
+13
+<EOP> .
+########
+14
+Labor 's shadow foreign secretary Emily Thornberry indicated Friday that Labor might change its stance on the nuclear weapons if it wins the June 8 general election .
+might	11	ps_cue
+########
+15
+Quickly afterwards , the Shadow defense secretary Nia Griffiths said Labor was fully committed to the nuclear deterrent .
+committed	13	CT+	CT+
+########
+16
+<EOP> .
+########
+17
+Corbyn said the party 's election manifesto was very clear in its support for renewing Trident .
+########
+18
+<EOP> .
+########
+19
+Pressed by media in Britain 's second biggest city , Corbyn said : `` I 've just made it clear and included in our manifesto is an absolute commitment which is given by party and which is given by me that we will also pursue multilateral disarmament through the nuclear non_proliferation treaty , and that is a position that has been held for a long time by the party . ''
+will	42	ps_cue
+########
+20
+<EOP> .
+########
+21
+May 's party has seized on the apparent confusion , with Conservative Bob Neill saying Corbyn and Thornberry `` want to disarm Britain and put our security at risk '' .
+May	0	ps_cue
+########
+22
+<EOP> .
+########
+23
+He said in a media interview : `` Corbyn 's coalition of chaos would scrap Trident , abandon our allies and would rather talk to Daesh LRB so_called Islamic State RRB than strike its barbaric leader . ''
+would	13	ps_cue
+would	21	ps_cue
+rather	22	neg_cue
+########
+24
+<EOP> .
+########

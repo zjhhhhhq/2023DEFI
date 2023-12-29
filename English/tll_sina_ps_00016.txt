@@ -1,0 +1,84 @@
+Do men exploit others
+0
+Now it is official .
+########
+1
+Men really are more narcissistic than women , according to a massive American study which analysed three decades of data from more than 475,000 people .
+########
+2
+<EOP> .
+########
+3
+Researchers concluded that men had a greater senses of entitlement , making them more likely to exploit others .
+exploit	16	PS+	PS+
+likely	14	ps_cue
+########
+4
+<EOP> .
+########
+5
+The findings were consistent across multiple age groups and generations , said the study 's authors at the University at Buffalo School of Management .
+########
+6
+<EOP> .
+########
+7
+However , men can take comfort in one conclusion from the study _ narcissism may also have some positive effects .
+can	3	ps_cue
+may	14	ps_cue
+########
+8
+<EOP> .
+########
+9
+`` Narcissism is associated with various interpersonal dysfunctions , including an inability to maintain healthy long_term relationships , unethical behaviour and aggression , '' said Emily Grijalva , assistant professor of organisation and human resources , and the paper 's lead author .
+inability	11	neg_cue
+########
+10
+<EOP> .
+########
+11
+`` At the same time , narcissism is shown to boost self_esteem , emotional stability and the tendency to emerge as a leader . ''
+########
+12
+<EOP> .
+########
+13
+They sifted through more than 355 journal articles , dissertations , manuscripts and technical manuals , and studied gender differences in what they described as the three aspects of narcissism : leadership_authority , grandiosity_exhibitionism and entitlement .
+########
+14
+<EOP> .
+########
+15
+It meant examining reactions to statements such as , `` If I ruled the world , it would be a much better place , '' and `` I know that I am good because everyone keeps telling me so . ''
+would	17	ps_cue
+########
+16
+<EOP> .
+########
+17
+They found the widest gap in entitlement , suggesting that men were more likely than women to exploit others and feel entitled to certain privileges .
+exploit	17	PS+	PS+
+likely	13	ps_cue
+########
+18
+<EOP> .
+########
+19
+The difference narrowed when it came to vanity , which may explain why some women feel the need to clog Twitter and Facebook with countless pouting selfies .
+may	10	ps_cue
+need	17	ps_cue
+########
+20
+<EOP> .
+########
+21
+The results will be published in the forthcoming Psychological Bulletin journal .
+will	2	ps_cue
+########
+22
+<EOP> .
+########
+23
+Vocabulary <EOP> .
+########

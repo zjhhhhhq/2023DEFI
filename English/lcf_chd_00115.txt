@@ -1,0 +1,80 @@
+Is there partnerships between the East and West
+0
+Silk Road is ` biggest story in town ' , says Brown <EOP> .
+########
+1
+2017_10_06 07:42 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+China 's plan for the multibillion_dollar Belt and Road Initiative between the East and West is the embodiment of an interconnected world , according to Gordon Brown .
+interconnected	20	CT+	CT+
+plan	2	ps_cue
+########
+4
+<EOP> .
+########
+5
+Speaking at the Sustainable Silk Roads Conference in Edinburgh , Scotland , the former British prime minster set out his vision for partnerships between the East and West that can bring growth to the global economy .
+partnerships	22	CT+	CT+
+can	29	ps_cue
+########
+6
+<EOP> .
+########
+7
+`` Eurasia , linked by the Silk Road － and China 's new engagement with Europe and the jobs that can come from it － is the biggest story in town for the future of the world economy , '' Brown said .
+can	20	ps_cue
+########
+8
+<EOP> .
+########
+9
+`` There is a huge opportunity for this city , country and continent to align itself with the rising economic power of Asia . ''
+########
+10
+<EOP> .
+########
+11
+The Silk Road Economic Belt and the 21st Century Maritime Silk Road is an international development and infrastructure plan first proposed by President Xi Jinping in 2013 .
+plan	18	ps_cue
+proposed	20	ps_cue
+########
+12
+Brown said a fourth industrial revolution is underway , creating opportunity and insecurity in equal measure .
+########
+13
+<EOP> .
+########
+14
+He said the majority of trade , manufacturing and production is now in the emerging parts of the world , which is why the Silk Road project is so important .
+########
+15
+<EOP> .
+########
+16
+`` It is a big idea , and I think we sometimes in the West do n't understand how big an idea it is , '' said Brown .
+n't	16	neg_cue
+########
+17
+`` I do n't think we should underestimate the importance of the Silk Road . ''
+n't	3	neg_cue
+should	6	ps_cue
+########
+18
+<EOP> .
+########
+19
+The former prime minister was speaking at Edinburgh University as part of the two_day conference organized by the Confucius Institute .
+########
+20
+<EOP> .
+########
+21
+Mike Harrison is a media consultant to China Daily UK .
+########
+22
+<EOP> .
+########

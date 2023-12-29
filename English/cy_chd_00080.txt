@@ -1,0 +1,95 @@
+Does top diplomat for India strengthen ties
+0
+Top diplomat for India expected to strengthen ties <EOP> .
+strengthen	6	PS+	PS+
+expected	4	ps_cue
+########
+1
+2018_01_04 09:59 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+India on Monday named Vijay Keshav Gokhale , a former ambassador to China , as its new foreign secretary _ a move that seems to be in line with the country 's focus on relations with China , an expert said .
+seems	23	ps_cue
+########
+4
+<EOP> .
+########
+5
+Cheng Xizhong , a researcher at the Chinese Association for South Asian Studies , said the appointment shows the Indian government attaches great importance to the affairs of China .
+########
+6
+<EOP> .
+########
+7
+Gokhale will take over from incumbent S. Jaishankar when he completes his tenure on Jan 28 , according to a notification issued by the Indian Ministry of Personnel .
+will	1	ps_cue
+########
+8
+<EOP> .
+########
+9
+Indian newspaper The Hindu said Gokhale is proficient in Chinese and has wide experience of dealing with East Asian countries .
+########
+10
+He was widely credited with conducting delicate but tough diplomatic negotiations in Beijing during the Donglang crisis , as his proposal in talks `` led to a peaceful resolution '' , according to the report .
+########
+11
+<EOP> .
+########
+12
+Ashok Kantha , who was Gokhale 's predecessor at the Institute for Chinese Studies , told The Hindu that Gokhale `` has an outstanding proven track record in dealing with the neighborhood '' .
+########
+13
+<EOP> .
+########
+14
+Born in 1959 , he served as India 's ambassador to China from January 2016 to October 2017 .
+########
+15
+He earlier served as China and East Asia issues director and subsequently as secretary in economic relations in the Indian Ministry of External Affairs .
+########
+16
+<EOP> .
+########
+17
+Gokhale is the fourth among the past six Indian foreign secretaries to have a background of serving as an ambassador to China .
+########
+18
+Cheng said this is in line with the Indian government 's strategy of considering its largest neighboring country as an important partner in its foreign affairs .
+########
+19
+<EOP> .
+########
+20
+`` Sino_Indian relations are an important part of the relations between China and its neighboring countries .
+########
+21
+As a neighbor to China , as well as the second largest country in population , India 's foreign policy matters to China in many aspects , including border territories and economic and trade issues , '' said Cheng .
+########
+22
+<EOP> .
+########
+23
+India 's foreign secretary is the country 's top diplomat for foreign relations and the head of staff in the Ministry of External Affairs .
+########
+24
+Cheng said it is expected that the new appointee , with abundant experience in China , can strive for a better relationship between the two countries .
+strive	17	PS+	PS+
+expected	4	ps_cue
+can	16	ps_cue
+########
+25
+<EOP> .
+########
+26
+Xinhua contributed to this story .
+########
+27
+<EOP> .
+########
+28
+panmengqi@chinadaily.com.cn <EOP> .
+########

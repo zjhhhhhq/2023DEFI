@@ -1,0 +1,85 @@
+Does China call for joint efforts
+0
+China calls for joint efforts to ensure effective Lancang_Mekong cooperation <EOP> .
+calls	1	CT+	CT+
+########
+1
+2017_07_25 15:40 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+BANGKOK _ China hopes to work together with Thailand and other Mekong countries to ensure a practical and effective mechanism for the Lancang_Mekong Cooperation LRB LMC RRB , Chinese Foreign Minister Wang Yi said here on Monday .
+hopes	3	CT+	CT+
+hopes	3	ps_cue
+########
+4
+<EOP> .
+########
+5
+Speaking at a joint press conference with his Thai counterpart Don Pramudwinai , Wang stressed the importance of practical actions of cooperation , saying that the LMC should be a `` bulldozer . ''
+should	27	ps_cue
+########
+6
+<EOP> .
+########
+7
+The LMC is a new sub_regional cooperation mechanism jointly established by the six countries along the river in the spirit of equality , mutual assistance and win_win cooperation , said Wang , adding that the project_based mechanism performs better in serving the common needs of the six countries compared with other Mekong cooperation mechanisms .
+needs	43	ps_cue
+########
+8
+<EOP> .
+########
+9
+The LMC , emphasizing efficiency and practical results , has made rapid progress since last March , said the Chinese foreign minister .
+########
+10
+<EOP> .
+########
+11
+The six countries have gradually cultivated a Lancang_Mekong culture featuring equal treatment , sincerity , mutual assistance and family_like closeness , which constantly drives the mechanism , he said .
+########
+12
+<EOP> .
+########
+13
+Regarding the next phase of development , Wang said the LMC will focus on planning the third Lancang_Mekong Foreign Ministers ' Meeting in the later half of this year to prepare for the second Lancang_Mekong Leaders ' Meeting .
+will	11	ps_cue
+planning	14	ps_cue
+########
+14
+<EOP> .
+########
+15
+In the meantime , the six countries will make sure that six joint working groups be formed within this year , and push the early harvest projects toward achieving completion or making substantive breakthroughs , he said .
+will	7	ps_cue
+or	30	ps_cue
+########
+16
+<EOP> .
+########
+17
+The six countries will also work out a five_year action plan to be submitted at the second Lancang_Mekong Leaders ' Meeting , he said .
+will	3	ps_cue
+plan	10	ps_cue
+########
+18
+<EOP> .
+########
+19
+China , together with Thailand and other Mekong countries , will try the best to set the mechanism an example for regional cooperation and South_South Cooperation , Wang stressed .
+will	10	ps_cue
+########
+20
+<EOP> .
+########
+21
+The LMC members are China , Cambodia , Laos , Myanmar , Thailand and Vietnam .
+########
+22
+The six countries along the Mekong River LRB the Chinese stretch of which is called the Lancang River RRB launched the LMC mechanism in 2015 and convened the first Leaders ' Meeting in March 2016 .
+########
+23
+<EOP> .
+########

@@ -1,0 +1,131 @@
+Did China assist Sri Lankan for flood relief
+0
+Sri Lanka appreciates China 's assistance for flood relief <EOP> .
+assistance	5	CT+	CT+
+########
+1
+2017_06_03 18:46 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+<EOP> .
+########
+4
+Sri Lankan flood victims await for relief workers to bring them drinkable water bottles and food at Godagama , Matara , southern part of Sri Lanka on May 30 , 2017 .
+May	27	ps_cue
+########
+5
+LRB Photo_VCG RRB <EOP> .
+########
+6
+Along with tents , blankets and funds donated by the Chinese government and companies , the Buddhist Association of China on Saturday also donated 22 million rupees LRB $ 144,000 RRB to the Disaster Relief Fund to assist the families affected by the disaster .
+assist	37	CT+	CT+
+########
+7
+<EOP> .
+########
+8
+Speaking to Chinese monks and officials who were present from the donation , Sirisena said China had immediately responded to Sri Lanka 's call for aid and had sent three ships of relief items for the victims .
+########
+9
+<EOP> .
+########
+10
+In addition , he said , a Chinese flight with more relief items is also expected to arrive in the island country .
+expected	15	ps_cue
+########
+11
+<EOP> .
+########
+12
+`` Many countries have helped us by sending ships and flights filled with relief items .
+########
+13
+Many have donated funds as well .
+########
+14
+On behalf of the government and its people , I wish to thank all these countries .
+########
+15
+These funds will now be used to build houses for those affected , '' Sirisena said .
+will	2	ps_cue
+########
+16
+<EOP> .
+########
+17
+The president said China and Sri Lanka have shared a long lasting friendship which would only continue to be further strengthened .
+would	14	ps_cue
+########
+18
+<EOP> .
+########
+19
+The Chinese relief items , along with donations of funds , have been distributed to thousands of Sri Lankan people affected by the floods and landslides which hit the nation earlier this week .
+########
+20
+<EOP> .
+########
+21
+An 18_member Chinese Blue Sky Rescue Team is also in the country , assisting forces and authorities to conduct cleaning operations , medical care and disease prevention in some of the worst_hit areas .
+assisting	13	CT+	CT+
+########
+22
+<EOP> .
+########
+23
+The flood victims have commended the help offered by China .
+########
+24
+<EOP> .
+########
+25
+`` China has always helped us in many ways .
+########
+26
+We are praying for their safety and strength as they continue to help those affected in these areas , '' Nilanthi Dhammika , a villager in Pahiyangala in the country 's south , said .
+########
+27
+<EOP> .
+########
+28
+Chairman of the Sevalanka Foundation Harsha Navaratne said Sri Lanka always remembered China 's assistance especially during troubled times .
+########
+29
+<EOP> .
+########
+30
+`` Even during the ongoing disaster , the Chinese government along with its private sector provided great relief to the victims , '' he added .
+########
+31
+<EOP> .
+########
+32
+China has pledged to offer 15 million yuan LRB $ 2.2 million RRB in humanitarian aid to Sri Lanka after severe rains from May 26 caused disastrous floods and landslides in many districts of the country .
+May	23	ps_cue
+########
+33
+<EOP> .
+########
+34
+So far 211 people have been killed while 91 others still missing in the worst disaster since 2003 , according to the Disaster Management Center .
+missing	11	neg_cue
+########
+35
+<EOP> .
+########
+36
+Over 700,000 people have been affected by the floods and landslides while over 100,000 are seeking shelter in safe locations .
+seeking	15	ps_cue
+########
+37
+<EOP> .
+########
+38
+<EOP> .
+########
+39
+<EOP> .
+########

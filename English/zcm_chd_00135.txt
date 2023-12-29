@@ -1,0 +1,117 @@
+Was voting proceeding smoothly
+0
+Voting proceeding smoothly , except for ` isolated incident ' : Venezuela 's VP <EOP> .
+except	4	neg_cue
+########
+1
+2017_07_31 09:47 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+<EOP> .
+########
+4
+People wait to vote during the election of the National Constituent Assembly LRB ANC RRB at a polling station in Caracas , Venezuela , on July 30 , 2017 .
+########
+5
+LRB Photo_Xinhua RRB <EOP> .
+########
+6
+CARACAS _ Venezuela 's Vice President Tareck El Aissami said on Sunday that voting was proceeding smoothly , except for an `` isolated incident '' in Tachira state that authorities brought under control .
+voting	13	CT+	CT+
+except	18	neg_cue
+########
+7
+<EOP> .
+########
+8
+He called Sunday 's vote `` a turning point towards a Venezuela with equality LRB and RRB social justice . ''
+########
+9
+<EOP> .
+########
+10
+From the early morning , Venezuelans turned out in large numbers to vote for a constituent assembly to amend the constitution , said El Aissami .
+vote	12	CT+	CT+
+########
+11
+<EOP> .
+########
+12
+`` The people have turned out en masse to exercise this fundamental human right , this right that shows Venezuelans ' civic spirit LRB and RRB commitment to building a country in a peaceful and democratic way , '' El Aissami told reporters , after casting his vote in central Aragua state .
+########
+13
+<EOP> .
+########
+14
+Samuel Moncada , foreign affairs minister , said the participation of Venezuelans on Sunday , in the election of a National Constituent Assembly LRB ANC RRB is a `` vote for peace . ''
+########
+15
+<EOP> .
+########
+16
+After voting , the Venezuelan minister told the press of the importance to seeing the people out voting and rejected the country 's critics .
+rejected	19	neg_cue
+########
+17
+<EOP> .
+########
+18
+`` Opponents , some governments and even the CIA do not recognize this power ... because they have a plan to control Venezuela .
+not	10	neg_cue
+plan	19	ps_cue
+########
+19
+We do not need them or the vote of opponents , '' said Moncada .
+not	2	neg_cue
+need	3	ps_cue
+or	5	ps_cue
+########
+20
+<EOP> .
+########
+21
+Moncada highlighted the election for the ANC , which will rewrite the Constitution , as a `` declaration of sovereignty , '' as well as `` self_determination , independence , liberty , rebellion and pride . ''
+will	9	ps_cue
+########
+22
+<EOP> .
+########
+23
+As the day went on , however , tensions bubbled over into violence and five dead were reported .
+########
+24
+<EOP> .
+########
+25
+In the morning , Ricardo Campos , 30 , died in the northeast state of Sucre , the prosecutor_general 's office said on Twitter .
+########
+26
+<EOP> .
+########
+27
+An opposition legislator , Deputy Henry Ramos Allup , identified Campos as a youth opposition leader for the conservative Democratic Action LRB AD RRB party , and said he died of a gunshot near his home .
+opposition	1	neg_cue
+opposition	14	neg_cue
+########
+28
+<EOP> .
+########
+29
+Later in the day came the announcement of four more deaths .
+########
+30
+Two adults , Luis Zambrano , 43 , in the central state of Lara , and Ronald Ramirez , an army lieutenant , in the western state of Tachira .
+########
+31
+<EOP> .
+########
+32
+According to the prosecutor_general , Luis Zambrano was shot dead during a protest in Barquisimeto , the capital of Lara , while Ramirez was shot in the left lung during an opposition protest at the Jauregui de La Grita military school in Tachira .
+opposition	31	neg_cue
+########
+33
+<EOP> .
+########

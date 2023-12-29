@@ -1,0 +1,112 @@
+Is DPRK willing to join 2018 Winter Olympics in ROK
+0
+DPRK says willing to join 2018 Winter Olympics in ROK <EOP> .
+willing	2	CT+	CT+
+willing	2	ps_cue
+########
+1
+2018_01_02 09:34 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+PYONGYANG __ The top leader of the Democratic People 's Republic of Korea LRB DPRK RRB , Kim Jong_un , sent Monday a conciliatory message that Pyongyang is willing to talk with Seoul on its possible participation in the 2018 Winter Olympics to be held in the Republic of Korea LRB ROK RRB .
+willing	28	CT+	CT+
+willing	28	ps_cue
+possible	35	ps_cue
+########
+4
+<EOP> .
+########
+5
+In his New Year speech , Kim said that 2018 is an important year for the two countries on the Korean Peninsula , as the DPRK will mark the 70th anniversary of the country 's founding while the ROK will host the Winter Olympics .
+will	26	ps_cue
+will	39	ps_cue
+########
+6
+<EOP> .
+########
+7
+`` This year is a year of significance for both the north and the south of Korea as our people will celebrate the 70th birthday of the DPRK as a great auspicious event and there will be the Winter Olympic Games in the south , '' he said .
+will	20	ps_cue
+will	35	ps_cue
+########
+8
+<EOP> .
+########
+9
+Expressing sincere wishes for a successful Winter Olympics , Kim said that the DPRK will take necessary measures to prepare to participate in the event , including holding North_South talks on the DPRK 's participation .
+wishes	2	CT+	CT+
+will	14	ps_cue
+########
+10
+<EOP> .
+########
+11
+`` In order to host the great events of the nation with splendor and demonstrate the dignity and stamina of the nation , we should melt the frozen north_south relations , thus adorning this meaningful year as a year to be specially recorded in the history of the nation , '' Kim said .
+should	24	ps_cue
+########
+12
+<EOP> .
+########
+13
+As neighbors , the two Koreas are `` bound by blood '' , and `` it is natural that we feel happy and provide assistance for the activities to be organized by our compatriots '' , he said .
+########
+14
+<EOP> .
+########
+15
+The ROK has suggested that the two countries form a joint team to attend the event to be held in Pyeongchang county in February .
+suggested	3	ps_cue
+########
+16
+<EOP> .
+########
+17
+In his speech , Kim also said that the two sides should reduce the highly tense military confrontation to create a peaceful environment for reconciliation .
+should	11	ps_cue
+########
+18
+<EOP> .
+########
+19
+The situation on the Korean Peninsula remained volatile throughout 2017 , as the DPRK test_fired several ballistic missiles , including three intercontinental ballistic missiles LRB ICBM RRB .
+########
+20
+<EOP> .
+########
+21
+Meanwhile , the United States conducted constantly large scale military drills in the ROK and in waters around the peninsula by sending aircraft carrier groups , strategic bombers , nuclear submarines , and other strategic assets there .
+########
+22
+<EOP> .
+########
+23
+The United Nations has also four times voted for imposing new sanctions in adopting resolutions against the DPRK .
+against	15	neg_cue
+########
+24
+<EOP> .
+########
+25
+On the dangerous confrontation between the DPRK and the United States , Kim said the DPRK `` should further bolster up the military capabilities for self_defense . ''
+should	17	ps_cue
+########
+26
+<EOP> .
+########
+27
+`` The United States can never fight a war against me and our state .
+can	4	ps_cue
+never	5	neg_cue
+against	9	neg_cue
+########
+28
+It should properly know that the whole territory of the US is within the range of our nuclear strike and a nuclear button is always on the desk of my office and this is just a reality , not a threat , '' he said .
+should	1	ps_cue
+not	38	neg_cue
+########
+29
+<EOP> .
+########

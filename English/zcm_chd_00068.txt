@@ -1,0 +1,141 @@
+Does UN General Assembly open 72nd session
+0
+UN General Assembly opens 72nd session <EOP> .
+opens	3	CT+	CT+
+########
+1
+2017_09_13 09:38 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+<EOP> .
+########
+4
+United Nations Secretary_General Antonio Guterres LRB L RRB addresses the opening of the 72nd session of the UN General Assembly at the UN headquarters in New York , Sept 12 , 2017 .
+########
+5
+LRB Photo_Xinhua RRB <EOP> .
+########
+6
+UNITED NATIONS _ Miroslav Lajcak , the new president of the UN General Assembly , on Tuesday declared the opening of the 72 session of the decision_making body of the United Nations .
+opening	19	CT+	CT+
+########
+7
+<EOP> .
+########
+8
+In his opening speech to the first plenary session , Lajcak outlined his priorities for the year ahead : people at the center of work , balance of interests , quality of work and transparency .
+########
+9
+<EOP> .
+########
+10
+`` Sometimes the work of the United Nations can be very complex .
+can	8	ps_cue
+########
+11
+But the reason for its establishment was simple : the United Nations was created for people .
+########
+12
+Its job is to help people who are striving for peace LRB to have RRB a decent life on a sustainable planet , '' he said .
+########
+13
+<EOP> .
+########
+14
+He also highlighted the important upcoming events : an inter_governmental compact on migration , a high_level meeting on sustainable peace , the signing of a treaty on the elimination of nuclear weapons , a high_level meeting on sexual exploitation and abuse , as well as UN reform .
+########
+15
+<EOP> .
+########
+16
+He stressed the importance of multilateralism .
+########
+17
+`` I have always believed strongly in the power of multilateralism .
+believed	4	ps_cue
+########
+18
+This belief will be tested from time to time during the 72nd session , but ultimately I am confident that it will be reaffirmed . ''
+will	2	ps_cue
+will	21	ps_cue
+########
+19
+<EOP> .
+########
+20
+The General Assembly is one of the six most principal organs of the United Nations , the only one in which all member states have equal representation .
+########
+21
+<EOP> .
+########
+22
+The assembly has powers to oversee the budget of the United Nations , appoint the non_permanent members to the Security Council and make recommendations in the form of General Assembly resolutions .
+########
+23
+<EOP> .
+########
+24
+<EOP> .
+########
+25
+Photo taken on Sept 12 , 2017 , shows the United Nations General Assembly observing one minute of silence during the opening of the 72nd session at the UN headquarters in New York .
+########
+26
+Miroslav Lajcak , the new President of the UN General Assembly , on Tuesday declared the opening of the 72 session of the decision_making body of the United Nations .
+########
+27
+LRB Photo_Xinhua RRB <EOP> .
+########
+28
+Miroslav Lajcak on Tuesday expressed the hope that China can continue to play an important role in world affairs .
+hope	6	ps_cue
+can	9	ps_cue
+########
+29
+<EOP> .
+########
+30
+`` I am glad to see China play a very important role , being a leader on a number of global issues .
+########
+31
+And I wish to see China continue playing this role and speak not only in its national capacity , but speak as a promoter of the UN agenda , '' Lajcak told reporters after opening the 72nd session of the General Assembly .
+not	12	neg_cue
+########
+32
+<EOP> .
+########
+33
+At the first plenary session of the assembly , Lajcak promised to work with member states .
+########
+34
+`` Consultations with member states will be a standing priority for me and my office .
+will	5	ps_cue
+########
+35
+I want to stress that my door will always be open to you , '' he told the delegates .
+will	7	ps_cue
+########
+36
+<EOP> .
+########
+37
+Lajcak , a 54_year_old Slovak diplomat , succeeded Peter Thomson of Fiji as current General Assembly president .
+########
+38
+Lajcak served as his country 's foreign minister for several times and has been involved in Europe_level diplomacy .
+########
+39
+<EOP> .
+########
+40
+<EOP> .
+########
+41
+Miroslav Lajcak LRB C RRB , President of the 72nd session of the United Nations General Assembly , gavels to open the 72nd session of the UN General Assembly at the UN headquarters in New York , Sept 12 , 2017 .
+########
+42
+LRB Photo_Xinhua RRB <EOP> .
+########

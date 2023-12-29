@@ -1,0 +1,141 @@
+Is China 's military development targeted at any other country 
+0
+PLA strives to safeguard global peace and stability <EOP> .
+########
+1
+2017_07_31 16:59 <EOP> .
+########
+2
+China Daily UK <EOP> .
+########
+3
+<EOP> .
+########
+4
+Chinese Ambassador Liu Xiaoming at the reception marking the 90th anniversary of the People 's Liberation Army in London , on July 27 , 2017 .
+########
+5
+LRB Photo by Wang Bo_chinadaily .
+########
+6
+com.cn RRB <EOP> .
+########
+7
+China 's ambassador to the UK notes Beijing will only use force for security <EOP> .
+will	8	ps_cue
+########
+8
+China is building a defense force that matches its international standing , but its military assets will never be used for anything other than ensuring national security , says the Beijing 's top diplomat in the UK .
+will	16	ps_cue
+never	17	neg_cue
+########
+9
+<EOP> .
+########
+10
+Speaking at a reception in London to mark the 90th anniversary of the founding of the People 's Liberation Amy , Liu Xiaoming , China 's ambassador to the UK , said Beijing wants its armed forces `` to provide a strong safeguard as China strives to realize the Chinese dream of national renewal and its ` two centenary goals ' . ''
+wants	33	ps_cue
+########
+11
+<EOP> .
+########
+12
+The two centenaries are the 100th anniversary of the founding of the Communist Party of China in 2021 and the 100th anniversary of the establishment of the People 's Republic of China in 2049 .
+########
+13
+<EOP> .
+########
+14
+To mark the milestones , Beijing has set goals that call for the nation to be economically secure by 2021 and for it to be a `` strong , democratic , civilized , harmonious , and modern socialist country '' by 2049 .
+########
+15
+<EOP> .
+########
+16
+The Nanchang Uprising in 1927 marked the beginning of the armed struggle for independence led by the Communist Party of China , the founding of armed forces that became the PLA .
+########
+17
+<EOP> .
+########
+18
+The PLA today consists of five services _ the Army , Navy , Air Force , Rocket Force , and Strategic Support Force .
+########
+19
+Liu quoted President Xi Jinping , who recently said `` China will do well only when the world does well , and vice versa '' , adding that China remains committed to world peace and common development , and that China 's military is a steadfast force to ensure peace and stability .
+will	11	ps_cue
+########
+20
+<EOP> .
+########
+21
+In recent decades , China 's military expenditure accounted for 1.32 percent of GDP , which is far below the 2.4 percent world average , and China 's per capita military spending is only an eighteenth of that of the United States and a ninth of the UK 's .
+########
+22
+<EOP> .
+########
+23
+Liu said China 's military development is not targeted at any other country .
+targeted	8	CT-	CT-
+not	7	neg_cue
+########
+24
+<EOP> .
+########
+25
+Noting that the PLA is more engaged in international military and security dialogues than ever before , he said the military_to_military ties China seeks to strengthen are not based on alliances , not confrontational , and not targeting any third country .
+targeting	37	CT-	CT-
+not	36	neg_cue
+seeks	23	ps_cue
+not	27	neg_cue
+not	32	neg_cue
+########
+26
+<EOP> .
+########
+27
+Liu said China will try to advance international cooperation on military and security issues , and play an active and leading role in international peacekeeping and humanitarian missions .
+will	3	ps_cue
+########
+28
+<EOP> .
+########
+29
+In terms of peacekeeping , China is the largest contributor of peacekeepers among the five permanent members of the UN Security Council .
+########
+30
+It is also the second_largest contributor to the UN peacekeeping budget .
+########
+31
+<EOP> .
+########
+32
+Since 1990 , it has dispatched 33,000 peacekeepers , including the 13 Chinese soldiers who lost their lives during peacekeeping missions .
+########
+33
+Currently , 2,800 Chinese soldiers are taking part in nine missions , including ones in Mali and South Sudan .
+########
+34
+<EOP> .
+########
+35
+During the past decade , China has participated in almost 30 international rescue missions .
+########
+36
+Chinese soldiers went to Africa to battle the Ebola virus , to the Indian Ocean to search for a missing Malaysian airliner , to the Maldives to battle water shortages , and Nepal , where they assisted following a devastating earthquake .
+missing	19	neg_cue
+########
+37
+<EOP> .
+########
+38
+Liu said the military relationship between China and the UK has been on the fast track in recent years and noted that the nations work together on counter_terrorism , anti_piracy , and search and rescue missions .
+########
+39
+<EOP> .
+########
+40
+Contact the writers at liwensha@chinadaily.com.cn <EOP> .
+########
+41
+<EOP> .
+########

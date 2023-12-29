@@ -1,0 +1,82 @@
+Does the move froze the assets of former finance minister
+0
+Brazilian court blocks assets of former president Dilma Rousseff <EOP> .
+assets	3	CT-	CT-
+blocks	2	neg_cue
+########
+1
+2017_10_12 11:12 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+<EOP> .
+########
+4
+Former Brazilian president Dilma Rousseff LRB L RRB speaks during a media conference alongside Javier Miranda , President of Uruguay 's ruling party Frente Amplio , at the party 's headquarters in Montevideo , November 4 , 2016 .
+########
+5
+LRB Photo_Agencies RRB <EOP> .
+########
+6
+BRASILIA _ Brazil 's Federal Court of Accounts LRB TCU RRB on Wednesday blocked assets belonging to the former president , Dilma Rousseff , for her alleged role in a 2006 deal when oil giant Petrobras acquired a refinery in Pasadena city in the US state of Texas .
+assets	14	CT-	CT-
+blocked	13	neg_cue
+########
+7
+<EOP> .
+########
+8
+The move , approved by the TCU to last for a year , also froze the assets of former finance minister , Antonio Palocci , former Petrobras president , Jose Sergio Gabrielli , and other members of Petrobras ' board .
+assets	16	CT-	CT-
+froze	14	neg_cue
+########
+9
+<EOP> .
+########
+10
+Petrobras is a semi_public Brazilian multinational corporation in the petroleum industry headquartered in Rio de Janeiro .
+########
+11
+<EOP> .
+########
+12
+According to the TCU , in 2006 , Petrobras approved the acquisition of the refinery for a cost of <EOP> .
+########
+13
+$ <EOP> .
+########
+14
+580 million , which was felt to be far too expensive given the `` uneconomic criteria adopted to define the price of the refinery . ''
+########
+15
+<EOP> .
+########
+16
+At the time Petrobras took control of 50 percent of the refinery , Rousseff was chief of staff to former President Luiz Inacio Lula da Silva .
+########
+17
+She also chaired the Petrobras board of directors .
+########
+18
+<EOP> .
+########
+19
+In 2014 , when the scandal concerning the refinery first emerged , Rousseff said she only approved the deal due to having received `` incomplete information '' for a `` technically and judicially flawed '' report .
+########
+20
+<EOP> .
+########
+21
+Last year , the former president was impeached by Congress in her second term for fiscal irregularities and replaced by her Vice_president Michel Temer .
+########
+22
+<EOP> .
+########
+23
+<EOP> .
+########
+24
+<EOP> .
+########

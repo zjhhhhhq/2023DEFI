@@ -1,0 +1,98 @@
+Will Warcraft go on to be a hit 
+0
+Exactly 10 years after it was first announced , the Warcraft film burst into European cinemas this week , to be met with the kind of concerted critical savaging that put the depredations of its Burning Legion to shame .
+burst	12	CT+	PS+
+########
+1
+But none of that may matter .
+none	1	neg_cue
+may	4	ps_cue
+########
+2
+This is Hollywood , after all , and despite poor scores from critics , it 's entirely possible that Warcraft may go on to be a hit , thanks in part to its global appeal .
+hit	26	PS+	PS+
+possible	17	ps_cue
+may	20	ps_cue
+########
+3
+<EOP> .
+########
+4
+In China , the world 's fastest_growing film economy and home to millions of certifiable Warcraft addicts , anticipation for Jones 's film is running enormously high .
+########
+5
+It 's launching in a five_day window after Chinese students finish their exams , and box office pundits estimate that it could open with anywhere from $ 100M to $ 150M during that time period .
+estimate	18	ps_cue
+could	21	ps_cue
+########
+6
+<EOP> .
+########
+7
+Significantly , about a third of Warcraft 's subscribers are in China ; it 's doubtful there would even be a Warcraft movie without them .
+would	17	ps_cue
+without	23	neg_cue
+########
+8
+The film is partly Chinese_funded _ Legendary Entertainment , a production partner on the film , was acquired by the Chinese group Dalian Wanda this year _ and millions of advance tickets have already been booked for the film 's opening weekend , which falls on June 8 , the holiday on which the Duanwu or Dragon Boat Festival is celebrated .
+or	55	ps_cue
+########
+9
+<EOP> .
+########
+10
+China also has a distinctly special relationship with Warcraft , a game that had a transformative effect when it entered the country 's online arena .
+########
+11
+<EOP> .
+########
+12
+It was the first highly converged media experience .
+########
+13
+People were able to form real friendships , and have shared experiences and shared failures , with real online communities of real people .
+########
+14
+It quite literally changed the game .
+########
+15
+Everyone had to know what they were doing , and had to be skilled at what they were doing .
+########
+16
+People had to form communities of 60 or more that would be online at any given time .
+or	7	ps_cue
+would	10	ps_cue
+########
+17
+<EOP> .
+########
+18
+Warcraft also drove economic opportunities .
+opportunities	4	ps_cue
+########
+19
+The phenomenon of gold farming , in which players acquire in_game currencies or items to trade for real_world money , began to take off in China in the early 2000s .
+or	12	ps_cue
+########
+20
+It snowballed in the subsequent decade .
+########
+21
+<EOP> .
+########
+22
+In 2008 , according to figures from the China Internet Centre , some # 1.2 bn of online currencies were traded in China .
+########
+23
+In 2011 , a gigantic theme park called Joyland opened in China 's southern province of Jiangsu , offering 600,000 square metres of rollercoasters and log_flume rides that cost some # 20m to construct .
+########
+24
+<EOP> .
+########
+25
+Such an affection , in the world 's fastest growing cinema market , is likely to be a deciding factor in fulfilling Duncan Jones 's aspirations for a trilogy .
+likely	14	ps_cue
+########
+26
+<EOP> .
+########

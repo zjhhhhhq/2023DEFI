@@ -1,0 +1,288 @@
+Do young children face serious health risks from popular
+0
+Young children may face serious health risks from popular <EOP> .
+risks	6	PS+	PS+
+may	2	ps_cue
+########
+1
+energy drinks <EOP> .
+########
+2
+, such as <EOP> .
+########
+3
+Monster , Red Bull and Rock Star , <EOP> .
+########
+4
+potentially causing <EOP> .
+potentially	0	ps_cue
+########
+5
+seizures , heart problems <EOP> .
+########
+6
+and other life_threatening conditions , according to the findings of new research .
+########
+7
+<EOP> .
+########
+8
+More than 5,000 calls involving problems with energy drinks were received by Poison Control Centers in the United States between October 2010 and September 2013 , with more than 40 % of the calls involving children under the age of 6 who drank Monster or another similar product without realizing what it was .
+or	44	ps_cue
+without	48	neg_cue
+########
+9
+<EOP> .
+########
+10
+During a presentation at the annual Cardiac Scientific Sessions 2014 meeting of the American Heart Association LRB AHA RRB , researchers warned about the risk of allowing young children access to the controversial energy drinks , which contain high amounts of <EOP> .
+########
+11
+caffeine <EOP> .
+########
+12
+and other <EOP> .
+########
+13
+stimulants <EOP> .
+########
+14
+.
+########
+15
+<EOP> .
+########
+16
+.
+########
+17
+<EOP> .
+########
+18
+Researchers analyzed reports involving energy drink problems among children from the National Poison Data System , which compiles information on calls to 55 Poison Control Centers throughout the United States .
+########
+19
+About one_third of the calls involving children involved serious adverse events that required further treatment , including <EOP> .
+########
+20
+seizures , nausea , vomiting , chest pain and erratic heart rhythms <EOP> .
+########
+21
+.
+########
+22
+<EOP> .
+########
+23
+.
+########
+24
+<EOP> .
+########
+25
+Nearly 60 % of cases involved cardiovascular side effects , causing symptoms like abnormal heart rhythms and conduction abnormalities .
+like	12	ps_cue
+########
+26
+<EOP> .
+########
+27
+According to data released by the FDA in 2012 , at least six deaths have been linked to energy drinks , including at least two deaths of teens that resulted in wrongful death lawsuits against the makers of Monster .
+against	34	neg_cue
+########
+28
+<EOP> .
+########
+29
+Steven Lipshultz , M.D. , lead author of the study and professor of pediatrics at Wayne State University , said that in 42 % of moderate to major injuries , the situation involved energy drinks that were mixed with <EOP> .
+########
+30
+alcohol <EOP> .
+########
+31
+.
+########
+32
+<EOP> .
+########
+33
+.
+########
+34
+<EOP> .
+########
+35
+Researchers indicate that the energy drinks are not intended for young children and are not safe for them to consume .
+indicate	1	ps_cue
+not	7	neg_cue
+intended	8	ps_cue
+not	14	neg_cue
+########
+36
+Lipshultz is calling for a warning on all energy drink cans and bottles , warning parents of the risk allowing children access to the beverages .
+########
+37
+<EOP> .
+########
+38
+A report from the Institute of Medicine estimates fewer than half of all poisonings in the US are reported to the National Poison Data system , suggesting that the true number of childhood injuries with energy drinks is substantially higher than the data reflects .
+########
+39
+<EOP> .
+########
+40
+`` Energy drinks have no place in pediatric diets , '' Lipshultz said .
+no	4	neg_cue
+########
+41
+`` The reported data probably represent <EOP> .
+probably	4	ps_cue
+########
+42
+the tip of the iceberg <EOP> .
+########
+43
+. ''
+########
+44
+<EOP> .
+########
+45
+. ''
+########
+46
+<EOP> .
+########
+47
+People with underlying health conditions are especially at risk , he noted .
+########
+48
+Those with conditions like <EOP> .
+like	3	ps_cue
+########
+49
+attention deficit , hyperactivity disorder and diabetes , or those taking medications , <EOP> .
+or	8	ps_cue
+########
+50
+should especially be concerned and vigilant when drinking these products .
+should	0	ps_cue
+########
+51
+<EOP> .
+########
+52
+Energy Drink Health Concerns <EOP> .
+########
+53
+Researchers said it is difficult to know exactly how much caffeine is contained in each can or bottle of energy drinks like 5 Hour Energy , Red Bull and others , since they are often marketed as dietary supplements , which allow the manufacturers to avoid FDA regulations .
+can	15	ps_cue
+or	16	ps_cue
+like	21	ps_cue
+avoid	45	neg_cue
+########
+54
+<EOP> .
+########
+55
+Energy drink manufacturers have compared the amount of caffeine in their products to that of hot beverages sold in coffee houses , but the products are often packaged in very large sizes and they are not sold in controlled environments like coffee houses , which typically would not serve young children .
+not	35	neg_cue
+like	40	ps_cue
+would	46	ps_cue
+not	47	neg_cue
+########
+56
+Energy drinks are widely available in convenience stores next to traditional soft drinks , typically packaged in very similar cans and using similar marketing techniques .
+########
+57
+<EOP> .
+########
+58
+Many of the products contain pharmaceutical grade caffeine and additional caffeine from other natural sources .
+########
+59
+This much caffeine in one serving can cause a person 's heart to beat rapidly , increase blood pressure , or other nervous , digestive or cardiovascular system side effects , health experts warn .
+can	6	ps_cue
+or	20	ps_cue
+or	25	ps_cue
+########
+60
+<EOP> .
+########
+61
+Some energy drinks in many of the popular lines , like Monster and Red Bull , can contain up to 400 mg of caffeine per can .
+like	10	ps_cue
+can	16	ps_cue
+can	25	ps_cue
+########
+62
+In comparison , a cup of coffee typically has around 100 mg of caffeine .
+########
+63
+<EOP> .
+########
+64
+Caffeine poisoning can occur in adults at levels higher than 400 mg a day ; however children under 12 can experience caffeine poisoning at only 2.5 mg per 2.2 pounds of body weight .
+can	2	ps_cue
+can	19	ps_cue
+########
+65
+<EOP> .
+########
+66
+A study published in September backed up the new findings , revealing energy drinks like Rock Star and Red Bull may cause serious heart problems .
+problems	24	PS+	PS+
+may	20	ps_cue
+like	14	ps_cue
+########
+67
+<EOP> .
+########
+68
+French researchers revealed the popular energy drinks may be linked to increased risk of <EOP> .
+may	7	ps_cue
+########
+69
+angina , irregular heartbeats and even sudden death <EOP> .
+########
+70
+.
+########
+71
+<EOP> .
+########
+72
+.
+########
+73
+<EOP> .
+########
+74
+Another study concluded Monster and Rock Star energy drinks and others may affect the way the heart beats , causing more forceful contractions .
+may	11	ps_cue
+########
+75
+The study , using MRIs , found people who consumed energy drinks had significantly increased heart contraction rates , causing more strain on the left ventricle , the portion of the heart involved in pumping blood from the lungs to the aorta and distributing it to the rest of the body .
+########
+76
+<EOP> .
+########
+77
+The FDA is currently investigating health concerns surrounding the drinks after numerous adverse event reports have been submitted in recent years connecting energy drinks to severe injuries and deaths .
+########
+78
+According to information released in 2012 , at least 37 adverse event reports have been received by the FDA involving health problems from Monster Energy drinks , including at least six deaths .
+problems	21	CT+	PS+
+########
+79
+<EOP> .
+########
+80
+Amid aggressive marketing by the manufacturers , energy drink sales increased 240 % between 2004 and 2009 , and the number of caffeine overdose emergency room visits increased from 1,128 in 2005 to 16,055 in 2008 .
+########
+81
+Approximately 56 % of those visits involved individuals between the ages of 12 and 25 years .
+########
+82
+<EOP> .
+########

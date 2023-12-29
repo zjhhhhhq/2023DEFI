@@ -1,0 +1,82 @@
+Is CCA a unit of China State Construction Engineering Corp
+0
+Chinese company gets in on $ 1.8 b NY rail job <EOP> .
+########
+1
+2017_12_19 00:47 <EOP> .
+########
+2
+China Daily USA <EOP> .
+########
+3
+A Chinese construction company is among those that will work on a $ 1.8 billion project for a new third track on the main line of New York 's Long Island Rail Road , the US ' busiest regional rail system .
+will	8	ps_cue
+########
+4
+<EOP> .
+########
+5
+The Metropolitan Transit Authority LRB MTA RRB , which oversees the railroad , on Dec 13 approved a contract with 3rd Track Constructors LRB 3TC RRB for the 9.8 miles of new track for the rail system in the southeast part of New York state .
+########
+6
+<EOP> .
+########
+7
+CCA Civil Inc , a unit of China Construction America LRB CCA RRB , is one of several companies that have joined 3TC on the project .
+CCA	0	CT+	CT+
+CCA	11	CT+	CT+
+########
+8
+The others are Dragados USA Inc , John P. Picone Inc and Halmar International LLC .
+########
+9
+<EOP> .
+########
+10
+CCA is a unit of China State Construction Engineering Corp , the world 's largest investment and construction group by revenue .
+CCA	0	CT+	CT+
+########
+11
+CCA has completed commercial and government projects in the US such as the Pulaski Skyway in New Jersey , the Yankee Stadium train station in New York City and the Staten Island Expressway , which connects Staten Island to Brooklyn and New Jersey .
+CCA	0	CT+	CT+
+########
+12
+<EOP> .
+########
+13
+Founded in 1985 and based in Jersey City , New Jersey , CCA has around 2,000 employees , 98 percent of whom are US hires .
+CCA	12	CT+	CT+
+########
+14
+The company provides services such as construction management , general contracting and public_private partnership assistance for public and private clients .
+########
+15
+<EOP> .
+########
+16
+As one of the top three builders in New York and South Florida , the Chinese company also has constructed high_rises in the US , including Madison Square Park Tower in Manhattan and 1,000 Museum Luxury Condominium in Miami .
+########
+17
+<EOP> .
+########
+18
+`` The localization strategy has played an important role in gaining favorable impression from the US society , '' Yuan Ning , president of CCA , said in November .
+CCA	24	CT+	CT+
+########
+19
+<EOP> .
+########
+20
+The new track between Floral Park and Hicksville will be built on existing LIRR property and is a part of the rail system 's expansion project , which also includes the elimination of seven grade crossings , the renovation of several stations and six new parking garages .
+will	8	ps_cue
+########
+21
+<EOP> .
+########
+22
+Construction is expected to begin next year and take up to four years .
+expected	2	ps_cue
+########
+23
+<EOP> .
+########

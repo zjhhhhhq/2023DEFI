@@ -1,0 +1,111 @@
+Is the current tension eased 
+0
+Beijing : Sanctions on DPRK alone wo n't lessen tension <EOP> .
+tension	9	CT-	CT-
+n't	7	neg_cue
+########
+1
+2017_04_29 05:40 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+An overwhelming focus on tougher sanctions and greater pressure on Pyongyang will `` lead to losing a hard_won chance , possibly worsen the standoff among parties concerned and sabotage efforts in promoting peace and talks '' , Foreign Ministry spokesman Geng Shuang said on Friday .
+will	11	ps_cue
+possibly	20	ps_cue
+########
+4
+<EOP> .
+########
+5
+Geng made the comments when asked about Beijing 's hopes for the UN Security Council ministerial meeting on the Korean Peninsula nuclear issue .
+hopes	9	ps_cue
+########
+6
+<EOP> .
+########
+7
+Foreign Minister Wang Yi will attend the meeting in New York on Friday , which will include delegates from key parties involved in the issue .
+will	4	ps_cue
+will	15	ps_cue
+########
+8
+<EOP> .
+########
+9
+The focus is expected to be how to ease the current tension , how to ensure the peninsula 's peace and stability , how to advance denuclearization there and how to thoroughly resolve the issue , Geng said .
+tension	11	PS+	CT-
+expected	3	ps_cue
+########
+10
+<EOP> .
+########
+11
+China is ready for an in_depth exchange of views with all parties and will jointly seek solutions for the nuclear issue , he said .
+ready	2	ps_cue
+will	13	ps_cue
+########
+12
+The hope is that the meeting will `` send a positive and balanced message '' on resolving the issue , Geng added .
+hope	1	ps_cue
+will	6	ps_cue
+########
+13
+<EOP> .
+########
+14
+Wang met with Russian Deputy Foreign Minister Gennady Gatilov on Thursday in New York .
+########
+15
+Wang noted that the Korean Peninsula is facing the risk of escalating tension that `` may even get out of control '' .
+tension	12	CT+	CT-
+may	15	ps_cue
+########
+16
+<EOP> .
+########
+17
+Both Wang and Gatilov agreed that under current circumstances , all parties should fully and comprehensively implement Security Council resolutions on the Democratic People 's Republic of Korea .
+should	12	ps_cue
+########
+18
+<EOP> .
+########
+19
+The two sides agreed that all parties should take measures to curb the DPRK 's nuclear and missile development process .
+should	7	ps_cue
+########
+20
+They also agreed all parties should increase efforts to promote peace and dialogue so as to bring the issue back onto the right track of dialogue and consultation as soon as possible .
+should	5	ps_cue
+possible	31	ps_cue
+########
+21
+<EOP> .
+########
+22
+Wang noted that China 's approach coincides with that of Russia , and the two sides will continue to maintain close communication on the road map for resolving the nuclear issue on the Korean Peninsula .
+will	16	ps_cue
+########
+23
+<EOP> .
+########
+24
+Commenting on China 's role in resolving the issue , Geng said on Friday that `` China 's efforts are indispensable and its contribution has been witnessed by all . ''
+########
+25
+<EOP> .
+########
+26
+China is not among the factors driving the existing tension , and the key to solving the issue is not in China 's hands , Geng said .
+tension	9	CT+	CT-
+not	2	neg_cue
+not	19	neg_cue
+########
+27
+The final resolution `` requires collective wisdom and joint efforts '' , he added .
+########
+28
+<EOP> .
+########

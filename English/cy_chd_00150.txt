@@ -1,0 +1,142 @@
+Is Moon 's China visit potential turning point in relations
+0
+ROK President Moon 's China visit seen as potential turning point in relations <EOP> .
+turning	9	PS+	PS+
+potential	8	ps_cue
+########
+1
+2017_12_12 14:29 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+South Korean President Moon Jae_in 's visit to China on Dec 13 is expected to be a turning point in relations between the countries .
+turning	17	PS+	PS+
+expected	13	ps_cue
+########
+4
+<EOP> .
+########
+5
+Politicians and academics attending a forum on Dec 11 on links between China and South Korea compared notes on the current relationship and how to maintain peace and security on the Korean Peninsula in the future .
+########
+6
+<EOP> .
+########
+7
+`` The setback of relations of the two countries is what people are unwilling to see and does not meet the fundamental interest of both countries , '' Han Fangming , deputy director of the Foreign Affairs Committee of the Chinese People 's Political Consultative Conference 's National Committee , said at the event in Beijing , which was organized by Charhar Institute and Korean National Diplomatic Academy .
+not	18	neg_cue
+########
+8
+<EOP> .
+########
+9
+Han said politicians and people in both countries should make efforts to work in the long_term interests of both nations and help to bring relations back on a normal track .
+should	8	ps_cue
+########
+10
+<EOP> .
+########
+11
+`` This is an important opportunity for China_Republic of Korea relations to step down and gradually get warm , '' Han added .
+########
+12
+<EOP> .
+########
+13
+Wednesday 's visit by Moon will be his first to China since he took office in May .
+will	5	ps_cue
+May	16	ps_cue
+########
+14
+<EOP> .
+########
+15
+Park Enna , South Korea 's ambassador for public diplomacy , stressed that during the sidelines of the Asia_Pacific Economic Cooperation Economic Leaders ' Meeting , President Xi Jinping told his South Korean counterpart the countries are close neighbors that can not move away and are natural cooperation partners .
+can	40	ps_cue
+not	41	neg_cue
+########
+16
+<EOP> .
+########
+17
+She also said Moon attaches importance to China 's concerns over the THAAD LRB Terminal High_Altitude Area Defense RRB antimissile system issue , and has no intention of harming China 's interest in strategic security .
+no	25	neg_cue
+########
+18
+<EOP> .
+########
+19
+South Korea 's ties with China have been undoubtedly frustrated over the past year due to the THAAD deployment , and although many strides have been made , relations between the countries could be improved , she said .
+could	32	ps_cue
+########
+20
+<EOP> .
+########
+21
+`` Both Chinese and South Koreans like Go .
+like	6	ps_cue
+########
+22
+In the game , there are phrases like ` reversing the situation ' and ` breaking the game ' .
+like	7	ps_cue
+########
+23
+I think the state visit of Moon Jae_in will be a chance to reverse the situation if both countries can discuss how to achieve cooperation and maintain common prosperity rather than compete with each other , '' said Park .
+will	8	ps_cue
+can	19	ps_cue
+rather	29	neg_cue
+########
+24
+<EOP> .
+########
+25
+She also said that the upcoming Winter Olympics in Pyeongchang could be a chance for the two countries to strengthen ties as Beijing is the host of the 2022 Winter Games .
+could	10	ps_cue
+########
+26
+<EOP> .
+########
+27
+Yu Hongjun , former vice_minister of the International Department of the CPC Central Committee , said : `` The establishment of a free trade zone between China and South Korea on June 1 , 2015 , has had a very big impact and has brought tangible benefits to both sides . ''
+########
+28
+<EOP> .
+########
+29
+Yu , currently a senior consultant at Charhar Institution , said that trade between the two countries trade volume was at $ 300 billion in 2014 .
+########
+30
+<EOP> .
+########
+31
+`` It took the two countries 20 years to have their trade reaching $ 250 billion .
+########
+32
+We must cherish history and the achievements already made , '' Yu said .
+########
+33
+<EOP> .
+########
+34
+Jung Whan_woo , a research fellow with the Korea Trade_Investment Promotion Agency , agreed with Yu and pointed out that the countries are each other 's largest trading partners and the economic and trade relations between the two are mutually complementary .
+########
+35
+<EOP> .
+########
+36
+`` China 's Belt and Road Initiative and South Korea 's ` Northeast Asia plus ' policy can be cohesive .
+can	17	ps_cue
+########
+37
+There should be a lot of common ground and a lot of potential for cooperation between the two countries , '' Jung said , adding that the economic development between China and South Korea has formed an interdependent relationship , meaning `` we must seize the state visit as a chance and work together in the future '' .
+should	1	ps_cue
+potential	12	ps_cue
+########
+38
+<EOP> .
+########
+39
+panmengqi@chinadaily.com.cn <EOP> .
+########

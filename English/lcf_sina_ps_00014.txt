@@ -1,0 +1,117 @@
+Do people with pets get chatting when out walking 
+0
+Want new friends ?
+########
+1
+Get a dog : Study finds people with pets are more attractive and are likely to get chatting when out walking <EOP> .
+chatting	17	PS+	PS+
+likely	14	ps_cue
+########
+2
+As you follow your dog out the door to take it for a walk one wet evening , it may be of some small comfort to know that your pet makes you appear more loveable .
+may	19	ps_cue
+appear	32	ps_cue
+########
+3
+<EOP> .
+########
+4
+At least that 's what researchers are saying .
+########
+5
+They found that 52 per cent of Britons believe people with dogs are friendlier than the average person they meet while out walking , and that 46 per cent find that walking a dog is one of the easiest ways to make friends .
+########
+6
+<EOP> .
+########
+7
+Forty_six per cent of Britons also agree that loving animals makes a person more attractive _ rising to 57 per cent in London .
+########
+8
+<EOP> .
+########
+9
+TV presenter Ben Fogle met his wife Marina while out with a dog in Hyde Park in London .
+########
+10
+He said : ` I can not stress enough the physical , psychological and social benefits of owning a pet .
+can	5	ps_cue
+not	6	neg_cue
+########
+11
+Dogs get you out in the fresh air in all weathers .
+########
+12
+Who knows where Marina and I would be without ours ! '
+would	6	ps_cue
+without	8	neg_cue
+########
+13
+<EOP> .
+########
+14
+The survey by insurer Direct Line showed that 29 per cent of dog owners have met lifelong friends while walking their pet .
+########
+15
+<EOP> .
+########
+16
+According to the findings , 28 per cent of Brits that have found love on a dog walk met in a park or countryside , with a walk through the local town or city the second most likely meeting point _ 10 per cent _ closely followed by a walk on a dog friendly beach _ eight per cent .
+met	18	CT+	PS+
+love	13	ps_cue
+or	22	ps_cue
+or	32	ps_cue
+likely	37	ps_cue
+########
+17
+<EOP> .
+########
+18
+Those seeking romance should be careful , however , as one in four would be put off by someone if they had a dog that did n't suit them .
+seeking	1	ps_cue
+should	3	ps_cue
+would	13	ps_cue
+n't	26	neg_cue
+########
+19
+<EOP> .
+########
+20
+Many women are not attracted to men with tiny ` handbag ' dogs and many men aren ' t attracted to women with big dogs such as Rottweilers .
+not	3	neg_cue
+########
+21
+<EOP> .
+########
+22
+A third of men admit they would feel put off by a ` mismatch ' between a dog and its owner , compared to 20 per cent of women .
+would	6	ps_cue
+########
+23
+<EOP> .
+########
+24
+Those who live in London should be especially concerned about this , as 42 per cent of London based adults agreed they would be put off by a dog that they did n't think fitted its owner .
+should	5	ps_cue
+would	22	ps_cue
+n't	32	neg_cue
+########
+25
+<EOP> .
+########
+26
+Three quarters of dog owners that did not initially see the potential benefits for making friends and having a conversation opener , have been pleasantly surprised since they got a dog and started walking it .
+not	7	neg_cue
+potential	11	ps_cue
+########
+27
+<EOP> .
+########
+28
+The survey estimate that around 360,000 of Britain 's nine million dog owners have experienced a romantic encounter with another dog walker , based on a further survey of 1,207 readers of K9 magazine , targeted at dog owners , of whom 1 in 5 found love through walking the dog .
+estimate	2	ps_cue
+love	46	ps_cue
+########
+29
+<EOP> .
+########

@@ -1,0 +1,61 @@
+Will China not be misled on Peninsula issue 
+0
+Wang : China will not be misled on Peninsula issue <EOP> .
+misled	6	CT-	CT-
+not	4	neg_cue
+will	3	ps_cue
+########
+1
+2017_04_23 21:34 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+China will not be misled by comments of various kinds and will not give up fulfilling its due duties , Foreign Minister Wang Yi said on Sunday when asked about the Korean Peninsula situation .
+misled	4	CT-	CT-
+not	2	neg_cue
+will	1	ps_cue
+will	11	ps_cue
+not	12	neg_cue
+########
+4
+<EOP> .
+########
+5
+`` Recently , words and actions for protest or confrontation have been enough , and we need to send voices of peace and reasonability , '' Wang said at a joint press conference with his Greek counterpart , Nikos Kotzias , in Athens .
+or	8	ps_cue
+need	16	ps_cue
+########
+6
+<EOP> .
+########
+7
+Beijing will continue dialogue and consultations with all parties involved and play a constructive role in tackling the Peninsula nuclear issue , Wang said .
+will	1	ps_cue
+########
+8
+<EOP> .
+########
+9
+Wang noted that although China is neither the focus of the current situation nor the holder of the key to resolving the issue , China `` has taken a dutiful attitude toward the Peninsula 's peace and the region 's stability and it has always been working for resuming peaceful talks on the issue '' .
+dutiful	29	CT+	CT-
+neither	6	neg_cue
+nor	13	neg_cue
+########
+10
+<EOP> .
+########
+11
+The minister referred to the recent suggestion proposed by the Chinese side , which is `` winning understanding and support from a growing number of countries '' .
+proposed	7	ps_cue
+########
+12
+<EOP> .
+########
+13
+`` If the rest of the parties still bear sincerity for peace , please offer your solutions as well , '' Wang said .
+########
+14
+<EOP> .
+########

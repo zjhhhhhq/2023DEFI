@@ -1,0 +1,121 @@
+Are Canada 's diverse tourism resources attracting a growing number of Chinese tourists
+0
+Making the most of China 's increasing outbound travelers <EOP> .
+########
+1
+2017_12_05 08:00 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+<EOP> .
+########
+4
+Canada 's diverse tourism resources , such as national parks , cultural heritage , wildlife and ski resorts , are attracting a growing number of Chinese tourists .
+attracting	20	CT+	CT+
+########
+5
+<EOP> .
+########
+6
+Official data show that more than 610,000 Chinese visitors traveled to Canada in 2016 , with a year_on_year increase of 24 percent .
+########
+7
+China is Canada 's third_largest market in terms of tourist arrivals .
+########
+8
+<EOP> .
+########
+9
+With strong economic growth , a rapidly expanding middle_class and improving air transport networks , projected visitor growth for 2017 stands at 23 percent , according to Destination Canada , which promotes the country 's tourism offerings internationally .
+projected	15	ps_cue
+########
+10
+<EOP> .
+########
+11
+Canada has opened seven new visa application centers in Chengdu , Hangzhou , Jinan , Kunming , Nanjing , Shenyang and Wuhan this year , targeting second_tier Chinese cities for growth .
+########
+12
+These offices will make it easier for Chinese tourists to choose Canada as their holiday destination .
+make	3	CT+	CT+
+will	2	ps_cue
+########
+13
+<EOP> .
+########
+14
+Since 2015 , UnionPay has been a strategic partner of the Tourism Industry Association of Canada to help tourism operators prepare for more Chinese visitors .
+########
+15
+In 2018 , the acceptance of UnionPay will be further introduced .
+will	7	ps_cue
+########
+16
+<EOP> .
+########
+17
+More and more Canadian destinations are working hard to strengthen cooperation with Chinese tourism operators and travel agencies to offer in_depth travel experiences .
+working	6	CT+	CT+
+########
+18
+<EOP> .
+########
+19
+In early 2017 , Air Canada opened the first flight linking Shanghai and Montreal , Quebec province .
+########
+20
+Chinese visitors can also fly directly from Beijing to Montreal .
+can	2	ps_cue
+########
+21
+<EOP> .
+########
+22
+As Canada 's second_largest province by area , Quebec is attracting more Chinese tourists due to its blending of French heritage and North American culture .
+attracting	10	CT+	CT+
+########
+23
+It is the only province in Canada that has French as the sole official language .
+########
+24
+<EOP> .
+########
+25
+It is relaxing to take a day trip on a cruise to explore the beautiful St. Lawrence River , which is home to marine mammals such as humpback whales , dolphins and seals .
+########
+26
+The best time to observe the 13 species of whales there is from May to October .
+May	13	ps_cue
+########
+27
+<EOP> .
+########
+28
+Destination British Columbia recently launched its One Thousand Chinese Celebrating Chinese New Year in Vancouver BC initiative .
+########
+29
+It aims to satisfy the increasing demand from Chinese tourists looking to spend Chinese New Year abroad with their family .
+aims	1	CT+	CT+
+########
+30
+<EOP> .
+########
+31
+During Spring Festival , more than 1,000 Chinese tourists will be able to enjoy specially tailored one _ and two_week tours to enjoy British Columbia 's natural beauty , delicious food , and Chinese and Western cultures , as organized by the province 's partner travel agencies .
+will	9	ps_cue
+########
+32
+<EOP> .
+########
+33
+They will also be able to watch the Chinese New Year parade , traditional Chinese lion dances and a temple fair in Vancouver .
+will	1	ps_cue
+########
+34
+In Richmond , there are live shows and countdown night celebrations for Spring Festival .
+########
+35
+<EOP> .
+########

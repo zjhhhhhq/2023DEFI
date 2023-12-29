@@ -1,0 +1,135 @@
+Does the boom in Western business programs inspire China 's executives 
+0
+Boom in Western business programs designed to inspire China 's executives <EOP> .
+inspire	7	CT+	CT+
+########
+1
+2017_10_06 18:09 <EOP> .
+########
+2
+China Daily UK <EOP> .
+########
+3
+<EOP> .
+########
+4
+CKGSB China Start program , foreign students experience Tai Chi in China , as a part of their culture studies .
+########
+5
+LRB Photo_China Daily RRB <EOP> .
+########
+6
+In the warmth and tranquility of the Swiss Alps , a group of Chinese tour operators gather for a lesson in innovation and inspiration .
+########
+7
+<EOP> .
+########
+8
+The group is being sponsored by TravelSky Technology , the Beijing_based State_owned travel information provider , to attend an executive business education course hosted by Switzerland 's IMD Business School .
+########
+9
+<EOP> .
+########
+10
+The venue is the Chateauform Chalet de Champery , a boutique hotel exemplary of Swiss hospitality that has been especially chosen with the intention of inspiring the tour operators .
+inspiring	25	CT+	CT+
+########
+11
+<EOP> .
+########
+12
+But unlike the five_star luxury hotels that are now commonplace in China , Chateauform is characterized by a certain simplicity and unique designs aimed at encouraging interaction .
+encouraging	25	CT+	CT+
+########
+13
+<EOP> .
+########
+14
+Guests spend most of their downtime in the lounge , as no television is available in their rooms .
+no	11	neg_cue
+########
+15
+Drinks are readily available but no barman is seen , so guests are prompted to serve each other .
+no	5	neg_cue
+########
+16
+<EOP> .
+########
+17
+Howard Yu , a professor of strategic management and innovation at IMD , who led the lesson , said the goal is not for the Chinese tour operators to copy the model wholesale , but to adopt ways of thinking that they can import back into their businesses .
+not	22	neg_cue
+can	42	ps_cue
+########
+18
+<EOP> .
+########
+19
+`` A lot of these guys in China are very busy , '' Yu said .
+########
+20
+`` They constantly look at what their competitors are offering , because they feel they 're facing the danger of falling behind .
+########
+21
+We wanted to show them how Western pioneering companies can get ahead of competition by developing innovative solutions to satisfy customer needs , instead of being copycats . ''
+wanted	1	ps_cue
+can	9	ps_cue
+needs	21	ps_cue
+instead	23	neg_cue
+########
+22
+<EOP> .
+########
+23
+The Chateauform lesson is just one example of tailor_made China_oriented executive training programs being offered by leading business schools globally .
+########
+24
+<EOP> .
+########
+25
+Once a shrinking market in the years following the financial crisis , executive programs in recent years are experiencing a revival .
+########
+26
+<EOP> .
+########
+27
+China 's Cheung Kong Graduate School of Business launched an executive program called China Start .
+########
+28
+It offers international startup companies the chance to visit leading Chinese incubators and platform businesses , such as the e_commerce platform JD.com , to discuss collaboration opportunities .
+opportunities	26	ps_cue
+########
+29
+<EOP> .
+########
+30
+Leveraging on its huge alumni network , the business school takes these overseas businesses on the China Start program to meet Chinese investors .
+########
+31
+Of 10,000 alumni so far , more than half are company chairs or chief executives .
+or	12	ps_cue
+########
+32
+<EOP> .
+########
+33
+In 2015 , the University of Oxford 's Said Business School , Harvard Business School and Peking University jointly created an executive degree program to help Chinese family businesses overcome challenges such as succession planning , structural shift and globalization .
+planning	34	ps_cue
+########
+34
+<EOP> .
+########
+35
+`` The program 's teaching is so well designed and touches the very heart of challenges we face as a family business , '' said Guo Feng , 34 , a second_generation family business owner who participated in the program .
+########
+36
+<EOP> .
+########
+37
+<EOP> .
+########
+38
+<EOP> .
+########
+39
+<EOP> .
+########

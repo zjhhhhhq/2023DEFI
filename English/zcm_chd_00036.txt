@@ -1,0 +1,78 @@
+Is suspect identified
+0
+Chinese woman killed in US state of Georgia , suspect identified <EOP> .
+identified	10	CT+	CT+
+suspect	9	ps_cue
+########
+1
+2017_09_21 08:47 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+WASHINGTON _ A Chinese woman has been found dead in her apartment near Atlanta , and the police are offering a reward for the whereabouts of the man suspected of killing her , local media reported Tuesday .
+suspected	28	ps_cue
+########
+4
+<EOP> .
+########
+5
+The victim , surnamed Li , is believed to be a 28_year_old alumni from Georgia Institute of TechnologyLRB GIT RRB .
+believed	7	ps_cue
+########
+6
+She did not show up for work and was found dead late Monday in her Smyrna apartment by police .
+not	2	neg_cue
+########
+7
+<EOP> .
+########
+8
+Local police has identified the suspect as 24_year_old Brian Marsh Semrinec , who is believed to be driving Li 's 2015 Honda CRV with Georgia tag CDD3152 .
+identified	3	CT+	CT+
+suspect	5	ps_cue
+believed	14	ps_cue
+########
+9
+<EOP> .
+########
+10
+The police said Semrinec has been charged with aggravated assault and felony murder , and they offer a 2,000 US dollar_reward for leads .
+########
+11
+<EOP> .
+########
+12
+The Chinese Consulate General in Houston said it will reach out to local police and request a speedy investigation .
+will	8	ps_cue
+########
+13
+<EOP> .
+########
+14
+The Chinese Students and Scholars Associated of GIT have issued a warning to Chinese in the region to stay safe .
+########
+15
+<EOP> .
+########
+16
+The incident is the second case in four months involving a Chinese woman living in the United States being murdered .
+########
+17
+<EOP> .
+########
+18
+A female Chinese student named Zhang Yingying , who was studying at the University of Illinois at Urbana_Champaign , was reported missing on June 9 after entering a car .
+missing	21	neg_cue
+########
+19
+A suspect was arrested on June 30 but Zhang has not yet been found and is believed to be dead .
+suspect	1	ps_cue
+not	10	neg_cue
+yet	11	neg_cue
+believed	16	ps_cue
+########
+20
+<EOP> .
+########

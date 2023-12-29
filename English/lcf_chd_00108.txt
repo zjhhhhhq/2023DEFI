@@ -1,0 +1,195 @@
+Do Chinese Navy ships visit London
+0
+Chinese Navy ships buoy bilateral ties on visit to London <EOP> .
+visit	7	CT+	CT+
+########
+1
+2017_10_04 00:21 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+<EOP> .
+########
+4
+PLA Navy frigates Yangzhou and Huanggang make a port call at London 's Canary Wharf at the start of a five_day goodwill visit .
+visit	22	CT+	CT+
+########
+5
+LRB Photo_chinadaily .
+########
+6
+com.cn RRB <EOP> .
+########
+7
+After visiting the Belgian port of Antwerp and making a stop in Denmark , naval frigates from the 26th Escort Task Group of the People 's Liberation Army Navy berthed at London 's Canary Wharf on Monday at the start of a five_day goodwill visit to the United Kingdom .
+visit	44	CT+	CT+
+stop	10	neg_cue
+########
+8
+<EOP> .
+########
+9
+The visit , which Liu Xiaoming , China 's ambassador to the UK , described as history_making in the realm of China_Britain military relations , is expected to offer the British public and its military the chance to see first_hand China 's growing military strength and its unremitting contribution to world peace .
+expected	26	ps_cue
+########
+10
+<EOP> .
+########
+11
+Senior Captain Wang Zhongcai , who is also the fleet commander , said the ships will be open to the British public so people can get a better understanding of China and its Navy .
+will	15	ps_cue
+can	24	ps_cue
+########
+12
+Wang said there will also be a number of deck receptions for special guests .
+will	3	ps_cue
+########
+13
+<EOP> .
+########
+14
+The Chinese and British navies will also hold a joint humanitarian rescue symposium on Thursday .
+will	5	ps_cue
+########
+15
+<EOP> .
+########
+16
+Liu said the visit will strengthen China_UK bilateral ties and relations between the two navies and consolidate strategic mutual trust between both nations .
+visit	3	CT+	CT+
+will	4	ps_cue
+########
+17
+<EOP> .
+########
+18
+`` This year is the 45 anniversary of the ambassadorial_level diplomatic relationship between China and the UK , and the 90th anniversary of the founding of the People 's Liberation Army , '' Liu said .
+########
+19
+`` This visit by the Chinese Navy fleet will leave its mark in the history of our military_to_military exchanges and state_to_state relations . ''
+visit	2	CT+	CT+
+will	8	ps_cue
+########
+20
+<EOP> .
+########
+21
+He added that the visit can also be seen as reaffirming China 's commitment to world peace .
+visit	4	CT+	CT+
+can	5	ps_cue
+########
+22
+<EOP> .
+########
+23
+`` The Chinese military has been an active contributor to UN peacekeeping missions , it has made significant contributions to world peace and stability , and has proven to the world with its actions that China is a strong force for world peace , '' Liu said .
+########
+24
+<EOP> .
+########
+25
+The Chinese Navy has dispatched 26 escort task force convoys since 2008 , consisting of more than 70 ships that have escorted convoys in the Gulf of Aden and off Somalia .
+########
+26
+They have guaranteed the safe passage of more than 6,300 international ships .
+########
+27
+<EOP> .
+########
+28
+And in more general terms , the Chinese military had participated in at least 24 UN peacekeeping missions worldwide as of June 2017 , dispatching more than 31,000 peacekeepers .
+########
+29
+Thirteen of them lost their lives in the line of duty .
+########
+30
+<EOP> .
+########
+31
+The latest visit is the fourth to the UK by the Chinese Navy since 2001 .
+########
+32
+British Royal Navy vessels have paid eight visits to China .
+########
+33
+<EOP> .
+########
+34
+Rear Admiral Alex Burton , Commander United Kingdom Maritime Forces , said such bilateral military exchanges reflect the lengthy , strong and close relationship between the nations .
+########
+35
+<EOP> .
+########
+36
+`` We have both confronted common challenges : counter_piracy , natural disasters and peacekeeping .
+########
+37
+The need to work in partnership , as we have done for so many years , to find common solutions to these challenges , is way more important today , '' he said .
+need	1	ps_cue
+########
+38
+<EOP> .
+########
+39
+The 26th Escort Task Group departed from the naval port of Zhoushan , in East China 's Zhejiang province , in April .
+########
+40
+<EOP> .
+########
+41
+It will make a port call in France after its visit to the British capital .
+visit	10	CT+	CT+
+will	1	ps_cue
+########
+42
+<EOP> .
+########
+43
+The 26th Escort Task Group is part of China 's ongoing effort to safeguard international nautical routes .
+########
+44
+It comprises the missile_carrying frigates Huanggang and Yangzhou and the comprehensive supply ship Gaoyouhu , as well as ship_borne helicopters .
+########
+45
+<EOP> .
+########
+46
+According to previous media reports , it is the first time that three Chinese naval vessels have conducted convoy duties together in the Gulf of Aden and waters off Somalia .
+########
+47
+<EOP> .
+########
+48
+Because of the nation 's deepening reforms , the PLA has embraced a more open and proactive attitude toward interacting with the public wherever missions take place .
+########
+49
+<EOP> .
+########
+50
+Naval Task Group 150 of the People 's Liberation Army Navy started a four_day stop at the Greek port of Piraeus on July 23 , during which people could take a close look at the vessels and interact with members of the Chinese Navy .
+stop	14	neg_cue
+could	28	ps_cue
+########
+51
+<EOP> .
+########
+52
+The group departed from Shanghai on April 23 and conducted maritime training .
+########
+53
+The group also made goodwill visits to Asia , Europe , Africa , and Oceania , said Rear Admiral Shen Hao , Commander of the Chinese Navy Fleet .
+########
+54
+<EOP> .
+########
+55
+<EOP> .
+########
+56
+<EOP> .
+########
+57
+<EOP> .
+########

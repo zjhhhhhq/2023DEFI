@@ -1,0 +1,118 @@
+Will the Democratic People 's Republic of Korea LRB DPRK RRB fully comply with international obligations
+0
+UN chief urges DPRK to fully implement international obligations <EOP> .
+########
+1
+2017_08_17 09:30 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+<EOP> .
+########
+4
+<EOP> .
+########
+5
+<EOP> .
+########
+6
+United Nations Secretary_General Antonio Guterres speaks to the press during a media encounter at the UN headquarters in New York , Aug 16 , 2017 .
+########
+7
+LRB Photo_Xinhua RRB <EOP> .
+########
+8
+UNITED NATIONS _ UN Secretary_General Antonio Guterres said Wednesday that the Democratic People 's Republic of Korea LRB DPRK RRB should `` fully comply with international obligations '' and `` engage in a credible and meaningful dialogue '' in order to defuse tensions on the Korean Peninsula .
+comply	23	CT+	CT+
+should	20	ps_cue
+########
+9
+<EOP> .
+########
+10
+Speaking to reporters at the UN headquarters in New York , Guterres said `` the Security Council was united in adopting Resolution 2371 on August 5 , '' adding `` this resolution sends an unambiguous message regarding the peace and security obligations of the Democratic People 's Republic of Korea . ''
+########
+11
+<EOP> .
+########
+12
+`` In particular , tensions related to the Korean Peninsula are at levels not seen in decades .
+not	13	neg_cue
+########
+13
+We remember the enormous suffering caused by the Korean War that began 67 years ago , '' the UN chief noted .
+########
+14
+<EOP> .
+########
+15
+The secretary_general stressed that over three million people were killed in the Korean War .
+########
+16
+Many nations were directly engaged and experienced heavy losses .
+########
+17
+<EOP> .
+########
+18
+`` We need to heed the lessons of history , not to repeat the mistakes , '' he stressed .
+need	2	ps_cue
+not	10	neg_cue
+########
+19
+<EOP> .
+########
+20
+Guterres said that `` it is obviously my role as UN Secretary_General to support the comprehensive implementation of Security Council resolutions , namely this last one . ''
+########
+21
+<EOP> .
+########
+22
+He urged all member states to fully fulfill their related obligations .
+########
+23
+<EOP> .
+########
+24
+`` All concerned parties should also recognize that the unified adoption of Resolution 2371 represents an opportunity for diplomatic engagement and renewed dialogue to solve this crisis . ''
+should	4	ps_cue
+########
+25
+<EOP> .
+########
+26
+`` I welcome the continued critical engagement by Member States and support the call of the Republic of Korea to the DPRK to engage in a credible and meaningful dialogue , '' he noted .
+########
+27
+<EOP> .
+########
+28
+There are many possible avenues for this dialogue , from various bilateral formations to the Six_Party Talks , he said .
+possible	3	ps_cue
+########
+29
+<EOP> .
+########
+30
+The Secretary_General disclosed that he conveyed this message Tuesday to the representatives of the Six_Party Talks , adding that `` for my part , I want to repeat that my good offices are always available . ''
+########
+31
+<EOP> .
+########
+32
+He also called on the international community to send a clear , coherent message to the leadership of the DPRK : `` fully comply with international obligations , work towards reopening communication channels and support efforts to deescalate the situation . ''
+comply	23	CT+	CT+
+########
+33
+<EOP> .
+########
+34
+`` The solution to this crisis must be political , '' he stressed , noting that the potential consequences of military action are `` too horrific to even contemplate . ''
+potential	17	ps_cue
+########
+35
+<EOP> .
+########

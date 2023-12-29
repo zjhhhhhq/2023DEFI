@@ -1,0 +1,51 @@
+Does Panama 's president emphasize new ties with China in state of nation address
+0
+Panama 's president emphasizes new ties with China in state of nation address <EOP> .
+emphasizes	3	CT+	CT+
+########
+1
+2018_01_03 10:24 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+PANAMA CITY _ Panamanian President Juan Carlos Varela Tuesday highlighted the newly established diplomatic ties with China as one of the major accomplishments of his past year in office .
+highlighted	9	CT+	CT+
+########
+4
+<EOP> .
+########
+5
+`` 2017 was successful for Panama and Panamanians , '' Varela said in his state of the nation speech to the National Assembly , adding the establishment of diplomatic ties with China last June was `` one of the most important international developments with positive outcomes for our country . ''
+adding	24	CT+	CT+
+########
+6
+<EOP> .
+########
+7
+Varela said his administration , which has been in power for three and a half years , aims to complete the construction of a new convention center in the capital with a Chinese firm 's help .
+########
+8
+<EOP> .
+########
+9
+China Construction America will construct the Amador Convention Center in conjunction with Panama 's Construcciones Civiles Generales .
+will	3	ps_cue
+########
+10
+<EOP> .
+########
+11
+In October , China Harbour Engineering Company and Belgium 's Han de Nul formed Cruceros del Pacifico , a consortium to build a passenger cruise ship terminal on Panama 's Pacific coast .
+########
+12
+<EOP> .
+########
+13
+Varela also said Panama was expected to maintain its last year 's growth rate of 5.6 percent in 2018 .
+expected	5	ps_cue
+########
+14
+<EOP> .
+########

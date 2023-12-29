@@ -1,0 +1,187 @@
+Is the huge corporate debt in China more complicated than most people think
+0
+IMF 's China debt alarm downplayed <EOP> .
+########
+1
+2017_12_07 23:53 <EOP> .
+########
+2
+China Daily USA <EOP> .
+########
+3
+The huge corporate debt in China that makes headlines is more complicated than most people think , according to the top Chinese official at the International Monetary Fund LRB IMF RRB .
+complicated	11	CT+	PS+
+########
+4
+<EOP> .
+########
+5
+Jin Zhongxia , executive director for China at IMF , said the rapid increase of corporate debt in China during a period of time needs to be properly analyzed , citing recent discussions in China regarding the nature of the country 's corporate debt .
+needs	24	CT+	PS+
+needs	24	ps_cue
+########
+6
+<EOP> .
+########
+7
+`` Some believe that some part of the corporate debt actually is debt issued by the local government established entities , '' Jin told the IMF executive board on Wednesday during a discussion of the IMF report Financial Sector Assessment Program LRB FSAP RRB for China .
+########
+8
+<EOP> .
+########
+9
+In an online press briefing on Wednesday evening , Ratna Sahay , deputy director of the IMF Monetary and Capital Markets Department , called China 's looming debt a major risk in its financial system .
+########
+10
+<EOP> .
+########
+11
+She described the sustained credit expansion as being of a magnitude that in other countries has been associated with financial distress .
+########
+12
+`` This has resulted in high corporate and local government debt .
+########
+13
+And household debt is also rising at a fast pace , '' she said .
+########
+14
+<EOP> .
+########
+15
+The IMF cited the rapid credit growth as a result of China 's focus on maintaining economic and employment growth .
+########
+16
+<EOP> .
+########
+17
+The IMF report noted that this debt is largely owed by companies _ some of which may not have good prospects _ and local governments , but an increasing share is owed by households .
+may	16	ps_cue
+not	17	neg_cue
+########
+18
+<EOP> .
+########
+19
+`` Credit growth is an important indicator of future financial distress , because lending standards often fall in the rush to make more loans , '' the report said .
+########
+20
+<EOP> .
+########
+21
+According to Jin , the purpose of raising the debt by local government entities is to fulfill their responsibility to implement urbanization and infrastructure development .
+########
+22
+<EOP> .
+########
+23
+`` In China , the local governments take a lot of responsibilities , but their ability to mobilize resources through taxation or bond issuance is limited , '' he said .
+or	21	ps_cue
+########
+24
+<EOP> .
+########
+25
+`` In that case , part of the corporate debt is actually local government debt , '' <EOP> .
+########
+26
+Jin believes it is necessary to revise down the corporate debt ratio and increase local government leverage ratio accordingly .
+########
+27
+<EOP> .
+########
+28
+`` The official public sector 's debt over GDP is quite low , only 40 percent .
+########
+29
+`` If you add the hidden local government contingent debt , that may increase the total public debt over GDP ratio , and the corporate sector debt will decrease by the same amount , '' he said .
+may	12	ps_cue
+will	27	ps_cue
+########
+30
+<EOP> .
+########
+31
+`` In the end , what really matters is the total leverage ratio in China , which includes the government debt , corporate debt and the household debt '' , he said .
+########
+32
+<EOP> .
+########
+33
+The total leverage ratio in China is 260 percent of GDP , which is still lower than most of the advanced countries and is comparable with many emerging_market economies , according to Jin .
+########
+34
+<EOP> .
+########
+35
+Sahay admitted at the press conference that there has been some effort in measuring the debt more carefully , and the IMF is revising the numbers .
+########
+36
+`` So this part of the corporate debt will be attributed to the local government , '' she said in response to China Daily .
+will	8	ps_cue
+########
+37
+<EOP> .
+########
+38
+Yukon Huang , a senior fellow at the Carnegie Endowment for International Peace , has long expressed the view that China 's debt problem deserves concern but is overstated .
+deserves	24	CT+	PS+
+overstated	28	CT+	PS+
+concern	25	ps_cue
+########
+39
+<EOP> .
+########
+40
+Huang , a former World Bank country director for China , has acknowledged the role played by many established local government entities .
+########
+41
+He also has said that a lot of the credit has been funding the increased value of land and property , and if these property values are stable , the increase in credit is not an issue .
+not	34	neg_cue
+########
+42
+<EOP> .
+########
+43
+`` Property prices in China are probably OK , which means there is n't a major debt problem , '' said Huang , author of the book , Cracking the China Conundrum : Why Conventional Economic Wisdom Is Wrong .
+is	12	CT-	PS+
+n't	13	neg_cue
+probably	6	ps_cue
+########
+44
+<EOP> .
+########
+45
+The IMF 's FSAP report for China also pointed out the complexity of China 's financial system by saying that rules on bank lending to traditional sectors , such as construction and real estate , have pushed risky borrowers away from banks and toward more lightly regulated financial products .
+########
+46
+<EOP> .
+########
+47
+The IMF claimed that banks often compensate investors for losses on financial products to preserve their reputations .
+########
+48
+It said the Chinese government has repeatedly intervened to stabilize financial markets and investors have come to believe that state_owned enterprises will be bailed out if they get into trouble .
+will	21	ps_cue
+########
+49
+<EOP> .
+########
+50
+`` But protecting investors and companies from losses encourages them to underestimate risk and can lead to a misallocation of investment to less productive economic activities , '' Sahay said in an analysis with her colleague James Walsh .
+can	14	ps_cue
+########
+51
+<EOP> .
+########
+52
+`` Taken together , these factors have created a highly dynamic and fast_moving financial system that is very difficult to monitor , '' she said .
+########
+53
+<EOP> .
+########
+54
+chenweihua@chinadailyusa.com <EOP> .
+########
+55
+<EOP> .
+########

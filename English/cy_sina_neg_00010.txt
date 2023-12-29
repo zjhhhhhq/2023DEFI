@@ -1,0 +1,206 @@
+Is November the official kick_off month for ecommerce holiday sales
+0
+November is the official kick_off month for ecommerce holiday sales .
+ecommerce	7	CT+	CT+
+########
+1
+For general stores , sales begin to lift in the beginning of November .
+########
+2
+<EOP> .
+########
+3
+Singles ' Day LRB 11_11 RRB <EOP> .
+########
+4
+Chinese Singles ' Day or <EOP> .
+or	4	ps_cue
+########
+5
+Guanggun Jie <EOP> .
+########
+6
+is an entertaining festival widespread among young Chinese people , to celebrate the fact that they are proud of being single .
+########
+7
+The date , November 11th LRB 11_11 RRB , is chosen because the number `` 1 '' resembles an individual that is alone .
+########
+8
+This festival has become the largest online shopping day in the world , with sales in Alibaba 's sites Tmall and Taobao at $ 5.8 billion in 2013 and over $ 17.8 billion in 2016 .
+########
+9
+<EOP> .
+########
+10
+Big promotions in the name of celebrating Nov 11 Bachelor 's Day usually start at the very beginning of November with huge discounts and give aways lined up .
+########
+11
+<EOP> .
+########
+12
+While Thanksgiving is largely an American holiday on the 4th Thursday of November , many retailers have begun opening their doors LRB physically RRB on Thanksgiving night to begin the Christmas shopping season .
+########
+13
+Over time , that has moved to the online world as well , making it the official beginning of the ecommerce holiday season in the US and around the world .
+ecommerce	20	CT+	CT+
+########
+14
+<EOP> .
+########
+15
+While Black Friday signifies the actual start of the ecommerce holiday shopping season , promotions generally begin in the week of Thanksgiving .
+ecommerce	9	CT+	CT+
+########
+16
+<EOP> .
+########
+17
+Black Friday LRB 11_24 RRB <EOP> .
+########
+18
+Black Friday is the day following Thanksgiving Day in the United States .
+########
+19
+Since 1952 , it has been regarded as the beginning of the Christmas shopping season in the US , and most major retailers open very early and offer promotional sales .
+########
+20
+Some websites offer information about day_after_Thanksgiving specials up to a month in advance .
+########
+21
+<EOP> .
+########
+22
+Cyber Monday LRB 11_27 RRB <EOP> .
+########
+23
+Cyber Monday is a marketing term for the Monday after the Thanksgiving holiday in the United States .
+########
+24
+The term `` Cyber Monday '' was created by marketing companies to persuade people to shop online .
+########
+25
+The deals on Cyber Monday are online only and generally offered by smaller retailers that can not compete with the big retailers .
+can	15	ps_cue
+not	16	neg_cue
+########
+26
+<EOP> .
+########
+27
+In 2016 , according to Adobe Digital Insights , Cyber Monday hit a new record with $ 3.45 billion , and it 's the first time that online sales in one single day surpass $ 3 billion in US history .
+########
+28
+The numbers are up 12.1 % from a year earlier .
+########
+29
+<EOP> .
+########
+30
+Green Monday LRB 12_11 RRB <EOP> .
+########
+31
+Created by eBay in 2007 , Green Monday is held the second Monday of every December .
+########
+32
+Sorry environmentalists , this day has nothing to do with hugging trees -- it 's all about saving some greenbacks !
+nothing	6	neg_cue
+########
+33
+<EOP> .
+########
+34
+Since 2010 , Green Monday has consistently ranked as the third heaviest online sales day of the year .
+########
+35
+And for good reason : Many retailers , including Walmart , Sears , Macy 's , J.C. Penney , and Amazon take part of this shopping day .
+########
+36
+<EOP> .
+########
+37
+Free Shipping Day LRB 12_15 RRB <EOP> .
+########
+38
+Free Shipping Day is a one_day event held annually in mid_December .
+########
+39
+On the promotional holiday , consumers can shop from both large and small online merchants that offer free shipping with guaranteed delivery by Christmas Eve .
+can	6	ps_cue
+########
+40
+The 2017 event is scheduled for Friday , Dec. 15 .
+scheduled	4	ps_cue
+########
+41
+<EOP> .
+########
+42
+Free Shipping Day was started in 2008 by Luke and Maisie Knowles , founders of Coupon Sherpa and FreeShipping.org , in an effort to extend the online shopping season .
+########
+43
+<EOP> .
+########
+44
+Super Saturday LRB 12_23 RRB <EOP> .
+########
+45
+Super Saturday or Panic Saturday is the last Saturday before Christmas , a major day of revenue for American retailers , marking the end of the shopping season .
+or	2	ps_cue
+########
+46
+Super Saturday targets last_minute shoppers .
+########
+47
+To compete with each other , stores offer significant discounts and extend store hours in an attempt to attract customers and drive impulse buying .
+########
+48
+<EOP> .
+########
+49
+Due to Super Saturday 's proximity to Christmas , shoppers are typically reluctant to venture online for deals , as purchases may not be able to arrive in time for the holiday .
+may	21	ps_cue
+not	22	neg_cue
+########
+50
+However , this is not always the case .
+not	4	neg_cue
+########
+51
+If customers are unable to gain access to the stores , like what happened during the North American blizzard of 2009 , customers who have little time left to buy their gifts may be forced online .
+unable	3	neg_cue
+like	11	ps_cue
+little	25	neg_cue
+may	32	ps_cue
+########
+52
+<EOP> .
+########
+53
+Christmas Eve and Christmas Day LRB 12_24_12_25 RRB <EOP> .
+########
+54
+These days are , obviously , low shopping days .
+########
+55
+That 's because most people in Western countries are not online or in shops , but instead spending time with their family and friends .
+not	9	neg_cue
+or	11	ps_cue
+instead	16	neg_cue
+########
+56
+<EOP> .
+########
+57
+However , when it comes to ecommerce , the whole world is retailers ' market .
+ecommerce	6	CT+	CT+
+########
+58
+In many countries , November is no more significant than December .
+no	6	neg_cue
+########
+59
+In many Western countries , there 's also Boxing Day LRB the 26th RRB which is an opportunity to buy end_of_season items .
+########
+60
+<EOP> .
+########

@@ -1,0 +1,118 @@
+Will crafty chats _ dubbed ` gossip theory ' _  help us live longer
+0
+Gossip makes us healthier , happier ... and human <EOP> .
+########
+1
+Most people feel guilty after gossiping about a friend or colleague .
+or	9	ps_cue
+########
+2
+<EOP> .
+########
+3
+But scientists have found that crafty chats _ dubbed ` gossip theory ' _ are what makes us human , and may even help us live longer .
+live	25	PS+	PS+
+may	21	ps_cue
+########
+4
+<EOP> .
+########
+5
+Gossip is what sets our species apart , as it helps us bonds with friends and learn important information about who to trust .
+helps	10	ps_cue
+########
+6
+<EOP> .
+########
+7
+And it 's this vital communication that could prevent us from dying , something Robin Dunbar , professor of evolutionary psychology at Oxford University , believes is the ` most important thing ' to keep us alive .
+dying	11	PS-	PS+
+alive	36	CT+	PS+
+could	7	ps_cue
+prevent	8	neg_cue
+########
+8
+<EOP> .
+########
+9
+Prof Dunbar told the Telegraph : ` That has a bigger effect than anything , except giving up cigarettes .
+except	15	neg_cue
+########
+10
+<EOP> .
+########
+11
+` Your social network has a huge effect on happiness and well_being .
+########
+12
+<EOP> .
+########
+13
+` The problem we have is how to maintain our social networks .
+########
+14
+Language evolved to allow us to keep the oil of the social network flowing , keep us up to date , and tell stories , which is really important for community cohesion .
+########
+15
+<EOP> .
+########
+16
+` Gossiping is just chatting with people and keeping up to date with the social world in which you live .
+########
+17
+So gossip is what makes us human .
+########
+18
+<EOP> .
+########
+19
+` The use of gossip in a negative sense is not seen until the 18th century . '
+negative	7	neg_cue
+not	10	neg_cue
+########
+20
+<EOP> .
+########
+21
+The idea is that as language developed it let humans communicate better and made them more likely to pass on useful information , allowing them to live in larger groups .
+likely	16	ps_cue
+########
+22
+<EOP> .
+########
+23
+Yuval Noah Harari , a history professor at the Hebrew University of Jerusalem , told the paper : ` The new linguistic skills that modern humans acquired about 70 millennia ago enabled them to gossip for hours on end .
+########
+24
+<EOP> .
+########
+25
+` Reliable information about who could be trusted meant that small bands could expand into larger bands .
+could	5	ps_cue
+could	12	ps_cue
+########
+26
+<EOP> .
+########
+27
+` Even today the vast majority of human communication , whether in the form of emails , phone calls or newspaper columns is gossip .
+whether	10	ps_cue
+or	19	ps_cue
+########
+28
+<EOP> .
+########
+29
+` It comes so naturally , that it seems as if our language evolved for this very purpose . '
+seems	8	ps_cue
+########
+30
+<EOP> .
+########
+31
+He added that ` rumour_mongers ' were in fact the first journalists , helping inform others about who to avoid and who to trust .
+avoid	19	neg_cue
+########
+32
+<EOP> .
+########

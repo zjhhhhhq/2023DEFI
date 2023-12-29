@@ -1,0 +1,70 @@
+Does a spectacular meteor shower lit up the skies
+0
+A spectacular meteor shower lit up the skies last night with 100 shooting stars an hour as the celestial firework display reached its fiery peak .
+shower	3	CT+	PS+
+########
+1
+<EOP> .
+########
+2
+Sky_watchers across the world braved freezing temperatures to enjoy the Geminid meteor shower after astronomers said the weather conditions were close to perfect for the annual spectacle .
+shower	12	CT+	PS+
+########
+3
+<EOP> .
+########
+4
+Shooting stars were seen streaking across the night sky just after midnight in London and past the Dover Patrol Memorial in St Margarets Bay , Kent .
+########
+5
+<EOP> .
+########
+6
+The meteor shower was visible in both hemispheres and was spotted from Skopje in Macedonia to Washington in the US because of the clear skies .
+shower	2	CT+	PS+
+########
+7
+<EOP> .
+########
+8
+This is a photo pictured along the Isle of Wight west coast near Chale .
+########
+9
+<EOP> .
+########
+10
+Geminid meteors can shine in different colours and may appear red , blue , green , or yellow , as seen last night in Buckinghamshire .
+meteors	1	PS+	PS+
+can	2	ps_cue
+may	8	ps_cue
+appear	9	ps_cue
+or	16	ps_cue
+########
+11
+<EOP> .
+########
+12
+The meteors , which travel at more than 22 miles per second , were visible from 10pm above Skopje , Macedonia , as the moon rose late .
+meteors	1	CT+	PS+
+########
+13
+<EOP> .
+########
+14
+Photographer John Baker said the viewing conditions on Dartmoor were almost perfect and among the best he 's seen .
+########
+15
+<EOP> .
+########
+16
+The Milky Way and the Big Dipper , also known as the Plough , are seen here reflected in an icy pond on Dartmoor last night .
+########
+17
+<EOP> .
+########
+18
+A village in Buckinghamshire was illuminated by the light of the moon and hundreds of shooting stars streaking through the sky .
+########
+19
+<EOP> .
+########

@@ -1,0 +1,46 @@
+Does Afghan intelligence arrest 28 suspects in 24 hrs
+0
+Afghan intelligence arrests 28 suspects in 24 hrs <EOP> .
+arrests	2	CT+	CT+
+########
+1
+2017_12_24 18:49 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+KABUL __ Afghan intelligence agency has arrested 28 suspected militants within the past 24 hours , the country 's primary intelligence agency National Directorate of Security LRB NDS RRB said Sunday .
+arrested	6	CT+	CT+
+suspected	8	ps_cue
+########
+4
+<EOP> .
+########
+5
+A total of 28 suspected militants were arrested across Afghanistan and they have been shifted to concerned departments for questioning , the NDS said on its Facebook page .
+arrested	7	CT+	CT+
+suspected	4	ps_cue
+########
+6
+<EOP> .
+########
+7
+The NDS personnel also seized 10 rounds of different weapons , 30 kg of explosives and found 37 rounds of Improvised Explosive Devices LRB IEDs RRB and landmines in various locations during the period .
+########
+8
+<EOP> .
+########
+9
+The NDS special units also launched nine special operations elsewhere since early Saturday .
+########
+10
+<EOP> .
+########
+11
+Violence has been on the rise as Afghan security forces struggle against a surge in attacks by anti_government fighters since the drawdown of foreign forces within the past three years .
+against	11	neg_cue
+########
+12
+<EOP> .
+########

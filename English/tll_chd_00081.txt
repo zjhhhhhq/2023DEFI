@@ -1,0 +1,170 @@
+Do UK police make new arrest in concert bombing investigation
+0
+UK police make new arrest in concert bombing investigation <EOP> .
+make	2	CT+	CT+
+########
+1
+2017_05_26 19:24 <EOP> .
+########
+2
+null <EOP> .
+########
+3
+MANCHESTER -- British police investigating the Manchester Arena bombing made a new arrest Friday while continuing to search addresses associated with the attacker who killed 22 people .
+made	9	CT+	CT+
+########
+4
+<EOP> .
+########
+5
+<EOP> .
+########
+6
+<EOP> .
+########
+7
+<EOP> .
+########
+8
+Police officers stand on guard outside the car park of the Manchester Arena , in central Manchester , Britain May 26 , 2017 .
+May	19	ps_cue
+########
+9
+<EOP> .
+########
+10
+LRB Photo_Agencies RRB <EOP> .
+########
+11
+Seven other men are in custody in connection with Monday 's blast , all are being held on suspicion of offenses violating the Terrorism Act .
+suspicion	18	ps_cue
+########
+12
+Their ages ranged from 18 to 38 .
+########
+13
+<EOP> .
+########
+14
+A 16_year_old boy who had been arrested was released without charge , police said .
+without	9	neg_cue
+########
+15
+<EOP> .
+########
+16
+Britain 's security level has been upgraded to `` critical '' meaning officials believe another attack may be imminent .
+may	16	ps_cue
+########
+17
+<EOP> .
+########
+18
+Authorities are chasing possible links between the bomber , Salman Abedi , and militants in Manchester , elsewhere in Europe , and in North Africa and the Middle East .
+possible	3	ps_cue
+########
+19
+<EOP> .
+########
+20
+Abedi , a college dropout who had grown up in the Manchester area , was known to security services because of his radical views .
+########
+21
+He was the son of Libyan parents who migrated to Britain in the early 1990s .
+########
+22
+<EOP> .
+########
+23
+He reportedly was in contact with family members just before the attack .
+########
+24
+<EOP> .
+########
+25
+The name of the man arrested in the early hours Friday and those of the seven others in custody were not released .
+not	20	neg_cue
+########
+26
+No one has yet been charged in the bombing .
+No	0	neg_cue
+yet	3	neg_cue
+########
+27
+<EOP> .
+########
+28
+London police say extra security is being added for major sporting events this weekend including the FA Cup Final at Wembley Stadium .
+########
+29
+<EOP> .
+########
+30
+Chief Superintendent Jon Williams said Friday extra protection measures and extra officers are being deployed throughout the capital because of the increased terrorist threat level .
+########
+31
+<EOP> .
+########
+32
+He said fans coming to football and rugby matches this weekend should come earlier than usual because of added security screening .
+should	11	ps_cue
+########
+33
+<EOP> .
+########
+34
+Williams said `` covert and discrete tactics '' will also be in place to protect the transport network .
+will	8	ps_cue
+########
+35
+<EOP> .
+########
+36
+He says police want the approach to be `` unpredictable '' and to make London `` as hostile an environment as possible to terrorists .
+possible	21	ps_cue
+########
+37
+`` British police working on the case have resumed intelligence_sharing with U.S. counterparts after a brief halt because of anger over leaks to US media thought by Britain to be coming from U.S. officials .
+########
+38
+<EOP> .
+########
+39
+British officials say that have receive assurances from U.S. authorities that confidential material will be protected .
+will	13	ps_cue
+########
+40
+<EOP> .
+########
+41
+Campaigning in Britain 's general election , set for June 8 , is resuming after being suspended because of the bombing late Monday following an Ariana Grande concert .
+suspended	16	neg_cue
+########
+42
+<EOP> .
+########
+43
+Labour leader Jeremy Corbyn plans to use a speech Friday to link Britain 's actions overseas to the increased extremist threat at home .
+plans	4	ps_cue
+########
+44
+<EOP> .
+########
+45
+Katz reported from London .
+########
+46
+<EOP> .
+########
+47
+Agencies <EOP> .
+########
+48
+<EOP> .
+########
+49
+<EOP> .
+########
+50
+<EOP> .
+########

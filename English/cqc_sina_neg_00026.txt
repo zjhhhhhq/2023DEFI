@@ -1,0 +1,76 @@
+Does the president Jacob Zuma repay all improvements to his ranch
+0
+South Africa 's Constitutional Court is considering whether the president Jacob Zuma should pay back some of the $ 23m of taxpayers ' money spent on refurbishing his private home .
+pay	13	PS+	PS+
+whether	7	ps_cue
+should	12	ps_cue
+########
+1
+His lawyers say he will repay all improvements to his ranch that were not security related .
+repay	5	CT+	PS+
+will	4	ps_cue
+not	13	neg_cue
+########
+2
+<EOP> .
+########
+3
+One particular animal species holds the title of man 's best friend but horses ... they 've been living alongside humans for 6,000 years .
+########
+4
+A new study shows that adapting to our world has changed the way they think because British scientists have discovered that domestic horses can recognise our facial expressions .
+can	23	ps_cue
+########
+5
+The animals were measurably more stressed by angry faces .
+########
+6
+<EOP> .
+########
+7
+refurbishing _ adapting <EOP> .
+########
+8
+1 .
+########
+9
+It 's an old house but it will look really nice after you __________ it .
+will	7	ps_cue
+########
+10
+<EOP> .
+########
+11
+2 .
+########
+12
+Warm winters and big hurricanes .
+########
+13
+Should we try to __________ to extreme weather brought about by climate change ?
+########
+14
+<EOP> .
+########
+15
+1 .
+########
+16
+It 's an old house but it will look really nice after you refurbish it .
+will	7	ps_cue
+########
+17
+<EOP> .
+########
+18
+2 .
+########
+19
+Warm winters and big hurricanes .
+########
+20
+Should we try to adapt to extreme weather brought about by climate change ?
+########
+21
+<EOP> .
+########

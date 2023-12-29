@@ -1,0 +1,119 @@
+Does British election campaign resume
+0
+In shadow of deadly attacks , British election campaign resumes <EOP> .
+resumes	9	CT+	CT+
+########
+1
+2017_06_05 09:42 <EOP> .
+########
+2
+null <EOP> .
+########
+3
+<EOP> .
+########
+4
+Britain 's Prime Minister Theresa May speaks outside 10 Downing Street after an attack on London Bridge and Borough Market left 7 people dead and dozens injured in London , Britain , June 4 , 2017 .
+May	5	ps_cue
+########
+5
+LRB Photo_Agencies RRB <EOP> .
+########
+6
+<EOP> .
+########
+7
+LONDON _ After a militant attack on a nightlife district of London this weekend , British Prime Minister Theresa May will resume campaigning on Monday just three days before a national election which polls show is much tighter than previously predicted .
+resume	21	CT+	CT+
+May	19	ps_cue
+will	20	ps_cue
+predicted	40	ps_cue
+########
+8
+<EOP> .
+########
+9
+May said Britain must be tougher in stamping out Islamist extremism after three knife_wielding assailants rammed a hired van into pedestrians on London Bridge and stabbed others nearby , killing seven people and injuring 48 .
+May	0	ps_cue
+########
+10
+<EOP> .
+########
+11
+After the third militant attack in Britain in less than three months , May said Thursday 's election would go ahead .
+May	13	ps_cue
+would	18	ps_cue
+########
+12
+But she said Britain had been far too tolerant of extremism .
+########
+13
+<EOP> .
+########
+14
+`` Violence can never be allowed to disrupt the democratic process , '' May said outside her Downing Street office , where British flags flew at half_staff .
+can	2	ps_cue
+never	3	neg_cue
+May	13	ps_cue
+########
+15
+<EOP> .
+########
+16
+Islamic State on Sunday night claimed responsibility for the attack via the militant group 's agency Amaq .
+########
+17
+<EOP> .
+########
+18
+`` A detachment of Islamic State fighters executed yesterday 's London attack , '' a statement posted on Amaq 's media page , monitored in Cairo , said .
+########
+19
+<EOP> .
+########
+20
+<EOP> .
+########
+21
+A policewomen takes away a suspect in connection with the attack during a police raid of the Barking district of east London , June 4 , 2017 .
+suspect	5	ps_cue
+########
+22
+LRB Photo_Xinhua RRB <EOP> .
+########
+23
+London police arrested 12 people in the Barking district of east London in connection with the attack and raids were continuing there , the force said .
+########
+24
+Police have not released the names of the attackers .
+not	2	neg_cue
+########
+25
+<EOP> .
+########
+26
+It was not immediately clear how the attack would impact the election .
+not	2	neg_cue
+would	8	ps_cue
+########
+27
+The campaign was suspended for several days last month when a suicide bomber killed 22 people at a concert by Ariana Grande in Manchester .
+suspended	3	neg_cue
+########
+28
+<EOP> .
+########
+29
+Grande gave an emotional performance on Sunday at a benefit gig in the city for the victims of the attack , singing with a choir of local schoolchildren , including some who had been at her show .
+gave	1	neg_cue
+########
+30
+<EOP> .
+########
+31
+Before the London Bridge attack , May 's gamble on a June 8 snap election had been thrust into doubt after polls showed her Conservative Party 's lead had collapsed in recent weeks .
+May	6	ps_cue
+########
+32
+<EOP> .
+########

@@ -1,0 +1,142 @@
+Is the City of London stripped of its right to act as a clearing house for euro transactions 
+0
+EU reveals plan to curtail London 's post_Brexit euro_clearing role <EOP> .
+plan	2	ps_cue
+########
+1
+2017_06_14 17:15 <EOP> .
+########
+2
+China Daily UK <EOP> .
+########
+3
+The European Commission announced on Tuesday a plan that could see the City of London stripped of its right to act as a clearing house for euro transactions .
+stripped	15	PS+	PS+
+could	9	ps_cue
+plan	7	ps_cue
+########
+4
+<EOP> .
+########
+5
+London clears contracts worth around 1 trillion euros LRB $ 880 billion RRB each day .
+########
+6
+Any change could cost banks 63 billion pounds and deprive the United Kingdom of more than 80,000 jobs .
+cost	3	PS+	PS+
+deprive	9	PS+	PS+
+could	2	ps_cue
+########
+7
+<EOP> .
+########
+8
+Clearing houses act as intermediaries among derivatives traders .
+########
+9
+They also take down payments , in case parties go bankrupt .
+########
+10
+Rules governing them were strengthened after the 2008 financial crisis .
+########
+11
+<EOP> .
+########
+12
+The proposed reforms are meant to ensure the financial stability of the European Union after its largest financial center － London － leaves its jurisdiction .
+proposed	1	ps_cue
+########
+13
+It would mean the City of London and the financial institutions that clear euro transactions would continue to be subject to close EU supervision after the UK leaves the bloc .
+would	1	ps_cue
+would	15	ps_cue
+########
+14
+<EOP> .
+########
+15
+The proposal also said that some clearing houses may be too significant to conduct their business in the EU without being based there .
+may	8	ps_cue
+without	19	neg_cue
+########
+16
+<EOP> .
+########
+17
+The announcement was almost unnoticed in the UK amid the fallout from last week 's general election .
+########
+18
+<EOP> .
+########
+19
+Meanwhile , former Conservative prime minister John Major warned that an alliance between his party and the Democratic Unionist Party could ignite a new bout of violence in Northern Ireland .
+could	20	ps_cue
+########
+20
+<EOP> .
+########
+21
+Major spoke to the BBC on Tuesday as Prime Minister Theresa May sat down with Arlene Foster and Peter Dodds of the DUP in a bid to negotiate a deal that would secure the DUP 's support for May 's government .
+May	11	ps_cue
+would	31	ps_cue
+May	38	ps_cue
+########
+22
+May failed to get a majority in the general election last week and needs the DUP 's MPs to add to the Conservative 's 318 MPs to get more than the 325 seats needed to pass legislation in Parliament .
+May	0	ps_cue
+failed	1	neg_cue
+needs	13	ps_cue
+########
+23
+<EOP> .
+########
+24
+Major said that a deal with the DUP could damage the UK government 's central role in the Northern Ireland peace process , and risk alienating other areas of the UK , which would be angry at the transfer of resources that the DUP are sure to seek in return for electoral support .
+could	8	ps_cue
+would	33	ps_cue
+########
+25
+<EOP> .
+########
+26
+The DUP 's Foster suggested that the talks with May had gone well but had not been concluded .
+suggested	4	ps_cue
+May	9	ps_cue
+not	15	neg_cue
+########
+27
+She tweeted : `` Discussions are going well with the government and we hope soon to be able to bring this work to a successful conclusion . ''
+hope	13	ps_cue
+########
+28
+<EOP> .
+########
+29
+Meanwhile in Brussels , the chief negotiator for the EU warned the UK to hurry up and begin its negotiations to leave the EU or risk crashing out without an agreement .
+or	24	ps_cue
+without	28	neg_cue
+########
+30
+<EOP> .
+########
+31
+Michel Barnier pointed out that it had been three months since the UK triggered the Brexit process by invoking Article 50 of the Lisbon Treaty , which offers a period of two years of negotiations before departure .
+########
+32
+<EOP> .
+########
+33
+`` Next week , it will be three months after the sending of the Article 50 letter .
+will	5	ps_cue
+########
+34
+We have n't negotiated .
+n't	2	neg_cue
+########
+35
+We have n't progressed , '' he told reporters in Brussels .
+n't	2	neg_cue
+########
+36
+<EOP> .
+########

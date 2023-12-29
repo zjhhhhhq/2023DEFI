@@ -1,0 +1,128 @@
+Will Trump's first state visit to China be a successful trip
+0
+China ready for Trump 's ` state visit_plus ' : Cui <EOP> .
+ready	1	ps_cue
+########
+1
+2017_10_31 10:18 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+<EOP> .
+########
+4
+Chinese Ambassador to the United States Cui Tiankai briefs media during a news conference on Trump 's upcoming visit to China in Washington DC , Oct 30 , 2017 .
+visit	18	CT+	CT+
+########
+5
+LRB Photo by Zhao Huanxin_chinadaily .
+########
+6
+com.cn RRB <EOP> .
+########
+7
+<EOP> .
+########
+8
+US President Donald Trump 's first state visit to China , coming at a `` historical moment '' after a key Party congress in Beijing , will be a successful trip with significant outcomes on trade , the Korean Peninsula and other issues , China 's top envoy in Washington said on Monday .
+visit	7	CT+	CT+
+will	26	ps_cue
+########
+9
+<EOP> .
+########
+10
+Trump is expected to arrive in Beijing on Nov 8 for what Ambassador Cui Tiankai called a `` state visit_plus '' featuring talks , a military honor guard and formal banquet and some `` special arrangements '' , whereby China reciprocates the hospitality the US president and the first family showed their visitors at the Mar_a_Lago meeting in Florida in April , Cui told a briefing .
+expected	2	ps_cue
+########
+11
+<EOP> .
+########
+12
+Cui said the recent 19th National Congress of the Communist Party of China reaffirmed China 's commitment to following a path of peaceful development , a strategy of opening_up , and efforts to build a community with a shared future for mankind .
+########
+13
+<EOP> .
+########
+14
+Beijing also will ramp up its close and effective coordination with other countries , especially major powers like the US .
+will	2	ps_cue
+like	17	ps_cue
+########
+15
+<EOP> .
+########
+16
+Trump will be the first head of state of a major power to visit China at this historical moment , Cui said .
+visit	13	CT+	CT+
+will	1	ps_cue
+########
+17
+<EOP> .
+########
+18
+During the visit , the two presidents are expected to chart the course of development for the world 's most important bilateral relationship , he said .
+visit	2	CT+	CT+
+expected	8	ps_cue
+########
+19
+<EOP> .
+########
+20
+The ambassador said the Korean Peninsula situation will be a priority in the talks between the two presidents .
+will	7	ps_cue
+########
+21
+<EOP> .
+########
+22
+`` I hope they reach more agreement between them and will give us a clear guidance on how the two countries could handle this issue together , '' Cui said .
+hope	2	ps_cue
+will	10	ps_cue
+could	21	ps_cue
+########
+23
+`` We are taking measures to implement the LRB United Nations Security Council RRB sanctions , although obviously many of the sanctions would be implemented with a high cost for China itself , because we are DPRK 's neighbor . ''
+would	22	ps_cue
+########
+24
+<EOP> .
+########
+25
+Cui stressed that the Korean Peninsula issue can not be solved by China itself .
+can	7	ps_cue
+not	8	neg_cue
+########
+26
+It requires a concerted effort of all the parties concerned , including the US and the DPRK .
+########
+27
+<EOP> .
+########
+28
+`` It is clear that if only China is making its efforts , while others are doing things that could lead to escalation of tensions , this issue would not be solved , and it would become even more difficult , and the end result would hurt everybody 's interest , '' he said .
+could	19	ps_cue
+would	28	ps_cue
+not	29	neg_cue
+would	35	ps_cue
+would	45	ps_cue
+########
+29
+<EOP> .
+########
+30
+Cui said there is a strong sense of urgency regarding the peninsula , adding that China is open to any talks between any parties as long as they are conducive to a peaceful solution , to a negotiated solution of the nuclear issue .
+########
+31
+<EOP> .
+########
+32
+`` I 'm sure at the conclusion of the visit , both sides would have something to say about this issue , '' Cui said .
+visit	9	CT+	CT+
+would	13	ps_cue
+########
+33
+<EOP> .
+########

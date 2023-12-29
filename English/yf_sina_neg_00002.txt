@@ -1,0 +1,104 @@
+Is Winnie the Pooh a dangerous influence on children 
+0
+Councillors in a small town in Poland have banned Winnie the Pooh claiming the bear is of ` dubious sexuality ' , is ` inappropriately dressed ' and is ` half_naked ' .
+Winnie	9	CT-	CT-
+banned	8	neg_cue
+claiming	12	ps_cue
+########
+1
+<EOP> .
+########
+2
+Officials in Tuszyn , central Poland even attacked author AA Milne , describing him as ` disturbing ' .
+########
+3
+<EOP> .
+########
+4
+The town was considering a special mascot for their new children 's playground and someone suggested the popular creation .
+suggested	15	ps_cue
+########
+5
+<EOP> .
+########
+6
+However , some members of the council attacked the plan , claiming that Winnie the Pooh was a dangerous influence on children .
+Winnie	13	PS+	CT-
+plan	9	ps_cue
+claiming	11	ps_cue
+########
+7
+<EOP> .
+########
+8
+Councillor Ryszard Cichy , 46 , said : ` The problem with that bear is it does n't have a complete wardrobe .
+n't	17	neg_cue
+########
+9
+<EOP> .
+########
+10
+` It is half_naked which is wholly inappropriate for children . '
+########
+11
+<EOP> .
+########
+12
+He then suggested a Polish fictional bear , saying : ` Ours is dressed from head to toe , unlike Pooh who is only dressed from the waist up . '
+suggested	2	ps_cue
+########
+13
+<EOP> .
+########
+14
+The meeting , which was recorded by one of the councillors and leaked to local press , then turned on Winnie the Pooh 's sexuality .
+Winnie	20	CT+	CT-
+########
+15
+<EOP> .
+########
+16
+One official is heard saying : ` It does n't wear underpants because it does n't have a sex .
+n't	9	neg_cue
+n't	15	neg_cue
+########
+17
+It 's a hermaphrodite . '
+########
+18
+<EOP> .
+########
+19
+Councillor Hanna Jachimska then began criticising the Winnie the Pooh author Alan Alexander Milne .
+Winnie	7	CT-	CT-
+criticising	5	neg_cue
+########
+20
+<EOP> .
+########
+21
+She said : ` This is very disturbing but can you imagine !
+can	9	ps_cue
+########
+22
+The author was over 60 and cut his LRB Pooh 's RRB testicles off with a razor blade because he had a problem with his identity . '
+########
+23
+<EOP> .
+########
+24
+The councillors have yet to make a formal decision about which bear will be the patron of the children 's playground .
+yet	3	neg_cue
+will	12	ps_cue
+########
+25
+<EOP> .
+########
+26
+But Winnie the Pooh is not a candidate , they said .
+Winnie	1	CT-	CT-
+not	5	neg_cue
+########
+27
+<EOP> .
+########

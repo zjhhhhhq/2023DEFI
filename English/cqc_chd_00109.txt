@@ -1,0 +1,108 @@
+Does Chinese_Kazakh movie draw inspiration from President Xi
+0
+Chinese_Kazakh movie draws inspiration from President Xi <EOP> .
+inspiration	3	CT+	CT+
+########
+1
+2017_06_09 10:34 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+<EOP> .
+########
+4
+The Sino_Kazakh coproduction , <EOP> .
+########
+5
+Composer <EOP> .
+########
+6
+, a biographical film about Chinese composer Xian Xinghai , has begun filming in Astana , the capital of Kazakhstan , and is set to premiere on June 13 , 2018 .
+########
+7
+Photo provided to China Daily <EOP> .
+########
+8
+ASTANA _ As the first China_Kazakhstan co_production inspired by President Xi Jinping started shooting on Thursday , film makers and producers from countries along the Belt and Road seemed ready to dredge up more stories from political leaders .
+inspired	7	CT+	CT+
+seemed	28	ps_cue
+ready	29	ps_cue
+########
+9
+<EOP> .
+########
+10
+Composer , telling the rarely known life story of the late Chinese composer Xian Xinghai in Kazakhstan in 1940s , came out of the statement of President Xi in 2013 and began filming during his ongoing state visit to the Central Asian country , said the film 's producer Shen Jian , president of Chinese movie_making company Shinework Pictures .
+########
+11
+<EOP> .
+########
+12
+A movie inspired by Xi <EOP> .
+########
+13
+<EOP> .
+########
+14
+The road `` got its name from a true story , '' Xi said .
+########
+15
+`` At the outset of the Great Patriotic War in 1941 , Xian arrived in Almaty after much travail .
+########
+16
+By then , he was worn down by poverty and illness and had no one to turn to .
+no	13	neg_cue
+########
+17
+Fortunately , the Kazakh composer Bakhitzhan Baykadamov took care of Xian and provided him with the comfort of a home . ''
+########
+18
+<EOP> .
+########
+19
+`` It was in Almaty that Xian composed his famous works Liberation of the Nation , Sacred War and Red All over the River .
+########
+20
+He also wrote a symphony <EOP> .
+########
+21
+Amangeldy <EOP> .
+########
+22
+based on the exploits of the Kazakh national hero .
+########
+23
+These pieces served as a rallying call to fight Fascists and proved immensely popular with the local people , '' said the Chinese leader .
+########
+24
+<EOP> .
+########
+25
+`` It was a fascinating story that we have never heard of , although Xian Xinghai is a household name in China , '' Shen , the film 's producer , told Xinhua .
+never	9	neg_cue
+########
+26
+<EOP> .
+########
+27
+`` I , and my generation , grew up listening to his passionate and extremely beautiful symphonies like the Yellow River Cantata .
+like	17	ps_cue
+########
+28
+But we did n't know he had such a deep bond with Kazakhstan , '' said Shen .
+n't	3	neg_cue
+########
+29
+<EOP> .
+########
+30
+`` I was touched by President Xi 's account .
+########
+31
+It was then that I felt obliged to shoot the movie , to make Xian and his helpful Kazakh friends widely known , '' he said .
+########
+32
+<EOP> .
+########

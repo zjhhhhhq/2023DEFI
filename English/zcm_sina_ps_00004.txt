@@ -1,0 +1,327 @@
+Will the dinosaurs catapult life to Mars and the moons of Jupiter
+0
+The asteroid that wiped out the dinosaurs may have catapulted life to Mars and the moons of Jupiter , US researchers say .
+catapulted	9	PS+	PS+
+may	7	ps_cue
+########
+1
+<EOP> .
+########
+2
+They calculated how many Earth rocks big enough to shelter life were ejected by asteroids in the last 3.5 bn years .
+########
+3
+<EOP> .
+########
+4
+The Chicxulub impact was strong enough to fire chunks of debris all the way to Europa , they write in Astrobiology .
+########
+5
+<EOP> .
+########
+6
+Thousands of potentially life_bearing rocks also made it to Mars , which may once have been habitable , they add .
+potentially	2	ps_cue
+may	12	ps_cue
+########
+7
+<EOP> .
+########
+8
+`` We find that rock capable of carrying life has likely transferred from both Earth and Mars to all of the terrestrial planets in the solar system and Jupiter , '' says lead author Rachel Worth , of Penn State University .
+transferred	11	PS+	PS+
+likely	10	ps_cue
+########
+9
+<EOP> .
+########
+10
+`` Any missions to search for life on Titan or the moons of Jupiter will have to consider whether biological material is of independent origin , or another branch in Earth 's family tree . ''
+or	9	ps_cue
+will	14	ps_cue
+consider	17	ps_cue
+whether	18	ps_cue
+or	26	ps_cue
+########
+11
+<EOP> .
+########
+12
+Panspermia _ the idea that organisms can `` hitchhike '' around the solar system on comets and debris from meteor strikes _ has long fascinated astronomers .
+can	6	ps_cue
+########
+13
+<EOP> .
+########
+14
+But thanks to advances in computing , they are now able to simulate these journeys _ and follow potential stowaways as they hitch around the Solar System .
+potential	18	ps_cue
+########
+15
+<EOP> .
+########
+16
+In this new study , researchers first estimated the number of rocks bigger than 3m ejected from Earth by major impacts .
+########
+17
+<EOP> .
+########
+18
+Three metres is the minimum they think necessary to shield microbes from the Sun 's radiation over a journey lasting up to 10 million years .
+########
+19
+<EOP> .
+########
+20
+They then mapped the likely fate of these voyagers .
+likely	4	ps_cue
+########
+21
+Many simply hung around in Earth orbit , or were slowly drawn back down .
+or	8	ps_cue
+########
+22
+<EOP> .
+########
+23
+Others were pulled into the Sun , or sling_shotted out of the Solar System entirely .
+or	7	ps_cue
+########
+24
+<EOP> .
+########
+25
+Yet a small but significant number made it all the way to alien worlds which might welcome life .
+might	15	ps_cue
+########
+26
+`` Enough that it matters , '' Ms Worth told BBC News .
+########
+27
+<EOP> .
+########
+28
+About six rocks even made it as far as Europa , a satellite of Jupiter with a liquid ocean covered in an icy crust .
+########
+29
+<EOP> .
+########
+30
+`` Even using conservative , realistic estimates ... it 's still possible that organisms could be swimming around out there in the oceans of Europa , '' she said .
+possible	11	ps_cue
+could	14	ps_cue
+########
+31
+<EOP> .
+########
+32
+Travel to Mars was much more common .
+########
+33
+About 360,000 large rocks took a ride to the Red Planet , courtesy of historical asteroid impacts .
+########
+34
+<EOP> .
+########
+35
+Big bang theory <EOP> .
+########
+36
+Perhaps the most famous of these impacts was at Chicxulub in Mexico about 66 million years ago _ when an object the size of a small city collided with Earth .
+########
+37
+<EOP> .
+########
+38
+The impact has been blamed for the mass extinction of the dinosaurs , triggering volcanic eruptions and wildfires which choked the planet with smoke and dust .
+########
+39
+<EOP> .
+########
+40
+It also launched about 70 billion kg of rock into space _ 20,000 kg of which could have reached Europa .
+could	16	ps_cue
+########
+41
+And the chances that a rock big enough to harbour life arrived are `` better than 50_50 '' , researchers estimate .
+estimate	20	ps_cue
+########
+42
+<EOP> .
+########
+43
+But could living organisms actually survive these epic trips ?
+could	1	ps_cue
+########
+44
+<EOP> .
+########
+45
+`` I 'd be surprised if life has n't gotten to Mars , '' Ms Worth told BBC News .
+n't	8	neg_cue
+########
+46
+<EOP> .
+########
+47
+`` It 's beyond the scope of our study .
+########
+48
+But it seems reasonable that at some point some Earth organisms have made it over there . ''
+seems	2	ps_cue
+########
+49
+<EOP> .
+########
+50
+It has been shown that tiny creatures can withstand the harsh environment of space .
+can	7	ps_cue
+########
+51
+And bacterial spores can be revived after hundreds of millions of years in a dormant state .
+can	3	ps_cue
+########
+52
+<EOP> .
+########
+53
+But even if a hardy microbe did stow away for all those millennia , it might simply burn up on arrival , or land in inhospitable terrain .
+might	15	ps_cue
+or	22	ps_cue
+########
+54
+<EOP> .
+########
+55
+The most habitable places in range of Earth are Europa , Mars and Titan _ but while all three have likely held water , it may not have been on offer to visitors .
+likely	20	ps_cue
+may	25	ps_cue
+not	26	neg_cue
+########
+56
+<EOP> .
+########
+57
+Europa 's oceans are capped by a crust of ice that may be impenetrably thick .
+may	11	ps_cue
+########
+58
+<EOP> .
+########
+59
+`` But it appears regions of the ice sheet sometimes break into large chunks separated by liquid water , which later refreezes , '' Ms Worth said .
+appears	3	ps_cue
+########
+60
+<EOP> .
+########
+61
+`` Any meteorites lying on top of the ice sheet in a region when this occurs would stand a chance of falling through .
+would	16	ps_cue
+########
+62
+<EOP> .
+########
+63
+`` Additionally , the moons are thought to have been significantly warmer in the not_too_distant past . ''
+########
+64
+<EOP> .
+########
+65
+Moon fossils <EOP> .
+########
+66
+On Mars , there is little evidence of flowing water during the last 3.5 bn years _ the likeliest window for Earth life to arrive .
+little	5	neg_cue
+########
+67
+<EOP> .
+########
+68
+But what if the reverse trip took place ?
+########
+69
+<EOP> .
+########
+70
+The early Martian atmosphere appears to have been warm and wet _ prime conditions for the development of life .
+appears	4	ps_cue
+########
+71
+<EOP> .
+########
+72
+And if Martian microbes ever did exist , transfer to Earth is `` highly probable '' due to the heavy traffic of meteorites between our planets , Ms Worth told BBC News .
+probable	14	ps_cue
+########
+73
+<EOP> .
+########
+74
+`` Billions have fallen on Earth from Mars since the dawn of our planetary system .
+########
+75
+It is even possible that life on Earth originated on Mars . ''
+possible	3	ps_cue
+########
+76
+<EOP> .
+########
+77
+While her team are not the first to calculate that panspermia is possible , their 10_million_year simulation is the most extended yet , said astrobiologist Prof Jay Melosh , of Purdue University .
+not	4	neg_cue
+possible	12	ps_cue
+yet	21	neg_cue
+########
+78
+<EOP> .
+########
+79
+`` The study strongly reinforces the conclusion that , once large impacts eject material from the surface of a planet such as the Earth or Mars , the ejected debris easily finds its way from one planet to another , '' he told BBC News .
+or	24	ps_cue
+########
+80
+<EOP> .
+########
+81
+`` The Chicxulub impact itself might not have been a good candidate because it occurred in the ocean LRB 50 to 500m deep water RRB and , while it might have ejected a few sea_surface creatures , like ammonites , into space , it would not likely have ejected solid rocks .
+might	5	ps_cue
+not	6	neg_cue
+might	29	ps_cue
+like	37	ps_cue
+would	44	ps_cue
+not	45	neg_cue
+likely	46	ps_cue
+########
+82
+<EOP> .
+########
+83
+`` I sometimes joke that we might find ammonite shells on the Moon from that event .
+might	6	ps_cue
+########
+84
+<EOP> .
+########
+85
+`` But other large impacts on the Earth may indeed have ejected rocks into interplanetary space . ''
+may	8	ps_cue
+########
+86
+<EOP> .
+########
+87
+Another independent expert on panspermia , Mauricio Reyes_Ruiz of the National Autonomous University of Mexico , said the new findings were `` very significant '' .
+########
+88
+<EOP> .
+########
+89
+`` The fact such different pathways exist for the interchange of material between Earth and bodies in the Solar System suggests that if life is ever found , it may very well turn out to be our very , very distant relatives , '' he said .
+suggests	20	ps_cue
+may	29	ps_cue
+########
+90
+<EOP> .
+########

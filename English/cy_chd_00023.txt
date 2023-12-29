@@ -1,0 +1,99 @@
+Were passenger dragged off flight sparks uproar
+0
+Passenger dragged off flight sparks uproar <EOP> .
+dragged	1	CT+	CT+
+########
+1
+2017_04_12 06:47 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+<EOP> .
+########
+4
+The head of United Airlines apologized to customers on Monday after videos on social media showed an Asian passenger screaming while being removed from his seat and then _ bleeding from the face after hitting his head _ being limply dragged down the aisle of a full flight at Chicago O'Hare International Airport after refusing to give up his seat .
+removed	22	CT+	CT+
+refusing	54	neg_cue
+########
+5
+<EOP> .
+########
+6
+`` This is an upsetting event to all of us here at United .
+########
+7
+I apologize for having to re_accommodate these customers , '' United CEO Oscar Munoz said in a statement .
+########
+8
+`` Our team is moving with a sense of urgency to work with the authorities and conduct our own detailed review of what happened . ''
+########
+9
+<EOP> .
+########
+10
+Chicago 's Aviation Department said one of its officers involved in dragging the man off the flight did not follow standard operating procedures and has been placed on leave .
+not	18	neg_cue
+########
+11
+<EOP> .
+########
+12
+A witness told NBC News the incident began after the airline said the flight to Louisville , Kentucky , was overbooked and asked four customers to give up their seats voluntarily for compensation and take a flight the following day .
+########
+13
+Four crew members needed to travel to work another flight in Louisville or else that flight would be canceled , airline spokeswoman Maddie King said .
+or	12	ps_cue
+would	16	ps_cue
+########
+14
+<EOP> .
+########
+15
+When no one volunteered , the airline was forced into an `` involuntary de_boarding situation '' , airline spokesman Charlie Hobart said .
+no	1	neg_cue
+########
+16
+<EOP> .
+########
+17
+A witness told The New York Times that the man complained he was selected because he was Chinese .
+########
+18
+<EOP> .
+########
+19
+United used a system that weighs a number of factors to determine which passengers would leave the flight .
+would	14	ps_cue
+########
+20
+`` The system in place enables us to take a look at how long a customer will need to stay at an airport , for example , '' Hobart said .
+will	16	ps_cue
+need	17	ps_cue
+########
+21
+<EOP> .
+########
+22
+United Chinese Americans , an umbrella organization for Chinese groups in the US , said in a statement on Monday that it was `` immensely disturbed by the violent and wrong action taken yesterday to remove a 69_year_old Chinese American doctor from the plane by police from Chicago Department of Aviation and United Airlines at O'Hare International Airport '' .
+remove	35	CT+	CT+
+########
+23
+<EOP> .
+########
+24
+`` We demand an immediate and thorough investigation by United Airlines as well as by the FAA regarding this horrible incident as well as about the booking and other industry practices adopted by the airlines in general , '' the statement said .
+########
+25
+<EOP> .
+########
+26
+paulwelitzkin@chinadailyusa.com <EOP> .
+########
+27
+<EOP> .
+########
+28
+LRB China Daily 04_12_2017 page1 RRB <EOP> .
+########

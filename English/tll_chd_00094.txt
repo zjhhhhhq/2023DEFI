@@ -1,0 +1,49 @@
+Did Italian President Sergio Mattarella visit China
+0
+Chinese culture in spotlight on Silk Road cruiseliner <EOP> .
+########
+1
+2017_05_24 08:02 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+Children from Northwest China 's Shaanxi province perform a folk dance during the opening ceremony of the Silk Road Stories program on board the Majestic Princess cruise ship in Rome , Italy , on May 21 , 2017 .
+May	34	ps_cue
+########
+4
+LRB Photo_Xinhua RRB <EOP> .
+########
+5
+ROME _ A cultural program called Silk Road Stories made its debut on board the Majestic Princess , a new cruise ship that is making its maiden global voyage from Rome to East China 's Xiamen city .
+########
+6
+<EOP> .
+########
+7
+The opening ceremony for the program , which introduces Western passengers to Chinese culture , art , dance , food , and more , took place Sunday on board the gigantic 19_storey vessel , which measures 224 feet in height and 1,083 feet in length .
+########
+8
+<EOP> .
+########
+9
+The program points to deepening Sino_Italian relations , said Chinese embassy 's charge d'affaires Zheng Xuan at the ceremony .
+########
+10
+<EOP> .
+########
+11
+Bilateral relations hit a fast track after a state visit to China by Italian President Sergio Mattarella in February , she said .
+visit	9	CT+	CT+
+########
+12
+<EOP> .
+########
+13
+That was followed by Italian Prime Minister Paolo Gentiloni 's visit earlier this month , when he attended the Belt and Road Forum for International Cooperation in Beijing .
+visit	10	CT+	CT+
+########
+14
+<EOP> .
+########

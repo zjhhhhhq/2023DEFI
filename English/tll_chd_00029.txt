@@ -1,0 +1,138 @@
+Will Theresa May change human rights laws
+0
+Security overshadows UK election campaign <EOP> .
+########
+1
+2017_06_08 07:32 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+British Prime Minister Theresa May said she would change human rights laws to hinder terrorism suspects as British politicians entered the final day of campaigning before Thursday 's general election .
+change	8	PS+	PS+
+May	4	ps_cue
+would	7	ps_cue
+########
+4
+<EOP> .
+########
+5
+The campaign has been unable to cast off the shadow of the terror attacks in Manchester and London and security will be tight around polling stations .
+unable	4	neg_cue
+will	20	ps_cue
+########
+6
+<EOP> .
+########
+7
+May said she would increase restrictions on people who were suspected of having terrorist intentions but had committed no crime .
+May	0	ps_cue
+would	3	ps_cue
+suspected	10	ps_cue
+no	18	neg_cue
+########
+8
+<EOP> .
+########
+9
+`` And if human rights laws stop us from doing it , we will change those laws so we can do it , '' she said .
+change	14	CT+	PS+
+stop	6	neg_cue
+will	13	ps_cue
+can	19	ps_cue
+########
+10
+<EOP> .
+########
+11
+Members of the Labour Party said that any attack on human rights would be a victory for terrorists and blamed the government for aggressively cutting spending on police , which allowed known suspects to operate freely .
+would	12	ps_cue
+########
+12
+<EOP> .
+########
+13
+The campaign has been characterized by very little discussion of Brexit , the issue that will dominate the next Parliament to the exclusion of almost everything else .
+little	7	neg_cue
+will	15	ps_cue
+########
+14
+Voters have been given no new information as to what leaders will do when negotiations with the rest of the EU begin on June 19 .
+no	4	neg_cue
+will	11	ps_cue
+########
+15
+<EOP> .
+########
+16
+There are 46.9 million registered voters in the UK and they will vote to choose 650 members of Parliament to represent them .
+will	11	ps_cue
+########
+17
+If one party gets at least 326 MPs , it will be able to form a government .
+will	10	ps_cue
+########
+18
+If the largest party gets less than 326 , it may have to form a coalition .
+may	10	ps_cue
+########
+19
+<EOP> .
+########
+20
+Opinion polls suggest that May 's Conservatives are so far the favorite to win , leading the Labour Party by between 6_9 percent .
+suggest	2	ps_cue
+May	4	ps_cue
+########
+21
+The Liberal Democrats and the United Kingdom Independence Party trail far behind with around 8 and 5 percent .
+########
+22
+<EOP> .
+########
+23
+Poor performance <EOP> .
+########
+24
+The election in Scotland will be dominated by the Scottish Nationalist Party and in Northern Ireland by Sinn Fein and the Democratic Unionist Party .
+will	4	ps_cue
+########
+25
+<EOP> .
+########
+26
+Even if May wins , her victory will still be tainted by what British media has recently portrayed as a poor performance in the campaign .
+May	2	ps_cue
+will	7	ps_cue
+########
+27
+She was seen on many occasions unable to answer questions with anything other than pre_rehearsed sound bites .
+unable	6	neg_cue
+########
+28
+<EOP> .
+########
+29
+Corbyn , by contrast , has appeared relaxed and confident as he addressed mass rallies all over the country .
+appeared	6	ps_cue
+########
+30
+Younger voters have warmed to the Labour Party manifesto and its unashamed socialist agenda , but unless they overturn a historic reluctance to vote in the same numbers as the over_30s , the opinion polls are likely to be correct .
+likely	36	ps_cue
+########
+31
+<EOP> .
+########
+32
+The enthusiasm of supporters and young voters does not appear to have persuaded other voters to change their opinion of Corbyn as an activist rather than politician , who is a staunch advocate of the ideas he adopted in the 1970s .
+not	8	neg_cue
+appear	9	ps_cue
+rather	24	neg_cue
+########
+33
+<EOP> .
+########
+34
+conal@mail.chinadailyuk.com <EOP> .
+########

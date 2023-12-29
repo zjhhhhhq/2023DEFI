@@ -1,0 +1,80 @@
+Were they talking about the pools at the Maria Lenk Aquatics Centre
+0
+（ CNN ） During the opening ceremony , the Rio Olympics organizers talked about a green environment .
+########
+1
+<EOP> .
+########
+2
+They were not talking about the pools at the Maria Lenk Aquatics Centre .
+pools	6	CT-	CT-
+not	2	neg_cue
+########
+3
+<EOP> .
+########
+4
+But on Tuesday the water in the pool where the divers for the women 's synchronized 10_meter platform competed __ officially called a diving well __ was dark green .
+pool	7	CT+	CT-
+########
+5
+<EOP> .
+########
+6
+The water had been blue Monday and there was no explanation as to why it had turned color .
+no	9	neg_cue
+########
+7
+<EOP> .
+########
+8
+But it was safe , organizers said .
+########
+9
+<EOP> .
+########
+10
+`` The water quality at the Maria Lenk Aquatics Centre was tested and there were no risks for the athletes .
+water	2	CT+	CT-
+no	15	neg_cue
+########
+11
+We are investigating the cause , '' officials said .
+########
+12
+<EOP> .
+########
+13
+The adjacent pool at the aquatics center , where water polo is being contested , looked normal .
+pool	2	CT+	CT-
+########
+14
+<EOP> .
+########
+15
+David Boudia , a U.S. men 's diver who won silver on Monday night , tweeted a quip wondering whether St. Patrick 's Day was being celebrated .
+whether	19	ps_cue
+########
+16
+<EOP> .
+########
+17
+Wait is someone playing a joke or are we celebrating St Patty 's Day early here in Rio ？ #divingpond #Olympicspic .
+or	6	ps_cue
+########
+18
+twitter.com _ CsxxperHvM -- David Boudia （ @davidboudia ） August 9 , 2016 <EOP> .
+########
+19
+The water in the well must not have bothered China 's Chen Ruolin and Liu Huixia , who easily won gold .
+not	6	neg_cue
+########
+20
+<EOP> .
+########
+21
+Cheong Jun Hoong and Pamg Pandelela Rinong of Malaysia took silver , while Meaghan Benfeito and Roseline Filion of Canada grabbed bronze .
+########
+22
+<EOP> .
+########

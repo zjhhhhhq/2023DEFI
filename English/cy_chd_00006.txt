@@ -1,0 +1,60 @@
+Did employees check_in policy change after passenger 's forcible removal
+0
+Employees check_in policy changed after passenger 's forcible removal <EOP> .
+changed	3	CT+	CT+
+########
+1
+2017_04_16 06:55 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+United Airlines had issued a new policy change that would require its staff to check into flights one hour before departure , local media reported on Saturday .
+change	7	CT+	CT+
+would	9	ps_cue
+########
+4
+<EOP> .
+########
+5
+The policy change , made by the company late Friday , would require United commuting staff and crew members to check in for all flights 60 minutes prior to departure , according to the U.S. TV network CNN .
+change	2	CT+	CT+
+would	11	ps_cue
+########
+6
+<EOP> .
+########
+7
+The policy change came after its violent removal of an Asian_American passenger from a flight on Sunday night evolved into a public relations crisis .
+change	2	CT+	CT+
+########
+8
+<EOP> .
+########
+9
+Earlier this week a video went viral on social media showing airport officers violently dragging the 69_year_old Asian_American physician David Dao from his seat on a sold_out United Express flight .
+########
+10
+<EOP> .
+########
+11
+Dao and three other passengers were ordered off the plane at O'Hare International Airport in Chicago after four airline employees showed up at the last minute and demanded seats so they could be in place to operate a flight the next day in Louisville , Kentucky .
+could	31	ps_cue
+########
+12
+<EOP> .
+########
+13
+The video has been viewed millions of times worldwide , and caused a global uproar and grabbed headlines in multiple countries .
+########
+14
+<EOP> .
+########
+15
+Members of the U.S. Congress have also expressed concern , as U.S. House Representative Judy Chu , a Chinese American , has written both to the United Airlines and to the U.S. Department of Transportation demanding answers .
+concern	8	ps_cue
+########
+16
+<EOP> .
+########

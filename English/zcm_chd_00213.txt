@@ -1,0 +1,181 @@
+Do Chinese investors find money and a market in China
+0
+Chinese investors seek technology , business tips <EOP> .
+########
+1
+2017_05_19 11:37 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+<EOP> .
+########
+4
+Bernard Harris , left , president of the US China Innovation Alliance , shakes hands with Liu Qing , president of Jiangsu Industrial Technology Research Institute , after signing an agreement for full_scale collaboration to bridge US and China in technology investment on Tuesday .
+########
+5
+MAY ZHOU _ CHINA DAILY <EOP> .
+########
+6
+When Chinese investors came to Houston 's second annual US China Innovation and Investment Summit LRB USCIS RRB , they found more than 100 innovative technologies eager to find money and a market in China .
+find	28	CT+	CT+
+########
+7
+<EOP> .
+########
+8
+A home system to grow organic vegetables in your kitchen , a machine to extract water from air and medicine that reduces the need for insulin doses from four to one a day are just a few of the highlights of the summit InnoStars competition .
+need	23	ps_cue
+########
+9
+<EOP> .
+########
+10
+Hosted by the Houston US China Innovation Alliance LRB USCIA RRB and China Science and Technology Exchange Center with additional support from organizers and organizations , the three_day event began on Monday with close to 70 US companies pitching their innovative technologies to Chinese investors .
+########
+11
+<EOP> .
+########
+12
+Roughly 50 technologies were selected to embark on a sponsored China tour , allowing the ideas to be directly pitched to multiple Chinese companies , later this year .
+########
+13
+<EOP> .
+########
+14
+Benjamin Blumenthal , CEO of SunToWater Technologies , said that his company 's products extract water from air at eight cents a gallon .
+########
+15
+They are not only looking to enter the China market , they also want China to be their gateway to Asia .
+looking	4	CT+	CT+
+not	2	neg_cue
+########
+16
+<EOP> .
+########
+17
+China also offers the opportunity to evolve his technology .
+########
+18
+` We can add another unit to purify the air before pushing the air out , ' he said .
+can	2	ps_cue
+########
+19
+Cities like Beijing and Shanghai could definitely benefit from such technology . '
+like	1	ps_cue
+could	5	ps_cue
+########
+20
+<EOP> .
+########
+21
+Mike Moradi , CEO of Sensulin , which develops advanced medicine to combat diabetes , said that with his family members suffering from the disease , his is on a personal mission .
+########
+22
+<EOP> .
+########
+23
+Moradi said that there are more diabetics in China than in any other country , so there is a big market for his products .
+########
+24
+<EOP> . '
+########
+25
+I want people in China to have access to modern medicine .
+########
+26
+With this technology we can do things faster , better and cheaper .
+can	4	ps_cue
+########
+27
+And I love Chinese culture and people .
+love	2	ps_cue
+########
+28
+I have a weakness for Sichuan hotpot , ' said Moradi .
+weakness	3	neg_cue
+########
+29
+<EOP> .
+########
+30
+Andrew Dewey , CEO of Organiponic , said that China has only about 7 percent of the arable land in the world yet needs to feed 20 percent of the world 's population .
+yet	22	neg_cue
+needs	23	ps_cue
+########
+31
+That 's a big challenge he thinks his company 's home agriculture system can help solve .
+can	13	ps_cue
+########
+32
+<EOP> .
+########
+33
+Chinese companies are looking for more than just technology , Liu Yi , president of Guangcai Group , told the US business people .
+########
+34
+His investment company has 10 billion RMB in medical funding alone .
+########
+35
+<EOP> . '
+########
+36
+I am here to look for opportunities in the medical , environmental and AI manufacturing fields , but Chinese companies need more than technologies to succeed , ' said Liu .
+opportunities	6	ps_cue
+need	20	ps_cue
+########
+37
+<EOP> .
+########
+38
+Liu said that due to the inertia of the conventional way of running businesses , many Chinese companies lack sustainability .
+lack	18	neg_cue
+########
+39
+<EOP> .
+########
+40
+` Little has been invested in developing new technology and products , and most of their marketing models are traditional .
+########
+41
+You need to bring new management models and new business ideas also to help Chinese companies succeed in the long run , ' Liu said .
+need	1	ps_cue
+########
+42
+<EOP> .
+########
+43
+US Congressman Pete Olson , Houston Mayor Sylvester Turner and Consul General Li Qiangmin of China spoke at the opening session on Tuesday , all showing their support for the endeavor .
+########
+44
+<EOP> .
+########
+45
+` The summit has become an important platform for innovation and investment cooperation between the southern US and China , ' said Li .
+########
+46
+<EOP> .
+########
+47
+` Houston is playing an increasing role in the bilateral relationship , ' Turner said , listing the many ties between Houston and China .
+########
+48
+He said that he sent a city councilmember last week to meet with the mayor of Chengdu .
+########
+49
+He also announced that ` in October , I will lead my first international trade delegation to China ' .
+will	9	ps_cue
+########
+50
+<EOP> .
+########
+51
+At the summit , USCIA , Vesaliux and the National Center for Sustainable Development signed five memoranda of understanding with Chinese organizations to facilitate Chinese investment in US technologies in China .
+########
+52
+<EOP> .
+########
+53
+mayzhou@chinadailyusa.com <EOP> .
+########

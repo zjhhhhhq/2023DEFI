@@ -1,0 +1,104 @@
+Are decisions on Iran nuclear deal made
+0
+President Trump says decisions on Iran nuclear deal made <EOP> .
+made	8	CT+	CT+
+########
+1
+2017_09_21 09:50 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+WASHINGTON _ US President Donald Trump said on Wednesday that he had made a decision on the fate of the 2015 Iran nuclear deal .
+########
+4
+<EOP> .
+########
+5
+`` I have decided , '' Trump said three times to reporters on the sidelines of the UN General Assembly .
+########
+6
+However , he declined to share more details .
+declined	3	neg_cue
+########
+7
+<EOP> .
+########
+8
+`` I 'll let you know what the decision is , '' said Trump .
+########
+9
+<EOP> .
+########
+10
+Trump had said earlier that he would announce a decision next month .
+announce	7	PS+	CT+
+would	6	ps_cue
+########
+11
+<EOP> .
+########
+12
+Under US law , the State Department is required every 90 days to recertify to Congress Iran 's compliance with the nuclear deal .
+########
+13
+<EOP> .
+########
+14
+So far , the Trump administration had recertified Iran 's compliance with the deal twice and the next deadline for recertification comes due on Oct 15 , 2017 .
+########
+15
+<EOP> .
+########
+16
+According to local media reports , Trump reportedly clashed with his national security team members on whether or not he should recertify Iran 's compliance in July and soon after the second recertification , Trump told The Wall Street Journal that he `` personally '' would expect Iran to be declared noncompliant in October .
+whether	16	ps_cue
+or	17	ps_cue
+not	18	neg_cue
+should	20	ps_cue
+would	45	ps_cue
+expect	46	ps_cue
+########
+17
+<EOP> .
+########
+18
+Iran and six world powers __ Britain , China , France , Germany , Russia and the United States __ reached an agreement on the Iranian nuclear issue in July 2015 that put it on the path of sanctions relief but with more strict limits on its nuclear program .
+########
+19
+<EOP> .
+########
+20
+The deal set limits on Iran 's nuclear activities and allowed regular inspections of the facilities inside Iran .
+########
+21
+<EOP> .
+########
+22
+In return , the United States and the European Union will suspend nuclear_related sanctions against Iran , with the lifting of all past UN Security Council sanction resolutions .
+will	10	ps_cue
+suspend	11	neg_cue
+against	14	neg_cue
+########
+23
+<EOP> .
+########
+24
+Trump had recently called Iran a `` rogue '' state , which has aroused fierce response from the Iranian government .
+########
+25
+<EOP> .
+########
+26
+And Iran is another major target in Trump 's first speech made at the United Nations LRB UN RRB General Assembly Tuesday in which he called Iran 's nuclear deal negotiated in 2015 during the Obama administration `` an embarrassment '' to the United States .
+########
+27
+<EOP> .
+########
+28
+Iranian President Hassan Rouhani on Wednesday censured US President Trump 's recent anti_Iran speech as `` ignorant and spiteful '' at the UN General Assembly .
+########
+29
+<EOP> .
+########

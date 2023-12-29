@@ -1,0 +1,83 @@
+Are there various comments about China
+0
+FM : Dialogue key on Korea nuke issue <EOP> .
+########
+1
+2017_04_24 07:44 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+<EOP> .
+########
+4
+China will not be misled by comments of various kinds and will not give up fulfilling its duties regarding the Korean Peninsula situation , Foreign Minister Wang Yi said on Sunday .
+comments	6	CT-	CT-
+not	2	neg_cue
+will	1	ps_cue
+will	11	ps_cue
+not	12	neg_cue
+########
+5
+<EOP> .
+########
+6
+`` In the recent period of time , there have been enough words and actions of protest or confrontation , and we now need voices of peace and reason , '' Wang said at a joint news conference with his Greek counterpart Nikos Kotzias in Athens .
+words	12	CT+	CT-
+or	17	ps_cue
+need	23	ps_cue
+########
+7
+<EOP> .
+########
+8
+Beijing will continue dialogue and consultation with all parties involved and play a constructive role in tackling the Korean Peninsula nuclear issue , Wang said .
+will	1	ps_cue
+########
+9
+<EOP> .
+########
+10
+Wang noted that although China is neither the focus of the current dispute nor does it hold the key to resolving the issue , Beijing `` has taken a dutiful attitude toward the Korean Peninsula 's peace and the region 's stability , and it has always been working to resume peaceful talks on the issue '' .
+talks	52	CT+	CT-
+neither	6	neg_cue
+nor	13	neg_cue
+########
+11
+<EOP> .
+########
+12
+The minister referred to the recent proposals on the issue made by the Chinese side , which are `` winning understanding and support from a growing number of countries '' .
+########
+13
+<EOP> .
+########
+14
+`` If the rest of the parties still remain sincere about peace , please offer your solutions as well , '' Wang said .
+########
+15
+<EOP> .
+########
+16
+Japan 's Maritime Self_Defense Force destroyers started a joint drill with the US aircraft carrier Carl Vinson and its escort vessels in the western Pacific Ocean on Sunday , Japan 's Defense Ministry said .
+########
+17
+<EOP> .
+########
+18
+The Carl Vinson will head to waters off the Korean Peninsula after the joint drill .
+will	3	ps_cue
+########
+19
+<EOP> .
+########
+20
+Xinhua contributed to this story .
+########
+21
+<EOP> .
+########
+22
+zhangyunbi@chinadaily.com.cn <EOP> .
+########

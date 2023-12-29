@@ -1,0 +1,275 @@
+Does United feel impact of passenger removal in China
+0
+United may feel impact of passenger removal in China <EOP> .
+impact	3	CT+	CT+
+may	1	ps_cue
+########
+1
+2017_04_12 10:51 <EOP> .
+########
+2
+China Daily USA <EOP> .
+########
+3
+Two days after an Asian passenger was forcibly dragged off a United Airlines plane at Chicago 's O'Hare International Airport and video of the incident spread globally across social media , travel industry and marketing analysts said that United 's reputation has been damaged and the incident could have an impact on the carrier in China .
+impact	50	CT+	CT+
+could	47	ps_cue
+########
+4
+<EOP> .
+########
+5
+Chinese netizens expressed furor over the incident that occurred on Sunday evening .
+########
+6
+By Tuesday afternoon the hashtag `` United forcibly removes passenger from plane '' was the most popular topic on Weibo , China 's equivalent of Twitter .
+########
+7
+It received more than 480 million views and more than 200,000 comments .
+########
+8
+<EOP> .
+########
+9
+Some Chinese social media users accused United of racism and others called for a boycott of the carrier .
+########
+10
+United began nonstop service to China in 1986 and operates more nonstop US_China flights , and to more cities in China , than any other airline .
+########
+11
+<EOP> .
+########
+12
+Zishi Zhang , an 18_year_old college student in the UK , launched a petition that calls for a federal investigation of United Airlines ' actions .
+########
+13
+It had more than 55,000 signatures of its 100,000 goal .
+########
+14
+The petition , which claims that United 's actions were racial motivated , is trending on social media with the hashtag #ChineseLivesMatter .
+########
+15
+<EOP> .
+########
+16
+Members of Congress also reacted to the incident , including a call for a hearing on the incident .
+########
+17
+<EOP> .
+########
+18
+United Continental Holdings ' stock felt the impact of the incident on Tuesday _ it dropped 1.13 percent , wiping approximately $ 250 million off its market capitalization .
+impact	7	CT+	CT+
+########
+19
+The stock had dropped as much as 6 percent prior to the market 's open .
+########
+20
+<EOP> .
+########
+21
+The passenger removed from the flight to Louisville , Kentucky , was identified as Dr David Dao , 69 .
+########
+22
+Dao was overheard by another passenger saying that he was picked on because he is Chinese .
+########
+23
+The Louisville Courier_Journal reported that Dao went to medical school in Vietnam before moving to the US .
+########
+24
+He lives in Elizabethtown , about 40 miles south of Louisville , where his wife , Dr Teresa Dao , has a medical practice .
+########
+25
+<EOP> .
+########
+26
+Matt Rizzetta , CEO at brand agency North 6 Agency , said that Chinese consumers are highly discerning customers and exhibit deeper brand loyalty to US brands , but are also harder to bring on board as customers .
+########
+27
+<EOP> .
+########
+28
+`` If you 're United and you 've built all this goodwill and spent all this time and made all these investments to get Chinese customers on your side , good job , pat on the back .
+########
+29
+But data shows that especially in the travel space , once you break that trust it 's very difficult to regain , '' he said .
+########
+30
+<EOP> .
+########
+31
+Jim Corridore , airline equity analyst at CFRA Research , said that prior to United 's latest statement on Tuesday afternoon in which CEO Oscar Munoz apologized and said that `` no one should ever be mistreated this way '' , that he was not expecting a major financial impact on the company right now , due to generally strong demand and high capacity in the market .
+no	31	neg_cue
+should	33	ps_cue
+not	44	neg_cue
+expecting	45	ps_cue
+########
+32
+But he said `` we are not happy with the way the company is handling the situation , and we know particularly in China , where the company is trying to make inroads , it could have an impact . ''
+not	6	neg_cue
+could	35	ps_cue
+########
+33
+<EOP> .
+########
+34
+Chris Allieri , founder and principal at public relations consultancy Mulberry and Astor , said , <EOP> .
+########
+35
+`` You ca n't just look at impact through dollars and cents -- these companies are trying to be corporate citizens .
+impact	7	CT+	CT+
+n't	3	neg_cue
+########
+36
+They 're trying to do good work in other areas , and when something like this happens , your profits and your bottom_line aside , you 're still hurting . ''
+like	14	ps_cue
+########
+37
+<EOP> .
+########
+38
+He said , `` Whether it 's dollars lost now or dollars lost later , it will catch up .
+or	10	ps_cue
+will	16	ps_cue
+########
+39
+That 's why I say that you need to take responsibility and solve the problem and move forward . ''
+need	7	ps_cue
+forward	17	ps_cue
+forward	17	neg_cue
+########
+40
+<EOP> .
+########
+41
+On Weibo , user who goes by the name Jinyinxingdongzhong said , `` I can understand the ` overbooking ' thing , but I feel deeply angry about the way they handled the situation .
+can	14	ps_cue
+########
+42
+`` I definitely will not buy '' United 's stock , he said , `` because even if I invested in it and made money , I would have an uneasy conscience . ''
+will	3	ps_cue
+not	4	neg_cue
+would	27	ps_cue
+########
+43
+<EOP> .
+########
+44
+Joe Wong , the Chinese_American comedian , said on Weibo that `` many Chinese feel they are discriminated against , but wo n't say anything due to personal dignity , which leads to the Western mainstream media and public disregarding the discrimination against Asians at all . ''
+against	18	neg_cue
+n't	22	neg_cue
+against	42	neg_cue
+########
+45
+<EOP> .
+########
+46
+The United flight had been overbooked and four passengers were asked to voluntarily surrender their seats to accommodate flight attendants who needed to make it to Louisville to staff another flight , according to reports .
+########
+47
+<EOP> .
+########
+48
+Dao refused to leave the plane , saying that he was a doctor and needed to see patients in the morning , and videos taken by passengers showed a security officer from the Chicago Department of Aviation wrestling Dao out of his seat while he screamed .
+refused	1	neg_cue
+########
+49
+He was dragged down an aisle with blood on his face .
+########
+50
+The Chicago Police Department later said Dao 's head struck an armrest `` causing injuries to his face '' .
+########
+51
+<EOP> .
+########
+52
+Dao later returned to the aircraft , bloodied , saying repeatedly , `` I have to go home , '' according to a passenger who captured the event on video .
+########
+53
+<EOP> .
+########
+54
+United 's Munoz also said in his statement on Tuesday that United would conduct a thorough review of the company 's policies -- including how it incentivizes volunteers and how it handles overbooked flights -- and communicate results of the review by the end of the month .
+would	12	ps_cue
+########
+55
+<EOP> .
+########
+56
+That came after an internal email to United employees that leaked on Monday , which blamed Dao for being `` disruptive and belligerent '' .
+########
+57
+<EOP> .
+########
+58
+Munoz had said the initially that the incident was the result of having to re_accommodate a passenger , and both initial responses were viewed as tone_deaf .
+########
+59
+<EOP> .
+########
+60
+`` United had an opportunity on Monday to really nip it in the bud and to move forward , and to say , ` We did not do the right thing .
+forward	17	ps_cue
+forward	17	neg_cue
+not	26	neg_cue
+########
+61
+We messed up .
+########
+62
+We are going to change this .
+########
+63
+I , Oscar Munoz as CEO , will launch an investigation , ' '' said Allieri .
+will	7	ps_cue
+########
+64
+<EOP> .
+########
+65
+`` Nothing about LRB Monday 's RRB outrage had to do with people 's flights getting rebooked .
+########
+66
+Nothing .
+########
+67
+To put out in a statement that it 's about re_accommodating passengers is unfathomable , how much that misses the mark , '' he said .
+########
+68
+<EOP> .
+########
+69
+Congressional delegate Eleanor Holmes Norton , a Democrat in the District of Columbia and a senior member of the Transportation and Infrastructure Committee , called for a hearing on the incident .
+########
+70
+<EOP> .
+########
+71
+`` I am asking our committee for a hearing , which will allow us to question airport police , United Airlines personnel , and airport officials , among others , about whether appropriate procedures were in place in Chicago and are in place across the United States when passengers are asked to leave a flight , '' she said in a statement .
+will	11	ps_cue
+question	15	ps_cue
+whether	31	ps_cue
+########
+72
+<EOP> .
+########
+73
+US Senator Chris Van Hollen , Democrat of Maryland , tweeted that the airline `` must do more than ` apologize ' .
+########
+74
+Full investigation needed .
+########
+75
+Airlines must start treating passengers with respect , not like cargo . ''
+not	8	neg_cue
+like	9	ps_cue
+########
+76
+<EOP> .
+########
+77
+Hong Xiao contributed to this report .
+########
+78
+<EOP> .
+########

@@ -1,0 +1,142 @@
+Does anyone in the royal family want the job of monarch
+0
+UK 's Prince Harry reveals no one wants the job of monarch <EOP> .
+wants	7	CT-	CT-
+no	5	neg_cue
+wants	7	ps_cue
+########
+1
+2017_06_22 20:38 <EOP> .
+########
+2
+China Daily UK <EOP> .
+########
+3
+Prince Harry , the grandson of British monarch Queen Elizabeth has revealed that no one in the royal family really wants to be king or queen , although they will do their duty .
+wants	20	CT-	CT-
+no	13	neg_cue
+wants	20	ps_cue
+or	24	ps_cue
+will	29	ps_cue
+########
+4
+<EOP> .
+########
+5
+The 32_year old told Newsweek magazine that he believes the monarchy is a force for good and wants to continue the good work the queen has carried out during her reign .
+wants	17	ps_cue
+########
+6
+<EOP> .
+########
+7
+`` We are involved in modernizing the British monarchy .
+########
+8
+We are not doing this for ourselves but for the greater good of the people , '' he said , `` Is there any one of the royal family who wants to be king or queen ?
+not	2	neg_cue
+wants	30	ps_cue
+or	34	ps_cue
+########
+9
+I do n't think so , but we will carry out our duties at the right time . ''
+n't	2	neg_cue
+will	8	ps_cue
+########
+10
+<EOP> .
+########
+11
+Harry is fifth in line to the throne , after his father Prince Charles , his older brother Prince William and his niece and nephew , Princess Charlotte and Prince George .
+########
+12
+<EOP> .
+########
+13
+He insists that the `` magic '' of the monarchy is important although he claims to try to live as ordinary a life as possible .
+possible	24	ps_cue
+########
+14
+<EOP> .
+########
+15
+`` My mother took a huge part in showing me an ordinary life , including taking me and my brother to see homeless people .
+########
+16
+Thank goodness I 'm not completely cut off from reality , '' he said .
+not	4	neg_cue
+########
+17
+<EOP> .
+########
+18
+`` People would be amazed by the ordinary life William and I live .
+would	2	ps_cue
+########
+19
+I do my own shopping .
+########
+20
+Sometimes , when I come away from the meat counter in my local supermarket , I worry someone will snap me with their phone .
+will	18	ps_cue
+########
+21
+But I am determined to have a relatively normal life , and if I am lucky enough to have children , they can have one too .
+can	22	ps_cue
+########
+22
+Even if I was king , I would do my own shopping . ''
+would	7	ps_cue
+########
+23
+<EOP> .
+########
+24
+Prince Harry clearly resents the way his grief at the loss of his mother in 1997 , when he was 12 , was served up for public consumption .
+loss	10	neg_cue
+########
+25
+`` My mother had just died , and I had to walk a long way behind her coffin , surrounded by thousands of people watching me while millions more did on television , '' he said , `` I do n't think any child should be asked to do that , under any circumstances .
+n't	40	neg_cue
+should	44	ps_cue
+########
+26
+I do n't think it would happen today . ''
+n't	2	neg_cue
+would	5	ps_cue
+########
+27
+<EOP> .
+########
+28
+The death of his mother caused Harry psychological problems which he addressed with professional help .
+########
+29
+`` My mother died when I was very young .
+########
+30
+I did n't want to be in the position I was in , but I eventually pulled my head out of the sand , started listening to people and decided to use my role for good .
+n't	2	neg_cue
+########
+31
+I am now fired up and energized and love charity stuff , meeting people and making them laugh , '' he said .
+love	8	ps_cue
+########
+32
+<EOP> .
+########
+33
+`` I sometimes still feel I am living in a goldfish bowl , but I now manage it better .
+########
+34
+I still have a naughty streak too , which I enjoy and is how I relate to those individuals who have got themselves into trouble . ''
+########
+35
+<EOP> .
+########
+36
+Prince Harry is currently in a relationship with US actress Meghan Markle who he has tried to protect from media intrusion .
+########
+37
+<EOP> .
+########

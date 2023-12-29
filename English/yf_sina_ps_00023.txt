@@ -1,0 +1,99 @@
+Can a blood test predict whether someone may attempt suicide
+0
+A blood test that can predict whether someone may attempt suicide has been developed by scientists in a breakthrough which could prevent hundreds of deaths .
+predict	5	PS+	PS+
+can	4	ps_cue
+predict	5	ps_cue
+whether	6	ps_cue
+may	8	ps_cue
+could	20	ps_cue
+prevent	21	neg_cue
+########
+1
+<EOP> .
+########
+2
+American researchers have found that variations in a single gene can be used to predict if someone is likely to take their own life .
+predict	14	PS+	PS+
+can	10	ps_cue
+predict	14	ps_cue
+likely	18	ps_cue
+########
+3
+<EOP> .
+########
+4
+Researchers at John Hopkins University , in Baltimore , Maryland , found that the gene SKA2 stopped functioning correctly in people at risk of suicide .
+stopped	16	neg_cue
+########
+5
+The SKA2 gene is found in the prefrontal cortex of the brain , and is involved in preventing negative thoughts and controlling impulsive behaviour .
+negative	18	neg_cue
+########
+6
+<EOP> .
+########
+7
+If there is n't enough SKA2 , or it is altered in some way , the body can not control levels of cortisol .
+n't	3	neg_cue
+or	7	ps_cue
+can	17	ps_cue
+not	18	neg_cue
+########
+8
+Previous research has shown that people who attempt suicide or who take their own lives have large amounts of cortisol in their systems .
+or	9	ps_cue
+########
+9
+<EOP> .
+########
+10
+A test could allow doctors or psychologists to place patients on ` suicide watch ' and restrict their access to drugs or equipment which they could use to end their own life .
+could	2	ps_cue
+or	5	ps_cue
+or	21	ps_cue
+could	25	ps_cue
+########
+11
+<EOP> .
+########
+12
+The research was reported in the American Journal of Psychology .
+########
+13
+`` We need to study this in a larger sample but we believe that we might be able to monitor the blood to identify those at risk of suicide , '' Kaminsky said .
+need	2	ps_cue
+might	15	ps_cue
+########
+14
+<EOP> .
+########
+15
+`` Suicide is a major preventable public health problem , but we have been stymied in our prevention efforts because we have no consistent way to predict those who are at increased risk of killing themselves , '' says study leader Dr Zachary Kaminsky , an assistant professor of psychiatry and behavioural sciences .
+predict	26	CT-	PS+
+no	22	neg_cue
+predict	26	ps_cue
+########
+16
+<EOP> .
+########
+17
+`` With a test like ours , we may be able to stem suicide rates by identifying those people and intervening early enough to head off a catastrophe . ''
+like	4	ps_cue
+may	8	ps_cue
+########
+18
+<EOP> .
+########
+19
+The blood test managed to predict those with the most severe risk of suicide with 90 per cent accuracy .
+predict	5	CT+	PS+
+predict	5	ps_cue
+########
+20
+They could also spot if someone had already attempted suicide with 96 per cent accuracy , simply by looking at the levels of SKA2 .
+could	1	ps_cue
+########
+21
+<EOP> .
+########

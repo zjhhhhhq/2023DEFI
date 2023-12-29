@@ -1,0 +1,58 @@
+Does Trump say missile strikes against Syria in US ` vital interest '
+0
+Trump says missile strikes against Syria in US ` vital interest ' <EOP> .
+strikes	3	CT+	CT+
+against	4	neg_cue
+########
+1
+2017_04_07 11:16 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+PALM BEACH , United States _ US President Donald Trump said Thursday he had ordered targeted missile strikes at a Syrian military airfield and called the strikes in the nation 's `` vital interest . ''
+strikes	17	CT+	CT+
+strikes	26	CT+	CT+
+########
+4
+<EOP> .
+########
+5
+Speaking to reporters at his Mar_a_Lago resort in Florida , Trump said the Syrian government `` ignored the urging of the UN Security Council . ''
+########
+6
+<EOP> .
+########
+7
+`` The refugee crisis continues to deepen and the region continues to destabilize , '' said Trump .
+########
+8
+<EOP> .
+########
+9
+According to local news reports , US warships launched around 50 Tomahawk cruise missiles at a Syrian government airbase .
+########
+10
+<EOP> .
+########
+11
+The United States believed that Syrian planes based at the airbase carried out chemical attacks on Tuesday that killed over 70 people and wounded scores of others , most of whom civilians in Syria 's northwestern province of Idlib .
+believed	3	ps_cue
+########
+12
+<EOP> .
+########
+13
+Syria 's Foreign Minister Walid al_Moallem said early on Thursday that the Syrian airstrike on a rebel_held town in Idlib struck a rebel depot containing chemical materials , denying that the air force fired toxic gas during the attack .
+airstrike	13	CT+	CT+
+########
+14
+<EOP> .
+########
+15
+At a press conference held in response to the international accusation that Syria allegedly fired toxic gas in Idlib , al_Moallem said the reports are `` lies . ''
+########
+16
+<EOP> .
+########

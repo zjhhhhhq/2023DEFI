@@ -1,0 +1,41 @@
+Does DPRK test_fire multiple ground_to_ship missiles
+0
+DPRK test_fires multiple ground_to_ship missiles : S.Korean military <EOP> .
+test_fires	1	CT+	CT+
+########
+1
+2017_06_08 09:18 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+SEOUL __ The Democratic Peoples Republic of Korea LRB DPRK RRB test_fired multiple projectiles believed to be ground_to_ship cruise missiles on Thursday morning into its eastern waters , the Republic of Korea LRB ROK RRB 's Joint Chiefs of Staff LRB JCS RRB said .
+test_fired	11	CT+	CT+
+believed	14	ps_cue
+########
+4
+<EOP> .
+########
+5
+The short_range surface_to_ship cruise missiles were launched from the city of Wonsan on the DPRKs east coast in the morning , the JCS said in a statement .
+########
+6
+<EOP> .
+########
+7
+The missiles flew about 200 km into its eastern waters .
+########
+8
+ROK and the United States were jointly analyzing details on the test_launches .
+test_launches	11	CT+	CT+
+########
+9
+<EOP> .
+########
+10
+The ROK 's military strengthened surveillance and vigilance in preparation for additional DPRK provocation , while maintaining the full defense preparedness , the JCS said .
+########
+11
+<EOP> .
+########

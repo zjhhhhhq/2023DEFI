@@ -1,0 +1,378 @@
+Does PM May say `` Enough is enough '' 
+0
+`` Enough is enough '' PM May says after London attackers kill seven <EOP> .
+says	7	CT+	CT+
+May	6	ps_cue
+########
+1
+2017_06_05 06:01 <EOP> .
+########
+2
+null <EOP> .
+########
+3
+<EOP> .
+########
+4
+Theresa May <EOP> .
+May	1	ps_cue
+########
+5
+LONDON _ Prime Minister Theresa May said Britain must be tougher in stamping out Islamist extremism after attackers killed at least seven people by ramming a van into pedestrians on London Bridge and stabbing revellers in nearby bars .
+May	5	ps_cue
+########
+6
+<EOP> .
+########
+7
+After the third militant attack in Britain in less than three months , May said Thursday 's national election would go ahead .
+May	13	ps_cue
+would	19	ps_cue
+########
+8
+But she proposed regulating cyberspace and said Britain had been far too tolerant of extremism .
+proposed	2	ps_cue
+########
+9
+<EOP> .
+########
+10
+`` It is time to say enough is enough , '' the Conservative leader said outside her Downing Street office , where British flags flew at half_staff .
+said	14	CT+	CT+
+########
+11
+<EOP> .
+########
+12
+`` We can not and must not pretend that things can continue as they are , '' May said , adding that Britain was under attack from a new breed of crude copycat militants .
+can	2	ps_cue
+not	3	neg_cue
+not	6	neg_cue
+can	10	ps_cue
+May	17	ps_cue
+########
+13
+<EOP> .
+########
+14
+Islamic State , which is losing territory in Syria and Iraq to an offensive backed by a U.S. _ led coalition , said its militants were responsible for the attack , the group 's media agency Amaq said in a statement monitored in Cairo .
+########
+15
+<EOP> .
+########
+16
+One French national and one Canadian were among those killed .
+########
+17
+At least 48 people were injured in the attack .
+########
+18
+Australia said one of its citizens was among the injured .
+########
+19
+<EOP> .
+########
+20
+Police shot dead the three male assailants in the Borough Market area near London Bridge within eight minutes of receiving the first emergency call shortly after 10 p.m. LRB 2100 GMT RRB .
+########
+21
+<EOP> .
+########
+22
+Mark Rowley , head of counter_terrorism police , said eight officers had fired about 50 bullets to stop the attackers , who appeared to be suicide bombers because they were wearing what turned out to be fake suicide vests .
+stop	17	neg_cue
+appeared	22	ps_cue
+########
+23
+<EOP> .
+########
+24
+`` The situation these officers were confronted with was critical : a matter of life and death , '' Rowley said .
+########
+25
+`` I am humbled by the bravery of an officer who will rush towards a potential suicide bomber thinking only of protecting others . ''
+will	11	ps_cue
+potential	15	ps_cue
+########
+26
+<EOP> .
+########
+27
+A member of the public received non_critical gunshot wounds .
+########
+28
+Police did not release the names of the attackers .
+not	2	neg_cue
+########
+29
+<EOP> .
+########
+30
+London police arrested 12 people in the Barking district of east London in connection with the attack and raids were continuing there , the force said .
+########
+31
+A Reuters photographer saw another raid take place in nearby East Ham .
+########
+32
+<EOP> .
+########
+33
+Less than two weeks ago , a suicide bomber killed 22 children and adults at a concert by U.S. singer Ariana Grande in Manchester in northern England .
+########
+34
+In March , in a attack similar to Saturday 's , five people died after a man drove into pedestrians on Westminster Bridge in central London and stabbed a policeman .
+########
+35
+<EOP> .
+########
+36
+May said the series of attacks were not connected in terms of planning and execution , but were inspired by what she called a `` single , evil ideology of Islamist extremism '' that represented a perversion of Islam and of the truth .
+May	0	ps_cue
+not	7	neg_cue
+planning	12	ps_cue
+########
+37
+<EOP> .
+########
+38
+She said this ideology had to be confronted both abroad and at home , adding that the internet and big internet companies provided the space for such extremism to breed .
+########
+39
+<EOP> .
+########
+40
+Facebook said it wanted to make its social media platform a `` hostile environment '' for terrorists .
+wanted	3	ps_cue
+########
+41
+Twitter also said it was working to tackle the spread of militant propaganda .
+########
+42
+<EOP> .
+########
+43
+After the Manchester attack , Britain raised its threat level to `` critical '' _ meaning an attack is expected imminently _ but downgraded it back to `` severe '' , which means an attack is highly likely , on May 27 .
+expected	19	ps_cue
+likely	37	ps_cue
+May	40	ps_cue
+########
+44
+<EOP> .
+########
+45
+HARROWING SCENES <EOP> .
+########
+46
+<EOP> .
+########
+47
+Witnesses described harrowing scenes as the attackers ' white van veered on and off the bridge sidewalk , hitting people along the way , and the three men then ran into an area packed with bars and restaurants , stabbing people indiscriminately .
+########
+48
+<EOP> .
+########
+49
+Accounts emerged of people trying to barricade themselves in a pub while others tried throwing tables and other objects to fend off the attackers .
+objects	18	neg_cue
+########
+50
+<EOP> .
+########
+51
+One eyewitness said the attackers screamed `` this is for Allah '' as they stabbed people .
+########
+52
+<EOP> .
+########
+53
+England 's health authority said on Sunday afternoon that 36 of those injured remained in hospital , of whom 21 were in a critical condition .
+########
+54
+<EOP> .
+########
+55
+May made a private visit to staff and patients at King 's College Hospital , where some of the injured were being treated , a spokeswoman said .
+May	0	ps_cue
+########
+56
+<EOP> .
+########
+57
+The government announced that a nationwide minute of silence would be held at 1000 GMT on Tuesday to pay respect to the victims of the attack and flags would remain at half_mast on government buildings until Tuesday evening .
+would	9	ps_cue
+would	28	ps_cue
+########
+58
+<EOP> .
+########
+59
+A Reuters photographer saw four women being removed from an apartment block in Barking , shielding their faces as they stepped into police vans .
+block	11	neg_cue
+########
+60
+<EOP> .
+########
+61
+Islamic State militants had sent out a call on instant messaging service Telegram early on Saturday urging its followers to carry out attacks with trucks , knives and guns against `` Crusaders '' during the Muslim holy month of Ramadan .
+against	29	neg_cue
+########
+62
+<EOP> .
+########
+63
+Islamist militants have carried out scores of deadly attacks in Europe , the Middle East , Africa , Asia and the United States over the past two years .
+########
+64
+<EOP> .
+########
+65
+`` We believe we are experiencing a new trend in the threat we face as terrorism breeds terrorism , '' May said .
+May	20	ps_cue
+########
+66
+<EOP> .
+########
+67
+`` Perpetrators are inspired to attack not only on the basis of carefully constructed plots ... and not even as lone attackers radicalised online , but by copying one another and often using the crudest of means of attack . ''
+not	6	neg_cue
+not	17	neg_cue
+########
+68
+<EOP> .
+########
+69
+`` TOLERANCE OF EXTREMISM '' <EOP> .
+########
+70
+<EOP> .
+########
+71
+May , who served as Britain 's interior minister from 2010 to 2016 , said there was too much tolerance of extremism in Britain .
+May	0	ps_cue
+########
+72
+<EOP> .
+########
+73
+`` While we have made significant progress in recent years , there is _ to be frank _ far too much tolerance of extremism in our country , '' she said , urging Britons to be more robust in stamping it out in the public sector and in wider society .
+########
+74
+<EOP> .
+########
+75
+Opposition Labour leader Jeremy Corbyn said Britain needed to have difficult conversations with Saudi Arabia and other Gulf states about the funding of Islamist extremism .
+########
+76
+<EOP> .
+########
+77
+U.S. President Donald Trump , taking to Twitter on Sunday , urged the world to stop being `` politically correct '' in order to ensure public security against terrorism .
+stop	15	neg_cue
+against	27	neg_cue
+########
+78
+<EOP> .
+########
+79
+Most of the main political parties suspended election campaigning on Sunday , but May said this would resume on Monday .
+suspended	6	neg_cue
+May	13	ps_cue
+would	16	ps_cue
+########
+80
+The anti_European Union UK Independence Party said it would not suspend its campaign because disrupting democracy was what the extremists wanted .
+would	8	ps_cue
+not	9	neg_cue
+suspend	10	neg_cue
+wanted	20	ps_cue
+########
+81
+<EOP> .
+########
+82
+London Bridge is a transport hub and nearby Borough Market is a fashionable warren of alleyways leavened with bars and restaurants that is always bustling on a Saturday night .
+########
+83
+<EOP> .
+########
+84
+The area remained cordoned off and patrolled by armed police and counter_terrorism officers on Sunday , with train stations closed .
+########
+85
+Forensic investigators could be seen working on the bridge , where buses and taxis stood abandoned .
+could	2	ps_cue
+########
+86
+<EOP> .
+########
+87
+At several points outside the cordon , people laid flowers and messages of grief and solidarity .
+########
+88
+<EOP> .
+########
+89
+Ariana Grande and other music stars were giving a benefit concert at Manchester 's Old Trafford cricket ground on Sunday evening to raise funds for victims of the concert bombing and their families .
+raise	22	ps_cue
+########
+90
+<EOP> .
+########
+91
+`` Today 's One Love Manchester benefit concert will not only continue , but will do so with greater purpose , '' Grande 's manager , Scooter Braun , said on Twitter after the London attack .
+will	8	ps_cue
+not	9	neg_cue
+will	14	ps_cue
+########
+92
+<EOP> .
+########
+93
+London Mayor Sadiq Khan said the official threat level in Britain remained at severe , meaning a militant attack is highly likely .
+likely	21	ps_cue
+########
+94
+It had been raised to critical after the Manchester attack , then lowered again days later .
+########
+95
+<EOP> .
+########
+96
+`` One of the things we can do is show that we are n't going to be cowed is by voting on Thursday and making sure that we understand the importance of our democracy , our civil liberties and our human rights , '' Khan said .
+can	6	ps_cue
+n't	13	neg_cue
+########
+97
+<EOP> .
+########
+98
+In tweets , Trump offered help to Britain but also levelled apparent criticism of Khan for saying there was no need to be alarmed .
+criticism	12	neg_cue
+no	19	neg_cue
+need	20	ps_cue
+########
+99
+Khan had earlier said Londoners would see an increased police presence on the streets of the city and people should not be alarmed by that .
+would	5	ps_cue
+should	19	ps_cue
+not	20	neg_cue
+########
+100
+<EOP> .
+########
+101
+German Chancellor Angela Merkel , French President Emmanuel Macron and Russian President Vladimir Putin were among those who sent messages of condolence and made statements of solidarity .
+########
+102
+<EOP> .
+########
+103
+The Manchester bombing on May 22 was the deadliest attack in Britain since July 2005 , when four British Muslim suicide bombers killed 52 people in coordinated assaults on London 's transport network .
+May	4	ps_cue
+########
+104
+<EOP> .
+########
+105
+Reuters <EOP> .
+########

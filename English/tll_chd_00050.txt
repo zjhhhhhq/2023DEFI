@@ -1,0 +1,99 @@
+Did several German automakers and auto suppliers unveil major business deals with Chinese vehicle makers
+0
+German car giants ink new tech deals <EOP> .
+########
+1
+2017_06_02 18:44 <EOP> .
+########
+2
+China Daily UK <EOP> .
+########
+3
+Several German automakers and auto suppliers unveiled major business deals with Chinese vehicle makers and information technology firms in Berlin on Thursday , during Premier Li Keqiang 's official visit to Germany .
+deals	9	CT+	CT+
+########
+4
+<EOP> .
+########
+5
+In the presence of Li and German Chancellor Angela Merkel , the world 's largest carmaker , Volkswagen Group , and its rival , Daimler AG , both signed agreements with their Chinese counterparts , with an eye on China 's new energy vehicle LRB also known as NEV RRB market .
+signed	28	CT+	CT+
+########
+6
+China is the largest auto and NEV market in the world .
+########
+7
+Daimler AG and its Chinese partner BAIC Group signed a framework agreement on further strengthening their strategic collaboration through investment for the NEV sector in China .
+signed	8	CT+	CT+
+########
+8
+<EOP> .
+########
+9
+Daimler intends to acquire a minority share in the Beijing Electric Vehicle Co , a subsidiary of the BAIC Group .
+########
+10
+Part of the investment will go to the upgrade of current production facilities at their joint venture Beijing Benz Automotive Co to prepare for the introduction of NEV production .
+will	4	ps_cue
+########
+11
+<EOP> .
+########
+12
+Hubertus Troska , a member of the management board at Daimler AG , with responsibility for China , said : `` The framework agreement signed today marks a new chapter of our cooperation , in terms of new_energy vehicles .
+signed	24	CT+	CT+
+########
+13
+China today is already the world 's largest market for NEVs , and Daimler is committed to contributing to the further development of electric mobility in this country . ''
+########
+14
+<EOP> .
+########
+15
+Volkswagen and Chinese carmaker Anhui Jianghuai Automobile Co signed a deal to launch a new 50:50 joint venture to produce electric cars in China .
+########
+16
+<EOP> .
+########
+17
+Matthias Muller , CEO of the Volkswagen Group , said : `` The new partnership is a further milestone in our electric offensive in China .
+########
+18
+<EOP> .
+########
+19
+`` We want to play our part in shaping the mobility of the future : electric , fully networked , and in line with the needs of our customers . ''
+needs	25	ps_cue
+########
+20
+<EOP> .
+########
+21
+The joint venture , initially for 25 years , will develop and sell electric vehicles .
+will	9	ps_cue
+########
+22
+It includes the development and production of components for NEVs , the development of vehicle connectivity and automotive data services .
+########
+23
+<EOP> .
+########
+24
+German automobile supplier and technology company Continental also signed a strategic cooperation agreement , this time with Baidu , one of the largest internet companies in China .
+########
+25
+The deal is aimed at establishing a comprehensive strategic cooperation in the areas of automated driving , connected vehicles and intelligent mobility services .
+########
+26
+<EOP> .
+########
+27
+It also signed a framework agreement with NIO , a Chinese electric vehicle start_up .
+########
+28
+The two companies will work closely in the field of electric vehicles and other relevant fields , including intelligent transportation systems and automated driving .
+will	3	ps_cue
+########
+29
+<EOP> .
+########

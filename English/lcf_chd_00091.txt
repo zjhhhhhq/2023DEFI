@@ -1,0 +1,102 @@
+Does romance lure Chinese students to the UK
+0
+Romance helps lure Chinese students to the UK <EOP> .
+lure	2	CT+	CT+
+helps	1	ps_cue
+########
+1
+2017_10_09 16:29 <EOP> .
+########
+2
+China Daily UK <EOP> .
+########
+3
+A two_year analysis of social media posts claims Chinese students who are interested in studying in the United Kingdom are attracted by the reputation of its universities － and the prospect of finding love .
+attracted	20	CT+	CT+
+love	33	ps_cue
+########
+4
+<EOP> .
+########
+5
+Research conducted by the British Council found Britain 's written works and its history were also draws .
+draws	16	CT+	CT+
+########
+6
+<EOP> .
+########
+7
+Researchers analyzed more than 9 million posts on Chinese social media platform Weibo that were written between March 2015 and February 2016 .
+########
+8
+The study included a survey of 5,000 Chinese students and parents .
+########
+9
+<EOP> .
+########
+10
+The British Council said it wanted to better understand the increasingly competitive market .
+wanted	5	ps_cue
+########
+11
+<EOP> .
+########
+12
+`` Finding romance '' was the second_most_dominant topic in posts related to positive aspects of a UK education .
+########
+13
+More than 13 percent of positive posts pertained to romance .
+########
+14
+The rankings of universities and their reputation was the most popular positive topic , accounting for almost a third of posts .
+########
+15
+<EOP> .
+########
+16
+Posts about high tuition fees accounted for 37 percent of negative comments , followed by the high cost of living , and the risk of not getting a visa .
+negative	10	neg_cue
+not	25	neg_cue
+########
+17
+<EOP> .
+########
+18
+British food had Chinese social media users divided － around 5 percent of both positive and negative posts concerned the nation 's cuisine .
+negative	16	neg_cue
+########
+19
+<EOP> .
+########
+20
+In descending order , the most common words used to describe Britons in Weibo posts were : conservative , exclusive , lazy , gentle , dark humored , enthusiastic , and boring .
+########
+21
+<EOP> .
+########
+22
+The survey measured the aspects of British culture that students found most interesting .
+########
+23
+Out of 3,380 respondents , 15 percent were most interested in literature , followed by 12 percent who were most interested in Britain 's history and traditions , which trumped an interest in its film , sport and celebrities .
+########
+24
+<EOP> .
+########
+25
+Matt Durnin , a researcher at the British Council who authored the report , said Chinese students are hugely important to the UK 's education sector .
+########
+26
+Nearly 98,000 students from the Chinese mainland studied at UK universities last year , accounting for 39 percent of non_EU international students .
+########
+27
+<EOP> .
+########
+28
+Durnin said demographic shifts and the improving quality of higher education in China are likely to mean the fight to lure Chinese students will become more competitive .
+likely	14	ps_cue
+will	23	ps_cue
+########
+29
+<EOP> .
+########

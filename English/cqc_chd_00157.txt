@@ -1,0 +1,54 @@
+Does China_Russia oil pipeline deliver 100 mln tonnes
+0
+China_Russia oil pipeline delivers 100 mln tonnes <EOP> .
+delivers	3	CT+	CT+
+########
+1
+2017_05_20 17:15 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+HARBIN _ A China_Russia oil pipeline has transported 100 million tonnes of crude oil in the five years since it began operations , local customs said Saturday .
+transported	7	CT+	CT+
+########
+4
+<EOP> .
+########
+5
+The pipeline delivers oil from Russia 's far_eastern region to China through its northeastern provinces .
+delivers	2	CT+	CT+
+########
+6
+<EOP> .
+########
+7
+The 1,000 _ km line originates in the Russian town of Skovorodino in the Amur region , enters China at Xingan and terminates at Daqing City in Heilongjiang Province .
+########
+8
+It went to use on January 1 , 2011 .
+########
+9
+<EOP> .
+########
+10
+The pipeline has reduced costs and raised the efficiency of China 's oil imports from Russia , which had previously relied on rail .
+########
+11
+<EOP> .
+########
+12
+According to the agreement between the two countries , the pipeline will transport 15 million tonnes of crude oil from Russia to China each year until 2030 .
+will	11	ps_cue
+########
+13
+<EOP> .
+########
+14
+China consumed about 560 million tonnes of crude oil in 2016 , 65 percent of which were imported , and both oil consumption and the proportion imported will continue to rise , according to China National Petroleum Corporation , China 's largest oil producer and supplier .
+will	27	ps_cue
+########
+15
+<EOP> .
+########

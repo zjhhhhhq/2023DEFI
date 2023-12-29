@@ -1,0 +1,105 @@
+Does US President Donald Trump believe the world climate is changing
+0
+Trump ` does believe in climate change ' <EOP> .
+########
+1
+2017_06_05 07:40 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+<EOP> .
+########
+4
+WASHINGTON _ US President Donald Trump does believe the world climate is changing and humans bear some responsibility , US Ambassador to the United Nations Nikki Haley said in an interview on Saturday .
+believe	7	CT+	CT+
+########
+5
+<EOP> .
+########
+6
+Amid furious worldwide criticism of Trump 's decision on Thursday to quit the Paris climate agreement , White House spokesmen had refused on Friday to say whether the president even believed the climate was changing .
+believed	30	Uu	CT+
+criticism	3	neg_cue
+quit	11	neg_cue
+refused	21	neg_cue
+whether	26	ps_cue
+believed	30	ps_cue
+########
+7
+He said frequently during last year 's election campaign that climate change was a hoax .
+########
+8
+<EOP> .
+########
+9
+But Haley , in an interview with CNN aired on Sunday , did not hedge .
+not	13	neg_cue
+########
+10
+<EOP> .
+########
+11
+`` President Trump believes the climate is changing and he believes pollutants are part of the equation , '' she said .
+believes	3	CT+	CT+
+########
+12
+<EOP> .
+########
+13
+He `` knows that it 's changing and that the US has to be responsible for it and that 's what we 're going to do , '' she said .
+########
+14
+<EOP> .
+########
+15
+Haley said the terms of the international agreement curbing global emissions _ signed by every country but Nicaragua and Syria _ were `` too onerous '' and placed US companies at a disadvantage .
+########
+16
+<EOP> .
+########
+17
+Trump 's decision has left the United States virtually isolated on the world stage , and his insistence that he will seek to `` renegotiate '' the international accord has done little to ease a wave of bitter condemnation .
+will	20	ps_cue
+little	31	neg_cue
+########
+18
+<EOP> .
+########
+19
+Against that backdrop , a string of administration officials went on the offensive on Friday to justify the Republican president 's decision to abandon the 195_nation Paris deal .
+########
+20
+<EOP> .
+########
+21
+Trump 's top climate adviser Scott Pruitt was indignant : `` The world applauded when we joined Paris .
+########
+22
+And you know why ?
+########
+23
+I think they applauded because they knew it would put this country at a disadvantage . ''
+would	8	ps_cue
+########
+24
+<EOP> .
+########
+25
+Trump himself ignored a question about climate change when asked by journalists during an unrelated event on Friday , although he did joke that Thursday 's decision had proven `` controversial '' .
+question	4	ps_cue
+########
+26
+<EOP> .
+########
+27
+White House press secretary Sean Spicer also refused to answer repeated questions on the subject .
+refused	7	neg_cue
+########
+28
+<EOP> .
+########
+29
+Agence France_presse <EOP> .
+########

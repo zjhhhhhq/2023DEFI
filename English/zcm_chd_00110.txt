@@ -1,0 +1,88 @@
+Does the economic impact on Latin America of the Zika virus reach 18 billion US dollars from 2015 to 2017
+0
+Zika causes up to 18 bln USD losses in LatAm : UNDP <EOP> .
+########
+1
+2017_08_16 09:23 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+<EOP> .
+########
+4
+A health ministry worker fumigates a house to kill mosquitoes during a campaign against dengue and chikungunya and to prevent Zika infection in Managua , Nicaragua October 27,2016 .
+against	13	neg_cue
+prevent	19	neg_cue
+########
+5
+LRB Photo_Agencies RRB <EOP> .
+########
+6
+BRASILIA _ The economic impact on Latin America of the Zika virus has been estimated to reach 18 billion US dollars from 2015 to 2017 , the United Nations Development Program LRB UNDP RRB said here on Tuesday .
+reach	16	CT+	CT+
+########
+7
+<EOP> .
+########
+8
+`` Zika is responsible for tangible losses to gross domestic product , estimated to range from 7 billion to 18 billion US dollars over 2015_2017 alone , '' according to a UNDP study .
+range	14	CT+	CT+
+########
+9
+<EOP> .
+########
+10
+The report , `` A Socio_economic Impact Assessment of the Zika Virus in Latin America and the Caribbean , '' focuses on three of the countries worst hit by the mosquito_borne virus , Brazil , Colombia and Suriname .
+########
+11
+<EOP> .
+########
+12
+Those losses impose `` an immediate burden on health care and social welfare systems , '' but `` more long_term , could undermine decades of hard_earned health gains and social development progress , '' the study warns .
+could	21	ps_cue
+########
+13
+<EOP> .
+########
+14
+The UNDP report calls on countries to offset the adverse impact of the virus by investing more `` in prevention , preparedness and response strategies at the local , national and regional levels . ''
+########
+15
+<EOP> .
+########
+16
+Also , Zika is bound to have a greater impact on the region 's more fragile economies , the agency said .
+########
+17
+<EOP> .
+########
+18
+<EOP> .
+########
+19
+<EOP> .
+########
+20
+`` While larger economies , such as Brazil , are expected to bear the greatest share of the absolute cost , the severest impacts will be felt in the poorest countries , '' the report said .
+expected	10	ps_cue
+will	24	ps_cue
+########
+21
+<EOP> .
+########
+22
+Haiti and Belize , for example , could lose 1.13 and 1.19 percent of GDP annually , respectively .
+could	7	ps_cue
+########
+23
+<EOP> .
+########
+24
+The mosquito_borne virus has been linked to birth defects , with the number of infants born with microcephaly , or abnormally small heads , skyrocketing in Brazil following the Zika outbreak .
+or	19	ps_cue
+########
+25
+<EOP> .
+########

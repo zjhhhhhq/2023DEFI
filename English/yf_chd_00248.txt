@@ -1,0 +1,73 @@
+Do some in US reaffirm committment to climate accord
+0
+Some in US reaffirm committment to climate accord <EOP> .
+reaffirm	3	CT+	CT+
+########
+1
+2017_11_11 20:14 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+Several entities not affiliated with the US federal government reaffirmed their commitment to the Paris Agreement on Climate Change during the United Nations climate talks , despite President Donald Trump 's plan to pull out .
+reaffirmed	9	CT+	CT+
+not	2	neg_cue
+plan	31	ps_cue
+########
+4
+<EOP> .
+########
+5
+Despite federal efforts to roll back policies combating climate change , climate action `` remains robust and is accelerating '' across an increasing swath of America , according to the America 's Pledge report released on Saturday .
+########
+6
+<EOP> .
+########
+7
+The report said non_federal supporters of the Paris pact accounted for $ 10.1 trillion , or 54 percent , of gross domestic product by the US in 2016 .
+or	15	ps_cue
+########
+8
+<EOP> .
+########
+9
+`` California strongly supports the United Nations ' unstoppable move to decarbonize the world economy , '' said California Governor Jerry Brown .
+########
+10
+`` We join with states and cities across America _ and around the world _ that will continue aggressive and creative action to curb greenhouse gas emissions . ''
+continue	17	CT+	CT+
+will	16	ps_cue
+########
+11
+<EOP> .
+########
+12
+The federal government 's decision will not stop others in the US to continue to make a commitment to combat climate change , according to Brown .
+continue	13	CT+	CT+
+will	5	ps_cue
+not	6	neg_cue
+stop	7	neg_cue
+########
+13
+<EOP> .
+########
+14
+`` The group of American cities , states , and businesses who remain committed to the Paris Agreement represents a bigger economy than any nation outside the US and China , '' said Michael R. Bloomberg , the United Nations Secretary_General 's Special Envoy for Cities and Climate Change .
+remain	12	CT+	CT+
+########
+15
+<EOP> .
+########
+16
+Negotiators from about 200 parties gathered in Bonn , Germany to negotiate details on the Paris Agreement sealed in 2015 .
+########
+17
+<EOP> .
+########
+18
+The US sent only a small delegation to participate in this year 's climate talks .
+########
+19
+<EOP> .
+########

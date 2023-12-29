@@ -1,0 +1,65 @@
+Do NY Times win Pulitzer Prizes
+0
+Washington Post , NY Times win Pulitzer Prizes <EOP> .
+win	5	CT+	CT+
+########
+1
+2017_04_11 09:40 <EOP> .
+########
+2
+null <EOP> .
+########
+3
+<EOP> .
+########
+4
+Dean Baquet LRB C RRB , executive editor of The New York Times , celebrates the announcement of the 2017 Pulitzer Prizes in The Times office in New York , US , April 10 , 2017 .
+########
+5
+The New York Times won three awards -- for breaking news photography , feature writing and international reporting .
+won	4	CT+	CT+
+########
+6
+LRB Photo_Agencies RRB <EOP> .
+########
+7
+The Daily News of New York and ProPublica , a web_based platform specializing in investigative journalism , won the prizefor public service journalism for coverage of New York police abuses that forced mostly poor minorities from their homes .
+won	17	CT+	CT+
+########
+8
+<EOP> .
+########
+9
+Other winners included an international consortium of more than 300 reporters on six continents that exposed the so_called Panama Papers detailing the hidden infrastructure and global scale of offshore tax havens used by the high and mighty .
+########
+10
+<EOP> .
+########
+11
+The Pulitzers , the most prestigious honors in American journalism , have been awarded since 1917 , often going to famed publications such as The New York Times , The Washington Post and The Wall Street Journal .
+########
+12
+<EOP> .
+########
+13
+But they are also won by smaller , lesser known publications across the country whose work does not always gain national attention when it is published .
+not	17	neg_cue
+########
+14
+<EOP> .
+########
+15
+Reporter Eric Eyre of Charleston Gazette_Mail in West Virginia took the prize for investigative reporting for exposing a flood of opioids in depressed West Virginia counties with the country 's highest overdose death rates .
+########
+16
+<EOP> .
+########
+17
+The staff of the East Bay Times of Oakland , California , won the breaking news award for coverage of the `` Ghost Ship '' fire that killed 36 people at a warehouse party , exposing the city 's failure to take actions that might have prevented the disaster .
+failure	39	neg_cue
+might	44	ps_cue
+prevented	46	neg_cue
+########
+18
+<EOP> .
+########

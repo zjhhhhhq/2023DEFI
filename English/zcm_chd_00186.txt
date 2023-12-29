@@ -1,0 +1,128 @@
+Will climate work go on
+0
+US officials reinforce cooperation <EOP> .
+########
+1
+2017_06_09 07:32 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+Visiting energy secretary , California governor say climate work will go on <EOP> .
+go	10	CT+	CT+
+will	9	ps_cue
+########
+4
+China and the United States vowed on Thursday to enhance cooperation on clean energy , as US Energy Secretary Rick Perry visits China after Donald Trump pulled out of the Paris agreement .
+########
+5
+<EOP> .
+########
+6
+Vice_Premier Zhang Gaoli and Perry emphasized cooperation on clean energy during their meeting at the Zhongnanhai leadership compound .
+########
+7
+<EOP> .
+########
+8
+`` It is expected that the two sides will consolidate tangible cooperation in fields including fossil and renewable energy , jointly push forward the shift to clean energy and contribute to the sustainable development of global energy , '' an official Chinese statement quoted Zhang as saying .
+consolidate	9	CT+	CT+
+expected	3	ps_cue
+will	8	ps_cue
+forward	22	ps_cue
+forward	22	neg_cue
+########
+9
+<EOP> .
+########
+10
+Perry said the US wants to deepen its energy technology cooperation with China and face challenges together .
+wants	4	ps_cue
+########
+11
+<EOP> .
+########
+12
+In his opening remarks during the meeting , Perry cited liquefied natural gas , nuclear energy and carbon capture as promising fields .
+########
+13
+<EOP> .
+########
+14
+`` Those are three areas that I think we have extraordinary opportunities to be partners to work on clean energy issues , '' Perry said .
+opportunities	11	ps_cue
+########
+15
+<EOP> .
+########
+16
+An official readout of the meeting from the US side said Perry also mentioned renewables , saying that 's another area of `` mutual interest '' , according to the Associated Press .
+########
+17
+<EOP> .
+########
+18
+Perry was in China to attend a clean_energy conference , the first international meeting of its kind after US President Trump pulled the country out of the Paris agreement on climate change last week .
+########
+19
+<EOP> .
+########
+20
+In a news conference after the meeting , Jim Carr , Canada 's minister of natural resources , was asked about China_US cooperation on clean energy .
+########
+21
+He said Canada `` applauds any agreement ... to reduce carbon emissions and pursue a low_carbon economy '' .
+########
+22
+<EOP> .
+########
+23
+Ibrahim Baylan , Sweden 's energy minister , said China_US cooperation in reducing carbon emissions `` will be influential in coming decades '' .
+will	16	ps_cue
+########
+24
+<EOP> .
+########
+25
+He said that before coming to Beijing for the meeting , he was `` a bit worried , because the US recently pulled out of the Paris agreement .
+########
+26
+<EOP> .
+########
+27
+`` However , after coming here and speaking with Chinese officials , as well as the US representatives , I appreciate that they have taken a pragmatic approach toward the global issue .
+########
+28
+It is safe to say that I have more confidence now than before . ''
+########
+29
+<EOP> .
+########
+30
+In Japan on Monday , Perry rejected criticism that the US is backing down on climate issues .
+rejected	6	neg_cue
+criticism	7	neg_cue
+########
+31
+<EOP> .
+########
+32
+California Governor Jerry Brown , who was also in China for the meeting , said on Tuesday that the threat of climate change could be more dangerous than fascism during World War II .
+could	23	ps_cue
+########
+33
+<EOP> .
+########
+34
+California 's state government and China 's Ministry of Science and Technology inked an agreement for greater collaboration in countering climate change .
+########
+35
+California made similar agreements with Jiangsu and Sichuan provinces .
+########
+36
+<EOP> .
+########
+37
+Contact the writers at lixiaokun@chinadaily.com.cn <EOP> .
+########

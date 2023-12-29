@@ -1,0 +1,53 @@
+Did Merkel have failed government coalition talks 
+0
+Merkel rejects snap elections after failed new gov ' t coalition talks <EOP> .
+talks	11	CT-	CT-
+rejects	1	neg_cue
+failed	5	neg_cue
+########
+1
+2017_11_26 07:46 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+<EOP> .
+########
+4
+German Chancellor Angela Merkel waits in her car as she arrives to attend the Eastern Partnership summit at the European Council Headquarters in Brussels , Belgium , November 24 , 2017 .
+summit	16	CT+	CT-
+########
+5
+<EOP> .
+########
+6
+LRB Photo_Agencies RRB <EOP> .
+########
+7
+BERLIN __ German Chancellor Angela Merkel on Saturday rejected new elections and wanted to form a new government quickly , as a consequence of the failed government coalition talks with the Free Democratic Party LRB FDP RRB and the Greens .
+talks	28	CT-	CT-
+failed	25	neg_cue
+rejected	8	neg_cue
+wanted	12	ps_cue
+########
+8
+<EOP> .
+########
+9
+`` The people have voted , and I absolutely do not favor , if we ca n't do anything with the result , asking people to vote again , '' Merkel said at a party conference of her Christian Democratic Union LRB CDU RRB in Kuehlungsborn , northeast Germany , according to Focus Online .
+not	10	neg_cue
+n't	16	neg_cue
+########
+10
+<EOP> .
+########
+11
+<EOP> .
+########
+12
+<EOP> .
+########
+13
+<EOP> .
+########

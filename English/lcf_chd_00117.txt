@@ -1,0 +1,92 @@
+Does Sino_French forum stage in Lyon
+0
+Sino_French forum staged in Lyon <EOP> .
+staged	2	CT+	CT+
+########
+1
+2017_09_28 07:17 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+<EOP> .
+########
+4
+LYON , France _ The second Sino_French cultural forum was held on Tuesday in the southern French city of Lyon .
+held	10	CT+	CT+
+########
+5
+The two_day event , under the theme of `` The Cultural Silk Road , the Franco_Chinese Confluences '' , had participants sharing their insights and experiences in various fields , including culture , art and education .
+########
+6
+<EOP> .
+########
+7
+Lyon was one of the final stops of the ancient Silk Road trade routes .
+########
+8
+Known for its gastronomy , the city was historically an important area for silk production and it was also the birthplace of cinema .
+########
+9
+<EOP> .
+########
+10
+Chen Zhu , president of the Western Returned Scholars Association , said enhancing cultural exchanges was an effective way to dispel misunderstandings and to promote trust between the two countries .
+########
+11
+<EOP> .
+########
+12
+Former French prime minister Jean_Pierre Raffrain also noted the importance of culture for both countries , saying `` the relationship between France and China is primarily a cultural relationship '' .
+########
+13
+<EOP> .
+########
+14
+Raffrain praised the spirit of the `` New Silk Road '' .
+########
+15
+The Belt and Road Initiative , put forward by China in 2013 , showed a path of cooperation in a spirit of openness , which is especially important for today 's world , he said .
+forward	7	ps_cue
+forward	7	neg_cue
+########
+16
+<EOP> .
+########
+17
+The Belt and Road Initiative comprises the Silk Road Economic Belt and the 21st Century Maritime Silk Road , aiming to build trade and infrastructure networks along the ancient Silk Road routes connecting Asia with Europe , Africa and beyond .
+########
+18
+<EOP> .
+########
+19
+The spirit of the Silk Road is embodied in solidarity and mutual trust , equality and mutual benefit , inclusiveness , a disposition to learn from each other and cooperation in finding win_win solutions .
+########
+20
+<EOP> .
+########
+21
+The first Sino_French Cultural Forum was held in May last year in Beijing .
+May	8	ps_cue
+########
+22
+<EOP> .
+########
+23
+The forum is aimed to build a nonofficial and nonprofit Sino_French communication platform and will be held in China and France alternately .
+held	16	CT+	CT+
+will	14	ps_cue
+########
+24
+<EOP> .
+########
+25
+Xinhua <EOP> .
+########
+26
+<EOP> .
+########
+27
+LRB China Daily 09_28_2017 page12 RRB <EOP> .
+########

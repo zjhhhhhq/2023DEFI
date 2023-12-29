@@ -1,0 +1,157 @@
+Are many people petitioning online , urging McDonald 's to bring back the legendary sauce
+0
+Popular animation sparks craze for McDonald 's Szechuan sauce <EOP> .
+########
+1
+2017_04_13 16:26 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+<EOP> .
+########
+4
+A screenshot from <EOP> .
+########
+5
+Rick and Morty <EOP> .
+########
+6
+<EOP> .
+########
+7
+<EOP> .
+########
+8
+A limited_edition dipping sauce launched by McDonald 's 20 years ago recently returned to public eyes thanks to an American adult animation , igniting furious bidding war on eBay and online petitions signed by hundreds of thousands of people .
+petitions	31	CT+	CT+
+########
+9
+<EOP> .
+########
+10
+In the latest season of <EOP> .
+########
+11
+Rick and Morty <EOP> .
+########
+12
+, which premiered on April 1 , 2017 , Rick confessed to Morty that he was doing everything only to get his hands on McDonald 's Szechuan LRB spelt as `` Sichuan '' in Mandarin RRB sauce .
+########
+13
+The sauce was briefly available in the fast_food chain in 1998 as a promotion for the debut of <EOP> .
+########
+14
+Mulan <EOP> .
+########
+15
+, Disney 's animated film .
+########
+16
+<EOP> .
+########
+17
+The discontinued sauce soon became one of the hottest topics on the internet after the season was broadcast .
+########
+18
+A quick search on eBay shows dozens of sellers offering the product , attracting quite a few bidders although some of the listings are fake .
+########
+19
+<EOP> .
+########
+20
+In one of the auctions , a packet of 28g Szechuan sauce was taken by a bidder at a mouthwatering price of $ 14,700 on Tuesday , reported <EOP> .
+########
+21
+China Youth Daily <EOP> .
+########
+22
+.
+########
+23
+The seller claimed that the precious packet was found in a vintage car he bought but did n't reply to inquiries by the newspaper .
+n't	17	neg_cue
+########
+24
+<EOP> .
+########
+25
+<EOP> .
+########
+26
+Szechuan sauce and related products sold on eBay <EOP> .
+########
+27
+Many people are petitioning online , urging McDonald 's to bring back the legendary sauce .
+petitioning	3	CT+	CT+
+########
+28
+One of the petitions on change.org reads `` McDonald 's Szechuan sauce is the best sauce known to man .
+petitions	3	CT+	CT+
+########
+29
+It would be a tragedy for it to not come back to McDonald 's '' .
+would	1	ps_cue
+not	8	neg_cue
+########
+30
+By Thursday , it has been signed by 32,310 supporters .
+########
+31
+<EOP> .
+########
+32
+Although the sauce is not originally from China or produced in the country , its name has drawn the attention of many curious netizens in China .
+not	4	neg_cue
+or	8	ps_cue
+########
+33
+<EOP> .
+########
+34
+`` I bet the sauce has nothing to do with Sichuan except its name , '' said one weibo user .
+nothing	6	neg_cue
+except	11	neg_cue
+########
+35
+`` But I still want to have a try ! ''
+########
+36
+<EOP> .
+########
+37
+`` It would be really great if McDonald 's worked with Lao Gan Ma to make a chili sauce , '' proposed another user .
+would	2	ps_cue
+proposed	21	ps_cue
+########
+38
+Lao Gan Ma is an extremely popular brand of chili sauce in China .
+########
+39
+During recent years , more Chinese condiments found their ways to the plates of foreign foodies .
+########
+40
+Lao Gan Ma is rated 4.9 out of 5 stars on Amazon.com with many reviewers claiming it as the `` best chili sauce '' they ever tasted .
+claiming	15	ps_cue
+########
+41
+<EOP> .
+########
+42
+In a report by <EOP> .
+########
+43
+Huffington Post <EOP> .
+########
+44
+, the spokesperson for the fast food chain said that it is open to bringing back the sauce .
+########
+45
+`` We never say never , because when our customers speak , we listen , '' the spokesperson said .
+never	2	neg_cue
+never	4	neg_cue
+########
+46
+<EOP> .
+########

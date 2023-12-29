@@ -1,0 +1,343 @@
+Do people access information through smartphones
+0
+A new study from Iowa State University has identified some of the central aspects of nomophobia __ that 's `` no mobile phone '' phobia __ with a handy new 20_question survey measuring iPhone codependence.Scroll down to take the quiz .
+no	20	neg_cue
+########
+1
+<EOP> .
+########
+2
+`` Nomophobia is considered a modern age phobia introduced to our lives as a byproduct of the interaction between people and mobile information and communication technologies , especially smartphones , '' Caglar Yildirim , one of the study 's authors , told The Huffington Post in an email .
+considered	3	ps_cue
+########
+3
+`` It refers to fear of not being able to use a smartphone ... LRB and RRB it refers to the fear of not being able to communicate , losing the connectedness that smartphones allow , not being able to access information through smartphones , and giving up the convenience that smartphones provide . ''
+access	40	CT-	CT-
+not	6	neg_cue
+not	23	neg_cue
+not	36	neg_cue
+########
+4
+<EOP> .
+########
+5
+The research builds on a University of Missouri study published in January .
+########
+6
+which found that bring separated from your iPhone can have a real psychological and physiological effect , including impaired thinking .
+can	8	ps_cue
+########
+7
+<EOP> .
+########
+8
+`` iPhones are capable of becoming an extension of our selves such that when separated , we experience a lessening of ` self ' and a negative physiological state , '' Russell Clayton , a doctoral candidate and the study 's lead author , said in a statement .
+negative	26	neg_cue
+########
+9
+<EOP> .
+########
+10
+To develop the questionnaire , the Iowa researchers interviewed nine undergraduate students about their relationships with their smartphones , identifying four basic dimensions of nomophobia : not being able to communicate , losing connectedness , not being able to access information and giving up convenience .
+access	39	CT-	CT-
+not	26	neg_cue
+not	35	neg_cue
+########
+11
+Then , they tested the questionnaire on 301 undergraduate students .
+########
+12
+<EOP> .
+########
+13
+Are you a smartphone junkie ?
+########
+14
+Rate each item on a scale of 1 LRB `` completely disagree '' RRB to 7 LRB `` strongly agree '' RRB and tally up your total score to find out .
+########
+15
+Be honest !
+########
+16
+<EOP> .
+########
+17
+1 .
+########
+18
+I would feel uncomfortable without constant access to information through my smartphone .
+access	6	CT-	CT-
+would	1	ps_cue
+without	4	neg_cue
+########
+19
+<EOP> .
+########
+20
+2 .
+########
+21
+I would be annoyed if I could not look information up on my smartphone when I wanted to do so .
+would	1	ps_cue
+could	6	ps_cue
+not	7	neg_cue
+wanted	16	ps_cue
+########
+22
+<EOP> .
+########
+23
+3 .
+########
+24
+Being unable to get the news LRB e.g. , happenings , weather , etc. .
+unable	1	neg_cue
+########
+25
+RRB on my smartphone would make me nervous .
+would	4	ps_cue
+########
+26
+<EOP> .
+########
+27
+4 .
+########
+28
+I would be annoyed if I could not use my smartphone and_or its capabilities when I wanted to do so .
+would	1	ps_cue
+could	6	ps_cue
+not	7	neg_cue
+wanted	16	ps_cue
+########
+29
+<EOP> .
+########
+30
+5 .
+########
+31
+Running out of battery in my smartphone would scare me .
+would	7	ps_cue
+########
+32
+<EOP> .
+########
+33
+6 .
+########
+34
+If I were to run out of credits or hit my monthly data limit , I would panic .
+or	8	ps_cue
+limit	13	neg_cue
+would	16	ps_cue
+########
+35
+<EOP> .
+########
+36
+7 .
+########
+37
+If I did not have a data signal or could not connect to Wi_Fi , then I would constantly check to see if I had a signal or could find a Wi_Fi network .
+not	3	neg_cue
+or	8	ps_cue
+could	9	ps_cue
+not	10	neg_cue
+would	17	ps_cue
+or	27	ps_cue
+could	28	ps_cue
+########
+38
+<EOP> .
+########
+39
+If I did not have my smartphone with me ... <EOP> .
+not	3	neg_cue
+########
+40
+10 .
+########
+41
+I would feel anxious because I could not instantly communicate with my family and_or friends .
+would	1	ps_cue
+could	6	ps_cue
+not	7	neg_cue
+########
+42
+<EOP> .
+########
+43
+11 .
+########
+44
+I would be worried because my family and_or friends could not reach me .
+would	1	ps_cue
+could	9	ps_cue
+not	10	neg_cue
+########
+45
+<EOP> .
+########
+46
+12 .
+########
+47
+I would feel nervous because I would not be able to receive text messages and calls .
+would	1	ps_cue
+would	6	ps_cue
+not	7	neg_cue
+########
+48
+<EOP> .
+########
+49
+13 .
+########
+50
+I would be anxious because I could not keep in touch with my family and_or friends .
+would	1	ps_cue
+could	6	ps_cue
+not	7	neg_cue
+########
+51
+<EOP> .
+########
+52
+14 .
+########
+53
+I would be nervous because I could not know if someone had tried to get a hold of me .
+would	1	ps_cue
+could	6	ps_cue
+not	7	neg_cue
+########
+54
+<EOP> .
+########
+55
+15 .
+########
+56
+I would feel anxious because my constant connection to my family and friends would be broken .
+would	1	ps_cue
+would	13	ps_cue
+########
+57
+<EOP> .
+########
+58
+16 .
+########
+59
+I would be nervous because I would be disconnected from my online identity .
+would	1	ps_cue
+would	6	ps_cue
+########
+60
+<EOP> .
+########
+61
+17 .
+########
+62
+I would be uncomfortable because I could not stay up_to_date with social media and online networks .
+would	1	ps_cue
+could	6	ps_cue
+not	7	neg_cue
+########
+63
+<EOP> .
+########
+64
+18 .
+########
+65
+I would feel awkward because I could not check my notifications for updates from my connections and online networks .
+would	1	ps_cue
+could	6	ps_cue
+not	7	neg_cue
+########
+66
+<EOP> .
+########
+67
+19 .
+########
+68
+I would feel anxious because I could not check my email messages .
+would	1	ps_cue
+could	6	ps_cue
+not	7	neg_cue
+########
+69
+<EOP> .
+########
+70
+20 .
+########
+71
+I would feel weird because I would not know what to do .
+would	1	ps_cue
+would	6	ps_cue
+not	7	neg_cue
+########
+72
+<EOP> .
+########
+73
+How You Score : <EOP> .
+########
+74
+20 : Not at all nomophobic .
+Not	2	neg_cue
+########
+75
+You have a very healthy relationship with your device and have no problem being separated from it .
+no	11	neg_cue
+########
+76
+<EOP> .
+########
+77
+21_60 : Mild nomophobia.You get a little antsy when you forget your phone at home for a day or get stuck somewhere without WiFi , but the anxiety is n't too overwhelming .
+little	6	neg_cue
+or	18	ps_cue
+without	22	neg_cue
+n't	29	neg_cue
+########
+78
+<EOP> .
+########
+79
+61_100 : Moderate nomophobia.You 're pretty attached to your device .
+########
+80
+You often check for updates while you 're walking down the street or talking to a friend , and you often feel anxious when you 're disconnected .
+or	12	ps_cue
+########
+81
+Time for a digital detox ?
+########
+82
+<EOP> .
+########
+83
+101_120 : Severe nomophobia.You can barely go for 60 seconds without checking your phone .
+can	4	ps_cue
+barely	5	neg_cue
+without	10	neg_cue
+########
+84
+It 's the first thing you check in the morning and the last at night , and dominates most of your activities in_between .
+########
+85
+It might be time for a serious intervention .
+might	1	ps_cue
+########
+86
+<EOP> .
+########
+87
+Vocabulary : <EOP> .
+########

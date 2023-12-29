@@ -1,0 +1,134 @@
+Will this year 's Chinese productions be lost in translation
+0
+Shows translate on Edinburgh stage <EOP> .
+########
+1
+2017_08_08 16:50 <EOP> .
+########
+2
+China Daily UK <EOP> .
+########
+3
+<EOP> .
+########
+4
+Members of the Shandong Acrobatic Troupe perform in the show China Goes Pop during the Edinburgh Festival Fringe .
+########
+5
+LRB Photo_China Daily RRB <EOP> .
+########
+6
+For audience members who do not speak Chinese , it would have required a leap of faith to buy a ticket to a show in the United Kingdom advertised as `` Mandarin language '' .
+not	5	neg_cue
+would	10	ps_cue
+########
+7
+<EOP> .
+########
+8
+But theatergoers at the Edinburgh Festival Fringe , which is running throughout August , had to trust that this year 's Chinese productions would not be lost in translation .
+lost	26	CT-	CT-
+not	24	neg_cue
+would	23	ps_cue
+########
+9
+<EOP> .
+########
+10
+Richard Rusk , director of The Shanghai Dramatic Arts Center 's production The Dreamer , said : `` The key is － I do n't have to know what you are saying but I have to know what you mean , every time . ''
+n't	24	neg_cue
+########
+11
+<EOP> .
+########
+12
+With a predominantly Chinese cast and an entirely Mandarin script , The Dreamer has been a breakout hit during the opening weekend , gaining several four_star reviews from critics , including those at The Sunday Times .
+########
+13
+<EOP> .
+########
+14
+Amy Collins , 20 , an Edinburgh bartender who has seen the show , said : `` There was so much passion in the physical theater .
+########
+15
+I did get lost in parts where there was a lot of Mandarin , but they picked up on universal actions for certain things that people do . ''
+lost	3	CT+	CT-
+########
+16
+<EOP> .
+########
+17
+The show is made in collaboration with British physical theater company Gecko and draws inspiration from William Shakespeare 's A Midsummer Night 's Dream .
+########
+18
+<EOP> .
+########
+19
+Rusk , an associate director at Gecko , said the actors went through intense workshops every morning for eight weeks , based around non_verbal communication .
+########
+20
+`` They had never really done movement work before .
+never	3	neg_cue
+########
+21
+<EOP> .
+########
+22
+They were used to standing and delivering lines to one another , '' Rusk said .
+########
+23
+`` We ran workshops with them for two hours every morning , to move together , listen together , breathe together , and care about one another 's performances . ''
+########
+24
+<EOP> .
+########
+25
+Also at the Fringe , the National Theater of China 's production of Luocha Land is firmly rooted in Chinese culture and exclusively in Mandarin , with masks and puppetry providing cues for non_speakers .
+########
+26
+Beauty and ugliness are reversed in Luocha Land , and the protagonist moves from an initial state of terror and confusion , to deep contemplation on the meaning of these concepts .
+########
+27
+<EOP> .
+########
+28
+Director Zhao Miao said : `` I wanted to share my impression of the part that beauty and ugliness play in Chinese philosophy with British spectators .
+wanted	7	ps_cue
+########
+29
+It 's the idea that ugliness is not produced by the devil , but it is something that lives inside the human heart . ''
+not	7	neg_cue
+########
+30
+<EOP> .
+########
+31
+China Goes Pop enjoyed a sellout weekend at the Assembly Hall , one of the Fringe 's biggest venues .
+########
+32
+The act is produced by the Shandong Acrobatic Troupe and the China Arts Entertainment Group .
+########
+33
+<EOP> .
+########
+34
+The show 's director , the United States ' Shanda Sawyer , said exploring differences between the US and Chinese styles of acrobatics were central to rehearsal .
+########
+35
+<EOP> .
+########
+36
+`` The traditional Chinese acrobatic style is to very much serve the show and to be totally at one with your troupe , '' Sawyer said .
+########
+37
+`` To become individuals and share their emotions with the audience has been an interesting challenge for them and a fun experience for me . ''
+########
+38
+<EOP> .
+########
+39
+<EOP> .
+########
+40
+<EOP> .
+########

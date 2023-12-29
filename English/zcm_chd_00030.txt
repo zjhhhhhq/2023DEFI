@@ -1,0 +1,130 @@
+Does Trump Administration release framework on tax reform
+0
+Trump Administration releases framework on tax reform , calls for big tax cuts <EOP> .
+releases	2	CT+	CT+
+########
+1
+2017_09_28 09:20 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+<EOP> .
+########
+4
+US President Donald Trump delivers remarks on proposed changes to the US tax code at the state fairgrounds in Indianapolis , Indiana , US Sept 27 , 2017 .
+proposed	7	ps_cue
+########
+5
+LRB Photo_Agencies RRB <EOP> .
+########
+6
+WASHINGTON _ The Donald Trump Administration , together with US Congress Republicans on Wednesday released a unified framework for tax code reform , which will cut tax rates for businesses and individuals while lacks details on how to consolidate fiscal position in face of big tax cuts .
+will	24	ps_cue
+lacks	33	neg_cue
+########
+7
+<EOP> .
+########
+8
+Under the framework , individuals will see tax rates reduced from current seven tax brackets to three brackets : 12 percent , 25 percent and 35 percent , and their standard nearly deduction doubled .
+will	5	ps_cue
+########
+9
+<EOP> .
+########
+10
+The framework will increase the Child Tax Credit and eliminate all personal exemptions and itemized deductions .
+will	2	ps_cue
+########
+11
+<EOP> .
+########
+12
+As for business tax reform , the framework will reduce corporate tax rate to 20 percent from currently 35 percent .
+will	8	ps_cue
+########
+13
+Pass_through businesses , such as sole proprietorships , partnerships and corporations will see their tax rate down to 25 percent .
+will	11	ps_cue
+########
+14
+<EOP> .
+########
+15
+In order to bring US businesses back home , the framework will adopt territorial taxation approach toward global American companies and replace the existing worldwide tax system .
+will	11	ps_cue
+########
+16
+<EOP> .
+########
+17
+It will tax the foreign profits of US multinational corporations at a reduced rate in order to prevent companies from shifting profits to tax havens .
+will	1	ps_cue
+prevent	17	neg_cue
+########
+18
+<EOP> .
+########
+19
+`` This framework will deliver a 21st century tax code that is built for growth , supports middle_class families , defends our workers , protects our jobs , and puts America first , '' said the Treasury Department in a statement on Wednesday .
+will	3	ps_cue
+########
+20
+<EOP> .
+########
+21
+The White House and congressional Republicans did not give an estimate on how much the tax plan would cost .
+not	7	neg_cue
+estimate	10	ps_cue
+plan	16	ps_cue
+would	17	ps_cue
+########
+22
+<EOP> .
+########
+23
+<EOP> .
+########
+24
+<EOP> .
+########
+25
+The framework also lacks details on how to make up the big tax cuts in order to keep a solid fiscal position , while Trump administration and the Republicans insisted that the reform would boost economy and make up the fiscal losses due to the big tax cuts .
+up	9	CT-	CT+
+lacks	3	neg_cue
+would	33	ps_cue
+########
+26
+<EOP> .
+########
+27
+`` It will deliver fiscally responsible tax reform by broadening the tax base , closing loopholes and growing the economy , '' the Treasury Department said in the statement .
+will	2	ps_cue
+########
+28
+<EOP> .
+########
+29
+The framework serves as a template for the tax_writing committees in the Congress .
+########
+30
+The House Committee on Ways and Means and the Senate Committee on Finance will develop legislation on the basis of the framework .
+will	13	ps_cue
+########
+31
+<EOP> .
+########
+32
+While the White House and Congressional Republicans said they welcomed and encouraged bipartisan support and participation in the tax reforms , the framework is unlikely to receive support from Congressional Democrats who considered the tax reforms would give large tax cuts for the wealthiest .
+receive	26	CT-	CT+
+unlikely	24	neg_cue
+encouraged	11	ps_cue
+unlikely	24	ps_cue
+considered	32	ps_cue
+would	36	ps_cue
+########
+33
+<EOP> .
+########

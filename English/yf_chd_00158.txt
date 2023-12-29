@@ -1,0 +1,221 @@
+Does Jerusalem decision spark protests
+0
+Jerusalem decision sparks protests <EOP> .
+sparks	2	CT+	CT+
+########
+1
+2017_12_08 00:17 <EOP> .
+########
+2
+China Daily USA <EOP> .
+########
+3
+US President Donald Trump 's decision on Wednesday to formally recognize Jerusalem as the capital of Israel and to move the US embassy there sparked protests and condemnation around the world .
+sparked	24	CT+	CT+
+########
+4
+<EOP> .
+########
+5
+Trump 's decision has reversed decades of US government foreign policy regarding the issue .
+########
+6
+<EOP> .
+########
+7
+`` I have determined that it is time to officially recognize Jerusalem as the capital of Israel , '' Trump said , with Vice_President Mike Pence on his side .
+########
+8
+<EOP> .
+########
+9
+Trump noted that previous US presidents have made it a campaign promise but failed to deliver .
+failed	13	neg_cue
+########
+10
+<EOP> .
+########
+11
+`` Today , I am delivering , '' he said , despite warnings in the past days from around the world , including key US allies in Europe .
+########
+12
+<EOP> .
+########
+13
+Trump expressed that the US remains deeply committed to helping facilitate a peace agreement that is acceptable to both sides .
+########
+14
+<EOP> .
+########
+15
+Shortly after his speech , protests erupted in several places , including outside the US consulate in Istanbul , Turkey , according to Reuters .
+erupted	6	CT+	CT+
+########
+16
+<EOP> .
+########
+17
+In Gaza City , hundreds of demonstrators braved a downpour on Wednesday and burned American flags and posters bearing Trump 's photo , according to The New York Times .
+########
+18
+<EOP> .
+########
+19
+After Trump 's speech , United Nations Secretary_General Antnio Guterres said that Jerusalem is an issue that must be resolved through direct negotiations between the parties .
+resolved	19	neg_cue
+########
+20
+<EOP> .
+########
+21
+`` In this moment of great anxiety , I want to make it clear : there is no alternative to the two_state solution .
+no	17	neg_cue
+########
+22
+There is no Plan B , '' he told the press at UN Headquarters in New York .
+no	2	neg_cue
+########
+23
+<EOP> .
+########
+24
+The UN chief noted that it is only by realizing the vision of two states `` living side by side in peace , security and mutual recognition , with Jerusalem as the capital of Israel and Palestine , and all final status issues resolved permanently through negotiations , '' that the legitimate aspirations of both peoples will be achieved .
+resolved	43	neg_cue
+will	56	ps_cue
+########
+25
+<EOP> .
+########
+26
+China also expressed concern on Wednesday with Foreign Ministry spokesman Geng Shuang , saying the issue of Jerusalem 's status is complicated and sensitive .
+concern	3	ps_cue
+########
+27
+<EOP> .
+########
+28
+`` All parties should keep in mind the peace and tranquility of the region , act with caution and avoid undermining the long_term basis for solving the Palestinian issue and thus triggering new confrontation in the region , '' he said .
+should	3	ps_cue
+avoid	19	neg_cue
+########
+29
+<EOP> .
+########
+30
+Geng said China has always firmly supported and pushed forward the Middle East peace process and supported the Palestinian people in their just cause of restoring their lawful national rights .
+forward	9	ps_cue
+forward	9	neg_cue
+########
+31
+<EOP> .
+########
+32
+China supports the establishment of an independent State of Palestine with full sovereignty , taking the 1967 borders as its basis and East Jerusalem as its capital , he added .
+########
+33
+<EOP> .
+########
+34
+France rejected the `` unilateral '' decision while appealing for calm in the region .
+rejected	1	neg_cue
+########
+35
+Britain said the move would not help peace efforts , and Jerusalem should ultimately be shared by Israel and a future Palestinian state .
+would	4	ps_cue
+not	5	neg_cue
+should	12	ps_cue
+########
+36
+<EOP> .
+########
+37
+Germany said Jerusalem 's status could be resolved on the basis of a two_state solution , according to the Reuters .
+could	5	ps_cue
+resolved	7	neg_cue
+########
+38
+<EOP> .
+########
+39
+Israel , by contrast , applauded Trump 's move .
+########
+40
+Prime Minister Benjamin Netanyahu said in a pre_recorded video message that it was `` an important step towards peace '' and it was `` our goal from Israel 's first day '' .
+########
+41
+<EOP> .
+########
+42
+Palestinian President Mahmoud Abbas , in a pre_recorded speech , said Jerusalem was the `` eternal capital of the State of Palestine '' and that Trump 's move was `` tantamount to the United States abdicating its role as a peace mediator '' .
+########
+43
+<EOP> .
+########
+44
+The Palestinian group Hamas said Trump had committed a `` flagrant aggression against the Palestinian people '' .
+against	12	neg_cue
+########
+45
+It urged Arabs and Muslims to `` undermine US interests in the region '' and to `` shun Israel '' .
+########
+46
+<EOP> .
+########
+47
+Lebanese President Michel Aoun said the Jerusalem decision was dangerous and threatened the credibility of the US as a broker of Middle East peace .
+########
+48
+<EOP> .
+########
+49
+` Death sentence ' <EOP> .
+########
+50
+Qatar 's foreign minister , Sheikh Mohammed bin Abdulrahman al_Thani , said Trump 's undertaking was a `` death sentence for all who seek peace '' and called it `` a dangerous escalation '' .
+########
+51
+<EOP> .
+########
+52
+Turkish , Egyptian , Jordanian and Iranian leaders also condemned Trump 's announcement .
+condemned	9	neg_cue
+########
+53
+<EOP> .
+########
+54
+Natan Sachs , director of the Center for Middle East Policy at the Brookings Institute , described Trump 's decision as an `` unforced error '' .
+########
+55
+<EOP> .
+########
+56
+`` The timing is terrible in terms of trying to reach the ultimate deal which he charged his son_in_law LRB Jared Kushner RRB of achieving , '' Sachs said on Wednesday in a Brookings podcast .
+########
+57
+<EOP> .
+########
+58
+`` But it 's also bad just because of the volatility that is always there really in Jerusalem itself , '' said Sachs , who grew up in Jerusalem .
+########
+59
+<EOP> .
+########
+60
+The status of Jerusalem is home to sites holy to the Christian , Jewish and Muslim faiths ; its eastern sector was captured by Israel in a 1967 war and is claimed by Palestinians for the capital of an independent state they seek .
+########
+61
+<EOP> .
+########
+62
+Contact the writer at chenweihua@chinadailyusa.com <EOP> .
+########
+63
+Reuters contributed to this story .
+########
+64
+<EOP> .
+########
+65
+<EOP> .
+########

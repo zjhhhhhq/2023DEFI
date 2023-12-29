@@ -1,0 +1,170 @@
+Do people have rising fears of ` no deal '
+0
+Brexit talks in ` disturbing deadlock ' amid rising fears of ` no deal ' <EOP> .
+deal	13	CT-	CT-
+no	12	neg_cue
+########
+1
+2017_10_13 09:45 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+<EOP> .
+########
+4
+British Secretary of State for Exiting the European Union LRB Brexit Minister RRB David Davis LRB L RRB and European Union Chief Negotiator in charge of Brexit negotiations with Britain Michel Barnier LRB R RRB shake hands as they leave after addressing media representatives at the European Union Commission in Brussels on October 12 , 2017 .
+########
+5
+LRB Photo_Agencies RRB <EOP> .
+########
+6
+BRUSSELS _ The fifth round of Brexit talks concluded on Thursday and brought nothing concrete but a `` disturbing deadlock '' to citizens along the English Channel , amid rising fears of `` no deal '' between the European Union LRB EU RRB and Britain .
+deal	34	CT-	CT-
+nothing	13	neg_cue
+no	33	neg_cue
+########
+7
+<EOP> .
+########
+8
+`` No major step forward in this week 's Brexit talks ... LRB yet RRB we still have the common goal , '' said EU Chief Negotiator Michel Barnier in his joint press conference with British counterpart David Davis , asserting that doing things in right order is the key to Brexit talks ' success , and EU_UK future relationship is definitely not the subject of the first negotiation session .
+forward	4	CT-	CT-
+No	1	neg_cue
+forward	4	ps_cue
+forward	4	neg_cue
+yet	13	neg_cue
+not	62	neg_cue
+########
+9
+<EOP> .
+########
+10
+`` We worked constructively this week .
+########
+11
+We clarified certain points .
+########
+12
+But without making any great steps forward .
+forward	6	CT-	CT-
+without	1	neg_cue
+forward	6	ps_cue
+forward	6	neg_cue
+########
+13
+We still have a common goal : the desire to reach an agreement on the UK 's withdrawal and to outline our future relationship , when the time comes , '' he told reporters .
+########
+14
+<EOP> .
+########
+15
+For his part , Davis urged the other 27 EU members to recognize the progress and achievements made in the past rounds of talks in the EU leaders ' summit slated for Oct 19 in Brussels , which is a precondition for the start of the second negotiation session .
+########
+16
+<EOP> .
+########
+17
+At the beginning of his speech , Barnier made crystal clear that no sufficient progress in three key fields __ citizens ' rights , Northern Ireland border and financial settlement __ and no talks on the future relationship between EU and Britain .
+progress	14	CT-	CT-
+no	12	neg_cue
+no	32	neg_cue
+########
+18
+<EOP> .
+########
+19
+`` For us , from the EU side , achieving and realizing these three big objectives is the condition for engaging in a discussion , as soon as possible , on a new ambitious , long_lasting partnership , '' he said .
+possible	28	ps_cue
+########
+20
+<EOP> .
+########
+21
+<EOP> .
+########
+22
+Concerning the issue of citizens ' rights , the two sides were still at loggerheads with each other .
+########
+23
+The only silver_line of the sitzkrieg was that Britain had informed EU of its intention to put in place a simplified procedure which allows EU citizens to assert their rights .
+########
+24
+<EOP> .
+########
+25
+`` Today I can confirm that we want to reassure those European citizens living in the UK that their rights and status will be enshrined in UK law by the Withdrawal Agreement .
+can	3	ps_cue
+will	22	ps_cue
+########
+26
+And yes , there will be a registration process but the administration process will be completely new .
+will	4	ps_cue
+will	13	ps_cue
+########
+27
+It will be streamlined , and it will be low cost , '' said Davis .
+will	1	ps_cue
+will	7	ps_cue
+########
+28
+<EOP> .
+########
+29
+`` We will study attentively the practical details of this procedure , which should really be simple for citizens , '' Barnier responded .
+will	2	ps_cue
+should	13	ps_cue
+########
+30
+<EOP> .
+########
+31
+As for the Northern Ireland border issue , the talks were currently on a right path but more work needs to be done .
+needs	19	ps_cue
+########
+32
+<EOP> .
+########
+33
+`` This week we advanced on the joint principles on the continuation of the Common Travel Area , and we continued our intensive work on mapping out areas of cooperation that operate on a North_South basis on the island of Ireland ... but more work to do in order to build a full picture of the challenges to North_South cooperation resulting from the Brexit , '' said Barnier .
+########
+34
+<EOP> .
+########
+35
+Both sides agreed a lot , but mainly in principle , without breakthrough again .
+without	11	neg_cue
+########
+36
+<EOP> .
+########
+37
+As to the financial settlement , or the divorce fee , the two sides stuck in a deadlock .
+or	6	ps_cue
+########
+38
+<EOP> .
+########
+39
+`` The UK told us again this week that it still could not clarify these commitments .
+could	11	ps_cue
+not	12	neg_cue
+########
+40
+Therefore , there was no negotiation on this , but we did have technical discussions which were useful , albeit technical .
+no	4	neg_cue
+########
+41
+We are , therefore , at a deadlock on this question , '' said Barnier , adding that `` this is extremely worrying for European taxpayers and those who benefit from EU policies . ''
+question	10	ps_cue
+########
+42
+<EOP> .
+########
+43
+For EU , divorce fee is the precondition for talks on EU_UK future relationship , but for Britain , divorce fee is the bonus of the early starting of the talks on future relationship .
+########
+44
+<EOP> .
+########

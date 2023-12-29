@@ -1,0 +1,146 @@
+Will the new EU law be in force by next week 
+0
+Be careful if you 're planning to take any ` selfies ' in front of iconic monuments this summer .
+planning	5	ps_cue
+########
+1
+A new EU law banning the posting of photographs on social media sites containing public buildings could be in force by next week .
+force	19	PS+	PS+
+could	16	ps_cue
+banning	4	neg_cue
+########
+2
+<EOP> .
+########
+3
+The craze for tourists to take selfies in front of landmarks is on the rise , with an estimated one million taken every day around the world .
+########
+4
+While the law is aimed at commercial photographers , there are fears ordinary holidaymakers could be prosecuted and face a fine or even a jail sentence .
+could	14	ps_cue
+or	21	ps_cue
+########
+5
+<EOP> .
+########
+6
+The rise of social media has spawned a raft of tourists for whom the ability to instantly publicise their trip is as important as the experience itself .
+########
+7
+The Eiffel Tower is the most popular spot in the world to take a selfie , ahead of Disney World in Orlando , Florida and the world 's tallest building _ the Burj Khalifa _ in Dubai , according to tourist attraction site AttractionTix , which analysed social media to find mentions of travel hotspots alongside the world selfie .
+########
+8
+Big Ben is in fourth place , followed by the Empire State Building in New York , Gaudi 's iconic Sagrada Familia cathedral in Barcelona and then Disneyland Paris .
+########
+9
+Rome 's Colosseum , the Rockefeller Centre in New York and London Bridge were also in the top ten ` selfie spots ' .
+########
+10
+<EOP> .
+########
+11
+The UK and other European countries including Spain and Germany , is currently protected by a ` freedom of panorama ' provision in copyright law which means people can publish photographs of modern buildings or public art installations without infringing copyright .
+can	28	ps_cue
+or	34	ps_cue
+without	38	neg_cue
+########
+12
+<EOP> .
+########
+13
+If the law is passed , then members of the public will only be able to upload photographs of tourist spots with prior consent from the owner of the copyright .
+passed	4	Uu	PS+
+will	11	ps_cue
+########
+14
+Or photographers may need to black out iconic buildings like the Eiffel Tower in their holiday snaps to avoid breaching the copyright of individual architects or artists .
+may	2	ps_cue
+need	3	ps_cue
+like	9	ps_cue
+avoid	18	neg_cue
+or	25	ps_cue
+########
+15
+<EOP> .
+########
+16
+With an increasing number of tourist hot spots discouraging or even banning selfie sticks , Disneyland has become the latest to announced a total ban : From June 30 selfie sticks will no longer be allowed in Disneyland , Walt Disney World , and any other Disney_owned theme parks , water parks , or gaming attractions .
+or	9	ps_cue
+banning	11	neg_cue
+ban	24	neg_cue
+will	31	ps_cue
+no	32	neg_cue
+or	53	ps_cue
+########
+17
+A roller coaster at Disney California Adventure park was closed recently for an hour after a passenger brought a selfie stick onboard .
+########
+18
+<EOP> .
+########
+19
+The Palace of Versailles and Britain 's National Gallery in London also announced bans recently , saying they needed to protect artworks and other visitors .
+bans	13	neg_cue
+########
+20
+<EOP> .
+########
+21
+Although the EU says amending the law is aimed at commercial photographers , there is a widespread fear that ordinary tourists will be penalised , with a so_called ` Facebook Police ' combing websites to find and prosecute selfie_takers .
+will	21	ps_cue
+########
+22
+<EOP> .
+########
+23
+Online encyclopedia Wikipedia has declared itself against the move and plans to publish users ' photos of popular sites like the Louvre to illustrate the ` madness ' of the new proposals .
+against	6	neg_cue
+plans	10	ps_cue
+like	19	ps_cue
+########
+24
+<EOP> .
+########
+25
+Booking system specialist Amadeus IT Holdings has released a report showing many travellers increasingly plan their trips so as to increase their social standing and maximise online followers , with the aim of instantly documenting photographs on Facebook , Twitter , Instagram et al. .
+plan	14	ps_cue
+########
+26
+<EOP> .
+########
+27
+` Destinations that lack ... cachet ... risk being shunned .
+lack	3	neg_cue
+########
+28
+Benefits of digitally documented trips include basking in adulation like a rock star returning from a world tour ' , according to the study .
+like	9	ps_cue
+########
+29
+<EOP> .
+########
+30
+But the penalty for copyright infringement can be heavy .
+can	6	ps_cue
+########
+31
+<EOP> .
+########
+32
+In France , it is illegal to publish a photograph of the Eiffel Tower by night .
+########
+33
+Prior permission must be obtained from operating company Société d'Exploitation de la Tour Eiffel LRB SETE RRB , which owns the rights for lit_up images .
+########
+34
+One lawyer commented that SETE could sue an individual for posting a lit up Eiffel Tower picture on Instagram , ` if LRB SETE RRB felt an image of the Eiffel Tower taken at night had been published or reproduced for commercial gain and without permission ' .
+could	5	ps_cue
+or	38	ps_cue
+without	44	neg_cue
+########
+35
+<EOP> .
+########
+36
+Vocabulary <EOP> .
+########

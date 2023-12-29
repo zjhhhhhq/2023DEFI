@@ -1,0 +1,127 @@
+Has the American scientist not had a bath in 12 years 
+0
+In a bid to prove that showering is overrated , an American scientist has n't had a bath in 12 years .
+bath	17	CT-	CT-
+n't	14	neg_cue
+########
+1
+Instead , he sprays his skin with a mist containing live bacteria , which he claims has kept him clean all these years ！ <EOP> .
+########
+2
+Dave Whitlock , a chemical engineer and MIT graduate , says that there is no basis for assuming that bathing is a healthy practice .
+no	14	neg_cue
+########
+3
+`` No one did clinical trials on people taking showers every day , '' he said .
+No	1	neg_cue
+########
+4
+`` I have not taken a shower in 12 years . ''
+shower	6	CT-	CT-
+not	3	neg_cue
+########
+5
+In fact , he says that the chemicals in our soaps and shampoos have destroyed all the friendly bacteria that once inhabited our skin and kept us clean .
+########
+6
+<EOP> .
+########
+7
+Whitlock first started thinking about good bacteria when a woman he was dating asked him why horses liked to roll around in the dirt during summer .
+########
+8
+`` The only way that horses could evolve this behavior was if they had substantial evolutionary benefits from it , '' Whitlock explained .
+could	6	ps_cue
+########
+9
+That 's when he realised that for the horses , this was actually a way of keeping clean .
+########
+10
+<EOP> .
+########
+11
+Until then , no one had considered that skin bacteria was important and could be helpful to the body .
+no	3	neg_cue
+considered	6	ps_cue
+could	13	ps_cue
+########
+12
+`` I did n't have a biology degree _ I was n't at an institution that was renowned for its biological research , '' Whitlock said .
+n't	3	neg_cue
+n't	11	neg_cue
+########
+13
+`` And I was proposing something completely off the wall . ''
+########
+14
+But he went ahead and invented a one_of_a_kind spray _ called ` Mother Dirt AO + Mist ' _ consisting of ` good ' bacteria .
+########
+15
+<EOP> .
+########
+16
+According to Whitlock , the bacteria in the spray can serve as personal groomers , eating through sweat and oil on our skin .
+can	9	ps_cue
+########
+17
+They feed off urea and ammonia in the sweat from the skin , turning them into nitric oxide , which is very good for the body .
+########
+18
+Nitric oxide molecules dilate blood vessels and help regulate blood pressure , along with a host of other benefits .
+########
+19
+<EOP> .
+########
+20
+The spray is manufactured through AOBiome , a company that Whitlock helped found .
+########
+21
+According to the company , `` Modern hygiene has selectively depleted the natural balance of the skin microbiome particularly affecting AOB .
+########
+22
+By restoring the appropriate AOB levels , we believe a range of human health conditions could be impacted . ''
+could	15	ps_cue
+########
+23
+<EOP> .
+########
+24
+`` We 've confused clean with sterile , '' added AOBiome 's consumer products general manager Jasmina Aganovic .
+########
+25
+`` We 've taken the dirt out of our lives .
+########
+26
+We do n't spend as much time outdoors as we used to , even little children . ''
+n't	2	neg_cue
+little	14	neg_cue
+########
+27
+<EOP> .
+########
+28
+Mother Dirt Mist helps us reclaim the connection we once had with good bacteria .
+helps	3	ps_cue
+########
+29
+It 's odorless and feels just like water , and can be sprayed all over the skin twice a day to avoid bathing .
+like	6	ps_cue
+can	10	ps_cue
+avoid	21	neg_cue
+########
+30
+But for those who simply can not do without showering , the company is now planning to launch a bacteria_friendly shower gel and shampoo .
+can	5	ps_cue
+not	6	neg_cue
+without	8	neg_cue
+planning	15	ps_cue
+########
+31
+The mist costs $ 99 a bottle , while the gel and shampoo are priced at $ 15 each .
+########
+32
+<EOP> .
+########
+33
+Vocabulary <EOP> .
+########

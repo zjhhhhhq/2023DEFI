@@ -1,0 +1,139 @@
+Does China 's naval escort fleet visit London
+0
+China 's naval escort fleet 's visit to London sparks national pride among expatriates <EOP> .
+visit	6	CT+	CT+
+########
+1
+2017_10_04 10:03 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+LONDON _ Canary Wharf , a bustling financial hub in the city center by the river Thames , is looking a bit more festive than usual .
+########
+4
+<EOP> .
+########
+5
+Waving national flags and cheering during a dragon dance , hundreds of Chinese from across Britain are welcoming China 's 26th naval escort fleet 's calling at the British capital , the first time for Chinese naval ships .
+calling	25	CT+	CT+
+########
+6
+<EOP> .
+########
+7
+`` Standing on the deck of the naval ship , I feel like standing on Chinese soil .
+like	12	ps_cue
+########
+8
+I am really excited and proud , '' Xia Jingyuan , a Chinese student from Imperial College London , told Xinhua on the deck of the Yangzhou guided_missile frigate .
+########
+9
+<EOP> .
+########
+10
+The naval escort fleet , composed of the guided_missile frigates Huanggang and Yangzhou , and the comprehensive supply ship Gaoyouhu , arrived here on Tuesday for a five_day friendly visit to Britain .
+visit	29	CT+	CT+
+########
+11
+The time also coincides with the week_long Chinese National Day holiday .
+########
+12
+<EOP> .
+########
+13
+London is the third stop of the escort fleet 's global trip after completing its escort mission in the Gulf of Aden and Somali waters .
+stop	4	neg_cue
+########
+14
+The Chinese navy ships have previously visited the Danish capital Copenhagen and the Belgian port of Antwerp .
+########
+15
+<EOP> .
+########
+16
+The welcoming ceremony proved to be an emotional occasion for Zhang Xiangcheng , a Royal Society Industry Fellow at the University of Cambridge .
+########
+17
+<EOP> .
+########
+18
+`` I caught the early train at 6 a.m. from Cambridge to London this morning and this would be a moment that can be remembered by future generations , '' Zhang said .
+would	17	ps_cue
+can	22	ps_cue
+########
+19
+<EOP> .
+########
+20
+In 1840 , the Middle Kingdom 's door was knocked open by British marines in the First Opium War , followed by ruthless invasions by foreign powers until the founding of the People 's Republic of China in 1949 .
+########
+21
+More than 170 years later , for the first time in history , a Chinese naval escort fleet has arrived in central London for a friendly visit .
+########
+22
+<EOP> .
+########
+23
+`` Lagging behind leaves one vulnerable to attacks , which is the never_forgotten lesson the Chinese people have learned from history .
+########
+24
+But unlike the British in 1840 , the Chinese navy comes here today for peace with a big heart and sense of responsibility that a major country like China should have , '' said Zhang .
+comes	10	CT+	CT+
+like	27	ps_cue
+should	29	ps_cue
+########
+25
+<EOP> .
+########
+26
+China sent its first convoy fleet to the Gulf of Aden and Somali waters for an anti_piracy mission in December 2008 and has since dispatched 27 batches of escort fleets with more than 21,000 personnel to perform the mission .
+########
+27
+China and the European Union have cooperated closely in the escort mission in recent years .
+########
+28
+<EOP> .
+########
+29
+During their stay , some 700 Chinese naval servicemen aboard the vessels will conduct various kinds of exchanges with their British counterparts ranging from anti_piracy to humanitarian rescues .
+will	12	ps_cue
+########
+30
+<EOP> .
+########
+31
+The vessels are also open to local visitors on Wednesday .
+########
+32
+<EOP> .
+########
+33
+During the welcoming ceremony , there have been some sentimental moments .
+########
+34
+Before boarding the ships for a visit , Qi Yongqiang , president of the Northern Britain Chinese Entrepreneurs Association , presented some old pictures of Chinese warships to the fleet commander Wang Zhongcai as a gift .
+########
+35
+<EOP> .
+########
+36
+The four warships in the framed pictures , namely Chaoyong , Yangwei , Zhiyuan and Jingyuan , were built by a ship manufacturer in Newcastle in the Qing Dynasty during the 1880s as part of the Beiyang Fleet , the earliest naval force of China .
+########
+37
+Most of the ships were sunk by the Japanese navy during the First Sino_Japanese War in 1894 , another reminder of how far China has come since the end of suffering and humiliation caused by foreign invaders .
+########
+38
+<EOP> .
+########
+39
+`` More than a century later , the arrival of designed_in_China Chinese navy ships in London presents such a historic moment .
+arrival	8	CT+	CT+
+########
+40
+We as overseas Chinese are really touched and proud , '' said Qi .
+########
+41
+<EOP> .
+########

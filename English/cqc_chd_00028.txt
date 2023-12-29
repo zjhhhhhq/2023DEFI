@@ -1,0 +1,66 @@
+Whether China and Bangladesh built bridge
+0
+Bangladesh indebted to China for friendship bridges , eyes more infrastructure projects <EOP> .
+bridges	6	CT+	CT+
+########
+1
+2017_07_20 16:42 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+DHAKA _ Millions of people living in central Bangladesh used to refer to the Dhaleshwari River as the `` River of Sorrows '' as the waterway made it extremely difficult for people to get to the capital city Dhaka .
+########
+4
+<EOP> .
+########
+5
+In the absence of a bridge spanning the river , people were cut off from the capital for centuries , which impacted businesses as well as communities .
+bridge	5	CT+	CT+
+absence	2	neg_cue
+########
+6
+<EOP> .
+########
+7
+But the peoples ' collective headache was finally remedied by China constructing a bridge and linking both banks and , in doing so , making life easier for all concerned .
+bridge	13	CT+	CT+
+########
+8
+<EOP> .
+########
+9
+The 6th China_Bangladesh Friendship Bridge , as it is known , is situated in the Munshiganj district , about 30 kilometers away from Dhaka and the bridge 's construction was finished eight years ago .
+Bridge	4	CT+	CT+
+########
+10
+<EOP> .
+########
+11
+The bridge has meant that there is now a fixed transportation route between Dhaka city and Munshiganj , one of the major areas supplying agricultural products to the capital city .
+########
+12
+<EOP> .
+########
+13
+Local businesses said the vast changes brought on by the bridge have been revolutionary , in terms of both the economic development of the area itself and also the convenience and ease it offers locals both professionally and personally .
+bridge	10	CT+	CT+
+########
+14
+<EOP> .
+########
+15
+Such is the popularity of the bridge , that it has been labeled as one of Bangladesh 's `` lifeline structures . ''
+########
+16
+<EOP> .
+########
+17
+Construction of the sixth China_Bangladesh Friendship Bridge began in July 2005 and was completed in January 2008 , six months ahead of schedule , much to the delight of all involved and all whose lives would be improved by the bridge .
+Bridge	6	CT+	CT+
+would	35	ps_cue
+########
+18
+<EOP> .
+########

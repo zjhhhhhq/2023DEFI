@@ -1,0 +1,87 @@
+Will China , EU to focus on trade , investment and climate as Trump ponders
+0
+China , EU to focus on trade , investment and climate as Trump ponders <EOP> .
+focus	4	CT+	CT+
+########
+1
+2017_06_01 23:32 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+The European Union said today that China and the 28_member bloc will focus on trade and investment and climate change , as Presidenrt Donald Trump considers withdrawal from the Paris Agreement during Friday 's Sino_EU summit .
+focus	12	CT+	CT+
+will	11	ps_cue
+considers	25	ps_cue
+########
+4
+<EOP> .
+########
+5
+The EU made the announcement ahead of Chinese Premier Li Keqiang 's arrival in Brussels on Thursday afternoon after his German tour .
+########
+6
+<EOP> .
+########
+7
+It said that Li will be holding informal meeting with European Council President Donald Tusk and European Commission President Jean_Claude Juncker late on Thursday before their summit on Friday morning .
+will	4	ps_cue
+########
+8
+<EOP> .
+########
+9
+After the summit , Li will meet Belgian leaders before wrapping his up his European tour , which started on Wednesday .
+will	5	ps_cue
+########
+10
+<EOP> .
+########
+11
+While the summit will be focusing on investment and trade , the EU said in a background document : `` The second agenda item will focus on global , international and regional issues .
+focusing	5	CT+	CT+
+will	3	ps_cue
+will	24	ps_cue
+########
+12
+This will include climate change and clean energy , in particular in relation to the implementation of the Paris Agreement . ''
+will	1	ps_cue
+########
+13
+<EOP> .
+########
+14
+The media has reported that China and the EU will be making joint declaration on climate change once Trump has announced his decision , expected later today .
+will	9	ps_cue
+expected	24	ps_cue
+########
+15
+<EOP> .
+########
+16
+The EU said the Sino_EU summit will be the first one since the adoption of the new EU strategy on China in July 2016 , which sets out how both sides can take advantage of their cooperation to promote long_term benefits for EU and Chinese citizens .
+will	6	ps_cue
+can	31	ps_cue
+########
+17
+<EOP> .
+########
+18
+`` The first item on the formal agenda is EU_China bilateral relations , with a focus on trade and investment , including the negotiations towards a Comprehensive Investment Agreement , '' the EU said in the document .
+focus	15	CT+	CT+
+########
+19
+<EOP> .
+########
+20
+The EU said that connectivity will also be on the agenda , as leaders are expected to prioritize progress on the EU_China connectivity platform .
+will	5	ps_cue
+expected	15	ps_cue
+########
+21
+The aim is to coordinate on transport policies and to identify projects of common interest between Europe and China , based on transparency and a level playing field .
+########
+22
+<EOP> .
+########

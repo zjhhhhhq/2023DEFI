@@ -1,0 +1,63 @@
+Does drinking more coffee help increase longevity
+0
+Drinking more coffee may help increase longevity : Study <EOP> .
+increase	5	PS+	PS+
+may	3	ps_cue
+########
+1
+2017_07_14 07:06 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+Drinking more coffee could extend people 's life span , as coffee drinkers would have a lower risk of death , especially for heart diseases , cancer and diabetes among others , a new study shows .
+extend	4	PS+	PS+
+could	3	ps_cue
+would	13	ps_cue
+########
+4
+<EOP> .
+########
+5
+Researchers from the International Agency for Research on Cancer and Imperial College London found that an extra cup of coffee every day would lengthen the life of a man by around three months and a woman by around one month on average .
+lengthen	23	PS+	PS+
+would	22	ps_cue
+########
+6
+<EOP> .
+########
+7
+It also shows that people who drank three or more cups of coffee per day would have a lower risk of all_cause death , such as respiratory disease , kidney and liver disease as well as stroke , than those who did not drink coffee .
+or	8	ps_cue
+would	15	ps_cue
+not	42	neg_cue
+########
+8
+<EOP> .
+########
+9
+The research , published in the journal the Annals of Internal Medicine , surveyed more than 520,000 people aged over 35 from 10 European Union countries .
+########
+10
+<EOP> .
+########
+11
+However , skeptics said that it was impossible to validate the relationship between coffee and longevity , because the study had too many variables between coffee drinkers and non_coffee drinkers , such as healthier lifestyles , more spending on healthcare and more effective socializing that benefited people 's wellbeing .
+impossible	7	ps_cue
+impossible	7	neg_cue
+########
+12
+<EOP> .
+########
+13
+Health experts also pointed out that the effects of caffeine vary from person to person .
+########
+14
+Moreover , caffeine can be consumed through not only coffee , but also through other beverages , such as tea and cola , which makes the research weaker to hold water .
+can	3	ps_cue
+not	7	neg_cue
+########
+15
+<EOP> .
+########

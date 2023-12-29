@@ -1,0 +1,70 @@
+Will the subway system be a terrorist target 
+0
+NYC subway system handles close to 6 million people daily <EOP> .
+system	2	CT+	CT+
+########
+1
+2017_12_12 23:39 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+`` Let 's be clear , as New Yorkers , our lives revolve around the subways , '' Mayor Bill de Blasio said on Monday morning after a would_be terrorist set off a `` low_tech '' device in a subway passageway in Midtown Manhattan .
+########
+4
+<EOP> .
+########
+5
+`` When we hear of an attack on the subway , it 's incredibly unsettling and let 's be also clear this was an attempted terrorist attack , '' he said at a news conference .
+########
+6
+<EOP> .
+########
+7
+The suspect , Akayed Ullah , was one of four people injured in the explosion , which occurred at about 7:20 am in a subway passageway near 42nd Street and 8th Avenue , in Midtown Manhattan near Times Square , police said .
+suspect	1	ps_cue
+########
+8
+<EOP> .
+########
+9
+There have long been concerns that the subway system could be a terrorist target .
+system	8	CT+	CT+
+could	9	ps_cue
+########
+10
+Passengers at some stations are subject to random searches of their bags by police , and the subways have had an increase in police presence .
+########
+11
+But the system is a particularly soft target because it has hundreds of stations , and people are closely packed together during morning and evening rush hours .
+system	2	CT+	CT+
+########
+12
+<EOP> .
+########
+13
+Close to 6 million people rode the subways on an average weekday in 2016 , according the Metropolitan Transit Authority LRB MTA RRB , which oversees the system 's operation .
+system	27	CT+	CT+
+########
+14
+Total ridership in 2016 was 1.757 billion .
+########
+15
+<EOP> .
+########
+16
+In October , federal authorities said three men living outside the US planned to attack concerts , Times Square and crowded subways in 2016 in an ISIS_inspired attack that one of the suspects said he hoped would be `` the next 9_11 '' .
+planned	12	ps_cue
+hoped	35	ps_cue
+would	36	ps_cue
+########
+17
+The plot was foiled with the help of an undercover FBI agent , officials said .
+########
+18
+<EOP> .
+########
+19
+aaronhagstrom@chinadailyusa.com <EOP> .
+########

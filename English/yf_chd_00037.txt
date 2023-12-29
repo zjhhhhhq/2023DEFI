@@ -1,0 +1,184 @@
+Does Trump embark on 2nd year 
+0
+Perils abroad , full plate at home as Trump embarks on 2nd year <EOP> .
+embarks	9	CT+	CT+
+########
+1
+2018_01_03 11:53 <EOP> .
+########
+2
+China Daily USA <EOP> .
+########
+3
+PALM BEACH , Fla. _ The glamour of his holiday break behind him , President Donald Trump returned to Washington on Monday to face a hefty legislative to_do list , critical midterm elections and perilous threats abroad .
+########
+4
+<EOP> .
+########
+5
+Trump is starting his second year in office after a lengthy sojourn at his private Palm Beach club , capped by a New Year 's Eve bash .
+starting	2	CT+	CT+
+########
+6
+Before his departure , he fired angry tweets at Iran and Pakistan , slamming Islamabad for `` lies <EOP> .
+########
+7
+& <EOP> .
+########
+8
+deceit '' and saying the country had played US leaders for `` fools , '' a reference to frustrations that Pakistan is n't doing enough to control militants .
+n't	22	neg_cue
+########
+9
+<EOP> .
+########
+10
+Pakistani Foreign Minister Khawaja Asif tweeted that his government was preparing a response that `` will let the world know the truth .
+will	15	ps_cue
+########
+11
+<EOP> .
+########
+12
+Meantime North Korean leader Kim Jong_un said Monday the United States should be aware that his country 's nuclear forces are now a reality , not a future threat .
+should	11	ps_cue
+not	25	neg_cue
+########
+13
+To that , Trump only said : `` We 'll see . ''
+########
+14
+<EOP> .
+########
+15
+The president is hoping for more legislative achievements after his pre_Christmas success on taxes .
+hoping	3	CT+	CT+
+hoping	3	ps_cue
+########
+16
+He plans to host Senate Majority Leader Mitch McConnell of Kentucky and House Speaker Paul Ryan of Wisconsin at Camp David next weekend to map out the 2018 legislative agenda .
+host	3	PS+	CT+
+plans	1	ps_cue
+########
+17
+<EOP> .
+########
+18
+Republicans are eager to make progress before attention shifts to the midterm elections .
+########
+19
+The GOP wants to hold House and Senate majorities in 2018 , but must contend with Trump 's historic unpopularity and some recent Democratic wins .
+wants	2	ps_cue
+########
+20
+<EOP> .
+########
+21
+The president concluded 2017 with his first major legislative achievement _ a law to cut taxes , beginning this year , for corporations and individuals at an estimated cost of $ 1.5 trillion added to the national debt over 10 years .
+concluded	2	CT+	CT+
+########
+22
+The tax overhaul also will end the requirement , in 2019 , that all Americans buy health insurance or pay a fine .
+will	4	ps_cue
+or	18	ps_cue
+########
+23
+That 's a key component of the Obama_era health law that that Republicans have been unable to repeal ; other features of the law remain intact .
+unable	15	neg_cue
+########
+24
+<EOP> .
+########
+25
+The White House has said Trump will come forward with his long_awaited infrastructure plan in January .
+come	7	CT+	CT+
+will	6	ps_cue
+forward	8	ps_cue
+forward	8	neg_cue
+plan	13	ps_cue
+########
+26
+Trump has also said he wants to overhaul welfare and recently predicted Democrats and Republicans will `` eventually come together '' to develop a new health care plan .
+wants	5	CT+	CT+
+wants	5	ps_cue
+predicted	11	ps_cue
+will	15	ps_cue
+plan	27	ps_cue
+########
+27
+<EOP> .
+########
+28
+Ryan has talked about overhauling Medicaid and Medicare and other safety_net programs , but McConnell has signaled an unwillingness to go that route unless there 's Democratic support for any changes .
+########
+29
+Republicans will have just a 51_49 Senate majority _ well shy of the 60 votes needed to pass most bills _ giving leverage to Democrats .
+will	1	ps_cue
+########
+30
+<EOP> .
+########
+31
+Congress also has to deal with a backlog from 2017 .
+########
+32
+It must agree on a spending bill by Jan. 19 to avert a partial government shutdown .
+########
+33
+<EOP> .
+########
+34
+Lawmakers also have unfinished business on additional aid to for hurricane victims , lifting the debt ceiling , extending a children 's health insurance program and extending protections for immigrants brought to the US illegally as children .
+########
+35
+Trump has said he wants money for a border wall in exchange for protecting those immigrants .
+wants	4	CT+	CT+
+wants	4	ps_cue
+########
+36
+<EOP> .
+########
+37
+Trump spent his last day in Florida as he spent most other days _ visiting his golf course and tweeting .
+########
+38
+<EOP> .
+########
+39
+On Pakistan , he said : `` The United States has foolishly given Pakistan more than 33 billion dollars in aid over the last 15 years , and they have given us nothing but lies <EOP> .
+nothing	32	neg_cue
+########
+40
+& <EOP> .
+########
+41
+deceit , thinking of our leaders as fools .
+########
+42
+They give safe haven to the terrorists we hunt in Afghanistan , with little help .
+little	13	neg_cue
+########
+43
+No more ! ''
+No	0	neg_cue
+########
+44
+<EOP> .
+########
+45
+It was not immediately clear why the president decided to comment on Pakistan .
+not	2	neg_cue
+########
+46
+The US has long accused Islamabad of allowing militants to operate relatively freely in Pakistan 's border regions to carry out operations in neighboring Afghanistan .
+########
+47
+In August , the United States said it would hold up $ 255 million in military assistance for Pakistan until it cracks down on extremists threatening Afghanistan .
+would	8	ps_cue
+########
+48
+<EOP> .
+########
+49
+Associated Press <EOP> .
+########

@@ -1,0 +1,74 @@
+Does DPRK test_fire multiple missiles
+0
+DPRK test_fires ` multiple ' missiles : ROK military <EOP> .
+test_fires	1	CT+	CT+
+########
+1
+2017_06_08 07:48 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+The Democratic People 's Republic of Korea LRB DPRK RRB test_fired multiple projectiles believed to be ground_to_ship cruise missiles Thursday morning into its eastern waters , the Republic of Korea 's Joint Chiefs of Staff LRB JCS RRB said .
+test_fired	10	CT+	CT+
+believed	13	ps_cue
+########
+4
+<EOP> .
+########
+5
+The short_range surface_to_ship cruise missiles were launched from the city of Wonsan on DPRK 's east coast in the morning , the JCS said in a statement .
+launched	6	CT+	CT+
+########
+6
+<EOP> .
+########
+7
+The missiles flew about 200 km into the DPRK 'S eastern waters .
+########
+8
+The ROK and the United States were jointly analyzing details on the test_launches .
+########
+9
+<EOP> .
+########
+10
+The ROK militaryhas strengthened surveillance and vigilance in preparation for additional DPRK provocation , while maintaining full defense preparedness , the JCS said .
+########
+11
+<EOP> .
+########
+12
+The DPRK projectiles were not ballistic missiles .
+not	4	neg_cue
+########
+13
+Under UN Security Council resolutions , Pyongyang is banned from testing any ballistic missile technology .
+banned	8	neg_cue
+########
+14
+<EOP> .
+########
+15
+The test_firing by the DPRK came as the US military dispatched nuclear_powered aircraft carriers to waters off the Korean Peninsula .
+test_firing	1	CT+	CT+
+########
+16
+<EOP> .
+########
+17
+The test_launches were immediately reported to ROK President Moon Jae_in right after being detected , according to local media reports .
+test_launches	1	CT+	CT+
+########
+18
+<EOP> .
+########
+19
+Pyongyang has conducted missile test_launches five times since Moon took office on May 10 .
+conducted	2	CT+	CT+
+May	12	ps_cue
+########
+20
+<EOP> .
+########

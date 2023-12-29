@@ -1,0 +1,64 @@
+Does Toronto mark Nanjing Massacre Commemorative Day with memorial 
+0
+Toronto marks Nanjing Massacre Commemorative Day with memorial <EOP> .
+marks	1	CT+	CT+
+########
+1
+2017_12_13 12:17 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+Ontarians from all walks of life marked the 80th anniversary of the Nanjing Massacre in Toronto , Canada the night of Dec 12 , local time , to keep pace with services back in China on National Memorial Day , Dec 13 .
+marked	6	CT+	CT+
+########
+4
+<EOP> .
+########
+5
+The day also marked the fourth National Memorial Day for the victims of the Nanjing Massacre in China with a call for measures to prevent so atrocious a human tragedy from ever happening again .
+prevent	24	neg_cue
+########
+6
+<EOP> .
+########
+7
+On Dec 13 , 1937 , the Japanese army bombed Nanjing and went on a murderous rampage through the city , then China 's capital , killing Chinese residents and disarming soldiers in the following six weeks .
+########
+8
+<EOP> .
+########
+9
+Last month , Wong had proposed the motion to designate Dec 13 as Nanjing Massacre Commemorative Day in the province of Ontario .
+proposed	5	CT+	CT+
+proposed	5	ps_cue
+########
+10
+Jenny Kwan , Member of Parliament of the New Democratic Party , who came all the way from Ottawa to attend the memorial , prepared to call on the Canadian government to proclaim Dec 13 as a national Nanjing Massacre Commemorative Day .
+prepared	24	CT+	CT+
+########
+11
+<EOP> .
+########
+12
+Chinese Consul General He Wei ; Raymond Cho , an Ontario politician and representative of Progressive Conservative leader Patrick Brown ; Soo Wong and Jenny Kwan delivered speeches to help people draw lessons from history and consolidate their commitment to peace and a solid foundation for lasting peace in the world .
+########
+13
+<EOP> .
+########
+14
+Eighty attendees read the Declaration of Peace on_site and sent a peace_loving message to the whole world at the Chinese Cultural Center of Greater Toronto .
+read	2	CT+	CT+
+sent	9	CT+	CT+
+########
+15
+<EOP> .
+########
+16
+Leaders of the Buddhist Association of Canada also prayed for world peace and harmony at the memorial .
+prayed	8	CT+	CT+
+########
+17
+<EOP> .
+########

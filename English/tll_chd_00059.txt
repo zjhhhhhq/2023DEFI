@@ -1,0 +1,18 @@
+Does Queen Elizabeth II attend Derby Day at Epsom Derby festival
+0
+Queen Elizabeth II attends Derby Day at Epsom Derby festival <EOP> .
+attends	3	CT+	CT+
+########
+1
+2017_06_04 14:38 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+Queen Elizabeth II attends Derby Day at Epsom Derby festival in Epsom , Britain on June 3 , 2017 .
+attends	3	CT+	CT+
+########
+4
+LRB Photo_Xinhua RRB <EOP> .
+########

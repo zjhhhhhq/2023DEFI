@@ -1,0 +1,117 @@
+Does Russian President Vladimir Putin greet Foreign Minister Wang Yi
+0
+China ready for more high_level Russia exchanges <EOP> .
+ready	1	ps_cue
+########
+1
+2017_05_27 06:23 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+<EOP> .
+########
+4
+<EOP> .
+########
+5
+<EOP> .
+########
+6
+Russian President Vladimir Putin greets Foreign Minister Wang Yi during a meeting at the Kremlin in Moscow on Thursday .
+greets	4	CT+	CT+ 
+########
+7
+WU ZHUANG_XINHUA <EOP> .
+########
+8
+Beijing is ready to work with Moscow to prepare for high_level exchanges in the near future , as the two countries have always trusted and supported each other , no matter how the international situation changes , Foreign Minister Wang Yi said .
+ready	2	ps_cue
+no	29	neg_cue
+########
+9
+<EOP> .
+########
+10
+Wang made the remark while meeting with Russian President Vladimir Putin on Thursday in the Russian capital .
+meeting	5	CT+	CT+
+########
+11
+<EOP> .
+########
+12
+As part of the good relationship between the two emerging markets , bilateral meetings of leaders have been frequent , including Putin 's meeting with President Xi Jinping earlier this month during a trip to China to attend the Belt and Road Forum for International Cooperation in Beijing .
+########
+13
+<EOP> .
+########
+14
+Wang said Putin made an important contribution to the success of the forum .
+########
+15
+<EOP> .
+########
+16
+Putin told Wang he expects that Xi could visit Russia at an early date , and the bilateral comprehensive strategic partnership of coordination `` is worthy of its name '' .
+expects	4	ps_cue
+could	7	ps_cue
+########
+17
+<EOP> .
+########
+18
+Beijing and Moscow have kept close contact on global issues .
+########
+19
+Their senior diplomats have met recently to discuss the Korean Peninsula nuclear issue and the Syrian situation .
+########
+20
+<EOP> .
+########
+21
+Wang said the two countries should also strengthen strategic cooperation on international affairs , firmly safeguard their strategic interests and jointly promote peaceful settlement of international and regional hot spot issues .
+should	5	ps_cue
+########
+22
+<EOP> .
+########
+23
+Putin said Russia and China should work closely together within multilateral frameworks such as BRICS , the Shanghai Cooperation Organization and the G20 .
+should	5	ps_cue
+########
+24
+He also said the two countries should strengthen international security cooperation , jointly tackle hot spot issues and maintain global strategic stability .
+should	6	ps_cue
+########
+25
+<EOP> .
+########
+26
+Regarding bilateral cooperation , Wang said both sides should act on the guidance of their respective leaders and push for new outcomes of bilateral cooperation on linking the Belt and Road Initiative with the Eurasian Economic Union .
+should	8	ps_cue
+########
+27
+<EOP> .
+########
+28
+Putin said the economic situation in Russia is improving , the departments of both governments should strengthen communication and consultation , and major cooperative projects should be implemented effectively .
+should	15	ps_cue
+should	25	ps_cue
+########
+29
+<EOP> .
+########
+30
+Jiang Yi , an expert on Russian studies at the Chinese Academy of Social Sciences , said the reinforced cooperation has laid a foundation for the lasting development of the bilateral partnership .
+########
+31
+<EOP> .
+########
+32
+Progress in major projects will facilitate economic restructuring of both countries and boost their standing on the global stage , he said .
+will	4	ps_cue
+########
+33
+<EOP> .
+########

@@ -1,0 +1,174 @@
+Is there a Comet 67P
+0
+A European robot probe has made the first , historic landing on a comet , but its status is uncertain after harpoons failed to anchor it to the surface .
+uncertain	19	ps_cue
+failed	22	neg_cue
+########
+1
+<EOP> .
+########
+2
+The `` first '' landing on Comet 67P_Churyumov_Gerasimenko was confirmed at about 1605 GMT .
+########
+3
+<EOP> .
+########
+4
+There were cheers and hugs at the European Space Agency LRB Esa RRB mission control in Darmstadt , Germany , after the signal came through .
+########
+5
+<EOP> .
+########
+6
+Director general Jean_Jacques Dordain described it as `` a great great day , not only for Esa , but ... I think for the world '' .
+not	13	neg_cue
+########
+7
+He described the landing as `` a big step for human civilisation '' .
+########
+8
+<EOP> .
+########
+9
+Further analysis is needed to fully understand the status of the probe , known as Philae .
+########
+10
+<EOP> .
+########
+11
+However , Lander project manager Stephan Ulamec told the BBC that at last radio contact with the probe , he believed it to be in a stable configuration .
+believed	20	ps_cue
+########
+12
+<EOP> .
+########
+13
+`` This is the indication right now , '' he explained .
+indication	4	ps_cue
+########
+14
+`` We really have to wait until tomorrow morning and then we will know a lot more . ''
+will	12	ps_cue
+########
+15
+<EOP> .
+########
+16
+Early data started to come back from instruments , and one team could see that the lander had sunk about 4cm LRB 1.5 inches RRB into the surface , suggesting a relatively soft top layer <EOP> .
+could	12	ps_cue
+########
+17
+But shortly after , engineers could see that the harpoons , designed to fasten the spacecraft to the 4km_wide LRB 2.5 miles RRB ball of ice and dust , had not fired as planned .
+could	5	ps_cue
+not	30	neg_cue
+planned	33	ps_cue
+########
+18
+<EOP> .
+########
+19
+In a later media briefing , Dr Ulamec said : `` What we know is we touched down , we landed at the comet at the time when you all saw us cheering and when it was announced .
+########
+20
+<EOP> .
+########
+21
+`` We had a very clear signal there ; we received data from the landing _ housekeeping and science data .
+########
+22
+That 's the good news . ''
+########
+23
+<EOP> .
+########
+24
+But then Dr Ulamec delivered the `` bad news '' .
+########
+25
+He said telemetry from the craft suggested it might have drifted <EOP> .
+suggested	6	ps_cue
+might	8	ps_cue
+########
+26
+off the surface after landing and started to turn .
+########
+27
+This subsequently came to an end , which the German Space Agency official interpreted as a possible `` second landing '' on Comet 67P .
+67P	23	PS+	PS+
+possible	16	ps_cue
+########
+28
+<EOP> .
+########
+29
+In fact , even later data would indicate that the Philae robot may have bounced twice , taking a full two hours to come to a rest .
+would	6	ps_cue
+indicate	7	ps_cue
+may	12	ps_cue
+########
+30
+<EOP> .
+########
+31
+This bouncing was always a possibility , but had been made more likely by the failure of the harpoons to deploy , and the failure of a thruster intended to push the robot into the surface .
+possibility	5	ps_cue
+likely	12	ps_cue
+failure	15	neg_cue
+failure	24	neg_cue
+intended	28	ps_cue
+########
+32
+<EOP> .
+########
+33
+Pictures from the surface have been retrieved at Earth and are being processed in preparation for release .
+########
+34
+<EOP> .
+########
+35
+But the news about the unanchored state of Philae has cast a shadow over the celebrations .
+########
+36
+<EOP> .
+########
+37
+The mission team must decide if the harpoons can now be commanded to fire without unsteadying the robot still further .
+can	8	ps_cue
+without	14	neg_cue
+########
+38
+<EOP> .
+########
+39
+What is clear is that Philae touched down very close to the targeted zone on the head of the rubber_duck_shaped comet .
+########
+40
+<EOP> .
+########
+41
+If Philae remains stable and can be properly secured , it will engage in several months of science experiments on 67P .
+If	0	Uu	PS+
+67P	20	CT+	PS+
+can	5	ps_cue
+will	11	ps_cue
+########
+42
+<EOP> .
+########
+43
+It will take pictures of the cometscape and analyse the surface chemical composition .
+will	1	ps_cue
+########
+44
+<EOP> .
+########
+45
+Scientists are hoping 67P 's surface materials will hold fresh insights into the origins of our Solar System more than 4.5 billion years ago .
+67P	3	PS+	PS+
+hoping	2	ps_cue
+will	7	ps_cue
+########
+46
+<EOP> .
+########

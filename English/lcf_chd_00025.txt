@@ -1,0 +1,44 @@
+Does freight train from China come to Bratislava 
+0
+Freight train from China coming to Bratislava after one year break <EOP> .
+coming	4	CT+	CT+
+########
+1
+2017_10_28 15:48 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+BRATISLAVA _ Expected to arrive with containers in two weeks , the first Chinese freight train to Bratislava has left its homeport in Dalian , Slovak Transport and Construction Minister Arpad Ersek announced Friday .
+arrive	4	PS+	CT+
+Expected	2	ps_cue
+########
+4
+<EOP> .
+########
+5
+The trial train from China is the first ever whose route will cross almost the whole of Slovak territory , Ersek said , adding that rail freight transport from China to Slovakia has been resumed after a break of over one year .
+will	11	ps_cue
+########
+6
+<EOP> .
+########
+7
+`` Transport of containers to Slovakia means significant headway in rail freight transport in Slovakia .
+########
+8
+It 's chiefly about saving time , and it also opens up new trading opportunities , '' said Ersek , who views it as an opportunity for further developing cooperation with Chinese , Ukrainian and Russian partners .
+opportunities	14	ps_cue
+########
+9
+<EOP> .
+########
+10
+The Chinese Communications and Transportation Association estimates that around 500 trains will run from China to Europe via Slovakia in 2018 , according to Ersek .
+run	12	CT+	CT+
+will	11	ps_cue
+########
+11
+<EOP> .
+########

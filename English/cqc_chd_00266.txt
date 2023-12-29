@@ -1,0 +1,55 @@
+Does France order recall of infant formula products 
+0
+France orders recall of infant formula possibly contaminated by salmonella <EOP> .
+formula	5	PS+	PS+
+possibly	6	ps_cue
+########
+1
+2017_12_04 10:22 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+PARIS _ French health authorities on Saturday ordered the recall of infant formula products that were possibly contaminated by salmonella , while 20 babies aged under six months have been infected by salmonella in eight different regions of France .
+formula	12	PS+	PS+
+possibly	16	ps_cue
+########
+4
+<EOP> .
+########
+5
+The Public Health Agency of France and the General Direction for Competition , Consumer Affairs and Fraud Control LRB DGCCRF RRB in an urgent press release have asked parents not to use 12 batches of Lait Picot SL lactose free LRB first age 350g RRB , Pepti Junior lactose free LRB first age 460g RRB , and Milumel Bio without palm oil LRB first age 900g RRB .
+not	29	neg_cue
+without	59	neg_cue
+########
+6
+The details of the batches concerned are available on the health ministry 's website .
+########
+7
+<EOP> .
+########
+8
+Parents should contact their pediatrician or doctor for advice on a replacement milk product , especially for babies who are allergic to milk proteins .
+should	1	ps_cue
+or	5	ps_cue
+########
+9
+In the meantime , they can go to the pharmacy where a replacement infant formula will be suggested to them , according to French health authorities .
+formula	14	CT+	PS+
+can	5	ps_cue
+will	15	ps_cue
+suggested	17	ps_cue
+########
+10
+<EOP> .
+########
+11
+Salmonella infections occur within 3 days of ingestion , and cause gastroenteritis with vomiting , diarrhea sometimes bloody , and febrile in most cases , the health authorities said .
+########
+12
+Parents are urged to take their infants to seek medical attention in case of appearance of these signs .
+########
+13
+<EOP> .
+########

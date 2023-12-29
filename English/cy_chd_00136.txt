@@ -1,0 +1,101 @@
+Does death toll from Philippine tropical storm Tembin rise to 200
+0
+Death toll from Philippine tropical storm Tembin rises to 200 : police <EOP> .
+Death	0	CT+	CT+
+########
+1
+2017_12_24 02:48 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+MANILA __ The death toll from mudslides and flooding triggered by tropical storm Tembin has risen to 200 , police said here late Saturday night .
+death	3	CT+	CT+
+########
+4
+<EOP> .
+########
+5
+Tembin has also left dozens of others missing as it has been pounding the southern Philippines and dumping torrential rains in its way since early Friday .
+missing	7	neg_cue
+########
+6
+<EOP> .
+########
+7
+In a report , Superintendent Lemuel Gonda of the provincial Philippine National Police LRB PNP RRB said 135 people have died in Northern Mindanao and 47 in Zamboanga Peninsula during the storm .
+died	20	CT+	CT+
+########
+8
+<EOP> .
+########
+9
+Assemblyman Zia Alonto Adiong of the Autonomous Region in Muslim Mindanao LRB ARMM RRB said 18 people were also killed in the ARMM region .
+killed	19	CT+	CT+
+########
+10
+<EOP> .
+########
+11
+Of the 135 killed in Northern Mindanao , 127 people were from Lanao del Norte , six from Bukidnon , one from Iligan , and one from Misamis Occidental .
+killed	3	CT+	CT+
+########
+12
+About 72 others are still missing , the police said .
+missing	5	neg_cue
+########
+13
+<EOP> .
+########
+14
+The National Disaster Risk Reduction and Management Council LRB NDRRMC RRB is still culling reports from the storm_ravaged region .
+########
+15
+<EOP> .
+########
+16
+NDRRNC spokeswoman Romina Marasigan earlier said that the agency has received unofficial reports of 75 people who have died and 58 people missing in the region .
+died	18	CT+	CT+
+missing	22	neg_cue
+########
+17
+<EOP> .
+########
+18
+`` These are consolidated reports but these are subject to validation , '' Marasigan said .
+########
+19
+<EOP> .
+########
+20
+In its latest forecast , the state weather bureau Pagasa said that severe tropical storm Tembin made a landfall in Baalbac , Palawan Saturday night .
+forecast	3	ps_cue
+########
+21
+It warned that the storm `` may intently turn into a typhoon before exiting the Philippines '' on Sunday .
+may	6	ps_cue
+########
+22
+<EOP> .
+########
+23
+`` Scattered to widespread , moderate to heavy rains will prevail over Palawan , while scattered light to moderate with at times of heavy rains are expected over the western section of Visayas and Mindanao within 24 hours , '' the bureau said .
+will	9	ps_cue
+expected	26	ps_cue
+########
+24
+<EOP> .
+########
+25
+The bureau also warned more flooding and landslides , and reiterated that sea travels remains risky .
+########
+26
+<EOP> .
+########
+27
+Tembin battered the southern Philippine island of Mindanao on Friday , triggering floods and mudslides in the region .
+########
+28
+<EOP> .
+########

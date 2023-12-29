@@ -1,0 +1,84 @@
+Does Iran acquire a nuclear weapon
+0
+Trump , May discuss ways to deny Iran nuclear weapon : White House <EOP> .
+weapon	9	PS-	PS-
+May	2	ps_cue
+deny	6	neg_cue
+########
+1
+2017_10_11 14:17 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+WASHINGTON _ US President Donald Trump on Tuesday spoke by phone with British Prime Minister Theresa May to address ways to block all means for Iran to acquire a nuclear weapon , according to the White House .
+weapon	30	CT-	PS-
+May	16	ps_cue
+block	21	neg_cue
+########
+4
+<EOP> .
+########
+5
+`` President Trump underscored the need to work together to hold the Iranian regime accountable for its malign and destabilizing activities , especially its sponsorship of terrorism and its development of threatening missiles , '' said the White House in a statement .
+need	5	ps_cue
+########
+6
+<EOP> .
+########
+7
+Trump was expected to announce later this week an overall Iran strategy , including whether his administration will decertify Iran 's compliance with the landmark Iran nuclear deal reached in 2015 .
+strategy	11	PS+	PS-
+expected	2	ps_cue
+whether	14	ps_cue
+will	17	ps_cue
+########
+8
+<EOP> .
+########
+9
+Multiple media reports had said Trump was expected to decertify Iran 's compliance , a move that could lead to the potential collapse of the agreement , which was reached between Iran and the six world powers of Britain , China , France , Russia and the United States plus Germany in July 2015 .
+expected	7	ps_cue
+could	17	ps_cue
+potential	21	ps_cue
+########
+10
+<EOP> .
+########
+11
+The deal , officially known as the Joint Comprehensive Plan of Action , has helped defuse Iran 's nuclear crisis and bolstered the international non_proliferation regime .
+########
+12
+<EOP> .
+########
+13
+Trump has long criticized the Iranian nuclear pact .
+pact	7	CT-	PS-
+criticized	3	neg_cue
+########
+14
+In his speech delivered at the United Nations LRB UN RRB General Assembly last month , Trump called the agreement `` an embarrassment '' for the United States .
+########
+15
+<EOP> .
+########
+16
+The Trump administration is due to inform the Congress by Oct 15 whether Tehran is complying with the deal .
+whether	12	ps_cue
+########
+17
+If it decides Tehran is not , it could open the way for US lawmakers to reimpose sanctions against Iran .
+not	5	neg_cue
+could	8	ps_cue
+against	18	neg_cue
+########
+18
+<EOP> .
+########
+19
+Last month , the International Atomic Energy Agency , a UN nuclear watchdog , said that Iran was playing by the rules set out in the nuclear accord .
+########
+20
+<EOP> .
+########

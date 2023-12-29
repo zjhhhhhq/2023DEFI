@@ -1,0 +1,135 @@
+Will cooperation expand further on Belt, Road
+0
+New energy anticipated following president 's trip <EOP> .
+########
+1
+2017_06_08 07:32 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+<EOP> .
+########
+4
+<EOP> .
+########
+5
+<EOP> .
+########
+6
+<EOP> .
+########
+7
+Shakhrat Nuryshev , Kazakh ambassador to China <EOP> .
+########
+8
+Ambassador expects cooperation will expand further on Belt , Road <EOP> .
+expand	4	CT+	CT+
+expects	1	ps_cue
+will	3	ps_cue
+########
+9
+President Xi Jinping 's state visit to Kazakhstan will inject new energy in the further development of Sino_Kazakh relations , a diplomat from the Central Asian country said .
+will	8	ps_cue
+########
+10
+<EOP> .
+########
+11
+Shakhrat Nuryshev , the Kazakh ambassador to China , said Xi will meet with Kazakh President Nursultan Nazarbayev and exchange opinions over issues under bilateral and multilateral cooperation .
+will	11	ps_cue
+########
+12
+<EOP> .
+########
+13
+`` The two leaders will discuss further cooperation in the fields of trade , cross_border transportation , energy , investment , production capacity , innovation , technology and culture , '' the ambassador said .
+further	6	CT+	CT+
+will	4	ps_cue
+########
+14
+<EOP> .
+########
+15
+He said China and Kazakhstan have close political links , as the two countries are a permanent member and a nonpermanent member of the United Nations Security Council , and China is now taking up the presidency of the Conference on Interaction and Confidence_Building Measures in Asia , which was initiated by Kazakhstan .
+########
+16
+<EOP> .
+########
+17
+`` China will also take over the presidency of the Shanghai Cooperation Organization after the coming summit in Astana , '' he said , adding that the agreements signed during the summit will enhance relations between the two countries , as well .
+enhance	33	CT+	CT+
+will	2	ps_cue
+will	32	ps_cue
+########
+18
+<EOP> .
+########
+19
+In an exclusive interview with China Daily , Nuryshev said China is one of the most important neighbors to have established a pragmatic and constructive dialogue since Kazakhstan gained independence in 1991 .
+########
+20
+<EOP> .
+########
+21
+The two countries celebrated the 25th anniversary of diplomatic relations on Jan 3 , and both leaders agreed that relations between China and Kazakhstan have reached their highest level ever , and the bilateral cooperation acts as a model to show_case , Nuryshev said .
+########
+22
+<EOP> .
+########
+23
+Nuryshev said Kazakhstan can play a key role in the Belt and Road Initiative , which was proposed by China , as it has an important strategic Eurasian geographic location .
+can	3	ps_cue
+proposed	17	ps_cue
+########
+24
+Further , its vast territory makes the country a key bridge between Europe and Asia .
+########
+25
+<EOP> .
+########
+26
+He said the cooperation continues to expand and bilateral trade increased this year while cultural cooperation is actively expanding .
+expand	6	CT+	CT+
+########
+27
+<EOP> .
+########
+28
+The Astana World Expo 2017 in the Kazakh capital opens on Saturday , and over 500 Chinese enterprises from over 24 provinces , autonomous regions or provincial level cities are expected to participate , according to the China Council for the Promotion of International Trade .
+or	25	ps_cue
+expected	30	ps_cue
+########
+29
+<EOP> .
+########
+30
+The Kazakh expo organizers declared this past Monday as China National Pavilion Day .
+########
+31
+The China pavilion hosted various activities , such as a forum about China_Kazakh energy and tourism cooperation , an exhibition of Terracotta Warriors and many other cultural and commercial events .
+########
+32
+<EOP> .
+########
+33
+Nuryshev said the Expo organization , along with the Kazakhstan Embassy to China and Chinese authorities have worked together to ensure the participating Chinese governments and companies have no problems .
+no	28	neg_cue
+########
+34
+<EOP> .
+########
+35
+`` I hope by hosting the Astana World Expo 2017 , Kazakhstan can become better understood by different regions in China , and then can establish direct contact with each other , '' Nuryshev said .
+hope	2	ps_cue
+can	12	ps_cue
+can	24	ps_cue
+########
+36
+`` And by introducing the green technology from China and having more tourists , the comprehensive strategic part_ner relationship of China and Kazakhstan will continue strengthening . ''
+will	23	ps_cue
+########
+37
+<EOP> .
+########

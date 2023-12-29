@@ -1,0 +1,125 @@
+Did Brazil 's President Michel Temer vow Monday to `` unite '' the country
+0
+Temer vows to unite Brazil as Lula 's supporters set to march <EOP> .
+########
+1
+2017_08_08 09:22 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+<EOP> .
+########
+4
+Brazil 's President Michel Temer speaks during a ceremony in Sao Paulo , Brazil August 7 , 2017 .
+########
+5
+LRB Photo_Agencies RRB <EOP> .
+########
+6
+RIO DE JANEIRO _ Brazil 's President Michel Temer vowed Monday to `` unite '' the country and called the division caused by the country 's political crisis `` unacceptable . ''
+unite	13	CT+	CT+
+unacceptable	29	neg_cue
+########
+7
+<EOP> .
+########
+8
+`` It is unacceptable that Brazilians go up against Brazilians .
+unacceptable	3	neg_cue
+against	8	neg_cue
+########
+9
+We must unite Brazil , '' said Temer in a speech in Sao Paulo .
+unite	2	CT+	CT+
+########
+10
+<EOP> .
+########
+11
+Temer survived a vote by the Chamber of Deputies , which exonerated him of corruption charges , but criticized the `` excess of emotions '' that has seen government and opposition supporters clash on the streets and online .
+criticized	18	neg_cue
+opposition	30	neg_cue
+########
+12
+<EOP> .
+########
+13
+He praised the mayor of Sao Paulo , Joao Doria , who is seen as a potential presidential candidate , for seeking solutions .
+potential	16	ps_cue
+seeking	21	ps_cue
+########
+14
+<EOP> .
+########
+15
+`` We need solutions .
+need	2	ps_cue
+########
+16
+I see that Doria works with conciliation , always adding and joining , '' he said .
+########
+17
+`` Doria understands the problems of the country like nobody .
+like	8	ps_cue
+########
+18
+His vision is not local , it is also national . ''
+not	3	neg_cue
+########
+19
+<EOP> .
+########
+20
+However , the Workers ' Party LRB PT RRB seemed very likely to continue its vociferous opposition to Temer .
+seemed	9	ps_cue
+likely	11	ps_cue
+opposition	16	neg_cue
+########
+21
+The country has seen a slew of new membership applications in July , despite a corruption conviction for its figurehead , former president Luiz Inacio Lula da Silva , which saw him condemned to 9.5 years in prison .
+condemned	32	neg_cue
+########
+22
+<EOP> .
+########
+23
+Remaining free while appealing his case , Lula and the PT are preparing for a recruitment drive in the northeast of Brazil .
+########
+24
+In July , the party has said it signed up 5,141 new members .
+########
+25
+<EOP> .
+########
+26
+The Globo television network revealed Monday that Lula will personally sign the membership cards of new members in the states of Pernambuco and Paraiba .
+will	8	ps_cue
+########
+27
+<EOP> .
+########
+28
+Lula is adamant that he will run for election in 2018 even though his sentence bars him from public office .
+will	5	ps_cue
+########
+29
+Seen as a strong Plan B by the party , the former mayor of Sao Paulo , Fernando Haddad , will accompany the trip .
+will	20	ps_cue
+########
+30
+<EOP> .
+########
+31
+<EOP> .
+########
+32
+<EOP> .
+########
+33
+The poorer northeast of Brazil has always been a strong base of support for Lula and the PT , with the former president having been born in Pernambuco .
+########
+34
+<EOP> .
+########

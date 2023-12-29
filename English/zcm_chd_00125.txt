@@ -1,0 +1,91 @@
+Will Mexico pay for a border wall
+0
+Phone transcript reveals Trump pressured Mexican leader on border wall payment <EOP> .
+########
+1
+2017_08_04 09:44 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+<EOP> .
+########
+4
+A general view shows a newly built section of the US_Mexico border wall at Sunland Park , US opposite the Mexican border city of Ciudad Juarez , Mexico , Nov 9 , 2016 .
+########
+5
+LRB Photo_Agencies RRB <EOP> .
+########
+6
+WASHINGTON _ Newly released transcripts showed that US President Donald Trump pressured his Mexican counterpart in a call to stop saying that Mexico will not pay for a border wall .
+pay	25	CT-	CT+
+stop	19	neg_cue
+will	23	ps_cue
+not	24	neg_cue
+########
+7
+<EOP> .
+########
+8
+`` You can not say that to the press , '' Trump told Mexican President Enrique Pena Nieto in a phone call back in January , according to a transcript of the call obtained by the Washington Post and releaded on Thursday .
+can	2	ps_cue
+not	3	neg_cue
+########
+9
+<EOP> .
+########
+10
+`` If you are going to say that Mexico is not going to pay for the wall , then I do not want to meet with you guys anymore because I can not live with that , '' said Trump .
+pay	13	Uu	CT+
+not	10	neg_cue
+not	21	neg_cue
+can	31	ps_cue
+not	32	neg_cue
+########
+11
+<EOP> .
+########
+12
+According to the transcript , Trump admitted to Nieto that both men `` have a political problem '' as to who should pay for the border wall repeatedly proposed by Trump on the campaign trail .
+should	21	ps_cue
+proposed	28	ps_cue
+########
+13
+<EOP> .
+########
+14
+`` My people stand up and say , ` Mexico will pay for the wall , ' and your people probably say something in a similar but slightly different language , '' Trump told Nieto .
+pay	11	CT+	CT+
+will	10	ps_cue
+probably	20	ps_cue
+########
+15
+<EOP> .
+########
+16
+`` I have to have Mexico pay for the wall .
+pay	6	CT+	CT+
+########
+17
+I have to .
+########
+18
+I have been talking about it for a two_year period , '' Trump said then .
+########
+19
+<EOP> .
+########
+20
+The establishment of a border wall along US_Mexican border was a crucial campaign promise the Trump administration has been scrambling to keep .
+########
+21
+<EOP> .
+########
+22
+The border wall , aimed at preventing illegal immigrants entering the United States , is a major issue of contention between the United States and Mexico since Trump claimed on the campaign trail that Mexico would pay for the border wall .
+would	35	ps_cue
+########
+23
+<EOP> .
+########

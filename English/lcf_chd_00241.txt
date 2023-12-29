@@ -1,0 +1,160 @@
+Does Theresa May 's government delay opening of Parliament and EU talks
+0
+Theresa May 's government delays opening of Parliament and EU talks <EOP> .
+May	1	ps_cue
+########
+1
+2017_06_13 00:04 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+British Prime Minister Theresa May appears to be on the verge of delaying the opening of Parliament as she continues to struggle to create a loose coalition with the Northern Irish Democratic Unionist Party and redesign a government program that will be likely to receive enough votes from members of Parliament .
+delaying	12	PS+	PS+
+appears	5	ps_cue
+May	4	ps_cue
+delaying	12	neg_cue
+will	40	ps_cue
+likely	42	ps_cue
+########
+4
+<EOP> .
+########
+5
+<EOP> .
+########
+6
+<EOP> .
+########
+7
+<EOP> .
+########
+8
+Britain 's Prime Minister Theresa May sits next to Britain 's Foreign Secretary Boris Johnson as she holds the first Cabinet meeting following the general election at 10 Downing Street , in London June 12 , 2017 .
+May	5	ps_cue
+########
+9
+<EOP> .
+########
+10
+LRB Photo_Agencies RRB <EOP> .
+########
+11
+Government spokespeople briefed reporters about the possible delay to the Queen 's Speech _ the moment Parliament is resumed and the government sets out its intentions _ by pointing out that it is written on paper made from goats ' skin , and therefore takes several days to dry .
+delay	7	PS+	PS+
+possible	6	ps_cue
+########
+12
+<EOP> .
+########
+13
+A more likely reason for the anticipated delay is that the government will need to rethink its program from scratch and persuade the DUP MPs to agree to it before May 's government can allow Parliament to vote on it .
+likely	2	ps_cue
+will	12	ps_cue
+need	13	ps_cue
+May	30	ps_cue
+can	33	ps_cue
+########
+14
+<EOP> .
+########
+15
+Questions were also raised about the wisdom of including the DUP in any government of the United Kingdom because such a move would damage Downing Street 's ability to be a neutral referee in Northern Ireland , something that was stipulated in the Good Friday Agreement of 1998 that led to power_sharing in the province .
+would	22	ps_cue
+########
+16
+<EOP> .
+########
+17
+Gerry Adams , the leader of Sinn Fein , which shares power with the DUP in Northern Ireland , said the party would oppose the DUP having a role in the central government .
+would	22	ps_cue
+oppose	23	neg_cue
+########
+18
+<EOP> .
+########
+19
+`` Any deal which undercuts the process here , or the Good Friday and other agreements is one that has to be opposed by progressives , '' he said .
+or	9	ps_cue
+opposed	22	neg_cue
+########
+20
+<EOP> .
+########
+21
+The state opening of Parliament was scheduled for June 19 .
+scheduled	6	ps_cue
+########
+22
+The Queen , who opens Parliament , had already cancelled engagements to accommodate the date and faces the prospect of having to miss one of her great passions , horse racing at Ascot .
+miss	22	neg_cue
+########
+23
+There was no official confirmation of the postponement by Monday evening .
+no	2	neg_cue
+########
+24
+<EOP> .
+########
+25
+Negotiations with the European Union were also scheduled to begin on June 19 but the minister for the UK 's departure from the EU , David Davies , said they too may be postponed .
+scheduled	7	ps_cue
+may	31	ps_cue
+postponed	33	neg_cue
+########
+26
+<EOP> .
+########
+27
+May called a general election when opinion polls suggested the Conservative Party was almost 20 percent ahead of the opposition Labour Party .
+May	0	ps_cue
+suggested	8	ps_cue
+opposition	19	neg_cue
+########
+28
+That lead was whittled down as the prime minister failed to convince voters she was the right person to lead the country .
+failed	9	neg_cue
+########
+29
+<EOP> .
+########
+30
+The Conservatives won 318 seats to Labour 's 262 , which left them short of an overall majority and weaker than they were before May called the snap election .
+May	24	ps_cue
+########
+31
+<EOP> .
+########
+32
+It was widely expected that May would not allow Philip Hammond to continue as chancellor of the exchequerin the new government but she seems to have had no choice but keep him in the post .
+expected	3	ps_cue
+May	5	ps_cue
+would	6	ps_cue
+not	7	neg_cue
+seems	23	ps_cue
+no	27	neg_cue
+########
+33
+Other senior figures , such as Boris Johnson , the foreign secretary , and Amber Rudd , the home secretary , also kept their jobs .
+########
+34
+<EOP> .
+########
+35
+May also appointed Michael Gove , who she fired last year when she became prime minister .
+May	0	ps_cue
+########
+36
+He will be the new minister for the environment .
+will	1	ps_cue
+########
+37
+<EOP> .
+########
+38
+<EOP> .
+########
+39
+<EOP> .
+########

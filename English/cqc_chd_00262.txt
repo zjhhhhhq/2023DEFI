@@ -1,0 +1,156 @@
+Does the Bank of England consider raising requirements
+0
+Bank of England considered bigger increase to banks ' risk buffer last week <EOP> .
+increase	5	PS+	PS+
+considered	3	ps_cue
+########
+1
+2017_12_05 19:05 <EOP> .
+########
+2
+Agencies <EOP> .
+########
+3
+<EOP> .
+########
+4
+Pedestrians walk past the Bank of England in the City of London , Britain , May 15 , 2014 .
+May	15	ps_cue
+########
+5
+LRB Photo_Agencies RRB <EOP> .
+########
+6
+<EOP> .
+########
+7
+LONDON _ The Bank of England considered raising banks ' capital requirements last week by more than it had previously signalled to tackle risks to the financial system including those from Brexit , the BoE said on Tuesday .
+raising	7	PS+	PS+
+considered	6	ps_cue
+########
+8
+<EOP> .
+########
+9
+Britain 's banks have had to triple the capital they hold as a cushion against potential losses since the 2007_09 financial crisis which plunged the country into a recession , and the BoE is keen to ensure they are well_protected against future risks .
+against	14	neg_cue
+potential	15	ps_cue
+against	40	neg_cue
+########
+10
+<EOP> .
+########
+11
+Last week the BoE increased British banks ' counter_cyclical capital buffer to 1 percent from 0.5 percent .
+########
+12
+<EOP> .
+########
+13
+That was in line with a previous plan which aimed to ensure banks had enough capital at what the BoE sees as the mid_point of a lending cycle .
+plan	7	ps_cue
+########
+14
+<EOP> .
+########
+15
+However , a record of the BoE Financial Policy Committee 's meetings running up to the decision showed that they considered raising it higher .
+raising	21	PS+	PS+
+considered	20	ps_cue
+########
+16
+<EOP> .
+########
+17
+Annual stress tests of British banks last week showed that they could cope with a `` disorderly '' Brexit _ but not if it coincided with a deep global recession and further significant fines for financial misconduct .
+could	11	ps_cue
+not	21	neg_cue
+########
+18
+<EOP> .
+########
+19
+`` There were clear benefits to requiring banks to maintain additional capital , '' the BoE said , summing up the case for raising the risk buffer above 1 percent .
+########
+20
+<EOP> .
+########
+21
+`` On the other hand , the likelihood of a disorderly Brexit occurring in combination with both a severe global recession and very substantial additional conduct costs could be seen as extremely remote , '' the BoE said .
+likelihood	7	ps_cue
+could	27	ps_cue
+########
+22
+<EOP> .
+########
+23
+The central bank was also concerned that going against previous guidance that it would increase the CCyB only to 1 percent in November would surprise banks and financial markets .
+against	8	neg_cue
+would	13	ps_cue
+would	23	ps_cue
+########
+24
+<EOP> .
+########
+25
+`` This could undermine the effectiveness of future communications , '' the BoE said .
+could	2	ps_cue
+########
+26
+<EOP> .
+########
+27
+It reiterated that it would look again at the level of the CCyB in the first half of 2018 .
+would	4	ps_cue
+########
+28
+The buffer is intended to rise and fall over the course of the credit cycle , to ensure that banks do not over_lend during a boom and do not need to cut lending excessively in a downturn .
+intended	3	ps_cue
+not	21	neg_cue
+not	28	neg_cue
+need	29	ps_cue
+########
+29
+<EOP> .
+########
+30
+The BoE had warned of the potential costs of Brexit before the June 2016 referendum , drawing ire from Brexit supporters who said Governor Mark Carney was politicising the central bank .
+potential	6	ps_cue
+########
+31
+The BoE says its mandate requires it to talk about where it sees economic risks .
+########
+32
+<EOP> .
+########
+33
+The BoE also said on Tuesday that it had warned England 's High Court earlier this year to be ready for a rush of legal applications from insurers seeking to change millions of contracts ahead of Brexit .
+ready	19	ps_cue
+seeking	28	ps_cue
+########
+34
+<EOP> .
+########
+35
+The BoE said early estimates suggested that British policyholders held contracts worth at least 20 billion pounds with European insurers , while Europeans held 40 billion pounds of cover with British firms .
+suggested	5	ps_cue
+########
+36
+<EOP> .
+########
+37
+The BoE has previously said new legislation would be the best way to handle existing cross_border insurance contracts over the Brexit period .
+would	7	ps_cue
+########
+38
+<EOP> .
+########
+39
+<EOP> .
+########
+40
+<EOP> .
+########
+41
+<EOP> .
+########

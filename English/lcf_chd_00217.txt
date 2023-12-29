@@ -1,0 +1,61 @@
+Does the gunmen flee without causing any injuries
+0
+German school evacuated after gunmen seen in ground <EOP> .
+########
+1
+2017_07_18 09:05 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+BERLIN _ Police in southwestern Germany launched a manhunt Monday after a teenager entered a vocational school in the town of Esslingen reportedly armed with a gun and later fled without causing any injuries , DPA reported .
+causing	31	CT-	CT-
+without	30	neg_cue
+########
+4
+<EOP> .
+########
+5
+The suspect , who did not fire his gun , was only briefly in the Friedrich_Ebert School and later fled on a motorcycle , Reutlingen police LRB Polizei Reutlingen RRB said on Twitter .
+suspect	1	ps_cue
+not	5	neg_cue
+########
+6
+<EOP> .
+########
+7
+After receiving calls from students , the police locked down and searched the school , finding nothing suspicious .
+nothing	16	neg_cue
+suspicious	17	ps_cue
+########
+8
+<EOP> .
+########
+9
+Police described the suspect as `` male , aged 17_19 , 170_180 cm tall , bearded , darker skin '' on Twitter .
+suspect	3	ps_cue
+########
+10
+<EOP> .
+########
+11
+Other nearby schools and kindergartens were also locked down , but police eventually said there was no more threat at school and all the students were able to go home .
+threat	18	CT-	CT-
+no	16	neg_cue
+########
+12
+<EOP> .
+########
+13
+Local and federal police have blocked some of the streets in Esslingen and deployed helicopters to help hunt the suspect .
+blocked	5	neg_cue
+suspect	19	ps_cue
+########
+14
+Police said on Twitter the manhunt will continue .
+will	6	ps_cue
+########
+15
+<EOP> .
+########

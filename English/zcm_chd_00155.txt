@@ -1,0 +1,71 @@
+Did the US missile destroyer trespass China 's territorial waters off the Xisha Islands 
+0
+US missile destroyer trespassing territorial waters ` serious provocation ' : China <EOP> .
+########
+1
+2017_07_03 06:41 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+BEIJING __ China said on Sunday that the US missile destroyer trespassing China 's territorial waters off the Xisha Islands was `` serious political and military provocation . ''
+trespassing	11	CT-	CT-
+########
+4
+<EOP> .
+########
+5
+Foreign Ministry spokesperson Lu Kang said in a statement released on Sunday night that China dispatched military vessels and fighter planes in response to warn off the US vessel .
+########
+6
+<EOP> .
+########
+7
+Earlier Sunday , the missile destroyer USS Stethem trespassed China 's territorial waters off the Xisha Islands .
+trespassed	8	CT+	CT-
+########
+8
+<EOP> .
+########
+9
+The Xisha Islands are an inherent part of the Chinese territory , Lu said , noting that in accordance with the Law of the People 's Republic of China on the Territorial Sea and the Contiguous Zone , the Chinese government promulgated the baseline of the territorial sea off the Xisha Islands in 1996 .
+########
+10
+<EOP> .
+########
+11
+`` The relevant Chinese law has explicit provisions on foreign military vessels ' entry into the territorial sea of China , '' Lu said .
+########
+12
+<EOP> .
+########
+13
+Under the pretext of `` navigation freedom , '' the US side once again sent a military vessel into China 's territorial waters off the Xisha Islands without China 's approval , Lu said , stressing that its behavior has violated the Chinese law and relevant international law , infringed upon China 's sovereignty , disrupted peace , security and order of the relevant waters and put in jeopardy the facilities and personnel on the Chinese islands .
+without	27	neg_cue
+########
+14
+<EOP> .
+########
+15
+The behavior constitutes a serious political and military provocation , Lu said , stressing that the Chinese side is strongly dissatisfied with and firmly opposed it .
+behavior	1	CT-	CT-
+opposed	24	neg_cue
+########
+16
+<EOP> .
+########
+17
+Working together , China and ASEAN member states have cooled down and improved the situation in the South China Sea , according to Lu , noting that the United States , who deliberately stirs up troubles in the South China Sea , is running in the opposite direction from countries in the region who aspire for stability , cooperation and development .
+########
+18
+<EOP> .
+########
+19
+`` The Chinese side strongly urges the US side to immediately stop such kind of provocative operations that violate China 's sovereignty and threaten China 's security , '' the spokesman stressed , saying the Chinese side will continue to take all necessary means to defend national sovereignty and security .
+stop	11	neg_cue
+will	37	ps_cue
+########
+20
+<EOP> .
+########

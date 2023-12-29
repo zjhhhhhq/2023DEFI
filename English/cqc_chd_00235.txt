@@ -1,0 +1,127 @@
+Will China solve the peninsula 's nuclear issue 
+0
+Amid drill , DPRK event passes with no hostilities <EOP> .
+hostilities	8	CT-	CT-
+no	7	neg_cue
+########
+1
+2017_04_26 06:48 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+<EOP> .
+########
+4
+The Democratic People 's Republic of Korea soldiers salute bronze statues LRB not pictured RRB of DPRK 's late founder Kim Il_sung and late leader Kim Jong Il at Mansudae in Pyongyang , in this photo released by Kyodo April 25 , 2017 , to mark the 85th anniversary of the founding of the Korean People 's Army .
+not	12	neg_cue
+########
+5
+LRB Photo_Kyodo via REUTERS RRB <EOP> .
+########
+6
+Pyongyang marked a key military anniversary on Tuesday with a major artillery drill after Seoul announced joint naval exercises with a US aircraft carrier group this weekend .
+########
+7
+<EOP> .
+########
+8
+Speculation has been mounting that Pyongyang would carry out a sixth nuclear test or another missile launch on Tuesday to mark 85 years since the founding of its army .
+would	6	ps_cue
+or	13	ps_cue
+########
+9
+<EOP> .
+########
+10
+The Republic of Korea 's Yonhap News Agency cited an unnamed government source as saying the Democratic People 's Republic of Korea marked the anniversary with its `` largest ever live artillery drill '' , carried out in the eastern port city of Wonsan and presumed to have been overseen by leader Kim Jong_un .
+########
+11
+<EOP> .
+########
+12
+US President Donald Trump said on Monday that the United Nations Security Council must be ready to impose tougher sanctions on the DPRK over its nuclear and missile programs , calling the status quo `` unacceptable '' .
+ready	15	ps_cue
+unacceptable	35	neg_cue
+########
+13
+<EOP> .
+########
+14
+`` This is a real threat to the world , '' Trump said while hosting UN Security Council ambassadors at the White House .
+threat	5	CT+	CT-
+########
+15
+<EOP> .
+########
+16
+On Friday , the Security Council will have a special ministerial meeting on the Korean Peninsula nuclear issue .
+issue	17	CT+	CT-
+will	6	ps_cue
+########
+17
+<EOP> .
+########
+18
+Washington has sent the nuclear powered aircraft carrier USS Carl Vinson and its carrier group to the Korean Peninsula , where it is expected to arrive later this week .
+expected	23	ps_cue
+########
+19
+<EOP> .
+########
+20
+The vessel will take part in ongoing joint naval drills with ROK forces , the ROK Navy said in a statement .
+will	2	ps_cue
+########
+21
+<EOP> .
+########
+22
+Foreign Ministry spokesman Geng Shuang said on Tuesday that those who are disappointed that a sixth nuclear test was not carried out in the DPRK `` are anxious to see the world in disorder '' .
+disappointed	12	neg_cue
+not	19	neg_cue
+########
+23
+<EOP> .
+########
+24
+`` We urge all related parties to keep calm and restrained , and not to take actions that intensify the tension , '' he said at a daily news conference in Beijing .
+not	13	neg_cue
+########
+25
+<EOP> .
+########
+26
+According to Geng , China and the DPRK are in contact and the diplomatic channels between the two countries are `` very smooth '' .
+########
+27
+<EOP> .
+########
+28
+He also said China has been making efforts to solve the peninsula 's nuclear issue in an appropriate and effective way , as both a regional country and a responsible member of the international community .
+issue	14	CT+	CT-
+########
+29
+<EOP> .
+########
+30
+Wu Dawei , China 's special representative on Korean Peninsula affairs , arrived in Japan on Tuesday to exchange views over the current Korean Peninsula issue .
+########
+31
+<EOP> .
+########
+32
+`` We hope related parties , including Japan , can work with China to push for an early and peaceful resolution of the issue , make due efforts , play its due role and shoulder due responsibilities , '' he added .
+hope	2	ps_cue
+can	9	ps_cue
+########
+33
+<EOP> .
+########
+34
+AFP contributed to this story .
+########
+35
+<EOP> .
+########

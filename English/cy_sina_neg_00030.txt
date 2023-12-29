@@ -1,0 +1,127 @@
+Is Amsterdam undergoing a property price boom 
+0
+Responses in Amsterdam , where property prices have been rocketing due to a crippling housing shortage , have ranged from astonished indignation to wry resignation .
+rocketing	9	CT+	CT+
+########
+1
+<EOP> .
+########
+2
+An estate agent has been caught offering for rent a 35 sq metre apartment , boasting its own `` private kitchen '' , for $ 1,100 a month .
+boasting	15	CT+	CT+
+########
+3
+<EOP> .
+########
+4
+Just a couple of catches , however : cooking is strictly prohibited and no more than two people are allowed into the flat at any one time .
+prohibited	11	neg_cue
+no	13	neg_cue
+########
+5
+<EOP> .
+########
+6
+Amsterdam has been undergoing a property price boom in recent years , bringing costs back almost to the levels before the 2008 financial crisis .
+boom	7	CT+	CT+
+########
+7
+Prices in the Dutch city have risen nearly 22 % .
+########
+8
+<EOP> .
+########
+9
+In large part , this has been due to a housing shortage that is expected to peak next year when demand outstrips supply in the Netherlands by an estimated 200,000 dwellings .
+expected	14	ps_cue
+########
+10
+<EOP> .
+########
+11
+However , the most recent example of the sky_high values being apportioned to relatively humble abodes has raised eyebrows , even in the current market .
+########
+12
+<EOP> .
+########
+13
+`` This studio apartment has a private bathroom and private kitchen , '' the advert on the website of the estate agent , Stone Capital , says of the property in the central Jordaan area .
+########
+14
+`` The kitchen is fully equipped , except for a cooking plate .
+except	7	neg_cue
+########
+15
+Cooking is explicitly not allowed in this apartment due to regulations . ''
+not	3	neg_cue
+########
+16
+<EOP> .
+########
+17
+The advert adds : `` However , the apartment has a microwave .
+########
+18
+Water heater .
+########
+19
+Maximum two people at all times . ''
+########
+20
+<EOP> .
+########
+21
+The Dutch broadcaster RTL , which discovered the ad , also reports that while it has been advertised as a two_room flat , one of those is the bathroom and the other is a joint bedroom_kitchen .
+########
+22
+<EOP> .
+########
+23
+One person responding to the advert suggested : `` Please also add _ maximum weight of tenant 65kg when fully dressed . ''
+suggested	6	ps_cue
+########
+24
+<EOP> .
+########
+25
+A second wrote : `` The lack of space and the huge increase in demand due to Airbnb has given landlords a irrational amount of power ... now they can start asking for ridiculous conditions and still the apartment will be rented_sold . ''
+lack	6	neg_cue
+can	29	ps_cue
+will	39	ps_cue
+########
+26
+<EOP> .
+########
+27
+One saw the funny side , however : `` I can understand this .
+can	10	ps_cue
+########
+28
+When our dear Lord with his culinary watering can spread the art of cooking on the face of the earth the Dutch were not the first in the queue . ''
+can	8	ps_cue
+not	23	neg_cue
+########
+29
+<EOP> .
+########
+30
+Stone Capital did not respond to the <EOP> .
+not	3	neg_cue
+########
+31
+Guardian <EOP> .
+########
+32
+'s request for comment .
+########
+33
+A spokeswoman for the estate agent told RTL she was `` unsure '' what regulations prevented cooking in the flat , adding that the landlords were responsible for the wording of the adverts .
+unsure	11	ps_cue
+prevented	15	neg_cue
+########
+34
+The advert has since been pulled from the estate agent 's site .
+########
+35
+<EOP> .
+########

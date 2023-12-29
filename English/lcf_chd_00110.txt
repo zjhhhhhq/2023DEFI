@@ -1,0 +1,45 @@
+Do three scientists share 2017 Nobel Prize in chemistry
+0
+Three scientists share 2017 Nobel Prize in chemistry <EOP> .
+share	2	CT+	CT+
+########
+1
+2017_10_04 20:46 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+STOCKHOLM _ Three scientists have shared 2017 Nobel Prize in Chemistry , the Royal Swedish Academy of Sciences announced on Wednesday .
+shared	5	CT+	CT+
+########
+4
+<EOP> .
+########
+5
+<EOP> .
+########
+6
+<EOP> .
+########
+7
+<EOP> .
+########
+8
+The names of Jacques Dubochet , Joachim Frank and Richard Henderson are displayed on the screen during the announcement of the winners of the Nobel Prize in Chemistry 2017 , in Stockholm , Sweden , October 4 , 2017 .
+########
+9
+<EOP> .
+########
+10
+LRB Photo_Agencies RRB <EOP> .
+########
+11
+<EOP> .
+########
+12
+<EOP> .
+########
+13
+<EOP> .
+########

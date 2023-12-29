@@ -1,0 +1,95 @@
+Does UK royal Kate make first public appearance
+0
+UK royal Kate makes first public appearance since pregnancy revealed <EOP> .
+appearance	6	CT+	CT+
+########
+1
+2017_10_11 17:14 <EOP> .
+########
+2
+Agencies <EOP> .
+########
+3
+<EOP> .
+########
+4
+Catherine Duchess of Cambridge celebrates World Mental Health Day at Buckingham Palace in London , Britain , October 10 , 2017 .
+celebrates	4	CT+	CT+
+########
+5
+LRB Photo_Agencies RRB <EOP> .
+########
+6
+LONDON _ Kate , Britain 's Duchess of Cambridge , made her first public appearance on Tuesday since it was announced she was pregnant , joining husband Prince William and his brother Harry at events to mark World Mental Health Day .
+appearance	14	CT+	CT+
+########
+7
+<EOP> .
+########
+8
+Last month William and Kate announced they were expecting her third child and that as with her two previous pregnancies , she was suffering severe morning sickness .
+expecting	8	ps_cue
+########
+9
+<EOP> .
+########
+10
+Last month , she was too ill to take her eldest child George to his first day at school because she was too unwell and her last public appearance had come at the end of August when she joined William and Harry on a visit to a public garden at Kensington Palace dedicated to their late mother Princess Diana .
+########
+11
+<EOP> .
+########
+12
+However , Kate , whose official title is the Duchess of Cambridge , showed no sign of the sickness that has forced her to cancel all engagements since then when she , William and Harry hosted a reception at Buckingham Palace on Tuesday to celebrate the efforts of those working Britain 's mental health sector .
+no	14	neg_cue
+########
+13
+<EOP> .
+########
+14
+`` The duchess ' condition is improving but she is still suffering from hyperemesis gravidarum .
+########
+15
+She is delighted to be able to be here tonight , '' an aide said .
+########
+16
+<EOP> .
+########
+17
+Hyperemesis gravidarum can cause severe nausea and vomiting and requires supplementary hydration and nutrients .
+can	2	ps_cue
+########
+18
+The condition forced Kate to be admitted to hospital in the early months of her pregnancy with George .
+########
+19
+<EOP> .
+########
+20
+The couple 's third baby will be fifth in line to the British throne , after grandfather Prince Charles , father William and elder siblings George , four , and Charlotte , two .
+will	5	ps_cue
+########
+21
+<EOP> .
+########
+22
+William , Kate and Harry have made campaigning about mental health one of their priorities , with both royal brothers saying in recent months how their mother 's death in a car crash when they were children had left deep emotional scars .
+########
+23
+<EOP> .
+########
+24
+`` All three of us have seen that mental health is at the heart of so many of the issues we are passionate about , '' William said in a speech to the reception .
+########
+25
+<EOP> .
+########
+26
+<EOP> .
+########
+27
+<EOP> .
+########
+28
+<EOP> .
+########

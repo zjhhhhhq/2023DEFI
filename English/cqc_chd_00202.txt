@@ -1,0 +1,73 @@
+Doed US strengthen contact with the DPRK 
+0
+China hopes to see improved contact between US , DPRK <EOP> .
+improved	4	PS+	PS+
+hopes	1	ps_cue
+########
+1
+2017_05_08 21:23 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+BEIJING __ China said Monday that the United States should strengthen contact with the Democratic People 's Republic of Korea LRB DPRK RRB , gradually seek a consensus and build mutual trust .
+strengthen	10	CT+	PS+
+should	9	ps_cue
+########
+4
+<EOP> .
+########
+5
+Foreign Ministry spokesperson Geng Shuang made the comments at a daily press briefing in response to US Secretary of State Rex Tillerson 's remarks to US Department of State employees on May 3 .
+May	31	ps_cue
+########
+6
+<EOP> .
+########
+7
+Tillerson said the United States was ready to engage in talks with the DPRK `` when conditions are right , '' adding that Washington was sending a `` very , very clear and resolute '' message to the DPRK that the country 's security and economic prosperity `` can only be secured '' through commitment to denuclearization .
+ready	6	ps_cue
+can	48	ps_cue
+########
+8
+<EOP> .
+########
+9
+`` We 've been clear to them this is not about regime change , this is not about regime collapse , this is not about an accelerated reunification of the peninsula , this is not about us looking for an excuse to come north of the 38th Parallel , '' Tillerson said .
+not	9	neg_cue
+not	16	neg_cue
+not	23	neg_cue
+not	34	neg_cue
+########
+10
+<EOP> .
+########
+11
+Geng said China has acknowledged the United States ' determination to push forward denuclearization of the Korean Peninsula .
+forward	12	ps_cue
+forward	12	neg_cue
+########
+12
+<EOP> .
+########
+13
+Tillerson 's remarks were positive and should be taken seriously as they expressed the intention of resolving the issue through dialogue and consultation , Geng said .
+should	6	ps_cue
+########
+14
+<EOP> .
+########
+15
+The United States is one of main parties involved in the Korean Peninsula nuclear issue , he said , adding China continues to encourage the the country to play a constructive role in peacefully settling the issue .
+########
+16
+<EOP> .
+########
+17
+China is ready to work with all parties , including the United States , to seek an amicable resolution , Geng said .
+ready	2	ps_cue
+########
+18
+<EOP> .
+########

@@ -1,0 +1,98 @@
+Do Chinese head home after hurricane
+0
+Chinese head home after hurricane <EOP> .
+home	2	CT+	CT+
+########
+1
+2017_10_02 07:51 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+<EOP> .
+########
+4
+Chinese workers get aboard a plane at V.C. Bird International Airport , Antigua and Barbuda , on Saturday .
+########
+5
+They were expected to arrive in Shanghai on Sunday night .
+expected	2	ps_cue
+########
+6
+LRB Photo by Yin Liqin_China News Service RRB <EOP> .
+########
+7
+Relief , gratitude show as planes leave for Shanghai <EOP> .
+########
+8
+ST. JOHN 'S , Antigua and Barbuda － China Eastern Airlines crew members greeted Chinese nationals who had been transferred to St. John 's , Antigua and Barbuda , in the West Indies with a warm `` Welcome home ! ''
+########
+9
+as two chartered planes landed at V.C. Bird International Airport .
+########
+10
+<EOP> .
+########
+11
+After Hurricane Maria devastated the Caribbean island of Dominica , 377 of the more than 400 Chinese who found shelter are finally getting a ride home .
+getting	22	CT+	CT+
+########
+12
+<EOP> .
+########
+13
+Chen Gangjun , 48 , had been doing construction work in Dominica as part of an assistance project carried out by China Civil Engineering Construction Corp. .
+########
+14
+<EOP> .
+########
+15
+`` Many of our fellow workers woke up very early and came to the canteen at 4 am , much earlier than usual .
+########
+16
+... Everybody is very excited and eager to go home .
+########
+17
+They could n't bear waiting anymore , '' Chen said .
+could	1	ps_cue
+n't	2	neg_cue
+########
+18
+`` I shared the feeling , and I do n't feel tired at all . ''
+n't	9	neg_cue
+########
+19
+<EOP> .
+########
+20
+Sun Haojie , director of a Chinese agricultural aid program in Dominica , waited to board with his wife and their 2_year_old son .
+########
+21
+<EOP> .
+########
+22
+`` I really want to express my gratitude for our motherland .
+########
+23
+Without the combined efforts of so many departments , we would not be able to return home in such a short period of time , '' Sun said .
+Without	0	neg_cue
+would	10	ps_cue
+not	11	neg_cue
+########
+24
+<EOP> .
+########
+25
+`` My son seems to understand the good news , too .
+seems	3	ps_cue
+########
+26
+He is particularly excited this morning － I just hope he will not be troubled by the long flight . ''
+hope	9	ps_cue
+will	11	ps_cue
+not	12	neg_cue
+########
+27
+<EOP> .
+########

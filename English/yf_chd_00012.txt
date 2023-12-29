@@ -1,0 +1,66 @@
+Will New York City install 1,500 security barriers
+0
+New York City to install 1,500 security barriers <EOP> .
+install	4	CT+	PS+
+########
+1
+2018_01_03 14:26 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+NEW YORK _ New York City plans to install 1,500 new security barriers in high_profile locations to guard against vehicle attacks and other terror_related incidents .
+install	8	PS+	PS+
+plans	6	ps_cue
+against	18	neg_cue
+########
+4
+<EOP> .
+########
+5
+City Mayor Bill de Blasio announced the plan at a press conference held in Times Square on Tuesday .
+announced	5	CT+	PS+
+plan	7	ps_cue
+########
+6
+He said metal bollards will replace some of the concrete cubes and barriers that have been in place as temporary measures near pedestrian areas .
+will	4	ps_cue
+########
+7
+<EOP> .
+########
+8
+De Blasio said it was part of the city 's effort to spend 50 million U.S. dollars on public areas that are vulnerable to attacks .
+########
+9
+<EOP> .
+########
+10
+New York City made breaking news quite a few times last year .
+########
+11
+<EOP> .
+########
+12
+On Dec. 11 , four people were injured after a man set off an improvised explosive device at the city 's busiest commuter hub near Times Square during rush hour .
+########
+13
+Mayor de Blasio called the incident an attempted terrorist attack .
+########
+14
+<EOP> .
+########
+15
+On Oct. 31 , eight people were killed and a dozen more injured after a truck plowed into pedestrians near the World Trade Center .
+########
+16
+<EOP> .
+########
+17
+On May 18 , one person was killed and 22 others were injured when a car ran into pedestrians in Times Square .
+May	1	ps_cue
+########
+18
+<EOP> .
+########

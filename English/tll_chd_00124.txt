@@ -1,0 +1,112 @@
+Does suspected terror attack injure over 50 in Manchester
+0
+Suspected terror attack kills 22 , injures over 50 in Manchester <EOP> .
+injures	6	CT+	CT+
+########
+1
+2017_05_23 06:54 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+<EOP> .
+########
+4
+Two women wrapped in thermal blankets stand near the Manchester Arena , where US singer Ariana Grande had been performing , in Manchester , northern England , Britain , May 23 , 2017 .
+May	29	ps_cue
+########
+5
+LRB Photo_VCG RRB <EOP> .
+########
+6
+At least 22 people were killed , some of them children , and over 50 injured in what UK Prime Minister Theresa May said was being treated by police as a major terrorist attack on a pop concert in Britain 's second city of Manchester .
+injured	15	CT+	CT+
+May	22	ps_cue
+########
+7
+<EOP> .
+########
+8
+An explosion came at Manchester Arena , in the center of the city , as US pop star Ariana Grande finished a sell_out show attended by many young teenagers and their parents .
+########
+9
+<EOP> .
+########
+10
+Greater Manchester Police Chief Constable Ian Hopkinson told reporters : `` I can confirm there are children amongst the dead .
+can	12	ps_cue
+########
+11
+We believe it was one man , acting alone , who used an improvised explosive device .
+########
+12
+We believe he is amongst the dead . ''
+########
+13
+<EOP> .
+########
+14
+In London , police said extra armed police would be on the streets of the capital as a precaution .
+would	8	ps_cue
+########
+15
+<EOP> .
+########
+16
+Eyewitnesses in Manchester spoke of bodies strewn on the ground , covered in blood .
+########
+17
+<EOP> .
+########
+18
+No one has claimed responsibility for the attack , although social media sites and websites linked to the extremist Islamic State group were full of messages praising the attack , the Daily Telegraph reported .
+No	0	neg_cue
+########
+19
+<EOP> .
+########
+20
+May and other political leaders cancelled general election campaigning ahead of the June 8 vote as key ministers and security experts gathered in London for an emergency meeting .
+May	0	ps_cue
+########
+21
+<EOP> .
+########
+22
+`` We are working to establish the full details '' of what had happened in Manchester , May told the BBC .
+May	17	ps_cue
+########
+23
+<EOP> .
+########
+24
+`` All our thoughts are with the victims and the families of those who have been affected , '' she said .
+########
+25
+<EOP> .
+########
+26
+Recently elected Manchester Mayor Andy Burnham said it was `` an act of evil .
+########
+27
+It has been a very dark night .
+########
+28
+Manchester people will come together .
+will	2	ps_cue
+########
+29
+We will not let this divide us . ''
+will	1	ps_cue
+not	2	neg_cue
+########
+30
+<EOP> .
+########
+31
+The BBC said a number of people and local hotels had offered temporary accommodation for concertgoers .
+########
+32
+<EOP> .
+########

@@ -1,0 +1,249 @@
+Will robots take over warehouse jobs around the globe
+0
+Robots poised to take over warehouse jobs around the globe <EOP> .
+take	3	CT+	CT+
+########
+1
+2017_09_28 00:51 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+<EOP> .
+########
+4
+<EOP> .
+########
+5
+Earlier this year , viral_videos of robots whizzing around Alibaba_owned warehouses in China made the rounds on social media .
+########
+6
+The bots were designed by Chinese start_up Geek + to bring goods to workers , saving them from trawling up and down kilometers of racking to complete orders .
+bring	10	CT+	CT+
+########
+7
+<EOP> .
+########
+8
+China has been the world 's major buyer of industrial robots since 2013 , according to the International Federation of Robotics LRB also known as IFR RRB .
+########
+9
+<EOP> .
+########
+10
+In 2009 , the global market for industrial robots extended to 60,000 units .
+########
+11
+That figure ballooned to 294,000 units in 2016 , when China alone ordered 87,000 units .
+########
+12
+<EOP> .
+########
+13
+The IFR forecasts that , by 2020 , more than 1.7 million new industrial robots will be installed in factories worldwide .
+installed	17	PS+	CT+
+forecasts	2	ps_cue
+will	15	ps_cue
+########
+14
+<EOP> .
+########
+15
+Joe Gemma , president of the IFR , said : `` China is by_far the biggest robot market in the world regarding annual sales and regarding the operational stock .
+########
+16
+It is the fastest_growing market worldwide .
+########
+17
+There has never been such a dynamic rise in such a short period of time in any other market . ''
+never	2	neg_cue
+########
+18
+<EOP> .
+########
+19
+In the UK , robots began bringing goods to workers in Amazon 's warehouses in Dunstable and Doncaster last year .
+bringing	6	CT+	CT+
+########
+20
+And British online supermarket Ocado has developed some of the world 's most sophisticated machine_led warehouses for grocery goods .
+########
+21
+<EOP> .
+########
+22
+Ocado does not have brick_and_mortar shops .
+not	2	neg_cue
+########
+23
+Instead , it takes grocery orders online and delivers produce from a network of distribution centers .
+########
+24
+<EOP> .
+########
+25
+<EOP> .
+########
+26
+Ocado 's robots can communicate wirelessly with each other over a 4G network .
+can	3	ps_cue
+########
+27
+LRB Photo provided to chinadaily.com.cn RRB <EOP> .
+########
+28
+<EOP> .
+########
+29
+At Ocado 's warehouse in Andover , Hampshire , a hive of stout robots the size of washing machines selects goods for online shoppers , assembling a 50_item order in minutes .
+selects	19	CT+	CT+
+########
+30
+<EOP> .
+########
+31
+The robots communicate with each other as they move across a grid of grocery crates , like rooks along a chess board .
+like	16	ps_cue
+########
+32
+<EOP> .
+########
+33
+Ocado is in discussion with supermarkets in China and elsewhere that are interested in purchasing its hardware and software , which is collectively known as the Ocado Smart Platform .
+########
+34
+<EOP> .
+########
+35
+Paul Clarke , chief technology officer at Ocado Technology , said : `` The platform has been designed from day one to offer large bricks_and_mortar retailers around the world a shortcut to moving online .
+########
+36
+We 've been talking to grocery retailers around the world in almost every continent .
+########
+37
+In that mix , China certainly features . ''
+########
+38
+<EOP> .
+########
+39
+E_commerce sales are set to grow by 23 percent this year , and for the first time will account for one_tenth of total retail sales worldwide , according to US market research company eMarketer .
+will	17	ps_cue
+########
+40
+Last year , almost half of all global online retail sales were made in China .
+########
+41
+<EOP> .
+########
+42
+Clarke said Ocado will also look to deliver the platform to a wide range of companies because the technology is not limited to grocery orders .
+will	3	ps_cue
+not	20	neg_cue
+########
+43
+<EOP> .
+########
+44
+Ocado 's main warehouse in Hatfield , Hertfordshire , reveals a timeline of the company 's technological evolution .
+########
+45
+<EOP> .
+########
+46
+In the oldest section of the warehouse , a computer program indicates to employees what goods are needed for an order .
+########
+47
+Pickers then select items manually.In a newer section , a vast network of conveyer belts and cranes controlled by an algorithm deliver goods directly to workers who sort them into bags .
+########
+48
+<EOP> .
+########
+49
+The Ocado Smart Platform in Andover is the latest iteration of the company 's move toward full automation , though humans pickers are still needed to put the finishing touches to orders .
+########
+50
+<EOP> .
+########
+51
+At Ocado 's robotics lab in Hatfield , engineers are working on robotic hands that are capable of handling delicate goods without damaging them .
+without	21	neg_cue
+########
+52
+<EOP> .
+########
+53
+<EOP> .
+########
+54
+Ocado is designing robots to help workers .
+########
+55
+LRB Photo provided to chinadaily.com.cn RRB <EOP> .
+########
+56
+The company is also trialing driverless grocery delivery vehicles , in partnership with UK_based tech company Oxbotica .
+########
+57
+<EOP> .
+########
+58
+Nathan Wrench , head of industrial and energy projects at Cambridge Consultants , which worked with Ocado on the smart platform , said : `` What we are seeing is a period of extraordinary change .
+########
+59
+There is mad innovation happening across the value chain .
+########
+60
+Autonomous trucks and vans are being spoken about .
+########
+61
+We are also seeing robotics being used for other elements of manual handling within warehouses , such as getting goods into vehicles . ''
+used	6	CT+	CT+
+########
+62
+<EOP> .
+########
+63
+In the UK , the rise of warehouse robots has led to employment concerns .
+########
+64
+A study conducted by the Institute for Public Policy Research estimates robots will replace one_in_three UK jobs during the next 20 years .
+will	12	ps_cue
+########
+65
+It has called on the UK government to provide job training to low_skilled workers who are at risk of losing their employment to machines .
+########
+66
+<EOP> .
+########
+67
+However , Clarke points out that , as Ocado 's operation has grown , the company has employed more people in its warehouses .
+########
+68
+And Wrench argues that many companies in the UK are struggling to find enough employees to undertake certain tasks .
+########
+69
+<EOP> .
+########
+70
+`` There is this fanciful idea that robots are going to come along and take jobs away and there is going to be a crisis of employment .
+########
+71
+That 's absolutely not the picture as we see it , '' Wrench said .
+not	3	neg_cue
+########
+72
+`` Every one of the customers that we are talking to in this industry is talking about the difficulties of employment .
+########
+73
+They ca n't get enough people to do the boring jobs or the backbreaking jobs .
+n't	2	neg_cue
+or	11	ps_cue
+########
+74
+People are always migrating to the higher_value tasks . ''
+########
+75
+<EOP> .
+########

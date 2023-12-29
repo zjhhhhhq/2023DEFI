@@ -1,0 +1,140 @@
+Did a two_day summit of leaders from the G7 industrialized nations kick off
+0
+Terrorism , trade top agenda at G7 summit <EOP> .
+########
+1
+2017_05_27 07:25 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+<EOP> .
+########
+4
+From right to left : US President Donald Trump , Italian Prime Minister Paolo Gentiloni , Japanese Prime Minister Shinzo Abe , UK Prime Minister Theresa May , Canadian Prime Minister Justin Trudeau and European Council President Donald Tusk arrive for a photocall at the G7 Summit in Taormina , Italy , on Friday.Philippe Wojazer _ Reuters <EOP> .
+arrive	39	CT+	CT+
+May	26	ps_cue
+########
+5
+Leaders braced for ` challenging ' talks as Trump factor looms large <EOP> .
+########
+6
+TAORMINA , Italy _ A two_day summit of leaders from the G7 industrialized nations kicked off on Friday in the Italian town of Taormina .
+kicked	14	CT+	CT+
+########
+7
+<EOP> .
+########
+8
+The summit started with a ceremony at an ancient Greek theater perched on a cliff overlooking the sea where war ships patrolled the sparkling blue waters .
+########
+9
+<EOP> .
+########
+10
+The heads of state from the United Kingdom , Canada , France , Germany , Italy , Japan , and the United States , plus the EU were expected to talk about a common response to international terrorism .
+talk	30	PS+	CT+
+expected	28	ps_cue
+########
+11
+<EOP> .
+########
+12
+The topic was pushed to the top of the agenda after a suicide bomber claimed at least 22 lives and wounded dozens in the British city of Manchester on Monday .
+########
+13
+<EOP> .
+########
+14
+G7 host Italy was expected to table the issues of migration and the need for investments in Africa as one way to reverse the exodus of people fleeing war and destitution .
+expected	4	ps_cue
+need	13	ps_cue
+########
+15
+<EOP> .
+########
+16
+In terms of long_term policies , G7 leaders were also expected to talk about sustainable growth and development .
+expected	10	ps_cue
+########
+17
+<EOP> .
+########
+18
+According to local media , US President Donald Trump , who attended his first G7 summit , was the unknown quantity due to his protectionist views on trade , his outspoken stance against immigration , and his avowed intention to invest in fossil fuels , thus rolling back the clock on climate change .
+unknown	19	ps_cue
+against	32	neg_cue
+########
+19
+<EOP> .
+########
+20
+`` No doubt , this will be the most challenging G7 summit in years , '' European Council President Donald Tusk said before the meeting .
+No	1	neg_cue
+will	5	ps_cue
+########
+21
+<EOP> .
+########
+22
+The meeting was scheduled to end on Saturday , with leaders expected to come up with some kind of joint statement .
+scheduled	3	ps_cue
+expected	11	ps_cue
+########
+23
+It remains to be seen whether they will find consensus .
+whether	5	ps_cue
+will	7	ps_cue
+########
+24
+<EOP> .
+########
+25
+Taormina is in lockdown since Monday , and tough security measures and restrictions will remain in force until after the summit closure , with about 9,000 police and military officers deployed in the area .
+will	13	ps_cue
+########
+26
+<EOP> .
+########
+27
+It was the final leg of a nine_day tour for Trump which started in the Middle East .
+########
+28
+<EOP> .
+########
+29
+On Thursday in Brussels , with NATO leaders standing alongside him , he accused members of the alliance of owing `` massive amounts of money '' to the US and NATO _ even though allied contributions are voluntary .
+########
+30
+<EOP> .
+########
+31
+Trump , who has often complained back home about other nations ' NATO support , lectured the other leaders in person this time , declaring : `` Many of these nations owe massive amounts of money from past years . ''
+########
+32
+<EOP> .
+########
+33
+Fellow leaders occasionally exchanged awkward looks with each other during the lecture .
+########
+34
+When Trump tried to lighten the mood with a joke about NATO 's gleaming new home base , saying `` I never asked once what the new NATO Headquarters cost '' , there was no laughter from his counterparts .
+never	21	neg_cue
+no	34	neg_cue
+########
+35
+<EOP> .
+########
+36
+Xinhua _ Reuters _ Ap <EOP> .
+########
+37
+<EOP> .
+########
+38
+<EOP> .
+########
+39
+<EOP> .
+########

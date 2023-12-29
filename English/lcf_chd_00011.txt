@@ -1,0 +1,127 @@
+Does CPC congress enhance ties 
+0
+Medvedev : CPC congress enhances ties <EOP> .
+ties	5	CT+	CT+
+########
+1
+2017_11_01 07:32 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+Russian prime minister said meeting opened a new chapter for relations <EOP> .
+relations	10	CT+	CT+
+########
+4
+The 19th National Congress of the Communist Party of China was a significant event that set out the blueprint for China 's future development and has greatly enhanced relations between China and Russia , Russian Prime Minister Dmitry Medvedev said on Tuesday .
+relations	28	CT+	CT+
+########
+5
+<EOP> .
+########
+6
+`` Russia has paid close attention to the progress of 19th CPC National Congress and its outcomes .
+########
+7
+Russia and China share a comprehensive strategic partnership of coordination , and our party_to_party exchanges are smooth and sound , '' he said .
+########
+8
+<EOP> .
+########
+9
+Medvedev added that in his capacity as chairman of the United Russia Party , he sent his congratulations to Xi Jinping on his re_election as general secretary of the Central Committee of the Communist Party of China .
+########
+10
+<EOP> .
+########
+11
+Medvedev said the relationship between Russia and China is also based on party_to_party relations between the United Russia Party and the CPC .
+########
+12
+<EOP> .
+########
+13
+The Russian prime minister made the remarks during a one_hour live interview in Beijing at people.com.cn on Tuesday afternoon , during which he took questions from Chinese internet users .
+########
+14
+<EOP> .
+########
+15
+`` We noticed that the 19th National Congress of the CPC has come out with a series of important decisions that are of great strategic importance .
+########
+16
+We look forward to seeing these outcomes implemented , '' he said .
+forward	2	ps_cue
+forward	2	neg_cue
+########
+17
+`` The meeting has opened a new chapter for developing our bilateral relations , and we feel strongly encouraged . ''
+relations	12	CT+	CT+
+encouraged	18	ps_cue
+########
+18
+<EOP> .
+########
+19
+Medvedev started his three_day visit to China on Tuesday .
+########
+20
+He met Premier Li Keqiang later on Tuesday and will meet with President Xi Jinping on Wednesday .
+will	9	ps_cue
+########
+21
+Also on Wednesday , Li and Medvedev will hold the 22nd regular meeting between Chinese and Russian prime ministers , and will jointly attend the closing ceremony of the year of China_Russia media exchanges .
+will	7	ps_cue
+will	21	ps_cue
+########
+22
+<EOP> .
+########
+23
+During the interview on Tuesday , Medvedev said the number of Chinese tourists visiting Russia has been on the rise in recent years , adding that the number increased by 20 percent in the first half of 2017 .
+########
+24
+He said Russia is working on more convenient visa policies for Chinese tourists .
+########
+25
+<EOP> .
+########
+26
+`` Currently , Chinese tourist groups of at least five people can visit Russia for up to two weeks without requiring a visa .
+can	11	ps_cue
+without	19	neg_cue
+########
+27
+We are currently in the process of amending this policy to offer visa_free travel to Chinese tourist groups of at least three people , and expanding the possible length of stay up to three weeks , '' he said .
+possible	27	ps_cue
+########
+28
+<EOP> .
+########
+29
+He also answered the Chinese audience 's questions on preparations for the World Cup finals , which will take place in Russia in 2018 .
+will	17	ps_cue
+########
+30
+<EOP> .
+########
+31
+Describing himself as `` a regular guest to China '' , Medvedev has visited the nation many times .
+########
+32
+He has an interest in Chinese traditional culture , such as Taoism , and has encouraged Russian people to learn Chinese on a variety of occasions .
+encouraged	15	ps_cue
+########
+33
+<EOP> .
+########
+34
+Medvedev has met Xi five times in the past five years , and in those meetings they stressed the importance of the bilateral friendship and enhancing pragmatic cooperation to bring true benefits to the peoples of both countries , and maintaining world peace and stability .
+########
+35
+<EOP> .
+########
+36
+<EOP> .
+########

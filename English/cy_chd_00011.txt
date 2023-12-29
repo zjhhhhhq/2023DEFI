@@ -1,0 +1,84 @@
+Does US draw red line on Korean Peninsula nuclear issue
+0
+US wo n't draw red line on Korean Peninsula nuclear issue : White House <EOP> .
+draw	3	CT-	CT-
+n't	2	neg_cue
+########
+1
+2017_04_18 10:04 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+White House Press Secretary Sean Spicer takes a question during a press briefing at the White House in Washington , US , April 17 , 2017 .
+question	8	ps_cue
+########
+4
+LRB Photo_Agencies RRB <EOP> .
+########
+5
+`` Drawing red lines really has n't worked in the past , '' White House spokesman Sean Spicer told a briefing .
+worked	7	CT-	CT-
+n't	6	neg_cue
+########
+6
+<EOP> .
+########
+7
+`` He LRB Trump RRB holds his cards close to the vest , and I think you are not going to see him telegraphing how he 's going to respond to any military or other situation going forward , '' he said .
+not	18	neg_cue
+or	33	ps_cue
+forward	37	ps_cue
+forward	37	neg_cue
+########
+8
+<EOP> .
+########
+9
+Trump does not plan to draw red lines `` in the sand '' , Spicer added .
+draw	5	CT-	CT-
+not	2	neg_cue
+plan	3	ps_cue
+########
+10
+<EOP> .
+########
+11
+However , Spicer cited the US decision to bomb a Syrian military airfield early this month as an indication that Trump would take action when necessary .
+indication	18	ps_cue
+would	21	ps_cue
+########
+12
+<EOP> .
+########
+13
+`` I think the action he took in Syria shows that when appropriate , this president will take decisive action . ''
+will	16	ps_cue
+########
+14
+<EOP> .
+########
+15
+Spicer added that the United States is going to work with China on the Korean Peninsula nuclear issue .
+########
+16
+<EOP> .
+########
+17
+`` We 're going to continue to work with China , in particular , to help find a way forward on this . ''
+forward	19	ps_cue
+forward	19	neg_cue
+########
+18
+<EOP> .
+########
+19
+<EOP> .
+########
+20
+<EOP> .
+########
+21
+<EOP> .
+########

@@ -1,0 +1,91 @@
+Does UN Security Council tighten sanctions against DPRK
+0
+UN Security Council adopts resolution to tighten sanctions against DPRK <EOP> .
+tighten	6	CT+	CT+
+against	8	neg_cue
+########
+1
+2017_12_23 03:26 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+UNITED NATIONS _ The UN Security Council on Friday adopted a new resolution to further tighten sanctions against the Democratic People 's Republic of Korea LRB DPRK RRB in response to its ballistic missile launch late last month .
+tighten	15	CT+	CT+
+against	17	neg_cue
+########
+4
+<EOP> .
+########
+5
+Resolution 2397 , which passed the 15_member council unanimously , bans nearly 90 percent of refined petroleum product exports to the DPRK , by setting a ceiling of 500,000 barrels during a period of 12 months beginning Jan 1 , 2018 .
+bans	10	CT+	CT+
+bans	10	neg_cue
+########
+6
+It provides for the same amount in 12_month periods thereafter with conditions .
+provides	1	CT+	CT+
+########
+7
+<EOP> .
+########
+8
+It also caps crude oil exports to the DPRK at the current level of 4 million barrels a year .
+caps	2	CT+	CT+
+########
+9
+<EOP> .
+########
+10
+As an important measure to cut the source of funding for Pyongyang 's nuclear weapon and ballistic missile programs , the resolution requires UN member states to repatriate all DPRK nationals earning income abroad immediately , but no later than 24 months from the date of adoption of this resolution .
+requires	22	CT+	CT+
+no	37	neg_cue
+########
+11
+<EOP> .
+########
+12
+In addition , the resolution bans DPRK exports of food and agricultural products ; machinery ; electrical equipment ; earth and stone , including magnesite and magnesia ; wood and vessels .
+bans	5	CT+	CT+
+bans	5	neg_cue
+########
+13
+<EOP> .
+########
+14
+It bans the supply of industrial machinery , transportation vehicles , and iron , steel , and other metals to the DPRK .
+bans	1	CT+	CT+
+bans	1	neg_cue
+########
+15
+<EOP> .
+########
+16
+The resolution provides for measures to stop ships illegally providing oil to the DPRK through ship_to_ship transfers and smuggling DPRK coal and other prohibited commodities by sea .
+provides	2	CT+	CT+
+stop	6	neg_cue
+prohibited	23	neg_cue
+########
+17
+<EOP> .
+########
+18
+Member states may seize , inspect , freeze LRB impound RRB any vessel in their territorial waters , should they have reasonable grounds to believe that the vessel was involved in activities , or the transport of items , prohibited by Security Council resolutions , reads the text .
+may	2	ps_cue
+should	18	ps_cue
+or	33	ps_cue
+prohibited	39	neg_cue
+########
+19
+<EOP> .
+########
+20
+The resolution puts 19 new DPRK individuals , most of them DPRK overseas bank representatives , and the Ministry of the People 's Armed Forces , which manages the general administrative and logistical needs of the Korean People 's Army , on a list for a global asset freeze and travel ban .
+puts	2	CT+	CT+
+needs	33	ps_cue
+ban	51	neg_cue
+########
+21
+<EOP> .
+########

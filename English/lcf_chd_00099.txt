@@ -1,0 +1,221 @@
+Is mobile pay popular in China nowadays
+0
+How crazy is China 's mobile pay ?
+pay	6	Uu	CT+
+########
+1
+<EOP> .
+########
+2
+2017_10_02 16:28 <EOP> .
+########
+3
+chinadaily.com.cn <EOP> .
+########
+4
+Over the past five years , China has embraced a life on_line .
+########
+5
+Some expats here in China , as well as Chinese themselves have dubbed the phenomenon , China 's `` Four New Great Internet Invention '' !
+########
+6
+Same as the four old inventions , it is their new technology that transforms people 's lives .
+########
+7
+<EOP> .
+########
+8
+在过去的五年里 ， 互联网成为了中国人的生活方式 。 来自世界各地的小伙伴和中国人还一起选出了中国的 `` 互联网新四大发明 '' 。 与古老的四大发明一样 ， 它们都是通过新技术造福人们的生活 。 <EOP> .
+########
+9
+One of these four _ and the one that appears to be floating Thomas ' boat _ is mobile payment , in which China is now leading the world in scale , scope , convenience and coverage .
+payment	19	CT+	CT+
+appears	9	ps_cue
+########
+10
+<EOP> .
+########
+11
+其中让阿福 `` 疯狂 '' 的一项就是中国的移动支付 ， 因为中国的移动支付是目前世界上规模最庞大 、 使用最便捷 、 覆盖最广泛的移动支付体系 。 <EOP> .
+########
+12
+So pervasive is the trend ， that robbers would be hard pressed to find any cash to steal from in a modern Chinese store .
+would	8	ps_cue
+########
+13
+<EOP> .
+########
+14
+普及到什么程度 ？ 如果一个强盗去商店中打劫 ， 那么他会发现没 ！ 有 ！ 现 ！ 金 ！ <EOP> .
+########
+15
+Consider a normal day for someone living in China .
+########
+16
+<EOP> .
+########
+17
+让我们来看看 ， 在中国生活一天是一种什么样的体验吧 。 <EOP> .
+########
+18
+You wake up in the morning , go and buy breakfast on the street and pay by scanning with your smart phone .
+pay	15	CT+	CT+
+########
+19
+<EOP> .
+########
+20
+当你早上醒来 ， 出门 ， 在路边买早饭 ， 手机扫码即可支付 。 <EOP> .
+########
+21
+In the subway station , you scan with your smart phone to purchase your ticket .
+purchase	12	CT+	CT+
+########
+22
+<EOP> .
+########
+23
+坐地铁买票 ， 手机刷一下就行 。 <EOP> .
+########
+24
+If , after getting off the train , you find there is not enough time to walk to the office , you scan the code for a shared_bicycle _ aka `` ofo '' bicycle _ and ride to work in minutes .
+not	12	neg_cue
+########
+25
+<EOP> .
+########
+26
+下了地铁如果走去公司的时间不够 ， 手机扫一扫小黄车ofo ， 几分钟就能骑到公司 。 <EOP> .
+########
+27
+Time for lunch ?
+########
+28
+You and your coworkers find a good restaurant nearby by using a smart phone_based app that allows for group purchases .
+using	10	CT+	CT+
+########
+29
+<EOP> .
+########
+30
+午饭时间呢 ？ 你和你的同事用手机搜索附近餐馆 ， 很多APP都会安排团购套餐 。 <EOP> .
+########
+31
+After lunch , you go to the nearby supermarket to buy some bottled water , maybe a magazine from a kiosk too , all paid for with your smart phone .
+paid	24	CT+	CT+
+maybe	15	ps_cue
+########
+32
+<EOP> .
+########
+33
+吃完午餐后 ， 你去附近的超市买水 ， 或是在报摊上买本杂志 ， 都能扫码拿走 。 <EOP> .
+########
+34
+You can also go shopping online during your break .
+can	1	ps_cue
+########
+35
+With a bit of luck , you will get it by the time you arrive home .
+will	7	ps_cue
+########
+36
+<EOP> .
+########
+37
+还可以趁休息时间在网上买东西 。 快的话 ， 下班前就可以收到 。 <EOP> .
+########
+38
+And when you are tired by the end of the day , you can simply use an app to order food delivery .
+can	13	ps_cue
+########
+39
+The delivery cost is about a dollar and the food will be at your door in just 30 minutes .
+will	10	ps_cue
+########
+40
+The smart phone can handle payment for taxis , utilities , and even hospital bills !
+payment	5	CT+	CT+
+can	3	ps_cue
+########
+41
+And savvy street performers will display a sign with a QR code , so as not to miss out on any tips !
+will	4	ps_cue
+not	15	neg_cue
+miss	17	neg_cue
+########
+42
+<EOP> .
+########
+43
+晚上回到家太累了不想出门 ？ 用手机APP叫外卖啊 。 1美元的外卖费 ， 30分钟就能送到 。 打车 、 水电费 、 甚至是医疗费都可以用手机搞定 ！ 现在就连在街头卖艺都要准备一个二维码的牌子 ， 要不然可是要错过很多打赏的哦 。 <EOP> .
+########
+44
+This is a glimpse into the life of most Chinese _ allowing you to bid farewell to the wallet and bank cards .
+########
+45
+<EOP> .
+########
+46
+这就是大部分中国人现在的生活 ， 一种可以跟银行卡说拜拜的生活 。 <EOP> .
+########
+47
+Meanwhile , if you run out of battery charge ... no worries !
+no	10	neg_cue
+########
+48
+You just plug it in to a shared charging point .
+########
+49
+<EOP> .
+########
+50
+但是 ， 手机没电了的话不就完蛋了么 ？ 别急 ！ 你可以租借到共享充电宝 。 <EOP> .
+########
+51
+These developments are encouraged by the Chinese government under its `` Internet_plus '' strategy .
+encouraged	3	ps_cue
+########
+52
+<EOP> .
+########
+53
+这一切快速的发展和改变 ， 都源自中国政府制定的 `` 互联网 + '' 发展战略 。 <EOP> .
+########
+54
+Stimulated by an online economy , traditional Chinese businesses are also growing fast and creating more employment opportunities .
+opportunities	17	ps_cue
+########
+55
+<EOP> .
+########
+56
+在线上经济的带动下 ， 中国线下的传统企业加速发展 ， 带来了更多的就业机会 。 <EOP> .
+########
+57
+While online commerce is booming , with retail sales already accounting for one_third of the national total , the employment in the Internet industry has reached a staggering number of 16.772 million .
+########
+58
+The logistics industry has developed even faster , now accounting for 6.5 % of China 's employment with 50.12 million employees .
+########
+59
+<EOP> .
+########
+60
+如今 ， 随着电商的崛起 ， 互联网的销售成绩占了全国零售额的三分之一 。 国内互联网行业从业人数已达1677 .2 万 。 作为运送货物的物流行业更是蓬勃发展 ， 一个行业就占了中国就业人员6 .5 % ， 达到了5012万人 。 <EOP> .
+########
+61
+And the life of Chinese people has changed , since they are living life at their fingertips !
+########
+62
+<EOP> .
+########
+63
+中国人的生活也正在被改变 ， 变得 `` 触手可得 '' ！ <EOP> .
+########
+64
+<EOP> .
+########
+65
+<EOP> .
+########

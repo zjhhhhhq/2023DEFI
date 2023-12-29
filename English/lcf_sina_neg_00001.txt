@@ -1,0 +1,140 @@
+Is THE GREAT SPHINX OF GIZA a sphinx  
+0
+1 .
+########
+1
+TECHNICALLY , THE GREAT SPHINX OF GIZA IS NOT A SPHINX .
+SPHINX	10	CT-	CT-
+NOT	8	neg_cue
+########
+2
+<EOP> .
+########
+3
+Not a traditional sphinx , anyway .
+sphinx	3	CT-	CT-
+Not	0	neg_cue
+########
+4
+Although heavily influenced by Egyptian and later Mesopotamian mythology , the classical Greek <EOP> .
+########
+5
+depiction <EOP> .
+########
+6
+of the Sphinx consists of the body of a lion , the head of a woman , and the wings of a bird .
+########
+7
+Giza 's male_identifying landmark is , technically , an <EOP> .
+########
+8
+androsphinx <EOP> .
+########
+9
+.
+########
+10
+The lack of wings further muddles its accepted <EOP> .
+lack	1	neg_cue
+########
+11
+taxonomy <EOP> .
+########
+12
+2 .
+########
+13
+LABORERS WHO CONSTRUCTED THE STATUE ATE LIKE KINGS .
+########
+14
+<EOP> .
+########
+15
+Most scientists ' initial assumption was that the men who toiled to bring the Sphinx to life belonged to an enslaved caste .
+assumption	4	ps_cue
+########
+16
+Their diets would suggest otherwise , however ; <EOP> .
+would	2	ps_cue
+suggest	3	ps_cue
+########
+17
+excavations <EOP> .
+########
+18
+3 .
+########
+19
+THE SPHINX WAS ONCE RATHER COLORFUL .
+########
+20
+<EOP> .
+########
+21
+Though it is now indistinct from the <EOP> .
+########
+22
+drab <EOP> .
+########
+23
+tan <EOP> .
+########
+24
+of its sandy surroundings , the Sphinx may at one time have been completely covered in vivid paint .
+may	7	ps_cue
+########
+25
+<EOP> .
+########
+26
+Remnants <EOP> .
+########
+27
+4 .
+########
+28
+A CULT VENERATED THE SPHINX LONG AFTER IT WAS BUILT .
+########
+29
+<EOP> .
+########
+30
+Thanks to Thutmose 's mystical vision at the Sphinx , the sculpture and its represented mythological <EOP> .
+########
+31
+deity <EOP> .
+########
+32
+5 .
+########
+33
+THE EGYPTIAN SPHINX IS MUCH KINDER THAN ITS GREEK COUSIN .
+########
+34
+<EOP> .
+########
+35
+The Sphinx 's modern reputation for <EOP> .
+########
+36
+tyranny <EOP> .
+########
+37
+and trickery spawns not from Egyptian mythology , but Greek .
+not	3	neg_cue
+########
+38
+The creature 's most famous appearance in Ancient Greek lore came from her run_in with Oedipus , whom she challenged with her allegedly <EOP> .
+########
+39
+unsolvable <EOP> .
+########
+40
+riddle .
+########
+41
+Ancient Egyptian culture valued its Sphinx as a much more <EOP> .
+########
+42
+benevolent <EOP> .
+########

@@ -1,0 +1,88 @@
+Does death toll climb to 207 in Colombian landslide
+0
+Death toll climbs to 207 in Colombian landslide <EOP> .
+toll	1	CT+	CT+
+########
+1
+2017_04_03 13:36 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+Men walk in a river with their belongings after flooding and mudslides caused by heavy rains in Mocoa , Colombia April 2 , 2017 .
+########
+4
+LRB Photo_Agencies RRB <EOP> .
+########
+5
+BOGOTA _ The death toll from a massive landslide that devastated entire neighborhoods in Colombia 's southwest city of Mocoa , Putumayo , climbed to 207 , Colombian President Juan Manuel Santos said on Sunday .
+toll	4	CT+	CT+
+########
+6
+<EOP> .
+########
+7
+As many as 43 children were among the fatal victims of Saturday 's disaster , which was sparked by heavy rains Friday night that raised water levels in three rivers , unleashing a torrent of mud .
+########
+8
+<EOP> .
+########
+9
+Santos returned to the site of the tragedy to supervise the recovery efforts , saying `` I have come to fix the bottlenecks so the humanitarian aid flows , and to begin the reconstruction phase starting now . ''
+########
+10
+<EOP> .
+########
+11
+At least 300 families in the town of 43,700 inhabitants were left homeless .
+########
+12
+<EOP> .
+########
+13
+Accompanying Santos were his ministers of Mining and Energy , Transport , Interior , and Housing , `` to speed up the restoration of essential basic services , '' said Santos .
+########
+14
+<EOP> .
+########
+15
+`` We are ... fixing bridges and at the same time speeding up construction , the structural part : energy , water and housing .
+########
+16
+The idea is to leave Mocoa better than it was before , '' said Santos .
+########
+17
+<EOP> .
+########
+18
+Also accompanying the president was his wife , Maria Clemencia Rodriguez , who was to supervise the aid for children affected by the landslide .
+########
+19
+<EOP> .
+########
+20
+Officials have identified at least 85 of the victims , but an undetermined number of people remain missing , making it likely the death toll will continue to rise .
+toll	24	CT+	CT+
+missing	17	neg_cue
+likely	21	ps_cue
+will	25	ps_cue
+########
+21
+<EOP> .
+########
+22
+The Mocoa , Mulatos and Sangoyaco rivers , all of which run through the city , burst their banks after a month 's worth of rain fell in a single night .
+########
+23
+<EOP> .
+########
+24
+<EOP> .
+########
+25
+<EOP> .
+########
+26
+<EOP> .
+########

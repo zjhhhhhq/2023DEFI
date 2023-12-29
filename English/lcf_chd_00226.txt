@@ -1,0 +1,56 @@
+Does Belarus cooperate with UN special rapporteur
+0
+Belarus refuses to cooperate with UN special rapporteur <EOP> .
+########
+1
+2017_07_05 09:00 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+MINSK _ Belarus does not recognize the country mandate on Belarus and will not cooperate with the special rapporteur of the UN Human Rights Council Miklos Haraszti , Belarusian Foreign Ministry Spokesman Dmitry Mironchik said on Tuesday .
+cooperate	14	CT-	CT-
+not	13	neg_cue
+not	4	neg_cue
+will	12	ps_cue
+########
+4
+<EOP> .
+########
+5
+The spokesman said that the view on Belarus remains unchanged .
+########
+6
+`` We do n't recognize the country mandate on Belarus and have no intention to cooperate with him , '' Mironchik said .
+cooperate	15	CT-	CT-
+no	12	neg_cue
+n't	3	neg_cue
+########
+7
+<EOP> .
+########
+8
+In this regard , Belarusian Foreign Ministry considers Haraszti 's visit as private .
+considers	7	ps_cue
+########
+9
+<EOP> .
+########
+10
+Arriving in Minsk on July 3 , Haraszti expressed regret that during this visit he was not implemented as a UN special rapporteur on the situation of human rights in Belarus .
+not	16	neg_cue
+########
+11
+<EOP> .
+########
+12
+Haraszti has been UN Special Rapporteur on the situation of human rights in Belarus since 2012 .
+########
+13
+In a report in last May , Haraszti referred to the sharp deterioration in the human rights situation in Belarus .
+May	5	ps_cue
+########
+14
+<EOP> .
+########

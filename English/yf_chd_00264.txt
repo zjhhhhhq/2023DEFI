@@ -1,0 +1,104 @@
+Do Xi Jinping and Trump meet for an extended meeting
+0
+Xi holds extended talks with Trump <EOP> .
+########
+1
+2017_11_09 13:27 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+President Xi Jinping and his US counterpart , Donald Trump , met for an extended meeting at the Great Hall of the People in Beijing on Thursday morning .
+meeting	15	CT+	CT+
+########
+4
+<EOP> .
+########
+5
+The meeting came after a smaller gathering involving the two leaders and some key advisors .
+meeting	1	CT+	CT+
+########
+6
+<EOP> .
+########
+7
+High_ranking officials from each side joined the 50_minute meeting .
+meeting	8	CT+	CT+
+########
+8
+<EOP> .
+########
+9
+In his opening remarks , Xi said that the Sino_US relations are related not only to the happiness of the people of both countries , but also to the peace , stability and prosperity of the whole world .
+not	13	neg_cue
+########
+10
+<EOP> .
+########
+11
+`` For China and the United States , cooperation is the only right choice , '' Xi told Trump .
+########
+12
+<EOP> .
+########
+13
+The bilateral ties have made great progress this year , and the two countries have enhanced high_level exchanges in various areas , Xi said .
+########
+14
+<EOP> .
+########
+15
+The two nations have improved communication and coordination on major global and regional affairs , including the Korean Peninsula and Afghan issues , Xi said .
+########
+16
+<EOP> .
+########
+17
+Noting that the relationship is at a new historical junction , Xi said that China is willing to focus on cooperation and control disagreement with the US , thus to benefit the people of both sides as well as the whole world .
+willing	16	ps_cue
+########
+18
+<EOP> .
+########
+19
+Trump expressed gratitude for the warm reception from the Chinese president , saying that his meeting with Xi last night was `` absolutely terrific '' .
+meeting	15	CT+	CT+
+########
+20
+<EOP> .
+########
+21
+`` There can be no more important subject than China_US relation , '' Trump said .
+can	2	ps_cue
+no	4	neg_cue
+########
+22
+<EOP> .
+########
+23
+`` Our meeting this morning in front of your representative and our representatives was excellent , '' he added .
+meeting	2	CT+	CT+
+########
+24
+<EOP> .
+########
+25
+Trump said he believed that `` there is a solution '' to the Korean Peninsula nuclear issue .
+believed	3	ps_cue
+########
+26
+<EOP> .
+########
+27
+The two sides also discussed bilateral trade , Trump said , adding that the US `` really has to change its policies because they 've gotten so far behind on trade with China , and frankly , with many other countries '' .
+########
+28
+<EOP> .
+########
+29
+`` My feeling toward to you is an incredibly warm one , as we said , there is great chemistry , '' Trump said .
+########
+30
+<EOP> .
+########

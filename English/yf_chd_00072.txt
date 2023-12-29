@@ -1,0 +1,140 @@
+Does the UN General Assembly adopt a resolution on the status of Jerusalem 
+0
+US move on Jerusalem denounced <EOP> .
+########
+1
+2017_12_23 14:38 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+Nonbinding UN vote reflects collective will of the international community <EOP> .
+will	5	ps_cue
+########
+4
+UNITED NATIONS _ The UN General Assembly on Thursday adopted a resolution on the status of Jerusalem that undercuts US President Donald Trump 's decision to recognize Jerusalem as the Israeli capital .
+resolution	11	CT+	CT+
+########
+5
+<EOP> .
+########
+6
+In a rare emergency special session , the resolution proposed by Turkey and Yemen was adopted 128_9 with 35 abstentions .
+resolution	8	CT+	CT+
+rare	2	ps_cue
+proposed	9	ps_cue
+########
+7
+<EOP> .
+########
+8
+The nine countries that voted against the text were Guatemala , Honduras , Marshall Islands , Micronesia , Nauru , Palau , Togo , the United States and Israel .
+against	5	neg_cue
+########
+9
+<EOP> .
+########
+10
+The resolution `` affirms that any decisions and actions which purport to have altered the character , status or demographic composition of the Holy City of Jerusalem have no legal effect , are null and void and must be rescinded in compliance with relevant resolutions of the Security Council , and in this regard calls upon all states to refrain from the establishment of diplomatic missions in the Holy City of Jerusalem '' .
+resolution	1	CT+	CT+
+or	18	ps_cue
+no	28	neg_cue
+########
+11
+<EOP> .
+########
+12
+It further demands that all UN member states comply with Security Council resolutions regarding Jerusalem , and not recognize any actions or measures contrary to those resolutions .
+It	0	CT+	CT+
+not	17	neg_cue
+or	21	ps_cue
+########
+13
+<EOP> .
+########
+14
+Palestinians on Thursday hailed the resolution .
+########
+15
+Nabil Abu Rdineh , spokesman for Palestinian President Mahmoud Abbas , said the resolution expresses the international community 's support for Palestinians ' rights .
+resolution	13	CT+	CT+
+########
+16
+<EOP> .
+########
+17
+`` The threats of Trump to the UN members did n't prevent them from voting in favor of the resolution , '' Abu Rdineh said .
+resolution	19	CT+	CT+
+n't	10	neg_cue
+prevent	11	neg_cue
+########
+18
+<EOP> .
+########
+19
+Such a vote at the General Assembly is nonbinding but a resounding `` yes '' reflects the collective will of the international community and carries much political weight .
+will	18	ps_cue
+########
+20
+<EOP> .
+########
+21
+Defying pressure <EOP> .
+########
+22
+Before the vote , US Ambassador to the UN Nikki Haley repeated the threat to cut aid for the countries voting in favor of the draft as well as US contributions to the UN .
+########
+23
+<EOP> .
+########
+24
+She said her country will move its embassy in Israel from Tel Aviv to Jerusalem .
+will	4	ps_cue
+########
+25
+`` No vote in the United Nations will make any difference on that . ''
+No	1	neg_cue
+will	7	ps_cue
+########
+26
+<EOP> .
+########
+27
+However , Turkish Foreign Minister Mevlut Cavusoglu showed defiance to US pressure .
+########
+28
+<EOP> .
+########
+29
+`` We will not be intimidated .
+will	2	ps_cue
+not	3	neg_cue
+########
+30
+You can be strong , but that does n't make you right , '' Cavusoglu told the emergency special session in clear reference to US threats .
+can	1	ps_cue
+n't	8	neg_cue
+########
+31
+<EOP> .
+########
+32
+Thursday 's General Assembly emergency session was called after the United States vetoed a draft resolution on the status of Jerusalem at the Security Council on Monday .
+resolution	15	CT+	CT+
+########
+33
+All other 14 members of the council voted in favor .
+########
+34
+<EOP> .
+########
+35
+The Security Council vote was prompted by Trump 's Dec 6 announcement to recognize Jerusalem as the Israeli capital and to move the US embassy to Jerusalem .
+########
+36
+<EOP> .
+########
+37
+Xinhua <EOP> .
+########

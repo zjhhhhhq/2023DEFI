@@ -1,0 +1,50 @@
+Do people with a higher IQ live a longer life 
+0
+A survey of more than 2,000 people living in the UK has found that those with a higher IQ are more likely to live a longer life .
+live	23	PS+	PS+
+likely	21	ps_cue
+########
+1
+<EOP> .
+########
+2
+Even when factors such as economic status and employment level were accounted for , the smarter kids ended up living longer than those with lower IQs .
+living	19	CT+	PS+
+########
+3
+<EOP> .
+########
+4
+Researchers analysed data from the Scottish Mental Surveys _ in which almost every 11_year_old in Scotland was given the same IQ test on the same day in 1932 _ and tracked the participants ' lives up to when they passed away .
+########
+5
+The numbers show that someone with an IQ of 115 at age 11 was 21 percent more likely to be alive at the age of 76 than someone with an IQ of 100 .
+alive	20	PS+	PS+
+likely	17	ps_cue
+########
+6
+<EOP> .
+########
+7
+There are some interesting hypotheses : one is that intelligent people are more likely to strap themselves in while driving , choose to eat a healthy diet , avoid smoking , and exercise more often .
+likely	13	ps_cue
+avoid	28	neg_cue
+########
+8
+<EOP> .
+########
+9
+Alternatively , it could be that genes are contributing to the link between IQ and longevity .
+could	3	ps_cue
+########
+10
+<EOP> .
+########
+11
+It 's a complicated area of science , particularly as an IQ score does n't necessarily directly represent intelligence , and can be affected by social class , education standards , and other cultural factors .
+n't	14	neg_cue
+can	21	ps_cue
+########
+12
+<EOP> .
+########

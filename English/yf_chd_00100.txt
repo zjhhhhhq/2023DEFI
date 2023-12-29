@@ -1,0 +1,58 @@
+Does president Trump announce national security strategy
+0
+President Trump announces national security strategy , 1st in term <EOP> .
+announces	2	CT+	CT+
+########
+1
+2017_12_19 08:51 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+WASHINGTON _ US President Donald Trump on Monday announced the national security strategy , the first of its kind since he took office in January and the 17th since the former Reagan administration began to submit the report to the US Congress in 1987 .
+announced	8	CT+	CT+
+########
+4
+<EOP> .
+########
+5
+In a speech delivered in Ronald Reagan Building and International Trade Center , Trump said the report , which has been developed for over a year , features `` principled realism '' and identifies four vital national interests or four `` pillars , '' namely , to protect the homeland and its people , promote the US prosperity , preserve peace through strength and advance the US influence .
+said	14	CT+	CT+
+or	38	ps_cue
+########
+6
+<EOP> .
+########
+7
+`` This strategy recognizes that , whether we like it or not , we are engaged in a new era of competition .
+whether	6	ps_cue
+like	8	ps_cue
+or	10	ps_cue
+not	11	neg_cue
+########
+8
+We accept that vigorous military , economic and political contests are playing out all around the world , '' he said .
+########
+9
+<EOP> .
+########
+10
+He also vehemently blasted the `` failures '' of his predecessors , saying `` for many years our citizens watched as Washington politicians presided over one disappointment after another . ''
+blasted	3	neg_cue
+disappointment	26	neg_cue
+########
+11
+These included the expansion of the Islamic State LRB IS RRB and the unfairly proportionally defense burden Washington has shouldered for its allies .
+########
+12
+<EOP> .
+########
+13
+Saying he will not tolerate the aforementioned `` disappointments '' any more , Trump also defended a string of his highly controversial decisions to retreat from `` job_killing deals '' and the `` very expensive and unfair Paris climate accord , '' as well as to decertify the hard_won Iran nuclear deal in October .
+will	2	ps_cue
+not	3	neg_cue
+########
+14
+<EOP> .
+########

@@ -1,0 +1,78 @@
+Is the different combinations of choices attractive  
+0
+Most people would think if it 's not good looks that make a man most attractive to women , then it 's definitely a sense of humor .
+attractive	15	PS+	PS+
+would	2	ps_cue
+not	7	neg_cue
+########
+1
+<EOP> .
+########
+2
+But studies show that altruism is actually a quality women are especially drawn to when they are looking for a relationship .
+########
+3
+<EOP> .
+########
+4
+One study , published January 2016 in the journal Evolutionary Psychology , presented 202 women with different men to choose from .
+########
+5
+The different combinations of choices were either attractive or not , and they either did a good deed or did n't .
+attractive	7	CT+	PS+
+either	6	ps_cue
+or	8	ps_cue
+not	9	neg_cue
+either	13	ps_cue
+or	18	ps_cue
+n't	20	neg_cue
+########
+6
+<EOP> .
+########
+7
+The women chose the selfish , attractive men for a one night stand .
+########
+8
+But for a long_term relationship , they chose the altruistic man whether he was attractive or not .
+attractive	14	CT+W	PS+
+whether	11	ps_cue
+or	15	ps_cue
+not	16	neg_cue
+########
+9
+<EOP> .
+########
+10
+That 's not to say other traits do n't matter .
+not	2	neg_cue
+n't	8	neg_cue
+########
+11
+Humor is also important to women selecting a mate , researchers have found .
+########
+12
+It makes women assume a man?is more intelligent .
+assume	3	ps_cue
+########
+13
+<EOP> .
+########
+14
+For building long_term relationships , though , altruism is consistently found to be a crucial and highly desirable trait .
+########
+15
+<EOP> .
+########
+16
+Another study , published in The Journal of Social Psychology in 2013 , found that women valued altruism above other traits as a measure of whether a potential mate would make a good parent .
+whether	25	ps_cue
+potential	27	ps_cue
+would	29	ps_cue
+########
+17
+They also said altruism was important for short_term relationships , but significantly more women said the trait mattered for the long_term .
+########
+18
+<EOP> .
+########

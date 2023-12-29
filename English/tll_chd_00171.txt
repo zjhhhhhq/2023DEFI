@@ -1,0 +1,267 @@
+Will the Belt and Road Forum for International Cooperation LRB BRF RRB be held in Beijing 
+0
+Together we can make a difference <EOP> .
+can	2	ps_cue
+########
+1
+2017_05_12 04:06 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+Editor 's note : This article written by Yang Yanyi , China 's ambassador to the European Union , encourages deeper Sino_EU cooperation , and was written ahead of the Belt and Road Initiative Forum for International Cooperation , which will be held in Beijing on Sunday and Monday .
+held	42	CT+	CT+
+will	40	ps_cue
+########
+4
+<EOP> .
+########
+5
+Together We Can Make a Difference <EOP> .
+########
+6
+By H.E. Ambassador Yang Yanyi , Head of the Chinese Mission to the EU <EOP> .
+########
+7
+May 7 , 2017 <EOP> .
+May	0	ps_cue
+########
+8
+When it was announced that the Belt and Road Forum for International Cooperation LRB BRF RRB will be held in Beijing from 14 to 15 May , it soon became headline news .
+held	18	CT+	CT+
+will	16	ps_cue
+May	25	ps_cue
+########
+9
+<EOP> .
+########
+10
+This Forum will be the highest level of international conference held by China since the `` Belt and Road '' initiative was put forward by President Xi Jinping in 2013 .
+held	10	CT+	CT+
+will	2	ps_cue
+forward	23	ps_cue
+forward	23	neg_cue
+########
+11
+<EOP> .
+########
+12
+With `` Strengthening International Cooperation and Co_building the ` Belt and Road ' for Win_win Development '' as its central theme , the Forum is expected to focus on the following : Firstly , further identify goals and principles for cooperation , and deepen the implementation of docking strategies .
+expected	25	ps_cue
+########
+13
+Secondly , draw up cooperation plans for the next 5 years or longer and specify the detailed action plans .
+plans	5	ps_cue
+or	11	ps_cue
+plans	18	ps_cue
+########
+14
+Thirdly , come up with list of projects and push forward implementation .
+forward	10	ps_cue
+forward	10	neg_cue
+########
+15
+Fourthly , introduce a series of significant policies and supportive measures including strengthening financial cooperation mechanism , constructing comprehensive service platforms and enhancing exchange and training of professional talents .
+########
+16
+<EOP> .
+########
+17
+The quality of the theme and program has attracted broad participation of over 1200 officials , scholars , entrepreneurs and people from financial institutions and media from 110 countries , and 89 principals and representatives from 61 international organizations .
+########
+18
+Of the 28 heads of state and government to attend the Forum , quite a number are from Europe __ President Milos Zeman of the Czech Republic , President Doris Leuthard of the Swiss Confederation , Prime Minister Alexis Tsipras of Greece , Prime Minister Viktor Orban of Hungary , Prime Minister Paolo Gentiloni of Italy , Prime Minister Beata Szydło of Poland , Prime Minister Aleksandar Vucic of Serbia , Prime Minister Mariano Rajoy of Spain .
+########
+19
+Vice_President of the European Commission Mr. Jyrki Katainen will be also attending .
+will	8	ps_cue
+########
+20
+<EOP> .
+########
+21
+At a time when the foundation for global economic recovery is not solid , trade investment remains weak , and growth impetus is also unstable , this Forum will offer an excellent opportunity to take stock of what has been achieved and most importantly to consolidate closer and stronger partnership , and draw strengths to upgrade infrastructure construction and connectivity to cultivate new growth impetus .
+not	11	neg_cue
+will	28	ps_cue
+########
+22
+<EOP> .
+########
+23
+It is fair to say that China and Europe share much in common in pursuing shared growth , development and connectivity including through the `` Belt and Road '' initiative and have come up with a proud record so far .
+########
+24
+<EOP> .
+########
+25
+With regard to policy coordination and strategic guidance , back in 2015 , at the 17th China_EU Summit , China and the EU reached important agreement to support synergies between the `` Belt and Road '' initiative and the Investment Plan for Europe .
+########
+26
+China and some European countries have signed inter_governmental cooperation document and launched `` Belt and Road '' working group mechanism to jointly advancing the Belt and Road Initiative .
+########
+27
+To enrich and compliment European integration and the overall partnership and cooperation between China and the EU , China and 16 Central and Eastern European LRB CEE RRB countries have worked closely to enhance cooperation within the `` Belt and Road '' initiative and 16 +1 framework .
+########
+28
+<EOP> .
+########
+29
+With regard to facility connectivity , as concrete steps to promote seamless traffic flows and transport facilitation , China and the EU signed an MOU on establishment of a Connectivity Platform , conducted ministerial and expert group meetings to share information , identify co_operation opportunities , explore business and investment opportunities and create favorable environment for sustainable and inter_operable cross_border infrastructure networks in countries and regions between China and the EU .
+opportunities	44	ps_cue
+opportunities	50	ps_cue
+########
+30
+<EOP> .
+########
+31
+Bilaterally , China launched rail freight service with some European countries , including the first direct rail link between China and Great Britain which went into operation early this year .
+########
+32
+Bilateral or trilateral cooperation in such areas as railway , ports , airports , power , transportation and logistics between China and European countries have also gathered momentum .
+or	1	ps_cue
+########
+33
+<EOP> .
+########
+34
+To implement their Joint Statement on 5G telecommunications , China and the EU are joining hands to deepen dialogues and cooperation in areas of ICT to achieve a better synergy between Europe 's digital agenda and China 's Internet Plus strategy and to benefit the 1.1 billion Internet users in both China and the EU .
+########
+35
+<EOP> .
+########
+36
+With regard to financial integration , to develop practical avenues for mutually beneficial co_operation , China and the EU agreed to set up a co_investment fund and experts from China 's Silk Road Fund , the European Commission and the European Investment Bank LRB EIB RRB have kept in close touch to work on concrete ways to increase cooperation on investment .
+########
+37
+<EOP> .
+########
+38
+Recognizing the high importance of having the world 's second largest economy as a shareholder of the European Bank of Reconstruction and Development LRB EBRD RRB , China became the Bank 's 67th member early last year .
+########
+39
+As described by President Sir Suma Chakrabarti of the EBRD , China 's membership is a win_win scenario .
+########
+40
+While supporting Chinese companies to invest in the EBRD regions , EBRD will also provide a boost to `` Belt and Road '' initiative where it passes through EBRD countries of operations .
+will	12	ps_cue
+########
+41
+<EOP> .
+########
+42
+Notably also , the EU and many of its Members States have shown strong interest and support to cooperate with the Asian Infrastructure Investment Bank LRB AIIB RRB to address Asia 's extensive needs for infrastructure investment .
+needs	33	ps_cue
+########
+43
+Of the 52 members of the AIIB , 18 are from Europe and among which 14 are EU Member States .
+########
+44
+<EOP> .
+########
+45
+With regard to people_to_people bonds , the past years have witnessed three China_EU High_Level People_to_People Dialogues LRB HPPD RRB and expansion of student and professor exchanges , multiplying meetings between youth organizations , strengthening cooperation in the cultural field and increasing communication between think tanks , academics and journalists .
+########
+46
+<EOP> .
+########
+47
+To promote mobility of our peoples and stronger relationships between China and the EU , China and the EU signed an Agreement on the Short_Stay Visa Waiver for Holders of Diplomatic Passport in March 2016 and agreed to open visa application centers in mutually agreed Chinese cities without consular presence .
+without	47	neg_cue
+########
+48
+<EOP> .
+########
+49
+Thanks to the initiative of the Committee on Transport and Tourism of the European Parliament , the EU_China One Belt One Road Culture and Tourism Development Committee was established to promote cultural diversity , connectivity , heritage preservation and harness the tourism growth potential of China and the EU , and ensure greater progress and development of the `` Belt and Road '' initiative .
+potential	43	ps_cue
+########
+50
+<EOP> .
+########
+51
+In short , even though the `` Belt and Road '' initiative is relatively new and road ahead is challenging , it has captured imaginations and made a good start and solid progress .
+########
+52
+<EOP> .
+########
+53
+Now , with the highly_anticipated the Belt and Road Forum for International Cooperation approaching , interest in exploring and collaborating in potential areas of cooperation between China and the EU to create fresh energy for pursuing interconnected development is growing .
+potential	21	ps_cue
+########
+54
+<EOP> .
+########
+55
+To contribute to the ongoing efforts and deliberations , I wish to make some humble observations .
+########
+56
+<EOP> .
+########
+57
+First , just as the ancient Silk Road that brought benefits to China , Central Asia , the Middle East , Africa and Europe , the `` Belt and Road '' is guided by the spirit of openness and constructive cooperation .
+########
+58
+Against rising protectionist and anti_globalization sentiments around the world , and even advocating and implementing of trade protection measures by some , it is in all our interests that China and the EU stay committed to free trade and economic openness , to a rules_based , transparent and fair international trading regime and order ; and join in our shared desire to open up markets , oppose protectionism and secure greater connectivity and economic development and prosperity .
+oppose	66	neg_cue
+########
+59
+<EOP> .
+########
+60
+Second , the `` Belt and Road '' initiative is a win_win formula and not a one_state show .
+not	14	neg_cue
+########
+61
+Time will prove wrong and unwarranted the notion that this project is designed to access new markets for China and presents a challenge and even `` threat '' to the future of Europe .
+will	1	ps_cue
+########
+62
+Such kind of view neglects the many facets of the initiative and overlooks the fresh perspectives it will bring to European integration .
+will	17	ps_cue
+########
+63
+Being open , transparent , harmonious and inclusive , `` Belt and Road '' initiative is an invitation to all countries along the routes .
+########
+64
+All participants have the opportunity to join in the design of its objectives and goals , build synergies between their development strategies with this initiative , explore options for cooperation , contribute to the improvement of mechanisms and share the benefit of the project .
+########
+65
+<EOP> .
+########
+66
+Third , it is high time that China and the EU capitalize on the new and exciting opportunities and gear up to deliver on the `` Belt and Road '' initiative .
+opportunities	17	ps_cue
+########
+67
+Among others , we wish to broaden policy coordination and further cooperation consensus through institutionalized dialogue mechanism especially the China_EU High_Level Economic and Trade Dialogue , carry out closer collaboration on concrete projects within the China_EU Connectivity Platform , work closely to explore ways and means of joint financing and initiating projects and work out concrete road_map for implementation , deepen China_EU legal affairs dialogue with a view to creating enabling environment for business , and push ahead China_EU Migration and Mobility Dialogue to facilitate increased connections between our peoples .
+########
+68
+<EOP> .
+########
+69
+Besides , we are more than ready to add new dimensions to our cooperation .
+ready	6	ps_cue
+########
+70
+For instance , given that China has embarked on an ambitious transition to a new model of economic development based on innovation , and innovation remains essential in European integration process , we should make it a high priority to enhance cooperation in science and technology and innovation .
+should	33	ps_cue
+########
+71
+There is also the need to further promote cooperation between small and medium_sized enterprises LRB SMEs RRB and give full play to their role as principal driving forces in economic development and regional integration .
+need	4	ps_cue
+########
+72
+<EOP> .
+########
+73
+Last but not least , it is hoped that at the upcoming BRF and the 19th China_EU Summit , China and the EU will send out this positive message loud and clear : as two important factors for the maintenance of world peace and promotion of common development and prosperity , China and the EU will shoulder the shared responsibility to promote the construction of a more fair , reasonable and balanced global governance system under the concept that features openness and inclusiveness and win_win cooperation , and that together we can make a difference .
+not	2	neg_cue
+hoped	7	ps_cue
+will	23	ps_cue
+will	55	ps_cue
+can	91	ps_cue
+########
+74
+<EOP> .
+########

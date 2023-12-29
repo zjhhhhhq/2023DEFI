@@ -1,0 +1,106 @@
+Are police vehicles seen in lower Manhattan in New York
+0
+Terror suspect in NYC attack identified <EOP> .
+suspect	1	ps_cue
+########
+1
+2017_11_01 09:58 <EOP> .
+########
+2
+null <EOP> .
+########
+3
+<EOP> .
+########
+4
+Police vehicles and ambulances are seen near the site of an attack in lower Manhattan in New York , the United States , on Oct 31 , 2017 .
+Manhattan	14	CT+	CT+
+########
+5
+LRB Photo_Xinhua RRB <EOP> .
+########
+6
+NEW YORK _ A man in a rented pickup truck mowed down pedestrians and cyclists along a busy bike path near the World Trade Center memorial on Tuesday , killing at least eight and seriously injuring 11 in what the mayor called `` a particularly cowardly act of terror . ''
+########
+7
+<EOP> .
+########
+8
+The driver was shot in the abdomen by police after jumping out of the truck with what turned out to be a fake gun in each hand and shouting what witnesses said was `` Allahu Akbar , '' Arabic for `` God is great , '' authorities said .
+########
+9
+The man underwent surgery and was in critical condition but was expected to survive .
+expected	11	ps_cue
+########
+10
+<EOP> .
+########
+11
+Officials who were not authorized to discuss the investigation and spoke on the condition of anonymity identified the attacker as 29_year_old Sayfullo Saipov and said he is from Uzbekistan and came to the US legally in 2010 .
+not	3	neg_cue
+########
+12
+He has a Florida driver 's license but may have been staying in New Jersey , they said .
+may	8	ps_cue
+########
+13
+<EOP> .
+########
+14
+The driver barreled along the bike path in a rented Home Depot truck for the equivalent of about 14 blocks , or around eight_tenths of a mile , before slamming into a small yellow school bus .
+blocks	19	neg_cue
+or	21	ps_cue
+########
+15
+The mayhem and the burst of police gunfire set off panic in the lower Manhattan neighborhood and left the pavement strewn with mangled bicycles and bodies that were soon covered with sheets .
+Manhattan	14	CT+	CT+
+########
+16
+<EOP> .
+########
+17
+`` I saw a lot of blood over there .
+########
+18
+A lot of people on the ground , '' said Chen Yi , an Uber driver .
+########
+19
+<EOP> .
+########
+20
+Eugene Duffy , a chef at a waterfront restaurant , said , `` So many police came , and they did n't know what was happening .
+n't	21	neg_cue
+########
+21
+People were screaming .
+########
+22
+Females were screaming at the top of their lungs . ''
+########
+23
+Argentina 's foreign minister said the dead included Argentine citizens .
+########
+24
+<EOP> .
+########
+25
+Police closed off streets across the western edge of lower Manhattan along the Hudson River , and officers rushed into the neighborhood just as people were preparing for Halloween festivities , including the big annual parade through Greenwich Village .
+Manhattan	10	CT+	CT+
+########
+26
+<EOP> .
+########
+27
+A police bomb squad scoured the truck but found no explosives .
+no	9	neg_cue
+########
+28
+<EOP> .
+########
+29
+`` This was an act of terror , and a particularly cowardly act of terror aimed at innocent civilians , aimed at people going about their lives who had no idea what was about to hit them , '' Mayor Bill de Blasio said .
+no	29	neg_cue
+########
+30
+<EOP> .
+########

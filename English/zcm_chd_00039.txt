@@ -1,0 +1,139 @@
+Will Uruguay host China_LAC business summit
+0
+Uruguay to host China_LAC business summit <EOP> .
+host	2	CT+	CT+
+########
+1
+2017_09_21 16:11 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+Chinese investors will get a chance for a closer look at potential markets in Latin America during a one_stop platform later this year at a central point of the region .
+will	2	ps_cue
+potential	11	ps_cue
+########
+4
+<EOP> .
+########
+5
+<EOP> .
+########
+6
+<EOP> .
+########
+7
+<EOP> .
+########
+8
+Ma Zhenxuan LRB L RRB , president of Public Diplomacy and Culture Exchange Center receives a replica piece of Uruguay 's 1930 World Cup trophy from Benjamín Liberoff , vice minister of tourism of Uruguay , during a conference to promote the 2017 China_Latin American and Caribbean Business Summit in Beijing September 19 , 2017 .
+########
+9
+LRB Provided to chinadaily.com.cn RRB <EOP> .
+########
+10
+<EOP> .
+########
+11
+The 2017 China_Latin American and Caribbean Business Summit will kick off in Punta del Este in Uruguay from Nov 30 to Dec 2 .
+will	8	ps_cue
+########
+12
+The forum in Punta del Este will focus on topics like infrastructure , renewable energy and agribusiness , a summit executive said .
+will	6	ps_cue
+like	10	ps_cue
+########
+13
+<EOP> .
+########
+14
+Uruguay , covering an area of 176,000 square kilometers , lies on the east coast of the Pacific Ocean between Brazil and Argentina , the two largest countries on the continent .
+########
+15
+It boasts the continent 's finest distribution center , connecting to more than 600 million consumers .
+########
+16
+Featuring natural wonders , an abundance of resources and political stability , the country is emerging as one of the hottest destinations for world tourists and investment .
+########
+17
+<EOP> .
+########
+18
+Punta del Este , which means `` End of the East '' in Spanish , is 130 kilometers northeast of the capital city of Montevideo , one of the world 's top recreation and business resorts .
+########
+19
+<EOP> .
+########
+20
+Benjamín Liberoff , visiting vice minister of tourism of Uruguay , said the country is doing its utmost to attract more Chinese investors and visitors .
+########
+21
+The visa policy is one such effort , Liberoff said during a Beijing press conference prior to the summit on Tuesday .
+########
+22
+The vice minister said they would like to invite Chinese President Xi Jinping for a visit around the G20 Summit in Argentina next year as the two countries will celebrate the 30th anniversary of establishment of diplomatic relations .
+would	5	ps_cue
+like	6	ps_cue
+will	28	ps_cue
+########
+23
+<EOP> .
+########
+24
+There are about 1,500 Chinese tourists to Uruguay on average every year , among the 6,000 who come from Asia .
+########
+25
+170,000 come from Europe .
+########
+26
+<EOP> .
+########
+27
+According to Fernando Lugris , Uruguay 's ambassador to China , China is Uruguay 's top trade partner and Uruguay is the top beef exporter to China .
+########
+28
+Uruguay has toured more than 20 cities in China , and all Latin American nations to promote the country 's tourism and preparation work before the summit .
+promote	16	CT+	CT+
+########
+29
+<EOP> .
+########
+30
+Representatives from Costa Rica , Colombia , Cuba , Ecuador and Peru gave a introduction promoting their countries ' qualities at the Tuesday conference .
+gave	12	neg_cue
+########
+31
+<EOP> .
+########
+32
+The conference was supported by the Public Diplomacy and Culture Exchange Center , China 's largest non_official diplomatic institute .
+supported	3	CT+	CT+
+########
+33
+<EOP> .
+########
+34
+Ma Zhenxuan , president of the exchange center , said the China_LAC exchange is an important part of China 's Belt and Road Initiative campaign and Latin American countries are important members on the route .
+########
+35
+The exchange center is committed to helping China and the LAC countries know more about each other , for a better future of cooperation .
+########
+36
+<EOP> .
+########
+37
+Ma was presented with a replica piece of Uruguay 's 1930 World Cup trophy -- the country 's first of two World Cup top prizes -- by the vice tourism minister and an award from the ambassador to celebrate the center 's 10th anniversary .
+########
+38
+<EOP> .
+########
+39
+<EOP> .
+########
+40
+<EOP> .
+########
+41
+<EOP> .
+########

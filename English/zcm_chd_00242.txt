@@ -1,0 +1,117 @@
+Did the agreement strengthen cooperation and knowledge sharing between the two multilateral financial institutions
+0
+AIIB , World Bank boost cooperation <EOP> .
+########
+1
+2017_04_24 17:20 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+The World Bank Group and the Asian Infrastructure Investment Bank LRB AIIB RRB inked an agreement on Sunday to strengthen cooperation and knowledge sharing between the two multilateral financial institutions .
+strengthen	19	CT+	CT+
+########
+4
+<EOP> .
+########
+5
+World Bank Group President Jim Yong Kim and AIIB President Jin Liqun signed the memorandum of understanding on the last day of the 2017 IMF_World Bank annual spring meeting held in Washington .
+########
+6
+<EOP> .
+########
+7
+The MOU provides an overall framework for cooperation between the World Bank Group and the AIIB in common areas of interest , including development financing , staff exchanges and analytical and sector work .
+########
+8
+It paves the way for the two institutions to further enhance coordination at the regional and country levels , according to a World Bank press release .
+enhance	10	CT+	CT+
+########
+9
+<EOP> .
+########
+10
+`` The World Bank Group has worked closely with our partners at the Asian Infrastructure Investment Bank since its inception , '' Kim said .
+########
+11
+<EOP> .
+########
+12
+`` We 're already financing projects together from Azerbaijan to Indonesia , and I 'm delighted to further strengthen our partnership .
+strengthen	18	CT+	CT+
+########
+13
+Collaboration between development institutions is essential to make the best use of scarce resources , bring in the private sector , and meet the rising aspirations of the people we serve , '' Kim added .
+########
+14
+<EOP> .
+########
+15
+The two institutions signed a co_financing framework agreement for investment projects a year ago .
+########
+16
+Since then , the AIIB and the World Bank have co_financed five projects : supporting power generation in Pakistan , a natural gas pipeline in Azerbaijan , and slum upgrading , dam safety and regional infrastructure development in Indonesia .
+########
+17
+The two institutions are discussing more projects to be co_financed in 2017 and 2018 .
+########
+18
+<EOP> .
+########
+19
+The AIIB and the International Finance Corporation , a member of the World Bank Group , have co_invested in a power sector project in Myanmar and are discussing additional potential projects .
+potential	29	ps_cue
+########
+20
+<EOP> .
+########
+21
+`` Signing this memorandum of understanding fits into our vision of a new kind of internationalism , '' Jin said .
+########
+22
+<EOP> .
+########
+23
+`` It deepens our relationship with the World Bank Group and sets up the mechanisms through which we can more easily collaborate and share information .
+can	18	ps_cue
+########
+24
+We place a high value on our partnerships because by working together , we greatly increase our potential for positive outcomes in Asia , '' Jin said .
+potential	17	ps_cue
+########
+25
+<EOP> .
+########
+26
+In 2015 , the World Bank Group and the Multilateral Interim Secretariat for the Establishment of the AIIB signed a memorandum of understanding for overall cooperation and knowledge exchange , which ended when the AIIB was formally established .
+########
+27
+<EOP> .
+########
+28
+Unlike the less than supportive attitude expressed by former US President Barack Obama 's administration , World Bank President Kim and IMF Managing Director Christine Lagarde have voiced their support for the AIIB since the very beginning .
+########
+29
+<EOP> .
+########
+30
+The Beijing_based AIIB opened for business in January 2016 with the aim of supporting infrastructure construction in the Asia_Pacific region .
+########
+31
+According to statistics at the end of March , it had 52 member states and another 18 prospective members .
+########
+32
+<EOP> .
+########
+33
+James Woolsey Jr , a former director of the CIA and former advisor to President Donald Trump 's campaign , indicated earlier that the Trump administration might be interested in joining the AIIB , but no senior Trump administration official has given any clear signal on the issue so far .
+might	26	ps_cue
+no	35	neg_cue
+########
+34
+<EOP> .
+########
+35
+chenweihua@chinadailyusa.com <EOP> .
+########

@@ -1,0 +1,135 @@
+Was girl trapped alive in quake not real 
+0
+Officials : Girl trapped alive in quake not real <EOP> .
+real	8	CT-	CT-
+not	7	neg_cue
+########
+1
+2017_09_23 06:59 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+<EOP> .
+########
+4
+MEXICO CITY _ Hour after hour , Mexicans were transfixed by dramatic efforts to reach a young girl thought buried in the rubble of a school destroyed by a magnitude 7.1 earthquake .
+########
+5
+She reportedly wiggled her fingers , told rescuers her name and said there were others trapped near her .
+########
+6
+Rescuers called for tubes , pipes and other tools to reach her .
+########
+7
+<EOP> .
+########
+8
+News media , officials and volunteers all repeated the story of `` Frida Sofia '' with an urgency that drew attention away from other rescue efforts .
+########
+9
+<EOP> .
+########
+10
+But she never existed , Mexican Navy officials now say .
+existed	3	CT-	CT-
+never	2	neg_cue
+########
+11
+<EOP> .
+########
+12
+`` We want to emphasize that we have no knowledge about the report that emerged with the name of a girl , '' navy Assistant Secretary Angel Enrique Sarmiento said Thursday .
+knowledge	9	CT-	CT-
+no	8	neg_cue
+########
+13
+`` We never had any knowledge about that report , and we do not believe _ we are sure _ it was not a reality . ''
+never	2	neg_cue
+not	13	neg_cue
+not	22	neg_cue
+########
+14
+<EOP> .
+########
+15
+Sarmiento said a camera lowered into the rubble of the Enrique Rebsamen school showed blood tracks where an injured person apparently dragged himself or herself .
+or	23	ps_cue
+########
+16
+But there were no fingers wiggling , no voice , no name .
+no	3	neg_cue
+no	7	neg_cue
+no	10	neg_cue
+########
+17
+Several dead have been removed from the rubble , and it could have been their fingers rescuers thought they saw move .
+could	11	ps_cue
+########
+18
+<EOP> .
+########
+19
+Sarmiento later said that if a person is still trapped it could be a child or an adult .
+could	11	ps_cue
+or	15	ps_cue
+########
+20
+<EOP> .
+########
+21
+`` The information existing at this moment does n't allow us to say if it is an adult or a child , '' Sarmiento said .
+n't	8	neg_cue
+or	18	ps_cue
+########
+22
+`` As long as there is the slightest possibility of someone alive , we will continue searching with the same energy . ''
+possibility	8	ps_cue
+will	14	ps_cue
+########
+23
+<EOP> .
+########
+24
+Twitter users quickly brought out the `` fake news '' tag and complained that the widespread coverage had distracted attention from real rescue efforts where victims have been pulled alive from the rubble _ something that has n't happened at the school in at least a day .
+n't	37	neg_cue
+########
+25
+<EOP> .
+########
+26
+Only one network had been permitted to enter the area .
+########
+27
+The military , which ran the rescue operation , spoke directly only to the network 's reporters inside the site .
+########
+28
+<EOP> .
+########
+29
+The Associated Press and others reported about the search for the girl , based on interviews with rescue workers leaving the scene who believed it was true .
+believed	23	ps_cue
+########
+30
+<EOP> .
+########
+31
+`` I do n't think there was bad faith involved , '' security analyst Alejandro Hope said .
+n't	3	neg_cue
+########
+32
+`` You want to believe there are children still alive down there . ''
+########
+33
+<EOP> .
+########
+34
+Associated Press <EOP> .
+########
+35
+<EOP> .
+########
+36
+LRB China Daily 09_23_2017 page1 RRB <EOP> .
+########

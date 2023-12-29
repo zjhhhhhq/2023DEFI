@@ -1,0 +1,131 @@
+Does South Korean media criticize Abe 's attempt to revise pacifist constitution
+0
+S.Korean media harshly criticizes Abe 's attempt to revise pacifist constitution <EOP> .
+criticizes	3	CT+	CT+
+########
+1
+2017_05_04 19:50 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+SEOUL __ South Korean media outlets on Thursday harshly criticized Japanese Prime Minister Shinzo Abe 's attempts to revise the so_called pacifist constitution , demanding a complete renunciation of war .
+criticized	9	CT+	CT+
+criticized	9	neg_cue
+########
+4
+<EOP> .
+########
+5
+As Japan marked the 70th anniversary of its constitution on Wednesday , Abe said he planned to amend the constitution by 2020 to make clear the status of its military , known as Self_Defense Forces LRB SDF RRB .
+planned	15	ps_cue
+########
+6
+<EOP> .
+########
+7
+The constitution was enacted in 1947 by the United States to force Japan to fully renounce war , as the militarist Japan waged the Pacific War and committed numerous war crimes against humanity .
+against	31	neg_cue
+########
+8
+<EOP> .
+########
+9
+Abe 's attempts to revise the pacifist constitution was denounced by South Korean media as an attempt to make Japan a county capable of waging a war on the poor excuse of rising security threats from the Democratic People 's Republic of Korea LRB DPRK RRB .
+denounced	9	CT+	CT+
+########
+10
+<EOP> .
+########
+11
+Kookmin Ilbo newspaper described the Abe cabinet as extreme rightists who dream of creating a country capable of waging a war without repentance over its World War II atrocities .
+without	21	neg_cue
+########
+12
+<EOP> .
+########
+13
+The newspaper said the SDF `` pretended to be a military '' though the forces have no right to attack any country but only right to defend itself .
+no	16	neg_cue
+########
+14
+<EOP> .
+########
+15
+Japan has recently sent two naval destroyers to join the exercises with the USS Carl Vinson aircraft carrier in waters off the Korean Peninsula .
+########
+16
+<EOP> .
+########
+17
+Newsis news agency reported a growing number of people in Japan who are in favor of the revised constitution , though opponents to the amendment are still larger than proponents .
+########
+18
+<EOP> .
+########
+19
+The news agency attributed the change in public opinion to Abe who `` recently fanned the Korean Peninsula crisis '' of security amid escalating tensions on the peninsula following the dispatch of the U.S. super_carrier and warships .
+########
+20
+<EOP> .
+########
+21
+Yonhap news agency also pointed out Abe 's politicization of security issues , saying his use of the DPRK for a political purpose increased public consent to the constitution amendment .
+########
+22
+<EOP> .
+########
+23
+Criticism of Abe 's pursuit for re_militarization was conducted by both conservative and progressive media outlets .
+########
+24
+<EOP> .
+########
+25
+Conservative Donga Ilbo newspaper said the pacifist constitution represents Japan 's repentance over the past aggression , which has been positively evaluated in the world as a symbol of pacifism .
+########
+26
+<EOP> .
+########
+27
+The Korean Peninsula was colonized by the imperialist Japan from 1910 to 1945 .
+########
+28
+Abe has yet to sincerely apologize for comfort women victims , or women who were forced into sexual slavery for Japan 's military brothels before and during World War II .
+yet	2	neg_cue
+or	11	ps_cue
+########
+29
+<EOP> .
+########
+30
+The newspaper said nine out of 10 Japanese also positively see their current constitution , criticizing Abe 's attempts to emphasize the tensions on the peninsula to make frightened people being more in favor of the constitutional revision .
+########
+31
+<EOP> .
+########
+32
+Recently , increased moves of the SDF were described by the newspaper as a unitization of militaries of the U.S. and Japan .
+########
+33
+<EOP> .
+########
+34
+Liberal Kyunghyang Shinmun newspaper elaborated on Japanese extreme_rightist civic groups ' support to Abe 's attempts to amend the constitution .
+########
+35
+<EOP> .
+########
+36
+The newspaper quoted a Japanese attending an event hosted by extreme_rightist groups as saying it is high time to rearm Japan as the issue on the DPRK 's nuclear and missile programs came into focus .
+########
+37
+<EOP> .
+########
+38
+Such events were also attended by Japanese rightist lawmakers , according to the newspaper .
+########
+39
+<EOP> .
+########

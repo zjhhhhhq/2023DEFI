@@ -1,0 +1,148 @@
+Does Moon send special envoy to China 
+0
+Moon sends special envoy to China <EOP> .
+sends	1	CT+	CT+
+########
+1
+2017_05_16 08:14 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+SEOUL _ ROK President Moon Jae_in has picked special envoys to be dispatched to China , the United States , Russia , Japan and the European Union , senior presidential press secretary Yoon Young_chan said on Monday .
+dispatched	12	CT+	CT+
+########
+4
+<EOP> .
+########
+5
+Yoon said in a statement that Moon picked figures who can best understand his diplomatic vision and foreign policy .
+can	10	ps_cue
+########
+6
+They are set to leave as soon as schedules are tuned up with counterparts .
+########
+7
+<EOP> .
+########
+8
+Moon won a landslide victory in the May 9 presidential by_election .
+May	7	ps_cue
+########
+9
+Since his inauguration soon after the victory , the new leader had a series of phone conversations with several world leaders and promised to send special envoys for discussions on current situation on the Korean Peninsula .
+send	24	CT+	CT+
+########
+10
+<EOP> .
+########
+11
+Moon decided to send Lee Hae_chan , who served as prime minister under the Roh Moo_hyun government , to China as special envoy on the US Terminal High Altitude Area Defense missile system and the Democratic People 's Republic of Korea .
+send	3	CT+	CT+
+########
+12
+<EOP> .
+########
+13
+Lee is an influential figure in Moon 's ruling Democratic Party as he is a lawmaker and one of co_chiefs who led the party 's presidential campaign .
+########
+14
+<EOP> .
+########
+15
+He was dispatched to China as a special envoy when late president Roh , for whom Moon served as chief of staff , was inaugurated in February 2003 .
+dispatched	2	CT+	CT+
+########
+16
+<EOP> .
+########
+17
+The Blue House said Lee has a deep experience on China and maintains close relations with Chinese figures .
+########
+18
+<EOP> .
+########
+19
+A senior presidential official , who declined to be identified , confirmed that the special envoy will discuss a broad range of issues , including the THAAD and the DPRK .
+declined	6	neg_cue
+will	16	ps_cue
+########
+20
+<EOP> .
+########
+21
+As the two issues are interconnected , the official said , they would be handled together .
+would	12	ps_cue
+########
+22
+<EOP> .
+########
+23
+Moon 's special envoys to the world powers will deliver his handwritten letters to his counterparts to express his willingness for a cooperative diplomacy , while meeting with a wide range of senior government officials to explain the new government 's policy and vision and exchange in_depth opinions on the development of bilateral relations , the Blue House said .
+deliver	9	CT+	CT+
+will	8	ps_cue
+########
+24
+<EOP> .
+########
+25
+Other messengers <EOP> .
+########
+26
+Meanwhile , Moon selected Hong Seok_hyun , former chairman of the Joongang Media Network , as a special envoy to the United States .
+########
+27
+<EOP> .
+########
+28
+Hong worked for the Roh administration in 2005 as the country 's ambassador to Washington and has since built a broad range of personal connections in the US .
+########
+29
+<EOP> .
+########
+30
+Moon Hee_sang , a lawmaker of the Democratic Party , will be sent to Japan as special envoy .
+sent	12	CT+	CT+
+will	10	ps_cue
+########
+31
+He is a former National Assembly vice_speaker and a sitting senior adviser of the ruling party .
+########
+32
+<EOP> .
+########
+33
+He built a broad personal network in Japan when he was the chief of the South Korea_Japan Parliamentarians ' Union in 2004_08 .
+########
+34
+<EOP> .
+########
+35
+Song Young_gil of the Democratic Party will be dispatched to Russia as the lawmaker serves now as vice chief of the South Korea_Russia diplomatic committee comprising lawmakers of the two nations .
+will	6	ps_cue
+########
+36
+<EOP> .
+########
+37
+Song built connections with Russian figures when he served as a mayor of the country 's west port city of Incheon in 2010_14 .
+########
+38
+In 2013 , Russian President Vladimir Putin awarded him the Order of Peace and Amity .
+########
+39
+<EOP> .
+########
+40
+Cho Yoon_je , a professor at Sogang University in Seoul , was picked as a special envoy to the EU and Germany .
+########
+41
+He served as an economic aide to former president Roh and was former ambassador to the United Kingdom in 2005_08 .
+########
+42
+<EOP> .
+########
+43
+Xinhua <EOP> .
+########

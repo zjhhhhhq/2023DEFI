@@ -1,0 +1,198 @@
+Is Theresa May resilent
+0
+Ice maiden or robot ?
+or	2	ps_cue
+########
+1
+UK PM relives her disaster conference <EOP> .
+########
+2
+2017_10_09 10:08 <EOP> .
+########
+3
+Xinhua <EOP> .
+########
+4
+<EOP> .
+########
+5
+Britain 's Prime Minister Theresa May coughs as she addresses the Conservative Party conference in Manchester , October 4 , 2017 .
+May	5	ps_cue
+########
+6
+LRB Photo_Agencies RRB <EOP> .
+########
+7
+LONDON _ British Prime Minister Theresa May relived Sunday the ordeal of her disastrous party conference speech , insisting `` I am resilient '' .
+resilient	22	CT+	CT+
+May	6	ps_cue
+########
+8
+<EOP> .
+########
+9
+In her first major interview since Wednesday 's conference fiasco when a prankster interrupted her speech , her coughing fits and the stage backdrop falling apart , May said at no time did she think of giving up .
+giving	36	CT-	CT+
+no	30	neg_cue
+May	27	ps_cue
+########
+10
+<EOP> .
+########
+11
+In an exclusive interview in the Sunday Times newspaper , May was asked if she had cried or been depressed in the aftermath of her speech .
+May	10	ps_cue
+or	17	ps_cue
+########
+12
+<EOP> .
+########
+13
+She replied : `` One minute journalists are accusing me of being an ice maiden or a robot , then they claim I 'm a weeping woman in dire need of a good night 's sleep !
+or	15	ps_cue
+need	29	ps_cue
+########
+14
+The truth is my feelings can be hurt , like everyone else , but I am pretty resilient . ''
+resilient	17	CT+	CT+
+can	5	ps_cue
+like	9	ps_cue
+########
+15
+<EOP> .
+########
+16
+May said at no point did she feel like leaving the stage when things went wrong , adding , `` I am a very determined person '' .
+determined	24	CT+	CT+
+May	0	ps_cue
+no	3	neg_cue
+like	8	ps_cue
+########
+17
+<EOP> .
+########
+18
+Describing what gave her the guts to plough on , May said the speech had not been the easiest in her life .
+gave	2	neg_cue
+May	10	ps_cue
+not	15	neg_cue
+########
+19
+<EOP> .
+########
+20
+`` But I had an important message to deliver and I was determined to do that .
+determined	12	CT+	CT+
+########
+21
+It did n't feel like I was alone up there , it felt like everyone in the room was with me and willing me on and that made a huge difference , '' she said .
+n't	2	neg_cue
+like	4	ps_cue
+like	13	ps_cue
+willing	22	ps_cue
+########
+22
+<EOP> .
+########
+23
+Asked if the speech was the worse day of her life , May described it as just a speech , adding that she had had to deal with horrific events such as the `` appalling Grenfell Tower fire and loss of life '' .
+May	12	ps_cue
+loss	39	neg_cue
+########
+24
+<EOP> .
+########
+25
+`` In my life there have , of course , been difficult times but what motivates me is giving a voice to those who struggle to be heard , '' she said .
+########
+26
+<EOP> .
+########
+27
+Asked if she feared for her own safety when the prankster approached her during the speech , May said : `` I was n't concerned for my safety , there was nothing about his body language that gave me cause for alarm .
+May	17	ps_cue
+n't	23	neg_cue
+nothing	31	neg_cue
+gave	37	neg_cue
+########
+28
+I have protection people who are fantastic .
+########
+29
+They look out for me and I trust them completely .
+########
+30
+I can not imagine many people watching found the prank funny , though . ''
+can	1	ps_cue
+not	2	neg_cue
+########
+31
+<EOP> .
+########
+32
+May also said it was hugely important that leaders do not become shut off from the public .
+May	0	ps_cue
+not	10	neg_cue
+########
+33
+<EOP> .
+########
+34
+`` We need to get out there to make our case , to listen to what really matters to people and to learn what we can do to make their lives better , '' she said .
+need	2	ps_cue
+can	25	ps_cue
+########
+35
+<EOP> .
+########
+36
+She said from a group of men she met on a stag do in Tallinn last week to the people she talked to when knocking on doors , she rarely meet anything other than warmth , wit and wisdom .
+########
+37
+<EOP> .
+########
+38
+Other media reports Sunday speculated that May was planning to reshuffle her top_team cabinet , with under_fire Foreign Secretary Boris Johnson a possible casualty of a shake_up .
+May	6	ps_cue
+planning	8	ps_cue
+possible	22	ps_cue
+########
+39
+<EOP> .
+########
+40
+In her Sunday Times interview , May gave no hint of her intentions , apart from describing her cabinet as `` terrific '' .
+May	6	ps_cue
+gave	7	neg_cue
+no	8	neg_cue
+########
+41
+<EOP> .
+########
+42
+She said ; `` I 'm the PM and part of my job is to make sure I always have the best people in my cabinet , to make the most of the wealth of talent available in the party .
+########
+43
+I have a terrific cabinet .
+########
+44
+For me leadership is not gossip and game_playing . ''
+not	4	neg_cue
+########
+45
+<EOP> .
+########
+46
+Some political commentators were interpreting her words as a possible signal that Johnson would lose his job .
+possible	9	ps_cue
+would	13	ps_cue
+########
+47
+<EOP> .
+########
+48
+<EOP> .
+########
+49
+<EOP> .
+########

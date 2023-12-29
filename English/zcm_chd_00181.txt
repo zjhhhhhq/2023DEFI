@@ -1,0 +1,139 @@
+Did Guo Wengui pay project debts 
+0
+Lawsuit filed in US against fugitive Chinese billionaire <EOP> .
+against	4	neg_cue
+########
+1
+2017_06_13 22:09 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+Nine Chinese mainland_based construction companies jointly filed a lawsuit against fugitive billionaire Guo Wengui in the Supreme Court of the State of New York in the United States , accusing him of failing to pay project debts amounting to 272 million yuan LRB $ 40 million RRB , plus bank interest , business magazine Caixin reported on Tuesday .
+pay	34	CT-	CT-
+failing	32	neg_cue
+against	9	neg_cue
+########
+4
+<EOP> .
+########
+5
+According to the case file delivered to the court on June 9 , Guo is now leading a luxury life in the US after he illegally transferred huge amounts of assets from China .
+########
+6
+<EOP> .
+########
+7
+The complaint charged that Guo hired the most expensive lawyers with illegally obtained money to defend him in the US , while the creditors were struggling to keep business alive at home , Caixin reported .
+########
+8
+<EOP> .
+########
+9
+The nine companies said they signed contracts with Beijing Zheng Quan Holding Co and Beijing Pangu Investment Co -- two companies under Guo 's control -- between 2007 and 2015 .
+########
+10
+<EOP> .
+########
+11
+They were contracted to build or decorate Jinquan Square and Pangu Plaza in Beijing .
+or	5	ps_cue
+########
+12
+<EOP> .
+########
+13
+After the projects were finished , Guo delayed payment and secretly transferred assets from the two companies to the US for personal use , the complaint said .
+payment	8	CT-	CT-
+delayed	7	neg_cue
+########
+14
+<EOP> .
+########
+15
+The nine companies had filed lawsuits in numerous courts in China over the years and obtained rulings in their favor -- that the two companies must pay the debts immediately .
+########
+16
+<EOP> .
+########
+17
+However , as the assets of Guo 's companies had been transferred abroad , there were insufficient funds to pay .
+########
+18
+<EOP> .
+########
+19
+The group of nine then brought the case to the US court , demanding that Guo and the companies to pay the 272 million yuan and interest .
+########
+20
+They also asked the court to forbid any further transfers by Guo .
+########
+21
+<EOP> .
+########
+22
+A manager surnamed Zhou of one of the plaintiffs -- Beijing Fu Le Hong Ma Jian Zhu Zhuang Shi Gong Cheng Ltd -- told Caixin that the company had completed projects worth 20 million yuan from 2008 to 2012 , and was still owed at least 7 million yuan .
+########
+23
+<EOP> .
+########
+24
+In an apparent response to the case , Guo wrote on his Twitter account on June 11 that 145 companies currently have debt disputes with him involving 18 billion yuan .
+########
+25
+<EOP> .
+########
+26
+`` Why there are only nine companies coming to the US ?
+########
+27
+I like a group fight .
+like	1	ps_cue
+########
+28
+Why not come together ?
+not	1	neg_cue
+########
+29
+That will be fun , '' he wrote .
+will	1	ps_cue
+########
+30
+<EOP> .
+########
+31
+Guo often showed off his luxury lifestyle in the US on Twitter .
+########
+32
+According to Caixin , he currently lives in Manhattan on the 18th floor of the Sherry_Netherland Hotel building at No 781 Fifth Avenue , which he bought in the 2015 for $ 67.5 million .
+No	19	neg_cue
+########
+33
+He said recently that he would move to a new residence covering 1,800 square meters from his current one , which is around 900 sq m. <EOP> .
+would	5	ps_cue
+########
+34
+On Friday , three former executives who worked for Guo pleaded guilty to fraudulently obtaining a loan and foreign currency during their trial in Dalian , Liaoning province .
+########
+35
+<EOP> .
+########
+36
+The three former executives , Lyu Tao , Xie Honglin and Yang Ying , confessed to taking a loan of 3.2 billion yuan LRB $ 471 million RRB from Agricultural Bank of China in the name of Beijing Pangu Investment Co -- which Guo controlled -- by using fake contracts , seals and other materials in 2010 .
+########
+37
+The company was also sued on the same charge .
+########
+38
+<EOP> .
+########
+39
+Guo fled overseas about three years ago .
+########
+40
+Interpol issued a `` red notice '' -- the closest thing to an international arrest warrant -- for Guo in April , according to the Foreign Ministry .
+########
+41
+<EOP> .
+########

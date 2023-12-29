@@ -1,0 +1,128 @@
+Will the US Senate draft bill increase the number of people without health insurance by 22 million
+0
+New bill to deprive 22 million more Americans of health care if passed <EOP> .
+########
+1
+2017_06_27 09:02 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+<EOP> .
+########
+4
+Senate Minority leader Chuck Schumer appears at a press conference with a sign that he had personally edited to read `` Mean_er '' after Senate Republicans unveiled their version of legislation that would replace Obamacare on Capitol Hill in Washington , US , June 22 , 2017 .
+appears	5	ps_cue
+would	32	ps_cue
+########
+5
+LRB Photo_Agencies RRB <EOP> .
+########
+6
+WASHINGTON _ The US Senate draft bill to repeal and replace the Obamacare would increase the number of people without health insurance by 22 million by 2026 , the nonpartisan Congressional Budget Office said Monday .
+increase	14	PS+	PS+
+would	13	ps_cue
+without	19	neg_cue
+########
+7
+<EOP> .
+########
+8
+The figure is only slightly lower than the 23 million more uninsured that the House version would create and as many as 15 million more people would be uninsured in 2018 compared with current law , the budget office said .
+create	17	PS+	PS+
+would	16	ps_cue
+would	26	ps_cue
+########
+9
+<EOP> .
+########
+10
+However , the Senate bill , if becoming law , would decrease federal deficits by a total of 321 billion US dollars over a decade .
+would	10	ps_cue
+########
+11
+<EOP> .
+########
+12
+US President Donald Trump tweeted Monday that Republican senators were working hard to pass the bill .
+########
+13
+<EOP> .
+########
+14
+`` Not easy !
+Not	1	neg_cue
+########
+15
+Perhaps just let OCare crash and burn ! ''
+########
+16
+Trump wrote , reiterating his assertion that Obamacare will be doomed if Congress does not come to its rescue .
+will	8	ps_cue
+not	14	neg_cue
+########
+17
+<EOP> .
+########
+18
+The Senate bill , which is thought broadly similar with the one passed by the House last month , would end the requirement that most Americans have health coverage while setting up a revamped system of tax credits to help people buy insurance on the individual market .
+would	19	ps_cue
+########
+19
+<EOP> .
+########
+20
+It would repeal most of the taxes levied under the Obamacare , including those on high_income people and on health care companies .
+would	1	ps_cue
+########
+21
+The bill would also roll back the expansion of Medicaid , the federal_state health program for low_income people , which would have major implications for states in the long term .
+would	2	ps_cue
+would	20	ps_cue
+########
+22
+<EOP> .
+########
+23
+Five Republican senators have said they will not support the bill without change , but the administration said Trump has contacted Senate Majority Leader Mitch McConnell and has been on the phone with others in his party in a bid to drum up support .
+will	6	ps_cue
+not	7	neg_cue
+without	11	neg_cue
+########
+24
+<EOP> .
+########
+25
+<EOP> .
+########
+26
+<EOP> .
+########
+27
+The entire Democratic Party is expected to stand against the bill , which means the Republicans can only lose support of two lawmakers in the Senate .
+expected	5	ps_cue
+against	8	neg_cue
+can	16	ps_cue
+########
+28
+<EOP> .
+########
+29
+Before the budget office released its report on Monday , the American Medical Association officially announced its opposition to the bill , and the National Governors Association urged the Senate to slow down .
+opposition	17	neg_cue
+########
+30
+<EOP> .
+########
+31
+Republicans have blasted Obamacare over the past eight years for various reasons , such as driving up the cost of healthcare and leaving consumers with fewer choices .
+blasted	2	neg_cue
+########
+32
+Under Obamacare , those who do not purchase healthcare are levied a tax and many Americans have to pay high deductibles .
+not	6	neg_cue
+########
+33
+<EOP> .
+########

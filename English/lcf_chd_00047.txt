@@ -1,0 +1,137 @@
+Are Britain and EU touching a deal on citizen rights 
+0
+Britain , EU within touching distance of a deal on citizen rights : May <EOP> .
+May	13	ps_cue
+########
+1
+2017_10_25 09:27 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+<EOP> .
+########
+4
+Britain 's Prime Minister Theresa May leaves 10 Downing Street in London , Oct 23 , 2017 .
+May	5	ps_cue
+########
+5
+LRB Photo_Agencies RRB <EOP> .
+########
+6
+LONDON _ Britain and the European Union are within touching distance of resolving the fate of millions of EU citizens living in Britain , Prime Minister Theresa May told the House of Commons Monday .
+May	27	ps_cue
+########
+7
+<EOP> .
+########
+8
+May was giving a report to members of parliament about the latest talks with leaders of the EU member states ahead of Britain 's withdrawal in March , 2019 .
+May	0	ps_cue
+########
+9
+<EOP> .
+########
+10
+Speaking about citizen 's rights , May said : `` Both sides share the same objective of safeguarding the rights of EU nationals living in the UK and UK nationals living in the EU .
+May	6	ps_cue
+########
+11
+The negotiations are complicated and deeply technical , but in the end they are about people , and I am determined that we will put people first . ''
+will	23	ps_cue
+########
+12
+<EOP> .
+########
+13
+`` We are united on the key principles , and while there are a small number of issues that remain outstanding , we are in touching distance of a deal . ''
+deal	29	CT+	Uu
+########
+14
+<EOP> .
+########
+15
+The issue is crucial for the estimated 3 million European nationals currently in Britain , as well as British people living in EU states in mainland Europe .
+########
+16
+<EOP> .
+########
+17
+May also insisted there will be no physical infrastructure at the border between the Republic of Ireland and Northern Ireland , adding that the Common Travel Area between Britain and Ireland will continue .
+May	0	ps_cue
+will	4	ps_cue
+no	6	neg_cue
+will	31	ps_cue
+########
+18
+<EOP> .
+########
+19
+<EOP> .
+########
+20
+<EOP> .
+########
+21
+She told MPs that at last week 's EU summit , member states agreed to start their preparations for moving negotiations onto trade and the future relationship .
+negotiations	20	CT+	Uu
+########
+22
+<EOP> .
+########
+23
+May said she is ambitious and positive about Britain 's future and the negotiations .
+May	0	ps_cue
+########
+24
+<EOP> .
+########
+25
+`` I believe that by approaching these negotiations in a constructive way __ in a spirit of friendship and co_operation __ we can and will deliver the best possible outcome that works for all our people , '' she said .
+can	22	ps_cue
+will	24	ps_cue
+possible	28	ps_cue
+########
+26
+<EOP> .
+########
+27
+But May insisted that the British government continued to prepare for every eventuality , and the so_called `` no deal '' scenario .
+deal	19	CT-	Uu
+no	18	neg_cue
+May	1	ps_cue
+########
+28
+<EOP> .
+########
+29
+May concluded her statement : `` While we must and will prepare for every eventuality , I am confident that we will do so in a smooth and orderly way and that we will be able to negotiate a new , deep and special partnership between a sovereign United Kingdom and our friends in the European Union .
+May	0	ps_cue
+will	10	ps_cue
+will	21	ps_cue
+will	33	ps_cue
+########
+30
+That is my mission . ''
+########
+31
+<EOP> .
+########
+32
+Jeremy Corbyn , leader of the main opposition Labour Party , was critical about the length of times talks were taking and the lack of progress .
+opposition	7	neg_cue
+lack	23	neg_cue
+########
+33
+<EOP> .
+########
+34
+He told MP : `` We are still no clearer on when negotiations on the future relationship with our largest trading partner will begin . ''
+negotiations	12	Uu	Uu
+no	8	neg_cue
+will	22	ps_cue
+########
+35
+<EOP> .
+########

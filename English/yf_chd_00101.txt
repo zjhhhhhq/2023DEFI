@@ -1,0 +1,43 @@
+Does China congratulate Pinera on election as Chilean president 
+0
+China congratulates Pinera on election as Chilean president <EOP> .
+election	4	CT+	CT+
+########
+1
+2017_12_19 09:22 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+BEIJING _ China on Monday congratulated Sebastian Pinera on his election to the Chilean presidency .
+election	10	CT+	CT+
+########
+4
+<EOP> .
+########
+5
+`` We believe that the Chilean people will make greater achievements under the leadership of Pinera , '' Foreign Ministry spokesperson Hua Chunying said at a news briefing .
+leadership	13	CT+	CT+
+will	7	ps_cue
+########
+6
+<EOP> .
+########
+7
+Pinera , 69 , was Chilean president between 2010 and 2014 .
+########
+8
+According to Chile 's electoral agency , Pinera won the presidential run_off , held on Sunday , with over 54 percent of votes .
+won	8	CT+	CT+
+########
+9
+<EOP> .
+########
+10
+Calling Chile an important partner of China in Latin America and the Asia_Pacific region , Hua said China was willing to work with Chile in a principle of mutual trust , sincerity and win_win cooperation , to deepen mutually beneficial cooperation in all fields and build a comprehensive strategic partnership .
+willing	19	ps_cue
+########
+11
+<EOP> .
+########

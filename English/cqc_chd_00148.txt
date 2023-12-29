@@ -1,0 +1,63 @@
+Does South Korean president order investigation into delivery
+0
+South Korean president orders investigation into four THAAD launchers delivery <EOP> .
+investigation	4	CT+	CT+
+########
+1
+2017_05_30 15:07 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+SEOUL __ South Korean President Moon Jae_in on Tuesday ordered a thorough investigation into the unauthorized delivery of four more mobile launchers of the U.S. missile shield to the country .
+investigation	12	CT+	CT+
+########
+4
+<EOP> .
+########
+5
+Yoon Young_chan , chief presidential press secretary , told a press briefing that President Moon said it was `` very shocking '' after he was briefed on the unauthorized transportation .
+########
+6
+<EOP> .
+########
+7
+Top presidential security advisor Chung Eui_yong reported to Moon that four more THAAD mobile launchers were secretly transported to South Korea in addition to two launchers already installed .
+########
+8
+<EOP> .
+########
+9
+Moon ordered the security advisor and the senior presidential secretary for civil affairs to thoroughly look into the secret delivery .
+########
+10
+<EOP> .
+########
+11
+About two weeks before the May 9 presidential by_election , two mobile launchers and a radar for the U.S. Terminal High Altitude Area Defense LRB THAAD RRB missile interception system were transported in the middle of night to a golf course at Soseong_ri village in Seongju county , North Gyeongsang province .
+May	5	ps_cue
+########
+12
+<EOP> .
+########
+13
+THAAD is composed of six mobile launchers , 48 interceptors , a AN_TPY_2 radar and a fire and control unit .
+########
+14
+<EOP> .
+########
+15
+The clandestine transportation raised speculation that it was aimed to politicize security issues during the election campaign period , which tended to benefit conservative candidates in past elections .
+speculation	4	ps_cue
+########
+16
+<EOP> .
+########
+17
+Earlier in the day , President Moon gave a phone call to Defense Minister Han Min_koo , who was appointed by ousted President Park Geun_hye , to verify the secret delivery of four more launchers , according to the presidential Blue House .
+gave	7	neg_cue
+########
+18
+<EOP> .
+########

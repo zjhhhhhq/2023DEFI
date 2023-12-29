@@ -1,0 +1,132 @@
+Does the explosion occur near Argentine submarine
+0
+` Explosion ' dashes last hopes for missing sub <EOP> .
+sub	8	PS-	CT-
+hopes	5	ps_cue
+missing	7	neg_cue
+########
+1
+2017_11_25 07:12 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+<EOP> .
+########
+4
+<EOP> .
+########
+5
+<EOP> .
+########
+6
+Jessica Gopar LRB center RRB , the wife of one of the 44 crew members of a missing Argentine submarine , expresses her grief in Mar del Plata , Argentina , on Thursday .
+submarine	19	CT+	CT-
+missing	17	neg_cue
+########
+7
+LRB Photo_Agencies RRB <EOP> .
+########
+8
+MAR DEL PLATA , Argentina _ An explosion apparently occurred near the last known position of an Argentine submarine , the navy confirmed on Thursday , dashing any last hopes of finding the vessel and its 44 crew members .
+submarine	18	CT+	CT-
+hopes	29	ps_cue
+########
+9
+<EOP> .
+########
+10
+Relatives of the missing sailors reacted with grief to the news after holding out hope since the sub was reported overdue at its Mar del Plata base on Nov 17 , two days after the explosion .
+sub	17	CT+	CT-
+missing	3	neg_cue
+hope	14	ps_cue
+########
+11
+<EOP> .
+########
+12
+`` An anomalous , singular , short , violent and non_nuclear event consistent with an explosion , '' occurred shortly after the submarine 's last communication , Navy spokesman Captain Enrique Balbi said in Buenos Aires .
+submarine	22	CT+	CT-
+########
+13
+<EOP> .
+########
+14
+Underwater sounds detected in the first days of the search by two Argentine search ships were determined to originate from a sea creature , not the vessel .
+not	24	neg_cue
+########
+15
+Satellite signals were also determined to be false alarms .
+########
+16
+<EOP> .
+########
+17
+The ARA San Juan , a 34_year_old German_built diesel_electric submarine , had reported a battery problem on Nov 15 and said it was diverting to Mar del Plata , but did not send a distress signal , according to the Navy .
+submarine	9	CT+	CT-
+not	31	neg_cue
+########
+18
+<EOP> .
+########
+19
+Balbi admitted on Wednesday that the situation for the sub and its crew appeared to be worsening .
+sub	9	CT+	CT-
+appeared	13	ps_cue
+########
+20
+<EOP> .
+########
+21
+However , he refused to speculate at that point on the origin of what he initially described as a `` hydro_acoustic anomaly '' detected in the ocean almost three hours after the sub 's communication and 50 kilometers north of its last known position .
+sub	32	CT+	CT-
+refused	3	neg_cue
+speculate	5	ps_cue
+########
+22
+<EOP> .
+########
+23
+Balbi said that information about the unusual noise only became available on Wednesday after being relayed by the United States and `` after all the information from all agencies reporting such hydro_acoustic events was reviewed '' .
+########
+24
+<EOP> .
+########
+25
+Explaining the lack of debris on the surface , Baldi said `` nothing will end up floating to the surface '' because a submarine `` implodes '' .
+submarine	23	CT+	CT-
+lack	2	neg_cue
+nothing	12	neg_cue
+will	13	ps_cue
+########
+26
+<EOP> .
+########
+27
+Gustavo Mauvecin , director of the Center for Hyperbaric Medicine at Mar del Plata , said hydrogen `` is always an issue with submarines with electric engines '' .
+########
+28
+<EOP> .
+########
+29
+The San Juan `` has 500 tons of lead_acid batteries , which release hydrogen if there is an overcharge in the battery , hydrogen in contact with oxygen is explosive '' .
+########
+30
+<EOP> .
+########
+31
+Argentina is leading an air_and_sea search with help from several countries now including Brazil , Britain , Chile , Colombia , France , Germany , Peru , Russia , the US and Uruguay .
+########
+32
+<EOP> .
+########
+33
+Russia was the latest navy to volunteer help , sending an oceanographic research ship as the operation shifted from rescue to recovery .
+########
+34
+<EOP> .
+########
+35
+Afp _ Xinhua _ Ap <EOP> .
+########

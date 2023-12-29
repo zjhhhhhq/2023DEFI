@@ -1,0 +1,156 @@
+Did April give birth to a healthy male calf
+0
+Wait is over for April the giraffe , YouTube star and new mother <EOP> .
+########
+1
+2017_04_17 07:33 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+<EOP> .
+########
+4
+HARPURSVILLE , New York _ The wait is over for April the giraffe and the legions of fans who watched a New York zoo 's live stream for signs that the long_legged internet star was in labor .
+########
+5
+<EOP> .
+########
+6
+April gave birth to a healthy male calf on Saturday at the privately_owned Animal Adventure Park before an online audience of more than a million viewers .
+birth	2	CT+	CT+
+gave	1	neg_cue
+########
+7
+<EOP> .
+########
+8
+The 15_year_old giraffe delivered her calf shortly before 10 am in an enclosed pen at the zoo in Harpursville , a rural upstate village about 210 kilometers northwest of New York City .
+delivered	3	CT+	CT+
+########
+9
+<EOP> .
+########
+10
+The mama giraffe tenderly licked her calf , which began to slowly pick its head up from the floor of the pen .
+########
+11
+About 45 minutes after it was born , the calf stood on its wobbly legs while mom helped keep her baby steady .
+born	6	CT+	CT+
+########
+12
+He began nursing not long after .
+not	3	neg_cue
+########
+13
+<EOP> .
+########
+14
+<EOP> .
+########
+15
+<EOP> .
+########
+16
+At least 1.2 million people watched the Adventure Park 's YouTube streaming of the event .
+########
+17
+Zoo owner Jordan Patch said both mother and calf were doing fine .
+########
+18
+<EOP> .
+########
+19
+Patch called the birth `` unnerving '' to watch .
+birth	3	CT+	CT+
+########
+20
+`` Giraffes give birth standing up , which means when the calf is ready to be born , it exits its mother hooves first from 6 feet LRB 1.8 meters RRB off the floor , making for a very exciting event , '' he said in a news release .
+birth	3	CT+	CT+
+ready	13	ps_cue
+########
+21
+<EOP> .
+########
+22
+The newborn is April 's fourth calf but Animal Adventure Park 's first giraffe calf .
+newborn	1	CT+	CT+
+########
+23
+The proud papa , a 5_year_old giraffe named Oliver , watched from an adjacent pen .
+########
+24
+This is his first offspring .
+########
+25
+<EOP> .
+########
+26
+The zoo began livestreaming from April 's enclosure in February .
+########
+27
+People around the world have been tuning in daily , with some growing impatient as the pregnancy seemed to drag on .
+seemed	17	ps_cue
+########
+28
+<EOP> .
+########
+29
+A Farmington , New Hampshire , songwriter even posted a music video on YouTube called , I 'm Going Crazy Waiting LRB For A Giraffe RRB .
+########
+30
+<EOP> .
+########
+31
+April has her own website and even an apparel line .
+########
+32
+A GoFundMe fundraiser page that initially set a goal of $ 50,000 sat at more than $ 134,000 by Saturday night .
+########
+33
+The money will be used for the care of the animals .
+will	2	ps_cue
+########
+34
+<EOP> .
+########
+35
+A contest will be held to decide on a name for the calf .
+will	2	ps_cue
+########
+36
+<EOP> .
+########
+37
+The park 's live stream was briefly interrupted in February when YouTube pulled the feed after someone reported the images contained explicit material and nudity .
+########
+38
+Patch blamed `` a handful of extremists and animal rights activists '' for the interruption .
+########
+39
+<EOP> .
+########
+40
+The new calf 's vital statistics were not announced , but newborn giraffes usually weigh around 68 kilograms and are about 1.80 meters tall at birth .
+not	7	neg_cue
+########
+41
+Giraffes are pregnant for 15 months on average .
+########
+42
+<EOP> .
+########
+43
+Animal Adventure park is currently closed to the public and will open in mid_May .
+will	10	ps_cue
+########
+44
+<EOP> .
+########
+45
+<EOP> .
+########
+46
+LRB China Daily 04_17_2017 page11 RRB <EOP> .
+########

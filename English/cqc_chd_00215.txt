@@ -1,0 +1,118 @@
+Do one third Aussies have high blood pressure 
+0
+One third Aussies have high blood pressure : study <EOP> .
+pressure	6	CT+	CT+
+########
+1
+2017_05_02 07:19 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+<EOP> .
+########
+4
+CANBERRA , Australia _ More than a third of all Australians suffer from high blood pressure , but around half are either unaware or not taking adequate steps to combat it , according to the Heart Foundation South Australia on Monday .
+pressure	15	CT+	CT+
+either	21	ps_cue
+or	23	ps_cue
+not	24	neg_cue
+########
+5
+In a statement released as part of Heart Week , which runs from April 30 until May 6 in Australia , Heart Foundation South Australia CEO Imelda Lynch said routinely monitoring one 's blood pressure would help Australians avoid the `` silent killer '' and the `` ticking time bomb '' which is heart disease .
+pressure	34	CT+	CT+
+May	16	ps_cue
+would	35	ps_cue
+avoid	38	neg_cue
+########
+6
+<EOP> .
+########
+7
+`` More than one in three LRB 36 percent RRB _ or 462,000 adults in South Australia _ have hypertension and nearly half of these either do n't know they have it or they are not monitoring it regularly to know if their current treatment is working , '' Lynch said in a statement released on Monday .
+or	11	ps_cue
+either	25	ps_cue
+n't	27	neg_cue
+or	32	ps_cue
+not	35	neg_cue
+########
+8
+<EOP> .
+########
+9
+<EOP> .
+########
+10
+<EOP> .
+########
+11
+`` Undiagnosed or untreated high blood pressure is a ticking time bomb for heart disease , the leader killer of South Australians , and for other serious illnesses like stroke , dementia and kidney disease , and you can suffer from high blood pressure without any symptoms .
+pressure	6	CT+	CT+
+or	2	ps_cue
+like	28	ps_cue
+can	38	ps_cue
+without	44	neg_cue
+########
+12
+<EOP> .
+########
+13
+`` It is often called the ` silent killer ' because you ca n't tell if you 've got it based on how you feel .
+n't	13	neg_cue
+########
+14
+So you really need to get your blood pressure checked by a health professional and then take action to lower it . ''
+pressure	8	CT+	CT+
+need	3	ps_cue
+########
+15
+<EOP> .
+########
+16
+Lynch said Heart Week was the perfect reminder for people to get to know their blood pressure numbers by seeing their family doctors for a heart health check .
+pressure	16	CT+	CT+
+########
+17
+<EOP> .
+########
+18
+`` High blood pressure can be managed with lifestyle changes like eating a healthy diet that is low in salt , being physically active and not smoking .
+pressure	3	CT+	CT+
+can	4	ps_cue
+like	10	ps_cue
+not	25	neg_cue
+########
+19
+For some people lifestyle changes alone are not enough and they will need to take medication to help lower their blood pressure as well , '' Lynch said .
+not	7	neg_cue
+will	11	ps_cue
+need	12	ps_cue
+########
+20
+<EOP> .
+########
+21
+`` People taking hypertension medication should continue to monitor their blood pressure as blood pressure levels can change and so can your response to hypertension medication .
+pressure	11	CT+	CT+
+should	5	ps_cue
+can	16	ps_cue
+can	20	ps_cue
+########
+22
+You need to check in regularly with your GP or a health professional to make sure it is working properly for you . ''
+need	1	ps_cue
+or	9	ps_cue
+########
+23
+<EOP> .
+########
+24
+Xinhua <EOP> .
+########
+25
+<EOP> .
+########
+26
+LRB China Daily 05_02_2017 page11 RRB <EOP> .
+########

@@ -1,0 +1,157 @@
+Does Trump tweet about building ` STRONGER ' US_China relationship 
+0
+Trump tweets about building ` STRONGER ' US_China relationship <EOP> .
+tweets	1	CT+	CT+
+########
+1
+2017_11_10 03:32 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+<EOP> .
+########
+4
+<EOP> .
+########
+5
+<EOP> .
+########
+6
+A screenshot of US President Donald Trump 's Twitter account , on Thursday .
+########
+7
+<EOP> .
+########
+8
+US President Donald Trump , who is on a `` state visit_plus '' in China , tweeted on Thursday : `` In the coming months and years ahead I look forward to building an even STRONGER relationship between the United States and China . ''
+forward	30	ps_cue
+forward	30	neg_cue
+########
+9
+<EOP> .
+########
+10
+It was one of a slew of messages that Trump has sent since he arrived in the country on Wednesday .
+########
+11
+He called his first hours in Beijing `` unforgettable '' and the lavish welcome he was given `` beautiful '' .
+########
+12
+<EOP> .
+########
+13
+Trump enthusiastically thanked his host , President Xi Jinping , for his hospitality and spoke highly of the `` incredible '' display of diplomacy .
+########
+14
+`` President Xi , thank you for such an incredible welcome ceremony .
+########
+15
+It was a truly memorable and impressive display ! ''
+########
+16
+, Trump wrote .
+########
+17
+<EOP> .
+########
+18
+On Thursday , Trump changed his main Twitter account image to show a picture of him , his wife , Melania , President Xi and his wife , Madame Peng Liyuan .
+changed	4	CT+	CT+
+########
+19
+<EOP> .
+########
+20
+Trump also retweeted a post by Dan Scavino , the White House director of social media and assistant to the president , about China Daily 's front_page coverage of his visit , showing a group photo of the Trumps with President Xi and his wife Peng in front of the Hall of Supreme Harmony in the Forbidden City , also known as the Palace Museum .
+########
+21
+<EOP> .
+########
+22
+<EOP> .
+########
+23
+<EOP> .
+########
+24
+US President Donald Trump retweeted a picture of China Daily 's front page report on his visit to China on Wednesday .
+########
+25
+<EOP> .
+########
+26
+China Daily , the national English_language newspaper , has launched multi_media coverage of the Trump_Xi summit meeting , including special pages in its print editions in China and overseas .
+########
+27
+<EOP> .
+########
+28
+After arriving in the Chinese capital , the Trumps had afternoon tea with President Xi and his wife at the Hall of Embodied Treasures in the Forbidden City , before a tour of the ancient imperial palace that included a performance by Peking Opera students .
+########
+29
+<EOP> .
+########
+30
+`` On behalf of @FLOTUS Melania and I , THANK YOU for an unforgettable afternoon and evening at the Forbidden City in Beijing , President Xi and Madame Peng Liyuan .
+########
+31
+We are looking forward to rejoining you tomorrow morning ! ''
+forward	3	ps_cue
+forward	3	neg_cue
+########
+32
+Trump wrote .
+########
+33
+<EOP> .
+########
+34
+A photo with the performers , who were dressed in ornate traditional Chinese costumes , was apparently one of Trump 's favorites from the afternoon tour .
+########
+35
+He used it as the main image on his Twitter account .
+used	1	CT+	CT+
+########
+36
+He also posted or retweeted four other pictures from his tour of the Forbidden City .
+or	3	ps_cue
+########
+37
+<EOP> .
+########
+38
+Before departing from the United States , Trump tweeted that he would `` be headed to China where I very much look forward to meeting with President Xi who is just off his great political victory '' , referring to Xi 's re_election as general secretary of the Communist Party of China Central Committee last month .
+would	11	ps_cue
+forward	22	ps_cue
+forward	22	neg_cue
+########
+39
+<EOP> .
+########
+40
+David Shambaugh , a professor of political science at George Washington University , said he is a great admirer of the collections at the Forbidden City .
+########
+41
+<EOP> .
+########
+42
+`` It is a very important heritage for Chinese civilization , and very important that President Trump , on his first visit to Beijing , be shown this 5,000 years of history , '' Shambaugh told China Daily .
+########
+43
+`` That , I 'm sure , will have a big impact on him and his wife . ''
+will	7	ps_cue
+########
+44
+<EOP> .
+########
+45
+Shambaugh added that the personal chemistry between the two leaders seems very positive , and that the meeting is an important step forward to stabilize and improve cooperation between the two countries in various sectors .
+seems	10	ps_cue
+forward	22	ps_cue
+forward	22	neg_cue
+########
+46
+<EOP> .
+########

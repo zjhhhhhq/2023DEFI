@@ -1,0 +1,107 @@
+Does Airbnb boost listings , cooperation
+0
+Airbnb boosts listings , cooperation <EOP> .
+boosts	1	CT+	CT+
+########
+1
+2018_01_03 13:10 <EOP> .
+########
+2
+China Daily USA <EOP> .
+########
+3
+Airbnb Inc , a US_based homesharing service provider , will optimize the quality of its listings , invest in customer service and strengthen cooperation with local governments to expand its presence in China , according to its head of Chinese operations .
+optimize	10	CT+	CT+
+will	9	ps_cue
+########
+4
+<EOP> .
+########
+5
+`` The Chinese domestic market has been our fastest growing market around the world , '' and the country is also Airbnb 's second fastest growing outbound market , said Nathan Blecharczyk , chairman of Airbnb China .
+########
+6
+<EOP> .
+########
+7
+In the last quarter alone , Airbnb has seen more than 1 million guest arrivals at listings in China .
+########
+8
+Compared to the same time in 2016 , that number has almost tripled , and the company 's domestic business in China has grown 100 times from 2015 to 2017 .
+########
+9
+<EOP> .
+########
+10
+`` This growth is being driven by the passionate Chinese host and guest community , '' said Blecharczyk , adding domestic listings in China grew nearly 100 percent in 2017 , especially in such top cities as Shanghai , Beijing and Chengdu .
+grew	24	CT+	CT+
+########
+11
+<EOP> .
+########
+12
+The company will open operations in key cities and regions in 2018 , with China projected to be the largest tourist source country for Airbnb by 2020 .
+will	2	ps_cue
+projected	15	ps_cue
+########
+13
+<EOP> .
+########
+14
+`` As we grow , we will continue to focus on and prioritize quality .
+will	6	ps_cue
+########
+15
+Our team will manually review every listing published to Airbnb in China and assist our hosts with everything they need to accurately and optimally describe their home to potential guests , '' Blecharczyk said .
+will	2	ps_cue
+need	19	ps_cue
+potential	28	ps_cue
+########
+16
+<EOP> .
+########
+17
+`` Moreover , we are going to launch a number of education initiatives dedicated to our hosts .
+########
+18
+The online learning platform , which includes online videos and articles , will teach them how to be an excellent host . ''
+will	12	ps_cue
+########
+19
+<EOP> .
+########
+20
+The company will further invest in social customer service coverage across the most important social media platforms in China .
+will	2	ps_cue
+########
+21
+<EOP> .
+########
+22
+In addition , Airbnb has signed memorandums of understanding with Chinese cities including Shenzhen , Guangzhou and Shanghai to strengthen cooperation with local governments .
+########
+23
+<EOP> .
+########
+24
+Driven by an appetite for authentic travel , young people in China are increasingly turning to Airbnb .
+########
+25
+Eighty percent of its user base in China is younger than 35 , and it estimates that in 2019 , 62 percent of all outbound Chinese tourists will be aged 15 to 34 .
+will	27	ps_cue
+########
+26
+<EOP> .
+########
+27
+There have been nearly 10 million guest arrivals by Chinese travelers on Airbnb since 2008 , with over half of those occurring just in 2017 .
+########
+28
+<EOP> .
+########
+29
+fanfeifei@chinadaily.com.cn <EOP> .
+########
+30
+<EOP> .
+########

@@ -1,0 +1,131 @@
+Were at least 74 killed in S. Philippine storm
+0
+At least 74 killed , over 50,000 displaced in S. Philippine storm <EOP> .
+killed	3	CT+	CT+
+########
+1
+2017_12_23 18:01 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+DAVAO CITY , the Philippines _ Scores of people have been killed or missing and over 50,000 displaced after severe tropical storm Tembin pounded southern Philippines , flooding large swaths of the region and causing landslides , officials said Saturday .
+killed	11	CT+	CT+
+or	12	ps_cue
+missing	13	neg_cue
+########
+4
+<EOP> .
+########
+5
+In the two provinces of Lanao , at least 22 bodies have been pulled out while over 40 are still missing as landslides buried houses along a national road , said Mujiv Hataman , governor for the Autonomous Region of Muslim Mindanao .
+missing	20	neg_cue
+########
+6
+<EOP> .
+########
+7
+In the town of Salvador , Lanao del Norte province , disaster officials said they were still verifying reports that about 20 people have been swept away as floodwaters swamped many communities there after Tembin dumped torrential rains in the region .
+########
+8
+<EOP> .
+########
+9
+The initial death toll figures are expected to rise as more data trickle in from the storm_affected villages and towns .
+death	2	CT+	CT+
+expected	6	ps_cue
+########
+10
+<EOP> .
+########
+11
+The Philippine Atmospheric , Geophysical and Astronomical Services Administration LRB PAGASA RRB said Tembin came ashore at around 1:25 am local time Friday in the eastern Mindanao town of Cateel , packing winds of up to 125 km per hour LRB kph RRB .
+########
+12
+<EOP> .
+########
+13
+The storm barreled to the west and its 400_km wide rain band drenched most of the country 's second largest island .
+########
+14
+<EOP> .
+########
+15
+In the western peninsula of Zamboanga del Norte , authorities said they were still checking on reports that 30 people drowned due to storm surges in the coastal town of Sibuco .
+########
+16
+<EOP> .
+########
+17
+Elsewhere , three fishermen have been reported missing off the coast of San Isidro town in Davao Oriental province , but police said on Saturday that the fishermen have returned safely to shore .
+missing	7	neg_cue
+########
+18
+<EOP> .
+########
+19
+Floodwaters have displaced over 50,000 people in at least three provinces and Davao , the home city of President Rodrigo Duterte , said Leoncio Cirunay , regional head of the office of civil defense .
+########
+20
+<EOP> .
+########
+21
+Storm_induced floods and landslides also killed two other people in two other Mindanao regions , officials said .
+killed	5	CT+	CT+
+########
+22
+<EOP> .
+########
+23
+At least 21 flights have also been cancelled at the Manila International Airport , mostly domestic trips to the affected regions .
+########
+24
+<EOP> .
+########
+25
+Port authorities said over 6,000 passengers were stranded in various ports across the archipelago nation .
+########
+26
+<EOP> .
+########
+27
+The state weather bureau said Tembin , which re_intensified into a tropical storm after weakening into a tropical depression while traversing the southern Philippines , is expected to be out of the country by Christmas Day .
+expected	26	ps_cue
+########
+28
+<EOP> .
+########
+29
+The storm was last spotted 245 km west_northwest of Zamboanga City with winds of up to 80 kph near the center and gusts of up to 90 kph on Saturday .
+########
+30
+<EOP> .
+########
+31
+The weather disturbance was moving west at 20 kph .
+########
+32
+<EOP> .
+########
+33
+At least 20 typhoons and storms batter the Philippines every year .
+########
+34
+Tembin is the 22nd to enter the country this year .
+########
+35
+<EOP> .
+########
+36
+Tembin came a few days after powerful storm Kai_Tak battered most of the central Philippines and parts of the Philippine main Luzon Island last Saturday , killing at least 41 .
+########
+37
+<EOP> .
+########
+38
+Two of the most destructive typhoons that hit the country in the last 20 years made landfall and devastated Mindanao in 2011 and 2012 .
+########
+39
+<EOP> .
+########

@@ -1,0 +1,113 @@
+Will UK and China use graphene for rapid hepatitis testing
+0
+UK and China to use graphene for rapid hepatitis testing <EOP> .
+use	4	CT+	CT+
+########
+1
+2017_05_22 22:55 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+Scientists in the United Kingdom and China are teaming up to develop a quick and cheap way to test for three forms of viral hepatitis , using sensors made of graphene , a highly conductive and incredibly strong two_dimensional material made of carbon .
+using	26	CT+	CT+
+########
+4
+<EOP> .
+########
+5
+Hepatitis is a major global public health challenge _ around 400 million people carry the disease , which caused 1.34 million deaths in 2015 , according to the World Health Organization .
+########
+6
+Hepatitis B is present in China , where 90 million people are infected .
+########
+7
+<EOP> .
+########
+8
+With the help of partners in the UK and researchers at the University of Chongqing in Southwest China , UK_based diagnostics device company BIOVICI will lead a two_year project to develop a graphene sensor that will detect hepatitis A , B , and C antibodies in saliva .
+develop	30	CT+	CT+
+will	24	ps_cue
+will	35	ps_cue
+########
+9
+<EOP> .
+########
+10
+Paul Morgan , chief executive at BIOVICI , said the test will bring `` major benefits '' to the global fight against the spread of the infectious disease .
+will	11	ps_cue
+against	21	neg_cue
+########
+11
+<EOP> .
+########
+12
+`` Many people associate hepatitis as a problem that happens elsewhere and not in their home country , '' Morgan said .
+not	12	neg_cue
+########
+13
+`` However , hepatitis is a global epidemic , which is rapidly affecting parts of the UK , throughout Europe , and the United States . ''
+########
+14
+<EOP> .
+########
+15
+Blood tests for hepatitis currently take up to seven days to deliver results , during which time a patient could spread the infection .
+could	19	ps_cue
+########
+16
+Today 's tests are also expensive and require trained medical personnel to carry out invasive procedures .
+########
+17
+<EOP> .
+########
+18
+Researchers on the new project say the tests using graphene technology will be non_invasive and deliver fast results for as little as 1 pound LRB $ 1.30 RRB when they are eventually mass_produced .
+using	8	CT+	CT+
+will	11	ps_cue
+little	20	neg_cue
+########
+19
+<EOP> .
+########
+20
+The UK 's National Physical Laboratory will conduct electrical testing for the project , and the University of Swansea will head chemical testing .
+will	6	ps_cue
+will	19	ps_cue
+########
+21
+The two Chinese players , Chongqing University and industry partner CTN , are responsible for graphene device production and manufacturing .
+########
+22
+<EOP> .
+########
+23
+Olga Kazakova , principle research scientist in advanced materials at the National Physical Laboratory , said : `` Graphene 's unique characteristics mean it has great potential to be used in a variety of sensing applications .
+potential	26	ps_cue
+########
+24
+Through this research , we are working to develop international standards for grapheme , which will help to unlock new applications for the incredible material . ''
+will	15	ps_cue
+########
+25
+<EOP> .
+########
+26
+At just one atom thick , graphene is among the world 's thinnest materials , and has several useful properties .
+########
+27
+It is flexible and nearly transparent , it efficiently conducts heat and electricity , and it is 200 times as strong as the strongest steel .
+########
+28
+Graphene was first observed through an electron microscope in 1962 , though research into its application in a number of industries only began in earnest in 2004 , following its isolation in a lab at the University of Manchester .
+########
+29
+<EOP> .
+########
+30
+Research is underway into the use of graphene in a range of medical devices , including sensors that monitor breathing and heart rate , and ones that diagnose diseases , such as diabetes and asthma , through testing for molecular biomarkers .
+########
+31
+<EOP> .
+########

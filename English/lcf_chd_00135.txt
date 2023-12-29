@@ -1,0 +1,37 @@
+Do Germans start to vote for next parliament
+0
+Germans start to vote for next parliament <EOP> .
+vote	3	CT+	CT+
+########
+1
+2017_09_24 14:47 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+<EOP> .
+########
+4
+A voter casts for Germany 's general election at a polling station in Berlin , Sunday , Sept 24 , 2017 .
+casts	2	CT+	CT+
+########
+5
+LRB Photo_IC RRB <EOP> .
+########
+6
+BERLIN _ More than 61 million German voters were called to cast ballots on Sunday to pick their Bundestag , or federal parliament , on which a new government will be formed .
+cast	11	CT+	CT+
+or	20	ps_cue
+will	29	ps_cue
+########
+7
+<EOP> .
+########
+8
+Chancellor Angela Merkel 's CDU_CSU conservative alliance is expected to win most votes .
+expected	8	ps_cue
+########
+9
+<EOP> .
+########

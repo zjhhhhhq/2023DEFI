@@ -1,0 +1,76 @@
+Will Angela Merkel win a fourth term as chancellor
+0
+Merkel expected to hang on to power despite ` political earthquake ' <EOP> .
+hang	3	PS+	PS+
+expected	1	ps_cue
+########
+1
+2017_09_25 01:11 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+<EOP> .
+########
+4
+<EOP> .
+########
+5
+German Chancellor Angela Merkel casts her vote in Berlin , Germany , on Sunday .
+########
+6
+Merkel is widely expected to win a fourth term in office as Germans go to the polls to elect a new parliament .
+win	5	PS+	PS+
+expected	3	ps_cue
+########
+7
+Matthias Schrader _ AP <EOP> .
+########
+8
+The latest exit polls from the German national election suggest Angela Merkel will win a fourth term as chancellor , but her Christian Democrats LRB CDU_CSU RRB party is expected to lose many seats after the nationalist party AfD performed strongly .
+win	13	CT+	PS+
+suggest	9	ps_cue
+will	12	ps_cue
+expected	29	ps_cue
+########
+9
+<EOP> .
+########
+10
+Exit poll predictions from public broadcaster ARD_infratest_dmap conducted on Sunday give the CDU_CSU the largest portion of the vote , with 33.5 percent .
+########
+11
+The party 's closest rivals , the Social Democrats LRB SPD RRB , which is led by Martin Schulz , looks to have secured just 20 percent of the vote , according to the poll .
+########
+12
+It would be a post_war low for the center_left party .
+would	1	ps_cue
+########
+13
+<EOP> .
+########
+14
+The poll suggests AfD , which has never before had a presence in the German parliament , captured 13.5 percent of the vote in what analysts have said would be a shocking result .
+suggests	2	ps_cue
+never	7	neg_cue
+would	28	ps_cue
+########
+15
+<EOP> .
+########
+16
+AfD 's leader , Frauke Petry , wrote on Twitter that the `` impossible had come true '' and that Germany had experienced a `` political earthquake '' .
+impossible	13	ps_cue
+impossible	13	neg_cue
+########
+17
+<EOP> .
+########
+18
+The FDP is expected to have won 10.5 percent , the Greens 9.5 percent , and Die Linke LRB The Left RRB , 9 percent , according to the poll .
+expected	3	ps_cue
+########
+19
+<EOP> .
+########

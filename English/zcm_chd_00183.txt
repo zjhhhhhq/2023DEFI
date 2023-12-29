@@ -1,0 +1,114 @@
+Is the United States still `` winning '' the longest US war in Afghanistan
+0
+US not winning in Afghanistan : US defense chief <EOP> .
+not	1	neg_cue
+########
+1
+2017_06_14 09:33 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+<EOP> .
+########
+4
+Smoke rises from the site of a suicide attack after a blast in Kabul , Afghanistan June 3 , 2017 .
+########
+5
+LRB Photo_Agencies RRB <EOP> .
+########
+6
+WASHINGTON _ US Defense Secretary Jim Mattis said on Tuesday that the United States is still `` not winning '' the longest US war in Afghanistan .
+winning	18	CT-	CT-
+not	17	neg_cue
+########
+7
+<EOP> .
+########
+8
+`` We are not winning in Afghanistan right now , '' said Mattis here at a congressional hearing .
+winning	4	CT-	CT-
+not	3	neg_cue
+########
+9
+`` And we will correct this as soon as possible . ''
+will	3	ps_cue
+possible	9	ps_cue
+########
+10
+<EOP> .
+########
+11
+According to Mattis , the Pentagon defines the winning in Afghanistan as a situation where the Afghan government , with international help , will be able to handle the violence and drive it down to a level that local security forces can handle it .
+winning	8	CT-	CT-
+defines	6	neg_cue
+will	23	ps_cue
+can	41	ps_cue
+########
+12
+<EOP> .
+########
+13
+`` It would probably require residual force doing training and maintaining the high_end capability , '' said Mattis .
+would	2	ps_cue
+probably	3	ps_cue
+########
+14
+`` It 's going to be an era of frequent skirmishing and it 's going to require a change in our approach from the last several years if we 're to get it to that position . ''
+########
+15
+<EOP> .
+########
+16
+Mattis was not the first senior official of the administration of US President Donald Trump to publicly warn of a dire prospect for the security situation in Afghanistan .
+not	2	neg_cue
+########
+17
+<EOP> .
+########
+18
+<EOP> .
+########
+19
+<EOP> .
+########
+20
+US National Intelligence Director Dan Coats also warned last month that the security situation in Afghanistan would most likely deteriorate in the future even if the United States and its allies offer more military aid .
+would	16	ps_cue
+likely	18	ps_cue
+########
+21
+<EOP> .
+########
+22
+The warnings came as Trump was reportedly considering whether or not to send additional hundreds of US troops to Afghanistan .
+whether	8	ps_cue
+or	9	ps_cue
+not	10	neg_cue
+########
+23
+<EOP> .
+########
+24
+Former US President Barack Obama had planned to reduce the current number of 9,800 US troops in Afghanistan to some 5,500 by the end of 2015 and withdraw all troops by the end of 2016 when his presidency came to an end .
+planned	6	ps_cue
+withdraw	27	neg_cue
+########
+25
+<EOP> .
+########
+26
+However , given the deteriorating security situation in Afghanistan , the Obama administration repeatedly postponed the withdrawal .
+postponed	14	neg_cue
+########
+27
+<EOP> .
+########
+28
+Currently , there are about 8,400 US troops and another 5,000 forces of the North Atlantic Treaty Organization LRB NATO RRB on the ground in Afghanistan to train and assist the Afghan forces against the Taliban , and conduct counter_terrorism missions .
+against	33	neg_cue
+########
+29
+<EOP> .
+########

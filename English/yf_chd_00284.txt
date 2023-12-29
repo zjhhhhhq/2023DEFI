@@ -1,0 +1,242 @@
+Does the suspect admit killing Chinese student
+0
+Police : Suspect admits killing Chinese student <EOP> .
+student	6	CT+	CT+
+########
+1
+2017_11_02 15:02 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+The suspect in the fatal shooting of a Chinese overseas student has confessed to the slaying , which was the culmination of an interstate crime spree , according to University of Utah police .
+student	10	CT+	CT+
+suspect	1	ps_cue
+########
+4
+<EOP> .
+########
+5
+Austin Jeffrey Boutain , 24 , admitted shooting Guo Chenwei , 23 , of Beijing during a carjacking on Red Butte Canyon Road near the Utah campus late Monday night .
+########
+6
+<EOP> .
+########
+7
+Boutain fatally shot Guo and then tried to force a woman who was with him , a university student whose name was not released , up a canyon , according to police .
+not	22	neg_cue
+########
+8
+The woman escaped when Boutain , who fired at her twice and missed , was distracted , police said .
+########
+9
+<EOP> .
+########
+10
+`` Obviously , he had just killed somebody ; he had an ill intent toward this young lady , '' University of Utah Police Chief Dale Brophy told reporters .
+intent	13	ps_cue
+########
+11
+<EOP> .
+########
+12
+After the shooting , Boutain made his way into downtown Salt Lake City , police said .
+########
+13
+<EOP> .
+########
+14
+He left a handgun , believed to be the weapon used to shoot Guo , at a homeless shelter where it was stolen , police said .
+believed	5	ps_cue
+########
+15
+<EOP> .
+########
+16
+Police are trying to find the weapon , which they believe was taken from the Colorado home of 63_year_old homicide victim Mitchell Bradford Ingle , whose body was found last week .
+########
+17
+<EOP> .
+########
+18
+Boutain was arrested on Tuesday at a library in Salt Lake City .
+########
+19
+<EOP> .
+########
+20
+On Wednesday , police from Golden , Colorado named Boutain and his wife the sole suspects in Ingle 's slaying .
+########
+21
+<EOP> .
+########
+22
+On Tuesday , police found Ingle dead inside an RV trailer after Utah authorities contacted them in connection with Guo 's shooting .
+########
+23
+<EOP> .
+########
+24
+The Boutains apparently killed Ingle and then drove his pickup truck to Utah , where they gave it away , police said .
+gave	16	neg_cue
+########
+25
+Police said Austin Boutain admitted to stealing three guns from a home in Colorado , one of which was a rifle recovered by police .
+########
+26
+<EOP> .
+########
+27
+Investigators plan to recommend that Colorado prosecutors file charges against the Boutains including first_degree murder , robbery and motor_vehicle theft in Ingle 's death .
+plan	1	ps_cue
+against	9	neg_cue
+########
+28
+Kathleen Boutain was in custody in Utah on unrelated drug and theft charges .
+########
+29
+<EOP> .
+########
+30
+News outlets in Alabama and Ohio reported that Austin Boutain has a criminal history includes charges for public disturbances , theft , evading police , drugs and a sex offense .
+########
+31
+<EOP> .
+########
+32
+He is also accused of assaulting and injuring his wife with a firearm .
+########
+33
+<EOP> .
+########
+34
+On Monday about 8:15 p.m. , Kathleen Boutain reported the assault to university police .
+########
+35
+As police were taking the report on the alleged domestic violence incident , they learned that Guo had been shot and killed , shortly before 9 pm .
+########
+36
+<EOP> .
+########
+37
+Guo arrived in the US in 2012 and would have turned 24 on Sunday .
+would	8	ps_cue
+########
+38
+<EOP> .
+########
+39
+The official Twitter account of the University of Utah posted a recent picture of Guo , a pre_computer science major , with the following statement : `` We 're absolutely heart_stricken by the loss of student Chenwei Guo .
+student	35	CT-	CT+
+loss	33	neg_cue
+########
+40
+He was extraordinarily outgoing , creative , smart and extremely engaged . ''
+########
+41
+<EOP> .
+########
+42
+The university canceled classes Tuesday in light of the tragedy and lowered flags to half_staff Wednesday in Guo 's memory .
+########
+43
+<EOP> .
+########
+44
+Spokesman Chris Nelson said the flags would remain at half_staff until sunset Friday .
+would	6	ps_cue
+########
+45
+<EOP> .
+########
+46
+A candlelight vigil was scheduled for Guo from 6 pm to 8 pm Wednesday at the Marriott Library Plaza Wednesday .
+scheduled	4	ps_cue
+########
+47
+<EOP> .
+########
+48
+Chinese Foreign Ministry spokeswoman Hua Chunying said on Wednesday that the Chinese embassy in the United States has requested information from police , urging that the case be handled expeditiously .
+########
+49
+<EOP> .
+########
+50
+The embassy also expressed sympathy and said it had provided assistance to Guo 's family , she said .
+########
+51
+<EOP> .
+########
+52
+`` The Foreign Ministry and the embassy in the US will keep a close eye on the development of the case and offered necessary support for the family 's visit to the US , '' she added .
+will	10	ps_cue
+########
+53
+<EOP> .
+########
+54
+The Chenwei Guo Family Fund was set up by Guo 's friend Elena Diane Jin with the permission of Guo 's family on GoFundMe.com .
+########
+55
+<EOP> .
+########
+56
+Guo came to the US in 2012 and dreamed of owning a consulting company .
+########
+57
+Many in Provo , Utah , mourned Guo , as he served a mission for the LDS Church there .
+########
+58
+<EOP> .
+########
+59
+He enjoyed skydiving , skiing and horseback riding , according to his biography on the school 's International Student and Scholar Services website .
+########
+60
+<EOP> .
+########
+61
+Lori McDonald , dean of students , described him as `` extremely outgoing , charming , creative , smart '' .
+########
+62
+Guo was studying pre_computer science and was a peer adviser in the International Student and Scholar Services Office .
+########
+63
+<EOP> .
+########
+64
+Rachel Tam said Guo was a smart , bright and caring person who loved to tell jokes .
+########
+65
+<EOP> .
+########
+66
+Tam , of Pleasant Grove , Utah , said Tuesday that Guo would speak in a moving and powerful way about his beliefs .
+would	12	ps_cue
+########
+67
+She said Guo loved to dance and wowed his friends on the dance floor in August at a church event for young , unmarried Chinese members of the church .
+########
+68
+<EOP> .
+########
+69
+Tam says Guo was at the center of the dance floor busting out hip_hop moves and was also a talented swing and ballroom dancer .
+########
+70
+<EOP> .
+########
+71
+The Associated Press and Reuters contributed to this story .
+########
+72
+<EOP> .
+########
+73
+lindadeng@chinadailyusa.com <EOP> .
+########
+74
+<EOP> .
+########

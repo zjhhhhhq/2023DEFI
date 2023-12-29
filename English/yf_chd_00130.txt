@@ -1,0 +1,200 @@
+Is the Federal Reserve raising its benchmark interest rate
+0
+Fed boosts benchmark rate for third time this year <EOP> .
+boosts	1	CT+	CT+
+########
+1
+2017_12_14 03:23 <EOP> .
+########
+2
+null <EOP> .
+########
+3
+WASHINGTON -- The Federal Reserve is raising its benchmark interest rate for the third time this year , signaling its confidence that the US economy remains on solid footing 8 years after the end of the Great Recession .
+raising	6	CT+	CT+
+########
+4
+<EOP> .
+########
+5
+The Fed is lifting its short_term rate by a modest quarter_point to a still_low range of 1.25 percent to 1.5 percent .
+lifting	3	CT+	CT+
+########
+6
+It is also continuing to slowly shrink its bond portfolio .
+########
+7
+Together , the two steps could lead over time to higher loan rates for consumers and businesses and slightly better returns for savers .
+could	5	ps_cue
+########
+8
+<EOP> .
+########
+9
+The central bank says it expects the job market and the economy to strengthen further .
+expects	5	ps_cue
+########
+10
+Partly as a result , it foresees three additional rate hikes in 2018 under the leadership of Jerome Powell , who succeeds Janet Yellen as Fed chair in February .
+foresees	6	CT+	CT+
+########
+11
+<EOP> .
+########
+12
+Investors will look to Yellen 's final scheduled news conference as Fed chair for any clues to what the central bank might have in store for 2018 under Powell .
+will	1	ps_cue
+scheduled	7	ps_cue
+might	21	ps_cue
+########
+13
+Powell has been a Yellen ally who backed her cautious stance toward rate hikes in his five years on the Fed 's board .
+########
+14
+Yet no one can know for sure how his leadership or rate policy might depart from hers .
+no	1	neg_cue
+can	3	ps_cue
+or	10	ps_cue
+might	13	ps_cue
+########
+15
+<EOP> .
+########
+16
+What 's more , Powell will be joined by several new Fed board members who , like him , are being chosen by President Donald Trump .
+will	5	ps_cue
+like	16	ps_cue
+########
+17
+Some analysts say they think that while Powell might not deviate much from Yellen 's rate policy , he and the new board members will adopt a looser approach to their regulation of the banking system .
+might	8	ps_cue
+not	9	neg_cue
+will	24	ps_cue
+########
+18
+<EOP> .
+########
+19
+Most analysts have said they think the still_strengthening US economy will lead the Fed to raise rates three more times next year .
+lead	11	CT+	CT+
+will	10	ps_cue
+raise	15	ps_cue
+########
+20
+A few , though , have held out the possibility that a Powell_led Fed will feel compelled to step up the pace of rate hikes as inflation finally picks up and the economy , perhaps sped by the Republican tax cuts , begins accelerating .
+possibility	9	ps_cue
+will	14	ps_cue
+perhaps	34	ps_cue
+########
+21
+<EOP> .
+########
+22
+At his Senate confirmation hearing last month , Powell impressed his listeners as an evenhanded moderate who favored the kind of incremental stance toward rate hikes that both Yellen and her predecessor , Ben Bernanke , embraced .
+########
+23
+A Senate committee approved Powell 's nomination and sent it to the full Senate , where his confirmation is considered certain .
+considered	19	ps_cue
+########
+24
+<EOP> .
+########
+25
+Besides Powell , Trump has so far chosen two new members for the seven_member board .
+########
+26
+And he has the opening to nominate three more , including a Fed vice chair .
+########
+27
+<EOP> .
+########
+28
+In his view of the Fed , Trump has made clear that he favors low rates .
+########
+29
+But the president has also expressed a desire to pull back on many of the regulations that were imposed on banks after the 2008 financial crisis .
+########
+30
+Trump and many Republicans argue that those regulations are too burdensome , especially for smaller banks .
+########
+31
+Powell himself has sent some signals that he agrees .
+########
+32
+<EOP> .
+########
+33
+It was in the midst of the 2008 crisis that the Fed cut its key rate to a record low near zero and left it there for seven years .
+########
+34
+Eventually under Yellen , the Fed responded to a steadily improving job market and economy by modestly raising the rate -- in December 2015 , in December 2016 and now three times this year .
+########
+35
+Wednesday 's rate hike was the Fed 's first since June .
+########
+36
+The policymakers left rates alone through the summer and fall as they puzzled over why inflation had slipped farther below their 2 percent annual target .
+########
+37
+<EOP> .
+########
+38
+It 's unclear whether the Fed is taking account of the likelihood that Congress will pass tax cuts and perhaps cause the economy to accelerate next year .
+unclear	2	ps_cue
+whether	3	ps_cue
+likelihood	11	ps_cue
+will	14	ps_cue
+perhaps	19	ps_cue
+########
+39
+But in resuming its rate hikes , the Fed is acknowledging the steady strengthening of the US job market , which is benefiting from a sturdier global economy .
+########
+40
+<EOP> .
+########
+41
+The brightening international picture is encouraging more hiring in the United States , even among manufacturers , which have been hurt in the past by global competition .
+########
+42
+In November , US employers added a substantial 228,000 jobs , the 86th straight month of gains , the longest on record , and the unemployment rate held at 4.1 percent , a 17_year low .
+########
+43
+<EOP> .
+########
+44
+Over the past six months , economic growth has exceeded an annual rate of 3 percent , the first time that 's happened since 2014 .
+########
+45
+Consumer confidence has reached its highest level since 2000 .
+########
+46
+<EOP> .
+########
+47
+The stronger economies overseas have helped boost profits at US multinational corporations , a key reason why the Standard <EOP> .
+########
+48
+& <EOP> .
+########
+49
+Poor 's 500 stock index has climbed 19 percent this year as of Tuesday 's market close .
+########
+50
+US companies in the S <EOP> .
+########
+51
+index derive about half their revenue from abroad .
+########
+52
+<EOP> .
+########
+53
+Still , solid hiring and a low unemployment rate have yet to accelerate wages , a key reason why inflation remains below the Fed 's 2 percent target rate .
+yet	10	neg_cue
+########
+54
+<EOP> .
+########
+55
+Reuters <EOP> .
+########

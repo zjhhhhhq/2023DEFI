@@ -1,0 +1,77 @@
+Does UN General Assembly adopt resolution on status of Jerusalem
+0
+UN General Assembly adopts resolution on status of Jerusalem <EOP> .
+Assembly	2	CT+	CT+
+########
+1
+2017_12_22 09:33 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+UNITED NATIONS _ The General Assembly on Thursday adopted a resolution on the status of Jerusalem that will make US President Donald Trump 's decision to recognize Jerusalem as the Israeli capital have no legal effect .
+Assembly	5	CT+	CT+
+will	17	ps_cue
+no	33	neg_cue
+########
+4
+<EOP> .
+########
+5
+In a rare emergency special session , the draft resolution tabled by Turkey and Yemen was adopted 128_9 with 35 abstentions .
+rare	2	ps_cue
+########
+6
+<EOP> .
+########
+7
+The nine countries that voted against the text were Guatemala , Honduras , Marshall Islands , Micronesia , Nauru , Palau , Togo , as well as the United States and Israel .
+against	5	neg_cue
+########
+8
+<EOP> .
+########
+9
+The resolution `` affirms that any decisions and actions which purport to have altered the character , status or demographic composition of the Holy City of Jerusalem have no legal effect , are null and void and must be rescinded in compliance with relevant resolutions of the Security Council , and in this regard calls upon all states to refrain from the establishment of diplomatic missions in the Holy City of Jerusalem . ''
+or	18	ps_cue
+no	28	neg_cue
+########
+10
+<EOP> .
+########
+11
+It further demands that all UN member states comply with Security Council resolutions regarding Jerusalem , and not recognize any actions or measures contrary to those resolutions .
+not	17	neg_cue
+or	21	ps_cue
+########
+12
+<EOP> .
+########
+13
+Such a vote at the General Assembly is non_binding but a resounding `` yes '' reflects the collective will of the international community and carries much political weight .
+Assembly	6	CT+	CT+
+will	18	ps_cue
+########
+14
+<EOP> .
+########
+15
+Before the vote , US ambassador to the United Nations Nikki Haley repeated the threat to cut aid for the countries that would have voted in favor of the draft as well as US contributions to the United Nations .
+would	22	ps_cue
+########
+16
+<EOP> .
+########
+17
+She said her country will move its Embassy in Israel from Tel Aviv to Jerusalem .
+will	4	ps_cue
+########
+18
+`` No vote in the United Nations will make any difference on that . ''
+No	1	neg_cue
+will	7	ps_cue
+########
+19
+<EOP> .
+########

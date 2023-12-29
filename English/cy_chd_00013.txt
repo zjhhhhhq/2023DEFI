@@ -1,0 +1,126 @@
+Do China , Argentina discover common passion for tango
+0
+Feature : China , Argentina discover common passion for tango <EOP> .
+passion	7	CT+	CT+
+########
+1
+2017_04_18 16:20 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+BUENOS AIRES _ China and Argentina are finding new common ground in a joint love for tango , the seductive and confrontational Argentinean dance that is finding new fertile ground in China .
+love	14	CT+	CT+
+love	14	ps_cue
+########
+4
+<EOP> .
+########
+5
+Xinhua spent some time in Argentina with a Sino_Argentinean couple , Shelly Hou and Juan Berthier , who have begun gathering students in Buenos Aires .
+########
+6
+<EOP> .
+########
+7
+In the city 's Salon Canning , the two dancers put on a `` milonga , '' a space where tango lovers come to dance and give free rein to their passion .
+passion	31	CT+	CT+
+########
+8
+<EOP> .
+########
+9
+Hou , born in Shanghai , told Xinhua that her passion for tango began when she saw it performed on television .
+passion	10	CT+	CT+
+########
+10
+`` After that , I took a holiday to Buenos Aires and moved here in 2013 to learn Spanish and tango , '' she said .
+########
+11
+<EOP> .
+########
+12
+She met Berthier at the National University of the Arts LRB UNA RRB , where they began learning tango together .
+########
+13
+<EOP> .
+########
+14
+`` We were friends for a year and ended up as a couple , dancing together , '' added her Argentinean partner .
+########
+15
+<EOP> .
+########
+16
+`` We began practicing together and I was surprised to find he LRB Juan RRB knew a lot about China , such as traditional Chinese medicine and history .
+########
+17
+We have progressed together , we take classes , we practice and work together , '' explained Hou .
+########
+18
+<EOP> .
+########
+19
+According to her , `` with the advantage of two cultures , we began giving regular tango classes in Buenos Aires , especially for Chinese people who live or travel here and want to learn tango .
+or	28	ps_cue
+########
+20
+We speak about each other 's experiences , in China and Argentina . ''
+########
+21
+<EOP> .
+########
+22
+Now , moved by their passion , Hou and Berthier receive many students from China , as well as the US , Canada and beyond .
+########
+23
+<EOP> .
+########
+24
+`` The classes are not just about tango , and they are also a place to meet new friends , to share cultures , ideas and experiences together , especially between Argentineans and Chinese , '' said Hou .
+not	4	neg_cue
+########
+25
+<EOP> .
+########
+26
+Asked about tango 's appeal , Hou describes it as a `` mysterious and beautiful dance which represents Argentina .
+########
+27
+Through tango , more Chinese like me are discovering this country , the culture and its people .
+like	5	ps_cue
+########
+28
+It brings us together as a family . ''
+########
+29
+<EOP> .
+########
+30
+`` I arrived here alone , without knowing anything or anyone .
+without	6	neg_cue
+or	9	ps_cue
+########
+31
+I began learning Spanish and tango and I began to discover the country .
+########
+32
+<EOP> .
+########
+33
+Tango is not just a dance from Argentina , and it also represents Argentina 's culture , '' she said .
+not	2	neg_cue
+########
+34
+<EOP> .
+########
+35
+Now , Hou and Berthier are preparing a trip to China .
+########
+36
+`` We want to teach tango there , '' said the Argentinean man .
+########
+37
+<EOP> .
+########

@@ -1,0 +1,79 @@
+Do forests fire kill people
+0
+Three dead as Portugal suffers over 400 forest fires <EOP> .
+fires	8	CT+	CT+
+########
+1
+2017_10_16 09:13 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+LISBON _ Three people have died and at least 25 others were injured as Sunday turned into Portugal 's worst day of the year for forest fires , local media reported .
+fires	26	CT+	CT+
+########
+4
+<EOP> .
+########
+5
+Two of the deaths occurred in Penacova , in the district of Coimbra , in the north of the country .
+########
+6
+They were believed to have been a mother and father and to have died inside a burning shed .
+burning	16	CT+	CT+
+believed	2	ps_cue
+########
+7
+<EOP> .
+########
+8
+The other confirmed death took place in Serta , in Castelo Branco district , also in the north of Portugal .
+########
+9
+The victim is reported to have been hard of hearing .
+########
+10
+<EOP> .
+########
+11
+Of the 25 injured , the majority were reported to be firefighters .
+########
+12
+<EOP> .
+########
+13
+The National Civil Protection Authority spokeswoman Patricia Gaspar has declared Sunday the worst day of 2017 for forest fires with 443 recorded throughout the country .
+########
+14
+A state of emergency was also declared which will be in place until 8 p.m. Monday .
+will	8	ps_cue
+########
+15
+<EOP> .
+########
+16
+Numerous motorways and train lines have been closed and dozens of villages have been evacuated .
+########
+17
+<EOP> .
+########
+18
+More than 100 fires were still blazing at 10 p.m. on Sunday with 5,300 firefighters engaged .
+fires	3	CT+	CT+
+########
+19
+<EOP> .
+########
+20
+Over 260,000 hectares have burned in Portugal in 2017 , almost 50 percent of the European total and double the yearly average for Portugal .
+########
+21
+<EOP> .
+########
+22
+The deadly forest fires erupted on June 17 in the area of Pedrogao Grande , some 150 km northeast of Lisbon , killing 64 people and injuring more than 250 others .
+########
+23
+<EOP> .
+########

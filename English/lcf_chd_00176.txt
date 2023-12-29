@@ -1,0 +1,96 @@
+Is UK PM May a quitter 
+0
+` I 'm not a quitter ' says UK PM May , vowing to fight next election <EOP> .
+quitter	5	CT-	CT-
+not	3	neg_cue
+May	10	ps_cue
+########
+1
+2017_08_31 10:28 <EOP> .
+########
+2
+null <EOP> .
+########
+3
+<EOP> .
+########
+4
+British Prime Minister Theresa May takes part in a tea ceremony at Omotesenke Fushin ` an in Kyoto , western Japan August 30 , 2017 .
+May	4	ps_cue
+########
+5
+LRB Photo_Agencies RRB <EOP> .
+########
+6
+KYOTO , Japan _ Prime Minister Theresa May said she wanted to continue as Britain 's leader beyond the next parliamentary election , not due until 2022 , dismissing expectations she could stand down after Brexit as early as 2019 .
+May	7	ps_cue
+wanted	10	ps_cue
+not	23	neg_cue
+could	31	ps_cue
+########
+7
+<EOP> .
+########
+8
+May 's authority has been badly damaged by a ill_judged election campaign earlier this year which cost her Conservative party its majority in parliament and failed to provide a clear mandate for her Brexit strategy .
+May	0	ps_cue
+failed	25	neg_cue
+########
+9
+<EOP> .
+########
+10
+After apologising for her election mistakes , May won a temporary reprieve , with many Conservative Party members afraid that ousting her could collapse a fragile minority government and let the leftist Labour Party into power .
+May	7	ps_cue
+could	22	ps_cue
+########
+11
+<EOP> .
+########
+12
+While some Conservatives continue to see her as an interim leader being kept in place to deliver Brexit , May insisted that she had broader ambitions in office and had no plans to step down .
+May	19	ps_cue
+no	30	neg_cue
+plans	31	ps_cue
+########
+13
+<EOP> .
+########
+14
+`` I 'm not a quitter , '' May said in an interview with ITV News during a visit to Japan .
+quitter	5	CT-	CT-
+not	3	neg_cue
+May	8	ps_cue
+########
+15
+<EOP> .
+########
+16
+<EOP> .
+########
+17
+<EOP> .
+########
+18
+Asked directly in a separate interview , with the BBC , whether she intended to fight the next election as leader of the Conservative Party she said : <EOP> .
+whether	11	ps_cue
+intended	13	ps_cue
+########
+19
+`` Yes ... I 'm here for the long term and it 's crucial , what me and my government are about is not just delivering on Brexit , we are delivering a brighter future for the United Kingdom . ''
+not	23	neg_cue
+########
+20
+<EOP> .
+########
+21
+The next national election is not scheduled until 2022 , three years after Britain is due to leave the European Union .
+not	5	neg_cue
+scheduled	6	ps_cue
+########
+22
+<EOP> .
+########
+23
+Reuters <EOP> .
+########

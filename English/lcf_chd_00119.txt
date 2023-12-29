@@ -1,0 +1,128 @@
+Do family and friends gather for dinners on the festival
+0
+Mooncakes herald the Chinese Mid_Autumn Festival <EOP> .
+########
+1
+2017_09_28 23:10 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+It 's almost the time of year when many people of Chinese origin will be tucking into mooncakes and preparing for family gatherings .
+gatherings	22	CT+	CT+
+will	13	ps_cue
+########
+4
+<EOP> .
+########
+5
+The Mid_Autumn Festival is traditionally celebrated during the 15th day of the eighth month of the Chinese Lunar Calendar .
+########
+6
+This year it falls on Oct 4 .
+########
+7
+<EOP> .
+########
+8
+The festival gives thanks for the upcoming harvest , for prayers and is also the occasion where family and friends gather for dinners .
+gather	20	CT+	CT+
+########
+9
+<EOP> .
+########
+10
+Many consider the festival to be the second most_important event in the Chinese calendar , after the Lunar New Year .
+consider	1	ps_cue
+########
+11
+<EOP> .
+########
+12
+The festival has been celebrated by Chinese communities since the Shang Dynasty LRB c. 16th century _ 11th century BC RRB .
+########
+13
+<EOP> .
+########
+14
+For many Chinese the moon symbolizes prosperity , peace and reunion and it would n't be Mid_Autumn Festival without mooncakes _ a type of pastry with different fillings _ which are often given as gifts .
+would	13	ps_cue
+n't	14	neg_cue
+without	18	neg_cue
+########
+15
+<EOP> .
+########
+16
+Mooncakes are believed to have originated from Yuan dynasty LRB 1271_1368 RRB revolutionaries , who are said to have used the pastries to pass secret messages between each other .
+believed	2	ps_cue
+########
+17
+<EOP> .
+########
+18
+They are commonly filled with lotus seed paste with an egg yolk in the middle .
+########
+19
+Others contain ingredients such as sesame seed or red bean paste .
+or	7	ps_cue
+########
+20
+<EOP> .
+########
+21
+Over the years these treats , which are also known for their high calorie and fat content , have changed to suit modern taste buds , with ice cream mochi_style cakes and chocolate molten lava mooncakes .
+########
+22
+<EOP> .
+########
+23
+Some bakeries in Hong Kong have created unusual combinations to give their cakes a contemporary twist , such as truffle and egg mooncakes mixed into white lotus seed paste .
+########
+24
+Other creations include lychee , jasmine , earl grey flavored egg custard mooncakes .
+########
+25
+<EOP> .
+########
+26
+Another essential feature of the three_day celebrations is lanterns _ either decorative or hand_held .
+celebrations	6	CT+	CT+
+either	10	ps_cue
+or	12	ps_cue
+########
+27
+Other traditions include lantern carnivals and fire dragon dances , while thousands of moon_gazers gather in parks across China for a chance to see the moon at its brightest .
+########
+28
+<EOP> .
+########
+29
+In London , the China Exchange is hosting festival events .
+events	9	CT+	CT+
+########
+30
+<EOP> .
+########
+31
+Festivities begin with a performance by singers from the East_West Gala Chorus .
+########
+32
+<EOP> .
+########
+33
+It will feature specially_written arrangements by British composer and violinist , Sarah Hudson , and Chinese composer and pianist , Samuel Louis .
+will	1	ps_cue
+########
+34
+<EOP> .
+########
+35
+There will also be family_oriented events taking place around London 's Chinatown .
+events	5	CT+	CT+
+will	1	ps_cue
+########
+36
+<EOP> .
+########

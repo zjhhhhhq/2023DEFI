@@ -1,0 +1,52 @@
+Were several people injured
+0
+Man drives car over several people in south Spain <EOP> .
+########
+1
+2017_05_29 07:03 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+MADRID __ A man drove a car over several people on Sunday night in the area of Puerto Banus in the municipality of Marbella , south Spain , after jumping over a stop of a Civil Guard patrol , Spanish news agency EFE quoted the regional government as reporting .
+stop	32	neg_cue
+########
+4
+<EOP> .
+########
+5
+According to sources , this event took place at about 9:00 p.m. local time , and is not related to terrorism in principle .
+not	17	neg_cue
+########
+6
+Several people were injured , but there are no fatalities .
+injured	3	CT+	CT+
+no	8	neg_cue
+########
+7
+<EOP> .
+########
+8
+RT news reported that seven people were wounded in the incident .
+wounded	7	CT+	CT+
+########
+9
+<EOP> .
+########
+10
+EFE reported that the vehicle involved was an SUV or a similar car .
+or	9	ps_cue
+########
+11
+The driver and occupants inside have been detained by local police and the Civil Guard .
+########
+12
+<EOP> .
+########
+13
+The driver apparently had symptoms of intoxication , added the sources .
+########
+14
+<EOP> .
+########

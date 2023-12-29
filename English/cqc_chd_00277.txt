@@ -1,0 +1,113 @@
+Do Chinese people in Britain experience racial harassment 
+0
+Britain 's Chinese communities report worrying level of racism <EOP> .
+########
+1
+2017_11_21 00:56 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+Chinese people in Britain are more likely to experience racial harassment than people from other ethnic groups , according to a new research .
+harassment	10	PS+	PS+
+likely	6	ps_cue
+########
+4
+<EOP> .
+########
+5
+The study by the Institute for Social and Economic Research at the University of Essex found that an average of 4 to 10 percent of people across most ethnic minority groups said they had experienced some kind of racial harassment in the last year .
+harassment	39	CT+	PS+
+########
+6
+<EOP> .
+########
+7
+But the highest rate of reported incidents was among Chinese men and women , with 15 percent saying they had experienced racial harassment during the same period .
+harassment	22	CT+	PS+
+########
+8
+<EOP> .
+########
+9
+The report said other ethnic minority groups that are more likely to report experiencing racial harassment include Pakistani men , Indian_Sikh men , Indian_Muslim men , and Bangladeshi women .
+harassment	15	PS+	PS+
+likely	10	ps_cue
+########
+10
+<EOP> .
+########
+11
+Chinese students told China Daily they generally felt safe in the United Kingdom but were wary in certain circumstances .
+########
+12
+<EOP> .
+########
+13
+A postgraduate student at Sheffield University who prefers to be identified by her surname Liu said she had never been a target of racial harassment but a friend had been treated badly because of her poor ability to speak English .
+harassment	24	CT-	PS+
+never	18	neg_cue
+########
+14
+<EOP> .
+########
+15
+`` My friend , Sun , said when she first came to the UK and checked into a hotel , the receptionist was n't very approachable , '' said Liu .
+n't	23	neg_cue
+########
+16
+<EOP> .
+########
+17
+Liu feels safe most of the time but is concerned when she encounters people who are drunk .
+########
+18
+<EOP> .
+########
+19
+And a PhD student who goes by the name Cao , who also studies in Sheffield , said she worries about becoming a victim of crime when going out late at night .
+########
+20
+<EOP> .
+########
+21
+According to the study , many incidents take place in the street , in shops , and on public transport , with 10 to 20 percent of men and women across ethnic minority groups in England saying they had experienced physical or verbal attacks in public because of their ethnicity , religion or nationality .
+or	41	ps_cue
+or	52	ps_cue
+########
+22
+<EOP> .
+########
+23
+With the exception of black Caribbean and black African people , twice as many people anticipate or fear harassment as the number who actually experiences it .
+or	16	ps_cue
+########
+24
+<EOP> .
+########
+25
+The research said fear of a racist attack may have detrimental effects on labor market participation , social interaction , physical activity , and on mental health and wellbeing .
+may	8	ps_cue
+########
+26
+<EOP> .
+########
+27
+Renee Luthra , director of the Centre for Migration Studies at the University of Essex , told The Guardian : `` Our study has found that harassment is experienced by the broad population of ethnic minorities , and damages mental health , even among those who do not directly experience it . ''
+not	47	neg_cue
+########
+28
+<EOP> .
+########
+29
+Alita Nandi , research fellow at the Institute for Social and Economic Research , said : `` We hope this evidence will be taken up by law enforcement in identifying high_risk places and making public spaces accessible to all , and by mental health professionals by considering ethnic and racial harassment as an additional factor in mental health issues experienced by ethnic minorities in Britain . ''
+hope	18	ps_cue
+will	21	ps_cue
+########
+30
+<EOP> .
+########
+31
+Zhang Yangfei contributed to this story <EOP> .
+########

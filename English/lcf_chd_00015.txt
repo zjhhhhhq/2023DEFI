@@ -1,0 +1,146 @@
+Do China and Russia agree to further cooperation
+0
+China , Russia agree to further cooperation <EOP> .
+cooperation	6	CT+	CT+
+########
+1
+2017_11_02 01:25 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+BEIJING __ China and Russia signed nearly 20 deals here Wednesday in areas including investment , energy and space exploration .
+########
+4
+<EOP> .
+########
+5
+The deals came after the 22nd regular meeting between the heads of government of China and Russia held in the Great Hall of the People , Beijing .
+########
+6
+<EOP> .
+########
+7
+During the meeting , Chinese Premier Li Keqiang told his Russian counterpart Dmitry Medvedev that as each other 's biggest neighbor , China and Russia have witnessed robust development of the comprehensive strategic partnership of coordination .
+########
+8
+<EOP> .
+########
+9
+Li said for China , the biggest developing country in the world , development is the solution to all problems .
+########
+10
+<EOP> .
+########
+11
+Both China and Russia view each other 's development as an important opportunity , therefore there is a broad prospect for both countries to synergize development strategies and further advance all_round cooperation , said Li .
+cooperation	31	CT+	CT+
+########
+12
+<EOP> .
+########
+13
+He said closer bilateral cooperation will contribute more to the peace and development in both countries , the region and the world .
+cooperation	4	CT+	CT+
+will	5	ps_cue
+########
+14
+<EOP> .
+########
+15
+Li briefed Medvedev on the 19th National Congress of the Communist Party of China LRB CPC RRB which was held from Oct 18 to 24 in Beijing .
+########
+16
+<EOP> .
+########
+17
+He said that the CPC National Congress had just elected a new CPC Central Committee with Xi Jinping at the core , established Xi Jinping Thought on Socialism with Chinese Characteristics for a New Era as the guiding spirit of the CPC and mapped out China 's future goals of development .
+########
+18
+<EOP> .
+########
+19
+Medvedev , the first head of government to visit China after the congress , congratulated the CPC on the success of the congress and hoped the Chinese people would achieve their goals at an early date .
+hoped	24	ps_cue
+would	28	ps_cue
+########
+20
+<EOP> .
+########
+21
+He said current Russia_China relations are at the apex of history with frequent high_level visits , efficient cooperation on key projects and rapid trade and investment growth .
+########
+22
+<EOP> .
+########
+23
+Russia is willing to enhance traditional cooperation with China in areas such as energy , infrastructure construction and aviation , to expand to new areas including e_commerce and financial investment , and to advance cooperation on cultural and people_to_people exchanges , he said .
+cooperation	6	CT+	CT+
+willing	2	ps_cue
+########
+24
+<EOP> .
+########
+25
+China is willing to cooperate with Russia on the basis of mutual respect , equality and common development and promote the building of a new type of international relations featuring win_win cooperation , Li said .
+cooperation	31	CT+	CT+
+willing	2	ps_cue
+########
+26
+<EOP> .
+########
+27
+After the meeting , Li and Medvedev signed a joint communique and met the press .
+########
+28
+<EOP> .
+########
+29
+On Wednesday afternoon , Li and Medvedev attended the closing ceremony of the China_Russia Media Exchange Year .
+########
+30
+<EOP> .
+########
+31
+Together with more than 600 representatives from China and Russia , Li and Medvedev watched a video reviewing activities from the past two years , praising the results .
+########
+32
+<EOP> .
+########
+33
+Media exchange year , launched by President Xi and Russian President Vladimir Putin , has shown that China and Russia enjoy a high degree of political mutual trust and mutual understanding in culture , said Li .
+########
+34
+<EOP> .
+########
+35
+Activities , covering the areas of politics , economy , culture and people 's daily life , have increased understanding between the two peoples , said Li .
+########
+36
+<EOP> .
+########
+37
+Medvedev said the two countries have held more than 250 activities during the media exchange year , reflecting the deep friendship between the two peoples and the significance of bilateral relations .
+########
+38
+<EOP> .
+########
+39
+Chinese Vice Premier Liu Yandong also attended the closing ceremony .
+########
+40
+<EOP> .
+########
+41
+Also on Wednesday , Chinese Vice Premier Zhang Gaoli , Vice Premier Wang Yang and Vice Premier Liu Yandong received a Russian state award , the Order of Friendship , from Medvedev .
+########
+42
+<EOP> .
+########
+43
+The Order of Friendship is a state decoration of the Russian Federation to reward foreign nationals who have made significant contributions to strengthening peace , friendship , cooperation and mutual understanding among nations .
+########
+44
+<EOP> .
+########

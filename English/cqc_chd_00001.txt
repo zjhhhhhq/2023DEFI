@@ -1,0 +1,79 @@
+Does Duterte vow for closer relations with China
+0
+Philippine President Duterte vows for closer relations with China <EOP> .
+vows	3	CT+	CT+
+########
+1
+2017_07_26 09:18 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+<EOP> .
+########
+4
+<EOP> .
+########
+5
+<EOP> .
+########
+6
+Visiting Chinese Foreign Minister Wang Yi LRB Front L RRB meets with Philippine President Rodrigo Duterte LRB Front R RRB in Manila , the Philippines , on July 25 , 2017 .
+########
+7
+LRB Photo_Xinhua RRB <EOP> .
+########
+8
+MANILA _ Philippine President Rodrigo Duterte pledged on Tuesday that his country is to build stronger bilateral relations with China .
+pledged	6	CT+	CT+
+########
+9
+<EOP> .
+########
+10
+`` The Philippines attaches great importance to China 's status and influence in the world , and is willing to build stronger relations with China , '' Duterte said in his meeting with visiting Chinese Foreign Minister Wang Yi .
+willing	18	ps_cue
+########
+11
+<EOP> .
+########
+12
+Duterte said the Philippines highly appreciates the support China extends to his country and the role China plays in his country 's nation building , especially China 's support to combat terrorism .
+########
+13
+<EOP> .
+########
+14
+Duterte expressed his satisfaction with the development of the bilateral ties between the two countries , saying the Philippines is willing to deepen cooperation with China in all sectors so as to benefit the two countries and their peoples .
+willing	20	ps_cue
+########
+15
+<EOP> .
+########
+16
+Wang reiterated that China unswervingly supports Philippine 's independent foreign policy .
+########
+17
+<EOP> .
+########
+18
+Wang recalled that bilateral relations between China and the Philippines have fully improved under the guidance of the leaders of the two countries , saying improvement in relations has brought tangible benefits to the two peoples .
+recalled	1	CT+	CT+
+########
+19
+<EOP> .
+########
+20
+`` Facts speak louder .
+########
+21
+For neighbors , dialogue is better than confrontation , cooperation is better than friction .
+########
+22
+History will show that we have made a right choice , '' Wang said .
+will	1	ps_cue
+########
+23
+<EOP> .
+########

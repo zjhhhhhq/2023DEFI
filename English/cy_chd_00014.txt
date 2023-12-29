@@ -1,0 +1,100 @@
+Is a largest deployment since WWII
+0
+US sends 1,000 Marines to Darwin , in a largest deployment since WWII <EOP> .
+deployment	10	CT+	CT+
+########
+1
+2017_04_19 07:40 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+<EOP> .
+########
+4
+CANBERRA _ More than 1,000 US Marines arrived in Darwin on Tuesday as part of a rotation of forces to be stationed in northern Australia .
+########
+5
+<EOP> .
+########
+6
+The 1,250 troops who arrived in the Northern Territory will soon be joined by 13 aircraft _ four tilt_rotor Osprey helicopters , five Super Cobra helicopters and four Huey helicopters _ in one of the largest deployments of US forces to Australia since World War II .
+deployments	36	CT+	CT+
+will	9	ps_cue
+########
+7
+<EOP> .
+########
+8
+Commanding Officer of Marine Rotational Force Darwin , Lieutenant Colonel Brian S. Middleton told journalists on Tuesday that `` the aviation combat element is our most robust deployment to Darwin '' .
+deployment	27	CT+	CT+
+########
+9
+<EOP> .
+########
+10
+`` Being close to Southeast Asia and the Indian Ocean , the Indo_Pacific position has always been important . ''
+########
+11
+<EOP> .
+########
+12
+Middleton said the Marines would conduct `` important exercises alongside with Chinese partners '' and Australia .
+would	4	ps_cue
+########
+13
+Troops from the three countries are conducting annual joint exercises code_named Kowari since 2014 .
+########
+14
+<EOP> .
+########
+15
+Brigadier Ben James , commander of Australia 's 3,000 _ strong 1st Brigade based in Darwin , said he looked forward to working alongside with his US counterparts .
+forward	20	ps_cue
+forward	20	neg_cue
+########
+16
+<EOP> .
+########
+17
+The rotation is part of a deal struck between former US president Barack Obama and former Australian prime minister Julia Gillard in 2011 .
+########
+18
+<EOP> .
+########
+19
+It is the first large_scale arrival of US troops since the arrangement was signed , with a small number of Marines having been sent to Darwin for training since 2012 .
+########
+20
+<EOP> .
+########
+21
+Michael Gunner , the Northern Territory 's chief minister , said the deployment provides an important economic boost to the territory .
+deployment	12	CT+	CT+
+########
+22
+A report said the Marines would inject $ 3.7 million into the NT economy annually .
+would	5	ps_cue
+########
+23
+<EOP> .
+########
+24
+<EOP> .
+########
+25
+<EOP> .
+########
+26
+<EOP> .
+########
+27
+<EOP> .
+########
+28
+US Marines disembark a plane as they arrive at Darwin , Australia , on Tuesday.Tomwestbrook _ Reuters <EOP> .
+########
+29
+LRB China Daily 04_19_2017 page13 RRB <EOP> .
+########

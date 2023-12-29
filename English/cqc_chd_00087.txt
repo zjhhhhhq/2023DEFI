@@ -1,0 +1,128 @@
+Does Singapore FM invite Chinese bids on project
+0
+Singapore FM invites Chinese bids on project <EOP> .
+project	6	CT+	CT+
+########
+1
+2017_06_12 06:17 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+<EOP> .
+########
+4
+Singaporean Minister for Foreign Affairs Vivian Balakrishnan LRB Photo_China Daily RRB <EOP> .
+########
+5
+In a written interview with China Daily , he said Singapore `` recognizes China 's experience and expertise '' .
+########
+6
+The international request for bids , to be conducted in a fair and transparent manner , will be jointly put out by Singapore and Malaysia later this year , he said .
+will	16	ps_cue
+########
+7
+<EOP> .
+########
+8
+The minister , in an official visit to China from Sunday to Monday , noted that the project aims to improve connectivity among the 10_member Association of Southeast Asian Nations .
+project	17	CT+	CT+
+########
+9
+<EOP> .
+########
+10
+Regarding the Belt and Road Initiative , Balakrishnan called Singapore an `` early and strong supporter '' and said China and Singapore can work together to add value to the initiative .
+can	22	ps_cue
+########
+11
+<EOP> .
+########
+12
+The two countries can further consider the joint provision of training for officials from the `` Belt and Road '' countries , and encourage think tanks to conduct joint research on topics related to the `` Belt and Road '' , he said .
+can	3	ps_cue
+consider	5	ps_cue
+########
+13
+<EOP> .
+########
+14
+Singapore has been China 's largest foreign investor as well as China 's top trading partner within ASEAN .
+########
+15
+<EOP> .
+########
+16
+`` Singapore will continue to support Chinese companies as more venture abroad , '' he said .
+will	2	ps_cue
+########
+17
+<EOP> .
+########
+18
+Speaking of bilateral ties , he said Singapore and China share a `` close and longstanding friendship '' , and this partnership `` also reflects the long term strength of our bilateral ties and the bright prospects for the future '' .
+########
+19
+<EOP> .
+########
+20
+While the two countries have their respective national interests , there are no fundamental strategic disagreements , he said .
+no	12	neg_cue
+########
+21
+<EOP> .
+########
+22
+`` We both need regional peace and stability .
+need	3	ps_cue
+########
+23
+We both depend on free and open trade , '' he added .
+########
+24
+<EOP> .
+########
+25
+On China_ASEAN ties , Balakrishnan said ASEAN 's strategic partnership with China is `` strong , substantive and multifaceted '' , and both sides need to boost two_way tourist visits and promote people_to_people exchanges .
+need	24	ps_cue
+########
+26
+<EOP> .
+########
+27
+`` We will continue to actively advance ASEAN_China relations in the remaining year of our ASEAN_China coordinatorship , part of which will coincide with Singapore 's Chairmanship of ASEAN in 2018 , '' he said .
+will	2	ps_cue
+will	21	ps_cue
+########
+28
+<EOP> .
+########
+29
+`` We look forward to working closely with our ASEAN colleagues and with China to bring the ASEAN_China Strategic Partnership to greater heights , '' he added .
+forward	3	ps_cue
+forward	3	neg_cue
+########
+30
+<EOP> .
+########
+31
+On the South China Sea issue , the minister said the South China Sea situation `` has been calm and there have been no major disruptions in the past year '' , and the complicated issue `` must be resolved by the claimant states themselves '' .
+no	23	neg_cue
+resolved	39	neg_cue
+########
+32
+<EOP> .
+########
+33
+Singapore is glad to be able to contribute effectively to the good progress made on the full and effective implementation of the Declaration on the Conduct of Parties in the South China Sea , signed by China and ASEAN members in 2002 , and the consultations on the Code of Conduct thus far , he said .
+########
+34
+<EOP> .
+########
+35
+`` I welcome the progress made by our officials in finalizing the framework for the COC in Guiyang last month , '' he said .
+########
+36
+<EOP> .
+########

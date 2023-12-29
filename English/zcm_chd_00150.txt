@@ -1,0 +1,148 @@
+Did Republicans express increasing pessimism on Sunday about the prospects for the healthcare bill
+0
+Republicans voice growing doubts on US healthcare bill 's fate <EOP> .
+########
+1
+2017_07_10 10:43 <EOP> .
+########
+2
+null <EOP> .
+########
+3
+<EOP> .
+########
+4
+US Senator John McCain looks on during a news conference in Kabul , Afghanistan , July 4 , 2017 .
+########
+5
+LRB Photo_Agencies RRB <EOP> .
+########
+6
+<EOP> .
+########
+7
+WASHINGTON _ Republicans expressed increasing pessimism on Sunday about the prospects for the healthcare bill in the US Senate aimed at rolling back Obamacare as lawmakers prepared to return from a week_long recess .
+bill	14	PS-	PS-
+pessimism	5	ps_cue
+########
+8
+<EOP> .
+########
+9
+One prominent Republican lawmaker , US Senator John McCain , said he thought the Republican bill would probably fail .
+bill	15	PS-	PS-
+probably	17	ps_cue
+would	16	ps_cue
+fail	18	neg_cue
+########
+10
+<EOP> .
+########
+11
+`` My view is that it 's probably going to be dead , '' McCain , said on the CBS program `` Face the Nation '' , adding that Republicans , who narrowly control the chamber , would likely need to work with Democrats on a healthcare bill .
+probably	7	ps_cue
+would	37	ps_cue
+likely	38	ps_cue
+need	39	ps_cue
+########
+12
+<EOP> .
+########
+13
+US President Donald Trump took to Twitter on Sunday to put pressure on Republicans to stay the course .
+########
+14
+<EOP> .
+########
+15
+`` For years , even as a ` civilian ' , I listened as Republicans pushed the Repeal and Replace of ObamaCare .
+########
+16
+Now they finally have their chance ! ''
+########
+17
+he tweeted .
+########
+18
+<EOP> .
+########
+19
+The Senate bill , which faces unified Democratic opposition , has been further imperiled during the recess , when Republican senators have had to return to their states and face constituents strongly opposed to the measure .
+opposition	8	neg_cue
+opposed	32	neg_cue
+########
+20
+Senators return to Washington on Monday .
+########
+21
+<EOP> .
+########
+22
+The Senate bill keeps intact much of the 2010 Affordable Care Act , former Democratic President Barack Obama 's signature legislation , popularly known as Obamacare , but strips away most of its funding .
+########
+23
+<EOP> .
+########
+24
+It repeals most Obamacare taxes , overhauls the law 's tax credits and ends its Medicaid expansion .
+########
+25
+It also goes beyond repealing Obamacare by cutting funding for the Medicaid program for the poor and disabled beginning in 2025 .
+########
+26
+<EOP> .
+########
+27
+At least 10 Republican senators have opposed the bill in its current form , but many more have criticized the legislation or said they are undecided .
+opposed	6	neg_cue
+criticized	18	neg_cue
+or	21	ps_cue
+########
+28
+Republican Senator Bill Cassidy said on Sunday the draft bill was undergoing a `` serious rewrite . ''
+########
+29
+<EOP> .
+########
+30
+`` Clearly , the draft plan is dead , '' he said on Fox News .
+plan	5	ps_cue
+########
+31
+`` Is the serious rewrite plan dead ?
+plan	5	ps_cue
+########
+32
+I do n't know .
+n't	2	neg_cue
+########
+33
+I 've not seen the serious rewrite plan . ''
+not	2	neg_cue
+plan	7	ps_cue
+########
+34
+<EOP> .
+########
+35
+Critics have derided the bill as a giveaway to wealthy Americans who would see some tax increases rolled back .
+would	12	ps_cue
+########
+36
+Opponents also warn that the legislation would cause millions of poor and sick Americans to lose healthcare coverage .
+would	6	ps_cue
+########
+37
+<EOP> .
+########
+38
+The nonpartisan Congressional Budget Office , which assesses the impact of legislation , estimated 22 million people would lose health insurance over the next decade under the Senate bill .
+would	17	ps_cue
+########
+39
+In a separate report , it found the proposal would cut government spending on Medicaid by 35 percent come 2036 .
+would	9	ps_cue
+########
+40
+<EOP> .
+########

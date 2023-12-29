@@ -1,0 +1,96 @@
+Does new ambassador to EU present credentials 
+0
+New ambassador to EU presents credentials <EOP> .
+presents	4	CT+	CT+
+########
+1
+2017_10_10 04:46 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+<EOP> .
+########
+4
+<EOP> .
+########
+5
+<EOP> .
+########
+6
+Zhang Ming , China 's new ambassador to the EU , presents his copy of a letter of credentials to European Commission 's Chief of Protocol Nicolas De La Grandville on Monday in Brussels .
+presents	11	CT+	CT+
+########
+7
+LRB Provided to China Daily RRB <EOP> .
+########
+8
+Replacing his predecessor Yang Yanyi , Chinese Vice_Minister of Foreign Affairs Zhang Ming has acted as the head of China 's mission to the EU and presented his copy of a letter of credentials to the European Commission 's chief of protocol on Monday .
+presented	26	CT+	CT+
+########
+9
+<EOP> .
+########
+10
+European Commission Chief of Protocol Nicolas De La Grandville received Zhang before the new ambassador presents the letter of credentials to European Council President Donald Tusk .
+########
+11
+The schedule for the protocol arrangement is still unknown .
+unknown	8	ps_cue
+########
+12
+<EOP> .
+########
+13
+Formerly in charge of China 's relationship with West Asia , North Africa and Africa , Zhang arrived in Brussels on Oct 7 , and Yang left her mandate in late September .
+########
+14
+<EOP> .
+########
+15
+Welcoming Zhang 's taking on his new job , De La Grandville vowed to work with the Chinese mission to lift bilateral relations to a new high .
+########
+16
+<EOP> .
+########
+17
+During the meeting , Zhang said that China and the EU will embrace an even more rewarding future in bilateral relations and contribute more to world peace and development .
+will	11	ps_cue
+########
+18
+<EOP> .
+########
+19
+`` China and the EU are two major economies and key players in the world .
+########
+20
+A healthy and steadily developing China_EU relationship is instrumental to world peace and development , '' Zhang said .
+########
+21
+<EOP> .
+########
+22
+He said that since the establishment of diplomatic ties in 1975 , there has been tremendous progress in China_EU relations , with pragmatic cooperation broadening and deepening in all areas .
+########
+23
+In 2003 , the China_EU comprehensive strategic partnership was established .
+########
+24
+<EOP> .
+########
+25
+In 2014 , President Xi Jinping paid a historic visit to EU headquarters , and during the visit , the two sides committed to building the partnerships for peace , growth , reform and civilization , thus chartering the course of future China_EU relations .
+########
+26
+The Belt and Road Initiative has injected new energy into pragmatic China_EU cooperation .
+########
+27
+<EOP> .
+########
+28
+`` The Chinese Mission to the EU is committed to advancing China_EU relations and promoting mutual understanding and exchanges between the peoples , '' Zhang said .
+########
+29
+<EOP> .
+########

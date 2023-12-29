@@ -1,0 +1,82 @@
+Did Japan enact law 
+0
+Japan enacts law to allow Emperor Akihito to abdicate <EOP> .
+enacts	1	CT+	CT+
+########
+1
+2017_06_09 12:11 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+TOKYO __ Japan 's parliament enacted on Friday a law to allow Japan 's Emperor Akihito to step down and pass his duties over to Crown Prince Naruhito .
+enacted	5	CT+	CT+
+########
+4
+<EOP> .
+########
+5
+The law , designed specially for the current emperor , would allow Emperor Akihito to be the first Japanese emperor that has relinquished the throne in around 200 years .
+would	10	ps_cue
+########
+6
+<EOP> .
+########
+7
+The timing of the abdication , according to the law , will be decided under a government ordinance within three years of the law 's promulgation after consulting with the Imperial House Council .
+will	11	ps_cue
+########
+8
+<EOP> .
+########
+9
+Local media reported that the government eyes allowing the emperor to abdicate in December 2018 , with the emperor 's 85th birthday in mind .
+########
+10
+<EOP> .
+########
+11
+The government is also set to speed up its efforts to pick a name for the new era once Crown Prince Naruhito ascends the Chrysanthemum throne , said the reports .
+########
+12
+<EOP> .
+########
+13
+Japanese Emperor Akihito indicated his wish to relinquish and hand over the throne to the crown prince in a rare video message last August , citing his age .
+rare	19	ps_cue
+########
+14
+<EOP> .
+########
+15
+A six_member government panel was set up last September to hear opinions of experts on the constitution and other fields and to hold discussions on necessary legal changes to enable the emperor to abdicate and on the status of and treatment given to the retired emperor .
+########
+16
+<EOP> .
+########
+17
+One of the major disputed points had been whether to create a permanent abdication system for every emperor , or just a mechanism to enable only the current emperor to abdicate .
+whether	8	ps_cue
+or	19	ps_cue
+########
+18
+<EOP> .
+########
+19
+With the enactment of the new law , debate is expected to ensue in parliament regarding the recognition of the branches of female members of the imperial family who marry commoners .
+enactment	2	CT+	CT+
+expected	10	ps_cue
+########
+20
+<EOP> .
+########
+21
+A committee of the upper house of Japan 's parliament on Wednesday adopted a special resolution which was attached to the abdication law , and though not binding , said that the government will `` consider various issues to secure stable imperial succession , including creating female branches . ''
+not	26	neg_cue
+will	33	ps_cue
+consider	35	ps_cue
+########
+22
+<EOP> .
+########

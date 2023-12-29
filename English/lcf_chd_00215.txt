@@ -1,0 +1,147 @@
+Are bikes creating a potential hazard for pedestrians
+0
+Bike_sharing rivals ramp up battle for Britain <EOP> .
+########
+1
+2017_07_20 09:15 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+<EOP> .
+########
+4
+A user rides Mobike 's shared bikes in Manchester .
+########
+5
+LRB Photo provided to China Daily RRB <EOP> .
+########
+6
+Chinese bike_sharing companies that have been moving into the UK market in recent months appear to have been outflanked by Singaporean rival Obike , which has introduced bikes all over London , sometimes , apparently , without informing local authorities .
+appear	14	ps_cue
+without	36	neg_cue
+########
+7
+<EOP> .
+########
+8
+Mobike and Ofo , both Chinese companies , have taken a more cautious approach and have launched limited experimental schemes in Manchester and Cambridge , respectively .
+########
+9
+<EOP> .
+########
+10
+Mobike also received approval from the local authority in the Ealing area of London to introduce bikes there later this month , but Obike looks to have preempted them .
+########
+11
+<EOP> .
+########
+12
+Obikes were first seen in the Tower Hamlets area of East London , then on the west side , in Hammersmith and Fulham , then in the south , in Lambeth , and now in Enfield .
+########
+13
+<EOP> .
+########
+14
+A look at their app , shows Obikes scattered all over the United Kingdom 's capital .
+########
+15
+<EOP> .
+########
+16
+Obike is directly competing with London Cycle Hire , which , unlike its Asian counterparts , uses fixed docking points .
+########
+17
+Obike is offering free rides and a reduced deposit of 29 pounds LRB $ 38 RRB to grab market share before its competitors catch up .
+########
+18
+<EOP> .
+########
+19
+It is not clear how many bikes Obike has introduced in London and the company did not respond to a request for an interview .
+not	2	neg_cue
+not	16	neg_cue
+########
+20
+<EOP> .
+########
+21
+One council responsible for a part of London said Obike had placed 400 bikes on its streets without letting it know what was happening .
+without	17	neg_cue
+########
+22
+<EOP> .
+########
+23
+Hammersmith and Fulham Council said in a statement : `` We 're really positive about cycling in Hammersmith and Fulham , and our cycling strategy sets out ways we plan to make the roads safer , and improve facilities for cyclists .
+plan	29	ps_cue
+########
+24
+But these bikes appeared without any consultation at all with the council . ''
+appeared	3	ps_cue
+without	4	neg_cue
+########
+25
+<EOP> .
+########
+26
+It noted concerns about the way bikes have been placed on the streets , obstructing footpaths and `` creating a potential hazard for pedestrians particularly the disabled '' .
+hazard	21	CT+	CT-
+potential	20	ps_cue
+########
+27
+<EOP> .
+########
+28
+Stephen Cowan , leader of Hammersmith and Fulham Council , said : `` We 're very much in favor of cycling .
+########
+29
+But we expect companies to properly consult with us first .
+expect	2	ps_cue
+########
+30
+This launch could have been much better thought out . ''
+could	2	ps_cue
+########
+31
+<EOP> .
+########
+32
+The local authority said , after raising its concerns , Obike had agreed to remove the bikes and will talk to the council about making `` their cycle scheme work without negatively affecting pedestrians '' .
+affecting	32	CT-	CT-
+without	30	neg_cue
+will	18	ps_cue
+########
+33
+<EOP> .
+########
+34
+Obike 's Chinese rival Ofo said in a statement to the Evening Standard newspaper : `` We have met with a number of local authorities across the country , and plan to meet with many more in the coming weeks to discuss our plans and prospective roll out .
+plan	30	ps_cue
+plans	43	ps_cue
+########
+35
+We are keen to establish a strong working relationship with councils , so that they are fully aware of our plans and understand our business model . ''
+plans	20	ps_cue
+########
+36
+<EOP> .
+########
+37
+Obike told news website Business Insider it will comply with council requests to move or reposition bikes .
+will	7	ps_cue
+or	14	ps_cue
+########
+38
+<EOP> .
+########
+39
+`` We 're working with councils across London to ensure the roll_out is as smooth as possible and that Obikes are positioned in places that are convenient for the public , but do not cause an unnecessary obstruction , '' it said .
+cause	34	CT-	CT-
+not	33	neg_cue
+possible	16	ps_cue
+########
+40
+<EOP> .
+########

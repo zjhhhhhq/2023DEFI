@@ -1,0 +1,64 @@
+Does Hunter Biden teste positive for cocaine in a drug test 
+0
+The son of Vice President Joe Biden was discharged from the U.S. Navy reserve earlier this year after testing positive for cocaine , sources familiar with the matter said on Thursday .
+Biden	6	CT-	CT-
+discharged	8	neg_cue
+########
+1
+<EOP> .
+########
+2
+The sources , who were not authorized to speak on the record , said Hunter Biden tested positive for cocaine in a drug test administered in June 2013 .
+Biden	15	CT-	CT-
+not	5	neg_cue
+########
+3
+<EOP> .
+########
+4
+Navy spokesman Commander Ryan Perry confirmed that Biden was discharged from the Navy reserve in February 2014 but said privacy laws prevented him from releasing any details .
+Biden	7	CT-	CT-
+discharged	9	neg_cue
+prevented	21	neg_cue
+########
+5
+<EOP> .
+########
+6
+Perry said Biden was selected for a direct commission in the Navy Reserve as a part_time ensign in 2012 and was assigned to a public affairs unit in Norfolk , Virginia in May 2013 .
+Biden	2	CT-	CT-
+May	32	ps_cue
+########
+7
+<EOP> .
+########
+8
+Biden , 44 , a partner at an investment firm , said he regretted the incident .
+Biden	0	CT-	CT-
+########
+9
+<EOP> .
+########
+10
+`` It was the honor of my life to serve in the U.S. Navy , and I deeply regret and am embarrassed that my actions led to my administrative discharge , '' Biden said in a statement provided by his lawyer .
+Biden	32	CT-	CT-
+########
+11
+`` I respect the Navy 's decision .
+########
+12
+With the love and support of my family , I 'm moving forward . ''
+love	2	ps_cue
+forward	12	ps_cue
+forward	12	neg_cue
+########
+13
+<EOP> .
+########
+14
+The vice president 's office referred all queries to Hunter Biden 's attorney .
+Biden	10	CT+	CT-
+########
+15
+<EOP> .
+########

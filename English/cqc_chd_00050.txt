@@ -1,0 +1,96 @@
+Is Diplomatic negotiation the only way out for the Korean Peninsula nuclear issue
+0
+Diplomatic negotiation only way out for Korean Peninsula nuclear issue : Chinese ambassador <EOP> .
+negotiation	1	CT+	CT+
+########
+1
+2017_07_12 09:18 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+WASHINGTON _ Diplomatic negotiation is the only way out for the Korean Peninsula nuclear issue , Chinese Ambassador to the United States Cui Tiankai said here this week .
+negotiation	3	CT+	CT+
+########
+4
+<EOP> .
+########
+5
+Speaking at the 7th US_China Civil Strategic Dialogue on Monday , Cui said the Korean Peninsula nuclear issue is in essence an issue of security and the key to escape the `` security dilemma '' is to start with addressing legitimate security concerns of all sides .
+########
+6
+<EOP> .
+########
+7
+`` Sanctions are necessary , but sanctions only can not solve the problem .
+can	8	ps_cue
+not	9	neg_cue
+########
+8
+The impact of sanctions would be maximized only when it is combined with more robust efforts for the resumption of negotiations , '' said Cui .
+would	4	ps_cue
+########
+9
+<EOP> .
+########
+10
+US Secretary of State Rex Tillerson had in the past months repeatedly claimed that `` the policy of strategic patience has ended . ''
+########
+11
+<EOP> .
+########
+12
+`` We hope it will lead to proactive actions on the diplomatic front , not strategic impatience instead , '' said Cui .
+hope	2	ps_cue
+will	4	ps_cue
+not	14	neg_cue
+instead	17	neg_cue
+########
+13
+<EOP> .
+########
+14
+`` There are now calls for military actions .
+########
+15
+China 's position on this is firm and clear .
+########
+16
+We would never allow war or chaos breaking out on the Korean peninsula .
+would	1	ps_cue
+never	2	neg_cue
+or	5	ps_cue
+########
+17
+The cost would be too high for anyone , including the US , '' he added .
+would	2	ps_cue
+########
+18
+<EOP> .
+########
+19
+Stressing that China is committed to a denuclearized Korean Peninsula and no one should deny China 's persistent efforts toward that goal , Cui dismissed some media reports as `` distorted '' which indicated that trade between China and the Democratic People 's Republic of Korea LRB DPRK RRB increased in the first quarter of this year .
+no	11	neg_cue
+should	13	ps_cue
+deny	14	neg_cue
+########
+20
+<EOP> .
+########
+21
+`` In fact , trade between China and the DPRK has been declining in 2015 and 2016 .
+########
+22
+In February this year , China suspended coal import from the DPRK .
+suspended	6	neg_cue
+########
+23
+As a result import from DPRK has dropped 41 percent in April and 32 percent in May year_on_year , '' said Cui , adding that UN Security Council sanctions against the DPRK do not constitute an embargo .
+May	16	ps_cue
+against	29	neg_cue
+not	33	neg_cue
+########
+24
+<EOP> .
+########

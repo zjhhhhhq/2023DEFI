@@ -1,0 +1,124 @@
+Do citizens protest against Japanese Prime Minister 
+0
+Protests against constitution revision mark Japan 's 70th Constitution Memorial Day <EOP> .
+Protests	0	CT+	CT+
+against	1	neg_cue
+########
+1
+2017_05_04 09:43 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+<EOP> .
+########
+4
+Citizens attend a protest against Japanese Prime Minister Shinzo Abe 's attempts to amend the nation 's pacifist Constitution in Tokyo , Japan , on May 3 , 2017 .
+protest	3	CT+	CT+
+against	4	neg_cue
+May	25	ps_cue
+########
+5
+LRB Photo_Xinhua RRB <EOP> .
+########
+6
+TOKYO _ Some 55,000 people rallied here Wednesday to protest against Japanese Prime Minister Shinzo Abe 's attempts to amend the nation 's pacifist Constitution as the nation marked its 70th Constitution Memorial Day .
+protest	9	CT+	CT+
+against	10	neg_cue
+########
+7
+<EOP> .
+########
+8
+`` Safeguard the Constitution !
+########
+9
+No more wars ! ''
+No	0	neg_cue
+########
+10
+Protesters , including students , legal experts , representatives from opposition parties , as well as common citizens , shouted at the city 's Rinkai Disaster Prevention Park , holding banners and flags .
+opposition	10	neg_cue
+########
+11
+<EOP> .
+########
+12
+Renho Murata , leader of the largest opposition Democratic Party , said at the gathering that the Constitution belongs to the people and it should be up to the common people whether to amend the Constitution or not .
+opposition	7	neg_cue
+should	24	ps_cue
+whether	31	ps_cue
+or	36	ps_cue
+not	37	neg_cue
+########
+13
+<EOP> .
+########
+14
+What the Abe administration has done is threatening the basic principles of the pacifist Constitution and Abe 's attempts to amend the Constitution shall be firmly opposed , she added .
+opposed	26	neg_cue
+########
+15
+<EOP> .
+########
+16
+Kazuo Shii , head of the Japanese Communist Party , said that what shall be changed is not the Constitution but the government 's attempts to ignore the Constitution .
+not	17	neg_cue
+########
+17
+<EOP> .
+########
+18
+Shori Sato , a citizen in Tokyo , expressed concerns that Japan would be involved in wars without the pacifist Constitution .
+would	12	ps_cue
+without	17	neg_cue
+########
+19
+<EOP> .
+########
+20
+`` It 's because of the pacifist Constitution that we could enjoy our life as we do now .
+could	10	ps_cue
+########
+21
+We would lose our peaceful life if Japan is involved in wars , '' he said .
+would	1	ps_cue
+########
+22
+<EOP> .
+########
+23
+Tazuko Ikeda , another protester , said that people value peace more after experiencing the terrors of war and the pacifist Constitution is worth guarding .
+protester	4	CT+	CT+
+########
+24
+<EOP> .
+########
+25
+Abe , however , on Wednesday reiterated his attempts to amend the Constitution in a video message at a gathering to celebrate the 70th anniversary of the Constitution coming into force .
+########
+26
+<EOP> .
+########
+27
+He said he hopes to see a revised Constitution go into effect in 2020 under a plan that will see the first_ever change to the post_war charter .
+hopes	3	ps_cue
+plan	16	ps_cue
+will	18	ps_cue
+########
+28
+<EOP> .
+########
+29
+He specifically mentioned Japan 's Self_Defense Forces LRB SDF RRB .
+########
+30
+<EOP> .
+########
+31
+<EOP> .
+########
+32
+<EOP> .
+########

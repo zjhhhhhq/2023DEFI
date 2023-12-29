@@ -1,0 +1,62 @@
+Were two dead , two wounded in Southern California school shooting
+0
+At least two dead , two wounded in Southern California school shooting <EOP> .
+shooting	11	CT+	CT+
+########
+1
+2017_04_11 02:59 <EOP> .
+########
+2
+Agencies <EOP> .
+########
+3
+At least two adults were killed and two persons , possibly students , were struck by gunfire in a classroom shooting on Monday at a Southern California elementary school , police and fire officials said .
+shooting	20	CT+	CT+
+possibly	10	ps_cue
+########
+4
+<EOP> .
+########
+5
+San Bernardino Police Chief Jarrod Burguan said the shooting at Northpark Elementary School in San Bernardino , east of Los Angeles , appeared to a `` murder_suicide '' and that two wounded students had been taken to the hospital for treatment .
+shooting	8	CT+	CT+
+appeared	22	ps_cue
+########
+6
+<EOP> .
+########
+7
+`` We believe the suspect is down , and there 's no further threat , '' Burguan said in a Twitter post .
+suspect	4	ps_cue
+no	11	neg_cue
+########
+8
+He said the dead were adults .
+########
+9
+<EOP> .
+########
+10
+ABC News , citing information from a police spokeswoman , earlier reported that three people , including a teacher , were hit by gunfire , in addition to the shooter .
+########
+11
+<EOP> .
+########
+12
+The San Bernardino County Fire Department said in a Twitter post that there were `` multiple gunshot victims '' from the incident .
+########
+13
+<EOP> .
+########
+14
+The elementary school was being evacuated and students were being taken to a nearby high school .
+########
+15
+Aerial television footage from the scene showed students walking single_file across the campus from the school building .
+########
+16
+<EOP> .
+########
+17
+Agencies <EOP> .
+########

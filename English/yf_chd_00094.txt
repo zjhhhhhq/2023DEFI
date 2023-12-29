@@ -1,0 +1,75 @@
+Do Shanghai 's authorities improve the state of its public toilets 
+0
+National loo upgrade to woo tourists <EOP> .
+upgrade	2	CT+	CT+
+########
+1
+2017_12_22 12:44 <EOP> .
+########
+2
+China Daily USA <EOP> .
+########
+3
+Experts say that pleasant toilets do n't just mean better living standards for the population _ it is also a boon for the tourism economy <EOP> .
+n't	6	neg_cue
+########
+4
+In order to achieve its goal of becoming an internationally recognized travel destination , Shanghai has embarked on a number of tourism projects such as Disneyland .
+########
+5
+<EOP> .
+########
+6
+But its efforts do not just include high_profile venues _ the city has also preened itself in other areas that are closely related to daily life .
+not	4	neg_cue
+########
+7
+<EOP> .
+########
+8
+Toilets , for instance , are an integral part of the city 's strategy to draw tourists .
+########
+9
+<EOP> .
+########
+10
+For the past three years , Shanghai 's authorities have been going to great lengths to improve the state of its public toilets .
+improve	16	CT+	CT+
+########
+11
+According to the Shanghai Working Committee on Children and Women , there were 8,700 public toilets in operation in the city as of the end of last year , among which 2,600 were rated as environmentally friendly .
+########
+12
+<EOP> .
+########
+13
+In a public commentary by Wan Zhe , chief economist at the International Cooperation Center which is affiliated to the National Development and Reform Commission , toilets are said to have a significant impact on the tourism economy .
+########
+14
+<EOP> .
+########
+15
+The move to create better spaces for people to relieve themselves is in line with the central government 's call for a `` toilet revolution '' in the country .
+is	11	CT+	CT+
+########
+16
+During a meeting with the country 's tourism administrators and companies in late November , President Xi Jinping applauded their efforts in improving the state of public toilets all over the country , stressing that poorly maintained restrooms can impair the standard of living .
+applauded	18	CT+	CT+
+can	38	ps_cue
+########
+17
+<EOP> .
+########
+18
+In Shanghai , some of the public restrooms have even been turned into tourist attractions .
+been	10	CT+	CT+
+########
+19
+For example , the panda_themed toilet in Shanghai Zoo was last year widely recognized as one of the best public toilets in the city .
+########
+20
+The move to include information about pandas on the walls of the restroom was applauded by children and their parents .
+########
+21
+<EOP> .
+########

@@ -1,0 +1,170 @@
+Does suspect in Facebook video killing shoot himself to death
+0
+Suspect in Facebook video killing shoots himself to death <EOP> .
+killing	4	CT+	CT+
+########
+1
+2017_04_19 02:01 <EOP> .
+########
+2
+Agencies <EOP> .
+########
+3
+<EOP> .
+########
+4
+Steve Stephens , who Cleveland Division of Police said was being sought in connection with the killing of an individual , is seen in an undated handout photo released April 16 , 2017 .
+killing	16	CT+	CT+
+########
+5
+Cleveland Police_Handout via Agencies <EOP> .
+########
+6
+CLEVELAND LRB AP RRB -- The man who randomly killed a Cleveland retiree and posted video of the crime on Facebook shot himself to death in his car Tuesday during a police chase in Pennsylvania , ending a multistate manhunt less than 48 hours after it began .
+killed	9	CT+	CT+
+########
+7
+<EOP> .
+########
+8
+Acting on a tip , Pennsylvania State Police spotted Steve Stephens , 37 , in Erie County , in the state 's northwest corner , and went after him .
+########
+9
+After a brief chase , he took his own life , authorities said .
+########
+10
+<EOP> .
+########
+11
+`` This started with one tragedy and ended with another person taking their own life , '' said Cleveland Police Chief Calvin Williams .
+########
+12
+`` We would have liked to have brought Steve in peacefully and really talked to him about why this happened .
+would	2	ps_cue
+########
+13
+`` Stephens , a job counselor who worked with teenagers and young people , was wanted on an aggravated murder charge in the shooting of Robert Godwin Sr. , a 74_year_old man who was picking up aluminum cans on Sunday when he was gunned down .
+murder	19	CT+	CT+
+wanted	15	ps_cue
+########
+14
+<EOP> .
+########
+15
+Stephens posted a video of himself killing Godwin , a former foundry worker and a father of 10 .
+killing	6	CT+	CT+
+########
+16
+`` I snapped , I just snapped , '' Stephens said .
+########
+17
+<EOP> .
+########
+18
+Police would not speculate on what was behind the killing , but in the video and other footage he posted , Stephens talked about losing everything he had to gambling and having trouble with his girlfriend .
+killing	9	CT+	CT+
+would	1	ps_cue
+not	2	neg_cue
+speculate	3	ps_cue
+########
+19
+<EOP> .
+########
+20
+One of Godwin 's daughters , Debbie Godwin , said she wished Stephens had been captured .
+########
+21
+<EOP> .
+########
+22
+`` I 'm not happy he 's dead at all , not at all .
+not	3	neg_cue
+not	11	neg_cue
+########
+23
+If you did it , you have to face your crime , '' she said .
+########
+24
+<EOP> .
+########
+25
+The break in the case came when police received a tip that Stephens ' car was in a McDonald 's parking lot , Willlams said .
+########
+26
+<EOP> .
+########
+27
+The chase lasted 2 miles , and troopers managed to disable Stephens ' car , state police said .
+########
+28
+As his car was spinning out of control , he shot himself in the head with a pistol , police said .
+########
+29
+A pursuing trooper 's car slid into Stephens ' vehicle , but the officer was not injured .
+not	15	neg_cue
+########
+30
+<EOP> .
+########
+31
+Law enforcement officials had said on Monday that Stephens ' cellphone was last tracked Sunday afternoon near Erie , about 100 miles LRB 160 kilometers RRB east of Cleveland .
+########
+32
+<EOP> .
+########
+33
+Williams said Tuesday that it was n't clear whether Stephens had any help while he was on the run or where he had been and that investigators will try to retrace he steps .
+n't	6	neg_cue
+whether	8	ps_cue
+or	19	ps_cue
+will	27	ps_cue
+########
+34
+<EOP> .
+########
+35
+The video of the killing was up for three hours before it was taken down , raising questions about Facebook 's handling of objectionable material posted by its users .
+killing	4	CT+	CT+
+########
+36
+Facebook said it removed the video 23 minutes after learning of it .
+########
+37
+<EOP> .
+########
+38
+In the video of the shooting , Stephens told Godwin the name of his girlfriend and said , `` She 's the reason that this is about to happen to you . ''
+########
+39
+Godwin did not seem to recognize the name .
+not	2	neg_cue
+seem	3	ps_cue
+########
+40
+<EOP> .
+########
+41
+The woman Stephens spoke of , Joy Lane , said in a text message to CBS that `` we had been in a relationship for several years .
+########
+42
+I am sorry that all of this has happened .
+########
+43
+`` Investigators said that Godwin was the only victim so far linked to Stephens , despite his claim on Facebook that he killed over a dozen people .
+########
+44
+<EOP> .
+########
+45
+Detectives spoke with the suspect on Sunday by cellphone and tried to persuade him to surrender , police said .
+suspect	4	ps_cue
+########
+46
+<EOP> .
+########
+47
+Within a day , authorities expanded the search nationwide and offered a $ 50,000 reward for information leading to his capture .
+########
+48
+<EOP> .
+########

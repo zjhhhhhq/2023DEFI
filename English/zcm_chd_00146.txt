@@ -1,0 +1,56 @@
+Will China enhance high level exchanges with Canada
+0
+China , Canada aim to deepen cooperation <EOP> .
+########
+1
+2017_07_13 20:28 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+China is ready to enhance high level exchanges with Canada and deepen cooperation with the country in a number of fields with complementary potential , Premier Li Keqiang said on Thursday .
+enhance	4	PS+	PS+
+ready	2	ps_cue
+potential	23	ps_cue
+########
+4
+<EOP> .
+########
+5
+Li made the remarks at a meeting with Governor General of Canada David Johnston in Beijing .
+########
+6
+He said China is willing to deepen cooperation with Canada in a number of sectors including energy minerals , infrastructure , scientific innovation , education , sports and small and medium_sized businesses as well as promote negotiations on free trade .
+deepen	6	PS+	PS+
+willing	4	ps_cue
+########
+7
+He said China is ready to send supportive signals on promoting free trade with Canada , calling for world economic recovery .
+ready	4	ps_cue
+########
+8
+<EOP> .
+########
+9
+China will firmly fulfill its commitment under the Paris Climate Change Agreement and implement relative measures , fulfilling China 's responsibility in tackling climate change as a major developing nation , Premier Li stressed , adding that China is also willing to strengthen cooperation with Canada in clean energy .
+will	1	ps_cue
+willing	40	ps_cue
+########
+10
+<EOP> .
+########
+11
+Johnston recalled his several visits to China since China 's reform and opening_up in the 1980s , speaking highly of China 's achievements since that time .
+########
+12
+He said Canada is willing to deepen high_level exchanges and strengthen cooperation with China in areas of scientific innovation , education , tackling climate change , and especially in holding the Canada_China Tourism Year in 2018 .
+willing	4	ps_cue
+########
+13
+He said Canada is also ready to lend support for China 's 2022 Winter Olympic Games .
+ready	5	ps_cue
+########
+14
+<EOP> .
+########

@@ -1,0 +1,64 @@
+Do new elections in the region put an end to the ongoing crisis
+0
+Spanish government delegate expects new elections to end crisis in Catalonia <EOP> .
+elections	5	PS+	PS+
+expects	3	ps_cue
+########
+1
+2017_11_02 20:19 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+MADRID _ The Spanish government delegate in Catalonia said on Thursday that he was `` convinced '' that new elections in the region would put an end to the ongoing crisis .
+elections	19	CT+	PS+
+would	23	ps_cue
+########
+4
+<EOP> .
+########
+5
+Spain 's rich Catalonia autonomous region held a referendum on self_determination on Oct 1 , which was declared illegal by the Spanish Constitutional Court .
+########
+6
+<EOP> .
+########
+7
+Following the declaration of independence by the former Catalan regional government on Friday , the Spanish government stripped the region of its autonomy , sacked Catalan leader Carles Puigdemont and his government and decided to hold new elections in the region on Dec 21 .
+elections	37	CT+	PS+
+########
+8
+<EOP> .
+########
+9
+Speaking on the day that several former members of the Catalan government appeared in court in Madrid facing charges of rebellion , sedition and misuse of public funds , Spanish government delegate Enric Millo said he looked ahead to the end of the crisis .
+appeared	12	ps_cue
+########
+10
+<EOP> .
+########
+11
+Millo said he hopes the new Catalan regional government will `` develop its ideas , whatever , their colors , within the current legal framework . ''
+hopes	3	ps_cue
+will	9	ps_cue
+########
+12
+<EOP> .
+########
+13
+He said the application of Article 155 of the Spanish Constitution , which suspends the autonomy of Catalonia and hands control of key Catalan institutions to Madrid , will end once the Catalans choose their parliament and this in turn will elect the next president of the region .
+elect	41	CT+	PS+
+will	28	ps_cue
+will	40	ps_cue
+########
+14
+<EOP> .
+########
+15
+`` We hope that the new LRB Catalan RRB government develops legitimate ideas and objectives , whatever they are , but that they do so within the law , '' he said .
+hope	2	ps_cue
+########
+16
+<EOP> .
+########

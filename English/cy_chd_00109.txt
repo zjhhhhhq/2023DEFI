@@ -1,0 +1,63 @@
+Will Indian PM attend World Economic Forum meeting at Davos next month
+0
+Indian PM likely to attend World Economic Forum meeting at Davos next month <EOP> .
+attend	4	PS+	PS+
+likely	2	ps_cue
+########
+1
+2017_12_25 15:47 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+NEW DELHI _ Indian Prime Minister is likely to attend the annual meeting of the World Economic Forum in Davos in January next year , sources said Monday .
+attend	9	PS+	PS+
+likely	7	ps_cue
+########
+4
+<EOP> .
+########
+5
+Modi 's appearance at the World Economic Forum will be the first by an Indian prime minister in the past two decades .
+appearance	2	CT+	PS+
+will	8	ps_cue
+########
+6
+<EOP> .
+########
+7
+`` The Indian prime minister is expected to be at the global summit in the Alpine ski resort on Jan 23_24 .
+expected	6	ps_cue
+########
+8
+He is likely to address the first special plenary , '' sources said .
+likely	2	ps_cue
+########
+9
+<EOP> .
+########
+10
+Modi 's presence at the global summit will give India a big edge at the summit and the country will try to showcase its business potential there .
+presence	2	CT+	PS+
+will	7	ps_cue
+will	19	ps_cue
+potential	25	ps_cue
+########
+11
+<EOP> .
+########
+12
+The World Economic Forum in Switzerland will see a congregation of world leaders , including over 40 heads of state and government , apart from business magnates all over the world .
+will	6	ps_cue
+########
+13
+<EOP> .
+########
+14
+Immediately after the summit , Modi will fly back to India to attend the Republic Day parade and celebrations , where some foreign heads of state and government have been invited .
+will	6	ps_cue
+########
+15
+<EOP> .
+########

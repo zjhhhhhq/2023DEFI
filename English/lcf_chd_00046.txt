@@ -1,0 +1,167 @@
+Does the China National Peking Opera Company perform Mei Lanfang 's masterpiece 
+0
+Peking Opera strikes a chord in London <EOP> .
+########
+1
+2017_10_25 06:54 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+<EOP> .
+########
+4
+LONDON _ With lavishly embroidered costumes , elaborate makeup and acrobatics , the China National Peking Opera Company performed Mei Lanfang 's masterpiece The Phoenix Returns Home on Sunday to mark the 123rd anniversary since his birth .
+performed	18	CT+	CT+
+########
+5
+<EOP> .
+########
+6
+The Phoenix Returns Home is a romantic farce , a tale of love , manipulation and mistaken identity .
+love	12	ps_cue
+########
+7
+It was first performed by Mei in 1929 and is now one of the most popular of all the Peking Operas .
+########
+8
+It 's packed with drama , comedy and music , and provides a perfect evening of entertainment .
+########
+9
+<EOP> .
+########
+10
+During the performance , audiences in the United Kingdom were immersed in the intriguing art of Peking Opera and went on a cultural adventure into Chinese traditional artistic heritage from a world_class company .
+performance	2	CT+	CT+
+########
+11
+The magnificent costumes and the artful combination of dance , mime , music and acrobatics provides a source of wonder for audiences of all ages .
+########
+12
+<EOP> .
+########
+13
+Li Shengsu led the cast in this light romantic comedy that tells an ancient Chinese story of marriage .
+########
+14
+The multiple arias are done in the style of Mei 's school of performance .
+########
+15
+<EOP> .
+########
+16
+Li is a student of Mei 's son , Mei Baojiu , and a third generation Dan LRB women 's role RRB performer of Mei 's style .
+########
+17
+With her dignified stage presence , the finesse of her performance , and her sweet voice , Li 's mastery of her craft brings life to the story of this beautiful girl living in ancient China .
+########
+18
+<EOP> .
+########
+19
+The characters of the Chou LRB clown RRB role provide extra entertainment and drama .
+########
+20
+The misbehavior , mistakes and mischiefs of the clowns are a part of the plot 's twists and turns , done with a typical Chinese sense of humor .
+########
+21
+<EOP> .
+########
+22
+Li said that in the play , the happiness of the young woman about to marry the one she loves , her loss and frustration at the change of events , and the shyness and cherishing after misunderstanding is dismissed and a happy marriage comes , all of these emotional transformations have been presented in details .
+loss	22	neg_cue
+########
+23
+<EOP> .
+########
+24
+`` As the British love Shakespeare , Chinese are also proud of our classic theater .
+love	4	ps_cue
+########
+25
+Peking Opera is the most representative format of traditional Chinese theater and has been regarded as a ` national treasure ' , '' she said .
+########
+26
+<EOP> .
+########
+27
+British audience member Sanjula Sharma said she heard about the play from her friends and simply wanted to know a little bit more about Chinese culture by watching the opera .
+wanted	16	ps_cue
+little	20	neg_cue
+########
+28
+<EOP> .
+########
+29
+`` I have n't seen it , I have seen many Western plays , but this is different , this is the first time for me .
+n't	3	neg_cue
+########
+30
+I think it is amazing .
+########
+31
+... It is beautiful , the performance is excellent , '' she said .
+performance	6	CT+	CT+
+########
+32
+<EOP> .
+########
+33
+Besides , the CNPOC also brought A River All Red , which is based on the true story of general Yue Fei from Song Dynasty LRB 960_1279 RRB .
+########
+34
+Yue is one of the most famed generals in China 's history and a legend of resolute loyalty to his country and allegiance to his people .
+########
+35
+<EOP> .
+########
+36
+Yu Kuizhi , who led the cast , said he has noticed an increasing interest in the art from among the public , and particularly among the young .
+########
+37
+<EOP> .
+########
+38
+`` Never underestimate Western audiences , '' Yu said .
+########
+39
+`` You may think that it would be hard for them to understand Beijing Opera but that 's not true .
+may	2	ps_cue
+would	6	ps_cue
+not	18	neg_cue
+########
+40
+Of course , we have different educational backgrounds and a different history and culture , but their level of art appreciation is no doubt world_class , especially the attention and awe they have for performers and the arts . ''
+no	22	neg_cue
+########
+41
+<EOP> .
+########
+42
+This is the fourth time the CNPOC has brought productions to Britain , following tours in 2005 , 2015 and 2016 .
+########
+43
+<EOP> .
+########
+44
+Du Xiaoying and Zhang Yangfei in London contributed to this story .
+########
+45
+<EOP> .
+########
+46
+Xinhua _ China Daily <EOP> .
+########
+47
+<EOP> .
+########
+48
+<EOP> .
+########
+49
+<EOP> .
+########
+50
+LRB China Daily 10_25_2017 page12 RRB <EOP> .
+########

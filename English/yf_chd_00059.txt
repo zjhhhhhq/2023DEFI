@@ -1,0 +1,104 @@
+Do people livie without electricity in the mountains of central Puerto Rico
+0
+Dark , desperate life without power in Puerto Rico <EOP> .
+without	4	neg_cue
+########
+1
+2017_12_27 10:16 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+MOROVIS , Puerto Rico － Three days before Christmas , Doris Martinez and daughter Miriam Narvaez joined their neighbors in a line outside city hall in Morovis , a town of 30,000 c a month after Hurricane Maria battered the US territory .
+electricity	36	CT-	CT-
+without	35	neg_cue
+########
+4
+<EOP> .
+########
+5
+They waited two hours under the searing sun for their twice_a_week handout of 24 bottles of water and a cardboard box filled with basic foods such as tortillas , canned vegetables and cereal .
+########
+6
+<EOP> .
+########
+7
+Martinez , a 73_year_old cancer survivor , balanced the water atop the food and picked her way up a steep hill to the home where she lives alone , washing and wringing out her clothes by hand and locking herself in at night , afraid of robbers .
+########
+8
+<EOP> .
+########
+9
+Her 53_year_old daughter loaded her food and water into her car and drove off to the public housing complex where she would then have to wait with dozens of other neighbors in another line to cook on one of six gas burners in the administrator 's office .
+would	21	ps_cue
+########
+10
+<EOP> .
+########
+11
+`` Things are not good , '' Narvaez said as she headed toward home .
+not	3	neg_cue
+########
+12
+<EOP> .
+########
+13
+This is life in Puerto Rico more than three months after Maria destroyed the island 's electrical grid .
+########
+14
+<EOP> .
+########
+15
+Governor Ricardo Rossello promised in mid_October to restore 95 percent of electricity delivery by Dec 15 , but normality remains far off .
+electricity	11	CT+	CT-
+########
+16
+Puerto Rico 's Electric Power Authority says its system is generating at 70 percent of normal but it has no way of knowing how widely electricity is being distributed because the system that measures that is n't working .
+electricity	25	CT+	CT-
+no	19	neg_cue
+n't	36	neg_cue
+########
+17
+<EOP> .
+########
+18
+A study conducted on Dec 11 by a group of local engineers estimated roughly 50 percent of the island 's 3.3 million people remained without power .
+power	25	CT-	CT-
+without	24	neg_cue
+########
+19
+<EOP> .
+########
+20
+The US Army Corps of Engineers has said it likely wo n't be until May that all of Puerto Rico is electrified .
+likely	9	ps_cue
+n't	11	neg_cue
+May	14	ps_cue
+########
+21
+<EOP> .
+########
+22
+Nearly 1,000 homes across Morovis lost their roofs and 90 percent of residents have not received federal assistance , Mayor Carmen Maldonado said .
+not	14	neg_cue
+########
+23
+<EOP> .
+########
+24
+She expects it will be several more months before power returns to the entire town .
+power	9	PS+	CT-
+expects	1	ps_cue
+will	3	ps_cue
+########
+25
+Overall , more than 200,000 homes were damaged in Puerto Rico by the storm , whose destruction will cost an estimated $ 95 billion to repair .
+will	17	ps_cue
+########
+26
+<EOP> .
+########
+27
+AP <EOP> .
+########

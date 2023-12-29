@@ -1,0 +1,72 @@
+Did Pakistan take substantial action against the Afghan Taliban or Haqqani 
+0
+Pakistan rejects US report on Afghan Taliban <EOP> .
+rejects	1	neg_cue
+########
+1
+2017_07_21 09:18 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+ISLAMABAD _ Pakistan has rejected parts of a recent US report , which said that `` Pakistan did not take substantial action against the Afghan Taliban or Haqqani , or substantially limit their ability to threaten US interests in Afghanistan . ''
+take	19	CT+	CT+
+rejected	4	neg_cue
+not	18	neg_cue
+against	22	neg_cue
+or	26	ps_cue
+or	29	ps_cue
+limit	31	neg_cue
+########
+4
+<EOP> .
+########
+5
+The US state department 's `` Country Report on Terrorism 2016 '' released on Wednesday also claimed that `` Pakistan did not take sufficient action against other externally focused groups , such as Lashkar_e_Taiba LRB LeT RRB and Jaish_e_Mohammed LRB JeM RRB in 2016 , which continued to operate , train , organize , and fundraise in Pakistan . ''
+take	22	CT-	CT+
+not	21	neg_cue
+against	25	neg_cue
+########
+6
+<EOP> .
+########
+7
+The Pakistan foreign ministry Thursday disputed findings of the report and said the country has taken strong measures to fight terrorism .
+taken	15	CT+	CT+
+########
+8
+<EOP> .
+########
+9
+`` We have taken indiscriminate and all out action against terrorists .
+against	9	neg_cue
+########
+10
+They are on the run .
+########
+11
+Most of them have fled to Afghanistan , the country which is in turmoil for the last 40 years , and due to which there are large ungoverned spaces being taken up by the terrorists , '' Foreign Ministry spokesman Nafees Zakaria said while commenting on the US report .
+########
+12
+<EOP> .
+########
+13
+`` As is evident from the statistics and media reports available , a considerable number of leaders and senior commanders of the Haqqani network and other terrorists have been killed inside Afghanistan , '' the spokesman said during his weekly briefing .
+########
+14
+<EOP> .
+########
+15
+He said Pakistan 's anti_terrorism efforts have been met with success , and acknowledged by a number of countries including the United States .
+########
+16
+<EOP> .
+########
+17
+To a question about Pakistan 's role in the context of peace in Afghanistan , he said Pakistan has always whole_heartedly supported all efforts for reconciliation in the war_shattered country .
+question	2	ps_cue
+########
+18
+<EOP> .
+########

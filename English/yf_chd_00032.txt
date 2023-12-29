@@ -1,0 +1,163 @@
+Does Chinese currency hit new three_month high
+0
+Chinese currency hits new three_month high <EOP> .
+hits	2	CT+	CT+
+########
+1
+2018_01_03 11:28 <EOP> .
+########
+2
+China Daily USA <EOP> .
+########
+3
+Chinese currency appreciated to its highest level in more than three months as the US dollar index weakened on the first trading day of 2018 , indicating the market 's expectation of stable economic growth and confidence in financing deleveraging efforts .
+appreciated	2	CT+	CT+
+expectation	30	ps_cue
+########
+4
+<EOP> .
+########
+5
+The daily trading reference of the yuan 's exchange rate against the US dollar rose to 6.5079 on Tuesday , compared with 6.5342 on Friday , the strongest since Sept 11 last year , according to data from the China Foreign Exchange Trade System LRB CFETS RRB .
+rose	14	CT+	CT+
+against	10	neg_cue
+########
+6
+<EOP> .
+########
+7
+The onshore spot rate once hit 6.5062 before the closing while in the offshore market it reached a peak of 6.5231 .
+hit	5	CT+	CT+
+reached	16	CT+	CT+
+########
+8
+<EOP> .
+########
+9
+Sheng Songcheng , an adviser to the People 's Bank of China , the central bank , said that the rise of the yuan 's value is mainly because of a relatively higher interest rate level in the Chinese financial market as the deleveraging process is advancing .
+########
+10
+<EOP> .
+########
+11
+`` A seasonal tightening of market liquidity also boosted demand for the yuan , and the authority 's decision to LRB maintain RRB prudent monetary policy means monetary easing is unlikely in the near term , '' Sheng said .
+boosted	8	CT+	CT+
+unlikely	30	ps_cue
+unlikely	30	neg_cue
+########
+12
+<EOP> .
+########
+13
+Due to the weakening of the US dollar index , the yuan appreciated 6.28 percent in 2017 , according to the CFETS data .
+appreciated	12	CT+	CT+
+########
+14
+<EOP> .
+########
+15
+Economists said the prospect of a stable Chinese economy this year can avoid turbulence in the foreign exchange market .
+can	11	ps_cue
+avoid	12	neg_cue
+########
+16
+<EOP> .
+########
+17
+State Administration of Foreign Exchange LRB SAFE RRB , the country 's foreign exchange regulator , announced on Saturday that since the beginning of this year , a single , individual Chinese citizen can withdraw as much as 100,000 yuan overseas per year .
+can	33	ps_cue
+withdraw	34	neg_cue
+########
+18
+Before that , the same amount of annual limit was mandated merely for a single bank card .
+limit	8	neg_cue
+########
+19
+<EOP> .
+########
+20
+The new limit can satisfy card users ' normal demand on cash withdrawal overseas while still curbing illegal and large withdrawals that may be related to money laundering and terrorist financing , according to the statement published on SAFE 's website .
+limit	2	neg_cue
+can	3	ps_cue
+may	22	ps_cue
+########
+21
+<EOP> .
+########
+22
+Experts said that the new rule can to some extent restrain capital outflows , and support a stable currency value .
+can	6	ps_cue
+########
+23
+<EOP> .
+########
+24
+However , signals showed that the appreciation may not last long , as banks purchased more foreign exchanges than the total sell in November , which resulted into a deficit of $ 7.52 billion , the largest deficit since August .
+last	9	PS-	CT+
+may	7	ps_cue
+not	8	neg_cue
+########
+25
+<EOP> .
+########
+26
+A `` two_way '' fluctuation of the yuan 's exchange rate may continue in the coming months , according to analysts .
+continue	12	PS+	CT+
+may	11	ps_cue
+########
+27
+<EOP> .
+########
+28
+Zhao Yang , chief economist in China with Nomura Securities , said on Tuesday that `` deleveraging efforts that are handled well and do not lead to financial stress would be positive for the yuan over the medium term '' .
+not	24	neg_cue
+would	29	ps_cue
+########
+29
+<EOP> .
+########
+30
+But he also mentioned possible depreciation risks in the near term if the financial stress increases and capital outflows surges .
+possible	4	ps_cue
+########
+31
+<EOP> .
+########
+32
+`` Combined with reports showing strength in Chinese and European manufacturing , there is probably more pain ahead for the dollar as investors anticipate money flowing into other economies , '' Mark McCormick at Toronto Dominion Bank was quoted as saying by Bloomberg .
+probably	14	ps_cue
+########
+33
+<EOP> .
+########
+34
+He expects the dollar weakness to persist through 2018 as more central banks move toward policy normalization .
+expects	1	ps_cue
+weakness	4	neg_cue
+########
+35
+<EOP> .
+########
+36
+Options are signaling that traders have started to prep for the possibility of greenback losses .
+possibility	11	ps_cue
+########
+37
+The dollar 's one_and six_month risk reversals against the euro , a barometer of positioning and investor sentiment , both rose to the highest in a month in anticipation of a weaker dollar .
+against	7	neg_cue
+########
+38
+<EOP> .
+########
+39
+Bloomberg contributed to this story .
+########
+40
+<EOP> .
+########
+41
+chenjia@chinadaily.com.cn <EOP> .
+########
+42
+<EOP> .
+########

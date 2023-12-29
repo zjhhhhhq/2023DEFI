@@ -1,0 +1,162 @@
+Will opinion polls see Erdogan in office
+0
+Turks vote on expanding Erdogan 's power <EOP> .
+########
+1
+2017_04_17 07:33 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+A woman holds a child as she casts her ballot at a polling station during the referendum at the Aegean port city of Izmir , Turkey .
+########
+4
+Osman Orsal _ Reuters <EOP> .
+########
+5
+<EOP> .
+########
+6
+<EOP> .
+########
+7
+Opinion polls place ` yes ' ahead in poll that could see president rule until 2029 <EOP> .
+see	11	PS+	PS+
+could	10	ps_cue
+########
+8
+ANKARA _ Turks cast their votes in a referendum on Sunday that would give sweeping new powers to President Recep Tayyip Erdogan and herald the most radical change to the country 's political system in its modern history .
+would	12	ps_cue
+########
+9
+<EOP> .
+########
+10
+Opinion polls have shown a narrow lead for a `` Yes '' vote , which would replace Turkey 's parliamentary democracy with an all_powerful presidency and may see Erdogan in office until at least 2029 .
+see	27	PS+	PS+
+would	15	ps_cue
+may	26	ps_cue
+########
+11
+<EOP> .
+########
+12
+The outcome will also shape Turkey 's strained relations with the European Union .
+will	2	ps_cue
+########
+13
+<EOP> .
+########
+14
+The NATO member state has curbed the flow of migrants _ mainly refugees from wars in Syria and Iraq _ into the bloc but Erdogan says he may review the deal after the vote .
+may	27	ps_cue
+########
+15
+<EOP> .
+########
+16
+A crowd chanted `` Recep Tayyip Erdogan '' and applauded as the president shook hands and greeted people after voting in a school near his home in Istanbul .
+########
+17
+His staff handed out toys for children in the crowd .
+########
+18
+<EOP> .
+########
+19
+`` God willing I believe our people will decide to open the path to much more rapid development , '' Erdogan said in the polling station after casting his vote .
+willing	2	ps_cue
+will	7	ps_cue
+########
+20
+<EOP> .
+########
+21
+`` I believe in my people 's democratic common sense . ''
+########
+22
+<EOP> .
+########
+23
+Pollsters expect a high turnout among the approximately 55 million eligible voters .
+expect	1	ps_cue
+########
+24
+Last week , many polls indicated an even split between `` yes '' and `` no '' voters .
+no	15	neg_cue
+########
+25
+<EOP> .
+########
+26
+Turks living overseas had until April 9 to cast their ballots , with more than 1 million registered to vote in 57 countries .
+########
+27
+<EOP> .
+########
+28
+More than 250,000 policemen and 128,000 gendarmerie members were deployed at polling stations , while 17,000 security forces safeguarded critical locations such as power supplies and transmission units .
+########
+29
+<EOP> .
+########
+30
+The country went into the referendum under a state of emergency , which was declared after a failed coup attempt in July and has been extended several times .
+failed	17	neg_cue
+########
+31
+<EOP> .
+########
+32
+The referendum has bitterly divided the nation .
+########
+33
+Erdogan and his supporters say the changes are needed to amend the current constitution , written by generals following a 1980 military coup , confront the security and political challenges Turkey faces , and avoid the fragile coalition governments of the past .
+avoid	34	neg_cue
+########
+34
+<EOP> .
+########
+35
+Opponents say it is a step toward greater authoritarianism .
+########
+36
+<EOP> .
+########
+37
+Relations between Turkey and Europe hit a low during the referendum campaign when EU countries , including Germany and the Netherlands , barred Turkish ministers from holding rallies in support of the changes .
+########
+38
+Erdogan called the moves `` Nazi acts '' and said Turkey could reconsider ties with the EU after many years of seeking membership with the bloc .
+could	11	ps_cue
+seeking	21	ps_cue
+########
+39
+<EOP> .
+########
+40
+Kurdish militants overnight killed a guard in an attack on a vehicle carrying a district official from Yildirim 's ruling AK Party in southeast Turkey 's Van province , security sources said .
+########
+41
+<EOP> .
+########
+42
+They said Kurdistan Workers Party LRB PKK RRB militants staged the attack in Van 's Muradiye district .
+########
+43
+A second of the AKP official 's guards was wounded and 17 people were detained over the attack , they added .
+########
+44
+<EOP> .
+########
+45
+In the southeastern Diyarbakir province , two people were killed and one wounded in a gunfight in a village schoolyard which was being used as a polling station , other security sources said .
+########
+46
+The cause of the clash was not immediately clear .
+not	6	neg_cue
+########
+47
+<EOP> .
+########

@@ -1,0 +1,130 @@
+Will California and China de_carbonize
+0
+California , China allies on climate : Gov Brown <EOP> .
+########
+1
+2017_06_01 11:12 <EOP> .
+########
+2
+China Daily USA <EOP> .
+########
+3
+California and China need to work more closely and encourage each other to take more aggressive steps to de_carbonize , said California Governor Jerry Brown on Wednesday ahead of his upcoming trip to China .
+de_carbonize	18	CT+	CT+
+need	3	ps_cue
+########
+4
+<EOP> .
+########
+5
+`` I want people in China to know that the people in America are enthusiastically working to de_carbonize , '' Brown told China Daily in his State Capitol office .
+de_carbonize	17	CT+	CT+
+########
+6
+<EOP> .
+########
+7
+The weeklong trip starting Friday will take him to Beijing , Chengdu and Nanjing , where he is scheduled to meet with national and regional officials and promote climate change cooperation .
+will	5	ps_cue
+scheduled	18	ps_cue
+########
+8
+<EOP> .
+########
+9
+The trip comes four years after his last China trip _ a trade mission in 2013 .
+########
+10
+<EOP> .
+########
+11
+The goal of this trip is to strengthen the working relations between China and California on zero_emission vehicles , regulatory strategies , reducing carbon pollution and research development , particularly at the university level , said Brown .
+########
+12
+<EOP> .
+########
+13
+In Beijing , he will attend the Clean Energy Ministerial , an annual meeting of national energy ministers and other high_level delegates , and meet with members of Under2 Clean Energy Forum , a coalition dedicated to fighting climate change .
+will	4	ps_cue
+########
+14
+<EOP> .
+########
+15
+After Beijing , the governor will travel to Chengdu , capital of Sichuan province , and Nanjing , capital of Jiangsu province , the first Chinese provinces joining the Under2 Coalition , which includes cities , states and provinces who have signed an international agreement promoted by Brown to reduce emissions at rates faster than those called for under the Paris agreement .
+will	5	ps_cue
+########
+16
+<EOP> .
+########
+17
+`` I 'd like to see how obstacles are overcome .
+like	3	ps_cue
+########
+18
+I want to see what is being done in these two places , '' said Brown .
+########
+19
+`` I 'd like to take high_speed rail .
+like	3	ps_cue
+########
+20
+I like high_speed rail . ''
+like	1	ps_cue
+########
+21
+<EOP> .
+########
+22
+California is working with Chinese sub_national jurisdictions to achieve standardization of some environmental rules and promote joint ventures on clean energy investments , according to the governor .
+########
+23
+<EOP> .
+########
+24
+He said technicians in both countries should work together to standardize the rules for electric cars , new energy and all the different consumer goods , so that it 's more efficient in producing the lower_carbon future that the world needs .
+lower_carbon	35	CT+	CT+
+should	6	ps_cue
+needs	40	ps_cue
+########
+25
+<EOP> .
+########
+26
+`` The challenge of climate change is greater than what the world is now doing .
+########
+27
+We are not doing enough , China is not doing enough , California is not doing enough , and the world is not doing enough , '' said Brown .
+not	2	neg_cue
+not	8	neg_cue
+not	14	neg_cue
+not	22	neg_cue
+########
+28
+<EOP> .
+########
+29
+He said the world needs to face the fact that greenhouse gases are still rising .
+needs	4	ps_cue
+########
+30
+`` We have to make the turn and making the turn is easier if many countries and states work together , '' he said .
+########
+31
+<EOP> .
+########
+32
+`` Mr. Trump has a different view , I do n't think that view will last for too long , '' he said .
+n't	10	neg_cue
+will	14	ps_cue
+########
+33
+`` In the meanwhile , states and cities are ready to work with China . ''
+ready	9	ps_cue
+########
+34
+<EOP> .
+########
+35
+Contact the writers at liazhu@chinadailyusa.com <EOP> .
+########

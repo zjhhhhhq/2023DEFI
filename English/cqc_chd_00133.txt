@@ -1,0 +1,55 @@
+Did India test_fire Prtihvi_II ballistic missile
+0
+India test_fires Prtihvi_II ballistic missile <EOP> .
+test_fires	1	CT+	CT+
+########
+1
+2017_06_02 15:51 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+NEW DELHI _ India Friday successfully test_fired its home_made , nuclear_capable Prithvi_II ballistic missile off the coast of the eastern state of Odisha , sources said .
+test_fired	6	CT+	CT+
+########
+4
+<EOP> .
+########
+5
+`` The test_firing of the surface_to_surface missile from the Integrated Test Range at Chandipur near the state 's Balasore district around 10 am LRB local time RRB was actually part of user trial by the India Army , '' sources said .
+test_firing	2	CT+	CT+
+########
+6
+<EOP> .
+########
+7
+The sleek missile is handled by the strategic force command and the test_firing was conducted in order to gauge the effectiveness of the weapon in a real_time situation , sources said .
+test_firing	12	CT+	CT+
+########
+8
+<EOP> .
+########
+9
+`` Scientists of the state_owned Defence Research Development Organization LRB DRDO RRB supervised the test_firing while Teams on board a ship deployed in the Bay of Bengal monitored the terminal events and splashdown , '' sources added .
+test_firing	14	CT+	CT+
+########
+10
+<EOP> .
+########
+11
+Prithvi_II , the first ballistic missile developed under the country 's prestigious Integrated Guided Missile Development Program , has the capability to carry over 500 kg of warheads with a strike range of 350 km .
+developed	6	CT+	CT+
+########
+12
+It uses advanced inertial guidance system with manoeuvring trajectory .
+########
+13
+<EOP> .
+########
+14
+The missile , capable of carrying both nuclear and conventional warheads , has a length of 9 meters and is 1 meter in diameter with liquid propulsion twin engine .
+########
+15
+<EOP> .
+########

@@ -1,0 +1,79 @@
+Is Brazil 's prosecutor_general Rodrigo Janot preparing to lodge a new charge for obstruction of justice
+0
+Brazil 's prosecutor_general plans new charges against President Temer <EOP> .
+plans	3	ps_cue
+against	6	neg_cue
+########
+1
+2017_08_04 09:55 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+<EOP> .
+########
+4
+Brazil 's Prosecutor_General Rodrigo Janot gestures during a seminar on combating corruption , in Brasilia , Brazil , June 19 , 2017 .
+########
+5
+LRB Photo_Agencies RRB <EOP> .
+########
+6
+RIO DE JANEIRO _ Brazil 's prosecutor_general Rodrigo Janot is preparing to lodge a new charge for obstruction of justice against President Michel Temer at the Supreme Court .
+charge	15	CT+	CT+
+against	20	neg_cue
+########
+7
+<EOP> .
+########
+8
+This comes a day after the Chamber of Deputies dismissed a corruption charge against Temer filed by Janot .
+against	13	neg_cue
+########
+9
+<EOP> .
+########
+10
+According to the Globonews television on Thursday , Janot has asked Supreme Court Justice Edson Fachin to separate obstruction of justice from other charges related to the bribery allegations made by executives of Brazilian meatpacking conglomerate , JBS .
+########
+11
+<EOP> .
+########
+12
+This would allow Janot to charge Temer and his associates with the sole crime of obstruction of justice .
+charge	5	CT+	CT+
+would	1	ps_cue
+########
+13
+<EOP> .
+########
+14
+According to the prosecutor_general , the investigation into JBS , which began in May , has revealed that Temer committed the crimes of passive corruption , obstruction of justice by buying the silence of public officials , and illicit association .
+May	13	ps_cue
+########
+15
+<EOP> .
+########
+16
+However , the expectation is that there will be no time for Janot to file another charge for illicit association before he steps down from his role on September 17 , meaning he will focus entirely on obstruction of justice .
+expectation	3	ps_cue
+will	7	ps_cue
+no	9	neg_cue
+will	33	ps_cue
+########
+17
+<EOP> .
+########
+18
+The Chamber of Deputies voted Wednesday to dismiss the passive corruption charges against the president .
+against	12	neg_cue
+########
+19
+The opposition would have needed a two_thirds majority to force a trial and make Temer stand down for 180 days .
+opposition	1	neg_cue
+would	2	ps_cue
+########
+20
+<EOP> .
+########

@@ -1,0 +1,114 @@
+Does Houston make a little history in China
+0
+Houston to benefit from huge delegation to China <EOP> .
+########
+1
+2017_12_26 15:14 <EOP> .
+########
+2
+China Daily USA <EOP> .
+########
+3
+Houston made a little history in China .
+made	1	CT+	CT+
+little	3	neg_cue
+########
+4
+<EOP> .
+########
+5
+For the Texas city , its trade and goodwill mission to China in the first week of December was the largest ever _ 71 officials , community leaders and business leaders joined the group .
+was	18	CT+	CT+
+########
+6
+<EOP> .
+########
+7
+And for Mayor Sylvester Turner , it was his first trip to China .
+########
+8
+<EOP> .
+########
+9
+`` I got the chance to meet with the vice_mayor of Shanghai , mayors of Beijing and Shenzhen , and a number of high level officials , '' Turner told China Daily .
+########
+10
+`` Everywhere we went , people were very approachable and supportive .
+########
+11
+I expect a lot of business arrangements between China and Houston . ''
+expect	1	ps_cue
+########
+12
+<EOP> .
+########
+13
+During the weeklong trip , the delegation held conferences to present business and investment opportunities in Shenzhen , Shanghai and Beijing .
+opportunities	14	ps_cue
+########
+14
+Texas state Representative Gene Wu , and Houston City Council members Greg Travis and Larry Green joined the delegation .
+########
+15
+<EOP> .
+########
+16
+`` Chinese businesses are discovering that Houston is uniquely positioned as a hub for doing business all across the Americas , '' said Bob Harvey , president and CEO of the Greater Houston Partnership .
+discovering	4	CT+	CT+
+########
+17
+`` These global leaders realize that Houston is not only an ideal location to invest in , it is a strategic ecosystem for the exchange of technology , expertise and best practices with other global partners .
+not	8	neg_cue
+########
+18
+That 's why we are seeing companies from China _ and from all over the world _ establishing their regional headquarters in Houston . ''
+########
+19
+<EOP> .
+########
+20
+The trip was fruitful .
+########
+21
+Possible collaboration in the fields of healthcare , energy , engineering , education , finance , aeronautics and other key areas was explored .
+########
+22
+A series of official memoranda of understanding expressing specific plans to widen commerce with China were signed .
+plans	9	ps_cue
+########
+23
+<EOP> .
+########
+24
+In Beijing , Houston 's goodwill ambassador , former NBA Houston Rockets star Yao Ming , joined the delegation to help promote his former city .
+########
+25
+There , the Greater Houston Convention and Visitors Bureau LRB GHCVB RRB signed a strategic agreement with Ctrip , a Chinese provider of travel services , and its New York_based subsidiary L and L Tour .
+########
+26
+<EOP> .
+########
+27
+Leo Yao , Asia_Pacific representative at GHCVB , said the agreement will help Houston to better serve visiting Chinese .
+will	11	ps_cue
+########
+28
+<EOP> .
+########
+29
+`` We began a conversation in February and Ctrip thought that Houston had great potential to explore .
+potential	14	ps_cue
+########
+30
+This agreement will help us to work together strategically , '' Yao said .
+will	2	ps_cue
+########
+31
+<EOP> .
+########
+32
+According to CGCVB , Chinese people visiting Houston spend an average of $ 5,000 per person per trip .
+########
+33
+<EOP> .
+########

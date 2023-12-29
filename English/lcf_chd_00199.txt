@@ -1,0 +1,131 @@
+Does Britain negotiate the terms of the divorce and the outlines of the future relationship due to leave the EU 
+0
+Brexit opponent says two senior ministers sympathetic to his plans <EOP> .
+plans	9	ps_cue
+########
+1
+2017_08_11 18:03 <EOP> .
+########
+2
+Agencies <EOP> .
+########
+3
+<EOP> .
+########
+4
+Flags are arranged at the EU Commission headquarters ahead of a first full round of talks on Brexit , Britain 's divorce terms from the European Union , in Brussels , Belgium July 17 , 2017 .
+########
+5
+LRB Photo_Agencies RRB <EOP> .
+########
+6
+LONDON _ An influential former British government adviser who has called for a new political movement to block Brexit said on Friday that two senior members of Prime Minister Theresa May 's government were sympathetic to his plans .
+block	17	neg_cue
+May	30	ps_cue
+plans	37	ps_cue
+########
+7
+<EOP> .
+########
+8
+James Chapman , who formerly worked as chief of staff to Brexit minister David Davis , and before that as an aide to then_finance minister George Osborne , said May 's Brexit plans would sink the British economy .
+May	29	ps_cue
+plans	32	ps_cue
+would	33	ps_cue
+########
+9
+<EOP> .
+########
+10
+After calling for a new political movement to keep Britain in the European Union , Chapman said senior politicians from both the Conservative and Labour parties had contacted him .
+########
+11
+<EOP> .
+########
+12
+`` Two people in the cabinet now , and a number of people who have been in Conservative cabinets before now , better cabinets I might say than the current one , and a number of shadow cabinet ministers have also been in touch , '' he told BBC radio .
+might	25	ps_cue
+########
+13
+<EOP> .
+########
+14
+`` They are not saying they are going to quit their parties , but they are saying they understand that there is an enormous gap in the centre now of British politics .
+quit	9	CT-	CT-
+not	3	neg_cue
+quit	9	neg_cue
+########
+15
+Look , the two main parties have been captured by their fringes , '' he said .
+########
+16
+<EOP> .
+########
+17
+Chapman did not name the politicians who had contacted him .
+not	2	neg_cue
+########
+18
+<EOP> .
+########
+19
+Britain has less than two years to negotiate the terms of the divorce and the outlines of the future relationship before it is due to leave the EU in March 2019 .
+leave	25	CT+	CT-
+########
+20
+<EOP> .
+########
+21
+Britons voted by 52 percent to 48 to leave the EU in a referendum in June 2016 , though some EU leaders and prominent former British politicians have since suggested that Britain could change its mind .
+suggested	29	ps_cue
+could	32	ps_cue
+########
+22
+<EOP> .
+########
+23
+Supporters of leaving the EU say that if the Brexit referendum result is not respected , Britain will be thrust into a political crisis with uncertain consequences .
+not	13	neg_cue
+will	17	ps_cue
+uncertain	25	ps_cue
+########
+24
+<EOP> .
+########
+25
+Opponents of Brexit say that leaving the EU will undermine Britain 's $ 2.5 trillion economy .
+will	8	ps_cue
+########
+26
+Chapman evoked `` Black Wednesday '' , the day in 1992 when Britain was forced by market pressure to withdraw sterling from the EU 's European Exchange Rate Mechanism LRB ERM RRB .
+withdraw	19	neg_cue
+########
+27
+<EOP> .
+########
+28
+`` The hard Brexit plan that Mrs May is perusing is going to take our economy off a cliff .
+plan	4	ps_cue
+May	7	ps_cue
+########
+29
+It 's going to make Black Wednesday look like a picnic , '' Chapman said .
+like	8	ps_cue
+########
+30
+`` And when that happens , the Conservative Party will never be in power again . ''
+will	9	ps_cue
+never	10	neg_cue
+########
+31
+<EOP> .
+########
+32
+<EOP> .
+########
+33
+<EOP> .
+########
+34
+<EOP> .
+########

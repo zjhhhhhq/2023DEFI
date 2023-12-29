@@ -1,0 +1,127 @@
+Does China learn from the experience of Tokyo Bay area's development
+0
+Tokyo Bay area a lesson in development <EOP> .
+development	6	CT+	CT+
+########
+1
+2017_05_08 07:19 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+China could learn from the experience of Tokyo Bay area how to develop the Guangdong_Hong Kong_Macao Great Bay Area , which this year 's Government Work Report lists as a central government mission .
+develop	12	CT+	CT+
+could	1	ps_cue
+########
+4
+<EOP> .
+########
+5
+Bay areas are important growth points and leaders in technological innovation across the world .
+########
+6
+World Bank data show about 60 percent of the global economy is concentrated in the river delta regions , and the trend of people moving from inland areas of a country to its coasts has intensified .
+########
+7
+<EOP> .
+########
+8
+The metropolitan zone in the Tokyo Bay area comprises Tokyo , Saitama , Chiba and Kanagawa prefectures , covering an area of 13,562 square kilometers .
+########
+9
+Although the Tokyo Bay 's metropolitan area adds up to only 3.5 percent of the total land of Japan , it is home to one_third of the country 's population and generates one_third of national GDP .
+########
+10
+<EOP> .
+########
+11
+Compared with the densely populated Tokyo Bay area , the Guangdong_Hong Kong_Macao Great Bay Area 's population of about 100 million is more scattered and concentrated relatively away from the sea , which means there is enough room for development in the coastal areas .
+development	39	CT+	CT+
+########
+12
+<EOP> .
+########
+13
+The rise of the new economy , especially the service sector , in the mid_1960s when Shinkansen high_speed trains started operation , led to the influx of people from across Japan to the Tokyo Bay area , which further boosted the growth of the agglomeration economy .
+########
+14
+This in turn gave rise to big city malaise , which became increasingly serious after the area 's population crossed 10 million .
+gave	3	neg_cue
+########
+15
+Surprisingly , though , after the Tokyo Bay area 's population reached 40 million , the big city malaise began subsiding thanks especially to the constant improvements in urban infrastructure and management .
+########
+16
+<EOP> .
+########
+17
+Opening_up gives rise to diversity , and diversity leads to efficiency .
+########
+18
+Although the Pearl River Delta region , which consists of 11 cities , is no less diverse than the Tokyo Bay area , the economic interaction among and complementarity of the cities are not up to the mark because of the wide gaps among them in terms of opening up to the outside world .
+no	14	neg_cue
+not	33	neg_cue
+########
+19
+<EOP> .
+########
+20
+The Tokyo Bay area resorted to harsh environmental protection measures after experiencing a serious pollution crisis , which in turn caused a social crisis in the 1950s and 1960s , and succeeded in solving the industrial pollution problem while upgrading its technology and restructuring the economy .
+########
+21
+<EOP> .
+########
+22
+The measures the Tokyo Bay area adopted to address the problems plaguing it could be important lessons for China to effectively manage its large metropolitan areas and improve their infrastructure , especially because the Pearl River Delta region has to improve its urban management , service sector and infrastructure , transportation in particular , to develop the coastal areas , so as to allow the agglomeration economy to truly flourish .
+could	13	ps_cue
+########
+23
+<EOP> .
+########
+24
+Besides , the prefecture_level and city_level governments in the Tokyo Bay area have established effective communication channels and mechanisms , so as to coordinate their planning , construction and development , which is exactly what the 11 cities in the Pearl River Delta region should do .
+planning	25	ps_cue
+should	44	ps_cue
+########
+25
+<EOP> .
+########
+26
+China also has to help develop strong think tanks , because they play an important role in inter_governmental exchanges and communication owing to their greater foresight .
+########
+27
+The success of the Tokyo Bay area 's development indicates China 's advanced manufacturing industries should shift to the great bay area to have easier access to global markets and enjoy better industrial interaction .
+should	15	ps_cue
+########
+28
+<EOP> .
+########
+29
+In all probability , the knowledge_intensive economy , supported by information and communication technology and research and development , as well as the high_end service sector will continue to move into the greater bay area .
+will	26	ps_cue
+########
+30
+But to facilitate the process , the Pearl River Delta region needs to further open up to the outside world and be more inclusive in terms of foreign ideas and planning process .
+needs	11	ps_cue
+planning	30	ps_cue
+########
+31
+<EOP> .
+########
+32
+The planning and development of the Pearl River Delta region should also make the environment a compulsory aspect of its development agenda , in order to avoid going through the painstaking and costly environmental_cleansing process of the Tokyo Bay area .
+development	20	CT+	CT+
+planning	1	ps_cue
+should	10	ps_cue
+avoid	26	neg_cue
+########
+33
+<EOP> .
+########
+34
+The author is a professor of economics at Tokyo Keizai University and director of Cloud River Urban Research Institute .
+########
+35
+<EOP> .
+########

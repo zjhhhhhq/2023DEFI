@@ -1,0 +1,95 @@
+Do millions of Americans make a New Year 's resolution LRB or two or three RRB that they wo n't keep
+0
+On the first of every year , millions of Americans make a New Year 's resolution LRB or two or three RRB that they wo n't keep .
+keep	26	CT-	CT-
+n't	25	neg_cue
+or	17	ps_cue
+or	19	ps_cue
+########
+1
+Why we keep making resolutions -- and why they 're so hard to follow .
+########
+2
+<EOP> .
+########
+3
+There 's one obvious reason why most resolutions fail : We usually focus on goals or tasks that we have n't been able to achieve over the past year .
+achieve	24	CT-	CT-
+n't	20	neg_cue
+fail	8	neg_cue
+or	15	ps_cue
+########
+4
+`` You are making it your New Year 's goal because you keep failing at it , '' says Tim Pychyl , a psychologist at Carleton University in Ottawa .
+failing	13	neg_cue
+########
+5
+The other terrible thing about New Year 's resolutions , he says , is that making them requires no action .
+no	18	neg_cue
+########
+6
+The simple thought -- the idea that we intend to lose weight or exercise more -- just thinking about losing weight makes us feel good , and we do n't actually have to go out and do the tasks necessary to achieve that goal .
+achieve	41	CT-	CT-
+n't	29	neg_cue
+intend	8	ps_cue
+or	12	ps_cue
+########
+7
+<EOP> .
+########
+8
+`` They make the intention now , but they do n't do anything .
+do	11	CT-	CT-
+n't	10	neg_cue
+########
+9
+It 's like going to buy furniture and not having to pay anything until 2019 . ''
+like	2	ps_cue
+not	8	neg_cue
+########
+10
+says Pychyl , `` That 's the selective nature of it . ''
+########
+11
+He adds we would never form a New Year 's resolution around tasks we like to do .
+would	3	ps_cue
+never	4	neg_cue
+like	14	ps_cue
+########
+12
+We already did those things the year before , so there 's nothing satisfying about pledging to keep them up .
+nothing	12	neg_cue
+########
+13
+Procrastination is one of the number one reasons resolutions fail .
+fail	9	neg_cue
+########
+14
+<EOP> .
+########
+15
+Even as we try to overcome our resistance to our resolutions , something a little more powerful takes over in our brains : The force of habit .
+little	14	neg_cue
+########
+16
+In simple terms , habits are connections of neurons that work together that have been beneficial to us over time .
+########
+17
+The more we execute the habitual behavior , the stronger those neuronal connections in our brains become .
+########
+18
+<EOP> .
+########
+19
+Through the course of human evolution , habits have been a really good thing ; they are automatic thoughts or actions that have , for example , saved us from predators .
+or	19	ps_cue
+########
+20
+<EOP> .
+########
+21
+By understanding what 's going on in your brain , you have a better chance at controlling it .
+########
+22
+<EOP> .
+########

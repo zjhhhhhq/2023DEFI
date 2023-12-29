@@ -1,0 +1,115 @@
+Did the floods in Sri Lanka exacerbate the dengue crisis 
+0
+Sri Lanka 's deadly floods could worsen dengue crisis : NGO <EOP> .
+worsen	6	PS+	PS+
+could	5	ps_cue
+########
+1
+2017_05_28 19:06 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+<EOP> .
+########
+4
+People travel on top of a armoured personnel carrier on a flooded road as a man pushes his bike thorugh the water in Bulathsinhala village in Kalutara , Sri Lanka May 27 , 2017 .
+May	30	ps_cue
+########
+5
+LRB Photo_Agencies RRB <EOP> .
+########
+6
+<EOP> .
+########
+7
+<EOP> .
+########
+8
+COLOMBO __ An International non_governmental organization that promotes Children 's rights warned on Sunday that the devastating floods in Sri Lanka could exacerbate the dengue crisis in the island country .
+exacerbate	22	CT+	PS+
+could	21	ps_cue
+########
+9
+<EOP> .
+########
+10
+In a statement , Save the Children said that the stagnant flood waters , providing the perfect breeding ground for mosquitoes , could exacerbate the dengue crisis that has seen an almost 150 percent increase in cases compared to the same period last year .
+exacerbate	23	CT+	PS+
+could	22	ps_cue
+########
+11
+<EOP> .
+########
+12
+`` The humanitarian situation in Sri Lanka right now is alarming .
+########
+13
+The impact of these early monsoon season downpours has been far more devastating than what we 'd normally expect this time of the year , '' Save the Children Country Director in Sri Lanka Chris McIvor said .
+expect	18	ps_cue
+########
+14
+<EOP> .
+########
+15
+`` We 're particularly worried we could start seeing a further increase in the number of dengue cases because of the stagnant waters that the floods will leave in their wake , which is the last thing needed by families and communities that have already lost so much . ''
+could	6	ps_cue
+will	26	ps_cue
+########
+16
+<EOP> .
+########
+17
+The organisation said its teams were on the ground assessing the humanitarian needs and were ready to respond , including by distributing hygiene items to prevent the spread of disease and illness , supporting damaged schools to re_open , distributing safe drinking water and household items to affected families and providing psychosocial support to distressed children .
+needs	12	ps_cue
+ready	15	ps_cue
+prevent	25	neg_cue
+########
+18
+<EOP> .
+########
+19
+`` Aid agencies and government authorities are working around the clock to help those most in need , however one thing that is out of our control is the weather .
+need	16	ps_cue
+########
+20
+If we see more heavy rains sweep across the country , not only will it increase the humanitarian needs but it will also make accessing communities even more difficult , '' McIvor said .
+not	11	neg_cue
+will	13	ps_cue
+needs	18	ps_cue
+will	21	ps_cue
+########
+21
+<EOP> .
+########
+22
+According to Save the Children , Sri Lanka has recorded almost 53,000 dengue fever cases across the country since the start of the year .
+########
+23
+<EOP> .
+########
+24
+Health Minister Rajitha Senaratne said Saturday that the health sector and state hospitals are geared to treat the injured and were prepared with the necessary facilities if any outbreak of diseases are reported .
+########
+25
+<EOP> .
+########
+26
+Days of severe rains and strong winds , triggered by the yearly monsoons , have killed at least 146 people and affected nearly 500,000 people in Sri Lanka .
+########
+27
+<EOP> .
+########
+28
+Rescue and search operations continued into Sunday as thousands had to leave their homes due to rising water levels .
+########
+29
+<EOP> .
+########
+30
+The local meteorology department has warned of more rains in the coming days .
+########
+31
+<EOP> .
+########

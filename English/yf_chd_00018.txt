@@ -1,0 +1,137 @@
+Will Virginia see Terracotta Warriors dispaly
+0
+Virginia lines up to see Terracotta Warriors dispaly <EOP> .
+see	4	CT+	CT+
+########
+1
+2018_01_04 16:27 <EOP> .
+########
+2
+China Daily USA <EOP> .
+########
+3
+China 's Terracotta Warriors , a marvel of the world , have attracted more than 68000 visitors to the Virginia Museum of Fine Arts in Richmond .
+attracted	12	CT+	CT+
+########
+4
+<EOP> .
+########
+5
+The exhibition Terrtcotta Army : Legacy of the First Emperor of China , features 10 majestic terracotta figures , including a cavalry horse , among 130 works that tell the story of China 's birth and the first emperor of China , Qin Shi huangLRB 221_210 BC RRB .
+########
+6
+<EOP> .
+########
+7
+Gathered from 14 museums and archaeological institutes across Shaanxi province , the exhibition also features arms and armor , horse and chariot fittings , ritual bronze vessels , works in gold and silver , jade ornaments , precious jewelry and ceramics .
+########
+8
+<EOP> .
+########
+9
+It is the first exhibition that the museum LRB VMFA RRB has presented in its 80_year history , which is devoted to the art and archaeology of ancient China .
+########
+10
+more than 40 objects in the exhibition have never before been dispalyed in the US .
+objects	3	neg_cue
+never	8	neg_cue
+########
+11
+<EOP> .
+########
+12
+`` Chinese artists and Chinese culture have been making great art for more than 5000 years .
+########
+13
+Americans Know so little about the conitnuum of Chinese art history , how unbroken it is and how magnificent it is .
+little	3	neg_cue
+########
+14
+So this is a way for us to show Virginia and America how magnificent the Chinese creative world has been , for millennia '' , VMFA director Alex Nyerges said at the opening reception of the exhibition at the Chinese embassy in Washington .
+########
+15
+<EOP> .
+########
+16
+The exhibition is divided into three sections : The First Emperor and Unification of China , Birth of the Qin Empire and Quest for Immortality .
+########
+17
+<EOP> .
+########
+18
+`` The exhibit is truly remarkable .
+########
+19
+It puts the Terracotta Warriors in historical context and describes the development of the Chinese culture .
+########
+20
+The artifacts are displayed beautifully and include decorative items , tools , weapons and architectural pieces .
+########
+21
+And , of course , the warriors themselves , which are astonishing in their realism .
+########
+22
+Each is unique , depicting various occupations and having distinct faces , '' commented one visitor .
+########
+23
+<EOP> .
+########
+24
+`` It was fabulous .
+########
+25
+I was thrilled to see the terracotta soldiers up close and the details of their individual faces .
+see	4	CT+	CT+
+########
+26
+The sampling of the different types of officers and the close_up details of their dress also was very interesting .
+########
+27
+In China , I saw the whole army in the pit , but you have to stand in a gallery and are too far away to see the details , '' another visitor said .
+########
+28
+<EOP> .
+########
+29
+Discovered in 1974 by farmers in China , the underground army of nearly 8,000 life_size terracotta figures is considered one of the greatest archaeological finds of the 20th century .
+considered	18	ps_cue
+########
+30
+<EOP> .
+########
+31
+The Terracotta Army , found one mile east of the known burial site of Qin Shihuang , was created to accompany the emperor to the afterlife .
+########
+32
+<EOP> .
+########
+33
+`` We were in Xi'an last year .
+########
+34
+We were so impressed to see the terracotta soldiers .
+see	5	CT+	CT+
+########
+35
+It 's amazing to see them again here .
+see	4	CT+	CT+
+########
+36
+I wish they could stay here longer so that more people can see them without going all the way to Xi'an , '' said Tom Turner , a visitor from West Virginia .
+could	3	ps_cue
+can	11	ps_cue
+without	14	neg_cue
+########
+37
+<EOP> .
+########
+38
+Curated by Li Jian , VMFA E. Rhodes and Leona B. Carpenter curator of East Asian art , and Hou_mei Sung , Cincinnati Art Museum curator of Asian art , the exhibition will be shown at the VMFA until March 11 , before it moves to the Cincinnati museum .
+will	32	ps_cue
+########
+39
+<EOP> .
+########
+40
+leshuodong@chinadailyusa.com <EOP> .
+########

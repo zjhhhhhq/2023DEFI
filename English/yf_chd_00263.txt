@@ -1,0 +1,108 @@
+Do China and the US have common ground in fighting IPR infringement 
+0
+Police in China , US team up to stop fakes <EOP> .
+stop	8	neg_cue
+########
+1
+2017_11_09 07:37 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+Chinese and US police have jointly smashed an international criminal network that made and sold fake luxury brands such as Louis Vuitton , Gucci , Rolex and Cartier , the Ministry of Public Security announced on Wednesday .
+########
+4
+<EOP> .
+########
+5
+The joint probe is part of an ongoing collaboration between law enforcement agencies in the two countries to curtail intellectual property infringement , and it reflects a zero_tolerance attitude on both sides toward cross_border crimes , the ministry said .
+infringement	21	CT-	CT-
+########
+6
+<EOP> .
+########
+7
+In this case , fake luxury goods were produced in Chinese factories , sold via e_commerce and shipped to the US and other countries and regions .
+########
+8
+<EOP> .
+########
+9
+Chinese police so far have detained 36 suspects and destroyed seven production plants , confiscating more than 3,000 counterfeit items , including leather products , suitcases , glasses , watches and jewelry .
+########
+10
+Sales had reached 100 million yuan LRB $ 15.1 million RRB , according to the ministry .
+########
+11
+<EOP> .
+########
+12
+US law enforcement agencies are investigating buyers who placed the orders in the United States .
+########
+13
+<EOP> .
+########
+14
+Early this year , police in Guangzhou received a tip and discovered an English_language website full of advertisements for fake luxury goods , the ministry said .
+########
+15
+Later , a criminal group _ led by a person with the surname Zhuang _ surfaced .
+########
+16
+The ministry then informed the US Department of Homeland Security about the matter , and a joint investigation was started .
+########
+17
+<EOP> .
+########
+18
+As part of the effort , police discovered that Zhuang and his associates received orders from the website in Guangzhou , and then purchased fake products from local markets or ordered them from illegal factories .
+or	29	ps_cue
+########
+19
+The pirated products were sealed and declared at customs through Zhuang 's express company , and then shipped abroad through international express delivery services .
+########
+20
+<EOP> .
+########
+21
+In mid_July , police in Guangdong raided production , storage and export operations , and found information related to orders from US customers .
+########
+22
+From those orders , they found that many US customers were aware the products were fake but still placed large orders .
+########
+23
+That led police to suspect those customers of being intermediaries in the sale of the products on US soil , according to the ministry .
+suspect	4	ps_cue
+########
+24
+<EOP> .
+########
+25
+At the request of US officials , the ministry sent a police team to the United States at the end of August to collect evidence .
+########
+26
+Both sides are now investigating web servers in the US and a possible wholesale network in China , the release said .
+possible	12	ps_cue
+########
+27
+<EOP> .
+########
+28
+Liu Chuntian , a professor at the Renmin University of China 's Intellectual Property Academy , said that in recent years China and the US have been in close communication and have collaborated against multinational intellectual property infringement .
+infringement	37	CT-	CT-
+against	33	neg_cue
+########
+29
+<EOP> .
+########
+30
+China and the US have common ground in fighting IPR infringement , and a consensus has been reached at high levels on both sides , he said .
+infringement	10	CT+	CT-
+########
+31
+<EOP> .
+########
+32
+luowangshu@chinadaily.com.cn <EOP> .
+########

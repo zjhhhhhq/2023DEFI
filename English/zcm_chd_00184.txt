@@ -1,0 +1,113 @@
+Did US Attorney General Jeff Sessions detail his conversations with US President Donald Trump
+0
+Sessions clashes with Senate Democrats over Trump talks <EOP> .
+########
+1
+2017_06_14 10:47 <EOP> .
+########
+2
+China Daily USA <EOP> .
+########
+3
+WASHINGTON _ US Attorney General Jeff Sessions on Tuesday denounced as a `` detestable lie '' the idea he colluded with Russian meddling in the 2016 presidential election , and he clashed with Democratic lawmakers over his refusal to detail his conversations with US President Donald Trump .
+detail	39	CT-	CT-
+refusal	37	neg_cue
+########
+4
+<EOP> .
+########
+5
+Sessions , a senior member of Trump 's Cabinet and an adviser to his election team , had a series of tense exchanges with Democrats on the Senate Intelligence Committee during more than two hours of high_stakes testimony as they pressed him to recount discussions with the Republican president .
+########
+6
+<EOP> .
+########
+7
+`` You raised your right hand here today and said you would solemnly swear to tell the truth , the whole truth and nothing but the truth , '' Democratic Senator Martin Heinrich said .
+would	11	ps_cue
+nothing	23	neg_cue
+########
+8
+`` Now you 're not answering questions .
+not	4	neg_cue
+########
+9
+You 're impeding this investigation . ''
+########
+10
+<EOP> .
+########
+11
+Sessions refused to say whether he and Trump discussed former FBI director James Comey 's handling of an investigation into possible coordination between Trump 's campaign and Russia during the election campaign before the president fired Comey on May 9 .
+say	3	CT-	CT-
+refused	1	neg_cue
+whether	4	ps_cue
+possible	20	ps_cue
+May	38	ps_cue
+########
+12
+<EOP> .
+########
+13
+He declined to say whether Trump expressed concern over Sessions ' decision in March to recuse himself from the Russia investigation , and he refused to say if Justice Department officials discussed possible presidential pardons of individuals being looked at in the probe .
+say	3	CT-	CT-
+declined	1	neg_cue
+whether	4	ps_cue
+concern	7	ps_cue
+refused	24	neg_cue
+possible	32	ps_cue
+########
+14
+<EOP> .
+########
+15
+Democratic Senator Ron Wyden told Sessions , `` I believe the American people have had it with stonewalling .
+########
+16
+Americans do n't want to hear that answers to relevant questions are privileged . ''
+n't	2	neg_cue
+########
+17
+<EOP> .
+########
+18
+`` I am not stonewalling , '' Sessions replied , saying he was simply following Justice Department policy not to discuss confidential communications with the president .
+not	3	neg_cue
+not	18	neg_cue
+########
+19
+<EOP> .
+########
+20
+Sessions ' testimony did not provide damaging new information on any Trump campaign ties with Russia or on Comey 's firing , but his refusal to discuss conversations with Trump raised questions about whether the White House has something to hide .
+discuss	26	CT-	CT-
+not	4	neg_cue
+or	16	ps_cue
+refusal	24	neg_cue
+whether	33	ps_cue
+########
+21
+<EOP> .
+########
+22
+Last week , Comey told the same Senate committee that Trump had fired him to undermine the FBI 's investigation of the Russia matter .
+########
+23
+<EOP> .
+########
+24
+Sessions had recommended that Comey be fired , and Trump 's decision prompted critics to charge that the president was trying to interfere with a criminal investigation .
+recommended	2	ps_cue
+########
+25
+Sessions on Tuesday defended his involvement in Comey 's firing despite recusing himself from the Russia probe .
+########
+26
+<EOP> .
+########
+27
+Reuters <EOP> .
+########
+28
+<EOP> .
+########

@@ -1,0 +1,74 @@
+Do Chinese police officers start patrolling four Italian cities
+0
+Chinese police officers start patrolling four Italian cities <EOP> .
+patrolling	4	CT+	CT+
+########
+1
+2017_06_06 13:35 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+<EOP> .
+########
+4
+Chinese police officers and Italian police officers talk with tourists at Piazza di Spagna of Rome , Italy , on June 5 , 2017 .
+########
+5
+LRB Photo_Xinhua RRB <EOP> .
+########
+6
+BEIJING _ Ten Chinese police officers began joint patrols in four Italian cities Monday , according to a statement from the Chinese Ministry of Public Security .
+patrols	8	CT+	CT+
+########
+7
+<EOP> .
+########
+8
+Four groups of Chinese police officers will join their Italian counterparts for patrols in the cities of Rome , Milan , Florence and Naples from June 5 to 25 .
+join	7	CT+	CT+
+will	6	ps_cue
+########
+9
+<EOP> .
+########
+10
+The 20_day program also includes a Chinese_language police hotline where calls are answered by Chinese police officers , who will help Italian police with security issues concerning Chinese tourists , the statement said .
+will	19	ps_cue
+########
+11
+<EOP> .
+########
+12
+China sent four police officers to Rome and Milan to conduct joint patrols in May 2016 .
+patrols	12	CT+	CT+
+May	14	ps_cue
+########
+13
+This year , Florence and Naples , both popular destinations for Chinese tourists , were added and six additional officers were sent .
+########
+14
+<EOP> .
+########
+15
+This is the latest program aimed at protecting the interests of Chinese tourists overseas , and will help expand and deepen the Sino_Italian law enforcement cooperation , the statement added .
+will	16	ps_cue
+########
+16
+<EOP> .
+########
+17
+From April 24 to May 7 , four Italian officers and their Chinese counterparts conducted joint patrols at tourist areas in Beijing and Shanghai , the first foreign police officers to carry out joint patrols in China .
+patrols	16	CT+	CT+
+May	4	ps_cue
+########
+18
+<EOP> .
+########
+19
+According to government statistics , more than 800,000 Chinese and Italian tourists traveled between the two countries in 2016 .
+########
+20
+<EOP> .
+########

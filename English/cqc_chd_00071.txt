@@ -1,0 +1,63 @@
+Was Myanmar military plane crashed 
+0
+More items of victims from crashed Myanmar military plane <EOP> .
+crashed	5	CT+	CT+
+########
+1
+2017_06_20 10:44 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+YANGON _ Various kinds of items including one iron box and steward suits have been recovered in the vicinity of the sea area where the tail of the Myanmar military plane was found , Myanmar News Agency reported Tuesday .
+########
+4
+<EOP> .
+########
+5
+The items of the victims were recovered by two fishing motor boats on Monday evening while searching for the remaining parts of the crashed plane .
+########
+6
+<EOP> .
+########
+7
+However , two divers were injured by water pressure while conducting retrieve of parts of the plane wreckage in deep waters , the report said .
+wreckage	17	CT+	CT+
+########
+8
+<EOP> .
+########
+9
+On Sunday evening , Flight Data Recorder LRB Black Box RRB and CVR LRB Cockpit Voice Recorder RRB were found in the already retrieved plane 's tail section which was entangled with a fishing net of a local vessel under the sea off the country 's southern coast .
+########
+10
+<EOP> .
+########
+11
+Authorities are continuing to probe into the causes of the plane crash based on the black box .
+crash	11	CT+	CT+
+########
+12
+<EOP> .
+########
+13
+So far , a total of 92 bodies have been recovered as of late Sunday .
+########
+14
+<EOP> .
+########
+15
+With a load of 2.4 tons of cargo and 122 people aboard , including 108 military personnel and their family members and 14 crew members , the aircraft of the Myanmar Air Force lost contact with the ground shortly after taking off from Myeik on June 7 .
+########
+16
+<EOP> .
+########
+17
+The plane was believed to have crashed in the Andaman Sea off the southern Tanintharyi region on a flight to Yangon .
+crashed	6	CT+	CT+
+believed	3	ps_cue
+########
+18
+<EOP> .
+########

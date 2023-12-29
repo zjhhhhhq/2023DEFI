@@ -1,0 +1,178 @@
+Does polluted air deter distance runners
+0
+Polluted air does n't deter distance runners <EOP> .
+deter	4	CT-	CT-
+n't	3	neg_cue
+########
+1
+2017_11_21 08:07 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+<EOP> .
+########
+4
+NEW DELHI _ People breathing New Delhi 's acrid air for the past month have suffered burning eyes and rasping throats , so the notion of thousands of distance runners gulping down lungful after lungful may have seemed strange .
+may	35	ps_cue
+seemed	37	ps_cue
+########
+5
+But even as the polluted air threatens health , India seems to be embracing physical fitness .
+seems	10	ps_cue
+########
+6
+<EOP> .
+########
+7
+The Airtel Delhi Half Marathon went ahead on Sunday , even after a last_minute attempt by the Indian Medical Association to have it postponed .
+postponed	23	neg_cue
+########
+8
+<EOP> .
+########
+9
+In the cool half_light before dawn , street_dwellers stoked smoking piles of trash to keep warm while organizers adjusted placards along the route .
+########
+10
+<EOP> .
+########
+11
+<EOP> .
+########
+12
+<EOP> .
+########
+13
+<EOP> .
+########
+14
+Men and women wear face masks as they take part in the Airtel Delhi Half Marathon 2017 in New Delhi on Sunday .
+########
+15
+Sajjad Hussain _ Agence France_presse <EOP> .
+########
+16
+In the start area , runner Sunil Baxi , who traveled 11 hours by train from the city of Jodhpur to compete , spoke over the blaring motivational music , saying he was thankful the air had gotten clearer .
+########
+17
+<EOP> .
+########
+18
+`` The gods have sent in the rain yesterday and over the last 48 hours , '' he said .
+########
+19
+`` So it 's a blessing for us . ''
+########
+20
+<EOP> .
+########
+21
+Air pollution was a concern for past races but was brought into sharp focus this month after air_quality readings in New Delhi spiked to 75 times the level considered safe by the World Health Organization .
+concern	4	ps_cue
+considered	28	ps_cue
+########
+22
+<EOP> .
+########
+23
+Three days before the race , Delhi 's High Court gave race organizer Procam International permission to proceed with the run .
+gave	10	neg_cue
+########
+24
+<EOP> .
+########
+25
+Still , many runners remained frustrated .
+########
+26
+Ashish Shakya said he 'd barely been able to train because of the poor air quality .
+train	9	CT-	CT-
+barely	5	neg_cue
+########
+27
+He wore a handmade sign on his back that read , `` Running is in the air but the air is highly polluted . ''
+########
+28
+<EOP> .
+########
+29
+The 31_year_old said he loves running and has watched its popularity in New Delhi soar over the past few years .
+########
+30
+But he also worries about what it 's doing to him .
+########
+31
+<EOP> .
+########
+32
+`` It 's just like smoking a cigarette .
+like	4	ps_cue
+########
+33
+If you smoke for a year , you do n't die , '' he said .
+n't	9	neg_cue
+########
+34
+`` But if you do running continuously in this weather , the health risks outweigh the health benefits . ''
+########
+35
+<EOP> .
+########
+36
+New Delhi 's air pollution typically worsens at this time of year as winds die off and the fumes from vehicles and industry stagnate .
+########
+37
+Farmers also burn spent crops and people build street fires as the night air cools .
+########
+38
+<EOP> .
+########
+39
+Race organizers tried to help .
+########
+40
+They washed down the course with salted water to minimize dust .
+########
+41
+They used 150 mist fans to try to cleanse the air .
+########
+42
+They kept vehicles from the route for hours before the race .
+########
+43
+And they offered refunds to those who wanted to pull out .
+wanted	7	ps_cue
+########
+44
+<EOP> .
+########
+45
+About 35,000 runners signed up for this year 's half marathon and the shorter races that were included .
+########
+46
+Organizers say more than 1 million people have signed up for races across India over the past year , and the popularity of the sport is increasing .
+########
+47
+<EOP> .
+########
+48
+`` Slowly the trend is rising , '' said Baxi , the runner from Jodhpur .
+########
+49
+`` No doubt India is on the back foot on health parameters , but slowly and surely it 's picking up . ''
+No	1	neg_cue
+########
+50
+<EOP> .
+########
+51
+Associated Press <EOP> .
+########
+52
+<EOP> .
+########
+53
+LRB China Daily 11_21_2017 page11 RRB <EOP> .
+########

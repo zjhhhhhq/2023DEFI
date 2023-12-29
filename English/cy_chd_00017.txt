@@ -1,0 +1,152 @@
+Do other allies in the region and China achieve a peaceable solution of the Korean Peninsula
+0
+US reassures Japan of resolve on DPRK <EOP> .
+########
+1
+2017_04_19 07:40 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+<EOP> .
+########
+4
+Washington will work with regional allies and Beijing on nuclear issue <EOP> .
+will	1	ps_cue
+########
+5
+Visiting US Vice_President Mike Pence said in Tokyo on Tuesday that President Donald Trump is determined to work closely with Japan , the Republic of Korea , other allies in the region and China to achieve a peaceable solution and denuclearization of the Korean Peninsula .
+solution	38	CT+	CT+
+########
+6
+<EOP> .
+########
+7
+Pence told Japanese Prime Minister Shinzo Abe that Washington understands the severe security situation facing Japan and is behind its ally `` 100 percent '' .
+########
+8
+<EOP> .
+########
+9
+Abe said Pence 's visit to Japan is `` extremely timely given the severe state of the situation '' surrounding the Democratic People 's Republic of Korea .
+########
+10
+<EOP> .
+########
+11
+Abe said Tokyo hopes for peaceful dialogue with Pyongyang , adding that pressure on the DPRK is crucial .
+hopes	3	ps_cue
+########
+12
+`` Dialogue for the sake of dialogue is meaningless , '' Abe said .
+########
+13
+<EOP> .
+########
+14
+The Japanese leader told Pence of Japan 's appreciation for Trump 's stance that all options , including military action , are `` on the table '' to pressure the DPRK to cease its nuclear weapon and ballistic missile development efforts .
+########
+15
+<EOP> .
+########
+16
+<EOP> .
+########
+17
+<EOP> .
+########
+18
+Foreign Minister Wang Yi called again for calm on Tuesday amid mounting tension on the peninsula , saying he believes that diplomatic solution is still the first choice of Washington .
+solution	22	CT+	CT+
+########
+19
+`` The US has , in fact , emphasized and reiterated that it would prefer to solve the issue through diplomatic means , although it has said all options are on the table , '' he told reporters in Beijing .
+would	13	ps_cue
+########
+20
+<EOP> .
+########
+21
+Doctrine ` is over ' <EOP> .
+########
+22
+<EOP> .
+########
+23
+The US is deploying an aircraft carrier and accompanying vessels to waters near the peninsula amid indications the DPRK is planning its sixth nuclear test .
+planning	20	ps_cue
+########
+24
+<EOP> .
+########
+25
+During his visit to Seoul , Pence warned that the `` era of strategic patience is over '' , referring to the doctrine former US president Barack Obama adopted to deal with the DPRK .
+########
+26
+<EOP> .
+########
+27
+Abe and Pence agreed to hold another `` two_plus_two '' ministerial_level security dialogue in the near future , according to the Kyodo News agency .
+########
+28
+<EOP> .
+########
+29
+An opinion poll by Japanese newspaper Yomiuri Shimbun on April 14_16 showed that 64 percent of the respondents supported US moves to increase military pressure on the DPRK .
+########
+30
+This far exceeded the 27 percent who said they did not approve of Washington ' actions .
+not	10	neg_cue
+########
+31
+<EOP> .
+########
+32
+Japan and the US kicked off the first round of their economic dialogue chaired by Japan 's Finance Minister and Deputy Prime Minister Taro Aso on Tuesday , outlining a path forward for economic talks between the two countries .
+forward	31	ps_cue
+forward	31	neg_cue
+########
+33
+<EOP> .
+########
+34
+They agreed that the dialogue would focus on three areas : trade and investment rules and issues , cooperation in macroeconomic policy and specific industry sectors .
+would	5	ps_cue
+########
+35
+<EOP> .
+########
+36
+Pence said Trump sees the talks as a way to improve business ties with Japan and is hoping for quick results .
+hoping	17	ps_cue
+########
+37
+The dialogue was set up by Trump and Abe in February .
+########
+38
+<EOP> .
+########
+39
+`` We want to take the lead in bolstering economies in the Asia_Pacific region and the world by developing Japan_US economic ties , '' Aso said at a joint news conference with Pence after their talks .
+########
+40
+<EOP> .
+########
+41
+Pence flew in on Tuesday from Seoul on the second stop of his 10_day Asia trip , which will also take him to Indonesia and Australia .
+stop	10	neg_cue
+will	18	ps_cue
+########
+42
+<EOP> .
+########
+43
+caihong@chinadaily.com.cn <EOP> .
+########
+44
+<EOP> .
+########
+45
+LRB China Daily 04_19_2017 page13 RRB <EOP> .
+########

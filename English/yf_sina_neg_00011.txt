@@ -1,0 +1,203 @@
+Is the news_making preschool in Stockholm fighting gender stereotypes 
+0
+There are no boys and girls at a new school in Stockholm , just `` friends . ''
+Stockholm	11	CT-	CT-
+no	2	neg_cue
+########
+1
+Is this the cutting edge of gender equality , or just `` silly '' ?
+or	9	ps_cue
+########
+2
+<EOP> .
+########
+3
+At Egalia , everyone is a `` friend . ''
+########
+4
+The news_making preschool in Stockholm is fighting gender stereotypes by banning the use of gender pronouns in the school , instead referring to all students as `` friends . ''
+Stockholm	4	CT+	CT-
+banning	10	neg_cue
+instead	20	neg_cue
+########
+5
+Is this bold move creating a gender_neutral `` nirvana , '' or `` gender madness ? ''
+or	11	ps_cue
+########
+6
+Here , a brief guide : <EOP> .
+########
+7
+What is Egalia ?
+########
+8
+<EOP> .
+########
+9
+Egalia is a taxpayer_funded school in the Sodermalm district of Stockholm , Sweden .
+Stockholm	10	CT+	CT-
+########
+10
+The school has incorporated a gender_free pedagogy , operating under the theory that by eliminating any reference to gender , the students wo n't fall prey to the stereotyping of gender roles .
+n't	23	neg_cue
+########
+11
+`` Society expects girls to be girlie , nice and pretty , and boys to be manly , rough and outgoing , '' says one of the school 's teacher 's , Jenny Johnson , as quoted by Britain 's Daily Mail .
+expects	2	ps_cue
+########
+12
+`` Egalia gives them a fantastic opportunity to be whoever they want to be . ''
+########
+13
+<EOP> .
+########
+14
+How do the kids talk to each other ?
+########
+15
+<EOP> .
+########
+16
+For starters , there are no boys and girls in Egalia , just `` friends . ''
+no	5	neg_cue
+########
+17
+That 's the term teachers in the school use to address all students .
+########
+18
+In addition , the staff refrains from using the pronouns `` him '' or `` her . ''
+or	13	ps_cue
+########
+19
+Instead , the gender labels , which are `` han '' and `` hon '' in Swedish , are replaced by the `` genderless '' pronoun `` hen '' -- a word that does n't actually exist in the Swedish language .
+n't	34	neg_cue
+########
+20
+<EOP> .
+########
+21
+They use a made_up word ?
+########
+22
+<EOP> .
+########
+23
+Yep .
+########
+24
+For example , when a doctor or plumber is coming into the classroom , `` we do n't know if it 's a he or a she , so we just say , ` Hen is coming around 2 p.m. , '' says director Lotta Rajalin , as quoted by the Associated Press .
+or	6	ps_cue
+n't	17	neg_cue
+or	24	ps_cue
+########
+25
+`` Then the children can imagine both a man or a woman .
+can	4	ps_cue
+or	9	ps_cue
+########
+26
+This widens their view . ''
+########
+27
+<EOP> .
+########
+28
+What about playtime ?
+########
+29
+<EOP> .
+########
+30
+Lego blocks are stored directly next to kitchen and cooking toys , so as not to encourage gender preference through toy storage and organization .
+blocks	1	neg_cue
+not	14	neg_cue
+########
+31
+There are no squabbles over who gets to play mommy in a game of house , either .
+no	2	neg_cue
+either	16	ps_cue
+########
+32
+If one girl has already claimed the role , `` then we suggest two moms or three moms and so on , '' says Rajalin .
+suggest	12	ps_cue
+or	15	ps_cue
+########
+33
+And do n't expect to find gender_promoting fairy tales on the bookshelves , either .
+n't	2	neg_cue
+expect	3	ps_cue
+either	13	ps_cue
+########
+34
+Snow White and Cinderella are nixed in favor of books featuring gay and lesbian couples , single parents , and adopted children , says CNN .
+########
+35
+<EOP> .
+########
+36
+Umm ... is this really a good idea ?
+########
+37
+<EOP> .
+########
+38
+Parents in Sweden seem to be fans .
+seem	3	ps_cue
+########
+39
+Not only is there a waiting list to get into Egalia , but `` only one family has dropped out , '' says Erin Anderssen at Canada 's The Globe and Mail .
+Not	0	neg_cue
+########
+40
+And according to a 2010 World Economic Forum report , Sweden leads the world when it comes to gender equality .
+########
+41
+The country is also widely considered a pioneer when it comes to gay and lesbian rights .
+considered	5	ps_cue
+########
+42
+<EOP> .
+########
+43
+Does everyone agree ?
+########
+44
+<EOP> .
+########
+45
+Well , no .
+no	2	neg_cue
+########
+46
+`` It sounds like a load of manure to me , '' says Jeanne Sager at The Stir .
+like	3	ps_cue
+########
+47
+No matter how much Egalia tries to hide gender norms within its walls , the truth is that outside them , they do exist .
+No	0	neg_cue
+########
+48
+`` It 's still going to have to be dealt with . ''
+########
+49
+One Swedish mother agrees .
+########
+50
+`` Different gender roles are n't problematic as long as they are equally valued , '' says Tanja Bergkvist , as quoted by the Associated Press .
+n't	5	neg_cue
+########
+51
+And in the end , says Meredith Carroll at Babble , Egalia may be confusing gender neutrality with gender equality .
+may	12	ps_cue
+########
+52
+We should `` celebrate the differences between the genders , '' not push for a `` homogenized society . ''
+should	1	ps_cue
+not	11	neg_cue
+########
+53
+Eliminating gender_specific pronouns altogether is both `` confusing and silly . ''
+########
+54
+<EOP> .
+########

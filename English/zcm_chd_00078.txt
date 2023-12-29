@@ -1,0 +1,97 @@
+Are Some 700,000 people evacuated from Cuba 's northeastern coast 
+0
+Cuba evacuates 700,000 as Hurricane Irma nears <EOP> .
+########
+1
+2017_09_08 09:26 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+<EOP> .
+########
+4
+People protect the windows of a house prior to the arrival of the Hurricane Irma in Caibarien , Cuba , September 7 , 2017 .
+########
+5
+LRB Photo_Agencies RRB <EOP> .
+########
+6
+HAVANA _ Some 700,000 people have been evacuated from Cuba 's northeastern coast as Hurricane Irma barrels westward across the Caribbean , authorities said Thursday .
+evacuated	7	CT+	CT+
+########
+7
+<EOP> .
+########
+8
+The eye of the category_five hurricane was expected to pass between the island of Hispaniola , home to Haiti and the Dominican Republic , and the Turks and Caicos Islands late Thursday .
+expected	7	ps_cue
+########
+9
+<EOP> .
+########
+10
+`` The core of the hurricane will then move between the north coast of Cuba and the Bahamas , '' said the statement from Cuba 's weather service .
+will	6	ps_cue
+########
+11
+<EOP> .
+########
+12
+Irma 's maximum sustained winds remain at 280 km_h with higher gusts making it a potentially catastrophic tropical cyclone .
+potentially	15	ps_cue
+########
+13
+<EOP> .
+########
+14
+The hurricane 's outer bands were expected to unleash pounding rain on Cuba 's eastern provinces of Guantanamo and Holguin on Thursday night , along with tropical storm force winds and waves that could reach 6 to 8 meters high .
+expected	6	ps_cue
+could	33	ps_cue
+########
+15
+<EOP> .
+########
+16
+Cuba 's Civil Defense declared a hurricane warning for all eastern provinces and the central territory of Ciego de Avila , and urged all governments and civilian groups to complete their preparations for the superstorm .
+########
+17
+<EOP> .
+########
+18
+More than 10,000 tourists vacationing in the island have already been evacuated or flew home .
+evacuated	11	CT+	CT+
+or	12	ps_cue
+########
+19
+<EOP> .
+########
+20
+Irma has left a wake of devastation in the Caribbean , killing at least 15 people and damaging homes and other infrastructure in Antigua and Barbuda , Puerto Rico , St. Martin , and the north coast of the Dominican Republic .
+########
+21
+<EOP> .
+########
+22
+The unusually powerful storm is the strongest ever recorded in the Atlantic .
+########
+23
+<EOP> .
+########
+24
+After grazing northern Cuba , Irma is expected to hit the US state of Florida .
+expected	7	ps_cue
+########
+25
+<EOP> .
+########
+26
+<EOP> .
+########
+27
+<EOP> .
+########
+28
+<EOP> .
+########

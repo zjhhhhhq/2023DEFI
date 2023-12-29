@@ -1,0 +1,155 @@
+Was Chinese pop coming to Broadway
+0
+Chinese pop coming to Broadway <EOP> .
+coming	2	CT+	CT+
+########
+1
+2017_09_23 03:16 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+<EOP> .
+########
+4
+Jonathan Lee LRB center RRB , China 's godfather of pop , attended the press release of the Road to Heaven : Jonathan Lee Musical with the US executive producer Don Frantz LRB to the right RRB and chairman of China Broadway Entertainment , Ivy Zhong LRB to the left RRB in New York on Thursday .
+########
+5
+Photo by Zhu Yundi for China Daily .
+########
+6
+<EOP> .
+########
+7
+Jonathan Lee , China 's godfather of pop , is taking his celebrated songs to Broadway as a jukebox musical this year .
+taking	10	CT+	CT+
+########
+8
+<EOP> .
+########
+9
+Produced by China Broadway Entertainment , Road to Heaven : Jonathan Lee Musical is adapted from a novel by Li Xiuwen about a man and a woman and a deathly illness and will feature popular songs by Lee .
+will	32	ps_cue
+########
+10
+<EOP> .
+########
+11
+`` I 'm delighted to have the opportunity to share my music through a new medium , '' said Lee .
+########
+12
+`` The idea that my music can reach a new , global audience through the theater is absolutely thrilling . ''
+can	6	ps_cue
+########
+13
+<EOP> .
+########
+14
+`` There are lots of challenges we have to overcome , because the lyrics of my songs tell different stories , so translating them into English and integrating them into a storyline wo n't be easy .
+n't	33	neg_cue
+########
+15
+There 's not just a language barrier but cultural and historical differences as well , '' Lee said .
+not	2	neg_cue
+########
+16
+<EOP> .
+########
+17
+`` We got the novel from Li Xiuwen , adapted it to a musical and changed it a little bit to create a beautiful musical story , '' said US executive producer Don Frantz .
+little	18	neg_cue
+########
+18
+<EOP> .
+########
+19
+`` We also got Tony Award_winning lyricist Richard Maltby who dove into the lyrics of Jonathan Lee and translated them for us , '' Frantz added .
+########
+20
+<EOP> .
+########
+21
+He said to get the US audience to understand the musical , their creative team had to fully understand it first .
+########
+22
+<EOP> .
+########
+23
+`` The sources and inspiration for this musical come from China , '' artistic director Eric Schaeffer said .
+########
+24
+`` The interpretation and development come from America .
+########
+25
+The goal is to create a new kind of musical theater experience that will be entirely universal . ''
+will	13	ps_cue
+########
+26
+<EOP> .
+########
+27
+Lee said he has a bigger dream for his work taking the Broadway stage .
+########
+28
+<EOP> .
+########
+29
+`` I hope this collaboration can bring more advanced technologies , greater talent from Broadway to China , '' he said .
+hope	2	ps_cue
+can	5	ps_cue
+########
+30
+<EOP> .
+########
+31
+He said musicals have a long history in the West , but the integration of Chinese songs with the performance format of a musical is something rare and new to Chinese audiences .
+rare	26	ps_cue
+########
+32
+<EOP> .
+########
+33
+`` I hope the production of this show can help Chinese musical production teams accumulate more experience , and eventually they will help develop more original Chinese musicals , '' Lee said .
+hope	2	ps_cue
+can	8	ps_cue
+will	21	ps_cue
+########
+34
+<EOP> .
+########
+35
+The team has not yet decided which songs to use in the show .
+not	3	neg_cue
+yet	4	neg_cue
+########
+36
+`` We are still trying and exploring , finding the best songs to integrate into the musical which would best interpret my music on the stage . ''
+would	18	ps_cue
+########
+37
+<EOP> .
+########
+38
+China Broadway Entertainment brought Chinese audiences the musical The Secret adapted from Chinese pop star Jay Chou 's work last December .
+########
+39
+It 's currently enjoying a successful run in China .
+########
+40
+<EOP> .
+########
+41
+On Dec 12 , the Tony_winning Signature Theatre Arlington , Virginia , will stage a reading of Road to Heaven .
+will	12	ps_cue
+########
+42
+Afterwards it will be translated back into Chinese for a world premiere in Shanghai in 2018 .
+will	2	ps_cue
+########
+43
+<EOP> .
+########
+44
+ruinanzhang@chinadailyusa.com <EOP> .
+########

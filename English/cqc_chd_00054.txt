@@ -1,0 +1,75 @@
+Has Myanmar ended the recruitment and use of child soldiers 
+0
+Myanmar strives to end child soldiers <EOP> .
+end	3	CT+	CT+
+########
+1
+2017_06_26 07:02 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+<EOP> .
+########
+4
+YANGON _ Myanmar has released 67 children who were recruited and used in military service .
+released	4	CT+	CT+
+########
+5
+<EOP> .
+########
+6
+Under a joint plan with the United Nations to end and prevent the recruitment and use of child soldiers , 877 such children have been released since the plan was signed in 2012 .
+end	9	CT+	CT+
+plan	3	ps_cue
+prevent	11	neg_cue
+plan	28	ps_cue
+########
+7
+<EOP> .
+########
+8
+The move also underlined the importance of protecting children in armed conflicts and within the peace process , an official statement said .
+########
+9
+<EOP> .
+########
+10
+The freed children are set to benefit from social_economic reintegration programs , including access to education , vocational training and income generating activities , to restart their lives .
+########
+11
+<EOP> .
+########
+12
+Hailing Myanmar 's move , the United Nations Children 's Fund said the UN Country Task Force would continue to work in partnership with the government to completely end the involvement of under_aged children in armed conflicts .
+would	17	ps_cue
+########
+13
+<EOP> .
+########
+14
+Myanmar 's Ministry of Education has also been making efforts to ensure that the released children can start school without delay .
+can	16	ps_cue
+without	19	neg_cue
+########
+15
+<EOP> .
+########
+16
+The Myanmar military has made a high_level review of its joint action plan , acknowledging progress made so far and defining essential remaining steps particularly to strengthen oversight at all the stages of the recruitment process in order to prevent under_aged recruitment .
+plan	12	ps_cue
+prevent	39	neg_cue
+########
+17
+<EOP> .
+########
+18
+Xinhua <EOP> .
+########
+19
+<EOP> .
+########
+20
+LRB China Daily 06_26_2017 page11 RRB <EOP> .
+########

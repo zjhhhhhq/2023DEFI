@@ -1,0 +1,123 @@
+Were people killed in Kabul 
+0
+Seven dead as explosions rock funeral amid tensions and bloodshed in Kabul <EOP> .
+dead	1	CT+	CT+
+########
+1
+2017_06_05 07:40 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+KABUL _ Explosions ripped through the funeral of an Afghan anti_government protester in Kabul on Saturday , killing at least seven people and wounding dozens in fresh carnage that spiked tensions in a city already on edge .
+killing	17	CT+	CT+
+########
+4
+<EOP> .
+########
+5
+The latest killings , which could provoke a new cycle of bloodshed , bring to 101 the number of people killed this week with hundreds injured in one of the worst bouts of violence in the Afghan capital for years .
+killings	2	CT+	CT+
+could	5	ps_cue
+########
+6
+<EOP> .
+########
+7
+Witnesses reported three back_to_back blasts during the burial of Salim Ezadyar , who was among four people killed on Friday when a protest over spiraling insecurity in Kabul degenerated into street clashes with police .
+killed	17	CT+	CT+
+########
+8
+<EOP> .
+########
+9
+`` So far seven dead bodies and 119 wounded people have been brought to Kabul hospitals , '' health ministry spokesman Waheed Majroh said .
+dead	4	CT+	CT+
+########
+10
+<EOP> .
+########
+11
+The funeral of Ezadyar , the son of an influential Afghan senator , was attended by senior government figures including Chief Executive Abdullah Abdullah and Foreign Minister Salahuddin Rabbani , but they escaped unharmed .
+########
+12
+<EOP> .
+########
+13
+No group has so far claimed the attack , with the Taliban _ the biggest insurgent group in Afghanistan _ denying any involvement .
+No	0	neg_cue
+########
+14
+<EOP> .
+########
+15
+The fresh killings are likely to further polarize a city that has been on edge since a truck bombing on Wednesday in Kabul 's diplomatic quarter killed 90 people and wounded hundreds , in the deadliest attack on the Afghan capital since 2001 .
+killings	2	CT+	CT+
+likely	4	ps_cue
+########
+16
+<EOP> .
+########
+17
+President Ashraf Ghani made a televised appeal for national unity after the funeral bombings .
+########
+18
+`` The country is under attack , '' he said .
+########
+19
+`` We must stay strong and united . ''
+########
+20
+<EOP> .
+########
+21
+Wednesday 's assault highlighted the ability of militants to strike even in the capital 's most secure district , home to the presidential palace and foreign embassies that are enveloped in a maze of concrete blast walls .
+########
+22
+The government has blamed the Taliban_allied Haqqani network for the attack .
+########
+23
+<EOP> .
+########
+24
+On Friday , the district center again became a battlefield when hundreds of demonstrators incensed by the bombing clashed with police , prompting officials to beat them back with live rounds in the air , tear gas and water cannon .
+########
+25
+<EOP> .
+########
+26
+The tense week of violence during the holy fasting month of Ramadan has left hospitals in the city overwhelmed , with many running beyond capacity to treat the injured .
+########
+27
+<EOP> .
+########
+28
+Police on Saturday locked down much of Kabul city , with armed checkpoints and armored vehicles patrolling the streets to prevent a repeat of Friday 's clashes .
+prevent	20	neg_cue
+########
+29
+<EOP> .
+########
+30
+The United Nations and a host of international allies have urged restraint by all sides .
+########
+31
+<EOP> .
+########
+32
+`` The attack today , conducted by those opportunistically seeking to use these very fragile moments to destabilize Afghanistan , follows so much violence this week , '' the UN said in a statement .
+seeking	9	ps_cue
+########
+33
+<EOP> .
+########
+34
+`` In the context of so much suffering , now is the time to seek unity and solidarity . ''
+########
+35
+<EOP> .
+########
+36
+Agence France_presse <EOP> .
+########

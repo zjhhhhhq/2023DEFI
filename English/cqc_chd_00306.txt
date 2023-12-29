@@ -1,0 +1,132 @@
+Will Yongzheng period cups fetch 1.8 million pounds at auction
+0
+Yongzheng period cups may fetch 1.8 million pounds at auction <EOP> .
+fetch	4	PS+	PS+
+may	3	ps_cue
+########
+1
+2017_11_07 01:28 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+<EOP> .
+########
+4
+A fine and exquisite pair of famille_rose cups from Qing Dynasty LRB 1644_1911 RRB will go on auction at Sotheby 's London for an estimated 1.8 million pounds .
+will	14	ps_cue
+########
+5
+LRB Photo provided to chinadaily.com.cn RRB <EOP> .
+########
+6
+A pair of cups dating back to the time of Yongzheng , a Chinese emperor from the Qing Dynasty LRB 1644_1911 RRB who died in 1735 , are estimated to fetch around 1.8 million pounds LRB $ 2.4 million RRB when they go up for auction at Sotheby 's London on Wednesday .
+fetch	30	CT+	PS+
+########
+7
+<EOP> .
+########
+8
+They once belonged to one of the 20th century 's most renowned collectors and dealers of Chinese art , Edward T Chow , and have been sold before by Sotheby 's , in 1974 , 2001 , and 2004 .
+########
+9
+<EOP> .
+########
+10
+Sotheby 's said Chow 's expert knowledge of Chinese arts , his high esthetic standards and his relentless demand for quality made him one of the favorite addresses for major collectors , including King Gustav of Sweden and Barbara Hutton .
+########
+11
+<EOP> .
+########
+12
+Chow began his study and collection of Chinese art in Shanghai at an early age , before moving to Hong Kong in the late 1940s , and eventually to Switzerland in 1967 .
+########
+13
+<EOP> .
+########
+14
+`` The cups are absolutely fantastic , beautiful paintings with the typical famille_rose , '' said Robert Bradlow , head of Chinese works of art at the auction house .
+########
+15
+`` There are no other cups like this known , there is a similar pair in Cologne , but they 're not exactly the same and the quality is n't quite like these . ''
+no	3	neg_cue
+like	6	ps_cue
+not	21	neg_cue
+n't	29	neg_cue
+like	31	ps_cue
+########
+16
+<EOP> .
+########
+17
+The Edward T Chow collection remains one of the most coveted provenances for a piece of Chinese art , according to the auction house .
+########
+18
+<EOP> .
+########
+19
+Other highlights of the sale include a large 12_panel coromandel screen , with both sides featuring elaborate carvings .
+########
+20
+While the front depicts 100 birds courting a phoenix , the reverse has a long dedicatory inscription .
+########
+21
+<EOP> .
+########
+22
+`` It 's very unusual that you get screens over three and a half meters high and often coromandel screens were made for European export , this was actually made for Chinese taste , '' Bradlow said .
+########
+23
+<EOP> .
+########
+24
+The Qing Dynasty screen dating to 1693 had been in a French noble collection .
+########
+25
+<EOP> .
+########
+26
+A rare white_glazed lotus vase is also expected to cause a stir among bidders .
+rare	1	ps_cue
+expected	7	ps_cue
+########
+27
+The porcelain vase from the Qianlong period LRB 1736_95 RRB of the Qing Dynasty has a price tag of 600,000 pounds .
+########
+28
+<EOP> .
+########
+29
+And for the first time , Sotheby 's will have a St George Street Sale of Chinese art , featuring lower_value items and smaller collections of quality and interest .
+will	8	ps_cue
+########
+30
+<EOP> .
+########
+31
+Henry Howard_Sneyd , Sotheby 's chairman of Asian Art , Europe and Americas , said : `` In separating important Chinese art into a stand_alone auction , we have put together a tightly_curated , highly_focused selection of some 120 lots . ''
+########
+32
+<EOP> .
+########
+33
+The St George Street Sale will be held on Friday .
+will	5	ps_cue
+########
+34
+<EOP> .
+########
+35
+<EOP> .
+########
+36
+A large and important 12_panel coromandel lacquer screen from the Qing Dynasty screen dating to 1693 is expected to sell for 200,000 pounds at Sotheby 's Important Chinese Art sale .
+expected	17	ps_cue
+########
+37
+LRB Photo provided to chinadaily.com.cn RRB <EOP> .
+########
+38
+<EOP> .
+########

@@ -1,0 +1,55 @@
+Are the bot besting game top players 
+0
+Open AI has created a bot that is taking down top Dota 2 players at The International Dota event held by Valve .
+down	9	CT+	CT+
+########
+1
+<EOP> .
+########
+2
+This year 's big Dota 2 tournament is currently in its second to last day with only four teams remaining in the competition .
+########
+3
+Between the event 's official games , Valve always includes some fun show matches , and this year it brought in Open AI ` s robot to face off against the game 's most famous player , Danil `` Dendi '' Ishutin , live on the main stage .
+against	29	CT+	CT+
+against	29	neg_cue
+########
+4
+<EOP> .
+########
+5
+Open AI said the 1v1 bot has learned from playing against itself in a lifetimes worth of matches .
+against	10	neg_cue
+########
+6
+In a promo video shown before the match , we see the bot besting some of the game 's top players , including Evil Genius ' cores Arteezy and Sumail .
+besting	13	CT+	CT+
+########
+7
+<EOP> .
+########
+8
+In the live Shadow Fiend mirror match against Dendi , the bot executed an impossibly perfect creep block , perfectly balanced creep aggro , and even recognized and canceled Dendi 's healing items .
+against	7	neg_cue
+block	17	neg_cue
+########
+9
+The bot quickly bested Dendi in two matches , leading Dendi to say it 's `` too strong ! ''
+bested	3	CT+	CT+
+########
+10
+Footage of those matches can be found on Dota 2 Rapier 's YouTube channel .
+can	4	ps_cue
+########
+11
+<EOP> .
+########
+12
+Open AI says their next goal is to get the bot ready for the infinitely more complex 5v5 matches , noting it might have something ready for next year .
+ready	11	ps_cue
+might	22	ps_cue
+ready	25	ps_cue
+########
+13
+<EOP> .
+########

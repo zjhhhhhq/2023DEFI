@@ -1,0 +1,143 @@
+Did Jamaican woman become world 's oldest
+0
+At 117 , Jamaican woman likely just became world 's oldest <EOP> .
+became	7	PS+	PS+
+likely	5	ps_cue
+########
+1
+2017_04_18 16:15 <EOP> .
+########
+2
+null <EOP> .
+########
+3
+DUANVALE -- Violet Brown spent much of her life cutting sugarcane in the fields around her home in western Jamaica .
+########
+4
+She attended church regularly , avoids pork and chicken and celebrated her 117th birthday last month .
+########
+5
+<EOP> .
+########
+6
+On Saturday , she is believed to have become the world 's oldest living person following the death of Emma Morano of Italy , born Nov 29 , 1899 .
+become	8	PS+	PS+
+believed	5	ps_cue
+########
+7
+<EOP> .
+########
+8
+Brown told The Associated Press she is surprised but grateful to have lived this long .
+########
+9
+<EOP> .
+########
+10
+`` This is what God has given me , so I have to take it -- long life , '' Brown said in an interview in her home in the town of Duanvale .
+########
+11
+<EOP> .
+########
+12
+Brown is considered to be the oldest person in the world with credible birth documentation , according to Robert Young , director of the supercentenarian research and database division at Gerontology Research Group , a network of volunteer researchers into the world 's oldest people .
+be	4	PS+	PS+
+considered	2	ps_cue
+########
+13
+Its website says she was born on March 10 , 1900 .
+########
+14
+<EOP> .
+########
+15
+Brown has not yet been declared the world 's oldest by Guinness World Records , considered to be the official arbiter of the oldest person title but Guinness depends heavily on Young 's group .
+not	2	neg_cue
+yet	3	neg_cue
+considered	15	ps_cue
+########
+16
+Young said he has met Brown and examined her birth certificate , which was issued by the British authorities who governed Jamaica at the time of her birth .
+########
+17
+<EOP> .
+########
+18
+`` She 's the oldest person that we have sufficient documentation for at this time , '' Young said .
+########
+19
+<EOP> .
+########
+20
+Jamaica 's prime minister congratulated Brown on Twitter .
+########
+21
+<EOP> .
+########
+22
+Guinness said it was researching a number of candidates for the new world 's oldest person title .
+########
+23
+<EOP> .
+########
+24
+`` It can be a uniquely complex and sometimes lengthy process , '' Guinness spokeswoman Elizabeth Montoya said .
+can	2	ps_cue
+########
+25
+`` There is no confirmation of a new title holder until our thorough processes are complete .
+no	3	neg_cue
+########
+26
+`` Brown has two caregivers and spends most of the day resting in the home she shares with her 97_year_old son .
+########
+27
+She is able to sit up by herself and walk short distances .
+########
+28
+And while she is hard of hearing , she offered swift , complete responses to questions about her life and family .
+########
+29
+<EOP> .
+########
+30
+The secret to long life is hard work , she said .
+########
+31
+<EOP> .
+########
+32
+`` I was a cane farmer .
+########
+33
+I would do every work myself , '' she said .
+would	1	ps_cue
+########
+34
+`` I worked , me and my husband , over that hill .
+########
+35
+`` She also credited her Christian faith for her long life .
+########
+36
+<EOP> .
+########
+37
+`` I 've done nearly everything at the church , '' she said .
+########
+38
+`` I spent all my time in the church .
+########
+39
+I like to sing .
+like	1	ps_cue
+########
+40
+I spent all my time in the church from a child to right up , '' to today , she said .
+########
+41
+<EOP> .
+########
+42
+AP <EOP> .
+########

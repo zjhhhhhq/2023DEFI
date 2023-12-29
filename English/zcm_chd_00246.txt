@@ -1,0 +1,162 @@
+Do US companies learn more about the transnational trade network
+0
+US firms in Belt and Road discovery stage <EOP> .
+########
+1
+2017_04_26 11:18 <EOP> .
+########
+2
+China Daily USA <EOP> .
+########
+3
+<EOP> .
+########
+4
+US companies can partake in the China_proposed Belt and Road Initiative , but they need to learn more about the transnational trade network , researchers from some Washington think tanks said .
+learn	16	PS+	PS+
+can	2	ps_cue
+need	14	ps_cue
+########
+5
+<EOP> .
+########
+6
+`` Before you can change policy , you need to educate people as to what are the opportunities '' said David Lampton , director of China studies at Johns Hopkins University 's School of Advanced International Studies LRB SAIS RRB .
+educate	10	PS+	PS+
+need	8	ps_cue
+can	3	ps_cue
+opportunities	17	ps_cue
+########
+7
+<EOP> .
+########
+8
+`` As a matter of policy , we can support the Asian Development Bank working with the Asian Infrastructure Investment Bank , or the World Bank working with the AIIB , '' he said .
+can	8	ps_cue
+or	22	ps_cue
+########
+9
+`` But to become active LRB in the initiative RRB is a political decision . ''
+########
+10
+<EOP> .
+########
+11
+On a world map at his SAIS office , Lampton used a marking pen to connect the dots linking Southwest China 's Kunming city to major south Asian cities including Singapore , Hanoi and Bangkok to form three bold lines , along which he said mammoth railway projects would be undertaken to enhance connectivity in Asia , which is the signature concept of the Belt and Road Initiative .
+would	48	ps_cue
+########
+12
+<EOP> .
+########
+13
+`` Each of these three lines is longer than the Transcontinental Railroad , the line that changed the US , '' Lampton said .
+########
+14
+`` All these railroads will need equipment , signaling , money and commercial development .
+will	4	ps_cue
+need	5	ps_cue
+########
+15
+Why should n't General Electric that builds railroads and signaling do it ? ''
+should	1	ps_cue
+n't	2	neg_cue
+########
+16
+<EOP> .
+########
+17
+The Belt and Road Initiative , comprising the Silk Road Economic Belt and the 21st Century Maritime Silk Road , was first proposed by China in 2013 , with the aim of building a trade and infrastructure network connecting Asia with Europe and Africa along the ancient trade routes .
+proposed	22	ps_cue
+########
+18
+<EOP> .
+########
+19
+<EOP> .
+########
+20
+<EOP> .
+########
+21
+Lampton said the Chinese initiative is popular partly because nations neighboring China and beyond find the need to cooperate with China to improve infrastructure and interconnectivity .
+need	16	ps_cue
+########
+22
+<EOP> .
+########
+23
+The author of Following the Leader Ruling China , From Deng Xiaoping to Xi Jinping said his next book will help the public and US multinational companies discover what he sees as tremendous opportunities arising from connectivity projects .
+will	19	ps_cue
+opportunities	33	ps_cue
+########
+24
+<EOP> .
+########
+25
+Last Thursday , World Bank President Jim Yong Kim called the Belt and Road initiative `` unprecedented '' .
+########
+26
+<EOP> .
+########
+27
+`` China has been stepping up and illustrating that it 's concerned about development , not just in the neighboring countries or even along the Old Silk Road , but globally , '' Kim said , adding that the World Bank is cooperating well with the AIIB .
+not	15	neg_cue
+or	21	ps_cue
+########
+28
+<EOP> .
+########
+29
+Douglas Paal , vice_president for studies at the Carnegie Endowment for International Peace , said the Obama administration `` made a huge mistake by taking a negative attitude on the AIIB '' .
+negative	26	neg_cue
+########
+30
+<EOP> .
+########
+31
+`` I welcome the posture taken by China 's leadership to open this more to others ' participation , '' Paal said , adding that he expected more concrete plans to come out of the Belt and Road Forum for International Cooperation , which opens on May 14 in Beijing .
+expected	26	ps_cue
+plans	29	ps_cue
+May	46	ps_cue
+########
+32
+<EOP> .
+########
+33
+Cheng Li , director of the John L. Thornton China Center at the Brookings Institution , said the forum would help the world know more about China 's investment in infrastructure , both regionally and globally .
+would	19	ps_cue
+########
+34
+<EOP> .
+########
+35
+He said the Belt and Road Initiative is basically a reinvestment in infrastructure and is an active supplement to institutions involved in infrastructure , such as the World Bank and Asian Development Bank .
+########
+36
+<EOP> .
+########
+37
+`` The Western understanding of the Belt and Road Initiative has just begun , '' Li said .
+########
+38
+`` Increasingly , the academics , government and particularly business circles in the US will get more interested in the initiative . ''
+will	14	ps_cue
+########
+39
+<EOP> .
+########
+40
+David Dollar , a senior fellow at the Brookings Institution and a former US Treasury emissary in Beijing , said that `` there are potentially opportunities for the US companies in the initiative ; a lot will depend on how China works out all the details of the different financing legalities . ''
+potentially	24	ps_cue
+opportunities	25	ps_cue
+will	36	ps_cue
+########
+41
+<EOP> .
+########
+42
+huanxinzhao@chinadailyusa.com <EOP> .
+########
+43
+LRB China Daily USA 04_26_2017 page2 RRB <EOP> .
+########

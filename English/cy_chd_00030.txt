@@ -1,0 +1,216 @@
+Does US president back plan with Canada, Mexico
+0
+Secure stadiums the Trump card in joint World Cup 2026 bid <EOP> .
+########
+1
+2017_04_12 07:18 <EOP> .
+########
+2
+null <EOP> .
+########
+3
+US president backs plan with Canada , Mexico <EOP> .
+backs	2	CT+	CT+
+plan	3	ps_cue
+########
+4
+<EOP> .
+########
+5
+Sunil Gulati , LRB center RRB president of the United States Soccer Federation LRB USSF RRB , Canadian CONCACAF President Victor Montagliani LRB left RRB and Mexican Football Federation President Decio De Maria hold up a signed unified bid for the 2026 soccer world cup on April 10 , 2017 in New York City .
+########
+6
+LRB Photo_VCG RRB <EOP> .
+########
+7
+NEW YORK _ With dozens of secure , tournament_ready venues to choose from , the United States , Canada and Mexico on Monday announced a joint bid to stage the 2026 World Cup , aiming to become the first three_way co_hosts of FIFA 's showpiece tournament .
+########
+8
+<EOP> .
+########
+9
+US Soccer Federation chief Sunil Gulati , who announced the bid in New York with his Canadian and Mexican counterparts , said they had the backing of President Donald Trump , despite the American leader 's rocky relations with Mexico .
+backing	25	CT+	CT+
+########
+10
+<EOP> .
+########
+11
+Gulati said 60 matches would be staged in the United States , with Canada and Mexico hosting 10 games each .
+would	4	ps_cue
+########
+12
+The US would host all knockout games from the quarterfinals onwards , he added .
+would	2	ps_cue
+########
+13
+<EOP> .
+########
+14
+He played down suggestions that politics could hamper the bid , claiming Trump was `` especially pleased '' with Mexico 's involvement .
+could	6	ps_cue
+claiming	11	ps_cue
+########
+15
+<EOP> .
+########
+16
+`` The president of the US is fully supportive ... we are not at all concerned at some of the concerns that some people may raise , '' Gulati said .
+supportive	8	CT+	CT+
+not	12	neg_cue
+may	24	ps_cue
+raise	25	ps_cue
+########
+17
+<EOP> .
+########
+18
+Trump was elected last year after a campaign marked by rhetoric against Mexico , vowing to build a wall to keep out illegal immigrants he branded `` criminals '' and `` rapists '' .
+against	11	neg_cue
+########
+19
+<EOP> .
+########
+20
+The joint bid will start as the heavy early favorite in the race , despite US prosecutors leading the probe into soccer corruption that rocked the sport in 2015 and led to the downfall of former FIFA supremo Sepp Blatter .
+will	3	ps_cue
+########
+21
+<EOP> .
+########
+22
+Open secret <EOP> .
+########
+23
+A North American bid for 2026 had long been regarded as inevitable .
+########
+24
+<EOP> .
+########
+25
+That sense of certainty hardened last year , when FIFA 's council ruled that neither Europe nor Asia would be eligible to run for the 2026 tournament because the regions are hosting the next two World Cups : Russia in 2018 , followed by Qatar in 2022 .
+neither	14	neg_cue
+nor	16	neg_cue
+would	18	ps_cue
+########
+26
+<EOP> .
+########
+27
+With Europe and Asia ineligible , CONCACAF _ the body which represents North , Central American and Caribbean soccer _ could face competition from the Africa , South America and the Oceania confederations .
+could	20	ps_cue
+########
+28
+<EOP> .
+########
+29
+US soccer officials were coy about the possibility of a future World Cup bid since the country lost out to Qatar for 2022 at a corruption_tarnished vote in Zurich in 2010 .
+possibility	7	ps_cue
+########
+30
+<EOP> .
+########
+31
+However , the prospect of a fresh North American bid gathered momentum in 2014 after the World Cup in Brazil .
+########
+32
+<EOP> .
+########
+33
+That campaign captured the imagination of enough US sports fans to result in huge crowds attending public screenings of games at cities across the country .
+########
+34
+<EOP> .
+########
+35
+The club game is also booming in the US , with record numbers attending Major League Soccer in 2016 .
+########
+36
+<EOP> .
+########
+37
+The US also burnished its credentials as a major_tournament host with last year 's 16_team Copa America Centenario .
+########
+38
+<EOP> .
+########
+39
+The US first hosted the World Cup in 1994 , staging a commercially successful 24_team tournament that played out to packed stadia .
+########
+40
+<EOP> .
+########
+41
+That tournament remains the most attended World Cup in history , with just over 3.5 million fans flocking to its 52 games , an average of 68,991 per match .
+########
+42
+<EOP> .
+########
+43
+Mexico has hosted the World Cup twice before _ 1970 and 1986 .
+########
+44
+<EOP> .
+########
+45
+Canada , which has only one World Cup finals appearance , in 1986 , has never hosted the tournament .
+never	15	neg_cue
+########
+46
+But the hockey_mad country earned plaudits for its staging of the Women 's World Cup in 2015 .
+########
+47
+<EOP> .
+########
+48
+Under FIFA plans for its expanded 48_team World Cup , CONCACAF will be awarded six berths .
+plans	2	ps_cue
+will	11	ps_cue
+########
+49
+<EOP> .
+########
+50
+Gulati indicated that officials expected all three host nations to be granted places .
+expected	4	ps_cue
+########
+51
+<EOP> .
+########
+52
+`` There has never been a World Cup where the host countries have not been qualified , '' Gulati said .
+never	3	neg_cue
+not	13	neg_cue
+########
+53
+<EOP> .
+########
+54
+A North American tournament is also likely to be attractive to FIFA for public_relations reasons .
+likely	6	ps_cue
+########
+55
+<EOP> .
+########
+56
+With state_of_the_art venues in every US state and Canadian province and dozens more in Mexico to choose from , there is little risk of stadiums being left to rot as white elephants when the event ends _ a problem that affected the 2010 World Cup in South Africa and 2014 edition in Brazil .
+little	21	neg_cue
+########
+57
+<EOP> .
+########
+58
+`` We have the luxury of having stadiums that already exist in all three nations , '' Gulati said .
+########
+59
+<EOP> .
+########
+60
+Agence France_Presse <EOP> .
+########
+61
+<EOP> .
+########
+62
+<EOP> .
+########

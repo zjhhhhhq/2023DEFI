@@ -1,0 +1,78 @@
+Do UK house prices rise 
+0
+UK house prices rise by more than expected in November <EOP> .
+rise	3	PS+	PS+
+expected	7	ps_cue
+########
+1
+2017_12_07 19:55 <EOP> .
+########
+2
+Agencies <EOP> .
+########
+3
+LONDON _ British house prices rose by more than expected in November and for a fifth month in a row , mortgage lender Halifax said on Thursday .
+rose	5	PS+	PS+
+expected	9	ps_cue
+########
+4
+<EOP> .
+########
+5
+House prices rose 0.5 percent month_on_month after a 0.3 percent rise in October , Halifax said , topping the consensus in a Reuters poll of economists for a 0.2 percent rise .
+rose	2	CT+	PS+
+########
+6
+<EOP> .
+########
+7
+But house price growth slowed on an annual basis to 3.9 percent in the three months to November , following a 4.5 percent rise in October .
+growth	3	CT+	PS+
+########
+8
+<EOP> .
+########
+9
+`` The imbalance between supply and demand continues to support house prices , which does n't look like changing in the near future , '' Russell Galley , managing director of Halifax Community Bank , said .
+n't	15	neg_cue
+like	17	ps_cue
+########
+10
+<EOP> .
+########
+11
+Other data suggest the housing market is slowing .
+suggest	2	ps_cue
+########
+12
+Nationwide , a different mortgage lender , has reported a weaker pace of house price growth recently and the Bank of England has said mortgage approvals have fallen to a more than 1_year low .
+########
+13
+<EOP> .
+########
+14
+The figures come two weeks after Chancellor Philip Hammond delivered a budget that included measures to help first_time buyers and spur more housebuilding .
+########
+15
+<EOP> .
+########
+16
+`` Even if successful , the chancellor 's measures to boost house building in the budget will take time to have a significant effect so are unlikely to markedly influence house prices in the near term at least , '' Howard Archer , chief economic adviser to the EY ITEM Club consultancy , said .
+will	16	ps_cue
+unlikely	26	ps_cue
+unlikely	26	neg_cue
+########
+17
+<EOP> .
+########
+18
+He added that house prices are likely to rise between 2 and 3 percent in 2018 .
+rise	8	PS+	PS+
+likely	6	ps_cue
+########
+19
+<EOP> .
+########
+20
+<EOP> .
+########

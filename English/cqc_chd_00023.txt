@@ -1,0 +1,76 @@
+Whether South Korea talks with North Korea
+0
+ROK offers military , Red Cross talks with DPRK <EOP> .
+talks	6	CT+	CT+
+########
+1
+2017_07_17 11:10 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+SEOUL _ The Republic of Korea LRB ROK RRB on Monday offered military and Red Cross talks with the Democratic People 's Republic of Korea LRB DPRK RRB to ease military tensions along the inter_Korean border and resume humanitarian exchange between peoples of the two sides .
+talks	16	CT+	CT+
+########
+4
+<EOP> .
+########
+5
+Vice Defense Minister Suh Choo_suk said in a statement at the defense ministry that the ROK proposed to the DPRK for holding talks of the military authorities on Friday at Tongilgak , a building in the DPRK side of the truce village of Panmunjom .
+said	5	CT+	CT+
+proposed	16	ps_cue
+########
+6
+<EOP> .
+########
+7
+The dialogue was aimed at stopping all hostile acts that escalate military tensions near the military demarcation line LRB MDL RRB dividing the two Koreas , the vice minister said .
+stopping	5	neg_cue
+########
+8
+<EOP> .
+########
+9
+Suh called on Pyongyang to restore the military communications line in the western region to send a reply to the ROK 's dialogue overture , expressing anticipation of the DPRK 's positive response .
+reply	17	CT+	CT+
+########
+10
+<EOP> .
+########
+11
+The dialogue overture was a follow_up measure to the ROK President Moon Jae_in 's peace initiative , declared in Berlin on July 6 , to stop all hostile acts along the inter_Korean border on the date of July 27 that marks the 64th anniversary of the ceasefire agreement ending the 1950_1953 Korean War .
+dialogue	1	CT+	CT+
+stop	25	neg_cue
+########
+12
+<EOP> .
+########
+13
+In his Berlin speech , Moon also proposed holding Red Cross talks with the DPRK for the reunion of separate families of the two Koreas on Oct 4 that marks the 10th anniversary of the Oct 4 joint declaration and also the traditional Chuseok holiday .
+speech	3	CT+	CT+
+proposed	7	ps_cue
+########
+14
+<EOP> .
+########
+15
+The Oct 4 declaration was the outcome of the inter_Korean summit that was held in Pyongyang in 2007 between late ROK President Roh Moo_hyun and late DPRK leader Kim Jong Il , father of the current leader Kim Jong Un .
+########
+16
+<EOP> .
+########
+17
+As another follow_up measure to Moon 's initiative , the ROK Red Cross proposed to its DPRK counterpart holding humanitarian talks on Aug 1 at the Peace House , a building in the ROK side of Panmunjom .
+proposed	13	ps_cue
+########
+18
+<EOP> .
+########
+19
+The dialogue was designed to hold a reunion event of families , who have been separated since the 1950_1953 Korean War ended in armistice , on the occasion of the Chuseok holiday in early October .
+dialogue	1	CT+	CT+
+########
+20
+<EOP> .
+########

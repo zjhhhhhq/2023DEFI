@@ -1,0 +1,40 @@
+Does storm kill 11 people
+0
+Storm kills 11 people , injures dozens in Moscow <EOP> .
+kills	1	CT+	CT+
+########
+1
+2017_05_30 06:44 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+MOSCOW __ Sudden gales and heavy rain on Monday afternoon left at least 11 people dead and about 70 others injured in Moscow , the city mayor Sergei Sobyanin said .
+dead	15	CT+	CT+
+########
+4
+<EOP> .
+########
+5
+The injured are receiving medical treatment and families of the casualties will be financially compensated , said Sobyanin , adding that the storm caused so much damage because it rarely happened in the daytime .
+will	11	ps_cue
+########
+6
+<EOP> .
+########
+7
+The gales , with a speed of more than 80 kilometers per hour , knocked down several hundred trees and destroyed buildings in the Russian capital .
+########
+8
+<EOP> .
+########
+9
+An electricity transmission line broke down in the storm , affecting 7,300 households .
+########
+10
+The bad weather also disrupted road , railway and air traffic .
+########
+11
+<EOP> .
+########

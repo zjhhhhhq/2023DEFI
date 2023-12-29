@@ -1,0 +1,90 @@
+Is there a threat to release additional stolen contents days
+0
+HBO hacked , hackers reportedly threaten to leak additional data <EOP> .
+########
+1
+2017_08_05 16:49 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+LOS ANGELES __ Unidentified Hackers have issued a threat to release additional stolen contents days after leaking unaired episodes of the entertainment giant Home Box Office LRB HBO RRB in Hollywood .
+release	10	CT+	CT+
+########
+4
+<EOP> .
+########
+5
+The hackers said in an automated email that it will `` release the leaks gradually every week , '' with the next release coming `` Sunday 12 GMT , '' a roll_out that echoes HBO 's own original programming schedule .
+release	11	CT+	CT+
+will	9	ps_cue
+########
+6
+<EOP> .
+########
+7
+The hackers claimed to have stolen 1.5 terabytes of data from HBO and promised more leaks after releasing a script for the upcoming episode `` Game of Thrones '' Season 7 as well as videos of unaired shows such as `` Ballers '' and `` Room 104 '' , Entertainment Weekly reported Monday .
+releasing	17	CT+	CT+
+########
+8
+<EOP> .
+########
+9
+HBO , owned by media giant Time Warner Inc. , later confirmed the cyber attack on its network and released a statement , saying `` HBO recently experienced a cyber incident , which resulted in the compromise of proprietary information . ''
+########
+10
+<EOP> .
+########
+11
+The company said it `` immediately began investigating the incident and are working with law enforcement and outside cybersecurity firms .
+########
+12
+Data protection is a top priority at HBO , and we take seriously our responsibility to protect the data we hold . ''
+########
+13
+<EOP> .
+########
+14
+The hackers anonymously emailed several reporters about the hack on Sunday , saying `` the greatest leak of cyber space era is happening , '' according to Entertainment Weekly .
+########
+15
+<EOP> .
+########
+16
+`` The problem before us is unfortunately too familiar in the world we now find ourselves a part of .
+########
+17
+As has been the case with any challenge we have ever faced , I have absolutely no doubt that we will navigate our way through this successfully , '' HBO 's chairman and CEO Richard Plepler said .
+no	16	neg_cue
+will	20	ps_cue
+########
+18
+<EOP> .
+########
+19
+For years , the entertainment company has been fighting hard to prevent `` Game of Thrones '' storylines from leaking .
+prevent	11	neg_cue
+########
+20
+In 2015 , the first four episodes of Season 5 were leaked online before aired .
+########
+21
+<EOP> .
+########
+22
+However , HBO is not the only target of cybercriminals .
+not	4	neg_cue
+########
+23
+Netflix was attacked in April by a hacker , who uploaded episodes of the new season of `` Orange Is the New Black . ''
+########
+24
+<EOP> .
+########
+25
+The biggest Hollywood hack victim has been Sony Pictures Entertainment , whose approximately 100 terabytes of data were uploaded online in 2014 , when it was about to release a fictional comedy about attempting to assassinate the leader of the Democratic People 's Republic of Korea Kim Jong_un .
+########
+26
+<EOP> .
+########

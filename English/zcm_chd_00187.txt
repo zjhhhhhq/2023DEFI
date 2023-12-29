@@ -1,0 +1,171 @@
+Did US President Donald Trump undermine the agency 's investigation of possible collusion
+0
+Comey says Trump fired him to undermine FBI Russia investigation <EOP> .
+########
+1
+2017_06_09 04:48 <EOP> .
+########
+2
+null <EOP> .
+########
+3
+<EOP> .
+########
+4
+Former Federal Bureau of Investigations Director James Comey departs after testifying before a closed session of the Senate Intelligence Committee on Capitol Hill in Washington , DC , US , June 8 , 2017 .
+########
+5
+LRB Photo_Agencies RRB <EOP> .
+########
+6
+WASHINGTON _ Former FBI Director James Comey accused US President Donald Trump on Thursday of firing him to try to undermine the agency 's investigation of possible collusion by Trump 's campaign with Russia 's alleged efforts to influence the 2016 presidential election .
+undermine	20	CT+	CT+
+possible	26	ps_cue
+########
+7
+<EOP> .
+########
+8
+In the most eagerly anticipated US congressional hearing in years , Comey told lawmakers the Trump administration had lied and defamed him and the Federal Bureau of Investigation after the president dismissed him on May 9 .
+May	34	ps_cue
+########
+9
+<EOP> .
+########
+10
+During more than two hours of testimony , Comey told the Senate Intelligence Committee he believed Trump had directed him in February to drop an FBI probe into the Republican president 's former national security adviser , Michael Flynn , as part of the broader Russia investigation .
+believed	15	ps_cue
+########
+11
+<EOP> .
+########
+12
+Comey would not say whether he thought the president sought to obstruct justice , but added it would be up to special counsel Robert Mueller , who is now investigating the Russia allegations , `` to sort that out . ''
+would	1	ps_cue
+not	2	neg_cue
+whether	4	ps_cue
+would	17	ps_cue
+########
+13
+<EOP> .
+########
+14
+`` I do n't think it 's for me to say whether the conversation I had with the president was an effort to obstruct .
+n't	3	neg_cue
+whether	11	ps_cue
+########
+15
+I took it as a very disturbing thing , very concerning , '' Comey testified .
+########
+16
+<EOP> .
+########
+17
+Sitting alone at a small table facing a bank of senators who fired question after question , Comey gave short , deliberative answers .
+question	13	ps_cue
+question	15	ps_cue
+gave	18	neg_cue
+########
+18
+He painted a picture of an overbearing president he did not trust and who pressured him to stop the FBI probe of Flynn .
+stop	17	CT+	CT+
+not	10	neg_cue
+stop	17	neg_cue
+########
+19
+<EOP> .
+########
+20
+Trump critics say any efforts by the president to hinder an FBI probe could amount to obstruction of justice .
+hinder	9	CT+	CT+
+could	13	ps_cue
+########
+21
+Such an offense potentially could lead to Trump being impeached , although his fellow Republicans who control Congress have shown little appetite for such a move .
+potentially	3	ps_cue
+could	4	ps_cue
+little	20	neg_cue
+########
+22
+<EOP> .
+########
+23
+In a speech to supporters across town , Trump vowed to fight on .
+########
+24
+`` We 're under siege ... but we will come out bigger and better and stronger than ever , '' he said .
+will	8	ps_cue
+########
+25
+<EOP> .
+########
+26
+Comey did not make any major disclosures about any links between Trump or his associates and Russia , an issue that has dogged the president 's first months in office and distracted from his policy goals such as overhauling the US healthcare system and making tax cuts .
+not	2	neg_cue
+or	12	ps_cue
+########
+27
+<EOP> .
+########
+28
+Russia has denied such interference .
+denied	2	neg_cue
+########
+29
+The White House has denied any collusion with Moscow .
+denied	4	neg_cue
+########
+30
+<EOP> .
+########
+31
+Nevertheless , the Russia matter likely will continue to overshadow Trump 's presidency , especially as the FBI probe has ensnared not only Flynn but Trump 's son_in_law and adviser , Jared Kushner .
+likely	5	ps_cue
+will	6	ps_cue
+not	21	neg_cue
+########
+32
+<EOP> .
+########
+33
+Attorney General Jeff Sessions has had to recuse himself from the investigation .
+########
+34
+Comey 's testimony drew renewed attention to Sessions and his relationship with Russia 's ambassador to the United States , Sergei Kislyak .
+########
+35
+<EOP> .
+########
+36
+After Trump fired Comey , the administration gave differing reasons for his dismissal .
+gave	7	neg_cue
+########
+37
+Trump later contradicted his own staff and acknowledged on May 11 he fired Comey because of the Russia matter .
+May	9	ps_cue
+########
+38
+<EOP> .
+########
+39
+Asked why he thought Trump fired him , Comey said he did not know for sure .
+not	12	neg_cue
+########
+40
+He added : `` Again , I take the president 's words .
+########
+41
+I know I was fired because of something about the way I was conducting the Russia investigation was in some way putting pressure on him , in some way irritating him , and he decided to fire me because of that . ''
+########
+42
+<EOP> .
+########
+43
+Comey said repeatedly there were details he could not discuss in a public session , making clear he had sensitive information he could disclose only in a closed session with the senators .
+could	7	ps_cue
+not	8	neg_cue
+could	22	ps_cue
+########
+44
+<EOP> .
+########

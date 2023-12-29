@@ -1,0 +1,87 @@
+Do US Republicans scrape Senate voting on Obamacare repeal
+0
+US Republicans scrape Senate voting on Obamacare repeal <EOP> .
+voting	4	PS-	PS-
+########
+1
+2017_09_27 09:54 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+WASHINGTON _ US Republican senators on Tuesday decided not to vote on their latest Obamacare repeal bill after it was clear their latest effort would fail .
+vote	10	CT-	PS-
+not	8	neg_cue
+would	24	ps_cue
+fail	25	neg_cue
+########
+4
+<EOP> .
+########
+5
+`` We made the decision since we do n't have the votes , we 're going to postpone it , '' said Senator Bill Cassidy after the Republican lawmakers met at their weekly luncheon .
+n't	8	neg_cue
+########
+6
+<EOP> .
+########
+7
+`` We have n't given up on changing the American health care system , '' Senate Majority Leader Mitch McConnell said .
+n't	3	neg_cue
+########
+8
+`` We are not going to be able to do that this week , but it still lies ahead of us , and we have n't given up on that . ''
+not	3	neg_cue
+n't	25	neg_cue
+########
+9
+<EOP> .
+########
+10
+The last_gasp drive was aimed to kill off the Affordable Care Act , known as Obamacare , dismantling its insurance subsidy program and Medicaid expansion and convert their funding into block grants to states .
+block	30	neg_cue
+########
+11
+<EOP> .
+########
+12
+Three Republican senators have announced their opposition to the repeal proposal , ensuring that Republican senate leaders would be short of the votes they needed .
+opposition	6	neg_cue
+would	17	ps_cue
+########
+13
+<EOP> .
+########
+14
+Among them , Rand Paul said the repeal bill would have left too much of Obamacare in place .
+would	9	ps_cue
+########
+15
+John McCain said he would be voting no in large part because of a process he said was rushed and excluded Democrats .
+would	4	ps_cue
+no	7	neg_cue
+########
+16
+<EOP> .
+########
+17
+Republican Senator Susan Collins from the northeastern US state of Maine announced her opposition to the repeal bill on Monday , citing its cuts to Medicaid and its lack of protection for people with pre_existing conditions .
+opposition	13	neg_cue
+lack	28	neg_cue
+########
+18
+<EOP> .
+########
+19
+In response , Democrats in the Senate urged their Republican colleagues to resume bipartisan negotiations to stabilize health insurance markets under the Obamacare .
+########
+20
+<EOP> .
+########
+21
+Republicans hold a slim 52_48 majority in the Senate and must pass the bill with a simple majority before Sept 30 deadline .
+########
+22
+<EOP> .
+########

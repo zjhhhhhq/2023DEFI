@@ -1,0 +1,101 @@
+Do China and Finland have further advance bilateral ties 
+0
+China , Finland agree to further advance bilateral ties <EOP> .
+further	5	CT+	CT+
+########
+1
+2017_11_07 09:01 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+<EOP> .
+########
+4
+Chinese Premier Li Keqiang LRB R RRB meets with Speaker of the Finnish Parliament Maria Lohela in Beijing , capital of China , Nov 6 , 2017 .
+########
+5
+LRB Photo_Xinhua RRB <EOP> .
+########
+6
+The pledge came as Finnish Parliament Speaker Maria Lohela met with Chinese Premier Li Keqiang , and held talks with Chinese top legislator Zhang Dejiang in Beijing .
+########
+7
+<EOP> .
+########
+8
+Li told Lohela China had always adhered to a policy of mutual respect and equality , which was an important principle in safeguarding world peace and multiculturalism .
+########
+9
+<EOP> .
+########
+10
+He said China was willing to enhance cooperation in the areas that Finland had advantages , such as innovation , clean energy , environmental protection and vocational education .
+willing	4	ps_cue
+########
+11
+<EOP> .
+########
+12
+Lohela said Finland was ready to work with China to take a long_term perspective to develop bilateral ties .
+develop	15	CT+	CT+
+ready	4	ps_cue
+########
+13
+<EOP> .
+########
+14
+During her talks with Zhang , chairman of the Standing Committee of the National People 's Congress LRB NPC RRB , later on Monday , Lohela was briefed by Zhang on the recent 19th National Congress of the Communist Party of China .
+########
+15
+<EOP> .
+########
+16
+Calling Finland a major Nordic country and EU member , Zhang said he hoped Finland could exert a positive influence on the development of China_EU relations .
+hoped	13	ps_cue
+could	15	ps_cue
+########
+17
+<EOP> .
+########
+18
+He suggested the NPC and the Finnish Parliament intensify exchanges at various levels to enhance mutual understanding and political trust .
+enhance	14	CT+	CT+
+suggested	1	ps_cue
+########
+19
+<EOP> .
+########
+20
+`` The two legislatures need to create a better policy and legal environment for the economic cooperation on key areas of innovation , green development and coordinated development , '' Zhang said .
+need	4	ps_cue
+########
+21
+<EOP> .
+########
+22
+He also called for closer cultural exchanges and local cooperation .
+########
+23
+<EOP> .
+########
+24
+Lohela said Chinese President Xi Jinping 's state visit to Finland last April consolidated and lifted bilateral ties .
+########
+25
+<EOP> .
+########
+26
+`` The Finnish Parliament is willing to work with the NPC to create a sound environment for bilateral cooperation in areas of economy and trade , culture , tourism , small and medium enterprises investment from a new starting point , '' she said .
+willing	5	ps_cue
+########
+27
+<EOP> .
+########
+28
+Lohela is here for a six_day visit , which started Sunday , at the invitation of Zhang .
+########
+29
+<EOP> .
+########

@@ -1,0 +1,87 @@
+Is there support available for people with mental health disorders
+0
+300 million people suffer from depression : WHO estimates <EOP> .
+########
+1
+2017_04_01 09:24 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+UNITED NATIONS _ More than 300 million people are now living with depression , which is the leading cause of ill health and disability worldwide , according to the latest estimates from the World Health Organization LRB WHO RRB .
+########
+4
+<EOP> .
+########
+5
+The UN agency released the estimates Thursday ahead of World Health Day .
+########
+6
+<EOP> .
+########
+7
+`` These new figures are a wake_up call for all countries to re_think their approaches to mental health and to treat it with the urgency that it deserves , '' WHO Director_General Margaret Chan said in a news release .
+########
+8
+<EOP> .
+########
+9
+With the number of people with depression increasing more than 18 percent from 2005 to 2015 , WHO is carrying out a year_long campaign , Depression : Let 's Talk , the focus of April 7 's World Health Day , with the aim of encouraging more people with depression to get help .
+########
+10
+<EOP> .
+########
+11
+Lack of support for people with mental disorders , coupled with a fear of stigma , prevent many from accessing the treatment they need to live healthy , productive lives .
+support	2	CT-	CT-
+prevent	16	neg_cue
+need	23	ps_cue
+########
+12
+<EOP> .
+########
+13
+Depression is an important risk factor for suicide , which claims hundreds of thousands of lives each year , says the report .
+########
+14
+<EOP> .
+########
+15
+One of the first steps is to address issues around prejudice and discrimination .
+########
+16
+<EOP> .
+########
+17
+`` The continuing stigma associated with mental illness was the reason why we decided to name our campaign Depression : let 's talk , '' said Shekhar Saxena , Director of the Department of Mental Health and Substance Abuse at WHO .
+########
+18
+`` For someone living with depression , talking to a person they trust is often the first step towards treatment and recovery . ''
+########
+19
+<EOP> .
+########
+20
+Increased investment is also needed .
+########
+21
+In many countries , there is no , or very little , support available for people with mental health disorders .
+support	12	CT-	CT-
+no	6	neg_cue
+or	8	ps_cue
+little	10	neg_cue
+########
+22
+Even in high_income countries , nearly 50 percent of people with depression do not get treatment .
+not	13	neg_cue
+########
+23
+<EOP> .
+########
+24
+On average , just three percent of government health budgets is invested in mental health , varying from less than one percent in low_income countries to five percent in high_income countries , says the report .
+########
+25
+<EOP> .
+########

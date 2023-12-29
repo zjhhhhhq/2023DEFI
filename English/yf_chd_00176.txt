@@ -1,0 +1,55 @@
+Does Harvard agree to submit student records to Justice Department
+0
+Harvard agrees to submit student records to Justice Department <EOP> .
+agrees	1	CT+	CT+
+########
+1
+2017_12_06 11:55 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+Harvard would turn over years of confidential applicant and student records to the United States Justice Department as the college was suspected of discriminating against Asian_American applicants , according to the Harvard Crimsonon Saturday .
+turn	2	CT+	CT+
+would	1	ps_cue
+suspected	21	ps_cue
+against	24	neg_cue
+########
+4
+<EOP> .
+########
+5
+As the New York Times reported , it was the first time that Harvard had agreed to provide access to records of applicants on condition that government lawyers look at the records only in the offices of Harvard 's lawyers , with some personal information redacted .
+agreed	15	CT+	CT+
+########
+6
+<EOP> .
+########
+7
+Harvard has justified it by saying that it wants to protect confidential documents from being leaked to the public .
+wants	8	ps_cue
+########
+8
+<EOP> .
+########
+9
+The United States Justice Department is reviewing Harvard 's offer to give the federal government access to redacted student records as part of its investigation into the college 's admissions practices , said a department spokesperson .
+########
+10
+<EOP> .
+########
+11
+According to the New York Times , the department sought records for thousands of high school students and when Harvard resisted , citing confidentiality , threatened to sue the university if it did not turn over the records by Friday .
+not	33	neg_cue
+########
+12
+<EOP> .
+########
+13
+According to the federal government , the college may violate Title VI , which bars programs receiving federal funding from discriminating based on race .
+may	8	ps_cue
+########
+14
+<EOP> .
+########

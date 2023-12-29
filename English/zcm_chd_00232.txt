@@ -1,0 +1,105 @@
+Does the Belt and Road Initiative build intercultural and interreligious LRB exchange RRB
+0
+Initiative seen as cultural bridge <EOP> .
+########
+1
+2017_05_02 07:15 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+The Belt and Road Initiative 's impact on economies across the old Silk and Maritime roads also will be one of social and cultural exchange , leading to peace and stability , said the high representative of the United Nations Alliance of Civilizations .
+will	17	ps_cue
+########
+4
+<EOP> .
+########
+5
+`` The Belt and Road Initiative is not just economic , but also builds and promotes intercultural and interreligious LRB exchange RRB , '' Nassir Abdulaziz Al_Nasser said on Friday .
+builds	13	CT+	CT+
+not	7	neg_cue
+########
+6
+Al_Nasser , of Qatar , said he plans to attend the Belt and Road Forum For International Cooperation in Beijing later this month .
+plans	7	ps_cue
+########
+7
+<EOP> .
+########
+8
+`` In order to achieve not only a strong economy but also peace , we need stability LRB and we need to RRB work together and cooperate . ''
+not	5	neg_cue
+need	15	ps_cue
+need	20	ps_cue
+########
+9
+<EOP> .
+########
+10
+His agency , known as the UNAOC , will sign a memorandum of understanding with the Ministry of Foreign Affairs to cooperate on the areas of intercultural and interreligious dialogue under the Belt and Road Initiative during his visit , Al_Nasser said .
+will	8	ps_cue
+########
+11
+<EOP> .
+########
+12
+`` Especially when the world today faces many big challenges , we see problems around the world coming through culture and religion , '' he said .
+########
+13
+<EOP> .
+########
+14
+The initiative , proposed by President Xi Jinping in 2013 , which consists of the Silk Road Economic Belt and the 21st Century Maritime Silk Road , aims to build links between Asia , Europe and Africa along the ancient trade routes .
+build	29	CT+	CT+
+proposed	3	ps_cue
+########
+15
+<EOP> .
+########
+16
+More than 100 countries and organizations have joined the initiative and about 40 countries signed the memorandum of understanding of cooperation with China .
+########
+17
+<EOP> .
+########
+18
+`` This means it 's a very important initiative ; we need something like that today to work together , '' Al_Nasser said , adding that it will not just be good for China , but also for the rest of the world .
+need	11	ps_cue
+like	13	ps_cue
+will	27	ps_cue
+not	28	neg_cue
+########
+19
+<EOP> .
+########
+20
+Al_Nasser has been the UNAOC 's high representative since 2013 .
+########
+21
+The agency was formed in 2005 to explore polarization between the Western and Islamic worlds .
+########
+22
+<EOP> .
+########
+23
+One of the main pillars of the UNAOC 's work is on migration and refugees , and Al_Nasser said that the Belt and Road Initiative can help strengthen ties between countries that are involved in the initiative .
+strengthen	27	CT+	CT+
+can	25	ps_cue
+########
+24
+<EOP> .
+########
+25
+`` The contribution of migrants in many ways is positive , '' he said .
+########
+26
+`` I think now with this great initiative , this will really strengthen the cooperation between countries , especially those who are on the Silk Road . ''
+will	10	ps_cue
+########
+27
+<EOP> .
+########
+28
+Contact the writer at amyhe@chinadailyusa.com <EOP> .
+########

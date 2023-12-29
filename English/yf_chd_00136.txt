@@ -1,0 +1,123 @@
+Do firefighters wrestle to control wildfire 
+0
+Firefighters wrestle to control wildfire <EOP> .
+wildfire	4	CT+	CT+
+########
+1
+2017_12_14 09:29 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+CARPINTERIA , California _ An out_of_control wildfire that has already destroyed nearly 700 homes in its path of destruction crept closer to the upscale hillside community of Montecito on Tuesday despite calmer winds that slowed its progress .
+wildfire	6	CT+	CT+
+########
+4
+<EOP> .
+########
+5
+The Thomas Fire , which broke out on Dec 4 near Ojai , has since traveled more than 40 kilometers to become the fifth_largest blaze in state history .
+Fire	2	CT+	CT+
+########
+6
+It has blackened more than 950 square km in Ventura and Santa Barbara counties , an area larger than New York City .
+It	0	CT+	CT+
+########
+7
+<EOP> .
+########
+8
+Officials said that while the conflagration charred another 1,000 hectares overnight , a break in the hot , dry Santa Ana winds on Tuesday sapped its forward momentum and allowed crews to prevent further damage to homes .
+forward	26	ps_cue
+forward	26	neg_cue
+prevent	32	neg_cue
+########
+9
+<EOP> .
+########
+10
+`` It 's doing what we want it to do .
+########
+11
+The fire is staying away from the homes , '' said Captain Steve Concialdi of the California Department of Forestry and Fire Protection .
+fire	1	CT+	CT+
+########
+12
+The flames were 20 percent contained as of Tuesday afternoon .
+########
+13
+<EOP> .
+########
+14
+Concialdi said that some of the 7,000 firefighters deployed against the blaze had taken advantage of the better weather to set controlled burns in a canyon near the community of Carpinteria and near homes in an effort to further deprive the flames of fuel .
+against	9	neg_cue
+########
+15
+<EOP> .
+########
+16
+The National Weather Service has warned that the Santa Ana winds could return as early as Wednesday , meaning that the fire remains dangerous and unpredictable .
+could	11	ps_cue
+########
+17
+<EOP> .
+########
+18
+`` Severe fire weather will continue to promote significant fire growth further into Santa Barbara County , threatening the communities of Santa Barbara , Carpinteria , Montecito and Summerland , '' Cal Fire said in a statement .
+will	4	ps_cue
+########
+19
+<EOP> .
+########
+20
+In Washington , members of the House of Representatives met with Vice_President Mike Pence to discuss the crisis .
+########
+21
+Representative Julia Brownley , whose district includes Ventura , said all resources had arrived to fight the blaze , which could take another week to contain .
+could	20	ps_cue
+########
+22
+<EOP> .
+########
+23
+In Carpinteria , Michelle Warner , who has lived in the seaside town her whole life , and her toddler daughter wore face masks to protect them from the thick smoke .
+########
+24
+Thanks to the firefighters ' efforts , Warner , a 45_year_old writer , said she had no plans to evacuate .
+no	16	neg_cue
+plans	17	ps_cue
+########
+25
+<EOP> .
+########
+26
+`` We plan to stick it out for at least another day , hoping that conditions will get better , '' she said .
+plan	2	ps_cue
+hoping	13	ps_cue
+will	16	ps_cue
+########
+27
+<EOP> .
+########
+28
+The Thomas Fire has so far destroyed almost 900 structures .
+Fire	2	CT+	CT+
+########
+29
+Efforts to combat the flames , which have displaced more than 94,000 people , have cost more than $ 48 million .
+########
+30
+<EOP> .
+########
+31
+Many public schools in Santa Barbara and school districts nearby have canceled classes this week and will not reopen until the annual winter break is completed in January .
+will	16	ps_cue
+not	17	neg_cue
+########
+32
+<EOP> .
+########
+33
+Reuters _ Ap <EOP> .
+########

@@ -1,0 +1,93 @@
+Will THAAD deployment in S. Korea be delayed for environmental assessment
+0
+THAAD deployment in S. Korea to be delayed for environmental assessment <EOP> .
+delayed	7	CT+	PS+
+delayed	7	neg_cue
+########
+1
+2017_06_07 14:33 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+SEOUL _ The deployment of the Terminal High Altitude Area Defense LRB THAAD RRB in South Korea was expected to be delayed as President Moon Jae_in ordered a legitimate environmental evaluation over the US missile shield installation .
+delayed	21	PS+	PS+
+expected	18	ps_cue
+delayed	21	neg_cue
+########
+4
+<EOP> .
+########
+5
+An unnamed South Korean Defense Ministry official was quoted by Yonhap news agency as saying Wednesday that though the massive assessment of an environmental effect would be conducted , the expected evaluation period of a year or so would be shortened significantly .
+would	25	ps_cue
+expected	30	ps_cue
+or	36	ps_cue
+would	38	ps_cue
+########
+6
+<EOP> .
+########
+7
+Yonhap reported that the comments indicated the completion of the evaluation by the end of this year .
+########
+8
+<EOP> .
+########
+9
+However , the official said the assessment would require the hearings for residents living near the THAAD installation site , which would take several months .
+would	7	ps_cue
+would	21	ps_cue
+########
+10
+<EOP> .
+########
+11
+President Moon on Monday ordered a probe into who tried to avoid the `` green audit '' of the THAAD deployment site , or a golf course at Soseong_ri village in Seongju county , North Gyeongsang province .
+avoid	11	neg_cue
+or	23	ps_cue
+########
+12
+<EOP> .
+########
+13
+South Koreans had held candlelit rallies to protest against THAAD since the deployment decision was made last July .
+against	8	neg_cue
+########
+14
+<EOP> .
+########
+15
+Moon instructed officials to carry out the legitimate assessment of environmental effect , saying priority should be placed on the procedural legitimacy for the THAAD deployment .
+should	15	ps_cue
+########
+16
+<EOP> .
+########
+17
+According to the presidential Blue House , its preliminary investigation results showed the Defense Ministry offered 328,799 square meters of the golf course to the US Forces Korea LRB USFK RRB in the first stage of land provision .
+########
+18
+<EOP> .
+########
+19
+The total land of the golf course is about 700,000 square meters .
+########
+20
+The remaining land was scheduled to be given to the USFK in the second stage after completing the green audit .
+scheduled	4	ps_cue
+########
+21
+<EOP> .
+########
+22
+It was aimed at avoiding the massive environmental evaluation .
+########
+23
+By domestic law , the provision of less than 330,000 square meters does not require the massive green audit , shortening the assessment period .
+not	13	neg_cue
+########
+24
+<EOP> .
+########

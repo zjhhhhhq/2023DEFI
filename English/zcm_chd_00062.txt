@@ -1,0 +1,101 @@
+Was the United States considering whether or not to close down the US embassy in Cuba
+0
+Closure of US embassy in Cuba ` under review ' : US top diplomat <EOP> .
+Closure	0	Uu	Uu
+########
+1
+2017_09_18 08:51 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+<EOP> .
+########
+4
+US Secretary of State Rex Tillerson speaks during a press conference in Washington , US June 21 , 2017 .
+########
+5
+LRB Photo_VCG RRB <EOP> .
+########
+6
+WASHINGTON _ US Secretary of State Rex Tillerson said on Sunday that the United States was considering whether or not to close down the US embassy in Cuba after US diplomats fell ill .
+close	21	Uu	Uu
+whether	17	ps_cue
+or	18	ps_cue
+not	19	neg_cue
+########
+7
+<EOP> .
+########
+8
+`` We have it under evaluation and it 's a very serious issue with respect to the harm some individuals have suffered , '' said Tillerson in an interview with CBS .
+########
+9
+<EOP> .
+########
+10
+`` We 've brought some of those people home .
+########
+11
+It 's under review , '' he added .
+########
+12
+<EOP> .
+########
+13
+The US State Department revealed last month that at least 16 Americans working at the US embassy in Havana , Cuba , suffered physical symptoms caused by some `` incidents . ''
+########
+14
+<EOP> .
+########
+15
+The US authorities later confirmed that at least 21 Americans suffered physical symptoms .
+########
+16
+<EOP> .
+########
+17
+<EOP> .
+########
+18
+<EOP> .
+########
+19
+No details of the injuries have been released , but media reports said the affected Americans suffered a severe hearing loss and at least one victim suffered some `` brain damage . ''
+No	0	neg_cue
+loss	20	neg_cue
+########
+20
+<EOP> .
+########
+21
+The United States expelled two Cuban diplomats in late May after some US Embassy personnel in Havana reported that some `` incidents '' caused `` a variety of physical symptoms '' in them .
+May	9	ps_cue
+########
+22
+<EOP> .
+########
+23
+Cuba said that it was investigating allegations by the United States that unspecified `` incidents '' caused physical symptoms in Americans serving at the US Embassy in Havana , after two Washington_based Cuban diplomats were expelled .
+########
+24
+<EOP> .
+########
+25
+`` Cuba has never , nor would it ever , allow that the Cuban territory be used for any action against accredited diplomatic agents or their families , '' the foreign ministry said in a statement .
+never	3	neg_cue
+nor	5	neg_cue
+would	6	ps_cue
+against	20	neg_cue
+or	24	ps_cue
+########
+26
+<EOP> .
+########
+27
+The United States and Cuba officially resumed a diplomatic relationship in July 2015 , more than five decades after they severed it .
+########
+28
+<EOP> .
+########

@@ -1,0 +1,136 @@
+Will May 's government ditch the European Union 's Charter of Fundamental Rights
+0
+UK government averts Brexit rebellion , giving ground on EU rights plan <EOP> .
+plan	11	ps_cue
+########
+1
+2017_11_22 14:52 <EOP> .
+########
+2
+null <EOP> .
+########
+3
+LONDON _ British Prime Minister Theresa May 's government averted a rebellion in parliament on Tuesday over plans to ditch the European Union 's Charter of Fundamental Rights , promising to review its approach and make changes if needed .
+Rights	27	PS+	PS+
+plans	17	ps_cue
+May	6	ps_cue
+########
+4
+<EOP> .
+########
+5
+Parliament is debating legislation which will enact Britain 's exit from the EU in March 2019 and copy EU law into British law _ described by officials as `` one of the largest legislative projects ever undertaken in the UK '' .
+will	5	ps_cue
+########
+6
+<EOP> .
+########
+7
+The bill is testing May 's ability to govern effectively after she lost her parliamentary majority in June , leaving her leading a fragile minority government and in charge of a Conservative Party divided on how best to manage the split from the EU .
+May	4	ps_cue
+########
+8
+<EOP> .
+########
+9
+On Tuesday , the focus of an eight_day debate which has already forced May 's ministers into some concessions , fell on the government 's plan not to include the Charter of Fundamental Rights in its mass `` cut and paste '' of EU law .
+Rights	33	CT-	PS+
+not	26	neg_cue
+May	13	ps_cue
+plan	25	ps_cue
+########
+10
+<EOP> .
+########
+11
+The government , which says there is no need to copy across the EU charter because all it does is codify rights that exist through other legal instruments , headed off a potential rebellion by promising a review and possible technical changes later in the lawmaking process .
+no	7	neg_cue
+need	8	ps_cue
+potential	32	ps_cue
+possible	39	ps_cue
+########
+12
+<EOP> .
+########
+13
+`` We do recognise the strength of views ... and we are prepared to look again at this issue to make sure that we are taking an approach which can command the support of this house , '' said the government 's Solicitor General Robert Buckland .
+can	29	ps_cue
+########
+14
+<EOP> .
+########
+15
+That was enough to dissuade dissatisfied members of May 's party from joining forces with opposition lawmakers to force an outright U_turn on scrapping the charter .
+May	8	ps_cue
+opposition	15	neg_cue
+########
+16
+<EOP> .
+########
+17
+The government still intends to scrap the EU Charter of Fundamental Rights , but says citizens will not lose any of the existing rights the document sets out .
+will	16	ps_cue
+not	17	neg_cue
+########
+18
+<EOP> .
+########
+19
+During the debate , critics _ including members of May 's own party _ argued that abandoning the charter was an unnecessary risk and in its current form diluted some citizens ' rights and created uncertainty over the protection of others .
+rights	32	CT+	PS+
+May	9	ps_cue
+########
+20
+<EOP> .
+########
+21
+The rights charter came into force in 2009 through the EU 's Lisbon Treaty and brings together the fundamental EU_protected right in a single document .
+########
+22
+<EOP> .
+########
+23
+It is one of only a handful of exceptions contained within the government 's Brexit blueprint which sets out to preserve EU law after Britain leaves the bloc to give businesses certainty that they wo n't face overnight rules changes .
+n't	35	neg_cue
+########
+24
+<EOP> .
+########
+25
+The bill is currently at an early stage in the lawmaking process .
+########
+26
+<EOP> .
+########
+27
+The government has so far avoided any defeats , but has had to make last_minute concessions on several points .
+########
+28
+Tuesday 's concession concerned a technical issue around how certain types of EU law should be treated after Brexit .
+should	14	ps_cue
+########
+29
+<EOP> .
+########
+30
+The toughest test of May 's authority , set to centre on the issue of fixing the date and time of Britain 's EU exit in law , is yet to come .
+May	4	ps_cue
+yet	29	neg_cue
+########
+31
+No date has been set yet for the remaining five days of debates that make up the current stage of the bill 's passage .
+No	0	neg_cue
+yet	5	neg_cue
+########
+32
+<EOP> .
+########
+33
+<EOP> .
+########
+34
+<EOP> .
+########
+35
+<EOP> .
+########

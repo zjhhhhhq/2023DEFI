@@ -1,0 +1,64 @@
+Is the United States blocking food shipments to Venezuela
+0
+US blocking food shipments to Venezuela , says minister <EOP> .
+########
+1
+2017_07_13 13:41 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+CARACAS _ The United States is blocking food shipments to Venezuela , a country struggling with shortages of staple goods , Venezuelan Minister of Urban Agriculture Freddy Bernal said on Wednesday .
+blocking	6	CT+	CT+
+########
+4
+<EOP> .
+########
+5
+Bernal said US threats of sanctions against companies doing business with Venezuela was interfering with the country 's supply of imported foodstuffs .
+against	6	neg_cue
+########
+6
+<EOP> .
+########
+7
+`` The United States pressures shipping companies that if they make purchases , sales or transactions with Venezuela , they will be sanctioned , '' Bernal said in an interview with Caracas_based Union Radio .
+pressures	4	CT+	CT+
+or	14	ps_cue
+will	20	ps_cue
+########
+8
+<EOP> .
+########
+9
+Bernal has coordinated a government program to deliver basic goods to families , which was put in place after Venezuela 's political and economic crises led to shortages .
+########
+10
+<EOP> .
+########
+11
+That aid includes both domestic products and tons of grains and meats imported from Nicaragua , Panama and Mexico , said Bernal , adding US interference was impeding the national distribution of the foodstuffs .
+########
+12
+<EOP> .
+########
+13
+Shortages of dietary staples and other basic goods have fueled discontent in Venezuela .
+########
+14
+<EOP> .
+########
+15
+Bernal also denounced recent stepped_up anti_government demonstrations for destroying `` 30 food warehouses '' that support the food aid program .
+########
+16
+<EOP> .
+########
+17
+So far , the United States has yet to make any comments on this issue .
+yet	7	neg_cue
+########
+18
+<EOP> .
+########

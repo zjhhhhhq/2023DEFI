@@ -1,0 +1,94 @@
+Is Trump 's childhood home reportedly sold to Chinese buyer 
+0
+Trump 's childhood home reportedly sold to Chinese buyer <EOP> .
+sold	5	CT+	CT+
+########
+1
+2017_04_01 05:34 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+<EOP> .
+########
+4
+This five_bedroom Tudor_style house in a Queens neighborhood in New York City that US President Donald Trump lived in briefly as a child was sold to someone from China for a price that is more than double that of other houses in the area , according to media reports .
+sold	24	CT+	CT+
+########
+5
+PROVIDED TO CHINA DAILY <EOP> .
+########
+6
+A five_bedroom Tudor_style house in a Queens neighborhood in New York City that US President Donald Trump lived in briefly as a child was sold to someone from China for a price that is more than double that of other houses in the area , according to media reports .
+sold	24	CT+	CT+
+########
+7
+<EOP> .
+########
+8
+The New York Times reported on Wednesday that the buyer `` is a woman from China '' and said the purchase price of $ 2.14 million came in an auction by Paramount Realty USA .
+purchase	20	CT+	CT+
+########
+9
+The house was built by Trump 's father , Fred , in 1940 and the president lived there until he was about 4 years old .
+########
+10
+The family then moved to another house Fred Trump built nearby .
+########
+11
+<EOP> .
+########
+12
+`` This property is so much more than just real estate ; it 's the childhood home of the 45th President of the United States , and it 's a part of history , '' Misha Haghani of Paramount Realty USA , told ABC News .
+########
+13
+<EOP> .
+########
+14
+`` I did have some expectation that the purchaser would be a huge Trump supporter from within America , '' Haghani told the Times .
+expectation	5	ps_cue
+would	9	ps_cue
+########
+15
+He declined to reveal the identity of the buyer .
+declined	1	neg_cue
+########
+16
+`` But it is entirely possible that the purchaser is a huge Trump supporter from outside of America , '' he said .
+possible	5	ps_cue
+########
+17
+<EOP> .
+########
+18
+Cathy Han , a New York real estate agent specializing in marketing properties to Chinese buyers , told the newspaper that she was not surprised that a Chinese buyer may have purchased the house .
+purchased	31	CT+	CT+
+not	23	neg_cue
+may	29	ps_cue
+########
+19
+<EOP> .
+########
+20
+`` When I saw it was Trump 's birth house property for sale , I knew immediately it would get a lot of attention from Chinese buyers , '' said Ms Han .
+would	18	ps_cue
+########
+21
+`` I know he is a controversial figure in the States , but among Chinese people , Trump is a very popular kind of character in China . ''
+########
+22
+<EOP> .
+########
+23
+The house was first offered for auction last fall but it was canceled .
+########
+24
+City records show an investor , Michael Davis , ultimately bought the home for nearly $ 1.4 million in December .
+########
+25
+<EOP> .
+########
+26
+paulwelitzkin@chinadailyusa.com <EOP> .
+########

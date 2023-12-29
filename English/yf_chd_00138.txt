@@ -1,0 +1,111 @@
+Does US present its evidence of Iran weaponry
+0
+US presents its evidence of Iran weaponry , Iran denies <EOP> .
+presents	1	CT+	CT+
+denies	9	neg_cue
+########
+1
+2017_12_15 10:01 <EOP> .
+########
+2
+null <EOP> .
+########
+3
+WASHINGTON _ The United States on Thursday presented for the first time pieces of what it said were Iranian weapons supplied to the Iran_aligned Houthi militia in Yemen , describing it as conclusive evidence that Tehran was violating UN resolutions .
+presented	7	CT+	CT+
+########
+4
+<EOP> .
+########
+5
+The arms included charred remnants of what the Pentagon said was an Iranian_made short_range ballistic missile fired from Yemen on Nov 4 at King Khaled International Airport outside Saudi Arabia 's capital Riyadh , as well as a drone and an anti_tank weapon recovered in Yemen by the Saudis .
+########
+6
+<EOP> .
+########
+7
+Iran has denied supplying the Houthis with such weaponry and on Thursday described the arms displayed as `` fabricated . ''
+denied	2	neg_cue
+########
+8
+<EOP> .
+########
+9
+The United States acknowledged it could not say precisely when the weapons were transferred to the Houthis , and , in some cases , could not say when they were used .
+acknowledged	3	PS-	CT+
+could	5	ps_cue
+not	6	neg_cue
+could	24	ps_cue
+not	25	neg_cue
+########
+10
+There was no immediate way to independently verify where the weapons were made or employed .
+no	2	neg_cue
+or	13	ps_cue
+########
+11
+<EOP> .
+########
+12
+All of the recovered weapons were provided to the United States by Saudi Arabia and the United Arab Emirates , the Pentagon said .
+########
+13
+Saudi_led forces , which back the Yemeni government , have been fighting the Houthis in Yemen 's more than two_year_long civil war .
+########
+14
+<EOP> .
+########
+15
+The unprecedented presentation _ which Haley said involved intelligence that had to be declassified _ is part of President Donald Trump 's new Iran policy , which promises a harder line toward Tehran .
+########
+16
+That would appear to include a new diplomatic initiative .
+would	1	ps_cue
+appear	2	ps_cue
+########
+17
+<EOP> .
+########
+18
+`` You will see us build a coalition to really push back against Iran and what they 're doing , '' Haley said , standing in front of what she said were the remnants of the Nov 4 missile .
+will	2	ps_cue
+against	12	neg_cue
+########
+19
+<EOP> .
+########
+20
+Israel and Saudi Arabia , who view Tehran as their arch foes , both seized upon the US presentation in calls on Thursday for international action .
+########
+21
+<EOP> .
+########
+22
+Under a UN resolution that enshrines the Iran nuclear deal with world powers , Tehran is prohibited from supplying , selling or transferring weapons outside the country unless approved by the UN Security Council .
+prohibited	16	neg_cue
+or	21	ps_cue
+########
+23
+A separate UN resolution on Yemen bans the supply of weapons to Houthi leader Abdul_Malik al_Houthi and others .
+bans	6	neg_cue
+########
+24
+<EOP> .
+########
+25
+Iran rejected the US accusations as unfounded and Iran 's Foreign Minister Javad Zarif , on Twitter , drew a parallel to assertions to the United Nations in 2003 by then_US Secretary of State Colin Powell in 2003 about US intelligence on weapons of mass destruction in Iraq .
+rejected	1	neg_cue
+########
+26
+<EOP> .
+########
+27
+No weapons of mass destruction were found in Iraq after the US_led invasion .
+No	0	neg_cue
+########
+28
+<EOP> .
+########
+29
+Reuters <EOP> .
+########

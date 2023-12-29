@@ -1,0 +1,83 @@
+Will Foxconn invest $ 10 billion in Wisconsin for a new manufacturing plant 
+0
+Foxconn will build plant in Wisconsin <EOP> .
+will	1	ps_cue
+########
+1
+2017_07_27 09:47 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+Foxconn , the manufacturer from Taiwan that makes electronics for Apple Inc 's iPhones and other tech companies , announced on Wednesday that it will invest $ 10 billion in Wisconsin for a new manufacturing plant .
+invest	25	CT+	CT+
+will	24	ps_cue
+########
+4
+<EOP> .
+########
+5
+The project will create 13,000 jobs and should be completed by 2020 , according to Wisconsin Governor Scott Walker .
+will	2	ps_cue
+should	7	ps_cue
+########
+6
+He said that the state will award $ 3 billion in incentives and sign a memorandum of understanding on the investment on Thursday .
+will	5	ps_cue
+########
+7
+<EOP> .
+########
+8
+Foxconn had considered building the plant in Ohio , Michigan and Pennsylvania , among other states.The company has facilities in Virginia and Indiana , each of which employ fewer than 1,000 workers , according to its website .
+considered	2	ps_cue
+########
+9
+<EOP> .
+########
+10
+Foxconn announced the investment at the White House .
+investment	3	CT+	CT+
+########
+11
+CEO Terry Gou was flanked by Walker , Vice_President Mike Pence and House Speaker Paul Ryan , who represents Wisconsin .
+########
+12
+President Donald Trump later joined them .
+########
+13
+<EOP> .
+########
+14
+Trump has called for companies to build more products in the United States and open additional plants .
+########
+15
+He has made several announcements since his election in November about US investments by both foreign and domestic manufacturers , building on his campaign focus on boosting American jobs .
+########
+16
+Some of those announcements sought to take credit for previously announced investments .
+########
+17
+<EOP> .
+########
+18
+Trump told The Wall Street Journal on Tuesday that Apple Chief Executive Tim Cook has committed to build three big manufacturing plants in the United States .
+########
+19
+Apple did not comment .
+not	2	neg_cue
+########
+20
+<EOP> .
+########
+21
+The United States has added 70,000 manufacturing jobs since November , to nearly 12.4 million , but has not added any net factory jobs in the last two months , according to the Bureau of Labor Statistics .
+not	18	neg_cue
+########
+22
+<EOP> .
+########
+23
+REUTERS <EOP> .
+########

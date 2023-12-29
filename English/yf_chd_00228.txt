@@ -1,0 +1,111 @@
+Has the first phase of the general election process gone ahead
+0
+First step to elect Castro successor <EOP> .
+########
+1
+2017_11_28 10:21 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+HAVANA _ The first phase of the general election process , previously scheduled for Oct 22 , has gone ahead after being delayed as a result of the damage caused by Hurricane Irma early this month .
+process	9	CT+	CT+
+gone	18	CT+	CT+
+scheduled	12	ps_cue
+delayed	22	neg_cue
+########
+4
+<EOP> .
+########
+5
+The polls are being followed with particular attention , since the process will conclude early next year with the approximately 600 members of the newly_formed legislative assembly electing the nation 's top leader when the second five_year term of Raul Castro ends in February .
+process	11	CT+	CT+
+will	12	ps_cue
+########
+6
+<EOP> .
+########
+7
+After voting near his home , Jose Ramon Machado Ventura , vice_president and second secretary of the Central Committee of the Cuban Communist Party , congratulated electoral authorities .
+########
+8
+<EOP> .
+########
+9
+`` In general , it has been a high quality process , which is developing satisfactorily , despite the effects caused by Hurricane Irma , which forced the schedule to be modified , '' said Machado .
+process	10	CT+	CT+
+########
+10
+<EOP> .
+########
+11
+He added the elected municipal deputies will face many important challenges , since they will have to work in the midst of adverse economic conditions and the reinforcement of the US embargo against the island .
+will	6	ps_cue
+will	14	ps_cue
+against	32	neg_cue
+########
+12
+<EOP> .
+########
+13
+After voting , Cuban Foreign Minister Bruno Rodriguez told reporters that the Cuban electoral process represents an alternative to `` other electoral processes ruled by money and corporations '' .
+process	14	CT+	CT+
+########
+14
+<EOP> .
+########
+15
+In Cuba , candidates are forbidden from actual political campaigning , with only their photos and biographies exhibited for voters to select .
+########
+16
+<EOP> .
+########
+17
+The local elections came a day after the first anniversary of the death of Cuban revolutionary leader Fidel Castro , who put into force in 1976 the current political electoral system , defended by the Cuban authorities as `` democratic and transparent '' .
+########
+18
+<EOP> .
+########
+19
+`` The participation of the people in the municipal elections , is a tribute to the Commander in Chief on the first anniversary of his physical disappearance , '' said Natalia Ricardo , president of a polling station in the municipality of Playa .
+disappearance	26	neg_cue
+########
+20
+<EOP> .
+########
+21
+`` Although Fidel Castro is not with us today , his legacy and the values he instilled in the people will persist forever , '' Ricardo said .
+not	5	neg_cue
+will	20	ps_cue
+########
+22
+`` Going to the polls is contributing to the country and revolution . ''
+########
+23
+<EOP> .
+########
+24
+Cuba holds municipal elections every two and a half years , while provincial and national deputies are elected for five_year terms .
+########
+25
+<EOP> .
+########
+26
+Xinhua <EOP> .
+########
+27
+Cuban President Raul Castro prepares to cast his vote at a polling station in the Playa neighborhood of Havana , during municipal elections , on Sunday .
+########
+28
+Cuban Television via Agence France_presse <EOP> .
+########
+29
+<EOP> .
+########
+30
+<EOP> .
+########
+31
+<EOP> .
+########

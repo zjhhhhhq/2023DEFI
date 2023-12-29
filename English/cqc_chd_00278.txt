@@ -1,0 +1,117 @@
+Does China attract more European tourists 
+0
+China aiming to attract more European tourists <EOP> .
+attract	3	CT+	CT+
+########
+1
+2017_11_07 01:48 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+<EOP> .
+########
+4
+The China pavilion at the World Tourism Market in London on Monday attracts the attention of visitors .
+attracts	12	CT+	CT+
+########
+5
+China is raising its profile as a tourist destination .
+########
+6
+LRB Photo_chinadaily .
+########
+7
+com.cn RRB <EOP> .
+########
+8
+An initiative next year will be a milestone in enhancing tourism between China and the European Union , said the chief representative of the China National Tourism Administration in the UK .
+enhancing	9	CT+	CT+
+will	4	ps_cue
+########
+9
+<EOP> .
+########
+10
+China_EU Tourism Year fits well with China 's aim to attract more European visitors , said Kuang Lin , who was speaking ahead of the World Tourism Market , an international travel trade show running in London until Wednesday .
+attract	10	CT+	CT+
+########
+11
+<EOP> .
+########
+12
+Kuang said China has become the fourth most popular destination country for tourists and drew around 138 million visits in 2016 , a 3.5 percent rise on the previous year .
+drew	14	CT+	CT+
+########
+13
+<EOP> .
+########
+14
+In addition to the classic tours of such favorites as Beijing , Xi'an , Shanghai , Guangzhou , and Guilin LRB a city in Southern China famed for its dramatic landscape of limestone karst hills RRB , Kuang said tourists are also now visiting such places as Shangri_La , cruising on the Yangtze River , and traveling on the Qinghai_Tibet Railway .
+########
+15
+<EOP> .
+########
+16
+In 2016 , more than 594,000 British tourists visited China , the largest group among European countries .
+########
+17
+<EOP> .
+########
+18
+`` Over the past 15 years , the market has achieved a steady growth of nearly 5 percent per year , '' said Li Gang , a professor of tourism economics at the University of Surrey .
+########
+19
+He said he believes the number of British tourists will continue to rise .
+will	9	ps_cue
+########
+20
+<EOP> .
+########
+21
+James Kennell , principal lecturer in tourism at the University of Greenwich , said China is still a great unknown for potential British visitors .
+unknown	19	ps_cue
+potential	21	ps_cue
+########
+22
+<EOP> .
+########
+23
+He suggested China 's national tourism agency raise the country 's tourism profile by funding television programs , and developing greater travel trade and travel media awareness of China through public relations efforts , paid_for_content , and familiarization trips .
+suggested	1	ps_cue
+raise	7	ps_cue
+########
+24
+<EOP> .
+########
+25
+`` Hosting large events with an international television audience and making use of celebrity endorsements is vital for a contemporary destination seeking to raise awareness in new markets , '' he said .
+seeking	21	ps_cue
+raise	23	ps_cue
+########
+26
+<EOP> .
+########
+27
+Kuang said the administration is working closely with new media to keep building the brand `` Beautiful China '' and to make China a more popular travel destination .
+########
+28
+<EOP> .
+########
+29
+Peter Ball , a video editor from Guisborough in Northeast England , spent five days in China in 2015 , during which he visited Lijiang River in the South and took a high_speed to train to Beijing , where he toured the Palace Museum , which is also known as the Forbidden City , and took a trip to the Great Wall .
+########
+30
+<EOP> .
+########
+31
+`` China is a massive country with lots of famous natural and historical sites to visit , '' he said .
+########
+32
+`` It 's also a nation that is changing rapidly and has an ever_increasing role to play in the world , so that 's why I wanted to visit . ''
+wanted	26	ps_cue
+########
+33
+<EOP> .
+########

@@ -1,0 +1,95 @@
+Does Britain 's Europe divorce prompt breakups
+0
+Britain 's Europe divorce prompts breakups <EOP> .
+prompts	4	CT+	CT+
+########
+1
+2017_06_01 17:30 <EOP> .
+########
+2
+China Daily UK <EOP> .
+########
+3
+The arguments and divisions that led people in the United Kingdom to vote to leave the European Union last year look to have had a damaging effect on the nation 's love life .
+have	22	CT+	CT+
+love	31	ps_cue
+########
+4
+<EOP> .
+########
+5
+A survey conducted for the online dating agency eHarmony estimates that Brexit accounted for 1.6 million breakups .
+accounted	12	CT+	CT+
+########
+6
+The figure was based on a sample of 2,000 British adults .
+########
+7
+<EOP> .
+########
+8
+The research found that 2.7 million relationships foundered on the issue of politics , but Brexit was by far the largest cause .
+########
+9
+<EOP> .
+########
+10
+Family ties were also affected .
+########
+11
+The research estimated that 2.5 million Britons fell out with relatives over Brexit , with 813,000 completely cutting of contact with a family member .
+########
+12
+<EOP> .
+########
+13
+Britons between the ages of 25 and 34 were the most volatile on politics , with 12 percent saying they would leave a lover over the issue .
+would	20	ps_cue
+########
+14
+<EOP> .
+########
+15
+Romain Bertrand , the UK manager for eHarmony , said the Brexit referendum was a defining political moment with lots of coverage .
+########
+16
+<EOP> .
+########
+17
+`` This meant people were forced to confront issues they might otherwise have avoided in terms of political perspectives － therefore it 's unfortunate but not altogether surprising that 1.6 million UK relationships ended , '' he said .
+might	10	ps_cue
+not	25	neg_cue
+########
+18
+<EOP> .
+########
+19
+June 23 is the first anniversary of the referendum but the UK is still a long way away from leaving the EU .
+########
+20
+The first negotiations on the breakup are set to begin on July 19 but it is not clear how quickly they will progress or when they will finish .
+not	16	neg_cue
+will	21	ps_cue
+or	23	ps_cue
+will	26	ps_cue
+########
+21
+<EOP> .
+########
+22
+Before then , the UK must undergo a general election on June 8 , which could further complicate Brexit talks and human relations .
+could	15	ps_cue
+########
+23
+<EOP> .
+########
+24
+Differences of opinion , however , do not necessarily end in a split .
+not	7	neg_cue
+########
+25
+Bertrand said the company 's research found that traits such as conscientiousness , good conflict resolution , and adaptability help create and sustain happy , long_lasting relationships .
+########
+26
+<EOP> .
+########

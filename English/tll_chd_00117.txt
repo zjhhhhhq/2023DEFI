@@ -1,0 +1,165 @@
+Was Assange arrested by British police
+0 
+Diplomatic moves underway to resolve Assange standoff in London <EOP> .
+########
+1
+2017_05_22 22:25 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+Diplomatic moves are underway to end the standoff that has seen WikiLeaks founder Julian Assange holed up in the Ecuadorian embassy in London since 2012 , officials said .
+########
+4
+<EOP> .
+########
+5
+<EOP> .
+########
+6
+<EOP> .
+########
+7
+<EOP> .
+########
+8
+WikiLeaks founder Julian Assange is seen on the balcony of the Ecuadorian Embassy in London , Britain , May 19 , 2017 .
+May	18	ps_cue
+########
+9
+<EOP> .
+########
+10
+LRB Photo_Agencies RRB <EOP> .
+########
+11
+Assange , 45 , had been accused of rape in Sweden and , until Thursday , was the subject of a European Arrest Warrant issued by the Swedish prosecutor .
+########
+12
+However , the Swedes announced they were halting their investigation and withdrawing the warrant because they were unable to question Assange directly or bring him before a court .
+unable	17	neg_cue
+question	19	ps_cue
+or	22	ps_cue
+########
+13
+Prosecutor Margaret Nye said at a press conference that charges remained on file .
+########
+14
+<EOP> .
+########
+15
+The Australian_born WikiLeaks founder , who jumped bail after an initial appearance on the Swedish request in front of a British judge in 2012 , sought asylum in the Ecuadorean embassy in West London .
+########
+16
+He said he feared being extradited to the United States after WikiLeaks released more than 20,000 classified documents that had been passed to his organization by US Army intelligence specialist Bradley Manning , who was subsequently jailed for 35 years before being pardoned by President Barack Obama just before he left office .
+########
+17
+<EOP> .
+########
+18
+Assange , who says he still fears being arrested by British police on charges of jumping bail , said his lawyers were trying to establish a dialogue with the British and US authorities , to facilitate his safe passage out of the embassy .
+arrested	8	CT+	CT+
+########
+19
+<EOP> .
+########
+20
+The Times newspaper reported this weekend that Assange wanted to ask France for help in arranging that safe passage , either by granting him asylum status _ a move lawyers here said was unlikely , given France 's close ties with the UK _ or by arranging safe passage under Ecuadorian protection to a French airport from where he could be put on a direct flight to Quito .
+wanted	8	ps_cue
+either	20	ps_cue
+unlikely	33	ps_cue
+unlikely	33	neg_cue
+or	44	ps_cue
+could	59	ps_cue
+########
+21
+<EOP> .
+########
+22
+At present , Assange could be arrested by British police on charges relating to skipping bail , once he steps outside the embassy .
+arrested	6	PS+	CT+
+could	4	ps_cue
+########
+23
+<EOP> .
+########
+24
+Lawyers said one solution would be an immediate appearance in front of a standing magistrate who has the power to deal with the offence , either with a suspended sentence , or a small fine , on condition he leave the country .
+would	4	ps_cue
+either	25	ps_cue
+suspended	28	neg_cue
+or	31	ps_cue
+########
+25
+<EOP> .
+########
+26
+Last month , United States Attorney General Jeff Sessions said prosecuting WikiLeaks and Assange was a top priority , although during his election campaign last year , President Donald Trump praised WikiLeaks for its role in releasing documents relating to rival Hillary Clinton 's campaign .
+########
+27
+<EOP> .
+########
+28
+However , British officials say no formal request for his extradition has been filed by the US authorities .
+no	5	neg_cue
+########
+29
+<EOP> .
+########
+30
+Assange himself claims the reason he is being pursued is political .
+########
+31
+He hailed the lifting of the Swedish arrest warrant as a victory and has always denied the rape allegations , saying the sex with the two women in Sweden was consensual .
+denied	15	neg_cue
+########
+32
+<EOP> .
+########
+33
+`` We have today won an important victory , but the road is far from over , '' he said in a speech from a balcony at the Ecuadorean embassy .
+########
+34
+Raising a clenched fist he said : `` The proper war is just commencing . ''
+########
+35
+<EOP> .
+########
+36
+Assange said his legal staff have contacted the UK authorities .
+########
+37
+<EOP> .
+########
+38
+`` And we hope to engage in a dialogue about what is the best way forward .
+hope	3	ps_cue
+forward	15	ps_cue
+forward	15	neg_cue
+########
+39
+The claim that the UK has the right to arrest me for seeking asylum in a case where there have been no charges is simply untenable . ''
+seeking	12	ps_cue
+no	21	neg_cue
+########
+40
+<EOP> .
+########
+41
+Ecuador has said it hopes for a diplomatic solution `` which would allow Mr Assange to enjoy his asylum in Ecuador , '' according to Guillaume Long , that country 's foreign affairs minister .
+hopes	4	ps_cue
+would	11	ps_cue
+########
+42
+<EOP> .
+########
+43
+<EOP> .
+########
+44
+<EOP> .
+########
+45
+<EOP> .
+########

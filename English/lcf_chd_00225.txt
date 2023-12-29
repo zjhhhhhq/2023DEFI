@@ -1,0 +1,77 @@
+Does Moscow have contacts with Russian lawyer
+0
+Kremlin denies contacts with Russian lawyer who met Trump Jr. .
+denies	1	neg_cue
+########
+1
+<EOP> .
+########
+2
+2017_07_13 10:32 <EOP> .
+########
+3
+Xinhua <EOP> .
+########
+4
+MOSCOW _ Moscow has had no contacts with Russian lawyer Natalia Veselnitskaya who met US President Donald Trump 's son last year , Kremlin spokesman Dmitry Peskov said Wednesday .
+contacts	6	CT-	CT-
+no	5	neg_cue
+########
+5
+<EOP> .
+########
+6
+`` The Kremlin has absolutely nothing to do with this meeting and has never been in contact with this lawyer , '' said Peskov at his daily news briefing .
+contact	16	CT-	CT-
+never	13	neg_cue
+nothing	5	neg_cue
+########
+7
+<EOP> .
+########
+8
+Donald Trump Jr. on Tuesday released email records related to his meeting with Veselnitskaya in June 2016 during his father 's presidential campaign , confirming previous US media reports of the meeting .
+########
+9
+<EOP> .
+########
+10
+Veselnitskaya was said to be a `` Russian government attorney , '' and her meeting with Trump Jr. has added fuel to suspicion in the United States that the Trump campaign had colluded with Russia during the election .
+suspicion	22	ps_cue
+########
+11
+<EOP> .
+########
+12
+On Wednesday , Peskov said Veselnitskaya does not represent the interests of Russia and the government will not investigate her .
+not	7	neg_cue
+will	16	ps_cue
+not	17	neg_cue
+########
+13
+<EOP> .
+########
+14
+Peskov compared repeated media coverage of the alleged Trump_Russia collusion to `` a long_running soap opera , which can compete with the most successful TV series aired in the United States . ''
+can	18	ps_cue
+########
+15
+<EOP> .
+########
+16
+`` There is no sense drawing us into such a soap opera as we are not taking part or playing roles in it , '' said the Kremlin spokesman .
+no	3	neg_cue
+not	15	neg_cue
+or	18	ps_cue
+########
+17
+<EOP> .
+########
+18
+In an interview with U.S. media on Tuesday , Veselnitskaya denied any links with the Russian government and said she did n't have any damaging information on Hillary Clinton , Trump 's presidential election rival .
+denied	10	neg_cue
+n't	21	neg_cue
+########
+19
+<EOP> .
+########

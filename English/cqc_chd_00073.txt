@@ -1,0 +1,102 @@
+Does Aussie committee call for establishment of Melbourne_Sydney ` mega_region '
+0
+Aussie committee calls for establishment of Melbourne_Sydney ` mega_region ' <EOP> .
+calls	2	CT+	CT+
+########
+1
+2017_06_20 11:02 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+MELBOURNE _ The influential Committee for Melbourne on Tuesday called for a `` mega_region '' to be formed along Australias eastern coast .
+called	9	CT+	CT+
+########
+4
+<EOP> .
+########
+5
+Martine Letts , chief of the committee , said that a rapid transport link between Melbourne and Sydney could see the `` mega_region '' become reality within a decade .
+could	18	ps_cue
+########
+6
+<EOP> .
+########
+7
+She said she believes the region , which would also include regional centers , could rival others in the world such as the Shanghai district and San Francisco_Los Angeles in the United States .
+would	8	ps_cue
+could	14	ps_cue
+########
+8
+<EOP> .
+########
+9
+The proposal by Letts came after the Royal Melbourne Institute of Technology LRB RMIT RRB University announced it believed a hyperloop could provide the link between Melbourne and Sydney .
+proposal	1	CT+	CT+
+believed	18	ps_cue
+could	21	ps_cue
+########
+10
+<EOP> .
+########
+11
+Championed by Teslas Elon Musk , hyperloop works by propelling a pod_like vehicle through a reduced_pressure tube at the speed of sound .
+########
+12
+<EOP> .
+########
+13
+Zac McLelland , chief executive officer LRB CEO RRB of VicHyper , said the technology already existed to make hyperloop a reality , and it just needed to be supported by governments .
+########
+14
+<EOP> .
+########
+15
+`` If we really wanted to do it , we could do it now , and be built within three to five years , '' McLelland told Australian media on Tuesday .
+wanted	4	ps_cue
+could	10	ps_cue
+########
+16
+<EOP> .
+########
+17
+He said that they would investigate the cost of hyperloop in 2017 and estimated it would cost around 30 billion U.S. dollars .
+would	4	ps_cue
+would	15	ps_cue
+########
+18
+<EOP> .
+########
+19
+Letts said that if hyperloop was built , Melbourne and Sydney could become one region that shares an economy and co_hosted major events .
+could	11	ps_cue
+########
+20
+<EOP> .
+########
+21
+`` The time for rivalry is over .
+########
+22
+To compete on the global stage and to deliver the best for our economy and people , it is imperative that Melbourne and Sydney work together , '' she said .
+########
+23
+<EOP> .
+########
+24
+`` A critical component for a successful eastern seaboard region is to bridge the geographical divide via an efficient intercity link .
+########
+25
+<EOP> .
+########
+26
+`` A rapid intercity link will support the vision .
+will	5	ps_cue
+########
+27
+We have the technology to conquer the distance . ''
+########
+28
+<EOP> .
+########

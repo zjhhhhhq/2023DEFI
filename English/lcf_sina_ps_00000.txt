@@ -1,0 +1,98 @@
+Is there another planet in our solar system 
+0
+You might have a replacement , Pluto .
+might	1	ps_cue
+########
+1
+There could be another planet in our solar system .
+planet	4	PS+	PS+
+could	1	ps_cue
+########
+2
+<EOP> .
+########
+3
+Researchers at the California Institute of Technology have found evidence in the outer solar system of an object that could be a real ninth planet .
+planet	24	PS+	PS+
+could	19	ps_cue
+########
+4
+<EOP> .
+########
+5
+Nicknamed Planet Nine , it `` has a mass about 10 times that of Earth and orbits about 20 times farther from the sun '' than Neptune .
+########
+6
+That means `` it would take this new planet between 10,000 and 20,000 years to make just one full orbit around the sun , '' according to Caltech .
+would	4	ps_cue
+########
+7
+<EOP> .
+########
+8
+Researchers Konstantin Batygin and Mike Brown have n't actually seen the planet , but other research helped lead them to conclude that there is one .
+planet	11	CT-	PS+
+one	24	CT+	PS+
+n't	7	neg_cue
+########
+9
+Basically , they found that certain objects in the Kuiper Belt __ the field of icy objects and debris beyond Neptune __ had orbits that peculiarly pointed in the same direction .
+objects	6	neg_cue
+objects	16	neg_cue
+########
+10
+<EOP> .
+########
+11
+Over time , mathematical modeling and computer simulation led them to the conclusion that a planet was exerting the gravity necessary to shape these orbits .
+########
+12
+<EOP> .
+########
+13
+Brown says `` there have only been two true planets discovered since ancient times , and this would be a third .
+would	17	ps_cue
+########
+14
+It 's a pretty substantial chunk of our solar system that 's still out there to be found , which is pretty exciting . ''
+########
+15
+<EOP> .
+########
+16
+Already , Caltech is pretty confident Planet Nine is large enough to rule out any debate about whether it 's a true planet __ unlike Pluto , which got the boot in 2006 .
+whether	17	ps_cue
+########
+17
+<EOP> .
+########
+18
+Brown , who played a role in Pluto 's demotion to a dwarf planet , says `` all those people who are mad that Pluto is no longer a planet can be thrilled to know that there is a real planet out there still to be found .
+no	26	neg_cue
+can	30	ps_cue
+########
+19
+Now we can go and find this planet and make the solar system have nine planets once again . ''
+can	2	ps_cue
+########
+20
+<EOP> .
+########
+21
+Depending on where Planet Nine is in its `` bizarre , highly elongated orbit , '' many telescopes have a shot at finding it .
+########
+22
+Brown would love to find a planet he helped discover , `` but I 'd also be perfectly happy if someone else found it .
+would	1	ps_cue
+love	2	ps_cue
+########
+23
+That is why we 're publishing this paper .
+########
+24
+We hope that other people are going to get inspired and start searching . ''
+hope	1	ps_cue
+########
+25
+<EOP> .
+########

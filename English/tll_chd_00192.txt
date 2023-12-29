@@ -1,0 +1,149 @@
+Will China 's Lander reaffirms invest in UK soccer club
+0
+China 's Lander reaffirms intention to invest in UK soccer club <EOP> .
+invest	6	PS+	PS+
+########
+1
+2017_04_18 21:18 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+China 's Lander Holding Group on Tuesday reaffirmed its intention to invest in Southampton Football Club 's parent company .
+invest	11	PS+	PS+
+########
+4
+It was responding to reports that it was dropping the deal .
+########
+5
+<EOP> .
+########
+6
+<EOP> .
+########
+7
+<EOP> .
+########
+8
+Southampton 's Steven Davis in action with Manchester City 's Kevin De Bruyne during the Premier League at St Mary 's Stadium April 15 , 2017 .
+########
+9
+LRB Photo_Agencies RRB <EOP> .
+########
+10
+<EOP> .
+########
+11
+China 's Lander Holding Group on Tuesday reaffirmed its intention to invest in Southampton Football Club 's parent company .
+invest	11	PS+	PS+
+########
+12
+It was responding to reports that it was dropping the deal .
+########
+13
+<EOP> .
+########
+14
+The announcement was the latest move in a wave of Chinese investor activity involving top_flight European soccer clubs .
+########
+15
+<EOP> .
+########
+16
+Earlier this month , China 's Rossoneri Sport Investment Lux successfully concluded a lengthy bidding process by acquiring AC Milan from its owner , former Italian Prime Minister Silvio Berlusconi , for 740 million euros LRB $ 787 million RRB , including debt .
+########
+17
+<EOP> .
+########
+18
+The purchase means two of the biggest clubs in Italy 's Serie A _ AC Milan and rivals Inter Milan _ are under Chinese ownership .
+########
+19
+<EOP> .
+########
+20
+In the UK , leading clubs Aston Villa , West Bromwich Albion , and Wolverhampton Wanders are all Chinese owned .
+########
+21
+Birmingham City was acquired last year by a group of Hong Kong_based investors .
+########
+22
+<EOP> .
+########
+23
+Lander , a Shanghai_based private_sector conglomerate , started discussions last year with Southampton 's holding company , St. Mary 's Football Group , with the intention of buying an 80 percent stake through Lander subsidiary Lander Sports Development .
+########
+24
+<EOP> .
+########
+25
+Last Sunday , Lander Sports issued a statement , saying it was terminating plans to invest in St. Mary 's Football Group .
+invest	15	PS+	PS+
+plans	13	ps_cue
+########
+26
+The statement cited uncertainty following changes in China 's securities market and relevant policies .
+########
+27
+Various media outlets interpreted the statement as evidence that the deal was dead .
+########
+28
+<EOP> .
+########
+29
+But Lander Holding Group has since said it intends to see the deal go forward , but that it will involve the unlisted parent company directly , and not be done through the subsidiary .
+forward	14	ps_cue
+forward	14	neg_cue
+will	19	ps_cue
+not	28	neg_cue
+########
+30
+Lander has refused to issue additional comments .
+refused	2	neg_cue
+########
+31
+<EOP> .
+########
+32
+The value of the deal , and its timeline , are not known .
+not	11	neg_cue
+########
+33
+<EOP> .
+########
+34
+Southampton 's holding company is owned by Katharina Liebherr , who inherited the club from her father after his death in 2010 .
+########
+35
+In January , she said `` any steps we do take will be in the best interests of the club '' .
+will	11	ps_cue
+########
+36
+<EOP> .
+########
+37
+Referring to the partnership with Lander , Liebherr said : `` The Premier League is increasingly competitive ; we need to keep moving forward and look to new markets for commercial growth , innovation and to share our journey .
+need	19	ps_cue
+forward	23	ps_cue
+forward	23	neg_cue
+########
+38
+Together , we have had many years of progression and success , and ensuring this continues is the main focus of any possible partnership . ''
+possible	22	ps_cue
+########
+39
+<EOP> .
+########
+40
+Southampton currently lies ninth in the English Premier League .
+########
+41
+<EOP> .
+########
+42
+<EOP> .
+########
+43
+<EOP> .
+########

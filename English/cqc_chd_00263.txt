@@ -1,0 +1,139 @@
+Will Brexit negotiations move forward 
+0
+May in Brussels for moment of truth with EU <EOP> .
+May	0	ps_cue
+########
+1
+2017_12_05 08:01 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+UK Prime Minister Theresa May was scheduled to meet European Commission President Jean_Claude Juncker on Monday for crunchtime talks that could determine whether Brexit negotiations can continue into a second phase .
+negotiations	24	PS+	PS+
+could	20	ps_cue
+May	4	ps_cue
+scheduled	6	ps_cue
+whether	22	ps_cue
+can	25	ps_cue
+########
+4
+<EOP> .
+########
+5
+Brussels has stipulated that `` significant progress '' must be reached on three key issues _ namely the status of the border between Northern Ireland and the Republic of Ireland , citizens ' rights , and the Brexit divorce bill _ before negotiations on trade and the United Kingdom 's future relationship with the European Union can begin .
+negotiations	42	CT+	PS+
+can	56	ps_cue
+########
+6
+<EOP> .
+########
+7
+Last year , the UK voted to leave the EU in a national referendum .
+########
+8
+<EOP> .
+########
+9
+It is thought that the Irish border remains a sticking point , while good progress has been made on the other two issues .
+########
+10
+<EOP> .
+########
+11
+A Brussels diplomat told Reuters there was cautious optimism that negotiations will move forward .
+negotiations	10	CT+	PS+
+will	11	ps_cue
+forward	13	ps_cue
+forward	13	neg_cue
+########
+12
+The diplomat said much would depend on the outcome of May 's talks over lunch .
+would	4	ps_cue
+May	10	ps_cue
+########
+13
+<EOP> .
+########
+14
+`` I have a good feeling but I am not prejudging the outcome , '' the diplomat said .
+not	9	neg_cue
+########
+15
+<EOP> .
+########
+16
+May was scheduled to meet with Juncker and Donald Tusk , the president of the European Council , at midday in Brussels .
+May	0	ps_cue
+scheduled	2	ps_cue
+########
+17
+<EOP> .
+########
+18
+The UK Prime Minister 's office has said the meeting will be an `` important staging post '' on the road to a `` crucial '' summit with representatives of the other 27 EU members , on Dec 14 and 15 , when the UK hopes trade talks can commence .
+will	10	ps_cue
+hopes	45	ps_cue
+can	48	ps_cue
+########
+19
+<EOP> .
+########
+20
+The two sides are understood to have made good progress on establishing the status of the approximately 3 million EU citizens living in the UK and the around 1 million UK citizens living in EU nations .
+########
+21
+Discussion points will have included whether the European Court of Justice should have jurisdiction over EU nationals in Britain , whether UK citizens should be able to work without restriction in EU nations , and whether EU and UK citizens working in those respective regions can bring their families with them .
+will	2	ps_cue
+whether	5	ps_cue
+should	11	ps_cue
+whether	20	ps_cue
+should	23	ps_cue
+without	28	neg_cue
+whether	35	ps_cue
+can	45	ps_cue
+########
+22
+<EOP> .
+########
+23
+Divorce bill <EOP> .
+########
+24
+Regarding the Brexit divorce bill , the EU wants assurances that the UK will `` honor its commitments '' and uphold a financial settlement upon leaving the EU .
+wants	8	ps_cue
+will	13	ps_cue
+########
+25
+The two sides are thought to be close to reaching an agreement about the bill , which is thought to be in the region of 50 billion pounds LRB $ 67.6 billion RRB .
+########
+26
+<EOP> .
+########
+27
+An agreement on the Irish border is thought to be some way off .
+########
+28
+It is understood that EU officials and leaders from the Republic of Ireland will require a commitment from May that the dividing line will not become a `` hard border '' .
+will	13	ps_cue
+May	18	ps_cue
+will	23	ps_cue
+not	24	neg_cue
+########
+29
+<EOP> .
+########
+30
+Simon Coveney , Ireland 's foreign minister , said on Sunday Ireland had `` no desire '' to hinder the progress of negotiations but noted that the country wants a concrete proposal about how the UK plans to establish a border without customs and people_checks .
+no	14	neg_cue
+wants	28	ps_cue
+plans	36	ps_cue
+without	41	neg_cue
+########
+31
+<EOP> .
+########
+32
+angus@mail.chinadailyuk.com <EOP> .
+########

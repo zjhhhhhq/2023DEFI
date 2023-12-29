@@ -1,0 +1,73 @@
+Will When Marnie Was There directed by Hiromasa Yonebayashi be the last LRB from Studio Ghibli RRB
+0
+This summer , the new Studio Ghibli movie When Marnie Was There directed by Hiromasa Yonebayashi could be Ghibli 's last .
+last	20	PS+	PS+
+could	16	ps_cue
+########
+1
+<EOP> .
+########
+2
+Studio Ghibli is best known for iconic anime like My Neighbor Totoro , Grave of the Fireflies , and Kiki 's Delivery Service .
+like	8	ps_cue
+########
+3
+Last year , the creator of many of Ghibli 's best known works , Hayao Miyazaki , retired from making feature animated films .
+works	12	CT+	PS+
+########
+4
+<EOP> .
+########
+5
+Insider told Japanese site News Cafe that Ghibli 's latest release , When Marnie Was There , `` seems like it will be the last LRB from Studio Ghibli RRB . ''
+latest	9	CT+	PS+
+seems	18	ps_cue
+like	19	ps_cue
+will	21	ps_cue
+########
+6
+The article appeared on Rakuten , one of Japan 's largest web portals .
+appeared	2	ps_cue
+########
+7
+<EOP> .
+########
+8
+`` From here on , it appears as though this wo n't be a studio that makes new works , but instead , manages its copyrights . ''
+appears	6	ps_cue
+n't	11	neg_cue
+instead	21	neg_cue
+########
+9
+<EOP> .
+########
+10
+The insider added animated films required tremendous amounts of money , so there is pressure for the films to be successful so Ghibli can cover its costly production expenses as well as , I 'd imagine , remain healthy and profitable .
+can	23	ps_cue
+########
+11
+By the insider 's count , each film apparently needs to make at least ten billion yen LRB US$ 100 million RRB to cover all its production costs as well as , I 'd imagine , turn a healthy profit .
+needs	9	ps_cue
+########
+12
+<EOP> .
+########
+13
+`` There 's no choice but to dissolve the studio , because it 's unable cross the high hurdle of announcing a new film on an annual basis . ''
+no	3	neg_cue
+unable	14	neg_cue
+########
+14
+<EOP> .
+########
+15
+A bright point is that Goro Miyazaki , Hayao Miyazaki 's son , is directing Ghibli 's first animated TV series , Ronia the Robber 's Daughter .
+series	20	CT+	PS+
+########
+16
+The computer animated series is a co_production , however , with Polygon Pictures and will debut this fall .
+will	14	ps_cue
+########
+17
+<EOP> .
+########

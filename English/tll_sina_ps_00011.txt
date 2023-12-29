@@ -1,0 +1,110 @@
+Did the driver be warned that he is about to cause a crash
+0
+Let 's face it , almost all automobile crashes are caused by human error .
+########
+1
+But what if there were a way to predict driving mistakes right before they happen ?
+predict	8	ps_cue
+########
+2
+<EOP> .
+########
+3
+That 's the promise of new technology under development by researchers at Cornell and Stanford universities .
+########
+4
+While many cars already have sensors and cameras that watch line markings and surrounding vehicles , this new system also uses cameras inside the car to monitor the driver .
+########
+5
+<EOP> .
+########
+6
+Subtle movements of the head and body can indicate that a driver is about to turn or change lanes in the next few seconds .
+can	7	ps_cue
+indicate	8	ps_cue
+or	16	ps_cue
+########
+7
+With that information , combined with data from sensors outside the car , computers can predict that a driver is going to make a dangerous move .
+can	14	ps_cue
+predict	15	ps_cue
+########
+8
+Example : turning left in front of an oncoming car .
+########
+9
+<EOP> .
+########
+10
+The driver could then be warned that he is about to cause a crash .
+warned	5	PS+	PS+
+could	2	ps_cue
+########
+11
+<EOP> .
+########
+12
+The system could also use GPS data to warn a driver that , say , the turn he 's about to make is illegal at that time of day .
+warn	8	PS+	PS+
+could	2	ps_cue
+########
+13
+<EOP> .
+########
+14
+To develop the system , Cornell 's Ashutosh Saxena and his colleagues recorded video of 10 drivers and combined it with video looking forward from their cars as they drove .
+forward	23	ps_cue
+forward	23	neg_cue
+########
+15
+In all , almost 1,200 miles of city and highway driving over two months was recorded and analyzed .
+########
+16
+<EOP> .
+########
+17
+Computers learned to correlate certain head and body movements with impending driving maneuvers .
+########
+18
+When tested later with a different set of drivers , the technology correctly predicted driving maneuvers 77.4 % of the time .
+predicted	13	ps_cue
+########
+19
+On average , a turn or lane change was anticipated more than 3.5 seconds before it happened .
+or	5	ps_cue
+########
+20
+<EOP> .
+########
+21
+More refinement is still needed , according to the researchers .
+########
+22
+Drivers interacting with passengers could confound the system .
+could	4	ps_cue
+########
+23
+And some driving situations , like turning from a turn_only lane , do n't always involve the same physical cues .
+like	5	ps_cue
+n't	13	neg_cue
+########
+24
+<EOP> .
+########
+25
+Eye_tracking capability and more sophisticated cameras could be added for greater precision .
+could	6	ps_cue
+########
+26
+Sensors could be added to the steering wheel and pedals to pick up a driver 's movements .
+could	1	ps_cue
+########
+27
+<EOP> .
+########
+28
+So far , this technology is in the early stages , but the researchers are in active discussions with automakers , Saxena said .
+########
+29
+<EOP> .
+########

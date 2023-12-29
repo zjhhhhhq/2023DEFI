@@ -1,0 +1,126 @@
+Does Xi see ` new vistas ' in Sino_US ties
+0
+Xi sees ` new vistas ' in Sino_US ties <EOP> .
+vistas	4	CT+	CT+
+########
+1
+2017_11_22 10:24 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+Letter to group says Trump visit has led to consensus on several fronts <EOP> .
+########
+4
+President Xi Jinping wrote in a congratulatory letter to the National Committee on US_China Relations that the two nations ' relationship `` enjoys whole new vistas '' .
+vistas	25	CT+	CT+
+########
+5
+<EOP> .
+########
+6
+The organization held its annual gala at The Plaza hotel in New York on Monday , and Cui Tiankai , China 's ambassador to the US , read Xi 's letter .
+########
+7
+<EOP> .
+########
+8
+In it , he offered `` heartfelt appreciation '' for the relations committee 's efforts to promote China_US ties .
+########
+9
+He also congratulated the US corporations honored at the event .
+########
+10
+<EOP> .
+########
+11
+Microsoft Corp and Qualcomm Inc were honored for their efforts to enhance China_US relations by the way they conduct business in China .
+########
+12
+<EOP> .
+########
+13
+`` Going forward , China will stay committed to deepening its reform , opening itself wider to the world and enhancing its friendship and cooperation with other countries , '' Xi wrote .
+forward	2	ps_cue
+forward	2	neg_cue
+will	5	ps_cue
+########
+14
+`` In this context , the China_US relationship enjoys whole new vistas . ''
+vistas	11	CT+	CT+
+########
+15
+<EOP> .
+########
+16
+He added that he and US President Donald Trump , during Trump 's state visit to China this month , `` reached important consensuses on a broad range of issues '' .
+########
+17
+<EOP> .
+########
+18
+The leaders agreed to broaden bilateral exchanges and cooperation , strengthen communication and coordination on major international and regional issues , deal with differences on the basis of mutual respect and aim `` for greater development of our bilateral relationship '' .
+########
+19
+<EOP> .
+########
+20
+`` China will work with the United States to translate these consensuses into actions and deliver greater benefits not only to our two peoples but also to people across the world , '' Xi wrote .
+will	2	ps_cue
+not	18	neg_cue
+########
+21
+`` I will count on your Committee and all the Chinese and American friends ... to contribute to the friendship and cooperation between China and the United States . ''
+will	2	ps_cue
+########
+22
+<EOP> .
+########
+23
+Cui , in his remarks , agreed with the Chinese president about opportunities for China_US relations , and added , `` China seeks global partnerships , not global dominance .
+opportunities	12	ps_cue
+seeks	22	ps_cue
+not	26	neg_cue
+########
+24
+China stands for better cooperation and communication among our major partners .
+########
+25
+China will never seek our own development at the expense of other countries . ''
+will	1	ps_cue
+never	2	neg_cue
+########
+26
+<EOP> .
+########
+27
+Steve Howe , US chairman and Americas managing partner of EY , formerly Ernst and Young , presented the award to Microsoft and described China 's rising role in the world .
+########
+28
+<EOP> .
+########
+29
+`` I visited China for the first time while I was a senior at Colgate University .
+########
+30
+... So much has changed in the past 35 years _ China has transformed itself , '' he said .
+########
+31
+<EOP> .
+########
+32
+Microsoft President Brad Smith made a video comment .
+########
+33
+`` It 's simply impossible to imagine the bright future for our planet that is not founded on a healthy relationship between China and the US _ that 's part of the reason why we are focusing on events more , just to support this vital bridge across the Pacific . ''
+impossible	4	ps_cue
+impossible	4	neg_cue
+not	15	neg_cue
+########
+34
+<EOP> .
+########
+35
+<EOP> .
+########

@@ -1,0 +1,138 @@
+Will including a photo with a job application lead to an interview for a pretty woman
+0
+A beautiful woman can use her looks for many things _ but getting a job , it seems , is not one of them .
+can	3	ps_cue
+seems	17	ps_cue
+not	20	neg_cue
+########
+1
+<EOP> .
+########
+2
+Including a photo with a job application is less likely to lead to an interview for a pretty woman than it is for a plain Jane _ or someone who sends no picture at all , research suggests .
+lead	11	PS+	PS+
+likely	9	ps_cue
+or	27	ps_cue
+no	31	neg_cue
+suggests	37	ps_cue
+########
+3
+<EOP> .
+########
+4
+In contrast , a handsome man boosts his chances of getting to the next stage of the selection process if he includes a photo .
+########
+5
+<EOP> .
+########
+6
+The researchers say it is likely that women who already work in the company are jealous of beautiful rivals moving on to their territory .
+likely	5	ps_cue
+########
+7
+The Canadian and Israeli researchers submitted pairs of CVs to more than 2,500 jobs advertised over an 18_month period .
+########
+8
+<EOP> .
+########
+9
+The CVs contained fictional personal details , were designed to make the candidates sound appealing and included good qualifications and work experience .
+########
+10
+<EOP> .
+########
+11
+One CV from each pair contained a photo of someone judged to be attractive or plain _ with research showing that the attractive ` candidates ' were ` unmistakably better looking ' than the plain ones .
+or	14	ps_cue
+########
+12
+<EOP> .
+########
+13
+Previous studies have found evidence of a ` beauty premium ' , with good_looking people judged to be brainier and more trustworthy .
+########
+14
+They also tend to hold more prestigious jobs and be paid more .
+tend	2	ps_cue
+########
+15
+<EOP> .
+########
+16
+In this study , for the female ` candidates ' the CVs without pictures were most likely to lead to an interview .
+lead	18	PS+	PS+
+without	12	neg_cue
+likely	16	ps_cue
+########
+17
+The applications with photos of plain women were the next most successful , but the beautiful women fared worst .
+########
+18
+<EOP> .
+########
+19
+The findings could not be explained by the jobs , qualifications or amount of public_facing work involved .
+could	2	ps_cue
+not	3	neg_cue
+or	11	ps_cue
+########
+20
+Researcher Bradley Ruffle , of Wilfrid Laurier University in Ontario , Canada , believes good_looking women are being penalised for their beauty .
+########
+21
+And with his research showing that most of those doing the recruiting were young , single females , he thinks jealousy is to blame .
+########
+22
+<EOP> .
+########
+23
+He said : ` Females in charge of hiring may well be jealous of prospective female employees who are attractive and compete with them for mates , or at least for the attention of male co_workers . '
+may	9	ps_cue
+or	27	ps_cue
+########
+24
+<EOP> .
+########
+25
+He said it is also possible that attractive women are seen as ` social magnets ' who lower productivity .
+possible	5	ps_cue
+########
+26
+Or , he suggested , men may be deterred from hiring them over fear of a backlash from their spouses .
+suggested	3	ps_cue
+may	6	ps_cue
+########
+27
+<EOP> .
+########
+28
+When it came to the chaps , CVs that included pictures of handsome males were the most successful , while CVs without a photo did next best and plain males fared worst .
+without	21	neg_cue
+########
+29
+<EOP> .
+########
+30
+Dr Ruffle said : ` A plain male needs to send over twice as many CVs as an attractive male for an equal chance at a callback . '
+needs	8	ps_cue
+########
+31
+<EOP> .
+########
+32
+He said that recruitment agencies , in particular , may be relying on photos to choose between identically qualified candidates .
+may	9	ps_cue
+########
+33
+Keen to make a good impression with the company using them , they may avoid putting forward unattractive male applicants .
+may	13	ps_cue
+avoid	14	neg_cue
+forward	16	ps_cue
+forward	16	neg_cue
+########
+34
+<EOP> .
+########
+35
+Vocabulary <EOP> .
+########

@@ -1,0 +1,144 @@
+Will Guizhou province build itself into China 's `` Big Data Valley '' 
+0
+China 's ` Silicon Valley ' takes shape <EOP> .
+########
+1
+2017_08_15 14:36 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+Guizhou province , which hopes to build itself into China 's `` Big Data Valley '' , is looking to link up with Silicon Valley .
+build	6	PS+	PS+
+hopes	4	ps_cue
+########
+4
+<EOP> .
+########
+5
+`` Silicon Valley is the heart of the world 's innovation , so we attach great importance to cooperation with the US , especially Silicon Valley , '' said Qin Rupei , vice_governor of Guizhou , at a conference on Friday in San Jose , California .
+########
+6
+<EOP> .
+########
+7
+The conference , which drew more than 200 participants from high_tech and entrepreneurial communities , was aimed at promoting China 's first national Big Data pilot zone in the southwestern province .
+promoting	18	CT+	PS+
+########
+8
+<EOP> .
+########
+9
+In 2015 , China adopted Big Data as a national development strategy and the efforts of Guizhou were recognized by the central government .
+########
+10
+In early 2016 , the National Big Data Comprehensive Pilot Zone was established in Guizhou , with the goal of improving the government 's administrative abilities , promoting industrial transformation and upgrading , as well as improving people 's livelihood through Big Data services .
+########
+11
+<EOP> .
+########
+12
+`` While developing the Big Data industry , we have been emphasizing opening_up , '' said Qin .
+########
+13
+`` Guizhou 's rapid economic growth and increasing level of opening_up makes the province suitable for other countries to participate in developing a ` Big Data Valley ' , providing broader markets and more diverse business opportunities . ''
+makes	11	CT+	PS+
+opportunities	36	ps_cue
+########
+14
+<EOP> .
+########
+15
+The province has begun building green data centers at 12 national pilot sites .
+########
+16
+The 12 centers can load 13,400 racks and support installation of 158,000 servers .
+can	3	ps_cue
+########
+17
+By 2020 , those centers are expected to load 2 million servers , with an industrial chain value of more than $ 15 billion , according to the Guizhou Provincial Leading Group for Big Data Development .
+expected	6	ps_cue
+########
+18
+<EOP> .
+########
+19
+`` Guizhou enjoys the advantages that the Big Data industry requires .
+########
+20
+It is one of the most suitable places for developing big data in China or in the world , '' Qin said .
+or	14	ps_cue
+########
+21
+<EOP> .
+########
+22
+The advantages include a favorable ecological environment with average annual temperatures of 59 degrees Fahrenheit , abundant hydropower and thermal_power resources , a stable underlying geologic structure far from seismic faults and supportive policies .
+########
+23
+<EOP> .
+########
+24
+To attract enterprises to the pilot zone , the province has introduced favorable policies on taxes , land use , logistics , electricity prices , financial services and personnel training .
+########
+25
+<EOP> .
+########
+26
+The province incorporates Big Data projects in urban planning and annual planning for land use , and offers broadband rent subsidies to Big Data companies , according to the provincial big data group .
+planning	8	ps_cue
+planning	11	ps_cue
+########
+27
+<EOP> .
+########
+28
+Chinese tech companies like Alibaba , Baidu , Tencent and Huawei have set up research and development centers in the pilot zone .
+like	3	ps_cue
+########
+29
+<EOP> .
+########
+30
+Tencent has been working with Guizhou in such areas as smart city , poverty relief and chronic disease management .
+########
+31
+The company also plans to locate its data backup center for disaster recovery in the province .
+plans	3	ps_cue
+########
+32
+Foxconn has located a 4th_generation industrial park , green tunnel data center and RandD center in Guizhou .
+########
+33
+<EOP> .
+########
+34
+Big international companies have also established partnerships with Guizhou .
+########
+35
+<EOP> .
+########
+36
+Qualcomm , which set up regional headquarters for China in Guizhou , has invested in an integrated circuit industry to develop server chips for the Chinese market .
+########
+37
+Microsoft is working with the province to build a `` bulk data '' laboratory , education cloud and a cloud for middle _ and small_sized enterprises .
+########
+38
+Google is developing international e_commerce projects for targeted marketing through global big data analysis .
+########
+39
+<EOP> .
+########
+40
+Last month , Guizhou and Apple signed an iCloud strategic cooperation agreement , under which Guizhou_Cloud Big Data Industry Co will become the unique service provider of Apple to improve user experience .
+will	20	ps_cue
+########
+41
+The two parties will collaborate to build a big data center in Guian New Area , a national_level new urban district in Guizhou .
+will	3	ps_cue
+########
+42
+<EOP> .
+########

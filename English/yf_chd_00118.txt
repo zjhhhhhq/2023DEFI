@@ -1,0 +1,69 @@
+Is the rapid train service in San Francisco disrupted 
+0
+Rapid train service in San Francisco disrupted for hours after one man killed by <EOP> .
+########
+1
+2017_12_17 11:07 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+SAN FRANCISCO _ A man was struck and killed by a train at a station of the Bay Area Rapid Transit system in the US city of San Francisco on Saturday , resulting in the disruption of the service throughout the system for a few hours , local media reported .
+disruption	35	CT+	CT+
+########
+4
+<EOP> .
+########
+5
+BART spokeswoman Cheryl Stalter said the person was pinned under a train and was killed early Saturday morning , without disclosing the identity of the victim .
+without	19	neg_cue
+########
+6
+<EOP> .
+########
+7
+The accident caused a major delay in downtown San Francisco , while the direct service into the city center from another two lines was also suspended .
+delay	5	CT+	CT+
+suspended	25	neg_cue
+########
+8
+<EOP> .
+########
+9
+`` Stn closure at POWL due to a major medical emergency , trains will not be stopping at POWL stn , '' the BART authorities said via the official Twitter account .
+will	13	ps_cue
+not	14	neg_cue
+stopping	16	neg_cue
+########
+10
+<EOP> .
+########
+11
+The last similar incident was reported in August this year when a person on the tracks at BART 's Bay Fair station was killed .
+########
+12
+The incident prompted a nearly two_hour closure of the Bay Fair station with only single_tracked train services maintained during the closure .
+closure	6	CT+	CT+
+########
+13
+<EOP> .
+########
+14
+BART is a main rail transportation system for the San Francisco Bay Area , a populous region surrounding the San Francisco , San Pablo and Suisun estuaries in California .
+########
+15
+<EOP> .
+########
+16
+About 7.68 million people live in the nine_county Bay Area which contains many cities , towns , airports , as well as regional , state and national parks .
+########
+17
+<EOP> .
+########
+18
+An average 430,000 trips were recorded on weekdays for the BART system , and about 129 million people choose it as their daily commute service every year .
+########
+19
+<EOP> .
+########

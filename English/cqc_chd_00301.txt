@@ -1,0 +1,92 @@
+Do five didders race on contract to build Britain 's fastest trains for HS2 link
+0
+Race on contract to build Britain 's fastest trains for HS2 link <EOP> .
+trains	8	CT+	CT+
+########
+1
+2017_11_03 10:15 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+<EOP> .
+########
+4
+A electronic billboard promoting the HS2 transport link development and the city of Birmingham is seen during the annual Conservative Party Conference in Birmingham , Britain , Oct 2 , 2016 .
+########
+5
+LRB Photo_Agencies RRB <EOP> .
+########
+6
+LONDON _ The names of five bidders vying to win a 2.75 _ billion_pound LRB $ 3.65 billion RRB contract to build Britain 's fastest_ever train were revealed Thursday by HS2 Ltd , the state_backed company behind the country 's high_speed rail network .
+train	25	CT+	CT+
+########
+7
+<EOP> .
+########
+8
+The next generation of state_of_the_art high speed trains will carry tens of thousands of people every day on the route between London , Birmingham and northern England .
+trains	7	CT+	CT+
+will	8	ps_cue
+########
+9
+<EOP> .
+########
+10
+The shortlisted bidders are : Alstom Transport ; Bombardier Transportation UK Ltd ; Hitachi Rail Europe ; Patentes Talgo SLU , and Siemens PLC. .
+########
+11
+They will all be invited to tender for the contracts , which will cover the design , building , and maintenance of at least 54 trains that will come into service from 2026 .
+trains	25	CT+	CT+
+will	1	ps_cue
+will	12	ps_cue
+will	27	ps_cue
+########
+12
+<EOP> .
+########
+13
+The new trains will be required to meet design and performance needs and the highest standards internationally for passenger experience , noise reduction , and environmental sustainability .
+trains	2	CT+	CT+
+will	3	ps_cue
+needs	11	ps_cue
+########
+14
+All bidders will be invited to submit their bid in spring 2018 , with contracts awarded in 2019 .
+will	2	ps_cue
+########
+15
+<EOP> .
+########
+16
+HS2 will create around 25,000 jobs and 2,000 apprenticeships in construction and also across the country supply chain .
+will	1	ps_cue
+########
+17
+<EOP> .
+########
+18
+HS2 rail minister Paul Maynard said : `` Thousands of skilled British jobs and apprenticeships will be created by HS2 , which gets a step closer as we reveal the companies shortlisted to build the high speed trains . ''
+will	15	ps_cue
+########
+19
+<EOP> .
+########
+20
+Providing a world_class passenger experience is at the heart of the requirements for the contract .
+########
+21
+The new trains will also serve destinations beyond the core HS2 network , including York , Newcastle , Liverpool , the North West , Glasgow and Edinburgh .
+trains	2	CT+	CT+
+will	3	ps_cue
+########
+22
+<EOP> .
+########
+23
+The HS2 project is Britain 's biggest_ever investment in its railways , aimed at solving an overcrowding problem on existing south to northbound trains from London .
+########
+24
+<EOP> .
+########

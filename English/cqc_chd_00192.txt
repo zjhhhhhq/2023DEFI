@@ -1,0 +1,134 @@
+Were agreements reached at the UPDJC meeting 
+0
+Peace in sight as talks gather pace <EOP> .
+talks	4	CT+	CT+
+########
+1
+2017_05_16 08:14 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+Government , groups agree on regional constitution <EOP> .
+########
+4
+YANGON , Myanmar _ Myanmar 's peace process is gaining momentum as it heads for the second meeting of the 21st Century Panglong Peace Conference slated for May 24 , open to all ethnic armed groups .
+May	27	ps_cue
+########
+5
+<EOP> .
+########
+6
+A latest meeting of the Union Peace Dialogue Joint Committee , chaired by State Counselor Aung San Suu Kyi and held late last week , has unprecedentedly agreed on self_legislation of regional or state governments , achieving a breakthrough in the political dialogue between the government and armed groups .
+meeting	2	CT+	CT+
+or	32	ps_cue
+########
+7
+<EOP> .
+########
+8
+The deal , made up of 21 agreements , will be submitted to the upcoming second meeting of the peace conference in Nay Pyi Taw for approval .
+will	9	ps_cue
+########
+9
+<EOP> .
+########
+10
+The agreement covers sovereignty , equality , self_legislation , federal union principle or structure and delegation of authority and the democratic system .
+or	12	ps_cue
+########
+11
+<EOP> .
+########
+12
+The granting of rights for the self_drawing of constitutions for individual states will be the first ever in Myanmar 's history .
+will	12	ps_cue
+########
+13
+<EOP> .
+########
+14
+However , the regional constitution will not supersede the country 's overall constitution and the agreement will be applied within the regions , some ethnic leaders clarified .
+will	5	ps_cue
+not	6	neg_cue
+will	16	ps_cue
+########
+15
+<EOP> .
+########
+16
+The other points of the agreements reached at the meeting were related to sectors of economy , social affairs , farmland and natural resources and environment .
+meeting	9	CT+	CT+
+########
+17
+<EOP> .
+########
+18
+Important lesson <EOP> .
+########
+19
+Suu Kyi , at the UPDJC meeting , called for efforts to make the conference a success , describing Myanmar 's peace process as part of the world 's and saying that the process can be taken as an important lesson and example for other countries in conflicts .
+meeting	6	CT+	CT+
+can	34	ps_cue
+########
+20
+<EOP> .
+########
+21
+The UPDJC meeting discussed a range of matters dealing with probable signing agreements in the Panglong peace conference and adopted decisions on some sectors in the agenda related with politics , economy , social affairs , farmland , environment and security .
+meeting	2	CT+	CT+
+probable	10	ps_cue
+########
+22
+<EOP> .
+########
+23
+Myanmar 's peace commission also negotiated deals with non_ceasefire signatory armed groups to the Nationwide Cease_fire Accord last week to enable them to attend the conference .
+########
+24
+<EOP> .
+########
+25
+The negotiations , which took place in Chiang Mai , Thailand , covered areas proposed by the armed groups ' Delegation for Political Negotiation , for them to sign the cease_fire pact .
+proposed	14	ps_cue
+########
+26
+<EOP> .
+########
+27
+The DPN consists of seven non_ceasefire signatories , mainly the Kachin Independence Organization , Kayinni National Progressive Party and New Mon State Party .
+########
+28
+<EOP> .
+########
+29
+The agreement comes after Suu Kyi this month snubbed a United Nations resolution backed by the European Union recommending an international investigation into the situation of Myanmar 's northern Rakhine state .
+########
+30
+She said that the resolution was not `` in keeping with what is actually happening on the ground . ''
+not	6	neg_cue
+########
+31
+<EOP> .
+########
+32
+`` If we think that the recommendations are in keeping with the real needs of the region , we would be happy to accept them , '' she said after a meeting with EU foreign policy chief Federica Mogherini in Brussels .
+needs	13	ps_cue
+would	19	ps_cue
+########
+33
+<EOP> .
+########
+34
+Suu Kyi reaffirmed that her country will not accept `` those recommendations which will divide further the two communities in Rakhine , '' referring to the tension between the state 's Buddhist majority and Muslim minority .
+will	6	ps_cue
+not	7	neg_cue
+will	13	ps_cue
+########
+35
+<EOP> .
+########
+36
+Xinhua <EOP> .
+########

@@ -1,0 +1,96 @@
+Does United Airlines face mounting pressure over hospitalized passenger
+0
+United Airlines faces mounting pressure over hospitalized passenger <EOP> .
+pressure	4	CT+	CT+
+########
+1
+2017_04_12 09:35 <EOP> .
+########
+2
+null <EOP> .
+########
+3
+<EOP> .
+########
+4
+Community member protests the treatment of Dr. David Dao , who was forcibly removed from a United Airlines flight on Sunday by the Chicago Aviation Police , at O'Hare International Airport in Chicago , Illinois , US , April 11 , 2017 .
+########
+5
+LRB Photo_Agencies RRB <EOP> .
+########
+6
+United Airlines and its chief executive faced mounting pressure on Tuesday from a worldwide backlash over its treatment of a passenger who was dragged from his seat on a plane on Sunday to make room for four employees on the overbooked flight .
+pressure	8	CT+	CT+
+########
+7
+<EOP> .
+########
+8
+Lawyers for the passenger , Dr. David Dao , issued a statement late on Tuesday confirming his identity and saying that he and his family were `` focused only on Dr. Dao 's medical care and treatment '' in a Chicago hospital .
+########
+9
+<EOP> .
+########
+10
+The US Department of Transportation launched an inquiry into the incident , and New Jersey Governor Chris Christie called for new rules to curb the airline practice of overbooking flights .
+########
+11
+<EOP> .
+########
+12
+United CEO Oscar Munoz issued a statement on Tuesday apologizing to Dao without naming him .
+without	12	neg_cue
+########
+13
+`` I 'm sorry .
+########
+14
+We will fix this , '' Munoz said .
+will	1	ps_cue
+########
+15
+`` I deeply apologize to the customer forcibly removed and to all the customers aboard .
+########
+16
+No one should ever be mistreated this way . ''
+No	0	neg_cue
+should	2	ps_cue
+########
+17
+<EOP> .
+########
+18
+<EOP> .
+########
+19
+On Monday , Munoz issued a memo to employees defending the company but not apologizing to the passenger .
+not	13	neg_cue
+########
+20
+<EOP> .
+########
+21
+Munoz , a former railroad executive who took over the helm at United in 2015 , had already been under pressure from activist investors to improve the airline 's performance , including its customer relations .
+pressure	20	CT+	CT+
+########
+22
+<EOP> .
+########
+23
+Video showing Dao being yanked from his seat by airport security Sunday evening and dragged from United Airlines Flight 3411 at Chicago O'Hare International Airport went viral and sparked global outrage .
+########
+24
+<EOP> .
+########
+25
+An online petition calling for Munoz to step down had nearly 22,000 signatures by early Tuesday evening .
+########
+26
+<EOP> .
+########
+27
+On Chinese social media , the incident attracted the attention of more than 480 million users on Weibo , China 's Twitter_like platform .
+########
+28
+<EOP> .
+########

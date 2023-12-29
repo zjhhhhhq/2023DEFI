@@ -1,0 +1,72 @@
+Does Kovind win the India 's presidential election
+0
+Ram Nath Kovind wins India 's presidential election <EOP> .
+wins	3	CT+	CT+
+########
+1
+2017_07_21 09:05 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+<EOP> .
+########
+4
+India 's President_elect Ram Nath Kovind arrives to attend a ceremony after his victory , in New Delhi , India July 20 , 2017 .
+victory	13	CT+	CT+
+########
+5
+LRB Photo_Agencies RRB <EOP> .
+########
+6
+NEW DELHI _ India 's ruling National Democratic Alliance 's contender Ram Nath Kovind on Thursday won the country 's presidential election .
+won	16	CT+	CT+
+########
+7
+<EOP> .
+########
+8
+Kovind , a former governor of the eastern state of Bihar , got almost two_thirds of the votes to win over opposition nominee Meira Kumar , a former parliament speaker .
+win	19	CT+	CT+
+opposition	21	neg_cue
+########
+9
+<EOP> .
+########
+10
+The 71_year_old will assume office as India 's 14th president on July 25 , when incumbent President Pranab Mukherjee 's five_year term expires .
+will	2	ps_cue
+assume	3	ps_cue
+########
+11
+<EOP> .
+########
+12
+Indian Prime Minister Narendra Modi has congratulated Kovind on his victory .
+victory	10	CT+	CT+
+########
+13
+<EOP> .
+########
+14
+<EOP> .
+########
+15
+<EOP> .
+########
+16
+The presidential election was held on July 17 .
+########
+17
+While a total of 4,896 lawmakers across the country , parliamentarians and legislators , were eligible to vote in the presidential poll , some 4,800 actually exercised their franchise .
+########
+18
+<EOP> .
+########
+19
+The Indian president is the ceremonial head of state , who plays decisive roles only in case of a hung parliament after general elections .
+########
+20
+<EOP> .
+########

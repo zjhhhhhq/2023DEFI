@@ -1,0 +1,98 @@
+Have Russian scientists developed a software package 
+0
+Russian scientists develop software for next_gen nuclear reactor technology <EOP> .
+develop	2	CT+	CT+
+########
+1
+2017_11_02 17:22 <EOP> .
+########
+2
+sputniknews <EOP> .
+########
+3
+A new nuclear project launched by Russia 's National Research Nuclear University LRB MEPhI RRB may strengthen Russia 's leading position in the global nuclear technology market , the scientists working on it are saying .
+launched	4	CT+	CT+
+may	15	ps_cue
+########
+4
+<EOP> .
+########
+5
+Russian nuclear physics researchers have developed a software package that simulates nuclear fuel handling processes under the Russian nuclear project Proryv LRB Breakthrough RRB , which could be used to master the technologies needed to develop the nuclear power industry of the future .
+developed	5	CT+	CT+
+could	26	ps_cue
+########
+6
+<EOP> .
+########
+7
+The Proryv project aims to streamline breeder reactor closed nuclear fuel cycle technology .
+########
+8
+MEPhI believes the project will strengthen Russia 's leading position on the global nuclear technology market .
+will	4	ps_cue
+########
+9
+<EOP> .
+########
+10
+Under the Proryv project , the industry is working on a new_generation nuclear power unit with a fast neutron reactor featuring a BN_1200 sodium heat_transfer agent .
+########
+11
+Russian researchers are also developing a pilot_demonstration energy complex LRB PDEC RRB for the BREST_OD_300 fast neutron reactor , that contains a heavy_metal lead heat_transfer agent .
+developing	4	CT+	CT+
+########
+12
+<EOP> .
+########
+13
+A closed_loop nuclear fuel cycle for these reactors suggests that they will independently generate their own supply of plutonium , a nuclear fuel being reproduced with non_enriched uranium feedstock .
+suggests	8	ps_cue
+will	11	ps_cue
+########
+14
+Therefore , the reactor 's operating modes and its specifications need to be designed in such a way as to make the reactor self_sufficient , to provide it with the required amount of fissionable isotopes and to maintain the reactor during its service life .
+need	10	ps_cue
+########
+15
+This emphasizes the need to simulate nuclear fuel_handling processes for reactors of this kind .
+need	3	ps_cue
+########
+16
+<EOP> .
+########
+17
+In an effort to accomplish this , the National Research Nuclear University MEPhI LRB NRNU MEPhI RRB has teamed up with the National Research Center Kurchatov Institute and developed the REPRORYV LRB Recycle for PRORYV RRB software package , which simulates nuclear fuel_handling processes outside reactors .
+########
+18
+<EOP> .
+########
+19
+The new code makes it possible to estimate the influence of any nuclear fuel 's plutonium content , fuel processing conditions and fuel losses during processing on a reactor 's final neutron_physical specifications .
+possible	5	ps_cue
+estimate	7	ps_cue
+########
+20
+A clear understanding of various factors and their influence on these specifications is important in the context of maintaining reliable and safe nuclear reactor operation .
+########
+21
+<EOP> .
+########
+22
+The versatile REPRORYV code can simulate fuel handling processes in current fast neutron reactors and other advanced units of this type , Deputy MEPhI Director Georgy Tikhomirov told RIA Novosti .
+can	4	ps_cue
+########
+23
+<EOP> .
+########
+24
+The new software package will be able to calculate neutron_physical specifications for any type of nuclear fuel .
+will	4	ps_cue
+########
+25
+In addition , REPRORYV helps fast neutron reactors operating under the so_called two_component nuclear power concept to independently produce their own fissionable materials , that is , together with `` heat '' neutron reactors , the mainstay of the modern nuclear power industry .
+helps	4	ps_cue
+########
+26
+<EOP> .
+########

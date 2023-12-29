@@ -1,0 +1,42 @@
+Will all Venezuelans ease tensions and engage in negotiations
+0
+UN chief urges Venezuelans to ease tensions , engage in negotiations <EOP> .
+########
+1
+2017_08_08 09:29 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+UNITED NATIONS _ United Nations Secretary_General Antonio Guterres on Monday urged all Venezuelans to ease tensions and engage in negotiations , his spokesperson told reporters Monday , noting Guterres is closely following recent developments in Venezuela .
+ease	14	CT+	CT+
+########
+4
+<EOP> .
+########
+5
+`` In this critical moment for the future of the country , he urges all Venezuelans to make all possible efforts to lower tensions and engage in political negotiations , '' said Stephane Dujarric , when asked about the latest developments in the South American country .
+lower	22	CT+	CT+
+possible	19	ps_cue
+########
+6
+<EOP> .
+########
+7
+The Secretary_General and other top UN officials have been calling for calm in Venezuela since late July when , according to media reports , clashes erupted between security forces and protestors opposing the Constituent Assembly elections .
+opposing	31	neg_cue
+########
+8
+<EOP> .
+########
+9
+According to media reports , President Nicolas Maduro declared victory in elections for a Constituent Assembly convened by him .
+########
+10
+The new body could replace the current legislative body , the National Assembly .
+could	3	ps_cue
+########
+11
+<EOP> .
+########

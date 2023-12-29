@@ -1,0 +1,93 @@
+Will the United States have dialogue with the Democratic People 's Republic of Korea LRB DPRK RRB
+0
+US would like to have dialogue with DPRK at some point : US top diplomat <EOP> .
+would	1	ps_cue
+like	2	ps_cue
+########
+1
+2017_08_02 09:14 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+<EOP> .
+########
+4
+<EOP> .
+########
+5
+<EOP> .
+########
+6
+US Secretary of State Rex Tillerson speaks during a press conference after talks with Chinese diplomatic and defense chiefs at the State Department in Washington , US , June 21 , 2017 .
+########
+7
+LRB Photo_Agencies RRB <EOP> .
+########
+8
+WASHINGTON _ US Secretary of State Rex Tillerson said on Tuesday that the United States would like to have dialogue with the Democratic People 's Republic of Korea LRB DPRK RRB at some point .
+dialogue	19	PS+	PS+
+would	15	ps_cue
+like	16	ps_cue
+########
+9
+<EOP> .
+########
+10
+`` We are not your enemy ... but you are presenting an unacceptable threat to us , and we have to respond , '' said Tillerson here at a press conference .
+not	3	neg_cue
+unacceptable	12	neg_cue
+########
+11
+`` We hope that at some point they will begin to understand that and we would like to sit and have a dialogue with them . ''
+dialogue	22	PS+	PS+
+like	16	ps_cue
+hope	2	ps_cue
+will	8	ps_cue
+would	15	ps_cue
+########
+12
+<EOP> .
+########
+13
+Tillerson also reiterated that the United States seeks neither a `` regime change '' nor `` collapse of the regime '' in the DPRK .
+seeks	7	ps_cue
+neither	8	neg_cue
+nor	14	neg_cue
+########
+14
+<EOP> .
+########
+15
+`` We do not seek an accelerated reunification of the peninsula , '' Tillerson said .
+not	3	neg_cue
+########
+16
+`` We do not seek an excuse to send our military north of the 38th Parallel . ''
+not	3	neg_cue
+########
+17
+<EOP> .
+########
+18
+Tillerson 's remarks came days after the DPRK launched its second intercontinental ballistic missile in a month .
+########
+19
+<EOP> .
+########
+20
+The missile traveled about 1,000 kilometers before splashing down into the sea , Pentagon spokesman Jeff Davis said in a statement .
+########
+21
+<EOP> .
+########
+22
+The DPRK said that the test_firing aimed to `` finally confirm the overall technological specifications of the weapon system of Hwasong_14 capable of carrying large_sized heavy nuclear warhead , including its maximum range , '' according to the official Korean Central News Agency LRB KCNA RRB .
+########
+23
+<EOP> .
+########
+24
+<EOP> .
+########

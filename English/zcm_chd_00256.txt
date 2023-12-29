@@ -1,0 +1,93 @@
+Did member countries of the International Monetary Fund on Saturday pledge to work to reduce global imbalances
+0
+IMF members delete anti_protectionism pledge , keep currency commitments <EOP> .
+########
+1
+2017_04_23 04:41 <EOP> .
+########
+2
+null <EOP> .
+########
+3
+<EOP> .
+########
+4
+Finance ministers and bank governors pose for a ` family ' photo for the International Monetary and Financial Committee LRB IMFC RRB , as part of the IMF and World Bank 's 2017 Annual Spring Meetings , in Washington , US , April 22 , 2017 .
+########
+5
+LRB Photo_Agencies RRB <EOP> .
+########
+6
+Member countries of the International Monetary Fund on Saturday pledged to work to reduce global imbalances but failed to repeat their past pledge to resist all forms of protectionism .
+reduce	13	CT+	CT+
+failed	17	neg_cue
+########
+7
+<EOP> .
+########
+8
+The International Monetary and Financial Committee LRB IMFC RRB , the IMF 's steering body , also repeated its past commitments on currency exchange rates .
+########
+9
+<EOP> .
+########
+10
+`` We will refrain from competitive devaluations , and will not target our exchange rates for competitive purposes , '' the IMFC said in a statement .
+will	2	ps_cue
+will	9	ps_cue
+not	10	neg_cue
+########
+11
+<EOP> .
+########
+12
+`` We will also work together to reduce excessive global imbalances by pursuing appropriate policies .
+reduce	7	CT+	CT+
+will	2	ps_cue
+########
+13
+We are working to strengthen the contribution of trade to our economies , '' it said .
+########
+14
+<EOP> .
+########
+15
+The communique largely adopted the trade language from a G20 statement issued last month in Baden Baden , Germany , where U.S. Treasury Secretary Steven Mnuchin had said the anti_protectionism pledge was no longer relevant .
+no	32	neg_cue
+########
+16
+<EOP> .
+########
+17
+Mexican central bank chief Agustin Carstens , who heads the IMF steering committee , said protectionism is a `` relative term '' and `` ambiguous . ''
+########
+18
+<EOP> .
+########
+19
+`` There is no country that does not have any provision on trade , '' Carstens told a news conference .
+no	3	neg_cue
+not	7	neg_cue
+########
+20
+`` Instead of dwelling on what that concept means , we managed to put it in a more positive , more constructive framework . ''
+########
+21
+<EOP> .
+########
+22
+Carstens , who is among the global financial officials attending the IMF and World Bank spring meetings this week , said the goal was to take advantage of trade and that all members were `` aligned '' on the need for free and fair trade .
+need	39	ps_cue
+########
+23
+<EOP> .
+########
+24
+The IMFC statement also said that while the global economic recovery was gaining momentum , growth was `` still modest '' and it warned of heightened political and policy uncertainties .
+########
+25
+<EOP> .
+########
+26
+Reuters <EOP> .
+########

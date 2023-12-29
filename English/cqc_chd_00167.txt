@@ -1,0 +1,69 @@
+Does ROK approve civilian contact with DPRK
+0
+ROK approves civilian contact with DPRK <EOP> .
+approves	1	CT+	CT+
+########
+1
+2017_05_27 07:25 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+<EOP> .
+########
+4
+SEOUL _ The Republic of Korea on Friday approved the first civilian contact with the Democratic People 's Republic of Korea under the new government of President Moon Jae_in , indicating a gradual resumption of inter_Korean exchanges .
+approved	8	CT+	CT+
+########
+5
+<EOP> .
+########
+6
+Seoul 's Unification Ministry spokesman Lee Yoo_jin said the government gave a green light to the request by civic group Korean Sharing Movement for contact with the DPRK to tackle malaria in border areas .
+gave	10	neg_cue
+########
+7
+<EOP> .
+########
+8
+It was the first such approval by the ROK government since the DPRK conducted its fourth nuclear test last year .
+approval	5	CT+	CT+
+########
+9
+<EOP> .
+########
+10
+Lee reiterated the new government 's position that Seoul will flexibly review civilian exchanges such as a humanitarian aid within the limits of undamaging the international sanctions on the DPRK while sternly dealing with any DPRK provocations .
+will	9	ps_cue
+########
+11
+<EOP> .
+########
+12
+Earlier this month , the Korean Sharing Movement requested a contact with Pyongyang to discuss the humanitarian assistance to the DPRK people .
+########
+13
+If discussions go smoothly , the civic group 's visit to Pyongyang could be pushed in early June .
+could	12	ps_cue
+########
+14
+<EOP> .
+########
+15
+Lee said that if any request for its visit to the DPRK and the supply of relief goods is made , the ministry would decide on it due to the inter_Korean relations and the security of the visitors .
+would	23	ps_cue
+########
+16
+<EOP> .
+########
+17
+About 20 requests for contact with or visit to the DPRK have been made by ROK civic groups , media said .
+or	6	ps_cue
+########
+18
+<EOP> .
+########
+19
+Xinhua <EOP> .
+########

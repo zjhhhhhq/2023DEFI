@@ -1,0 +1,127 @@
+Do the two countries have mutual beneficial results through cooperation
+0
+China , US should further open up to each other : premier <EOP> .
+should	3	ps_cue
+########
+1
+2017_11_10 07:25 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+Chinese Premier Li Keqiang LRB R RRB meets with US President Donald Trump at the Great Hall of the People in Beijing , capital of China , Nov 9 , 2017 .
+########
+4
+LRB Photo_Xinhua RRB <EOP> .
+########
+5
+BEIJING _ Chinese Premier Li Keqiang met with visiting US President Donald Trump Thursday , saying the two countries should further open up to each other and create a fair business environment for their companies .
+should	19	ps_cue
+########
+6
+<EOP> .
+########
+7
+Trump arrived in Beijing Wednesday afternoon for a three_day state visit to China , and held talks with Chinese President Xi Jinping early Thursday .
+########
+8
+<EOP> .
+########
+9
+Li said the talks were `` fruitful , '' with important consensus reached on plans for bilateral cooperation .
+cooperation	17	PS+	PS+
+plans	14	ps_cue
+########
+10
+<EOP> .
+########
+11
+`` By maintaining high_level exchanges and close communication , the two countries will inject new impetus into their cooperation and push their relations to a new level , '' he said .
+cooperation	18	CT+	PS+
+will	12	ps_cue
+########
+12
+<EOP> .
+########
+13
+The Sino_US relations were moving forward steadily , the premier said , noting that a pattern of economic cooperation with deeply intertwined interests had been formed .
+cooperation	18	CT+	PS+
+forward	5	ps_cue
+forward	5	neg_cue
+########
+14
+<EOP> .
+########
+15
+`` The positive trend in the Chinese and US economies is good news for both countries and the rest of the world , '' Li said .
+########
+16
+<EOP> .
+########
+17
+He told Trump that the two nations had huge potential for cooperation as China was the biggest developing country , with a vast market and rich human resources , while the United States was the biggest developed country , with advanced technology and experience .
+cooperation	11	PS+	PS+
+potential	9	ps_cue
+########
+18
+<EOP> .
+########
+19
+`` It is inevitable that there are differences and frictions , such as the trade deficit issue the US side is concerned about , '' Li said .
+########
+20
+<EOP> .
+########
+21
+`` China never pursues a trade surplus with any country , and the rapid development of Sino_US economic and trade ties over the past decades since the establishment of their diplomatic ties has proved that their cooperation is highly complementary and relatively balanced , '' the premier said .
+cooperation	36	CT+	PS+
+never	2	neg_cue
+########
+22
+<EOP> .
+########
+23
+He said he welcomed the United States expanding service trade with China , increasing high_tech exports and achieving mutually beneficial results through cooperation .
+cooperation	22	CT+	PS+
+########
+24
+<EOP> .
+########
+25
+Li told Trump that as permanent members of the UN Security Council and important countries in the Asia Pacific region , both China and the United States had a responsibility to maintain regional peace and prosperity .
+########
+26
+<EOP> .
+########
+27
+He said China was ready to strengthen work with the United States on international and regional issues .
+ready	4	ps_cue
+########
+28
+<EOP> .
+########
+29
+The premier said he hoped the upcoming leaders ' meetings for East Asia cooperation would realize positive signals for the stability and development of the region .
+cooperation	13	CT+	PS+
+hoped	4	ps_cue
+would	14	ps_cue
+########
+30
+<EOP> .
+########
+31
+Li plans to attend a series of high_level meetings : the 20th China_ASEAN LRB 10 +1 RRB leaders ' meeting , the 20th ASEAN_China , Japan and Republic of Korea LRB 10 +3 RRB leaders ' meeting , and the 12th East Asia Summit in the Philippine capital Manila from Nov 12 to 16 .
+plans	1	ps_cue
+########
+32
+<EOP> .
+########
+33
+Trump spoke positively about the outcomes of his visit , saying he hoped the two countries would work together closely to tackle challenges , and promote fair and balanced economic ties .
+hoped	12	ps_cue
+would	16	ps_cue
+########
+34
+<EOP> .
+########

@@ -1,0 +1,195 @@
+Will the community care and donate
+0
+Chinese Americans do part to help California fire victims <EOP> .
+########
+1
+2017_11_07 06:39 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+Amy Xu , a resident of Northern California 's Marin County , is a frequent visitor to the Golden State 's wine country -- Napa Valley and Sonoma in particular .
+########
+4
+Less than an hour 's drive from her home , the vineyards , wineries and moments of sipping wine in the sun are `` what heaven should look like to me '' , said the businesswoman in her 50s .
+should	26	ps_cue
+like	28	ps_cue
+########
+5
+<EOP> .
+########
+6
+In early October , about 15 serial wildfires broke out in Northern California , rapidly becoming a full_scale inferno that swept over 220,000 acres , killing at least 43 people , destroying an estimated 8,900 structures and forcing more than 100,000 people to evacuate their homes .
+########
+7
+<EOP> .
+########
+8
+`` I drove to visit one of my clients in Sonoma , only to find she lost not only her house property but her winery , '' said Xu .
+not	17	neg_cue
+########
+9
+`` Literally , she has nothing left .
+nothing	5	neg_cue
+########
+10
+I cried with her over the debris .
+########
+11
+Joining us was her preschooler daughter . ''
+########
+12
+<EOP> .
+########
+13
+For Konghua He , president of the Beijing Association of Northern California , the ongoing coverage of the blaze on TV networks kept her up to date .
+########
+14
+<EOP> .
+########
+15
+On Oct 11 , a few days after the deadliest week of wildfires in California 's history , Xu shared with He a petition letter by Rachel Ricioli Wittenberg , a math teacher at Maria Carrillo High School in Santa Rosa , where many students and faculty lost their homes in the fires .
+########
+16
+<EOP> .
+########
+17
+`` Please help in any way possible to bring a small sense of normalcy to their lives as they have lost everything .
+possible	6	ps_cue
+########
+18
+Many had less than 5 minutes to evacuate their homes , '' wrote Wittenberg , noting that the projected $ 10,000 raised from the public will be used for long_term support of `` our students , families and staff ... help us build additional counseling supports , computer_printer access for families , homework clubs , tutoring support , in addition to other needs we know will crop up as the school year continues '' .
+projected	18	ps_cue
+will	25	ps_cue
+needs	62	ps_cue
+will	65	ps_cue
+########
+19
+<EOP> .
+########
+20
+The community has endured such incredible loss and pain , and it 's going to be a long road ahead , said He .
+community	1	CT+	CT+
+loss	6	neg_cue
+########
+21
+`` We should reach out and help . ''
+should	2	ps_cue
+########
+22
+<EOP> .
+########
+23
+He invited Able2shine , a nonprofit that specializes in soft_skills cultivation among Asian_American children , to join the mission .
+########
+24
+`` My first thought is to mobilize our Chinese community , although I was not certain whether our community will care and donate , '' she said .
+community	9	CT+	CT+
+community	18	CT+	CT+
+not	14	neg_cue
+whether	16	ps_cue
+will	19	ps_cue
+########
+25
+<EOP> .
+########
+26
+Historically , Asian Americans have been subject to a stereotype by some that they are a group that cares only about making money , pushing their children to be academically strong and are indifferent to others .
+########
+27
+<EOP> .
+########
+28
+`` We always try to teach our children compassion and empathy whenever opportunity allows us , '' said Luo Ping , founder of Able2shine .
+########
+29
+`` This wildfire disaster provides our parents good opportunities to showcase our next generation what giving and charity mean . ''
+opportunities	8	ps_cue
+########
+30
+<EOP> .
+########
+31
+In short time , the two organizations spread donation pitches through various social media networks , including WeChat groups popular among the Chinese_American community .
+community	23	CT+	CT+
+########
+32
+<EOP> .
+########
+33
+`` Fellow Chinese Americans , '' said the letter .
+########
+34
+`` California is our home .
+########
+35
+We ask for your generosity to help those victims and their families .
+########
+36
+We need your donation to help rebuild Napa and Sonoma . ''
+need	1	ps_cue
+########
+37
+<EOP> .
+########
+38
+Inquiries about how to help flooded in to the organizers .
+########
+39
+`` Some asked what emergency goods and items are needed ; others followed up with monetary donations , '' said He .
+########
+40
+<EOP> .
+########
+41
+On their weekly grocery_shopping list , Lisa Xiong of Fremont in the Bay Area added the purchase of a household generator that costs approximately $ 400 .
+########
+42
+<EOP> .
+########
+43
+`` This is one of the most wanted items in Napa and Sonoma , as many areas suffered from power outages , '' said the accounting professional .
+wanted	7	ps_cue
+########
+44
+`` This is a relay of love .
+love	6	ps_cue
+########
+45
+I believe one day when I 'm in trouble , other people will do the same . ''
+will	12	ps_cue
+########
+46
+<EOP> .
+########
+47
+By Nov 3 , the number of cash donations from the Chinese_American community had surpassed $ 11,000 .
+community	12	CT+	CT+
+########
+48
+But there were still much_needed goods , including food and clothing and baby products and supplies .
+########
+49
+<EOP> .
+########
+50
+`` My mom bought two boxes of diapers , and I helped load them to the truck , '' said 9_year_old Stanley Lu at the Warm Springs Elementary School in Fremont , where teachers have initiated a schoolwide charity project , a diaper drive for fire_affected families .
+########
+51
+<EOP> .
+########
+52
+`` I also donated my brand_new Guess Who toy set .
+########
+53
+I hope a friend in Napa will enjoy the game as I do , '' he added .
+hope	1	ps_cue
+will	6	ps_cue
+########
+54
+<EOP> .
+########
+55
+Contact the writer at junechang@chinadailyusa.com <EOP> .
+########

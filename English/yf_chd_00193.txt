@@ -1,0 +1,119 @@
+Has Trump 's latest social media posts put strain on bilateral ties
+0
+Trump 's social media posts straining ties with Britain , experts say <EOP> .
+########
+1
+2017_12_03 16:59 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+WASHINGTON __ US President Donald Trump 's latest social media posts , which triggered a heated quarrel between Washington and London , have put strain on bilateral ties .
+put	23	CT+	CT+
+########
+4
+<EOP> .
+########
+5
+Trump sparked global controversy in recent days after re_posting what critics say are anti_Muslim social media posts from a Britain_based far right group that allegedly depict violence carried out by Muslims .
+sparked	1	CT+	CT+
+########
+6
+The authenticity of the videos in the posts has not been verified .
+not	9	neg_cue
+########
+7
+<EOP> .
+########
+8
+`` Trump 's LRB re_posting RRB of anti_Islamic videos has put a great strain on US_UK relationships , '' Brookings Institution senior fellow Darrell West told Xinhua .
+put	10	CT+	CT+
+########
+9
+<EOP> .
+########
+10
+`` He took material from a far_right organization and gave it great legitimacy at a delicate time as Britain is negotiating its exit from the European Union LRB EU RRB , '' West said , referring to England 's break_off from the EU , a matter of controversy underscored by tensions between classes in England .
+gave	9	neg_cue
+########
+11
+<EOP> .
+########
+12
+`` The British Prime Minister has condemned Trump 's actions and reprimanded him for giving extreme voices an international platform , '' West added .
+condemned	6	neg_cue
+########
+13
+<EOP> .
+########
+14
+The videos were originally posted by Jayda Fransen , deputy leader of British far right group Britain First , who said the videos were from the Internet and did not provide the context under which the videos were shot .
+not	29	neg_cue
+########
+15
+<EOP> .
+########
+16
+The group has allegedly posted several misleading videos in the past , and the ones Trump shared on Twitter were called `` Muslim migrant beats up Dutch boy on crutches ! ''
+########
+17
+`` Muslim destroys a statue of Virgin Mary ! ''
+########
+18
+and `` Islamist mob pushes teenage boy off roof and beats him to death ! ''
+########
+19
+<EOP> .
+########
+20
+`` In LRB re_posting RRB those anti_Islamic posts , President Trump raised the profile of a radical far_right political group in the UK , and furthered the argument of radicals on both sides that Islam and the West are in a clash of civilizations , '' said Dan Mahaffee , senior vice president and director of policy at the Center for the Study of Congress and the Presidency .
+########
+21
+<EOP> .
+########
+22
+Indeed , Trump 's tweets have sparked a row between the White House and British Prime Minister Theresa May , who said Trump was `` wrong '' to re_tweet material from a group she described as spreading `` hateful narratives . ''
+May	18	ps_cue
+########
+23
+<EOP> .
+########
+24
+`` British people overwhelmingly reject the prejudiced rhetoric of the far_right which is the antithesis of the values that this country represents : decency , tolerance and respect , '' the prime minister 's statement said .
+reject	4	neg_cue
+########
+25
+<EOP> .
+########
+26
+Trump shot back via social media saying , `` Do n't focus on me , focus on the destructive Radical Islamic Terrorism that is taking place within the United Kingdom .
+n't	10	neg_cue
+########
+27
+We are doing just fine , '' referring to recent Islamist terror attacks on locations within England .
+########
+28
+<EOP> .
+########
+29
+The back_and_forth represents a rare spat between Britain and the United States , which are normally close allies , particularly in global activities against terrorism and Islamist radicalism .
+rare	4	ps_cue
+against	23	neg_cue
+########
+30
+<EOP> .
+########
+31
+`` I do n't think this will hurt US_UK relations in the long run because the two countries have strong ties .
+hurt	7	CT-	CT+
+n't	3	neg_cue
+will	6	ps_cue
+########
+32
+But Trump has to be careful not to create problems for his friends in other countries , '' West said .
+not	6	neg_cue
+########
+33
+<EOP> .
+########

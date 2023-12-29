@@ -1,0 +1,98 @@
+Do the three counties refuse to comply
+0
+EU presses ahead legal actions against Czech Republic , Hungary , Poland over migration <EOP> .
+against	5	neg_cue
+########
+1
+2017_07_27 10:14 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+<EOP> .
+########
+4
+<EOP> .
+########
+5
+<EOP> .
+########
+6
+European Commissioner for Migration and Home Affairs Dimitris Avramopoulos addresses a news conference at the EU Commission headquarters in Brussels , Belgium , May 4 , 2016 .
+May	23	ps_cue
+########
+7
+LRB Photo_Agencies RRB <EOP> .
+########
+8
+BRUSSELS _ The European Commission pressed ahead on Wednesday to the second stage of legal actions against the Czech Republic , Hungary , and Poland over refugee sharing .
+against	16	neg_cue
+########
+9
+<EOP> .
+########
+10
+The Commission said it had sent `` reasoned opinions '' , the second step in infringement procedures , to the three European Union LRB EU RRB member states for `` non_compliance with their legal obligations on relocation '' .
+non_compliance	30	CT-	CT-
+########
+11
+<EOP> .
+########
+12
+The three countries were given one month to respond , instead of the usual two_month deadline .
+instead	10	neg_cue
+########
+13
+<EOP> .
+########
+14
+The move came a month and a half after the Commission launched infringement procedures by sending `` letters of formal notice '' to the three countries .
+########
+15
+<EOP> .
+########
+16
+The Commission said the three countries ' replies to the letter `` have not been found satisfactory as none were accompanied by an indication that these member states would start relocating swiftly to their territory . ''
+not	13	neg_cue
+none	18	neg_cue
+indication	23	ps_cue
+would	28	ps_cue
+########
+17
+<EOP> .
+########
+18
+According to the Commission , Poland and Hungary have n't taken in any refugees since September 2015 , when EU member states pledged to relocate a total of 160,000 migrants from Greece and Italy within two years .
+n't	9	neg_cue
+########
+19
+The Czech Republic has not relocated anyone since August 2016 and has not made any new promises for over a year .
+not	4	neg_cue
+not	12	neg_cue
+########
+20
+<EOP> .
+########
+21
+If the three counties still refuse to comply , the Commission may refer the case to the Court of Justice , which may impose financial penalties on them .
+comply	7	Uu	CT-
+refuse	5	neg_cue
+may	11	ps_cue
+may	22	ps_cue
+########
+22
+<EOP> .
+########
+23
+As of July 24 , the total number of relocations stands at 24,676 , of which 16,803 from Greece , 7,873 from Italy , according to the latest Commission report on the relocation of refugees released Wednesday .
+########
+24
+<EOP> .
+########
+25
+As for resettlement , 17,179 persons have been resettled since July 2015 , when member states agreed to resettle a total of 22,504 asylum seekers .
+########
+26
+<EOP> .
+########

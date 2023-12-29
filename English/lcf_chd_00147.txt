@@ -1,0 +1,896 @@
+Will China embrace a more promising future 
+0
+Embracing a more promising future <EOP> .
+promising	3	CT+	CT+
+########
+1
+2017_09_26 20:30 <EOP> .
+########
+2
+fmprc.gov.cn <EOP> .
+########
+3
+<EOP> .
+########
+4
+<EOP> .
+########
+5
+Remarks by H.E. Ambassador Liu Xiaoming at the Reception Marking the 68th Anniversary of the Founding of the People 's Republic of China : Embracing a More Promising Future <EOP> .
+Promising	27	CT+	CT+
+########
+6
+The Langham Hotel , London , 25 September 2017 <EOP> .
+########
+7
+Secretary Barclay , <EOP> .
+########
+8
+My Lords and MPs , <EOP> .
+########
+9
+Your Excellencies , Members of the Diplomatic Corps , <EOP> .
+########
+10
+Ladies and Gentlemen , <EOP> .
+########
+11
+Friends , <EOP> .
+########
+12
+A very warm welcome to the Chinese National Day Reception !
+########
+13
+<EOP> .
+########
+14
+This is the eighth national day reception I have hosted in London .
+########
+15
+I am delighted to have you all with us this evening to celebrate the 68th anniversary of the founding of the People 's Republic of China .
+########
+16
+<EOP> .
+########
+17
+It 's also interesting to note that , according to the Chinese lunar calendar , today is the sixth day of the eighth month .
+########
+18
+In the Chinese culture , six and eight are lucky numbers .
+########
+19
+They are believed to promise good fortune and bright prospects .
+prospects	9	CT+	CT+
+believed	2	ps_cue
+########
+20
+<EOP> .
+########
+21
+With this wonderful and pleasant coincidence , our gathering here with so many friends , old and new , made our national day celebration even more enjoyable and memorable .
+########
+22
+<EOP> .
+########
+23
+For China , 68 years have been a journey from being weak and poor to gaining independence and becoming prosperous .
+########
+24
+It has seen China 's historic leap forward , in which the nation has got up on its feet , set out to achieve prosperity and grown from strength to strength .
+forward	7	ps_cue
+forward	7	neg_cue
+########
+25
+<EOP> .
+########
+26
+The most rapid and spectacular progress was achieved in the past four decades since China began its reform and opening_up .
+########
+27
+China has become the second largest economy , with significantly bigger role and influence in the world .
+########
+28
+<EOP> .
+########
+29
+More recently , the Eighteenth National Congress of the Communist Party of China five years ago set out the `` two centenary goals '' and mapped out the blueprint for achieving the `` Chinese Dream '' of national renewal .
+########
+30
+The past five years have been a witness to how the Chinese nation was making vigorous efforts and moving ever closer to these grand goals .
+########
+31
+<EOP> .
+########
+32
+For China , these five years have been extraordinary .
+########
+33
+<EOP> .
+########
+34
+These have been five years of continuous success in China 's domestic reform and development .
+########
+35
+<EOP> .
+########
+36
+These have been five years of significant gains and happiness for the Chinese people .
+########
+37
+<EOP> .
+########
+38
+These have been five years of exceptional contribution of China to world peace and prosperity .
+########
+39
+<EOP> .
+########
+40
+In these five years , we have solved many difficult problems that we had long hoped to solve .
+hoped	15	ps_cue
+########
+41
+We have achieved many great things that we had long hoped to achieve .
+hoped	10	ps_cue
+########
+42
+<EOP> .
+########
+43
+I would like to summarize these five years with five `` big 's '' , five `` new 's '' and five `` achievements '' .
+would	1	ps_cue
+like	2	ps_cue
+########
+44
+<EOP> .
+########
+45
+First , big shift in growth model , new growth engine for the world and achievement in building a `` prosperous China '' .
+########
+46
+<EOP> .
+########
+47
+Over the past five years , China has been focusing on innovative , balanced , green , open and inclusive development .
+########
+48
+We have been trying to understand , adapt to and lead the economic `` new normal '' .
+########
+49
+<EOP> .
+########
+50
+A key point is to press ahead with the supply side reform .
+########
+51
+And there has been much success .
+########
+52
+<EOP> .
+########
+53
+China has maintained growth at a medium_to_high speed .
+########
+54
+Growth in the first six months of this year continued to lead the world at 6.9 % .
+########
+55
+<EOP> .
+########
+56
+China 's economy has enjoyed a strong , self_sustaining momentum thanks to improved efficiency and better structure .
+########
+57
+<EOP> .
+########
+58
+China has been contributing over 30 % of global growth .
+########
+59
+This has made China undoubtedly a key engine for world growth .
+########
+60
+<EOP> .
+########
+61
+Second , big improvement in livelihood , new journey towards a moderately prosperous society and achievement in building a `` happy China '' .
+########
+62
+<EOP> .
+########
+63
+Over the past five years , China has continued to give top priority to responding to the people 's needs for a better life .
+needs	19	ps_cue
+########
+64
+<EOP> .
+########
+65
+On poverty reduction , we have put in huge efforts and brought 66 million people out of poverty .
+########
+66
+Our target is to eradicate abject poverty by 2020 .
+########
+67
+<EOP> .
+########
+68
+On jobs , we have created 64 million urban new jobs .
+########
+69
+This is almost equivalent to Britain 's total population .
+########
+70
+<EOP> .
+########
+71
+On infrastructure , we have added nearly 1.2 million kilometres to rural road network .
+########
+72
+That is long enough to go round the equator about 30 times .
+########
+73
+<EOP> .
+########
+74
+On conservation , we have devoted a considerable part of our efforts to improve and conserve the eco_environment and to encourage low carbon and sustainable development .
+########
+75
+<EOP> .
+########
+76
+Third , big strategy to advance rule of law , new chapter in strengthening Party discipline and achievement in building a `` rule_based China '' .
+########
+77
+<EOP> .
+########
+78
+Over the past five years , China has been advancing the rule of law in every aspect .
+########
+79
+We have optimized the legal system and improved social justice and fairness .
+########
+80
+The exercise of the power of government is completely under the rule of law .
+########
+81
+<EOP> .
+########
+82
+In total , we have made or revised 48 laws , 42 administrative regulations , 2,926 provincial ordinances and 3,162 ministerial rules .
+or	6	ps_cue
+########
+83
+<EOP> .
+########
+84
+The general provisions of civil law have been promulgated and the process of compiling a civil code started .
+########
+85
+<EOP> .
+########
+86
+More importantly , a series of tough measures have been taken to strengthen Party discipline and crack down on corruption .
+########
+87
+Efforts in this regard have consolidated the political groundwork for the advancement of various causes across the board .
+########
+88
+<EOP> .
+########
+89
+<EOP> .
+########
+90
+<EOP> .
+########
+91
+Fourth , big agenda in opening_up , new possibilities of the Belt and Road and achievement in building an `` open China '' .
+########
+92
+<EOP> .
+########
+93
+Over the past five years , China has been embracing the world .
+########
+94
+<EOP> .
+########
+95
+From the Yanxi lakeside gathering of APEC leaders in Beijing to the G20 summit by the West Lake in Hangzhou , from the establishment of trade zones to better access for foreign investors , China has demonstrated a level of opening never seen before .
+never	41	neg_cue
+########
+96
+<EOP> .
+########
+97
+China is now the world 's second largest investor .
+########
+98
+<EOP> .
+########
+99
+China is the largest trading partner of more than 120 countries and regions .
+########
+100
+<EOP> .
+########
+101
+China has established eleven free trade pilot zones throughout the country .
+########
+102
+<EOP> .
+########
+103
+In May this year , China hosted the successful Belt and Road Forum for International Cooperation .
+May	1	ps_cue
+########
+104
+This high_level gathering produced a five_category list of deliverables which includes 76 agreements and 270 outcomes .
+########
+105
+<EOP> .
+########
+106
+The Belt and Road Forum is a manifestation of China 's readiness to share its development opportunities with countries along the Belt and Road routes and beyond .
+opportunities	16	ps_cue
+########
+107
+It sends a welcoming call for everyone to get aboard the express train of China 's fast growth .
+########
+108
+<EOP> .
+########
+109
+Fifth , big blueprint of peaceful development , new diplomatic concepts and achievement in building a `` peaceful China '' .
+########
+110
+<EOP> .
+########
+111
+Over the past five years , China has played an active role in maintaining world peace and promoting global development .
+########
+112
+We have contributed the China wisdom , China solutions and China strength .
+########
+113
+<EOP> .
+########
+114
+We have proposed the concept of building a community of shared future for mankind .
+proposed	2	ps_cue
+########
+115
+This includes China 's vision for global governance , development , security and globalization , as well as our approach to justice and interests .
+########
+116
+<EOP> .
+########
+117
+We have announced the one_billion_dollar China_UN Peace and Development Fund .
+########
+118
+<EOP> .
+########
+119
+We have established the South_South Cooperation Fund on Climate Change and another South_South Cooperation Fund to assist developing countries in implementing their post_2015 development agenda .
+########
+120
+<EOP> .
+########
+121
+On peacekeeping , China has created a full_unit police force and an 8,000 _ strong emergency standby team .
+########
+122
+<EOP> .
+########
+123
+Early this month , China successfully hosted the ninth BRICS Summit .
+########
+124
+The meeting gave new impetus to advancing peace and development , deepening BRICS cooperation , improving global governance and driving world economic growth .
+gave	2	neg_cue
+########
+125
+<EOP> .
+########
+126
+Ladies and Gentlemen , <EOP> .
+########
+127
+This year marks the 45th anniversary of the Ambassadorial diplomatic ties between China and Britain .
+########
+128
+It is also a year for consolidating the China_UK `` Golden Era '' .
+########
+129
+<EOP> .
+########
+130
+For China and Britain , the past 45 years have been extraordinary .
+########
+131
+<EOP> .
+########
+132
+Britain was the first major western country to recognize the New China .
+########
+133
+<EOP> .
+########
+134
+China and Britain worked together creatively and resolved the question of Hong Kong .
+resolved	7	neg_cue
+question	9	ps_cue
+########
+135
+<EOP> .
+########
+136
+We jointly set up a series of bilateral dialogue mechanisms , including <EOP> .
+########
+137
+the annual Prime Ministers ' Meeting , <EOP> .
+########
+138
+the Economic and Financial Dialogue , <EOP> .
+########
+139
+the High_Level People_to_People Exchange Mechanism , <EOP> .
+########
+140
+and the Strategic Dialogue .
+########
+141
+<EOP> .
+########
+142
+We upgraded our ties to a global comprehensive strategic partnership for the 21st century and heralded the China_UK `` Golden Era '' .
+########
+143
+<EOP> .
+########
+144
+These are some of the latest milestones of our bilateral relations .
+########
+145
+They are fine examples of China 's relations with major western countries .
+########
+146
+<EOP> .
+########
+147
+Ladies and Gentlemen , <EOP> .
+########
+148
+We are living in an interesting time .
+########
+149
+Both the international and regional situations are undergoing profound and complex changes .
+########
+150
+Brexit is bringing uncertainties and instabilities .
+########
+151
+<EOP> .
+########
+152
+However , we must not lose sight of the general direction of China_UK relationship .
+not	4	neg_cue
+########
+153
+<EOP> .
+########
+154
+Our shared commitment to China_UK `` Golden Era '' remains unchanged .
+########
+155
+<EOP> .
+########
+156
+The win_win nature of China_UK bilateral cooperation remains unchanged .
+########
+157
+<EOP> .
+########
+158
+And the strategic and global significance of China_UK collaboration on international issues remains unchanged .
+########
+159
+<EOP> .
+########
+160
+China_UK relationship has been growing steadily .
+########
+161
+<EOP> .
+########
+162
+China_UK relationship has huge , untapped potential .
+potential	6	ps_cue
+########
+163
+<EOP> .
+########
+164
+Like many of you present here today , I am fully confident about the future of China_UK relations .
+########
+165
+The key is to turn confidence into actions and turn potential into success .
+potential	10	ps_cue
+########
+166
+To this end , I think there are five opportunities we need to grasp .
+opportunities	9	ps_cue
+need	11	ps_cue
+########
+167
+<EOP> .
+########
+168
+The first opportunity is China_UK `` Golden Era '' .
+########
+169
+<EOP> .
+########
+170
+President Xi Jinping 's successful state visit to Britain in 2015 heralded the `` Golden Era '' in our bilateral ties .
+########
+171
+At the G20 Summits in Hangzhou and Hamburg , President Xi and Prime Minister May emphasized the importance of the China_UK `` Golden Era '' .
+May	14	ps_cue
+########
+172
+<EOP> .
+########
+173
+Today , President Xi and Prime Minister May held telephone talks , in which the leaders once again reaffirmed our shared commitment to building the `` Golden Era '' .
+May	7	ps_cue
+########
+174
+<EOP> .
+########
+175
+Building a China_UK `` Golden Era '' is not a slogan .
+not	8	neg_cue
+########
+176
+It is a brand new definition of our bilateral relationship .
+########
+177
+It is a symbol of our determination to build consensus and deepen cooperation .
+########
+178
+<EOP> .
+########
+179
+We must seize this opportunity .
+########
+180
+<EOP> .
+########
+181
+We must engage each other in productive dialogues .
+########
+182
+<EOP> .
+########
+183
+We can deliver more `` golden fruits '' in this `` Golden Era '' .
+can	1	ps_cue
+########
+184
+<EOP> .
+########
+185
+The second opportunity comes from China 's development .
+########
+186
+<EOP> .
+########
+187
+China is striving for national progress and renewal .
+########
+188
+The dynamics between China and the rest of the world is undergoing profound changes .
+########
+189
+<EOP> .
+########
+190
+Already , we have seen China 's development creating opportunities for countries around the world .
+opportunities	9	ps_cue
+########
+191
+One of the examples is the Belt and Road Initiative .
+########
+192
+This Initiative offers a platform for countries to share China 's development benefits and work together for win_win results .
+########
+193
+More than 100 countries and international organizations are participating in this Initiative and working actively together .
+########
+194
+Britain is one of them .
+########
+195
+Enthusiasm from different sectors can be felt across this country .
+can	4	ps_cue
+########
+196
+<EOP> .
+########
+197
+China 's development will provide more opportunities .
+will	3	ps_cue
+opportunities	6	ps_cue
+########
+198
+In the coming five years , China will import 8,000 billion dollars of goods , attract 600 billion dollars of foreign investment and make 750 billion dollars of outbound investment .
+will	7	ps_cue
+########
+199
+Chinese nationals will make more than 700 million trips overseas .
+will	2	ps_cue
+########
+200
+All these will create huge opportunities for closer China_UK cooperation across the board .
+will	2	ps_cue
+opportunities	5	ps_cue
+########
+201
+<EOP> .
+########
+202
+<EOP> .
+########
+203
+<EOP> .
+########
+204
+The third opportunity will arise from dovetailing development strategies of our two countries .
+will	3	ps_cue
+########
+205
+<EOP> .
+########
+206
+China and Britain have much to offer to each other in our respective development strategies .
+########
+207
+Right now , China is working hard to dovetail the Belt and Road Initiative , the 13th Five Year Plan and the Made in China 2025 with the UK 's Industrial Strategy , Northern Powerhouse and the UK Industry 2050 .
+########
+208
+We are working with Britain to expand our cooperation into infrastructure building such as new energy , high speed rail , airport , etc. .
+########
+209
+<EOP> .
+########
+210
+Britain is strong in high_tech , financial services and creative industries .
+########
+211
+China has capital , human resources , a huge market and leading infrastructure building capabilities .
+########
+212
+Our two countries can put our respective strengths together , engage in closer cooperation and achieve common development .
+can	3	ps_cue
+########
+213
+<EOP> .
+########
+214
+The fourth opportunity lies in the extensive , friendly exchanges between China and Britain .
+########
+215
+<EOP> .
+########
+216
+Recent years have seen increasing cultural and people_to_people exchanges between our two countries .
+########
+217
+<EOP> .
+########
+218
+Together , we hosted the China_UK Year of Cultural Exchange .
+########
+219
+<EOP> .
+########
+220
+We co_hosted events to commemorate the 400th anniversary of the passing of Tang Xianzu and William Shakespeare .
+########
+221
+<EOP> .
+########
+222
+In the field of education , about 170 thousand Chinese students are right now studying in the UK .
+########
+223
+More than 130 thousand British students have been registered at the 29 Confucius Institute and 145 Confucius Classrooms across the UK .
+########
+224
+This has made Britain a leader in Europe in both student exchange and Chinese language teaching .
+########
+225
+<EOP> .
+########
+226
+Tourism is another highlight .
+########
+227
+In 2016 , Chinese and British nationals made 1.5 million visits to each other 's country .
+########
+228
+That is 50 % more than five years ago .
+########
+229
+<EOP> .
+########
+230
+Greatly facilitating such level of mutual visits is the increase of passenger flights between China and Britain to 100 flights per week .
+########
+231
+<EOP> .
+########
+232
+Such level of close cultural exchanges and people_to_people ties is certainly contributing to stronger public support on both sides for China_UK relations .
+########
+233
+<EOP> .
+########
+234
+Last but not least is the opportunity for cooperation between China and Britain on international issues .
+not	2	neg_cue
+########
+235
+<EOP> .
+########
+236
+China and Britain are countries of global influence .
+########
+237
+Both China and Britain are permanent members of the UN Security Council and important members of G20 .
+########
+238
+We have maintained sound cooperation within the framework of the UN and G20 .
+########
+239
+<EOP> .
+########
+240
+China and Britain have shared commitment to economic globalization , trade liberalization and investment facilitation .
+########
+241
+Our interests converge and our communication and cooperation have been effective in facilitating free trade , improving global economic governance and reforming the international financial system .
+########
+242
+<EOP> .
+########
+243
+We have made joint statements on Syria and Afghanistan .
+########
+244
+And we have been engaged in global cooperation on health issues , climate change , counter_terrorism , peacekeeping and regional security .
+########
+245
+<EOP> .
+########
+246
+The telephone talks between President Xi and Prime Minister May is the latest example of China and the UK joining hands in responding to global and regional challenges .
+May	9	ps_cue
+########
+247
+The two leaders agreed that China and the UK , as permanent members of the UN Security Council , have the obligation and responsibility to handle hot spot issues such as the DPRK nuclear programme in a way that upholds regional and international peace .
+########
+248
+<EOP> .
+########
+249
+Ladies and Gentlemen , <EOP> .
+########
+250
+As we celebrate China 's 68th National Day , another major event is drawing near .
+########
+251
+That is the 19th National Congress of the Communist Party of China .
+########
+252
+It is to be held in Beijing on 18 October .
+########
+253
+This will be a highly important meeting .
+will	1	ps_cue
+########
+254
+<EOP> .
+########
+255
+The timing is important .
+########
+256
+China is right now in the run_up to the realization of a moderately prosperous society .
+########
+257
+It is also a crucial time for the development of socialism with Chinese features .
+########
+258
+<EOP> .
+########
+259
+The agenda is important .
+########
+260
+This meeting will review China 's overall progress in the past five years and draw lessons and experience .
+will	2	ps_cue
+########
+261
+On this basis , it will make action plans and design fundamental policies that are forward_looking and in keeping with the times .
+will	5	ps_cue
+plans	8	ps_cue
+########
+262
+<EOP> .
+########
+263
+On the whole , this will be a meeting that will help make sure the giant ship of China will continue to ride the waves and go full steam ahead .
+will	5	ps_cue
+will	10	ps_cue
+will	19	ps_cue
+########
+264
+<EOP> .
+########
+265
+As an old Chinese saying goes , `` A partnership forged with the right approach defies geographical distance ; It is thicker than glue and stronger than metal and stone . ''
+########
+266
+<EOP> .
+########
+267
+It is my firm belief that we should take China_UK relations from a strategic and long_term perspective and we must seize the five opportunities I mentioned just now .
+should	7	ps_cue
+opportunities	23	ps_cue
+########
+268
+<EOP> .
+########
+269
+If we do so , we can build an enduring China_UK `` Golden Era '' with more remarkable achievements , with a more promising future and with more `` golden fruits '' for our people and the people of the world .
+promising	23	CT+	CT+
+can	6	ps_cue
+########
+270
+<EOP> .
+########
+271
+Now , may I invite you to join me in a toast : <EOP> .
+may	2	ps_cue
+########
+272
+To the 68th anniversary of the founding of the People 's Republic of China , <EOP> .
+########
+273
+To the `` Golden Era '' of China_UK relations , <EOP> .
+########
+274
+And to the peace and prosperity of the world .
+########
+275
+<EOP> .
+########
+276
+Cheers !
+########
+277
+<EOP> .
+########
+278
+<EOP> .
+########
+279
+<EOP> .
+########
+280
+<EOP> .
+########

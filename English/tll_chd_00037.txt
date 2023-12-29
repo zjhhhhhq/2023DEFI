@@ -1,0 +1,287 @@
+Did London attack response save lives
+0
+Run , Hide , Tell ?
+########
+1
+London attack response likely saved lives <EOP> .
+saved	4	PS+	PS+
+likely	3	ps_cue
+########
+2
+2017_06_05 18:39 <EOP> .
+########
+3
+null <EOP> .
+########
+4
+College student Vashu Tyagi was leaving his dorm and heading to a nearby bar to celebrate the end of classes Saturday night in London when he saw people running frantically down the street .
+########
+5
+As three men with large knives moved through the area , stabbing anyone in their path , police yelled at Tyagi and others to get back inside -- an order he credits with saving his life .
+########
+6
+<EOP> .
+########
+7
+<EOP> .
+########
+8
+Commuters accross London Bridge after is was reopened following an attack which left 7 people dead and dozens of injured in central London , Britain , June 5 , 2017 .
+########
+9
+<EOP> .
+########
+10
+LRB Photo_Agencies RRB <EOP> .
+########
+11
+`` Obviously they gave us good advice , '' he said .
+gave	3	neg_cue
+########
+12
+`` I 'm quite lucky to be here .
+########
+13
+`` As reports of stabbings in a popular London nightspot started flowing in late Saturday , police sent out a tweet warning people in the area to run , hide , then call authorities .
+########
+14
+Officers on the scene also shouted at bystanders to disperse , a response that experts say likely saved lives .
+saved	17	PS+	PS+
+likely	16	ps_cue
+########
+15
+<EOP> .
+########
+16
+Yet while the Run , Hide , Tell strategy -- known in the US as Run , Hide , Fight -- has been credited with saving lives in certain circumstances , some say it 's not perfect , especially when a victim 's first instinct might be to freeze on the spot .
+saving	25	CT+	PS+
+not	35	neg_cue
+might	45	ps_cue
+########
+17
+<EOP> .
+########
+18
+`` The best thing you can do is to get as far away from the source of the danger as possible , '' said Denis Fischbacher_Smith , a risk analyst and professor at the University of Glasgow .
+can	5	ps_cue
+possible	20	ps_cue
+########
+19
+`` But it 's never going to be a universal solution .
+never	4	neg_cue
+########
+20
+It 's never going to work all the time .
+never	2	neg_cue
+########
+21
+`` Saturday 's attack unfolded over a few minutes : First , a rented van veered off the road and drove into pedestrians on busy London Bridge .
+########
+22
+Three men wielding large knives got out of the van and attacked people at bars and restaurants in the popular Borough Market .
+########
+23
+The men killed seven people and injured roughly 50 before they were shot dead by police .
+########
+24
+<EOP> .
+########
+25
+The Run , Hide , Tell strategy promoted by the United Kingdom 's National Police Chiefs ' Council says that in the event of an active attack , people should first run to a place of safety .
+should	29	ps_cue
+########
+26
+If there is nowhere to go , hiding is the next best option , setting up barricades if possible .
+possible	18	ps_cue
+########
+27
+Then , when safe to do so , victims are urged to call police .
+########
+28
+<EOP> .
+########
+29
+France has a similar strategy , and posters providing directions are meant to hang in all public places .
+########
+30
+The goal is to make sure people are vigilant and adopt the right attitude in the event of an attack , said Cedric Michel , president of the Union for Defense of Municipal Police .
+########
+31
+<EOP> .
+########
+32
+Fischbacher_Smith said the strategies in Europe are an evolution of the Run , Hide , Fight approach in the United States , which started in 2012 in Houston , Texas .
+########
+33
+Run , Hide , Fight is standard protocol for active_shooter situations in the US It advises people to run away if possible , get out of view , and if that 's not feasible , try to incapacitate the shooter if there is an imminent threat .
+possible	21	ps_cue
+not	32	neg_cue
+########
+34
+<EOP> .
+########
+35
+Larry Barton , professor of public safety at the University of Central Florida and a threat assessment instructor for the FBI , said the strategy saves lives , but people need to make decisions quickly .
+saves	25	CT+	PS+
+need	30	ps_cue
+########
+36
+<EOP> .
+########
+37
+`` The longer you wait and deliberate ... the chances of your survivability really diminish notably , '' he said .
+########
+38
+<EOP> .
+########
+39
+Hiding is easier in a school setting or office , where people know the building 's layout .
+or	7	ps_cue
+########
+40
+On the street , or in a stadium or nightclub , hiding is virtually impossible .
+or	4	ps_cue
+or	8	ps_cue
+impossible	14	ps_cue
+impossible	14	neg_cue
+########
+41
+And if someone choses to fight , he or she has to be `` all in , '' he said .
+or	8	ps_cue
+########
+42
+<EOP> .
+########
+43
+In the 2016 Pulse nightclub shooting in Orlando , Florida , roughly 40 people hid in bathrooms -- where they were trapped for hours as the gunman went through the club , then became cornered when he entered the bathroom and began shooting into stalls .
+########
+44
+<EOP> .
+########
+45
+There are occasions in which people can not protect themselves by running .
+can	6	ps_cue
+not	7	neg_cue
+########
+46
+Many people did n't have time to run when a truck careened into a seaside crowd in Nice , France , last year .
+n't	3	neg_cue
+########
+47
+More than 80 people died .
+########
+48
+Those who survived jumped from the promenade onto the beach below or threw loved ones out of the way .
+or	11	ps_cue
+########
+49
+<EOP> .
+########
+50
+In a study to be released later this month , Barton analyzed 61 deadly assaults in public places such as arenas , nightclubs , coffee houses or other venues from 2006 to 2016 .
+or	26	ps_cue
+########
+51
+He found that 73 percent of those who survived did so by running , and they had no injuries or moderate injuries such as a sprained ankle .
+no	17	neg_cue
+or	19	ps_cue
+########
+52
+Twenty percent of survivors hid , but about a third of the hiders were injured .
+########
+53
+The remaining 7 percent both ran and hid , he said .
+########
+54
+<EOP> .
+########
+55
+But for those who are out enjoying life , running or hiding might be easier said than done .
+or	10	ps_cue
+might	12	ps_cue
+########
+56
+<EOP> .
+########
+57
+Joseph LeDoux , a professor of neuroscience at New York University and head of the Emotional Brain Institute , said humans are evolutionarily programmed to freeze when there is danger , and a person ca n't run if they are frozen on the spot .
+n't	35	neg_cue
+########
+58
+<EOP> .
+########
+59
+`` It sort of short_circuits the entire slogan from the get_go , '' he said .
+########
+60
+<EOP> .
+########
+61
+Dean Mobbs , assistant professor at the California Institute of Technology , said an individual 's perception of the situation can also affect whether one flees or freezes .
+can	20	ps_cue
+whether	23	ps_cue
+or	26	ps_cue
+########
+62
+If someone feels they ca n't control a situation , or ca n't escape it , freezing is more likely , he said .
+n't	5	neg_cue
+or	10	ps_cue
+n't	12	neg_cue
+likely	19	ps_cue
+########
+63
+In addition , people tend to greet horrific situations with initial disbelief , delaying their response .
+tend	4	ps_cue
+delaying	13	neg_cue
+########
+64
+<EOP> .
+########
+65
+But he said that after three attacks in London in as many months , Londoners are more prepared and will likely react more quickly .
+will	19	ps_cue
+likely	20	ps_cue
+########
+66
+<EOP> .
+########
+67
+One survivor of the London attack said he decided to fight before he ran and hid .
+########
+68
+<EOP> .
+########
+69
+Chef Florin Morariu said he first froze when he went outside the bakery and saw two people stabbing others .
+froze	6	neg_cue
+########
+70
+Then , he said , he began fighting and hit one of the attackers on the head with a crate before police told him to run .
+########
+71
+<EOP> .
+########
+72
+`` There was a car with a loudspeaker saying ` go , go ' and they LRB police RRB threw a grenade .
+########
+73
+... and then I ran , '' he said .
+########
+74
+He then let about 20 people hide in the bakery and closed the shutters .
+########
+75
+<EOP> .
+########
+76
+Forliti wrote from Minneapolis .
+########
+77
+Associated Press writers Raphael Satter in London and Elaine Ganley in Paris contributed to this report .
+########
+78
+<EOP> .
+########
+79
+Agencies <EOP> .
+########

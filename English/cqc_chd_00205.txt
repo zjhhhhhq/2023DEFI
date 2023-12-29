@@ -1,0 +1,85 @@
+Does Indian army start learning Chinese language
+0
+Indian army starts learning Chinese language <EOP> .
+learning	3	CT+	CT+
+########
+1
+2017_05_04 14:22 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+Visva_Bharati University in Indian state of West Bengal has launched Mandarin classes for soldiers , according to news agency Press Trust of India .
+########
+4
+<EOP> .
+########
+5
+The news agency said 25 army personnel have enrolled for the course this year .
+########
+6
+<EOP> .
+########
+7
+The university 's `` Cheena Bhavan '' LRB China College RRB will run the classes , said Swapan Kumar Dutta , officiating vice_chancellor of the university .
+will	11	ps_cue
+########
+8
+<EOP> .
+########
+9
+The course aims to introduce soldiers to the rich Chinese culture and the centuries_old ties between both countries , said the report .
+########
+10
+<EOP> .
+########
+11
+The eligibility criterion for soldiers was the same as other students enrolled for the course .
+########
+12
+<EOP> .
+########
+13
+The course is being taught at an army establishment since it was not feasible for soldiers to attend the Chinese_language classes in the Visva_Bharati campus , Dutta said .
+taught	4	CT+	CT+
+not	12	neg_cue
+########
+14
+<EOP> .
+########
+15
+He said the Chinese consulate in India has extended all help to set up a `` modern Chinese laboratory '' with modern equipment at Cheena Bhavan .
+########
+16
+<EOP> .
+########
+17
+`` We are working on Gurudev Rabindranath Tagore 's vision of broadening the mind through linguistic and cultural exchanges , '' Dutta said , referring to Indian poet Rabindranath Tagore whose poems are well_known even in today 's China .
+########
+18
+<EOP> .
+########
+19
+Visva_Bharati University was founded by Tagore in 1921 .
+########
+20
+Cheena Bhavan LRB China College RRB was established by Tagore and Chinese educator Tan Yunshan in 1937 .
+########
+21
+Southwest China 's Yunnan University has maintained an exchange program with the college since 2011 .
+########
+22
+<EOP> .
+########
+23
+While lots of people around the world began learning Mandarin in recent years , not many are learning the language in India .
+learning	8	CT+	CT+
+not	14	neg_cue
+########
+24
+The bhavan has more than 130 students , with courses focused on Chinese language , ancient Chinese history and Chinese literature .
+########
+25
+<EOP> .
+########

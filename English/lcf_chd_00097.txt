@@ -1,0 +1,131 @@
+Is there an increase in the number of visitors from China to the European Union
+0
+Chinese visitors help boost UK tourism <EOP> .
+########
+1
+2017_10_10 17:07 <EOP> .
+########
+2
+China Daily UK <EOP> .
+########
+3
+The drop in the value of sterling following Britain 's referendum decision to leave the European Union , coupled with an increase in the number of visitors from China , contributed to a record year for the country 's tourism sector , according to the United Kingdom 's tourism authority .
+increase	21	CT+	CT+
+########
+4
+<EOP> .
+########
+5
+From January to July , there were a record 23.1 million visits to the UK from overseas , up 8 percent on the same period last year , according to VisitBritain 's annual review .
+########
+6
+<EOP> .
+########
+7
+Visitors spent a total 13.3 billion pounds LRB $ 17.5 billion RRB , up 9 percent .
+########
+8
+<EOP> .
+########
+9
+Britons are also taking more holidays at home .
+########
+10
+From January to June , there was a 7 percent rise in the number of domestic overnight holidays in England , up to a record 20.4 million .
+########
+11
+These holidaymakers spent 4.6 billion pounds , up 17 percent , which was also a record .
+########
+12
+<EOP> .
+########
+13
+VisitBritain chairman Steve Ridgway said : `` Tourism is an economic powerhouse , worth 127 billion pounds annually to the economy and a job creator right across Britain . ''
+########
+14
+<EOP> .
+########
+15
+Between January and March , visits from China to the UK were up 27 percent to 54,000 , when compared to the same time in 2016 .
+up	12	CT+	CT+
+########
+16
+<EOP> .
+########
+17
+Chinese visitors spent 91 million pounds between January and March , an increase of 27 percent compared to the same period in 2016 .
+increase	12	CT+	CT+
+########
+18
+<EOP> .
+########
+19
+Flight bookings from China to the UK between October and December are up 8 percent compare with the same period last year , higher than the total inbound increase of 7 percent , according to travel consultancy ForwardKeys , suggesting the trend is continuing .
+increase	28	CT+	CT+
+########
+20
+<EOP> .
+########
+21
+Ridgway said the 16 percent fall in the exchange rate boosted the UK 's attractiveness as a destination to both overseas and domestic visitors .
+########
+22
+<EOP> .
+########
+23
+Britain was 10 percent cheaper for Chinese visitors in September compared to the same period in 2015 .
+########
+24
+Chinese tourists have saved as much as 12 percent on holidays to the UK since the pound weakened last summer .
+########
+25
+<EOP> .
+########
+26
+Visitor numbers from China to London are expected to reach 330,000 a year by 2025 , up from 160,000 in 2016 , according the office of Sadiq Khan , London 's mayor , making China the city 's fastest_growing major tourism market .
+reach	9	PS+	CT+
+expected	7	ps_cue
+########
+27
+<EOP> .
+########
+28
+Ridgway said the UK tourism industry needs a long_term strategy in order to maintain its strong growth .
+needs	6	ps_cue
+########
+29
+<EOP> .
+########
+30
+`` Tourism is a fiercely competitive global industry and you can not just build a strong , resilient industry on a weaker currency , '' Ridgway said .
+can	10	ps_cue
+not	11	neg_cue
+########
+31
+`` We must continue to invest in developing world_class tourism products , getting Britain on the wish_list of international and domestic travelers .
+########
+32
+And we must make it easy for visitors to make that trip . ''
+########
+33
+<EOP> .
+########
+34
+John Glen , the UK 's minister for tourism , said : `` Internationally , we are performing strongly in a hugely competitive market and I will continue to work closely with the sector to maintain growth , get the best possible deal as we exit the EU , and retain the UK 's position as must_visit destination . ''
+will	26	ps_cue
+possible	41	ps_cue
+########
+35
+<EOP> .
+########
+36
+The Tourism Industry Council has outlined plans for a campaign to boost recruitment and job training in the sector .
+plans	6	ps_cue
+########
+37
+It also wants improved connectivity and the creation of `` tourism zones '' .
+wants	2	ps_cue
+########
+38
+<EOP> .
+########

@@ -1,0 +1,149 @@
+Does THAAD protest continue in ROK
+0
+THAAD protests continue in ROK <EOP> .
+protests	1	CT+	CT+
+########
+1
+2017_05_02 07:19 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+South Koreans protest against the deployment of the THAAD system near US Embassy in Seoul on Saturday .
+protest	2	CT+	CT+
+against	3	neg_cue
+########
+4
+Ahn Youngjoon _ Associated Press <EOP> .
+########
+5
+President Donald Trump said South Korea should pay the $ 1 billion cost <EOP> .
+should	6	ps_cue
+########
+6
+SEOUL _ Protests against the deployment of the US THAAD missile defense system continued in South Korea on Monday amid a controversy over which side would shoulder its $ 1 billion cost .
+Protests	2	CT+	CT+
+against	3	neg_cue
+would	25	ps_cue
+########
+7
+<EOP> .
+########
+8
+About 150 residents and peace activists blocked the entrance of police buses to a golf course in Seongju in the southeastern part of the country , where major elements of the Terminal High Altitude Area Defense system have already been installed .
+blocked	6	neg_cue
+########
+9
+<EOP> .
+########
+10
+The protesters blocked police buses in a bid to stop US troops from bringing in more equipment to the site .
+protesters	1	CT+	CT+
+blocked	2	neg_cue
+stop	9	neg_cue
+########
+11
+<EOP> .
+########
+12
+Two oil tankers , driven by US soldiers , attempted on Sunday to enter the golf course , but were blocked by the protesters .
+blocked	20	neg_cue
+########
+13
+During the tussle with police , two people were wounded and were taken to a nearby hospital .
+########
+14
+<EOP> .
+########
+15
+Sim Sang_jung of the progressive Justice Party , one of the five major presidential candidates , visited the Soseong_ri village in Seongju on Sunday to talk with the residents .
+########
+16
+During the meeting , Sim , who has called for the reversal of the THAAD deployment , said the other candidates should also come to the site and watch what was taking place in Seongju , which she described as `` war_like situations '' .
+should	21	ps_cue
+########
+17
+<EOP> .
+########
+18
+In Seoul , three Won Buddhist monks launched an indefinite hunger strike at Gwanghwamun Square , vowing to fast until THAAD is completely pulled of out South Korea .
+########
+19
+<EOP> .
+########
+20
+Major THAAD elements , including two launchers and a radar , were installed last week following a violent tussle between police and protesters .
+########
+21
+<EOP> .
+########
+22
+Meanwhile , a controversy has erupted over who would pay for the missile defense system after US President Donald Trump said last week South Korea should bear the $ 1 billion cost .
+would	8	ps_cue
+should	25	ps_cue
+########
+23
+<EOP> .
+########
+24
+The comment sparked fresh protests against the THAAD deployment because the shield would be operated by the US Forces Korea , not by South Korea 's military .
+against	5	neg_cue
+would	12	ps_cue
+not	21	neg_cue
+########
+25
+<EOP> .
+########
+26
+Herbert McMaster , US national security adviser , said in an interview with Fox News on Sunday that his country would adhere to the deal with South Korea on THAAD `` until any renegotiation , '' indicating a renegotiation on which side would pay the cost .
+would	20	ps_cue
+would	42	ps_cue
+########
+27
+<EOP> .
+########
+28
+The South Korean Defense Ministry said on Monday that paying the THAAD cost could not become a subject to renegotiations , reiterating that the costs issue was already agreed upon .
+could	13	ps_cue
+not	14	neg_cue
+########
+29
+<EOP> .
+########
+30
+Under the Status of Forces Agreement , the ministry claimed , the US side bears the burden of the THAAD operation and maintenance , while the South Korean side provides land and infrastructure for the deployment .
+########
+31
+<EOP> .
+########
+32
+Debates were rekindled among major South Korean presidential candidates over the THAAD installation , following Trump 's remarks on the payment .
+########
+33
+<EOP> .
+########
+34
+Moon Jae_in of the biggest Minjoo Party , a months_long frontrunner in recent presidential polls , reiterated his position : `` The final decision on THAAD must be made by the next government . ''
+########
+35
+<EOP> .
+########
+36
+The country 's presidential election is scheduled for May 9 as former President Park Geun_hye was impeached in March over corruption allegations .
+scheduled	6	ps_cue
+May	8	ps_cue
+########
+37
+<EOP> .
+########
+38
+Ahn Cheol_soo of the minor centrist People 's Party , a runner_up to Moon , said the costs should be paid by the US side .
+should	18	ps_cue
+########
+39
+<EOP> .
+########
+40
+Xinhua <EOP> .
+########

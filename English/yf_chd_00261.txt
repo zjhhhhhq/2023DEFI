@@ -1,0 +1,74 @@
+Do state leaders declare gun violence a public health issue 
+0
+US Texas legislators call for rethinking gun laws after church mass shooting <EOP> .
+########
+1
+2017_11_09 08:52 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+HOUSTON _ Some members of the Texas Legislature on Wednesday pushed for their fellow legislators and other top officials to examine whether the state 's gun laws need to be changed .
+whether	21	ps_cue
+need	27	ps_cue
+########
+4
+<EOP> .
+########
+5
+At a news conference organized by Texas Gun Sense at the state capitol , State Reps. Poncho Nevarez and Nicole Collier urged state leaders to declare gun violence a public health issue and reform existing gun regulations .
+violence	27	CT+	CT-
+########
+6
+<EOP> .
+########
+7
+According to the Houston Public Media , Collier urged state leaders to declare gun violence a public health issue , comparing it to other health crises such as obesity and the opioid epidemic .
+violence	14	CT+	CT-
+########
+8
+<EOP> .
+########
+9
+State Rep. Gina Hinojosa spoke at the same news conference , offering a list she authored of steps to prevent gun violence .
+violence	21	CT-	CT-
+prevent	19	neg_cue
+########
+10
+Her suggestions include increasing public education on safe gun usage and requiring a license to carry for long guns .
+########
+11
+<EOP> .
+########
+12
+The press conference came a day after state Rep. Jason Villalba urged state leaders to create a bipartisan commission tasked with recommending `` common sense '' gun reforms ahead of the next scheduled legislative session in 2019 .
+scheduled	32	ps_cue
+########
+13
+<EOP> .
+########
+14
+Nevarez and Hinojosa stressed that they did not advocate eliminating Texans ' access to guns .
+not	7	neg_cue
+########
+15
+Nevarez did , however , criticize state leaders for not offering `` anything that amounts to any real solution '' to gun violence .
+violence	22	CT-	CT-
+not	9	neg_cue
+########
+16
+<EOP> .
+########
+17
+Texas public safety officials said 26 people were killed after gunman Devin Patrick Kelley opened fire on Sunday at a church in Sutherland Springs , a community of fewer than 400 residents and about 300 km west of Houston .
+########
+18
+<EOP> .
+########
+19
+The gunman was later found dead nearby in his car , apparently of a gunshot wound , after he fled the scene .
+########
+20
+<EOP> .
+########

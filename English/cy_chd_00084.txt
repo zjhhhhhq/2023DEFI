@@ -1,0 +1,50 @@
+Does Chinese premier attend Lancang_Mekong leaders ' meeting
+0
+Chinese premier to attend Lancang_Mekong leaders ' meeting , visit Cambodia <EOP> .
+attend	3	CT+	CT+
+########
+1
+2018_01_04 15:16 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+BEIJING _ Chinese Premier Li Keqiang will attend the second Lancang_Mekong River Cooperation LRB LMC RRB leaders ' meeting in Phnom Penh and pay an official visit to Cambodia from Jan. 10 to 11 .
+attend	7	CT+	CT+
+will	6	ps_cue
+########
+4
+<EOP> .
+########
+5
+Chinese Foreign Ministry spokesman Geng Shuang made the announcement on Thursday .
+########
+6
+<EOP> .
+########
+7
+According to Geng , Premier Li will co_chair the leaders ' meeting with Cambodian Prime Minister Samdech Techo Hun Sen. During the meeting , leaders from China , Cambodia , Laos , Myanmar , Thailand and Vietnam will review the progress made through the sub_regional cooperation mechanism and discuss the future of cooperation .
+co_chair	7	CT+	CT+
+will	6	ps_cue
+will	37	ps_cue
+########
+8
+<EOP> .
+########
+9
+As to the official visit , Li will meet with Cambodian King Norodom Sihamoni , and hold talks with Hun Sen to promote bilateral cooperation .
+will	7	ps_cue
+########
+10
+<EOP> .
+########
+11
+The Lancang River originates on the Qinghai_Tibet plateau in southwest China .
+########
+12
+It is called the Mekong River as it flows through Myanmar , Laos , Thailand , Cambodia and Vietnam before emptying into the sea .
+########
+13
+<EOP> .
+########

@@ -1,0 +1,199 @@
+Does English have academy guiding it
+0
+1 、 It is the only major language without an academy to guide it .
+academy	10	CT-	CT-
+without	8	neg_cue
+########
+1
+<EOP> .
+########
+2
+L'Académie fran?aise , based in Paris , is in charge of overseeing the French language .
+########
+3
+For Spanish there is the Real Academia Espa?ola .
+########
+4
+German has the Rat für deutsche Rechtschreibung .
+########
+5
+There is no equivalent to L'Académie for English .
+no	2	neg_cue
+########
+6
+Of the 10 most_widely spoken languages in the world , only English has no academy guiding it .
+academy	14	CT-	CT-
+no	13	neg_cue
+########
+7
+<EOP> .
+########
+8
+2 、 More than 1 billion people are learning English as you read this .
+########
+9
+<EOP> .
+########
+10
+According to the British Council , around 1 billion people around the world were learning English in 2000 .
+########
+11
+This figure is now likely to be significantly higher .
+likely	4	ps_cue
+########
+12
+<EOP> .
+########
+13
+3 、 96 of the 100 most common English words are Germanic .
+########
+14
+<EOP> .
+########
+15
+Of the hundred most frequently used words in English , 96 have Germanic roots .
+########
+16
+Together , those 100 words make up more than 50 % of the Oxford English Corpus , which currently contains over 2 billion words found in writing around the world .
+########
+17
+<EOP> .
+########
+18
+Surprised ?
+########
+19
+The most frequently used words are the meat and bones of the language , the essentials that make communication work , including I , you , go , eat , and so on .
+########
+20
+<EOP> .
+########
+21
+4 、 But most words that have entered the language since 1066 have Latin origins .
+########
+22
+<EOP> .
+########
+23
+The Renaissance , which started in Italy and reached England via France , was a massive source of new vocabulary .
+########
+24
+New ideas , or old ideas rediscovered , started flooding out of the southern cities but there were no words to describe them in English .
+or	3	ps_cue
+no	18	neg_cue
+########
+25
+So the language adopted or adapted the Latin words .
+or	4	ps_cue
+########
+26
+During the Renaissance , the English lexicon roughly doubled in size .
+########
+27
+<EOP> .
+########
+28
+5 、 For more than a century , the English aristocracy could n't speak English .
+could	11	ps_cue
+n't	12	neg_cue
+########
+29
+<EOP> .
+########
+30
+William the Conqueror tried to learn English at the age of 43 but gave up .
+gave	13	neg_cue
+########
+31
+Within 20 years of the Normans taking power in England , almost all of the local religious institutions were French_speaking .
+########
+32
+There is little to suggest that aristocrats themselves spoke English .
+little	2	neg_cue
+suggest	4	ps_cue
+########
+33
+It is n't until the end of the 12th Century that we have evidence of the children of the English aristocracy with English as a first language .
+n't	2	neg_cue
+########
+34
+<EOP> .
+########
+35
+6 、 That is why Latin words sound more prestigious than Germanic ones .
+########
+36
+<EOP> .
+########
+37
+Think about the difference between a house LRB Germanic RRB and a mansion LRB French RRB , or between starting something and commencing , between calling something kingly or regal .
+or	17	ps_cue
+or	28	ps_cue
+########
+38
+English has a huge number of close synonyms , where the major difference is the level of formality or prestige .
+or	18	ps_cue
+########
+39
+The prestigious form is almost always the Latin one .
+########
+40
+<EOP> .
+########
+41
+7 、 The concept of `` correct '' spelling is fairly recent .
+########
+42
+<EOP> .
+########
+43
+Shakespeare , for example , was liberal in his spellings of words , often using multiple variants within a single text ; his name itself has been spelt in many different ways over the centuries .
+########
+44
+<EOP> .
+########
+45
+8 、 One man is largely responsible for the differences between American and British spelling .
+########
+46
+<EOP> .
+########
+47
+Noah Webster , whose name you still find on the front of many American dictionaries , was a patriotic man .
+########
+48
+Between 1783 and 1785 , he produced three books on the English language for American schoolchildren .
+########
+49
+During his lifetime , 385 editions of his Speller were published .
+########
+50
+The modern US spelling of color was initially spelt in the British way , colour , but this changed in later editions .
+########
+51
+<EOP> .
+########
+52
+9 、 _ ize is not an American suffix_ize .
+not	5	neg_cue
+########
+53
+<EOP> .
+########
+54
+There is a popular belief that words such as popularise_ize , maximise_ize and digitise_ize have different spellings in British and American English .
+########
+55
+<EOP> .
+########
+56
+Look at that z _ is n't it snazzy ?
+n't	6	neg_cue
+########
+57
+It 's got to be American , has n't it ?
+n't	8	neg_cue
+########
+58
+<EOP> .
+########

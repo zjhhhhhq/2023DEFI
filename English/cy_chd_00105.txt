@@ -1,0 +1,74 @@
+Are 6 people dead in Sydney seaplane crash
+0
+6 people dead in Sydney seaplane crash <EOP> .
+crash	6	CT+	CT+
+########
+1
+2017_12_31 18:49 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+SYDNEY __ Australian New South Wales LRB NSW RRB Police confirmed on Sunday that six people have been killed after a seaplane crashed into Jerusalem Bay near the town of Cowan , north of Sydney .
+crashed	22	CT+	CT+
+########
+4
+<EOP> .
+########
+5
+The Sydney Seaplanes aircraft , carrying a pilot and five passengers , crashed at about 3:15 pm local time and a search and rescue operation was launched to locate the aircraft which is believed to be submerged .
+crashed	12	CT+	CT+
+believed	33	ps_cue
+########
+6
+<EOP> .
+########
+7
+Debris and an oil slick have been found on the surface of water .
+########
+8
+<EOP> .
+########
+9
+NSW Police confirmed all six bodies had been recovered by about 7:30 pm on Sunday .
+########
+10
+There are unconfirmed reports that those on board were four British nationals , an 11_year_old boy and the pilot .
+unconfirmed	2	ps_cue
+########
+11
+<EOP> .
+########
+12
+According to local media reports , the seaplane was returning a party of five people from a restaurant to Rose Bay in Sydney 's east when it crashed into the water .
+########
+13
+<EOP> .
+########
+14
+`` We do n't know why the plane crashed , '' Commander of the Kurung_Gai Local Area Command , Acting Superintendent Michael Gorman , told reporters .
+crashed	8	CT+	CT+
+n't	3	neg_cue
+########
+15
+<EOP> .
+########
+16
+Sydney Seaplanes confirmed that an incident had occurred with a plane believed to belong to the company .
+believed	11	ps_cue
+########
+17
+Sydney Seaplanes offers scenic flights over Sydney tourist attractions and waterways including the Opera House , the Harbour Bridge and Pittwater , as well as the Hawkesbury River region .
+########
+18
+<EOP> .
+########
+19
+The Australian Transport Safety Bureau will investigate the incident and release a preliminary report in approximately 30 days , with a final report expected to take up to 12 months .
+will	5	ps_cue
+expected	23	ps_cue
+########
+20
+<EOP> .
+########

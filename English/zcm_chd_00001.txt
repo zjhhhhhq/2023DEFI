@@ -1,0 +1,137 @@
+Did Washington Bullets learn a lot about the Chinese people , culture , and China
+0
+US team plays Guangzhou in preseason <EOP> .
+########
+1
+2017_10_04 09:30 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+<EOP> .
+########
+4
+Guangzhou Long_Lions of the Chinese Basketball Association play against the NBA 's Washington Wizards at the Wizards ' 2017 preseason opening game Monday night .
+against	8	neg_cue
+########
+5
+YUAN YUAN _ FOR CHINA DAILY <EOP> .
+########
+6
+Back in 1979 , the then Washington Bullets was the first NBA team to visit and play in China .
+########
+7
+`` It was a great thrill for us to be there .
+########
+8
+We had a fantastic trip -- we started in Beijing and went to Shanghai .
+########
+9
+We learned a lot about the Chinese people , culture , and your fantastic country , '' said Jerry Sachs , general manager of Washington Bullets at that time .
+learned	1	CT+	CT+
+########
+10
+<EOP> .
+########
+11
+Zhong Naixiong , owner of Guangzhou Long_Lions , was a 15_year_old student then and still remembereds how excited he was when Washington Bulletthe team visited China .
+########
+12
+<EOP> .
+########
+13
+`` We , the Chinese basketball fans , did n't know that there wais an NBA with some of the best teams in the world until their sensational , and eye_opening visit , '' Zhong addedsaid .
+n't	9	neg_cue
+########
+14
+<EOP> .
+########
+15
+Now that he took has the opportunity to bringought his whole team to NBA to compete , he believes the trip will benefit everyonethe whole team .
+benefit	22	CT+	CT+
+will	21	ps_cue
+########
+16
+<EOP> .
+########
+17
+`` We come here to learn .
+########
+18
+It was almost unthinkable in the past that we canould actually compete in NBA 's preseason games. , '' Zhong said .
+unthinkable	3	CT-	CT+
+########
+19
+`` But now with us playing here , you can see that China has become a favored market of NBA , . ''
+can	9	ps_cue
+########
+20
+Zhong said .
+########
+21
+<EOP> .
+########
+22
+<EOP> .
+########
+23
+Guangzhou Long_Lions of the Chinese Basketball Association play against the NBA 's Washington Wizards at the Wizards ' 2017 preseason opening game Monday night .
+against	8	neg_cue
+########
+24
+YUAN YUAN _ FOR CHINA DAILY <EOP> .
+########
+25
+`` We are honored to have these guests , too , '' said Tommy Sheppard , senior vice president of basketball operations at for the Washington Wizards .
+########
+26
+`` The growth there LRB in China RRB is tremendous . ''
+########
+27
+<EOP> .
+########
+28
+`` It 's a great opportunity for the two teams to come and to cultural exchange certainly , but it 's all about basketball , and basketball is an universal language , '' Sheppard continued .
+########
+29
+.
+########
+30
+`` We know exactly how they feel , they know how we feel , how it feels to get ready for a game , how it feels when you lose a game , how it feels when you win a game , so we have that same commonality . ''
+ready	19	ps_cue
+########
+31
+Sheppard said .
+########
+32
+<EOP> .
+########
+33
+For Fan Ziming , center of for the Long_Lions , to play against the Wizards is a golden opportunity chance to try out NBA 's intensity , gain some experience and learn a thing or two from his opponents .
+against	12	neg_cue
+or	34	ps_cue
+########
+34
+<EOP> .
+########
+35
+`` The things I learn from this game will help with my basketball career as well , '' Fan he said .
+will	8	ps_cue
+########
+36
+<EOP> .
+########
+37
+Later this week , NBA teams Golden State Warriors and Minnesota Timberwolves will face off respectively in Shenzhen and Shanghai on Thursday and Sunday respectively .
+will	12	ps_cue
+########
+38
+<EOP> .
+########
+39
+Yuan Yuan in Washington contributed to the story .
+########
+40
+<EOP> .
+########

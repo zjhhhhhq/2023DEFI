@@ -1,0 +1,46 @@
+Did 10 die due to heat wave in northern India
+0
+10 die due to heat wave in northern India <EOP> .
+die	1	CT+	CT+
+########
+1
+2017_06_06 16:31 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+NEW DELHI _ At least 10 people have died due to a heat wave in the northern Indian state of Uttar Pradesh in the past 24 hours , a senior official said Tuesday .
+died	8	CT+	CT+
+########
+4
+<EOP> .
+########
+5
+`` While four persons died in the state 's Bundelkhand region , six children lost their lives in the Avadh region in Bahraich district after suffering heat stroke , '' he said on condition of anonymity .
+died	4	CT+	CT+
+########
+6
+<EOP> .
+########
+7
+He added : `` Several others , mostly infants , have been admitted to a number of hospitals across the state with heat stroke .
+########
+8
+The condition of some are said to be critical . ''
+########
+9
+<EOP> .
+########
+10
+According to the weather department , temperature is hovering around 46 Celsius degrees in several parts of Uttar Pradesh , mainly Etawah , Mainpuri , Unnao , Kanpur and state capital Lucknow .
+########
+11
+<EOP> .
+########
+12
+The state recorded the hottest day of the season at 48 Celsius degrees on Sunday , which was the highest in the country .
+########
+13
+<EOP> .
+########

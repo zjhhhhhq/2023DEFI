@@ -1,0 +1,132 @@
+Does eastern US brace for more frigid weather 
+0
+Eastern US braces for more frigid weather , storm <EOP> .
+weather	6	CT+	CT+
+########
+1
+2018_01_03 11:43 <EOP> .
+########
+2
+China Daily USA <EOP> .
+########
+3
+NEW YORK _ A record_shattering freeze kept its grip on much of the eastern United States on Tuesday , causing at least seven deaths and closing schools as forecasters warned of a storm that could slam some areas with blizzard conditions later this week .
+kept	6	CT+	CT+
+could	34	ps_cue
+########
+4
+<EOP> .
+########
+5
+Late on Tuesday , Georgia Governor Nathan Deal declared a state of emergency for 28 counties after the National Weather Service issued the winter storm warning .
+warning	25	CT+	CT+
+########
+6
+<EOP> .
+########
+7
+Boston tied a 100_year_old record on Tuesday when it marked seven consecutive days of temperatures that did not top 20 degrees Fahrenheit LRB _ 6.7 degrees Celsius RRB .
+not	17	neg_cue
+########
+8
+Up and down the coast , people working outdoors struggled with the frigid conditions .
+conditions	13	CT+	CT+
+########
+9
+<EOP> .
+########
+10
+In New York City , Nayarit Delgrado , who promotes Times Square 's Madame Tussauds wax museum by handing out discount cards to tourists , said her secret to enduring long days outdoors was resisting the urge to check the temperature on her mobile phone .
+########
+11
+<EOP> .
+########
+12
+`` I just do n't want to know , '' said the 40_year_old Bronx resident , who said she was bundled up in layers and tugged back a cuff at her wrist to reveal a rainbow of sleeves .
+n't	4	neg_cue
+########
+13
+<EOP> .
+########
+14
+Officials urged people across the northeast to alert social services if they saw people in jeopardy because of the cold .
+########
+15
+<EOP> .
+########
+16
+`` We want every resident to have shelter and warmth , '' Washington Mayor Muriel Bowser said on Twitter .
+########
+17
+<EOP> .
+########
+18
+Frigid weather gripped much of the country for the past few days , breaking temperature records in cities from Omaha , Nebraska , to Aberdeen , South Dakota .
+weather	1	CT+	CT+
+########
+19
+<EOP> .
+########
+20
+Higher temperatures toward midweek were expected to be accompanied by heavy snow on the East Coast , according to the National Weather Service .
+snow	11	PS+	CT+
+expected	5	ps_cue
+########
+21
+<EOP> .
+########
+22
+`` New York City will probably expect anywhere from 2 to 4 inches LRB 5 to 10 cm RRB of snow , '' weather service meteorologist Greg Gallina said .
+will	4	ps_cue
+probably	5	ps_cue
+expect	6	ps_cue
+########
+23
+`` The maximum swath will be from southern Rhode Island to the south of Boston and into Maine .
+will	4	ps_cue
+########
+24
+Southeast Maine will experience anywhere from 12 to 15 inches LRB 30_38 cm RRB of snow . ''
+will	2	ps_cue
+########
+25
+<EOP> .
+########
+26
+Gallina said cities in northern Florida would experience freezing rain and maybe some sleet .
+rain	9	CT+	CT+
+sleet	13	CT+	CT+
+would	6	ps_cue
+maybe	11	ps_cue
+########
+27
+Coastal areas in Georgia and South Carolina would start seeing snow as early as late Tuesday .
+would	7	ps_cue
+########
+28
+<EOP> .
+########
+29
+In Cobb County , Georgia , near Atlanta , three police officers were injured , one seriously , on Tuesday when their motorcycles hit a patch of ice on a roadway , local officials said on Twitter .
+########
+30
+<EOP> .
+########
+31
+Cold was expected to linger overnight in many parts of Texas , according to the National Weather Service .
+expected	2	ps_cue
+########
+32
+In Houston , two deaths on Monday night were believed to have been caused by exposure to the cold , Houston Police Chief Art Acevedo tweeted on Tuesday .
+cold	18	CT+	CT+
+believed	9	ps_cue
+########
+33
+<EOP> .
+########
+34
+Reuters <EOP> .
+########
+35
+<EOP> .
+########

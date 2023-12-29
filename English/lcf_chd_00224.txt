@@ -1,0 +1,21 @@
+Do Spain 's royals visit Britain on Wednesday
+0
+Spain 's royals on state visit to Britain to cement ties <EOP> .
+visit	5	CT+	CT+
+########
+1
+2017_07_12 23:40 <EOP> .
+########
+2
+Agencies <EOP> .
+########
+3
+Britain 's Queen Elizabeth rides in a carriage with Spain 's King Felipe , following a ceremonial welcome on Horseguards Parade , in central London , Britain , July 12 , 2017 .
+########
+4
+Spain 's King Felipe of Spain and Queen Letizia started a state visit to Britain on Wednesday .
+visit	12	CT+	CT+
+########
+5
+LRB Photo_Agencies RRB <EOP> .
+########

@@ -1,0 +1,129 @@
+Does China_Thailand high_speed railway upgrade Thailand 's transport system
+0
+China_Thailand high_speed railway upgrades Thailand 's transport system : Expert <EOP> .
+upgrades	3	CT+	CT+
+########
+1
+2017_12_24 20:53 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+BANGKOK __ The China_Thailand high_speed railway will upgrade Thailand 's transport system and unleash economic potentials of region along the route , said a Thai expert .
+upgrade	7	CT+	CT+
+will	6	ps_cue
+########
+4
+<EOP> .
+########
+5
+Thailand will enjoy more economic benefits once the high_speed railway connects the country 's capital Bangkok with China and other countries , which will help attract more foreign tourists and narrow regional economic disparity of Thailand , Huang Bin , China Research Institute director of Kasikorn Research Center in Thailand told Xinhua .
+will	1	ps_cue
+will	23	ps_cue
+########
+6
+<EOP> .
+########
+7
+The construction of the first section of the railway line officially began on Thursday with a ground_breaking ceremony in the northeastern Thai province of Nakhon Ratchasima .
+########
+8
+<EOP> .
+########
+9
+The 253_km first phase of the railway links Bangkok with Nakhon Ratchasima province .
+########
+10
+China is responsible for design of the railway , supervision of construction and manufacturing of trains and signal systems , among others .
+########
+11
+<EOP> .
+########
+12
+Once completed , the railway with a maximum speed of 250 km per hour will be the first high_speed railway of Thailand .
+will	14	ps_cue
+########
+13
+<EOP> .
+########
+14
+The second phase of the project will link Nakhon Ratchasima with Nong Khai on the border with Laos , which connects with the China_Laos railway in an artery railway linking Thailand , Laos and China .
+will	6	ps_cue
+########
+15
+<EOP> .
+########
+16
+Huang , an expert who has been paying close attention to the project , looks forward to the operation of the railway .
+forward	15	ps_cue
+forward	15	neg_cue
+########
+17
+He envisions the boom of Thailand 's economy in its northeastern part under the project .
+########
+18
+<EOP> .
+########
+19
+Northeastern Thailand , a region with one_third of Thailand 's land area that contains about one_third of the country 's population , contributes only one 10th of the Kingdom 's GDP , said Huang , adding that the poor transportation results in its sluggish development .
+contributes	22	ps_cue
+########
+20
+<EOP> .
+########
+21
+According to Huang , there are about 4,507 km of meter gauge lines in Thailand , of which 90 percent is still single track .
+########
+22
+There are also problems with old equipment , poor management and maintenance , and low speed .
+########
+23
+<EOP> .
+########
+24
+As a result , the annual volume of railway freight is less than a 10th of the total transport volume .
+########
+25
+It is estimated that the cost of land transport is six times that of rail .
+########
+26
+Since rail does not offer an alternative , the logistics costs in Thailand are higher than those in other countries .
+not	3	neg_cue
+########
+27
+<EOP> .
+########
+28
+The China_Thailand high_speed railway project will help upgrade Thailand 's railway system .
+upgrade	7	CT+	CT+
+will	5	ps_cue
+########
+29
+It is foreseeable that the railway will bring wide_reaching connectivity in the country while reducing logistic costs , and thus make Thailand ASEAN 's LRB Association of Southeast Asian Nations RRB trade and investment center , as well as a transport and logistics hub .
+will	6	ps_cue
+########
+30
+<EOP> .
+########
+31
+The China_Thailand railway will be finally connected with the China_Lao railway , thus using Chinese technology , which has been widely recognized across the world , will make it more accessible in the connectivity plan , said the expert .
+will	3	ps_cue
+will	26	ps_cue
+plan	34	ps_cue
+########
+32
+<EOP> .
+########
+33
+The project is a genuine joint contribution of the two countries , which is also an achievement in bilateral cooperation under the Belt and Road Initiative , said Huang .
+########
+34
+<EOP> .
+########
+35
+The project is part of China 's Belt and Road infrastructure drive , which aims to build a modern_day `` Silk Road '' connecting China with economies in Southeast and Central Asia , Middle East and Europe by land and by sea .
+########
+36
+<EOP> .
+########

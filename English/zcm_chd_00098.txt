@@ -1,0 +1,132 @@
+Does NAFTA need updating
+0
+US , Canada , Mexico kick off NAFTA renegotiations amid uncertainty <EOP> .
+########
+1
+2017_08_17 10:38 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+<EOP> .
+########
+4
+US Trade Representative Robert Lighthizer LRB C RRB attends the first round of renegotiations on the North American Free Trade Agreement LRB NAFTA RRB in Washington DC , the United States , on Aug 16 , 2017 .
+########
+5
+LRB Photo_Xinhua RRB <EOP> .
+########
+6
+WASHINGTON _ The United States , Canada and Mexico on Wednesday kicked off here the first round of renegotiations on the North American Free Trade Agreement LRB NAFTA RRB amid widespread uncertainty and anxiety over the future of the decades_old trilateral trade deal .
+########
+7
+<EOP> .
+########
+8
+`` We all agree that NAFTA needs updating .
+updating	7	CT+	CT+
+needs	6	ps_cue
+########
+9
+This is a 23_year_old agreement and our economies are very different than they were in the 1990s , '' US Trade Representative LRB USTR RRB Robert Lighthizer said in his opening remarks for the inaugural round of NAFTA talks , which will last until Sunday in Washington DC .
+will	41	ps_cue
+########
+10
+<EOP> .
+########
+11
+`` We need to modernize or create provisions which protect digital trade and service trade , e_commerce , update customs procedures , protect intellectual property , improving energy provisions , enhance transparency rules and promote science_based agricultural trade , '' Lighthizer said .
+need	2	ps_cue
+or	5	ps_cue
+########
+12
+<EOP> .
+########
+13
+He hoped that the three countries could develop model provisions in each of these areas that can be used for years ahead and have the flexibility to adapt to future innovations .
+hoped	1	ps_cue
+could	6	ps_cue
+can	16	ps_cue
+########
+14
+<EOP> .
+########
+15
+Lighthizer also claimed that NAFTA `` has fundamentally failed many , many Americans '' , and the United States `` can not ignore the huge trade deficits , the lost manufacturing jobs , the businesses that have closed or moved '' because of incentives in the current agreement .
+failed	8	neg_cue
+can	20	ps_cue
+not	21	neg_cue
+or	38	ps_cue
+########
+16
+<EOP> .
+########
+17
+The top US trade official said President Donald Trump , who has threatened to quit NAFTA , was not interested in `` a mere tweaking of a few provisions and a couple of updated chapters , '' and the United States would seek `` major improvement '' of the agreement .
+improvement	45	CT+	CT+
+quit	14	neg_cue
+not	18	neg_cue
+would	41	ps_cue
+########
+18
+<EOP> .
+########
+19
+`` We need to assure that huge trade deficits do not continue and we have balance and reciprocity .
+need	2	ps_cue
+not	10	neg_cue
+########
+20
+This should be periodically reviewed , '' Lighthizer said .
+should	1	ps_cue
+########
+21
+<EOP> .
+########
+22
+In July , the USTR 's office for the first time included deficit reduction as a specific objective for the NAFTA negotiations , reflecting the Trump administration 's determination to address the issue .
+########
+23
+<EOP> .
+########
+24
+However , Canadian Foreign Minister Chrystia Freeland dismissed the use of trade deficits as indicators of the success of a trade agreement .
+########
+25
+<EOP> .
+########
+26
+`` Canada does n't view trade surpluses or deficits as a primary measure of whether a trading relationship works , '' Freeland said in her opening remarks , adding current trade between the US and Canada is `` balanced and mutually beneficial . ''
+n't	3	neg_cue
+or	7	ps_cue
+whether	14	ps_cue
+########
+27
+<EOP> .
+########
+28
+Lighthizer said the US would also seek to tighten the rules of origin for automobiles and auto parts by requiring a higher NAFTA content and `` substantial US content '' .
+higher	21	CT+	CT+
+would	4	ps_cue
+########
+29
+<EOP> .
+########
+30
+The existing rules of origin allows the autos with a regional value content of 62.5 percent or higher to qualify for shipping them duty_free in North America .
+or	16	ps_cue
+########
+31
+That 's already the highest among the 12 free trade agreements that the US currently has , according to Matt Blunt , head of American Automotive Policy Council .
+########
+32
+<EOP> .
+########
+33
+Blunt said the current threshold for local content requirement strikes the right balance , warning that tightening the rules of origin in NAFTA could be disruptive and hurt the competitiveness of automakers in US , Canada and Mexico .
+could	23	ps_cue
+########
+34
+<EOP> .
+########

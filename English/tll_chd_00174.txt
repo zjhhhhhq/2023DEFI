@@ -1,0 +1,134 @@
+Did UK blogger foil global internet virus attack 
+0
+UK blogger hailed as ` accidental hero ' after foiling global internet virus attack <EOP> .
+foiling	9	CT+	CT+
+########
+1
+2017_05_14 06:01 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+An anonymous internet blogger , who asked to be known only by his online alias Malware Tech , stumbled on the `` off switch '' that halted an attack by a ransomware virus that affected computer systems in over 100 countries , the BBC reported , citing an interview with the man .
+halted	26	CT+	CT+
+########
+4
+<EOP> .
+########
+5
+His discovery halted the virus , which freezes computer systems and access to files unless a cash ransom is paid , but will not repair any damage already done , he said .
+halted	2	CT+	CT+
+will	22	ps_cue
+not	23	neg_cue
+########
+6
+<EOP> .
+########
+7
+The blogger , who works for a UK Internet security company , was on a week 's holiday when he heard about the virus and decided to check it out .
+########
+8
+<EOP> .
+########
+9
+He told the BBC he saw that each time the virus entered a new computer system , it would try and contact a specific web address , which he discovered was unregistered .
+would	18	ps_cue
+########
+10
+He immediately acquired it for eight pounds .
+########
+11
+<EOP> .
+########
+12
+His ownership of the site meant his investigations accidentally <EOP> .
+########
+13
+<EOP> .
+########
+14
+triggered the `` off switch '' and halted the further spread of the virus , which hit Britain 's National Health Service , Nissan 's car plant in northern England , Spanish telecoms giant Telefonica , Spanish energy company Iberdrola and Russian government ministries , <EOP> .
+halted	7	CT+	CT+
+########
+15
+<EOP> .
+########
+16
+the BBC reported .
+########
+17
+<EOP> .
+########
+18
+MalwareTech now thinks the code was originally designed to thwart researchers trying to investigate the ransomware , but it backfired by letting them remotely disable it .
+########
+19
+<EOP> .
+########
+20
+`` It was actually partly accidental , '' he told the BBC , after spending the night investigating .
+########
+21
+`` I have not slept a wink . ''
+not	3	neg_cue
+########
+22
+<EOP> .
+########
+23
+He added that his boss had given him an extra week off to recover from what he called `` a train wreck of a holiday . ''
+########
+24
+<EOP> .
+########
+25
+Security experts said that new variants of the malware that ignore the `` kill switch '' will appear .
+will	16	ps_cue
+appear	17	ps_cue
+########
+26
+<EOP> .
+########
+27
+`` This variant should n't be spreading any further , however there 'll almost certainly be copycats , '' <EOP> .
+should	3	ps_cue
+n't	4	neg_cue
+########
+28
+said security researcher Troy Hunt , according to the BBC .
+########
+29
+<EOP> .
+########
+30
+MalwareTech warned : `` We have stopped this one , but there will be another one coming and it will not be stoppable by us .
+stopped	6	neg_cue
+will	12	ps_cue
+will	19	ps_cue
+not	20	neg_cue
+########
+31
+<EOP> .
+########
+32
+`` There 's a lot of money in this , there is no reason for them to stop .
+no	12	neg_cue
+stop	17	neg_cue
+########
+33
+It 's not much effort for them to change the code and start over . ''
+not	2	neg_cue
+########
+34
+<EOP> .
+########
+35
+To contact the reporter : chris@mail.chinadailyuk.com <EOP> .
+########
+36
+<EOP> .
+########
+37
+<EOP> .
+########

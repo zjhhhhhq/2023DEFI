@@ -1,0 +1,58 @@
+Does China allow its ' core interests ' to be damaged
+0
+China will not allow its ` core interests ' to be damaged , ministry says <EOP> .
+allow	3	CT-	CT-
+not	2	neg_cue
+will	1	ps_cue
+########
+1
+2017_07_26 18:56 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+China will not tolerate behavior by other countries that hurts its `` core interests '' , Foreign Ministry spokesman Lu Kang said , commenting on reports that Botswana will allow the 14th Dalai Lama to visit next month .
+not	2	neg-cue	CT-
+tolerate	3	CT-	CT-
+will	1	ps_cue
+not	2	neg_cue
+will	28	ps_cue
+########
+4
+<EOP> .
+########
+5
+The Agence France_Presse news agency quoted Botswana Foreign Minister Pelonomi Venson_Moitoi as saying `` the principle of non_interference in the international affairs of other countries is at the core of China 's foreign policy '' , and that she expected `` China to respect our sovereign decision on this matter '' .
+expected	39	ps_cue
+########
+6
+<EOP> .
+########
+7
+Lu said in Beijing on Wednesday that he was aware of the report , and that China has expressed its position on the issue .
+########
+8
+<EOP> .
+########
+9
+`` China does not interfere in other countries ' domestic affairs .
+not	3	neg_cue
+########
+10
+But it will not tolerate other countries doing things that hurt China 's core interests , '' Lu said .
+will	2	ps_cue
+not	3	neg_cue
+########
+11
+<EOP> .
+########
+12
+`` Tibet_related issues bear on China 's sovereignty and territorial integrity .
+########
+13
+We request relevant countries to respect China 's core interests effectively and make a correct political decision on the issue , '' Lu said .
+########
+14
+<EOP> .
+########

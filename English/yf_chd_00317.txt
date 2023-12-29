@@ -1,0 +1,82 @@
+Does American man plead not guilty 
+0
+Suspect in kidnapping Chinese scholar pleads not guilty <EOP> .
+pleads	5	CT-	CT-
+not	6	neg_cue
+########
+1
+2017_10_12 11:10 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+<EOP> .
+########
+4
+Brendt Christensen .
+########
+5
+LRB File photo RRB <EOP> .
+########
+6
+URBANA , the United States _ An American man pleaded not guilty on Wednesday to the charge of kidnapping a University of Illinois scholar from China .
+pleaded	9	CT-	CT-
+not	10	neg_cue
+########
+7
+<EOP> .
+########
+8
+This is the first time for Brendt Christensen to appear in court after a federal grand jury returned a superseding indictment on Oct 3 against the 28_year_old man accused in the kidnapping resulting in the death of Zhang Yingying .
+appear	9	ps_cue
+against	24	neg_cue
+########
+9
+<EOP> .
+########
+10
+<EOP> .
+########
+11
+<EOP> .
+########
+12
+US Magistrate Judge Eric Long read the main part of the superseding indictment , and Christensen replied that he fully understood the three counts of charges , namely kidnapping resulting in death and two counts of making false statements to FBI agents .
+########
+13
+<EOP> .
+########
+14
+When Christensen entered the courthouse , Zhang 's mother could not hold her sadness but cried out , trying to grab the defendant while shouting `` give me back my daughter . ''
+could	9	ps_cue
+not	10	neg_cue
+########
+15
+She was helped out of the court before the hearing began .
+########
+16
+<EOP> .
+########
+17
+Pre_hearing will be held on Feb 12 , 2018 , and the final ruling of the case will be on Feb 27 , 2018 , Judge Long said .
+will	1	ps_cue
+will	17	ps_cue
+########
+18
+<EOP> .
+########
+19
+If convicted of the charge , Christensen faces the death penalty or mandatory life in prison .
+convicted	1	Uu	CT-
+or	11	ps_cue
+########
+20
+<EOP> .
+########
+21
+<EOP> .
+########
+22
+<EOP> .
+########

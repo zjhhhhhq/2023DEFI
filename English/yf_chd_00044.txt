@@ -1,0 +1,215 @@
+Does China movie industry benefit US
+0
+China movie industry also benefits US <EOP> .
+benefits	4	CT+	CT+
+########
+1
+2017_12_29 16:27 <EOP> .
+########
+2
+China Daily USA <EOP> .
+########
+3
+Charles H. Rivkin , the new chairman and CEO of the Motion Picture Association of America , visited China recently as the country surpassed the United States to have the most cinema screens in the world .
+########
+4
+<EOP> .
+########
+5
+As to prepare for his trip , Rivkin watched Wolf Warrior 2 on his flight to Beijing .
+########
+6
+`` It 's fantastic and a lot of fun .
+########
+7
+Its box office takings in the Chinese market alone are extraordinary .
+########
+8
+It 's a sign of things to come , '' says Rivkin , commenting on the top_grossing movie in China of all time .
+########
+9
+<EOP> .
+########
+10
+Wolf Warrior 2 earned 5.68 billion yuan LRB $ 860 million RRB , boosting this year 's box office to score a record 50 billion yuan in November .
+########
+11
+<EOP> .
+########
+12
+Rivkin may have recently taken up his new post at the MPAA , but he has always kept a close eye on the Chinese movie industry .
+may	1	ps_cue
+########
+13
+<EOP> .
+########
+14
+He estimates that China 's box_office takings will exceed 55 billion yuan for 2017 .
+will	7	ps_cue
+########
+15
+He also predicts that China will overtake the US as the top movie market in terms of box_office takings by 2020 .
+will	5	ps_cue
+########
+16
+<EOP> .
+########
+17
+`` Everything is changing dramatically , '' says the new Hollywood lobbyist_in_chief .
+########
+18
+<EOP> .
+########
+19
+`` Last quarter , China built 26 screens every single day .
+########
+20
+Now you have more than 50,000 screens .
+########
+21
+There are only 41,000 screens in the US , '' he says , adding the construction spree is also increasing the number of high_tech cinemas .
+########
+22
+<EOP> .
+########
+23
+Besides the figures , Rivkin also highlights China 's efforts in fighting copyright piracy .
+########
+24
+<EOP> .
+########
+25
+Among his engagements was a meeting with Zhou Huilin , the deputy head of the National Copyright Administration of China , who introduced China 's annual campaign dubbed jian wang LRB sword net RRB to crack down on online pirates .
+########
+26
+<EOP> .
+########
+27
+From 2012 to 2016 , 2,756 cases were handled and 1,193 websites were closed down , Zhou was quoted by China Press and Publishing Journal as saying .
+########
+28
+<EOP> .
+########
+29
+This year , 1,655 sites have been shut , 274,800 links deleted and 314 cases are being probed , according to the newspaper report .
+########
+30
+<EOP> .
+########
+31
+Commenting on China 's actions , Rivkin says : `` Anti_piracy is the most important thing that we can fight together .
+can	18	ps_cue
+########
+32
+<EOP> .
+########
+33
+`` The reason that piracy matters so much is that I do n't think enough people understand that when pirates steal Chinese movies or American movies , they are not stealing from big productions or the governments .
+n't	12	neg_cue
+or	23	ps_cue
+not	29	neg_cue
+or	34	ps_cue
+########
+34
+They are stealing from hardworking Chinese and American citizens . ''
+########
+35
+<EOP> .
+########
+36
+According to a report released by the MPAA on Dec 15 , China 's film and TV industry sustained 4.1 million jobs in 2016 .
+########
+37
+Rivkin says the figure in the US is 2 million .
+########
+38
+<EOP> .
+########
+39
+`` They LRB the people in the industry RRB are hardworking people .
+########
+40
+It LRB piracy RRB needs to be stopped .
+needs	4	ps_cue
+stopped	7	neg_cue
+########
+41
+It impacts the box office and everything .
+########
+42
+Fighting piracy is extremely important for everybody who wants to create something .
+wants	8	ps_cue
+########
+43
+Who will want to create something if it will be stolen ? ''
+will	1	ps_cue
+will	8	ps_cue
+########
+44
+says Rivkin , once the head of several entertainment companies .
+########
+45
+<EOP> .
+########
+46
+The report by Oxford Economics , an advisory venture of Oxford University , which uses statistics from the State Administration of Press , Publication , Radio , Film and Television , also finds that China 's movie and television industry made a total direct contribution to Chinese gross domestic product of 254 billion yuan in 2016 , representing 0.34 percent of the Chinese economy .
+########
+47
+<EOP> .
+########
+48
+China 's rapidly expanding industry also benefits the US , as seven Hollywood movies earned more in China than they did in North America in 2017 , says Rivkin .
+benefits	6	CT+	CT+
+earned	14	CT+	CT+
+########
+49
+<EOP> .
+########
+50
+Those movies were The Fate of the Furious ; Kong : Skull Island ; Resident Evil : The Final Chapter ; The Mummy ; xXx : The Return of Xander Cage ; Transformers : The Last Knight ; and A Dog 's Purpose .
+########
+51
+<EOP> .
+########
+52
+As for Disney 's announcement about buying most of 21st Century Fox , Rivkin says he has yet to study the issue .
+yet	17	neg_cue
+########
+53
+But he believes the possible deal is indicative of the changing landscape in the motion_picture industry and shows his job will remain challenging .
+possible	4	ps_cue
+will	20	ps_cue
+########
+54
+<EOP> .
+########
+55
+Before succeeding Christopher Dodd at the MPAA , Rivkin served as assistant secretary of state for economic and business affairs from 2014 to 2017 in the Obama administration .
+########
+56
+<EOP> .
+########
+57
+Before that appointment , he was the US ambassador to France and Monaco for more than four years .
+########
+58
+<EOP> .
+########
+59
+As a diplomat , he was the first US ambassador to France to jump from 3,700 meters over Normandy in a mass parachute jump to mark the 68th anniversary of the Allied invasion of Europe in World War II .
+########
+60
+An estimated crowd of 25,000 watched him land amid heavy winds .
+########
+61
+<EOP> .
+########
+62
+xufan@chinadaily.com.cn <EOP> .
+########
+63
+<EOP> .
+########
+64
+<EOP> .
+########

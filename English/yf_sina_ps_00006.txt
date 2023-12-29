@@ -1,0 +1,97 @@
+Have Leonardo da Vinci 's mother been a Chinese slave 
+0
+Leonardo da Vinci 's mother may have been a Chinese slave according to new research by an Italian historian and novelist .
+slave	10	PS+	PS+
+may	5	ps_cue
+########
+1
+<EOP> .
+########
+2
+Angelo Paratico has spent the last 20 years living and working in Hong Kong , researching the links between his homeland and China over the past half a millenium .
+########
+3
+<EOP> .
+########
+4
+Mr Paratico said documentation he has uncovered during two years of research forms the basis of his latest book Leonardo Da Vinci : A Chinese scholar lost in Renaissance Italy .
+########
+5
+<EOP> .
+########
+6
+The book , which is due to be published next year , uncovers evidence , Mr Paratico claims , that links Da Vinci and the Far East .
+########
+7
+<EOP> .
+########
+8
+Speaking to the South China Morning Post , Mr Paratico said : ' I am sure up to a point that Leonardo 's mother was from the Orient , but to make her an oriental Chinese , we need to use a deductive method . '
+need	38	ps_cue
+########
+9
+<EOP> .
+########
+10
+` One wealthy client of Leonardo 's father had a slave called Caterina .
+slave	10	CT+	PS+
+########
+11
+After 1452 , Leonardo 's date of birth , she disappeared from the documents .
+########
+12
+She was no longer working there . '
+no	2	neg_cue
+########
+13
+<EOP> .
+########
+14
+Da Vinci 's father was legal notary and it is believed his mother was called Caterina , who according to some reports , was a local peasant .
+believed	10	ps_cue
+########
+15
+<EOP> .
+########
+16
+But Mr Paratico 's new work claims it is most likely Da Vinci 's mother was a slave .
+slave	17	PS+	PS+
+likely	10	ps_cue
+########
+17
+<EOP> .
+########
+18
+Supporting his theory , Mr Paratico said : ` During the Renaissance , countries like Italy and Spain were full of oriental slaves . '
+like	14	ps_cue
+########
+19
+<EOP> .
+########
+20
+He claimed that there were certain aspects of Da Vinci 's life and work suggest an oriental link .
+suggest	14	ps_cue
+########
+21
+<EOP> .
+########
+22
+He added : ` For instance , the fact he was writing with his left hand from left to right ... and he was also a vegetarian which was not common .
+not	29	neg_cue
+########
+23
+Mona Lisa is probably a portrait of his mother , as Sigmund Freud said in 1910 .
+probably	3	ps_cue
+########
+24
+On the back of Mona Lisa , there is a Chinese landscape and even her face looks Chinese . '
+########
+25
+<EOP> .
+########
+26
+Mr Paratico said he believes the only way to solve the mystery is to exhume some of Da Vinci 's relations in Florence and extract some DNA .
+########
+27
+<EOP> .
+########

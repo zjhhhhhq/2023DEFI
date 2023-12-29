@@ -1,0 +1,123 @@
+Have some public areas been inundated with hundreds of the bikes
+0
+EU cycling federation warns of challenges posed by bike_sharing <EOP> .
+########
+1
+2017_07_28 17:09 <EOP> .
+########
+2
+China Daily UK <EOP> .
+########
+3
+The European Union 's cycling body has warned that the arrival of Chinese bicycle_hire companies could lead to the swamping of public areas with discarded bikes .
+swamping	19	PS+	PS+
+could	15	ps_cue
+########
+4
+<EOP> .
+########
+5
+The European Cycling Federation is calling on city authorities to regulate the companies and ensure they have enough staff to look after their bikes properly .
+########
+6
+The schemes have been immensely popular in China but some public areas have been inundated with hundreds of the bikes .
+inundated	14	CT+	PS+
+########
+7
+<EOP> .
+########
+8
+Ubiquitous in much of Asia , stationless smart bikes are now appearing on city streets from London to San Francisco .
+########
+9
+<EOP> .
+########
+10
+In the UK , Chinese firms Ofo , YoBike , and Mobike have introduced bikes in Cambridge , Bristol , and Manchester respectively , while Singaporean company oBike was the first to introduce smart bikes in London .
+########
+11
+<EOP> .
+########
+12
+The European Cycling Federation , which is funded by the European Commission , and the International Association of Public Transport have produced both a `` Common Position Paper on Unlicensed Dockless Bike Share '' and a `` Policy Framework for Smart Public_use Bike Sharing '' to help administer the schemes .
+########
+13
+<EOP> .
+########
+14
+Generally , firms have worked with local authorities before launching in UK cities , though tensions have boiled over in some cases .
+########
+15
+<EOP> .
+########
+16
+Nextbike , a bike_sharing scheme that uses docking stations in Bath , has accused YoBike of leaking its service into the city from nearby Bristol without telling the council .
+without	25	neg_cue
+########
+17
+<EOP> .
+########
+18
+In mid_July , around 400 oBike bicycles appeared on the streets of the London Borough of Hammersmith and Fulham .
+appeared	7	ps_cue
+########
+19
+The council complained it had not been consulted by oBike and the bikes had created `` a potential hazard for pedestrians '' .
+not	5	neg_cue
+potential	17	ps_cue
+########
+20
+<EOP> .
+########
+21
+Stephen Cowan , leader of Hammersmith and Fulham Council , said : `` We 're very much in favor of cycling .
+########
+22
+But we expect companies to properly consult with us first .
+expect	2	ps_cue
+########
+23
+This launch could have been much better thought out . ''
+could	2	ps_cue
+########
+24
+<EOP> .
+########
+25
+After the council raised its concerns , oBike agreed to remove the bicycles from the borough , although the bikes have since returned .
+########
+26
+<EOP> .
+########
+27
+Will Norman , the Greater London Authority 's walking and cycling commissioner , said : `` We need the dockless bike hire companies to work with us and with the boroughs .
+need	17	ps_cue
+########
+28
+We have got the powers to remove LRB the bikes RRB if they are causing any dangers or obstructions . ''
+or	17	ps_cue
+########
+29
+<EOP> .
+########
+30
+Paul Stratta , director of the ECF 's Platform for European Bicycle Sharing and Systems , said the need for policy recommendations became clear following Chinese bike_sharing company Bluegogo 's ill_fated launch in San Francisco .
+need	18	ps_cue
+########
+31
+Bluegogo rolled out thousands of bikes in the Californian city in March , before pulling them from the streets after a drawn_out battle with city leaders .
+########
+32
+<EOP> .
+########
+33
+Stratta said : `` We are very pro dockless technology , but if tourist spots are littered with bikes then cities would start to limit cycling .
+would	21	ps_cue
+limit	24	neg_cue
+########
+34
+The city has to take the lead on what type of bike share they want . ''
+########
+35
+<EOP> .
+########

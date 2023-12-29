@@ -1,0 +1,47 @@
+Can sarcasm stimulate creativity
+0
+Researchers from US graduate business schools hosted a series of experiments to analyse how the comments affected our creativity .
+########
+1
+<EOP> .
+########
+2
+After bizarre and tricky tests such as lighting a candle and attaching it to a wall without letting wax drip on the floor , the study found that both saying and hearing sarcastic comments benefited the creative process .
+without	16	neg_cue
+########
+3
+<EOP> .
+########
+4
+Lead researcher said : ` We found that sarcasm may stimulate creativity , the generation of ideas , insights or problem solutions that are novel and useful .
+stimulate	10	PS+	PS+
+may	9	ps_cue
+or	19	ps_cue
+########
+5
+` As Oscar Wilde believed , sarcasm may represent a lower form of wit , but we found that it certainly catalyses a higher form of thought . '
+catalyses	21	CT+	PS+
+believed	4	ps_cue
+may	7	ps_cue
+########
+6
+<EOP> .
+########
+7
+During the experiments , 300 people performed the candle task after making and receiving sarcastic comments.Their level of creativity was measured and the study found 64 per cent of the participants who made sarcastic comments were able to think of a creative solution and complete the task successfully .
+creative	41	CT+	PS+
+########
+8
+<EOP> .
+########
+9
+While those who were bore the brunt of sarcastic remarks did even better with 75 per cent finishing the task .
+########
+10
+Probably so they would n't have to face more verbal assault .
+would	3	ps_cue
+n't	4	neg_cue
+########
+11
+<EOP> .
+########

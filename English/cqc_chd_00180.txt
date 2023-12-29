@@ -1,0 +1,82 @@
+Does Japan 's Cabinet approve a bill for abdication of emperor
+0
+Japan 's Cabinet approves bill for abdication of emperor <EOP> .
+bill	4	CT+	CT+
+########
+1
+2017_05_19 09:36 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+<EOP> .
+########
+4
+Japan 's Emperor Akihito and Empress Michiko attend the annual spring garden party at the Akasaka Palace imperial garden in Tokyo , Japan April 20 , 2017 .
+########
+5
+LRB Photo_Agencies RRB <EOP> .
+########
+6
+TOKYO _ The Cabinet of Prime Minister Shinzo Abe on Friday approved a bill to allow Emperor Akihito to abdicate the Chrysanthemum throne and hand his duties over to Crown Prince Naruhito .
+bill	13	CT+	CT+
+########
+7
+<EOP> .
+########
+8
+Akihito 's abdication would mark the first time a Japanese emperor has abdicated the throne in around 200 years .
+would	3	ps_cue
+########
+9
+<EOP> .
+########
+10
+In terms of timing for Emperor Akihito 's abdication , the government has been considering December 2018 , as the possible timing for the move , as this is when the emperor will turn 85 years old .
+possible	20	ps_cue
+will	32	ps_cue
+########
+11
+<EOP> .
+########
+12
+The nation 's era name LRB gengo RRB , informed sources said , which lasts for as long as the emperor is on the throne , will possibly change at the beginning of 2019 .
+will	26	ps_cue
+possibly	27	ps_cue
+########
+13
+<EOP> .
+########
+14
+The abdication bill was written with just the current emperor in mind , as the government does not want to set a precedent for future emperors abdicating .
+bill	2	CT+	CT+
+not	17	neg_cue
+########
+15
+<EOP> .
+########
+16
+The bill will be submitted to the Diet later on Friday , with the government expecting it to come into effect by the end of the current Diet session in mid_June .
+will	2	CT+	CT+
+will	2	ps_cue
+expecting	15	ps_cue
+########
+17
+<EOP> .
+########
+18
+Last August , Emperor Akihito made a rare public televised address during which he suggested he wanted to step down because his advancing age and weakening health were making it difficult for him to carry out his official duties to the best of his ability .
+rare	7	ps_cue
+suggested	14	ps_cue
+wanted	16	ps_cue
+########
+19
+<EOP> .
+########
+20
+<EOP> .
+########
+21
+<EOP> .
+########

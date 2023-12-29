@@ -1,0 +1,203 @@
+Do books de_mystify China
+0
+Books de_mystify China <EOP> .
+de_mystify	1	CT+	CT+
+########
+1
+2017_10_02 06:28 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+<EOP> .
+########
+4
+<EOP> .
+########
+5
+<EOP> .
+########
+6
+Stewart Lee BeckLRB left RRB , author and producer of the China simplified book series and Yue_Sai Kan , Chinese American television host and producer , entrepreneur and bestselling author , present the two books of the series at a book launching party in New York on Friday night .
+########
+7
+LRB Photo by Hong Xiao _ chinadaily.com.cn RRB <EOP> .
+########
+8
+Stewart Lee Beck , who has lived and worked among the Chinese for 24 years , has always wondered what it is about China that intrigues foreigners like him so much .
+like	27	ps_cue
+########
+9
+<EOP> .
+########
+10
+And why , with all that 's been written and said about the land , is China still so misperceived and misunderstood ?
+########
+11
+<EOP> .
+########
+12
+The two questions became the genesis of his China Simplified project .
+########
+13
+<EOP> .
+########
+14
+The project aims to explore and demystify China and its people for the rest of the world .
+explore	4	CT+	CT+
+########
+15
+<EOP> .
+########
+16
+`` By shifting our collective attention beyond the 1 percent LRB hot_button issues in the mass media RRB to the other 99 percent LRB relevant conversations about history , language , business , and more RRB , we hope to raise cultural awareness and increase mutual understanding , '' writes Beck , who calls himself the project 's managing dreamer .
+hope	38	ps_cue
+raise	40	ps_cue
+########
+17
+<EOP> .
+########
+18
+So far , two books from the project -- <EOP> .
+########
+19
+Empowerment : Demystify Chinese Culture <EOP> .
+########
+20
+and <EOP> .
+########
+21
+Fire up your Mandarin and History Flashback : An Entertaining Journey through the Past to Better Understand Modern China <EOP> .
+########
+22
+-- written and produced jointly by Beck and his team members , are available .
+########
+23
+<EOP> .
+########
+24
+`` My plan was for us to collaborate on a fast_read book full of lighthearted stories , '' he said , `` that is , to use the language as a window into the culture . ''
+plan	2	ps_cue
+########
+25
+<EOP> .
+########
+26
+Language Empowerment is not just a textbook or a language course ; the authors also impart plenty of encouragement , spinning story after story about the many pitfalls of learning Mandarin .
+not	3	neg_cue
+or	7	ps_cue
+########
+27
+<EOP> .
+########
+28
+For example , the phrase `` Ma Shang Dao Le '' is translated into `` I 'll be there immediately '' , but because of cultural differences , the true meaning of the sentence is `` I 'll be there sometime in the near future , probably . ''
+probably	46	ps_cue
+########
+29
+<EOP> .
+########
+30
+`` It sounds fast , it should be fast , but in reality it probably means your meeting is going to start half an hour late , '' Beck explains in the book .
+should	6	ps_cue
+probably	14	ps_cue
+########
+31
+<EOP> .
+########
+32
+Beck has conducted business in China since the early 1990s and since then has been learning the Chinese language .
+########
+33
+After immersion training , Beck was inspired to give up the sterile , academic approach .
+########
+34
+<EOP> .
+########
+35
+`` I committed myself every time I studied to find something entertaining , unexpected or intriguing in the universe of Mandarin .
+unexpected	13	ps_cue
+or	14	ps_cue
+########
+36
+In short , I started having fun , '' he said .
+########
+37
+<EOP> .
+########
+38
+`` That little change of focus made all the difference in the world , '' he added .
+little	2	neg_cue
+########
+39
+<EOP> .
+########
+40
+Beck believes unless you aspire to make your living as a translator or in professional broadcast , attempting to learn to speak , read and write perfect Chinese from scratch as an adult is a venture in futility .
+or	12	ps_cue
+########
+41
+<EOP> .
+########
+42
+`` Most people quit , which is sad because buried somewhere in all that frustration is the spark of genuine interest .
+quit	3	neg_cue
+########
+43
+And that is what this book is all about -- sharing my many personal disasters LRB and a few triumphs RRB to help make the Chinese language and culture more accessible to a wider audience , '' he writes in the foreword of the book .
+########
+44
+<EOP> .
+########
+45
+`` Let go of your fear and persevere , and have some fun along the way ! ''
+########
+46
+Beck said , calling that the best advice for language students at any level .
+########
+47
+<EOP> .
+########
+48
+The other book , History Flashback , which combines serious research and good humor , gives readers an introduction to Chinese history from Sima Qian , <EOP> .
+########
+49
+a historian in the Western Han Dynasty LRB 206 BC_AD 24 <EOP> .
+########
+50
+RRB , to Chairman Mao .
+########
+51
+<EOP> .
+########
+52
+`` This is the history book for people that did n't know they love history , '' said Yue_Sai Kan , a Chinese_American television host who is also Beck 's friend .
+n't	10	neg_cue
+love	13	ps_cue
+########
+53
+<EOP> .
+########
+54
+`` The authors both entertain and inform with each turn of the page , to leave us with a lighthearted appreciation for the supreme depth of Chinese civilization , '' Kan said .
+entertain	4	CT+	CT+
+########
+55
+<EOP> .
+########
+56
+`` The future of our world is interconnected with that of the people of China .
+########
+57
+Would n't it be great if we could all communicate a little better with one another ? ''
+n't	1	neg_cue
+could	7	ps_cue
+little	11	neg_cue
+########
+58
+Beck wrote .
+########
+59
+<EOP> .
+########

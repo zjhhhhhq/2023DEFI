@@ -1,0 +1,141 @@
+Have China and the Philippines enhance practical cooperation 
+0
+Xi lauds development of healthy Philippine ties <EOP> .
+ties	6	CT+	CT+
+########
+1
+2017_05_16 07:33 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+<EOP> .
+########
+4
+<EOP> .
+########
+5
+President Xi Jinping shakes hands with President Rodrigo Duterte of the Philippines before their meeting at the Belt and Road Forum for International Cooperation at the Great Hall of the People in Beijing on Monday .
+Cooperation	23	CT+	CT+
+########
+6
+Pang Xinglei _ Xinhua News Agency <EOP> .
+########
+7
+<EOP> .
+########
+8
+<EOP> .
+########
+9
+Ongoing high_level communication is key to stable relations , he tells Duterte <EOP> .
+relations	7	CT+	CT+
+########
+10
+China and the Philippines should enhance high_level communications on key issues to guide the healthy and stable development of bilateral ties , President Xi Jinping said on Monday .
+ties	20	CT+	CT+
+should	4	ps_cue
+########
+11
+<EOP> .
+########
+12
+Xi made the remark in a meeting with President Rodrigo Duterte of the Philippines , who attended the Belt and Road Forum for International Cooperation in Beijing on Sunday and Monday .
+Cooperation	24	CT+	CT+
+########
+13
+<EOP> .
+########
+14
+The bilateral relationship has improved comprehensively since Duterte 's state visit to China in October , Xi said , adding that the two leaders have maintained close contacts on issues of common concern .
+relationship	2	CT+	CT+
+concern	32	ps_cue
+########
+15
+<EOP> .
+########
+16
+Xi welcomed Duterte 's participation in the forum , saying that the Philippines is not only a friendly neighbor of China but an important partner in building the Belt and Road .
+not	14	neg_cue
+########
+17
+<EOP> .
+########
+18
+The two countries should enhance practical cooperation and make joint efforts in infrastructure construction , fighting maritime cross_border criminals and drugs , poverty alleviation , rescue and people 's livelihoods , Xi said .
+cooperation	6	CT+	CT+
+should	3	ps_cue
+########
+19
+<EOP> .
+########
+20
+China will enhance communication and cooperation with ASEAN members to find more common ground in politics , security and the economy , he added .
+cooperation	5	CT+	CT+
+will	1	ps_cue
+########
+21
+<EOP> .
+########
+22
+Witnessed by the two leaders , the countries signed four cooperation documents _ in infrastructure , human resources , energy and media .
+########
+23
+<EOP> .
+########
+24
+China attaches great importance to relations with the Philippines , and the two countries should make continuous efforts to push forward and connect development strategies to benefit people on both sides , Xi said .
+should	14	ps_cue
+forward	20	ps_cue
+forward	20	neg_cue
+########
+25
+<EOP> .
+########
+26
+`` I am pleased to be back in China to renew our ancient ties of friendship , '' Duterte said , adding that he was `` eager to discuss ways of further expanding and deepening bilateral cooperation '' .
+cooperation	36	CT+	CT+
+########
+27
+<EOP> .
+########
+28
+Noting that the two countries have resumed regular dialogues since his visit last year , Duterte said `` it is important to keep our communications lines open '' .
+########
+29
+<EOP> .
+########
+30
+Jose Santiago Santa Romana , the Philippines ' ambassador to China , said on Saturday that the two countries will begin bilateral consultations on the South China Sea in Beijing this week , Reuters reported .
+will	19	ps_cue
+########
+31
+<EOP> .
+########
+32
+Xu Liping , a Southeast Asian Studies researcher at the Chinese Academy of Social Sciences , said that as an important country for building the 21st Century Maritime Silk Road the Philippines will find consensus with China on the Belt and Road Initiative .
+will	32	ps_cue
+########
+33
+<EOP> .
+########
+34
+Through its participation in the initiative , the Philippines will be able to upgrade its infrastructure , he said .
+will	9	ps_cue
+########
+35
+<EOP> .
+########
+36
+It will be a good sign when China and the Philippines talk about the South China Sea , Xu said , because that will indicate that the relationship has been restored to a healthy track .
+will	1	ps_cue
+will	23	ps_cue
+indicate	24	ps_cue
+########
+37
+<EOP> .
+########
+38
+anbaijie@chinadaily.com.cn <EOP> .
+########

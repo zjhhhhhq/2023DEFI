@@ -1,0 +1,82 @@
+Does President Xi Jinping urge mutual understanding with Singapore
+0
+Xi urges mutual understanding with Singapore on core interests <EOP> .
+urges	1	CT+	CT+
+########
+1
+2017_07_07 13:24 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+<EOP> .
+########
+4
+President Xi Jinping LRB R RRB meets with Singaporean Prime Minister Lee Hsien Loong in Hamburg , Germany , July 6 , 2017 .
+########
+5
+LRB Photo_Xinhua RRB <EOP> .
+########
+6
+HAMBURG , Germany _ President Xi Jinping said Thursday that China and Singapore shall grasp the bilateral relations with strategic insight and vision , and keep mutual understanding and support on issues of each other 's core interests and major concerns .
+########
+7
+<EOP> .
+########
+8
+Xi made the remarks while meeting with Singaporean Prime Minister Lee Hsien Loong .
+########
+9
+<EOP> .
+########
+10
+Xi noted that the China_Singapore traditional friendship , promoted by mutual learning and cooperation , has reaped rich fruits .
+########
+11
+<EOP> .
+########
+12
+China highly values its relations with Singapore , and is ready to work with the Southeast Asian country to enhance bilateral partnership step by step , said the Chinese leader .
+values	2	CT+	CT+
+ready	10	ps_cue
+########
+13
+<EOP> .
+########
+14
+He encouraged the two sides to put new thinking into their cooperation , and tap cooperative potentials under the Belt and Road Initiative on such fronts as infrastructure construction , trade and investment , and financial collaboration .
+encouraged	1	CT+	CT+
+encouraged	1	ps_cue
+########
+15
+<EOP> .
+########
+16
+Xi urged the two nations to facilitate the major inter_governmental projects , and expand the cooperation in new_tech areas like the Internet and information communication .
+urged	1	CT+	CT+
+like	19	ps_cue
+########
+17
+<EOP> .
+########
+18
+Efforts shall also be made to increase people_to_people exchanges , and boost coordination on global governance under multilateral frameworks like the United Nations , the Asia_Pacific Economic Cooperation and the Group of 20 , he said .
+like	19	ps_cue
+########
+19
+<EOP> .
+########
+20
+Xi also pointed out that China will stand with Singapore , which is to take over the presidency of the Association of Southeast Asian Nations LRB ASEAN RRB in 2018 , to promote regional integration and a closer China_ASEAN community of shared future .
+will	6	ps_cue
+########
+21
+<EOP> .
+########
+22
+For his part , Lee said it is very important to deepen his nation 's cooperation with China faced with the current complicated international situation .
+########
+23
+<EOP> .
+########

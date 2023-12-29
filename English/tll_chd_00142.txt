@@ -1,0 +1,175 @@
+Will Sweden seek Assange 's extradition
+0
+Sweden says it no longer plans to seek Assange 's extradition <EOP> .
+seek	7	PS-	PS-
+no	3	neg_cue
+plans	5	ps_cue
+########
+1
+2017_05_19 18:19 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+Swedish prosecutors say they are closing their investigation of rape allegations against Julian Assange , and will not renew a European arrest warrant , clearing the way for the Wikileaks founder to leave the Ecuadorean embassy in London .
+against	11	neg_cue
+will	16	ps_cue
+not	17	neg_cue
+########
+4
+<EOP> .
+########
+5
+<EOP> .
+########
+6
+<EOP> .
+########
+7
+<EOP> .
+########
+8
+WikiLeaks founder Julian Assange makes a speech from the balcony of the Ecuadorian Embassy , in central London , Britain February 5 , 2016 .
+########
+9
+<EOP> .
+########
+10
+LRB Photo_Agencies RRB <EOP> .
+########
+11
+Assange , an Australian citizen , jumped bail before he was due to appear before an English court to answer the European arrest warrant , and sought asylum in the Ecuadorean embassy , where he has been holed up for nearly five years .
+appear	13	ps_cue
+########
+12
+<EOP> .
+########
+13
+He has consistently claimed that if he was sent to Sweden , the US authorities would step in and have him extradited over what they claim is his role in the release of over 20,000 classified documents by former intelligent analyst Chelsea Manning , a US solder sentenced to 45 years in jail but who was pardoned by President Barack Obama after serving seven years and released earlier this week .
+would	15	ps_cue
+########
+14
+<EOP> .
+########
+15
+Manning is a transgender person and now prefers to be addressed and seen as a woman .
+########
+16
+<EOP> .
+########
+17
+Assange , 45 , had said that as soon as Manning was released , he would fly to the US , as long as his lawyer obtained assurances about his civil rights there .
+would	15	ps_cue
+########
+18
+Such an assurance was not forthcoming , his lawyers have said .
+not	4	neg_cue
+########
+19
+<EOP> .
+########
+20
+Although President Donald Trump had initially hailed Assange as a hero for releasing documents about his presidential rival Hillary Clinton , recently US Attorney General Jeff Sessions said prosecuting Assange and Wikileaks over the release of documents was a priority .
+########
+21
+<EOP> .
+########
+22
+However British officials say no formal extradition request has been received as of this week .
+request	7	CT-	PS-
+no	4	neg_cue
+########
+23
+<EOP> .
+########
+24
+One of Assange 's lawyers , Melinda Taylor , said on Friday that the closure of the preliminary investigation into him or the lifting of the European arrest_warrant would not necessarily mean the Australian would make a hasty exit for Ecuador .
+or	21	ps_cue
+would	28	ps_cue
+not	29	neg_cue
+would	34	ps_cue
+########
+25
+<EOP> .
+########
+26
+`` The first thing one likely needs to do is seek guarantees from the British authorities that he wo n't be seized in some other way , '' she told the Swedish news agency TT .
+likely	5	ps_cue
+needs	6	ps_cue
+n't	19	neg_cue
+########
+27
+<EOP> .
+########
+28
+Both British and American authorities have `` consistently refused to confirm or deny '' if there is a request for extradition to the US , she said .
+request	18	Uu	PS-
+refused	8	neg_cue
+or	11	ps_cue
+deny	12	neg_cue
+########
+29
+Assange is also accused of breaching his bail conditions in the UK for fleeing to Ecuador 's embassy , she noted .
+########
+30
+<EOP> .
+########
+31
+After refusing to travel to Sweden for questioning , Assange was grilled last December by an Ecuadorian prosecutor on questions provided by Swedish officials , with Swedish prosecutor Ingrid Isgren present .
+refusing	1	neg_cue
+########
+32
+<EOP> .
+########
+33
+He has consistently denied the rape allegations , saying the sex was consensual .
+denied	3	neg_cue
+########
+34
+<EOP> .
+########
+35
+The UK Home Office LRB Interior Ministry RRB earlier this year estimated the cost of policing the embassy and monitoring Assange was in excess of one million pounds LRB 1.3 million USD RRB .
+########
+36
+<EOP> .
+########
+37
+London 's police force issued a statement saying that the dropping of the European Arrest Warrant meant he was now wanted for the less serious offence of jumping bail , for which a magistrate in Westminster issued an arrest warrant , which is still valid .
+wanted	20	ps_cue
+########
+38
+<EOP> .
+########
+39
+The police statement said it would provide a level of resourcing `` proportionate to the offence , '' adding that the Metropolitan Police service 's priority was arrested those wanted for serious violent or sex crimes .
+would	5	ps_cue
+wanted	29	ps_cue
+or	33	ps_cue
+########
+40
+<EOP> .
+########
+41
+Lawyers said one scenario was that Assange could appear before a standing magistrate , who could grant him bail without sureties provided he agreed to leave the country .
+could	7	ps_cue
+appear	8	ps_cue
+could	15	ps_cue
+without	19	neg_cue
+########
+42
+<EOP> .
+########
+43
+To contact the reporter : chris@mail.chinadailyuk.com <EOP> .
+########
+44
+<EOP> .
+########
+45
+<EOP> .
+########
+46
+<EOP> .
+########

@@ -1,0 +1,115 @@
+Do Latin American countries strongly condemn the United States ' threat of military intervention 
+0
+Countries join to condemn Trump 's military threat against Venezuela <EOP> .
+against	8	neg_cue
+########
+1
+2017_08_14 08:47 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+<EOP> .
+########
+4
+MEXICO CITY , Mexico _ Latin American countries have strongly condemned the United States ' threat of military intervention against crisis_stricken Venezuela .
+threat	15	CT-	CT-
+condemned	10	neg_cue
+against	19	neg_cue
+########
+5
+<EOP> .
+########
+6
+Despite criticizing what it views as a breakdown of democracy in Venezuela , Peru said it rejected any kind of threats or use of force unauthorized by the United Nations and called for dialogues among related parties .
+threats	20	CT-	CT-
+rejected	16	neg_cue
+or	21	ps_cue
+########
+7
+<EOP> .
+########
+8
+`` All foreign or domestic threats to resort to force undermine the goal of reinstating democratic governance in Venezuela , as well as the principles enshrined in the UN charter , '' Peru 's Foreign Minister Ricardo Luna said in a statement on Saturday .
+or	3	ps_cue
+########
+9
+<EOP> .
+########
+10
+Negotiation is the only way to restore stability in Venezuela , it said .
+########
+11
+<EOP> .
+########
+12
+US President Donald Trump on Friday threatened that he would not rule out a `` military option '' in Venezuela .
+threatened	6	CT+	CT-
+would	9	ps_cue
+not	10	neg_cue
+########
+13
+<EOP> .
+########
+14
+His remarks came amid escalating tensions between Washington and Caracas over Venezuela 's newly_elected legislative body National Constituent Assembly , which has supreme power over all government branches .
+########
+15
+<EOP> .
+########
+16
+It was strongly opposed by Venezuela 's right_wing opposition , who claimed that the 545_member assembly would only to strengthen the power of the ruling party .
+opposed	3	neg_cue
+opposition	8	neg_cue
+would	16	ps_cue
+########
+17
+<EOP> .
+########
+18
+The struggle between the two sides intensified the country 's monthslong political crisis , which led to violent confrontations and left more than 100 people dead .
+########
+19
+<EOP> .
+########
+20
+Colombia , Bolivia and Mexico were also critical .
+########
+21
+<EOP> .
+########
+22
+`` Despite the current difficulties of reaching a peaceful and negotiated solution , we still believe that is the right path to find long_term solutions for the people of Venezuela , '' the Colombian government said .
+########
+23
+<EOP> .
+########
+24
+The statements came as US Vice_President Mike Pence launched a Latin America tour on Sunday .
+########
+25
+<EOP> .
+########
+26
+The weeklong trip , aimed at coordinating a regional diplomatic action to the political crisis in Caracas , begins in Colombia before moving to Argentina , Chile and Panama .
+########
+27
+<EOP> .
+########
+28
+The tour is likely to be dominated by Venezuela and how US `` partners and friends '' were looking to the `` future '' regarding that country , while others were stuck in the `` past '' , a senior US administration official said .
+likely	3	ps_cue
+########
+29
+<EOP> .
+########
+30
+Xinhua _ Afp <EOP> .
+########
+31
+<EOP> .
+########
+32
+LRB China Daily 08_14_2017 page11 RRB <EOP> .
+########

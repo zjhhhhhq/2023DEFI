@@ -1,0 +1,112 @@
+Did van plough into pedestrians
+0
+Armed London police searching for suspects after new attack <EOP> .
+########
+1
+2017_06_04 05:56 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+<EOP> .
+########
+4
+Police cars close off north entrance to London Bridge next to monument station after van ploughed into pedestrians .
+ploughed	15	CT+	CT+
+########
+5
+LRB Wang Bo _ China Daily RRB <EOP> .
+########
+6
+British security services were scouring the streets of central London for attack suspects after a series of incidents which have left at least one person dead and an unspecified number of people seriously injured .
+########
+7
+<EOP> .
+########
+8
+London 's Metropolitan Police said they are dealing with two incidents amid witness reports of a van mounting a pavement and running down pedestrians on London Bridge .
+running	21	CT+	CT+
+########
+9
+Witness later said that police fired rounds next to Borough Market .
+########
+10
+<EOP> .
+########
+11
+Police then said they were responding to a third incident at Vauxhall , around three miles away from London Bridge .
+########
+12
+However it was later announced that the local underground station , which had been closed , was reopened .
+########
+13
+<EOP> .
+########
+14
+One witness said that three men got out of the van on London Bridge with knives and attacked passers_by .
+########
+15
+<EOP> .
+########
+16
+Armed police entered bars and ordered customers to lie on the ground .
+########
+17
+Police are continuing to evacuate the area .
+########
+18
+<EOP> .
+########
+19
+BBC reporter Holly Jones , who was on the bridge at the time of the incident , said she saw the van , driven by a man , veered off the road and hit pedestrians while travelling at 50 miles an hour .
+hit	33	CT+	CT+
+########
+20
+<EOP> .
+########
+21
+Police have issued a warning to Londoners to `` run , hide and tell '' if they are in danger .
+########
+22
+This means people should run and hide at a sign of danger and then inform police .
+should	3	ps_cue
+########
+23
+<EOP> .
+########
+24
+A spokesman for the Prime Minister 's office at 10 Downing Street said Theresa May was being kept up to date on the incident and was heading for her office .
+May	14	ps_cue
+########
+25
+<EOP> .
+########
+26
+Borough Market is a popular destination , with a number of restaurants in the area .
+########
+27
+<EOP> .
+########
+28
+The incident follows an attack on Westminster Bridge when Khalid Masood killed four pedestrians on Westminster Bridge before stabbing a police officer to death , Masood was then shot dead by police .
+########
+29
+<EOP> .
+########
+30
+The incident also coincided with a concert in Manchester to commemorate the victims of last week 's bombing attack in Manchester which killed 22 people .
+########
+31
+<EOP> .
+########
+32
+<EOP> .
+########
+33
+Police cars close off north entrance to London Bridge next to monument station after van ploughed into pedestrians .
+ploughed	15	CT+	CT+
+########
+34
+LRB Wang Bo _ China Daily RRB <EOP> .
+########

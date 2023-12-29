@@ -1,0 +1,40 @@
+Does Tibetan NPC delegation visit Canada
+0
+Tibetan NPC delegation concludes visit to Canada <EOP> .
+visit	4	CT+	CT+
+########
+1
+2017_12_02 01:02 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+<EOP> .
+########
+4
+A National People 's Congress LRB NPC RRB delegation of legislators from China 's Tibet Autonomous Region on Wednesday wrapped up a four_day visit to Canada .
+visit	23	CT+	CT+
+########
+5
+LRB Photo_Xinhua RRB <EOP> .
+########
+6
+The delegation , led by Danzeng Langjie , vice chairman of the NPC Standing Committee of the Tibet Autonomous Region , visited Montreal and Ottawa , where they met Canadian parliament members , government officials , university professors , researchers and local media .
+########
+7
+<EOP> .
+########
+8
+During the visit , the delegation had talks with the Canadian side on topics covering the 19th National Congress of the Communist Party of China , the Belt and Road Initiative , as well as Tibet 's economic development , religious and cultural protection , local people 's lives and China 's preferential policies for Tibet 's development .
+visit	2	CT+	CT+
+########
+9
+<EOP> .
+########
+10
+At a press conference held in Ottawa Wednesday afternoon , the delegation answered media questions about Tibet 's poverty alleviation efforts , the protection and development of traditional cultures , as well as ecological protection .
+########
+11
+<EOP> .
+########

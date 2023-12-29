@@ -1,0 +1,111 @@
+Do Geopolitics cast shadow over Abe_Putin talks 
+0
+Geopolitics cast shadow over Abe_Putin talks <EOP> .
+Geopolitics	0	CT+	CT+
+########
+1
+2017_04_28 07:43 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+Tokyo _ Japanese Prime Minister Shinzo Abe said on Thursday he plans to forge ahead with efforts to bolster economic activities with Russia despite a long_standing territorial dispute with the country .
+plans	11	ps_cue
+########
+4
+<EOP> .
+########
+5
+Abe is due to meet President Vladimir Putin in Moscow this week , but analysts say their talks will take place against a backdrop of other pertinent global matters that will also have to be traversed before any significant headway is made .
+will	18	ps_cue
+against	21	neg_cue
+will	30	ps_cue
+########
+6
+<EOP> .
+########
+7
+The territorial dispute over four islands off Hokkaido , however , remains the main sticking point between Tokyo and Moscow .
+########
+8
+<EOP> .
+########
+9
+Russia , who administers the islands , maintains that the islands that they refer to as the Southern Kurils are their territory with Russian leaders repeatedly referring to the area as a strategic region of Russia .
+########
+10
+<EOP> .
+########
+11
+Abe and Putin have both stated and agreed in principle , however , that it is unusual that both countries have not signed a postwar peace treaty due to the spat , and have agreed to discuss the matter candidly going forward .
+not	21	neg_cue
+forward	41	ps_cue
+forward	41	neg_cue
+########
+12
+<EOP> .
+########
+13
+But progress in this respect has been sluggish owing to geopolitical stumbling blocks as well as the firm belief on both sides that , while the absence of a peace treaty is an anachronism , many complexities on the issue remain .
+blocks	12	neg_cue
+absence	26	neg_cue
+########
+14
+<EOP> .
+########
+15
+Putin has said he considers the 1956 Japan_Soviet Joint Declaration , which stipulates the transfer of two islands to Japan to be `` rules that should be put into the foundation of a peace treaty '' .
+considers	4	ps_cue
+should	25	ps_cue
+########
+16
+<EOP> .
+########
+17
+As for the two other islands ' transfer , he has said there remains `` too many questions about this issue '' , and that returning all four islands to Japan would be going outside the bounds of the 1956 declaration .
+would	31	ps_cue
+########
+18
+<EOP> .
+########
+19
+For Japan 's part , it has long insisted that its sovereignty over all four of the islands be confirmed before a peace treaty is signed .
+########
+20
+<EOP> .
+########
+21
+But economic cooperation , since a summit held between the two leaders in December , remains high on both countries ' agendas .
+########
+22
+Collaborative activities in areas such as fisheries and tourism were already discussed , with the crux of the intended collaboration being that neither side 's claim to sovereignty should be undercut .
+intended	18	ps_cue
+neither	22	neg_cue
+should	28	ps_cue
+########
+23
+<EOP> .
+########
+24
+It is such cooperation that Tokyo and Moscow hope will eventually lay the foundation for enhanced relations and , thereafter , could create an atmosphere amicable enough in which the territorial dispute and peace treaty could be tackled head on .
+hope	8	ps_cue
+will	9	ps_cue
+could	21	ps_cue
+could	35	ps_cue
+########
+25
+<EOP> .
+########
+26
+But the road ahead in this regard remains tricky , as the isles have strategic value for Russia , guaranteeing its navy access to the western Pacific , while top of Japan 's security agenda is always its ally , the United States .
+########
+27
+<EOP> .
+########
+28
+It is a point of contention Putin has previously raised with Abe , regarding the growing presence of the US in Asia , with Russia also believing that certain moves on Tokyo 's part , such as its missile defense system , is disproportionate to perceived regional threats .
+########
+29
+<EOP> .
+########

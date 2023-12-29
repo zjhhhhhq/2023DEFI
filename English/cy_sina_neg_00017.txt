@@ -1,0 +1,51 @@
+Is an episode of popular children's programme Peppa Pig banned in Australia
+0
+An episode of popular children 's programme Peppa Pig has been banned in Australia after parents claimed it encouraged children to play with spiders .
+banned	11	CT-	CT-
+banned	11	neg_cue
+encouraged	18	ps_cue
+########
+1
+<EOP> .
+########
+2
+The Peppa Pig video , titled Mister Skinny Legs , sees the pink protagonist and her brother George handle a spider , with their father telling them ` they ca n't hurt you ' .
+n't	30	neg_cue
+########
+3
+<EOP> .
+########
+4
+The episode has now been banned from being shown in Australia by its creators Nickelodeon after concerned parents complained .
+shown	8	CT-	CT-
+banned	5	neg_cue
+########
+5
+<EOP> .
+########
+6
+The episode sees George find a spider in his bathroom sink before picking it up and going to play with it .
+########
+7
+<EOP> .
+########
+8
+Initially afraid , when Peppa sees the spider she is heard saying it is ` too scary , ' before later picking the spider up herself .
+########
+9
+<EOP> .
+########
+10
+` Spiders are very , very small and they ca n't hurt you , ' Daddy Pig says in the episode .
+n't	10	neg_cue
+########
+11
+<EOP> .
+########
+12
+However , despite what Daddy Pig says , Australia is home to a large number of venomous spiders , including the Sydney funnel_web spider _ considered among the deadliest in the world .
+considered	25	ps_cue
+########
+13
+<EOP> .
+########

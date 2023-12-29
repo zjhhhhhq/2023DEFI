@@ -1,0 +1,72 @@
+Will US President Donald Trump make an announcement
+0
+Trump to decide on Paris climate agreement after G7 summit <EOP> .
+########
+1
+2017_05_10 08:51 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+WASHINGTON _ US President Donald Trump will not make an announcement on whether or not to pull the country out of the Paris Agreement on climate change until after he returns from the May 26_27 Group of Seven LRB G7 RRB summit in Italy , the White House said Tuesday .
+make	8	CT-	CT-
+will	6	ps_cue
+not	7	neg_cue
+whether	12	ps_cue
+or	13	ps_cue
+not	14	neg_cue
+May	33	ps_cue
+########
+4
+<EOP> .
+########
+5
+`` The president has been meeting with his team for quite a while on this matter , '' White House spokesman Sean Spicer told reporters at a daily briefing .
+########
+6
+<EOP> .
+########
+7
+Trump was originally scheduled to sit down Tuesday with Secretary of State Rex Tillerson , Environmental Protection Agency administrator Scott Pruitt , his daughter Ivanka Trump and others to discuss the agreement , but the meeting was postponed .
+discuss	29	CT-	CT-
+scheduled	3	ps_cue
+postponed	37	neg_cue
+########
+8
+<EOP> .
+########
+9
+When asked if the canceled meeting is a sign that Trump is vacillating on the agreement , Spicer said : `` No , I think it 's simply a sign that the president wants to continue to meet with his team ... and come to a decision on what 's LRB in RRB the best interest of the United States . ''
+No	21	neg_cue
+wants	33	ps_cue
+########
+10
+<EOP> .
+########
+11
+It 's reported that Trump 's cabinet and top officials are deeply divided about whether the US should pull out .
+whether	14	ps_cue
+should	17	ps_cue
+########
+12
+Tillerson and Ivanka are said to want the US to stay , while Pruitt and White House strategist Steve Bannon reportedly have been pushing Trump to leave the international agreement .
+########
+13
+<EOP> .
+########
+14
+Trump himself has threatened to pull the US out of the Paris Agreement during his presidential campaign .
+########
+15
+<EOP> .
+########
+16
+<EOP> .
+########
+17
+<EOP> .
+########
+18
+<EOP> .
+########

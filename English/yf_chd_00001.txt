@@ -1,0 +1,289 @@
+Was there attack at Sinai mosque
+0
+World leaders , officials denounce Egypt 's deadliest attack at Sinai mosque <EOP> .
+attack	8	CT-	CT-
+denounce	4	neg_cue
+########
+1
+2017_11_26 18:27 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+BEIJING __ World leaders and officials have strongly condemned Friday deadly terrorist attack on a mosque in Egypt 's Sinai Peninsula , which claimed the lives of at least 305 people .
+attack	12	CT-	CT-
+condemned	8	neg_cue
+########
+4
+<EOP> .
+########
+5
+At noon on Friday , some 25 to 30 assailants bombed and opened fire at the mosque , killing 305 worshippers , including 27 children , and wounding 128 others , according to Egyptian authorities .
+########
+6
+It was the first terrorist operation to target a Muslim mosque in Egypt 's modern history .
+########
+7
+<EOP> .
+########
+8
+Chinese President Xi Jinping on Saturday sent a message of condolences to his Egyptian counterpart Abdel Fattah al_Sisi to offer his deep condolences and sincere sympathy to President Sisi , the families of the victims and the injured .
+########
+9
+<EOP> .
+########
+10
+Chinese Premier Li Keqiang also stressed that China will join hands with Egypt to firmly oppose any forms of terrorism .
+will	8	ps_cue
+oppose	15	neg_cue
+########
+11
+<EOP> .
+########
+12
+Russian President Vladimir Putin said that `` The murder of civilians in the course of an act of worship is striking with its cruelty and cynicism , '' confirming that Russia was ready to further enhance cooperation with Egypt in fighting international terrorism .
+ready	32	ps_cue
+########
+13
+<EOP> .
+########
+14
+US President Donald Trump offered condolences to the people of Egypt after the `` heinous '' attack .
+########
+15
+`` There can be no tolerance for barbaric groups that claim to act in the name of a faith but attack houses of worship and murder the innocent and defenseless while at prayer , '' said the White House .
+can	2	ps_cue
+no	4	neg_cue
+########
+16
+<EOP> .
+########
+17
+Sebastiano Cardi , president of the United Nations LRB UN RRB Security Council , said , `` The members of the Security Council condemned in the strongest terms the heinous and cowardly terrorist attack '' , and he wished a speedy and full recovery to those who were injured .
+attack	33	CT-	CT-
+condemned	23	neg_cue
+########
+18
+<EOP> .
+########
+19
+UN Secretary_General Antonio Guterres also condemned the attack , extended his deepest condolences , and wished a swift recovery to those who have been injured .
+attack	7	CT-	CT-
+condemned	5	neg_cue
+########
+20
+<EOP> .
+########
+21
+European Council President Donald Tusk tweeted that he was `` appalled by the attack on a mosque in North Sinai .
+########
+22
+My thoughts are with Egypt and all those affected by this evil and cowardly act . ''
+########
+23
+<EOP> .
+########
+24
+European Commission President Jean_Claude Juncker `` condemned in the strongest possible terms this barbaric and cowardly act deliberately targeting peaceful and innocent people , '' adding that `` Europe stands beside you in solidarity just as you have stood with us in the past . ''
+condemned	6	neg_cue
+possible	10	ps_cue
+########
+25
+<EOP> .
+########
+26
+European Union LRB EU RRB foreign policy chief Federica Mogherini denounced the attack , saying `` No one should be killed because of their religion , no sacred place should be profaned by violence and terrorism .
+attack	12	CT-	CT-
+No	16	neg_cue
+should	18	ps_cue
+no	26	neg_cue
+should	29	ps_cue
+########
+27
+People of all religions ... are united in the fight against terrorist violence . ''
+against	10	neg_cue
+########
+28
+<EOP> .
+########
+29
+`` Perpetrators of such unbearable acts must be held responsible , '' she said , adding that the EU `` will continue to stand with the Egyptian authorities and people as they confront the threat from terrorism . ''
+will	20	ps_cue
+########
+30
+<EOP> .
+########
+31
+German Foreign Minister Sigmar Gabriel said in a statement that `` We condemn in the strongest possible terms this perfidious terrorism , which once again has not even spared places of worship and peaceful people of faith from its brutal atrocities . ''
+possible	16	ps_cue
+not	26	neg_cue
+########
+32
+<EOP> .
+########
+33
+French Foreign Minister Jean_Yves Le Drian denounced the attack by saying , `` France stands resolutely with Egypt in this latest ordeal .
+attack	8	CT-	CT-
+########
+34
+We will continue to stand together in the fight against terrorism and fanaticism . ''
+will	1	ps_cue
+against	9	neg_cue
+########
+35
+<EOP> .
+########
+36
+Swiss President Doris Leuthard echoed , saying that `` her thoughts are with the victims and their families . ''
+########
+37
+<EOP> .
+########
+38
+Slovenian Prime Minister Miro Cerar also tweeted that he was `` deeply saddened by the horrific attack ... This is a terrorist attack that deserves all condemnation . ''
+########
+39
+<EOP> .
+########
+40
+Greek President Prokopis Pavlopoulos conveyed condolences to the victims ' families and his wishes for a fast recovery of those injured .
+########
+41
+<EOP> .
+########
+42
+Indian Prime Minister Narendra Modi strongly condemned `` the barbaric terrorist attack on a place of worship in Egypt '' , saying that `` India resolutely supports the fight against all forms of terrorism and stands with the people as well as Government of Egypt . ''
+attack	11	CT-	CT-
+condemned	6	neg_cue
+against	29	neg_cue
+########
+43
+<EOP> .
+########
+44
+Pakistan Foreign Ministry also condemned `` in the strongest term the heinous terrorist attack against innocent worshipers , '' saying his country `` stands in full solidarity with their Egyptian brethren in this moment of anguish and tragedy . ''
+condemned	4	neg_cue
+against	14	neg_cue
+########
+45
+<EOP> .
+########
+46
+A statement released by Israeli Prime Minister 's Office denounced `` the horrific and criminal terrorist attack '' which occurred close to Egypt 's border with Israel , saying that `` Terrorism will be defeated even more quickly if all countries work against it together . ''
+attack	16	CT-	CT-
+will	32	ps_cue
+against	42	neg_cue
+########
+47
+<EOP> .
+########
+48
+Turkish Prime Minister Binali Yildirim said , `` I strongly condemn the heinous attack in Egypt and offer condolence to the Egyptian people ... Attacking people during Friday prayer is against humanity and Islam . ''
+attack	13	CT-	CT-
+against	30	neg_cue
+########
+49
+<EOP> .
+########
+50
+The Iraqi Foreign Ministry confirmed the country 's solidarity with Egypt and extended sincere condolences to the families of the martyrs and wishes swift recovery of the wounded .
+########
+51
+<EOP> .
+########
+52
+King Abdullah II of Jordan and Morocco 's King Mohammed VI also voiced their full solidarity with Egypt and the Egyptian people .
+########
+53
+<EOP> .
+########
+54
+Iranian Foreign Minister Mohammad Javad Zarif tweeted , `` Once again the cowardly hand of terrorism targeted the dear nation of Egypt ... It does not differentiate between places even if they are mosques and place of worship . ''
+not	25	neg_cue
+########
+55
+<EOP> .
+########
+56
+Kuwaiti Emir Sheikh Sabah Al_Ahmad Al_Jaber Al_Sabah condemned the attack that violates all religions , norms and human values , and voiced his country 's solidarity with Egypt and his full support to all measures taken by Egypt to maintain its security and stability .
+attack	9	CT-	CT-
+condemned	7	neg_cue
+########
+57
+<EOP> .
+########
+58
+The United Arab Emirates LRB UAE RRB strongly condemned `` this terrorist crime , which is contrary to all human values and principles , the teachings of Islamic law and divine religions , '' the UAE Ministry of Foreign Affairs and International Cooperation in Abu Dhabi said in a statement .
+condemned	8	neg_cue
+########
+59
+<EOP> .
+########
+60
+Somali President Mohamed Abdullahi Mohamed , widely known as Farmajo , said , `` We stand united with our brothers and sisters in Egypt against terror , '' calling for effective international cooperation against terrorism .
+against	24	neg_cue
+against	33	neg_cue
+########
+61
+<EOP> .
+########
+62
+Kenyan President Uhuru Kenyatta said , `` We pray that Egypt may be consoled and that it may be granted the courage to bear this loss , and to bring the perpetrators of this vile act to justice . ''
+may	11	ps_cue
+may	17	ps_cue
+loss	25	neg_cue
+########
+63
+<EOP> .
+########
+64
+Tunisian President Beji Caid Essebsi said , `` Tunisia is fully committed to the Egyptian side in this painful circumstance , especially as we support all measures from the Egyptian authorities to ensure the safety of citizens . ''
+########
+65
+<EOP> .
+########
+66
+Sudan 's Ministry of Foreign Affairs expressed its strong condemnation of the terrorist attack and its condolences to the families of the victims and to the government and people of Egypt , describing the incident as `` a crime contradicting all humanitarian values and principles . ''
+attack	13	CT-	CT-
+########
+67
+<EOP> .
+########
+68
+Libya 's UN_backed prime minister , Fayez Serraj `` strongly condemns the cowardly treacherous terrorist attack , '' saying that `` This terrible crime against a house of God can only be carried out by those who have no human or religious morals . ''
+attack	15	CT-	CT-
+condemns	10	neg_cue
+against	24	neg_cue
+can	29	ps_cue
+no	38	neg_cue
+or	40	ps_cue
+########
+69
+<EOP> .
+########
+70
+The Sri Lankan government offered the deepest condolences and urged the international community to join hands to find effective ways and means to combat terrorism in all its forms and manifestations .
+########
+71
+<EOP> .
+########
+72
+The Brazilian government expressed its condolences to the families of the victims , its wishes for the prompt recuperation of the injured and its solidarity with the people and government of Egypt .
+########
+73
+<EOP> .
+########
+74
+Terror attacks started to rise in Egypt following the military ouster of former President Mohamed Morsi in July 2013 in response to mass protests against his one_year rule and his currently outlawed Muslim Brotherhood group .
+against	24	neg_cue
+########
+75
+<EOP> .
+########
+76
+Since then , most of the attacks have focused on restive North Sinai , killing hundreds of policemen and soldiers , before they later started to extend to other provinces and target the Coptic minority in their churches .
+########
+77
+<EOP> .
+########

@@ -1,0 +1,117 @@
+Will the number of victims grow
+0
+Cyber attack ` hit 200,000 victims ' <EOP> .
+########
+1
+2017_05_15 08:39 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+<EOP> .
+########
+4
+LONDON _ Friday 's cyber attack hit 200,000 victims in at least 150 countries and that number could grow when people return to work on Monday , the head of the European Union 's police agency said on Sunday .
+grow	18	PS+	PS+
+could	17	ps_cue
+########
+5
+<EOP> .
+########
+6
+Cyber security experts say the spread of the virus dubbed WannaCry _ `` ransomware '' which locked up computers in car factories , hospitals , shops and schools in several countries _ has slowed , but that any respite might be brief .
+might	39	ps_cue
+########
+7
+<EOP> .
+########
+8
+Europol Director Rob Wainwright told a British television program the attack was unique in that the ransomware was used in combination with `` a worm functionality '' so the infection spread automatically .
+########
+9
+<EOP> .
+########
+10
+`` The global reach is unprecedented .
+########
+11
+The latest count is over 200,000 victims in at least 150 countries , and those victims , many of those will be businesses , including large corporations , '' he said .
+will	20	ps_cue
+########
+12
+<EOP> .
+########
+13
+`` At the moment , we are in the face of an escalating threat .
+########
+14
+The numbers are going up ; I am worried about how the numbers will continue to grow when people go to work and turn LRB on RRB their machines on Monday morning . ''
+going	3	CT+	PS+
+grow	16	CT+	PS+
+will	13	ps_cue
+########
+15
+<EOP> .
+########
+16
+He said Europol and other agencies did not yet know who was behind the attack but `` normally it is criminally minded and that is our first working theory for obvious reasons '' .
+not	7	neg_cue
+yet	8	neg_cue
+########
+17
+<EOP> .
+########
+18
+`` LRB There have been RRB remarkably few payments so far that we 've noticed as we are tracking this , so most people are not paying this , so there is n't a lot of money being made by criminal organizations so far , '' he said .
+not	25	neg_cue
+n't	32	neg_cue
+########
+19
+<EOP> .
+########
+20
+As terrifying as the attack was , cybersecurity experts say it 's nothing compared to what might be coming especially if companies , organizations and governments do n't make major fixes .
+nothing	12	neg_cue
+might	16	ps_cue
+n't	27	neg_cue
+########
+21
+<EOP> .
+########
+22
+Had it not been for a young cybersecurity researcher 's accidental discovery of a so_called `` kill switch , '' the malicious software likely would have spread much farther and faster .
+not	2	neg_cue
+likely	23	ps_cue
+would	24	ps_cue
+########
+23
+Security experts say this attack should wake up every corporate board room and legislative chamber around the globe .
+should	5	ps_cue
+########
+24
+<EOP> .
+########
+25
+Darien Huss , a 28_year_old research engineer who assisted the anonymous British researcher who stopped the virus from spreading , said he was `` still worried for what 's to come in the next few days because it really would not be so difficult for the actors behind this to rerelease their code without a kill switch or with a better kill switch .
+stopped	14	neg_cue
+would	39	ps_cue
+not	40	neg_cue
+without	53	neg_cue
+or	57	ps_cue
+########
+26
+Or we could potentially see copycats mimic the delivery or exploit method they used . ''
+could	2	ps_cue
+potentially	3	ps_cue
+or	9	ps_cue
+########
+27
+<EOP> .
+########
+28
+Reuters _ AP <EOP> .
+########
+29
+<EOP> .
+########

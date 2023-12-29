@@ -1,0 +1,66 @@
+Have the Russian authorities commented
+0
+IS claims responsibility for Russian stabbing attack <EOP> .
+########
+1
+2017_08_20 09:12 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+<EOP> .
+########
+4
+Police work on the site of a knife attack in the center of Surgut , Russia , on Aug 19 , 2017 .
+########
+5
+The Islamic State LRB IS RRB terrorist group has claimed responsibility for a knife attack that left seven people injured in the central Russian city of Surgut on Saturday , according to media reports.LRB Photo_Xinhua RRB <EOP> .
+########
+6
+_ The Islamic State LRB IS RRB terrorist group has claimed responsibility for a knife attack that left seven people injured in the central Russian city of Surgut on Saturday , according to media reports .
+########
+7
+<EOP> .
+########
+8
+`` The attacker in the Russian city of Surgut is an Islamic State soldier , '' the group said via its Amaq news agency .
+########
+9
+<EOP> .
+########
+10
+Russian authorities have not commented so far .
+commented	4	CT-	CT-
+not	3	neg_cue
+########
+11
+<EOP> .
+########
+12
+An attacker stabbed pedestrians while moving along Surgut 's main streets at about 11:20 a.m. local time LRB 0620 GMT RRB , and was killed by security forces who had immediately arrived at the scene , according to statements released by Russia 's Investigative Committee .
+statements	38	CT+	CT-
+########
+13
+<EOP> .
+########
+14
+Preliminary information showed that the attacker had been identified as a local resident born in 1994 .
+########
+15
+<EOP> .
+########
+16
+A criminal case has been launched , and investigators are verifying information on the attacker 's mental disorders , the committee said .
+########
+17
+<EOP> .
+########
+18
+The regional department of the Russian Interior Ministry said earlier that terrorism was not believed to be the motive for the attack .
+not	13	neg_cue
+believed	14	ps_cue
+########
+19
+<EOP> .
+########

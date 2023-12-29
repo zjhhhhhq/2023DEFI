@@ -1,0 +1,128 @@
+Does US Senate approve tax overhaul in big victory for Trump 
+0
+US Senate approves tax overhaul in big victory for Trump <EOP> .
+approves	2	CT+	CT+
+########
+1
+2017_12_03 07:48 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+<EOP> .
+########
+4
+Chuck Schumer LRB center RRB , US Senate minority leader , and Senator Dick Durbin LRB right RRB talk to reporters at the US Capitol in Washington on Friday .
+########
+5
+JONATHAN ERNST_REUTERS <EOP> .
+########
+6
+WASHINGTON _ The US Senate on Saturday approved a sweeping tax overhaul , moving Republicans and President Donald Trump a major step closer to their goal of slashing taxes for businesses and the rich while offering everyday US citizens a mixed bag of changes .
+approved	7	CT+	CT+
+########
+7
+<EOP> .
+########
+8
+In what would be the largest US tax overhaul since the 1980s , Republicans want to add $ 1.4 trillion over 10 years to the $ 20 trillion national debt to finance changes that they say would further boost an already growing economy .
+would	2	ps_cue
+would	36	ps_cue
+########
+9
+<EOP> .
+########
+10
+US stock markets have rallied for months in hopes Washington would provide significant tax cuts for corporations .
+hopes	8	ps_cue
+would	10	ps_cue
+########
+11
+<EOP> .
+########
+12
+Following the 51_49 vote , talks will begin , likely next week , between the Senate and the House of Representatives , which has already approved its own tax bill .
+will	6	ps_cue
+likely	9	ps_cue
+########
+13
+The two chambers must craft a single bill to send to Trump to sign into law .
+########
+14
+<EOP> .
+########
+15
+The president wants that to happen before the end of the year , allowing him and his Republicans to score their first major legislative achievement of 2017 , despite controlling the White House , the Senate and the House since he took office in January .
+wants	2	ps_cue
+########
+16
+<EOP> .
+########
+17
+A tax overhaul is seen by Republicans as crucial to their prospects in the November 2018 mid_term election campaigns when they will have to defend their majorities in Congress .
+will	21	ps_cue
+########
+18
+<EOP> .
+########
+19
+In a legislative battle that moved so fast a final draft of the bill was unavailable to the public until just hours before the vote , Democrats slammed the measure as a giveaway to businesses and the rich financed with billions in taxpayer debt .
+########
+20
+<EOP> .
+########
+21
+The framework for both the Senate and House bills was developed in secret over a few months by a half_dozen Republican congressional leaders and Trump advisers , with little input from the party 's rank_and_file and none from Democrats .
+little	28	neg_cue
+none	36	neg_cue
+########
+22
+<EOP> .
+########
+23
+In the wee hours <EOP> .
+########
+24
+The Senate approved their bill in the wee hours , with Democrats complaining that last_minute amendments circulated among senators were poorly drafted and vulnerable to being gamed later by lawyers and accountants in the tax avoidance industry .
+approved	2	CT+	CT+
+########
+25
+<EOP> .
+########
+26
+`` The Republicans have managed to take a bad bill and make it worse , '' said Senate Democratic leader Chuck Schumer .
+########
+27
+<EOP> .
+########
+28
+`` Under the cover of darkness and with the aid of haste , a flurry of last_minute changes will stuff even more money into the pockets of the wealthy and the biggest corporations . ''
+will	18	ps_cue
+########
+29
+<EOP> .
+########
+30
+No Democrats voted for the bill , but they lacked the votes to block it because Republicans hold a 52_48 Senate majority .
+No	0	neg_cue
+block	13	neg_cue
+########
+31
+<EOP> .
+########
+32
+Republican Senator Bill Cassidy praised the bill and said : `` Working families and middle_income families across the nation will be better off .
+will	19	ps_cue
+########
+33
+Families who over the last eight years have not done well will begin to do better . ''
+not	8	neg_cue
+will	11	ps_cue
+########
+34
+<EOP> .
+########
+35
+Reuters _ AP _ AFP <EOP> .
+########

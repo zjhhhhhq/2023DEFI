@@ -1,0 +1,129 @@
+Does China rebuff sanction criticism
+0
+China rebuffs sanction criticism <EOP> .
+rebuffs	1	CT+	CT+
+criticism	3	neg_cue
+########
+1
+2017_12_29 09:54 <EOP> .
+########
+2
+China Daily USA <EOP> .
+########
+3
+The Chinese government and military have strictly followed United Nations resolutions on sanctions against the Democratic People 's Republic of Korea , a Defense Ministry spokesman said on Thursday .
+followed	7	CT+	CT+
+against	13	neg_cue
+########
+4
+<EOP> .
+########
+5
+Senior Colonel Ren Guoqiang was responding to media reports from the United States and the Republic of Korea claiming that the PLA Navy failed to keep Chinese and DPRK vessels from trading and transferring oil products about 30 times since October , as detected by US reconnaissance satellites .
+claiming	18	ps_cue
+failed	23	neg_cue
+########
+6
+<EOP> .
+########
+7
+`` China and the Chinese military have strictly enforced relevant resolutions adopted by the UN Security Council on the DPRK , '' he said , adding that the situation mentioned in the media is `` nonexistent '' .
+enforced	8	CT+	CT+
+########
+8
+<EOP> .
+########
+9
+On Thursday , US President Donald Trump said on Twitter , `` Caught RED HANDED _ very disappointed that China is allowing oil to go into North Korea . ''
+disappointed	17	neg_cue
+########
+10
+However , the president did not cite the source of his information .
+not	5	neg_cue
+########
+11
+<EOP> .
+########
+12
+Trump also tweeted a video of himself on cable TV nearly two decades ago warning of the DPRK nuclear threat , saying that `` I 've been saying it for a long , long time . ''
+########
+13
+<EOP> .
+########
+14
+Ren said China 's stance on the Korean Peninsula is clear and has not changed .
+not	13	neg_cue
+########
+15
+`` We 're determined to uphold the denuclearization of the peninsula , maintain peace and insist on dialogue as the solution to the issue . ''
+determined	3	CT+	CT+
+########
+16
+<EOP> .
+########
+17
+When answering another question about the Korean Peninsula , Ren said that `` war and conflict can not be the solution to the peninsula 's issue '' and that `` it is in both China 's and the US ' interest to avoid conflict in the region '' .
+question	3	ps_cue
+can	16	ps_cue
+not	17	neg_cue
+avoid	42	neg_cue
+########
+18
+<EOP> .
+########
+19
+Foreign Ministry spokeswoman Hua Chunying also lashed out at the media reports on Wednesday , challenging journalists to come up with more concrete details in a series of questions .
+########
+20
+<EOP> .
+########
+21
+`` I would like to know whether the relevant media could specify which ship or ships were involved in the situation .
+would	2	ps_cue
+like	3	ps_cue
+whether	6	ps_cue
+could	10	ps_cue
+or	14	ps_cue
+########
+22
+Are they on the sanctions list of the UN Security Council ?
+########
+23
+If not , what made them conclude that these ships violated the Security Council resolutions ? ''
+not	1	neg_cue
+########
+24
+Hua said .
+########
+25
+<EOP> .
+########
+26
+On Dec 22 , the UN passed a resolution slashing the DPRK 's importing of gasoline , diesel and other refined products by 89 percent in response to recent missile tests .
+########
+27
+<EOP> .
+########
+28
+The latest resolution is an extension of the one passed in September , which set the 2 million_barrel cap and asked member states to prohibit their people or companies from `` engaging in ship_to_ship transfers to or from DPRK_flagged vessels of any goods or items '' .
+prohibit	24	neg_cue
+or	27	ps_cue
+or	36	ps_cue
+or	43	ps_cue
+########
+29
+<EOP> .
+########
+30
+On Thursday , the UN Security Council denied international port access to four DPRK ships suspected of carrying or having transported goods banned by international sanctions targeting Pyongyang .
+denied	7	neg_cue
+suspected	15	ps_cue
+or	18	ps_cue
+banned	22	neg_cue
+########
+31
+<EOP> .
+########
+32
+Contact the writers at zhangzhihao@chinadaily.com.cn <EOP> .
+########

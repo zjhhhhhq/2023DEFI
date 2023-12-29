@@ -1,0 +1,126 @@
+Does Britain join with Hong Kong on projects
+0
+Britain urged to join with Hong Kong on projects <EOP> .
+join	3	CT+	CT+
+########
+1
+2017_09_22 16:49 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+Hong Kong wants its companies to partner with British counterparts so they can take on projects together , both in China and other economies in the area covered by the Belt and Road Initiative , attendees of a conference in London heard on Thursday .
+partner	6	CT+	CT+
+wants	2	ps_cue
+can	12	ps_cue
+########
+4
+<EOP> .
+########
+5
+Carrie Lam Cheng Yuet_ngor , chief executive of the Hong Kong Special Administrative Region , spoke about opportunities to strengthen business ties with the United Kingdom at the event attended by more than 1,000 business and government representatives .
+ties	21	PS+	CT+
+opportunities	17	ps_cue
+########
+6
+<EOP> .
+########
+7
+`` As Asia continues to drive the global economy 's growth , we welcome British companies interested in exploring new business opportunities in the East , to explore opportunities in Hong Kong , to partner for success in the East , '' said Lam .
+partner	34	CT+	CT+
+opportunities	21	ps_cue
+opportunities	28	ps_cue
+########
+8
+<EOP> .
+########
+9
+Think Asia , Think Hong Kong was hosted by the Hong Kong Trade Development Council and covered topics including partnership opportunities , financial technology , and the technology and innovation sectors .
+opportunities	20	ps_cue
+########
+10
+<EOP> .
+########
+11
+The UK is now the SAR 's second_largest trading partner in Europe , with investment worth 25 billion pounds LRB $ 34 billion RRB at the end of 2015 , a 115 percent increase on five years earlier .
+########
+12
+<EOP> .
+########
+13
+Greg Hands , the UK 's minister of state for trade and investment , noted the importance of Hong Kong as a `` key junction '' for British companies ' engagement .
+########
+14
+<EOP> .
+########
+15
+`` The UK must harness our shared ties LRB with Hong Kong RRB , so that our firms , from infrastructure to energy , can become partners of choice in this initiative .
+can	24	ps_cue
+########
+16
+As global trade moves toward emerging economies , the UK will seek to open up trade with willing partners in the region , and the free trade will bring us benefits , '' Hands said .
+will	10	ps_cue
+willing	17	ps_cue
+will	27	ps_cue
+########
+17
+<EOP> .
+########
+18
+Margaret Fong , executive director of the Hong Kong Trade Development Council , said Hong Kong wants to facilitate connections between British and Chinese companies .
+connections	19	CT+	CT+
+wants	16	ps_cue
+########
+19
+<EOP> .
+########
+20
+The Belt and Road Initiative seeks to boost trade and investment ties between Asia and Europe by strengthening infrastructure connectivity .
+seeks	5	ps_cue
+########
+21
+<EOP> .
+########
+22
+Earlier this month , the Hong Kong Trade and Development Council hosted a Belt and Road summit attended by more than 3,000 participants , including representatives from 170 infrastructure projects .
+########
+23
+<EOP> .
+########
+24
+One day before the conference , the Hong Kong SAR and the UK government signed a strategic agreement to explore collaboration .
+collaboration	20	CT+	CT+
+########
+25
+They also signed a separate agreement to strengthen financial technology cooperation .
+########
+26
+<EOP> .
+########
+27
+Francis Law , president of the Hong Kong Mediation Center , welcomed the financial technology collaboration .
+########
+28
+<EOP> .
+########
+29
+`` It will further enhance the growth of Hong Kong investment in the UK and attract firms to establish in Hong Kong and the Chinese mainland , '' Law said .
+will	2	ps_cue
+########
+30
+<EOP> .
+########
+31
+The UK government will also support a festival to showcase the best of the UK 's innovation and creative sector companies .
+will	3	ps_cue
+########
+32
+<EOP> .
+########
+33
+Jon Lowe in Hong Kong contributed to this story .
+########
+34
+<EOP> .
+########

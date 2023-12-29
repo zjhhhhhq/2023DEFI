@@ -1,0 +1,782 @@
+Have president Xi 's UK visit transformed Anglo_Chinese relations 
+0
+President Xi 's UK visit transformed Anglo_Chinese relations <EOP> .
+transformed	5	CT+	CT+
+########
+1
+2017_10_10 00:40 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+<EOP> .
+########
+4
+China 's Ambassador to the UK Liu Xiaoming .
+########
+5
+LRB Photo_China Daily RRB <EOP> .
+########
+6
+October 19 marks the second anniversary of President Xi Jinping 's State Visit to the UK .
+########
+7
+Ambassador Liu Xiaoming reflects on the significance of the visit and the Golden Era it heralded .
+########
+8
+<EOP> .
+########
+9
+China Daily : <EOP> .
+########
+10
+Almost two years ago , Chinese President Xi Jinping paid a historic state visit to the United Kingdom , the first to the UK by a Chinese head of state in a decade .
+########
+11
+In terms of the timing , how significant do you think his visit was to China_UK relations ?
+########
+12
+<EOP> .
+########
+13
+Ambassador Liu : <EOP> .
+########
+14
+Indeed , Chinese President Xi Jinping paid a successful State Visit to the UK from 19_23 October 2015 at the invitation of Queen Elizabeth II .
+########
+15
+That visit was a historic milestone because its significance extends well beyond our times .
+########
+16
+<EOP> .
+########
+17
+Bilaterally , President Xi 's State Visit heralded a new era for China_UK relations .
+heralded	7	CT+	CT+
+########
+18
+<EOP> .
+########
+19
+`` What 's past is prologue '' .
+########
+20
+The State Visit was the first by China 's head of state in ten years .
+########
+21
+It took place in the first year of the second decade of China_UK comprehensive strategic partnership .
+########
+22
+That was an important moment where China and the UK could build on the achievements of the past and herald a coming new era .
+could	10	ps_cue
+########
+23
+<EOP> .
+########
+24
+During the State Visit , China and the UK committed to building a global comprehensive strategic partnership for the 21st Century .
+########
+25
+The State Visit opened the `` Golden Era '' in UK_China relations featuring enduring , inclusive and win_win cooperation and raised the banner of consensus and cooperation .
+opened	3	CT+	CT+
+########
+26
+<EOP> .
+########
+27
+In June 2016 , Britain formed a new government after the Brexit Referendum .
+########
+28
+But the China_UK `` Golden Era '' was not affected .
+not	8	neg_cue
+########
+29
+Over the past year , President Xi Jinping and Prime Minister Theresa May maintained close personal contact , exchanging letters on many issues and having two meetings and one telephone talk .
+May	12	ps_cue
+########
+30
+Both leaders reaffirmed the shared commitment to building the China_UK `` Golden Era '' , which was a strong reassurance for the continued , healthy growth of our bilateral relationship and our ever deepening cooperation across the board .
+########
+31
+<EOP> .
+########
+32
+Internationally , President Xi 's State Visit was a courageous effort to build a new type of major country relationship .
+########
+33
+<EOP> .
+########
+34
+During the visit , the two countries recognised the importance each side attaches to its own political system , development path , core interests and major concerns .
+########
+35
+Just as the old Chinese saying goes , `` A true gentleman respects diversity while seeking harmony . ''
+seeking	15	ps_cue
+########
+36
+<EOP> .
+########
+37
+As countries of global influence , China and Britain agreed to adopt a long_term and strategic vision , to look beyond their differences in social system , cultural tradition and ideology , to take our bilateral ties proactively and rationally and to work for shared interests and common development .
+########
+38
+<EOP> .
+########
+39
+China_UK strategic mutual trust was strengthened .
+########
+40
+Our shared determination on closer cooperation was firm .
+########
+41
+The foundation for our bilateral relations was consolidated .
+########
+42
+The FT editorial sees this visit as marking `` a fundamental recalibration in the UK 's great power relations '' .
+########
+43
+<EOP> .
+########
+44
+As Permanent Members of the UN Security Council and countries of global influence , China and the UK shoulder the responsibilities for advancing world peace and development .
+########
+45
+In a multi_polar world where economic globalization continues to unfold , China_UK relationship has taken on a greater strategic and global significance .
+########
+46
+<EOP> .
+########
+47
+During the State Visit , leaders of both countries spoke highly of the global and strategic importance of China_UK relations for world peace , stability and prosperity .
+########
+48
+It is our shared commitment to stay in close communication within the framework of the UN and G20 and work together on global and regional issues , so as to jointly advance the cause of peace and development for mankind .
+########
+49
+<EOP> .
+########
+50
+The China_UK `` Golden Era '' is a successful practice of China 's vision for state_to_state ties , namely , `` a new type of international relations featuring win_win cooperation '' .
+########
+51
+Much more than that , it is a fine example of how the emerging and established powers can work together to build a new type of relationship in which they deepen mutual trust , engage in healthy interactions and pursue win_win cooperation .
+can	17	ps_cue
+########
+52
+<EOP> .
+########
+53
+China Daily : <EOP> .
+########
+54
+Ambassador , I believe you accompanied President Xi during his visit to the UK .
+########
+55
+What do you think was the highlight of his visit ?
+########
+56
+<EOP> .
+########
+57
+Ambassador Liu : <EOP> .
+########
+58
+It was a huge honour for me to accompany President Xi throughout his UK visit .
+########
+59
+The visit has three highlights , which I would summarize as three `` super 's '' , that is , `` super programme '' , `` super outcomes '' and `` super significance '' .
+would	8	ps_cue
+########
+60
+<EOP> .
+########
+61
+First , `` super programme '' .
+########
+62
+<EOP> .
+########
+63
+In five days , President Xi attended more than 30 events .
+########
+64
+His trip took him not only to the capital city of London but also other parts of Britain .
+not	4	neg_cue
+########
+65
+His itinerary covered both towns and villages .
+########
+66
+His schedule included tight political agenda and light interaction with the public .
+########
+67
+The events he attended vary from traditional Royal pageantry to modern creative display .
+########
+68
+<EOP> .
+########
+69
+The British side attached great importance to President Xi 's visit and the highest_level royal welcome was staged , including 103_gun salute at Tower Bridge and Green Park .
+########
+70
+The Queen announced the news of President Xi 's coming visit at the opening of the Parliament .
+########
+71
+She held two banquets in honour of President Xi and Madame Peng Liyuan .
+########
+72
+Members of the three generations of the Royal Family were involved in hosting this visit .
+########
+73
+<EOP> .
+########
+74
+During the visit , President Xi and then Prime Minister Cameron had a series of long_hour , in_depth meetings .
+########
+75
+President Xi and Madame Peng were also invited to the Prime Minister 's home at Chequers .
+########
+76
+There were fourteen events in which Prime Minister Cameron accompanied President Xi both in and outside London .
+########
+77
+<EOP> .
+########
+78
+The second highlights are the `` super outcomes '' .
+########
+79
+<EOP> .
+########
+80
+During the visit , China and the UK reached a total of 59 outcomes , including 13 inter_governmental and non_commercial agreements , 28 commercial contracts at 40 billion pounds , and 18 outcomes of other kinds .
+########
+81
+<EOP> .
+########
+82
+The signing of the Hinkley Point C nuclear power project was a milestone : Chinese nuclear company made its first ever entry into the market of a developed country .
+########
+83
+There were breakthroughs in financial services cooperation marked by the expansion of the scale of currency swap , the launch of the feasibility study on Shanghai_London Stock Connect , and China 's agreement to make London the place of issue for its first RMB sovereign bond outside China .
+########
+84
+The two countries also agreed to scale up cooperation on innovative and other emerging industries , creative industry and educational exchanges .
+########
+85
+<EOP> .
+########
+86
+The third highlight is the `` super significance '' of the State Visit .
+########
+87
+<EOP> .
+########
+88
+The human touch of President Xi 's UK trip was a fine example of public diplomacy .
+########
+89
+It drew enormous interest and coverage not only in Britain but also around the world .
+not	6	neg_cue
+########
+90
+<EOP> .
+########
+91
+From the Royal Carriages to the Plough in Cadsden , from the Indian Pale Ale with fish and chips to the iconic Aguero selfie , numerous eye_catching moments made headlines and became media focuses .
+########
+92
+<EOP> .
+########
+93
+President Xi mentioned many British household names in his speeches , from Byron , Shelley and Dickens , to Harry Potter , Sherlock and Downton Abbey , and felt instantly close to the British public .
+########
+94
+This visit created a huge enthusiasm across Britain for learning about China in greater depth .
+########
+95
+The role of this visit in building stronger public support for closer China_UK cooperation can not be overstated .
+can	14	ps_cue
+not	15	neg_cue
+########
+96
+<EOP> .
+########
+97
+A special point I want to make about this visit is that , in his interactions with the British leaders and public , President Xi elaborated on China 's policies and ideals , told China 's stories , put forward China 's concepts and made China 's voice heard .
+forward	39	ps_cue
+forward	39	neg_cue
+########
+98
+<EOP> .
+########
+99
+During the visit , President Xi met extensively with people from different sectors , expounding on China 's policies and responding to international concerns .
+########
+100
+<EOP> .
+########
+101
+For example , in response to worries about China 's economy , President Xi stressed that China 's economy would not make a hard landing ; Instead , by committing to the opening up strategy of win_win cooperation , China would continue to play a key role in driving global growth .
+would	19	ps_cue
+not	20	neg_cue
+would	40	ps_cue
+########
+102
+<EOP> .
+########
+103
+In response to concerns over China 's future development path , President Xi explained why this path was a historical and inevitable choice of the Chinese people and that it was a path to better life , a path to world peace and development .
+########
+104
+He stressed that China 's development conformed to the trend of human progress and created more opportunities for the world rather than posing threats to any other country .
+opportunities	16	ps_cue
+rather	20	neg_cue
+########
+105
+<EOP> .
+########
+106
+With regard to the issue of human rights , President Xi underscored that the people knew best about their country 's human rights .
+########
+107
+China would stick to its own path of advancing human rights and stand ready to strengthen exchanges and cooperation with other countries on human rights on the basis of equality and mutual respect .
+would	1	ps_cue
+ready	13	ps_cue
+########
+108
+<EOP> .
+########
+109
+In this widely acclaimed , successful State Visit , President Xi sent out a confident message about China 's economic prospects , showcased China as an open , inclusive and responsible nation , and helped the international audience gain better knowledge and understanding of China .
+########
+110
+<EOP> .
+########
+111
+China Daily : <EOP> .
+########
+112
+Looking back , what do you think are the long_lasting legacies of that visit to the relations of the two countries ?
+########
+113
+<EOP> .
+########
+114
+Ambassador Liu : <EOP> .
+########
+115
+President Xi 's `` Super State Visit '' to the UK produced `` super impact '' upon China_UK relations .
+########
+116
+It was a landmark in the history of our bilateral ties .
+########
+117
+The long_lasting impact of that visit is seen in three aspects .
+########
+118
+<EOP> .
+########
+119
+First , the visit gave China_UK relations an upgraded redefinition .
+upgraded	8	CT+	CT+
+gave	4	neg_cue
+########
+120
+<EOP> .
+########
+121
+China and Britain announced the building of a global comprehensive strategic partnership for the 21st century and an enduring , open and win_win China_UK `` Golden Era '' .
+########
+122
+This is a strategic choice of our two countries based on our respective long_term interests and the overall interests of world peace and stability .
+########
+123
+Such a definition was unprecedented in China 's ties with western countries .
+########
+124
+<EOP> .
+########
+125
+This new definition charts the way forward for China_UK relations .
+forward	6	ps_cue
+forward	6	neg_cue
+########
+126
+It lays the political building block for our overall bilateral ties .
+block	5	neg_cue
+########
+127
+It shows that our relationship has entered a new era .
+new	8	CT+	CT+
+########
+128
+The joint statement issued during the visit covers a wide range of areas and maps out the blueprint for the long_term growth of China_UK relationship .
+########
+129
+<EOP> .
+########
+130
+Second , the visit greatly enriched China_UK cooperation .
+########
+131
+<EOP> .
+########
+132
+The new definition of China_UK relations marked a new beginning where leaders of both countries started to plan for future cooperation across the board .
+plan	17	ps_cue
+########
+133
+<EOP> .
+########
+134
+We agreed to maintain the momentum of high_level exchanges and ensure the success of the annual Prime Ministers ' Meeting , the Economic and Financial Dialogue , and other high level dialogue mechanisms on culture , strategy and security .
+########
+135
+<EOP> .
+########
+136
+We agreed to expand bilateral trade and investment , strengthen financial cooperation and cooperation on emerging industries such as innovation , and dovetail China 's Belt and Road Initiative with the UK 's Northern Powerhouse .
+########
+137
+<EOP> .
+########
+138
+We agreed to step up cooperation in the field of security and law enforcement .
+########
+139
+We agreed to work for closer cultural exchanges and increased mutual visits .
+########
+140
+<EOP> .
+########
+141
+We also decided to communicate more closely under multilateral frameworks such as the UN and G20 , enhance cooperation on international and regional issues and jointly advance the cause of peace and development .
+########
+142
+<EOP> .
+########
+143
+These important cooperation agreements and outcomes reached between the leaders of China and Britain have greatly enriched China_UK ties .
+########
+144
+They reflect the strategic vision of our two countries and show to the world that China 's vision of a new type of international relations featuring win_win cooperation is creating a bright future for global development .
+########
+145
+<EOP> .
+########
+146
+Third , the visit helps grow China_UK friendship .
+helps	4	ps_cue
+########
+147
+<EOP> .
+########
+148
+One focus of President Xi 's visit was to deepen the cultural and people_to_people exchanges between China and Britain .
+########
+149
+He therefore met widely with people from different sectors , including the political , business , cultural , educational and science communities in Britain .
+########
+150
+<EOP> .
+########
+151
+President Xi joined the Queen for a series of state events and had close and cordial conversations with the three generations of the Royal Family .
+########
+152
+He delivered keynote speeches at the Parliament , the Guildhall , the Airport City Manchester , and the China_UK Business Summit .
+########
+153
+He visited the countryside pub , businesses and schools .
+########
+154
+He reached out to the wider British public , shared with them stories of China_UK friendship and worked to bring the people of our two countries closer .
+########
+155
+This visit demonstrated the appeal of President Xi 's leadership and helped build stronger public support for China_UK cooperation .
+########
+156
+<EOP> .
+########
+157
+China Daily : <EOP> .
+########
+158
+In the run up to the 19th National Congress of the Communist Party of China , how do you see China_UK relations in five years time ?
+########
+159
+<EOP> .
+########
+160
+Ambassador Liu : <EOP> .
+########
+161
+This year marks the 45th anniversary of the Ambassadorial diplomatic ties between China and Britain .
+########
+162
+It is also a year for consolidating the China_UK `` Golden Era '' .
+########
+163
+The past 45 years have seen extraordinary and historic progress in China_UK relations .
+########
+164
+<EOP> .
+########
+165
+The international situation is undergoing profound and complex changes .
+########
+166
+Brexit is bringing uncertainties and instabilities .
+########
+167
+However , the shared goal of China and the UK to build a `` Golden Era '' remains unchanged .
+########
+168
+The momentum of a steady and growing China_UK relationship remains unchanged .
+########
+169
+The strong desire for deeper cooperation across the board remains unchanged .
+########
+170
+<EOP> .
+########
+171
+It is therefore my hope that in the coming five years , we will continue our good efforts in developing China_UK ties in the following five aspects .
+hope	4	ps_cue
+will	13	ps_cue
+########
+172
+<EOP> .
+########
+173
+First , I hope China and the UK will continue to cement the strategic consensus of building the `` Golden Era '' .
+hope	3	ps_cue
+will	8	ps_cue
+########
+174
+<EOP> .
+########
+175
+The `` Golden Era '' enhances consensus , sets out the objective for all our work and creates a vision for our cooperation .
+########
+176
+Building a China_UK `` Golden Era '' is not a slogan .
+not	8	neg_cue
+########
+177
+It is a brand new definition of our bilateral relationship and a symbol of our determination to build strategic consensus .
+########
+178
+<EOP> .
+########
+179
+Over the past two years , the leaders of both China and the UK have reaffirmed on many occasions the commitment to advance the China_UK `` Golden Era '' .
+########
+180
+This has made sure that China_UK relations keep to the right direction .
+########
+181
+The `` Golden Era '' is the major opportunity that we must seize as we work together to enhance political mutual trust , build consensus and deepen win_win cooperation .
+########
+182
+<EOP> .
+########
+183
+Prime Minister May is planning a visit to China before the end of this year .
+May	2	ps_cue
+planning	4	ps_cue
+########
+184
+I have confidence that such a visit will give new impetus to China_UK relationship and allow the `` Golden Era '' to endure .
+will	7	ps_cue
+########
+185
+<EOP> .
+########
+186
+Second , I hope China and the UK will continue to deliver more `` golden outcomes '' .
+hope	3	ps_cue
+will	8	ps_cue
+########
+187
+<EOP> .
+########
+188
+China is deepening its reforms and opening up .
+########
+189
+The forthcoming 19th National Congress of the Communist Party of China will take stock of our development experience and formulate the programme and policies for the future .
+will	11	ps_cue
+########
+190
+China 's peaceful development will offer more opportunities for the world , Britain included .
+will	4	ps_cue
+opportunities	7	ps_cue
+########
+191
+<EOP> .
+########
+192
+As Britain approaches the critical juncture of Brexit negotiations , its leaders have on numerous occasions made clear that Britain outside the EU will continue to open to the world and embrace free trade , and that the goal is to build a `` global Britain '' .
+will	23	ps_cue
+########
+193
+For China_UK relations , Brexit means both opportunities and challenges .
+opportunities	7	ps_cue
+########
+194
+And I believe the opportunities far outweigh the challenges .
+opportunities	4	ps_cue
+########
+195
+Our two countries have every reason to tap our potentials for cooperation and turn challenges into opportunities .
+opportunities	16	ps_cue
+########
+196
+We have every capability to deliver more `` golden outcome '' for the benefit of our people .
+########
+197
+<EOP> .
+########
+198
+Third , I hope China and the UK will continue to dovetail our respective development strategies .
+hope	3	ps_cue
+will	8	ps_cue
+########
+199
+<EOP> .
+########
+200
+China and Britain have much to offer to each other in our respective development strategies .
+########
+201
+Right now , we are working hard to dovetail China 's Belt and Road Initiative , 13th Five Year Plan and Made in China 2025 with the UK 's Industrial Strategy , Northern Powerhouse and the UK Industry 2050 .
+########
+202
+<EOP> .
+########
+203
+Britain is a key partner of the Belt and Road cooperation thanks to its unique strengths in financial services , legal services , project management and risks control .
+########
+204
+China and the UK can dovetail our development strategies , coordinate our policy measure and join hands to explore the market of a third country along the routes .
+can	4	ps_cue
+########
+205
+This could be a highlight of cooperation under the framework of the Belt and Road .
+could	1	ps_cue
+########
+206
+Our two countries can also explore new opportunities to match our strengths and achieve common development in the fields of economic cooperation , trade , investment and science and technology .
+can	3	ps_cue
+opportunities	7	ps_cue
+########
+207
+<EOP> .
+########
+208
+Fourth , I hope China and the UK will continue to strengthen public support for our bilateral relations .
+hope	3	ps_cue
+will	8	ps_cue
+########
+209
+<EOP> .
+########
+210
+Only relations based on heart_to_heart exchange can last .
+can	6	ps_cue
+########
+211
+The thriving people_to_people exchanges between China and the UK in recent years are the key to building solid public support for our bilateral relations .
+########
+212
+<EOP> .
+########
+213
+There are now over 1.5 million mutual visits between China and Britain every year .
+########
+214
+There are more Chinese student and more Confucius Institutes in Britain than anywhere else in Europe .
+########
+215
+There are 60 pairs of sister provinces and cities between China and Britain .
+########
+216
+The local government forum and local government joint working group on economic cooperation and trade between our two countries are the first ever in Europe .
+########
+217
+<EOP> .
+########
+218
+For China_UK relationship to scale further heights , we must achieve new progress in people_to_people and local government cooperation .
+########
+219
+Closer exchange at this level will foster stronger friendship and better understanding .
+will	5	ps_cue
+########
+220
+That will further steady the steps of China_UK relationship .
+will	1	ps_cue
+########
+221
+<EOP> .
+########
+222
+Fifth , I hope China and the UK will continue to enhance cooperation on international issues .
+hope	3	ps_cue
+will	8	ps_cue
+########
+223
+<EOP> .
+########
+224
+Both China and Britain are permanent members of the UN Security Council and important members of G20 .
+########
+225
+We have maintained sound cooperation on international issues and have more shared commitment to economic globalization , trade liberalization and investment facilitation .
+########
+226
+Our interests converge and our communication and cooperation have been effective in facilitating free trade , improving global economic governance and reforming the international financial system .
+########
+227
+We have been engaged in global cooperation on health issues , climate change , counter_terrorism , peacekeeping and regional security .
+########
+228
+Together , we are responding to global and regional challenges and maintaining peace and stability around the world .
+########
+229
+<EOP> .
+########
+230
+Looking ahead into the coming five years , I am confident about China_UK relationship .
+########
+231
+I believe that both countries need to continue to take China_UK ties from a strategic height and long_term perspective .
+need	5	ps_cue
+########
+232
+Going forward , we must deepen our global comprehensive partnership for the 21st Century , keep to the overall direction of the `` Golden Era '' , seize the `` golden opportunities '' , expand our shared interests and enhance our strategic convergence as we write a new chapter for China_UK relations .
+forward	1	ps_cue
+forward	1	neg_cue
+opportunities	31	ps_cue
+########
+233
+<EOP> .
+########
+234
+<EOP> .
+########
+235
+<EOP> .
+########
+236
+<EOP> .
+########
+237
+<EOP> .
+########
+238
+<EOP> .
+########

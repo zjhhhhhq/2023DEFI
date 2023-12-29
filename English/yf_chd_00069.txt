@@ -1,0 +1,160 @@
+Did Carl Kice Brown pass away three months ago 
+0
+Death of last remaining Flying Tiger pilot stirs fond memories <EOP> .
+stirs	7	CT+	CT+
+########
+1
+2017_12_22 17:31 <EOP> .
+########
+2
+China Daily USA <EOP> .
+########
+3
+Dec 13 would have been the 100th birthday of Carl Kice Brown , a Flying Tiger pilot , who passed away peacefully at his home in Corcoran , California , three months ago .
+passed	19	CT+	CT+
+would	2	ps_cue
+########
+4
+<EOP> .
+########
+5
+`` He had been doing well and then suddenly took a turn for the worse at the end of August and passed Sept 8 , '' one of the late pilot 's daughters , Julia , said in an email .
+########
+6
+<EOP> .
+########
+7
+Born in 1917 , Brown attended Michigan State University until 1939 , when he suspended his studies to join the US Navy .
+suspended	14	neg_cue
+########
+8
+<EOP> .
+########
+9
+In 1941 , close to 300 young United States citizens registered to join the American Volunteer Group and were deployed to Asia .
+########
+10
+<EOP> .
+########
+11
+Organized and commanded by Claire Lee Chennault , the AVG , which came to be known as the Flying Tigers , was a volunteer band of about 300 pilots and ground staff whose sole purpose was to help China fight invading Japanese troops before the US officially entered World War II .
+########
+12
+<EOP> .
+########
+13
+Through the introduction of his friend Tex Hill , who would go on to become an AVG squadron leader , Brown received an honorable discharge from the navy and signed up for the AVG .
+would	10	ps_cue
+########
+14
+<EOP> .
+########
+15
+`` Most of the pilots were just two to three years out of high school , '' Brown recalled earlier this year .
+########
+16
+<EOP> .
+########
+17
+Brown participated in the Flying Tigers ' first battle on Dec 20 , 1941 .
+########
+18
+The fighting took place over Kunming , Yunnan province , and brought down nine Japanese planes .
+########
+19
+<EOP> .
+########
+20
+According to a tribute provided by his family , Brown also took part in a mission over the Nujiang River , during which double ace pilot Bob Little was killed while flying on his wing .
+########
+21
+<EOP> .
+########
+22
+After the Flying Tigers were disbanded in July 1942 , Brown flew as a pilot transporting supplies between India and China on a dangerous but crucial airlift route over the Himalayas .
+########
+23
+<EOP> .
+########
+24
+`` My father indicated that he was honored to do his duty and help the Chinese people during the war .
+########
+25
+My father spoke fondly of the Chinese people , '' his daughter Julia said .
+########
+26
+<EOP> .
+########
+27
+Brown is survived by six children and many grandchildren and great_grandchildren .
+########
+28
+<EOP> .
+########
+29
+In 1945 , Brown returned to the US , resumed his undergraduate medical studies , and graduated in 1946 .
+########
+30
+He went on to receive a master 's degree in the 1950s and a doctorate in the '80s .
+########
+31
+<EOP> .
+########
+32
+`` Carl Brown was a great friend of my late husband , '' said Lydia Rossi , wife of late ace pilot Dick Rossi .
+########
+33
+<EOP> .
+########
+34
+`` Whenever Dick had a medical question he would call Carl and get an educated and helpful answer .
+question	6	ps_cue
+would	8	ps_cue
+########
+35
+They would talk on the phone to each other every month and keep abreast of what was going on in each other 's lives , '' she said .
+would	1	ps_cue
+########
+36
+<EOP> .
+########
+37
+`` Carl was a man who took his own path in life and did not concern himself with doing the latest popular thing .
+not	14	neg_cue
+concern	15	ps_cue
+########
+38
+He was his own man , but he respected others . ''
+########
+39
+<EOP> .
+########
+40
+From December 1941 to July 1942 , the Flying Tigers shot down 299 planes in more than 50 battles against the Japanese , forcefully defending critical air space on China 's rear front .
+against	19	neg_cue
+########
+41
+Their bravery underpins a celebrated chapter in China_US friendship .
+########
+42
+<EOP> .
+########
+43
+Brown 's daughter Julia said she is proud that the US stood up to help and sent the Flying Tigers to work with the Chinese people .
+########
+44
+<EOP> .
+########
+45
+Most of the Flying Tigers have now passed away _ not in battle , but from old age .
+not	10	neg_cue
+########
+46
+Squadron crew chief Frank Losonsky , 97 , is now the last surviving Flying Tiger .
+########
+47
+<EOP> .
+########
+48
+Xinhua <EOP> .
+########

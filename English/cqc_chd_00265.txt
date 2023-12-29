@@ -1,0 +1,167 @@
+Is there more Chinese tourists to Denmark
+0
+Denmark attracts record number of Chinese visitors <EOP> .
+########
+1
+2017_11_30 23:40 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+The number of Chinese visitors to Denmark has soared since the start of the 2017 China_Denmark Tourism Year , it is expected that 262,000 people will visit the country this year .
+visit	26	PS+	PS+
+expected	21	ps_cue
+will	25	ps_cue
+########
+4
+<EOP> .
+########
+5
+According to VisitDenmark , the country 's popularity has been steadily growing during the past few years .
+########
+6
+It saw about 161,000 Chinese tourists book hotel beds in 2014 , 198,000 in 2015 , and 221,000 in 2016 .
+tourists	5	CT+	PS+
+########
+7
+<EOP> .
+########
+8
+Tour operator Tuniu said the number of Chinese visitors to Denmark was only 50,000 in 2009 .
+visitors	8	CT+	PS+
+########
+9
+<EOP> .
+########
+10
+Since the launch of the 2017 China_Denmark Tourism Year on Feb 24 , Denmark and its Chinese partners have engaged in several events aimed at attracting more Chinese tourists to the Scandinavian country .
+tourists	28	CT+	PS+
+########
+11
+<EOP> .
+########
+12
+The initiative will end on Dec 5 with a wrap_up event at the Royal Danish Theatre 's Old Stage in Copenhagen .
+will	2	ps_cue
+########
+13
+<EOP> .
+########
+14
+VisitDenmark , the country 's official tourism organization , held an online campaign during April and May , along with China DiDi Rental Car Company .
+May	16	ps_cue
+########
+15
+The campaign encouraged people to create their dream self_drive trips in Denmark via multimedia platforms .
+encouraged	2	ps_cue
+########
+16
+<EOP> .
+########
+17
+And in May , when Denmark 's shores were clogged up with non_native oysters , the news went viral on Weibo and Chinese netizens offered to help by `` eating them to extinction '' .
+May	2	ps_cue
+########
+18
+Following this , VisitDenmark released a series of travel videos and launched a reality show with Denmark as the backdrop that was produced jointly alongside Shanghai Dragon TV and well_known Chinese bloggers .
+########
+19
+<EOP> .
+########
+20
+Other activities held during the special year included a range of seminars , meetings , and campaigns .
+########
+21
+<EOP> .
+########
+22
+Flemming Bruhn , director of VisitDenmark , said : `` Scandinavia and Denmark have become very popular among Chinese tourists and they want to find new destinations .
+########
+23
+Denmark can offer very good activities all year round , also outside Copenhagen . ''
+can	1	ps_cue
+########
+24
+<EOP> .
+########
+25
+Bruhn said the tourism advocates are also championing five new signature travel routes that let Chinese tourists experience the country 's highlights .
+########
+26
+The routes are named ; Denmark for Kids , Royal Denmark and Living History , Design and Architecture , In the Footsteps of Hans Christian Andersen , and Winter in Denmark .
+########
+27
+<EOP> .
+########
+28
+`` These routes show that Denmark has much more to offer than just Copenhagen and that Chinese tourists can spend many days in Denmark , '' said Bruhn .
+tourists	17	CT+	PS+
+can	18	ps_cue
+########
+29
+<EOP> .
+########
+30
+A survey by VisitCopenhagen shows that many Chinese travelers associate the nation 's capital with the 19th century writer Hans Christian Andersen and his fairytale The Little Mermaid .
+########
+31
+The author and his stories are the most searched subjects online among Chinese people in relation to Denmark .
+########
+32
+<EOP> .
+########
+33
+The survey also shows that the number of individual Chinese travelers to the country is increasing and that independent tourists stay in Denmark for longer than visitors who are part of tour groups .
+travelers	10	CT+	PS+
+########
+34
+<EOP> .
+########
+35
+Among Chinese people who have visited the city who were surveyed , 81 percent said they would be interested in visiting Copenhagen again .
+would	16	ps_cue
+########
+36
+<EOP> .
+########
+37
+According to Bruhn , the top three tourist attractions among Chinese tourists are : the Hans Christian Andersen museum in Odense , Kronborg Castle , which is associated with William Shakespeare 's Hamlet , and Amalienborg Palace in Copenhagen , the home of the royal family .
+########
+38
+Bruhn said Chinese tourists also enjoy the city 's shopping opportunities .
+opportunities	10	ps_cue
+########
+39
+<EOP> .
+########
+40
+Around 1,300 guests are expected to attend the closing ceremony of the 2017 China_Denmark Tourism Year , including delegations from tourism organizations , diplomats , and students .
+expected	4	ps_cue
+########
+41
+<EOP> .
+########
+42
+In the future , in a bid to further grow the number of Chinese tourists visiting the country , China and Denmark may consider operating more direct flights between the nations .
+visiting	15	CT+	PS+
+may	22	ps_cue
+consider	23	ps_cue
+########
+43
+<EOP> .
+########
+44
+`` We will continue all the good work in 2018 and get more Chinese tourists to come to Denmark , experience more of Denmark , and stay longer in Denmark , '' Bruhn said .
+tourists	14	CT+	PS+
+will	2	ps_cue
+########
+45
+<EOP> .
+########
+46
+Zhang Yangfei contributed to this story .
+########
+47
+<EOP> .
+########

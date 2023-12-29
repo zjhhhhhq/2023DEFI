@@ -1,0 +1,97 @@
+Did China and Panama decide to establish formal relations on Tuesday 
+0
+China and Panama establish diplomatic relations <EOP> .
+########
+1
+2017_06_13 09:29 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+<EOP> .
+########
+4
+Panama 's Vice_President and Foreign Minister Isabel de Saint Malo , left , and Chinese Foreign Minister Wang Yi pose with their documents after signing a joint communique on establishing diplomatic relations during a press briefing in Beijing , June 13 , 2017 .
+########
+5
+LRB Photo_VCG RRB <EOP> .
+########
+6
+China and Panama decided to establish formal relations on Tuesday , according to a joint statement released after a meeting between their foreign ministers in Beijing .
+establish	5	CT+	CT+
+########
+7
+<EOP> .
+########
+8
+The People 's Republic of China and the Republic of Panama , in accordance with the interests and willingness of their people , decided to recognize each other and establish ambassadorial level diplomatic relations from the signing of the statement , it said .
+establish	29	CT+	CT+
+########
+9
+<EOP> .
+########
+10
+According to the statement , the Panama government admits that there is only one China , the government of the PRC is the only legitimate government that represents China , and Taiwan is an integral part of Chinese territories .
+########
+11
+<EOP> .
+########
+12
+The Panama government also broke its `` diplomatic ties '' with Taiwan , and promised that it will never establish any official relations with it , nor conduct any official contact .
+will	17	ps_cue
+never	18	neg_cue
+nor	26	neg_cue
+########
+13
+<EOP> .
+########
+14
+The Chinese government commended the government of Panama for its above_mentioned position .
+########
+15
+<EOP> .
+########
+16
+Foreign Minister Wang Yi and his Panamanian counterpart Isabel de Saint Malo , who is also Panama 's vice_president , met the media on Tuesday in Beijing after their meeting .
+########
+17
+<EOP> .
+########
+18
+`` This is a historic moment , and the China_Panama relationship has opened a new chapter , '' Wang said .
+########
+19
+<EOP> .
+########
+20
+Hailing the establishment of ties as an important political decision made by the Panama government , Wang said it fully conforms to the fundamental interests of both Panama and its people .
+########
+21
+<EOP> .
+########
+22
+`` The Chinese government and people highly appreciate and welcome it , '' he said .
+########
+23
+<EOP> .
+########
+24
+After the two ministers ' `` cordial and fruitful '' meeting , Wang said both sides agreed that the one China policy is the fundamental precondition and political foundation for the two countries to establish ties and develop their relationship .
+########
+25
+<EOP> .
+########
+26
+Both sides will make full use of their complementary advantages and conduct cooperation in various areas including trade , investment , maritime affairs , culture and education as well as tourism .
+will	2	ps_cue
+########
+27
+<EOP> .
+########
+28
+`` China welcomes Panama to actively participate in the Belt and Road construction , '' Wang added .
+########
+29
+<EOP> .
+########

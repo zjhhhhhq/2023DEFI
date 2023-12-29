@@ -1,0 +1,94 @@
+Do China , ROK 6_Party envoys meet
+0
+China , ROK 6_Party envoys to meet <EOP> .
+meet	6	CT+	CT+
+########
+1
+2018_01_05 09:12 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+Chinese and Republic of Korea chief delegates to the Six_Party Talks will meet to discuss the situation on the Korean Peninsula , Foreign Ministry spokesman Geng Shuang confirmed on Thursday .
+meet	12	CT+	CT+
+will	11	ps_cue
+########
+4
+<EOP> .
+########
+5
+Kong Xuanyou , vice_foreign minister and China 's special representative on the Korean Peninsula affairs , will visit Seoul on Friday and Saturday and meet with his ROK counterpart Lee Do_hoon .
+will	16	ps_cue
+########
+6
+<EOP> .
+########
+7
+The meeting comes shortly after a cross_border communication hotline between Pyongyang and Seoul was reopened on Wednesday , after being shut down for about two years .
+meeting	1	CT+	CT+
+########
+8
+<EOP> .
+########
+9
+Pyongyang and Seoul have been exchanging positive messages to reduce hostility since the New Year .
+########
+10
+Pyongyang said it 's willing to send a delegation to the 2018 Winter Olympics .
+willing	4	ps_cue
+########
+11
+<EOP> .
+########
+12
+Geng called for the international community to support the efforts by Pyongyang and Seoul and all related parties to do more to reduce tensions and enhance mutual trust .
+########
+13
+<EOP> .
+########
+14
+China has always believed it is in line with the fundamental interests of Pyongyang and Seoul when they conduct talks for improvement of ties and reconciliation , Geng said .
+believed	3	ps_cue
+########
+15
+<EOP> .
+########
+16
+Such talks will also help cool the situation on the peninsula , promote denuclearization and regional security , he added .
+talks	1	CT+	CT+
+will	2	ps_cue
+########
+17
+<EOP> .
+########
+18
+Da Zhigang , director of the Institute of Northeast Asian Studies at the Heilongjiang Provincial Academy of Social Sciences , said the meeting between Kong and Lee shows Beijing 's support for the positive development , as well as its hope for consolidating the momentum for peace .
+hope	40	ps_cue
+########
+19
+<EOP> .
+########
+20
+Beijing and Seoul share the same interests when it comes to peace on the peninsula , and Kong 's visit will help turn the conciliatory signals into further action , Da said .
+will	20	ps_cue
+########
+21
+<EOP> .
+########
+22
+Ruan Zongze , vice_president of the China Institute of International Studies , said the 2018 Winter Olympics could provide a window of opportunity for peace on the peninsula .
+could	17	ps_cue
+########
+23
+<EOP> .
+########
+24
+Zhou Jin contributed to this story .
+########
+25
+<EOP> .
+########
+26
+wangqingyun@chinadaily.com.cn <EOP> .
+########

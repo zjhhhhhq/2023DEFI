@@ -1,0 +1,134 @@
+Will polls bring rural boon
+0
+Voters hope polls will bring rural boon <EOP> .
+polls	2	PS+	PS+
+hope	1	ps_cue
+will	3	ps_cue
+########
+1
+2017_06_05 07:40 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+<EOP> .
+########
+4
+A Buddhist monk casts his ballot at a polling station in Phnom Penh on Sunday .
+polling	8	CT+	PS+
+########
+5
+Millions of Cambodians started voting in local polls in what many observers say is a warmup for next year 's national elections.Tang Chhin Sothy _ Agence Francepresse <EOP> .
+polls	7	CT+	PS+
+########
+6
+KANDAL , Cambodia _ Millions of Cambodians voted in local polls on Sunday in what many observers are viewing as a warm_up for next year 's national elections .
+polls	10	CT+	PS+
+########
+7
+<EOP> .
+########
+8
+While there have been political tensions at the national level in recent times , Cambodians are confident that their votes will bring good leaders to rural areas .
+will	20	ps_cue
+########
+9
+<EOP> .
+########
+10
+`` The election is crucial to electing good commune chiefs and councilors who care about the people and devote their physical and mental energies to commune and village development , '' 56_year_old businesswoman Seang Chantheng said after casting her vote at a polling station in the southern Kandal province .
+polling	42	CT+	PS+
+########
+11
+<EOP> .
+########
+12
+She said she voted for the ruling Cambodian People 's Party since it has brought peace and development to the country .
+########
+13
+<EOP> .
+########
+14
+`` The party I trust , the party I have always supported is the Cambodian People 's Party and today I voted for the party , '' she said .
+########
+15
+<EOP> .
+########
+16
+Eang Dane , 19 , a high_school student in the capital of Phnom Penh , said she also cast her ballot for the CPP and believed that only leaders from the CPP could bring real development to the grassroots people .
+believed	25	ps_cue
+could	32	ps_cue
+########
+17
+<EOP> .
+########
+18
+`` It was the first time I have voted , I 'm really happy , '' she said after voting at a station in Phnom Penh .
+########
+19
+`` I love the CPP because the party has brought peace and development to our country . ''
+love	2	ps_cue
+########
+20
+<EOP> .
+########
+21
+Kim Sokhonn , a 46_year_old housewife who voted at a polling station in Kandal province , is hoping for a free and fair election .
+polling	10	CT+	PS+
+hoping	17	ps_cue
+########
+22
+<EOP> .
+########
+23
+`` I hope that all political parties will accept the election results .
+hope	2	ps_cue
+will	7	ps_cue
+########
+24
+I do n't want to see the situation like it was in 2013 , '' she said , referring to the national elections in July 2013 in which the main opposition Cambodia National Rescue Party did not recognize the election results and staged mass protests for months .
+n't	2	neg_cue
+like	8	ps_cue
+opposition	30	neg_cue
+not	36	neg_cue
+########
+25
+<EOP> .
+########
+26
+CPP President and Cambodian Prime Minister Samdech Techo Hun Sen voted at a polling station near his mansion in Kandal province , roughly 10 kilometers south of the capital on Sunday , while CNRP President Kem Sokha cast his ballot in Phnom Penh .
+polling	13	CT+	PS+
+########
+27
+<EOP> .
+########
+28
+Hun Sen said during an election campaign on Friday that he was confident that the CPP would continue to win the majority in the polls .
+would	16	ps_cue
+########
+29
+<EOP> .
+########
+30
+`` There is only the CPP that has sufficient capacity to govern Cambodia and to maintain the country 's peace and development , '' he said .
+########
+31
+<EOP> .
+########
+32
+Held every five years , the commune elections are being seen as a bellwether of the ruling party 's support ahead of the national elections in July 2018 .
+########
+33
+<EOP> .
+########
+34
+In the last commune elections in June 2012 , the CPP gained 61.9 percent of the votes , compared to about 30.6 percent for the opposition .
+opposition	25	neg_cue
+########
+35
+<EOP> .
+########
+36
+Xinhua <EOP> .
+########

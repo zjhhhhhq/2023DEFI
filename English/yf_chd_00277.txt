@@ -1,0 +1,63 @@
+Does US President Donald Trump visit Beijing 
+0
+Live : US President Donald Trump lands in Beijing , kicking off three_day state visit <EOP> .
+visit	14	CT+	CT+
+########
+1
+2017_11_08 13:25 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+1:45 pm <EOP> .
+########
+4
+US President Donald Trump lands in Beijing , kicking off three_day state visit <EOP> .
+visit	12	CT+	CT+
+########
+5
+US President Donald Trump arrived in Beijing on Wednesday afternoon , kicking off a three_day state visit to China .
+visit	16	CT+	CT+
+########
+6
+<EOP> .
+########
+7
+The visit will provide opportunities for President Xi Jinping and Trump to exchange in_depth views on issues that concern both sides and is expected to yield positive results for bilateral ties .
+visit	1	CT+	CT+
+will	2	ps_cue
+opportunities	4	ps_cue
+concern	18	ps_cue
+expected	23	ps_cue
+########
+8
+<EOP> .
+########
+9
+12:05 pm <EOP> .
+########
+10
+National flags of China and US fly high along Chang ` an Avenue before Trump_Xi meeting <EOP> .
+########
+11
+National flags of China and the US are hung up on the lamp posts in front of the Tian ` anmen Rostrum , Nov 8 , 2017 .
+########
+12
+LRB Photo by Zhu Xingxin_China Daily RRB <EOP> .
+########
+13
+<EOP> .
+########
+14
+<EOP> .
+########
+15
+<EOP> .
+########
+16
+National flags of China and the US are hung up on the lamp posts in front of the Tian ` anmen Rostrum , Nov 8 , 2017 .
+########
+17
+LRB Photo by Zhu Xingxin_China Daily RRB <EOP> .
+########

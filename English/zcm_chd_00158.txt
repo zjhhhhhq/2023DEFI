@@ -1,0 +1,162 @@
+Is the administration targeting Muslims
+0
+Trump travel ban partly reinstated <EOP> .
+ban	2	neg_cue
+########
+1
+2017_06_27 09:31 <EOP> .
+########
+2
+null <EOP> .
+########
+3
+A Saudi family embraces as members arrive at Washington Dulles International Airport after the US Supreme Court granted parts of the Trump administration 's emergency request to put its travel ban into effect later in the week pending further judicial review , in Dulles , Virginia , US , June 26 , 2017 .
+ban	30	neg_cue
+########
+4
+LRB Photo_Agencies RRB <EOP> .
+########
+5
+The justices will hear full arguments in October in the case that has stirred heated emotions across the nation and pointed rebukes from lower courts saying the administration is targeting Muslims .
+targeting	29	CT+	CT-
+will	2	ps_cue
+########
+6
+Until then , the court said Monday , Trump 's ban on visitors from Iran , Libya , Somalia , Sudan , Syria and Yemen can be enforced if those visitors lack a `` credible claim of a bona fide relationship with a person or entity in the United States .
+ban	10	neg_cue
+can	25	ps_cue
+lack	31	neg_cue
+or	44	ps_cue
+########
+7
+`` The ruling sets up a potential clash between the government and opponents of the ban over the strength of visitors ' ties to the United States .
+potential	6	ps_cue
+ban	15	neg_cue
+########
+8
+A senior official said plans already had been written to enforce the ban aggressively .
+plans	4	ps_cue
+ban	12	neg_cue
+########
+9
+But immigrant groups said relatively few people try to enter the United States without well_established ties .
+without	13	neg_cue
+########
+10
+Those groups said they will be sending lawyers and monitors back to American airports , where the initial , immediate implementation of the ban in January caused chaos and confusion .
+will	4	ps_cue
+ban	23	neg_cue
+########
+11
+<EOP> .
+########
+12
+State Department spokeswoman Heather Nauert said the ban would be implemented starting 72 hours after being cleared by courts .
+ban	7	neg_cue
+would	8	ps_cue
+########
+13
+That means it will take effect Thursday morning .
+will	3	ps_cue
+########
+14
+<EOP> .
+########
+15
+The president has denied that the ban targets Muslims but says it is needed `` to protect the nation from terrorist activities '' committed by citizens of the six countries .
+targets	7	CT-	CT-
+denied	3	neg_cue
+ban	6	neg_cue
+########
+16
+All six have been designated as presenting heightened concerns about terrorism and travel to the United States .
+########
+17
+<EOP> .
+########
+18
+The 90_day ban is necessary to allow an internal review of screening procedures for visa applicants from the countries , the administration says .
+ban	2	neg_cue
+########
+19
+That review should be complete before Oct. 2 , the first day the justices could hear arguments in their new term .
+should	2	ps_cue
+could	14	ps_cue
+########
+20
+<EOP> .
+########
+21
+The ban will have run its course by then , raising a question of whether the justices will even issue a decision in the case or dismiss it because it has been overtaken by events .
+ban	1	neg_cue
+will	2	ps_cue
+question	12	ps_cue
+whether	14	ps_cue
+will	17	ps_cue
+or	25	ps_cue
+########
+22
+<EOP> .
+########
+23
+The court asked both sides to address the issue of timing , along with questions about whether the ban is aimed at Muslims , the impact of Trump 's provocative campaign statements and federal courts ' authority to restrain the president in the area of immigration .
+aimed	20	Uu	CT-
+whether	16	ps_cue
+ban	18	neg_cue
+########
+24
+<EOP> .
+########
+25
+A 120_day ban on refugees also is being allowed to take effect on a similar , limited basis .
+ban	2	neg_cue
+########
+26
+<EOP> .
+########
+27
+Three of the court 's conservative justices said they would have let the administration apply the bans without the limits imposed by their colleagues .
+would	9	ps_cue
+bans	16	neg_cue
+without	17	neg_cue
+########
+28
+<EOP> .
+########
+29
+Justice Clarence Thomas , joined by Samuel Alito and Neil Gorsuch , said the government has shown it is likely to win the legal case in the end .
+likely	19	ps_cue
+########
+30
+Thomas said the government 's interest in preserving national security outweighs any hardship to people denied entry into the country .
+denied	15	neg_cue
+########
+31
+<EOP> .
+########
+32
+Trump hailed the court 's order as a `` clear victory for our national security , '' especially after lower court rulings that blocked the travel ban in its entirety .
+blocked	23	neg_cue
+ban	26	neg_cue
+########
+33
+He said in a statement that his `` number one responsibility '' is to keep Americans safe .
+########
+34
+<EOP> .
+########
+35
+His administration 's implementation plans , largely orchestrated by White House adviser Stephen Miller , focus on refusing entry to people who are unable to show a substantial and pre_existing tie to a person or institution in the United States .
+plans	4	ps_cue
+refusing	17	neg_cue
+unable	23	neg_cue
+or	34	ps_cue
+########
+36
+The plans were described by a senior official who was familiar with them , speaking on condition of anonymity because this person was not authorized to discuss them publicly by name .
+plans	1	ps_cue
+not	23	neg_cue
+########
+37
+<EOP> .
+########

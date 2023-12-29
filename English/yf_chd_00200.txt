@@ -1,0 +1,67 @@
+Does China deepen its relationship with the US at a dialogue
+0
+Political leaders : Sino_US relations to grow <EOP> .
+########
+1
+2017_12_05 07:58 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+China is poised in the new era to deepen its relationship with the United States in their shared pursuit of a better world , and bilateral exchanges among political parties should play a bigger role , veteran politicians and strategists said on Monday in Beijing at a dialogue between the Communist Party of China and US political parties .
+dialogue	47	CT+	CT+
+should	30	ps_cue
+########
+4
+<EOP> .
+########
+5
+Song Tao , head of the International Department of the CPC Central Committee , said the dialogue offers a chance to put into practice several crucial consensuses to strengthen bilateral ties reached between President Xi Jinping and US President Donald Trump during the US leader 's first visit to China last month .
+########
+6
+<EOP> .
+########
+7
+The 10th US_China Political Party Leaders Dialogue , attended by some 50 delegates from both countries , came under the framework of the CPC in Dialogue with World Political Parties High_Level Meeting , which concluded on Sunday .
+Dialogue	6	CT+	CT+
+########
+8
+Attendees on the US side were from both the controlling Republican Party and the Democratic Party , as well as from leading think tanks .
+########
+9
+<EOP> .
+########
+10
+Xi Jinping Thought on Socialism with Chinese Characteristics for a New Era , written into the Party Constitution during the 19th CPC National Congress in October , will inject fresh dynamism into the relationship , Song said .
+will	27	ps_cue
+########
+11
+<EOP> .
+########
+12
+Speaking highly of the 19th CPC National Congress and the just_concluded gathering between world political parties in Beijing , Ross Perot Jr. , chairman of the EastWest Institute , a global security nonprofit organization , said Monday 's dialogue `` can not be more well_timed '' .
+dialogue	38	CT+	CT+
+can	40	ps_cue
+not	41	neg_cue
+########
+13
+He hailed the congress as showcasing China 's vision to advance social development in the next five years .
+########
+14
+<EOP> .
+########
+15
+Alphonso Jackson , former secretary of Housing and Urban Development , said success is a `` two_way street '' , and dialogue and exchanges will lead to agreements .
+dialogue	21	CT+	CT+
+will	24	ps_cue
+########
+16
+`` I believe we have much to learn from each other , '' he said .
+########
+17
+<EOP> .
+########
+18
+cuishoufeng@chinadaily.com.cn <EOP> .
+########

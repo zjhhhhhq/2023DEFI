@@ -1,0 +1,126 @@
+Is there an increase in the number of visitors to Scotland 's whisky distilleries 
+0
+Chinese visitors boost whisky tourism <EOP> .
+########
+1
+2017_09_12 16:43 <EOP> .
+########
+2
+China Daily UK <EOP> .
+########
+3
+China 's growing appreciation for whisky has contributed to a surge in visits to Scottish distilleries .
+surge	10	CT+	CT+
+########
+4
+<EOP> .
+########
+5
+The number of visitors to Scotland 's whisky distilleries reached an all_time high of 1.7 million in 2016 , an increase of eight percent on the previous year , according to the Scotch Whisky Association .
+increase	20	CT+	CT+
+########
+6
+<EOP> .
+########
+7
+More than half of Scotland 's 123 Scotch whisky distilleries are open to the public .
+########
+8
+<EOP> .
+########
+9
+Diageo , one of the world 's largest producers of spirits , saw the strongest growth in visitors from China with a rise of 154 percent in admissions .
+rise	22	CT+	CT+
+########
+10
+<EOP> .
+########
+11
+But while Chinese tourist numbers remain fewer than those from key markets of Germany , the US and France , visitors from China spend nearly a third more .
+########
+12
+<EOP> .
+########
+13
+`` Scotch is not only Scotland 's most valuable export industry , it is the world 's most popular spirit , attracting thousands of international visitors every year , '' said Ewan Andrew , Diageo 's Scotland director .
+not	3	neg_cue
+########
+14
+`` The Scotch Whisky Association 's latest annual survey found that visits have increased by almost a quarter since 2010 . ''
+increased	13	CT+	CT+
+########
+15
+<EOP> .
+########
+16
+Scotch tourism is also going down well for visitors from Russia ; the country was highlighted as an emerging market with numbers up 146 percent year_on_year with an average spend similar to that of Chinese visitors .
+########
+17
+<EOP> .
+########
+18
+Andrew said that as demand for premium products and interest in whisky grows in China and Russia , `` tourists from these countries are visiting distilleries not only to purchase whisky straight from the distillery , but to discover the expertise and craft that goes into making every bottle '' .
+not	26	neg_cue
+########
+19
+<EOP> .
+########
+20
+In the last 12 months , the number of tourists visiting Diageo 's 12 distillery visitor centers in Scotland exceeded 400,000 , which is more than double what it was 8 years ago .
+########
+21
+<EOP> .
+########
+22
+Whisky continues to gain popularity in Asia , driven in part by rising middle_class incomes in China .
+########
+23
+<EOP> .
+########
+24
+The company estimated that more than one hundred new whisky bars or collector 's clubs opened last year in the world 's second_largest economy .
+or	11	ps_cue
+########
+25
+<EOP> .
+########
+26
+Diageo said the heritage , provenance and craft credentials of whisky are important factors for whisky lovers from China and their thirst for the spirit is shown through knowledge and a desire to refine their appreciation .
+########
+27
+<EOP> .
+########
+28
+According to Diageo 's 2017 report , net sales to China rose 25 percent , with whisky sales up 5 percent , driven by brands such as Johnnie Walker , The Singleton and other malts .
+up	18	CT+	CT+
+########
+29
+<EOP> .
+########
+30
+`` Scotch in China is doing very well and we 're growing market share in scotch , '' said Ivan Menezes , chief executive officer of Diageo .
+########
+31
+`` Our focus is on superpremium scotch .
+########
+32
+So Johnnie Walker , Blue Label and malt is where we see the strategic growth as I look at the next few years . ''
+########
+33
+<EOP> .
+########
+34
+China is currently the single largest alcohol market in the world .
+########
+35
+<EOP> .
+########
+36
+<EOP> .
+########
+37
+<EOP> .
+########
+38
+<EOP> .
+########

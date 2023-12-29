@@ -1,0 +1,166 @@
+Does Beijing reach consensus in UN
+0
+China calls for political solution on Syria issue <EOP> .
+########
+1
+2017_04_14 07:22 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+<EOP> .
+########
+4
+Beijing expresses regret over failure to reach consensus in UN <EOP> .
+reach	6	CT-	CT-
+failure	4	neg_cue
+########
+5
+<EOP> .
+########
+6
+China has made arduous efforts to push forward consensus on the Syria chemical weapon issue at the United Nations Security Council and regrets that the attempts have not yet paid off , the Foreign Ministry said on Thursday .
+forward	7	ps_cue
+forward	7	neg_cue
+not	27	neg_cue
+yet	28	neg_cue
+########
+7
+<EOP> .
+########
+8
+The ministry 's spokesman Lu Kang made the remarks at a daily news conference .
+########
+9
+<EOP> .
+########
+10
+Russia on Wednesday vetoed a Western draft resolution on an alleged chemical attack in Syria 's northwestern province of Idlib .
+########
+11
+Among 15 council members , 10 voted in favor ; Bolivia and the council 's veto_wielding power Russia voted against ; China , Ethiopia , Kazakhstan abstained .
+against	19	neg_cue
+########
+12
+<EOP> .
+########
+13
+China abstained on the Security Council draft resolution as `` some content can be amended to reach consensus '' , Lu said .
+can	12	ps_cue
+########
+14
+<EOP> .
+########
+15
+China 's Ambassador to the UN Liu Jieyi specified China 's stance after the vote .
+########
+16
+He said China supports the UN and the Organization for the Prohibition of Chemical Weapons in conducting a comprehensive , objective and impartial investigation into relevant cases .
+########
+17
+<EOP> .
+########
+18
+Liu said China supports the language in the text that condemns the use of chemical weapons and demands an investigation into the alleged chemical attack .
+condemns	10	neg_cue
+########
+19
+<EOP> .
+########
+20
+However , he said some elements of the text need to be amended to secure consensus among council members and therefore China abstained .
+need	9	ps_cue
+########
+21
+<EOP> .
+########
+22
+`` We deeply regret the failure to reach such consensus on the draft resolution , '' he said .
+reach	7	CT-	CT-
+failure	5	neg_cue
+########
+23
+<EOP> .
+########
+24
+Liu also called upon relevant parties to stay on the course for the political settlement to the Syrian issues , uphold the Syrian_owned and Syrian_led principle and support the UN as the main mediator .
+########
+25
+<EOP> .
+########
+26
+Lu , the ministry spokesman , stressed that China opposes use of the chemical weapons by anybody , in any situation and for any aim .
+########
+27
+<EOP> .
+########
+28
+`` Unity inside the UN Security Council is crucial for solving the Syria issue , '' he added .
+########
+29
+<EOP> .
+########
+30
+The document , drafted by the United Kingdom , France and the United States demanded the Syrian military to provide UN investigators with unfettered access to details of their operations on the day of the alleged attack .
+########
+31
+<EOP> .
+########
+32
+On April 4 , a reported toxic gas attack hit the rebel_held town of Khan Sheikhoun in Syria 's Idlib , killing more than 80 people and wounding scores of others .
+########
+33
+<EOP> .
+########
+34
+Two days later , the US launched 59 cruise missiles against the Shairat military base in central Syria , where the US believes airplanes carrying chemical weapons took off .
+against	10	neg_cue
+########
+35
+<EOP> .
+########
+36
+Ahead of the vote , Russia 's Deputy Representative to the UN Vladimir Safronkov told the council that putting the draft resolution into a vote did not serve a useful purpose .
+not	26	neg_cue
+########
+37
+<EOP> .
+########
+38
+Safronkov said Russia has proposed an independent international mission sent by the OPCW to visit Khan Sheikhoun and the Shairat air base for investigations .
+proposed	4	ps_cue
+########
+39
+<EOP> .
+########
+40
+He said that Russia hopes the US can give a constructive response to this suggestion .
+hopes	4	ps_cue
+can	7	ps_cue
+########
+41
+<EOP> .
+########
+42
+The Syrian government denied possession of chemical weapons .
+denied	3	neg_cue
+########
+43
+<EOP> .
+########
+44
+Meanwhile , the Syrian army said that an airstrike on Wednesday by the US_led coalition hit poison gas supplies belonging to the Islamic State group , releasing a toxic substance that killed `` hundreds including many civilians '' in Deir al_Zor province , Syrian state TV said on Thursday .
+########
+45
+<EOP> .
+########
+46
+Xinhua and Reuters contributed to this story .
+########
+47
+<EOP> .
+########
+48
+lixiaokun@chinadaily.com.cn <EOP> .
+########

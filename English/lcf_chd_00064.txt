@@ -1,0 +1,119 @@
+Will EU states pump ` sufficient ' money to stem illegal migration
+0
+EU states to pump ` sufficient ' money to stem illegal migration : Tusk <EOP> .
+pump	3	CT+	CT+
+########
+1
+2017_10_20 09:05 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+<EOP> .
+########
+4
+European Council President Donald Tusk holds a news conference during a European Union leaders summit meeting in Brussels , Belgium , Oct 19 , 2017 .
+########
+5
+LRB Photo_Agencies RRB <EOP> .
+########
+6
+BRUSSELS _ Member states of the European Union LRB EU RRB will pump `` sufficient '' money into a trust fund to stem illegal migration from North Africa , European Council President Donald Tusk said here on Thursday .
+pump	12	CT+	CT+
+will	11	ps_cue
+########
+7
+<EOP> .
+########
+8
+He made the remarks at a joint press conference with his European Commission counterpart Jean_Claude Juncker , following a first day meeting of the two_day EU summit , which focused on migration , digital Europe , as well as security and defense .
+########
+9
+<EOP> .
+########
+10
+He said EU leaders have agreed on the need to help Italy manage the Central Mediterranean route , which links Libya to Italy and was named as the deadliest route to Europe by the International Organization for Migration LRB IOM RRB in a study published in September 2017 .
+need	8	ps_cue
+########
+11
+<EOP> .
+########
+12
+`` We have a real chance of closing the Central Mediterranean route .
+########
+13
+That is why we decided that member states will provide sufficient finances for the North Africa window of the Trust Fund for Africa , while the Commission ensures that this money is channeled to stem illegal migration , '' Tusk said .
+provide	9	CT+	CT+
+will	8	ps_cue
+########
+14
+<EOP> .
+########
+15
+`` We should see concrete results within the next few weeks , '' he added .
+should	2	ps_cue
+########
+16
+<EOP> .
+########
+17
+As Libya is at the forefront of EU 's efforts to stem illegal migration in the central Mediterranean route , EU leaders reiterated `` the importance of working with the Libyan authorities and all neighbors of Libya to enhance border management capacity , '' according to the EU summit .
+########
+18
+<EOP> .
+########
+19
+EU leaders also underscored the urgency of supporting the development of the local communities in Libya along the migratory routes . ''
+########
+20
+<EOP> .
+########
+21
+To consolidate the declining trend of migrant inflow , the European Council also called on all member states to fully abide by the deal with Turkey .
+########
+22
+<EOP> .
+########
+23
+Since the summer of 2015 , an unprecedented refugee crisis has been a tough nut to crack for the EU .
+########
+24
+<EOP> .
+########
+25
+<EOP> .
+########
+26
+<EOP> .
+########
+27
+Thanks to an `` aid for return '' deal with Turkey in March 2016 , the EU boxed in the inflow of refugees via the eastern Mediterranean route , which saw a 98 percent plunge of arrivals .
+########
+28
+<EOP> .
+########
+29
+However , the EU still bears the brunt of migratory pressure , particularly from the central Mediterranean route .
+########
+30
+<EOP> .
+########
+31
+The IOM , the United Nations Migration Agency , reported Tuesday that 145,355 migrants and refugees had entered Europe by sea up to Oct. 15 this year , with over 75 percent arriving in Italy and the rest landing in Greece , Cyprus , and Spain .
+########
+32
+<EOP> .
+########
+33
+Meanwhile , 2,776 people have died trying to cross the Mediterranean this year , according to the IOM .
+########
+34
+<EOP> .
+########
+35
+A total of 387,895 migrants and refugees reached Europe in 2016 , with a record high fatality of 5,143 in the Mediterranean Sea .
+########
+36
+<EOP> .
+########

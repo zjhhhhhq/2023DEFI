@@ -1,0 +1,55 @@
+Do polling stations open
+0
+Polling stations open as the UK chooses a new government <EOP> .
+open	2	CT+	CT+
+########
+1
+2017_06_08 14:31 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+<EOP> .
+########
+4
+<EOP> .
+########
+5
+Voters are outside a polling station to cast ballot after UK 's general election kicks off on June 8 in London , UK .
+########
+6
+Photo by Yang Jing <EOP> .
+########
+7
+Polling stations in the United Kingdom opened at 7:00 am on Thursday as voters choose a government to negotiate its departure from the European Union amid increased tension after a succession of terrorist attacks that have left 35 people dead .
+opened	6	CT+	CT+
+########
+8
+<EOP> .
+########
+9
+Around 40,000 polling stations in churches , schools and other buildings opened , in some cases guarded by armed police .
+opened	11	CT+	CT+
+########
+10
+Police in London made three more arrests on Wednesday in connection with Saturday 's attacks which left eight dead .
+########
+11
+The BBC reported that further arrests took place at dawn on Thursday in east London .
+########
+12
+<EOP> .
+########
+13
+Rain is forecast in many northern and western parts of the country which some commentators believe could affect turnout .
+forecast	2	ps_cue
+could	16	ps_cue
+########
+14
+In fact , there is no data to show that rain has ever reduced turnout in previous general elections in the UK .
+no	5	neg_cue
+########
+15
+<EOP> .
+########

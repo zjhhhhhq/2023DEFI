@@ -1,0 +1,170 @@
+Is there sign of missing plane
+0
+Body count grows , but no sign of missing plane <EOP> .
+sign	6	CT-	CT-
+no	5	neg_cue
+missing	8	neg_cue
+########
+1
+2017_06_10 07:15 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+<EOP> .
+########
+4
+YANGON_SANLAN , Myanmar _ The tally of retrieved bodies rose to 31 on Friday as Myanmar 's hunt for a military transport plane that went missing over the Andaman Sea with 122 people on board stretched into a third day .
+missing	25	neg_cue
+########
+5
+<EOP> .
+########
+6
+Heavy rains and churning seas hampered search efforts for victims of Wednesday 's incident .
+########
+7
+Eight navy ships and sonar systems had joined the search , along with 20 civilian boats in stormy weather off the southern coast , the military said .
+########
+8
+<EOP> .
+########
+9
+`` We have not received any information about survivors , '' said Phyu Phyu Win , a regional social welfare and relief official .
+received	4	CT-	CT-
+not	3	neg_cue
+########
+10
+`` Hopefully someone has survived . ''
+Hopefully	1	ps_cue
+########
+11
+<EOP> .
+########
+12
+Scores of soldiers were poised to assist if more bodies are carried ashore in the fishing village of Sanlan , about 600 kilometers from Myanmar 's largest city , Yangon .
+########
+13
+<EOP> .
+########
+14
+The bodies of 23 adults and eight children have been recovered from the Andaman Sea near the coastal town of Launglon since rescue efforts began on Wednesday , the military said .
+########
+15
+<EOP> .
+########
+16
+By morning , swelling waters covered Sanlan beach , where hundreds of people gathered on Thursday to watch the first bodies being brought to shore wrapped in plastic bags .
+########
+17
+<EOP> .
+########
+18
+Fisherman Min Oo said he helped carry the bodies in his boat from navy ships , which could not get close to the beach .
+could	17	ps_cue
+not	18	neg_cue
+########
+19
+<EOP> .
+########
+20
+`` I felt sorry when I saw the bags , '' he said .
+########
+21
+`` I have a family as well '' .
+########
+22
+<EOP> .
+########
+23
+Soldiers , family members and crew were on board when the weekly flight to Yangon went missing .
+missing	16	neg_cue
+########
+24
+<EOP> .
+########
+25
+The China_made Y_8F_200W transport plane lost contact 29 minutes after takeoff at an altitude of 5,500 meters over the Andaman Sea , about 70 km west of the town of Dawei , the military said .
+########
+26
+<EOP> .
+########
+27
+An aircraft wheel , two life jackets and some bags with clothes _ believed to be from the missing plane _ were found on Thursday .
+believed	13	ps_cue
+missing	18	neg_cue
+########
+28
+Some patches of oil were also spotted , the military said .
+########
+29
+<EOP> .
+########
+30
+The cause of the incident has yet to be confirmed .
+yet	6	neg_cue
+########
+31
+<EOP> .
+########
+32
+State_owned China National Aero_Technology Import and Export Corporation , maker of the plane , has said it would assist Myanmar authorities in the investigation into the crash .
+would	17	ps_cue
+########
+33
+<EOP> .
+########
+34
+Survivors are unlikely more than 24 hours after the plane lost contact , despite warm sea temperatures , experts have said .
+unlikely	2	ps_cue
+unlikely	2	neg_cue
+########
+35
+<EOP> .
+########
+36
+Many bodies had fragmented into several pieces and no victim wearing a life jacket has yet been recovered , said a member of the emergency team .
+no	8	neg_cue
+yet	15	neg_cue
+########
+37
+<EOP> .
+########
+38
+Aircraft accidents , involving both civilian and military planes , are not uncommon in Myanmar .
+not	11	neg_cue
+########
+39
+<EOP> .
+########
+40
+A military helicopter crashed last June in central Myanmar , killing three military personnel .
+########
+41
+<EOP> .
+########
+42
+Five were killed in February last year when an air force aircraft crashed in the capital , Naypyitaw , media said .
+########
+43
+<EOP> .
+########
+44
+Reuters _ Afp <EOP> .
+########
+45
+<EOP> .
+########
+46
+<EOP> .
+########
+47
+<EOP> .
+########
+48
+<EOP> .
+########
+49
+LRB China Daily 06_10_2017 page8 RRB <EOP> .
+########

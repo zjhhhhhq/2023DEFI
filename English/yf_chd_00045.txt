@@ -1,0 +1,139 @@
+Do Chinese investors target the lucrative market of private schools
+0
+China investors warm up to US private schools <EOP> .
+warm	2	CT+	CT+
+########
+1
+2017_12_29 16:28 <EOP> .
+########
+2
+China Daily USA <EOP> .
+########
+3
+Following the flow of Chinese students flocking to the United States for their K_12 education , Chinese investors are starting to target the lucrative market of private schools .
+target	21	CT+	CT+
+########
+4
+<EOP> .
+########
+5
+This month , two Chinese firms reportedly purchased two private schools in the US , in the hopes of cashing in on Chinese students ' quest for admission into a US college .
+hopes	17	ps_cue
+########
+6
+<EOP> .
+########
+7
+Primavera Capital , a China_based private equity firm , paid about $ 500 million for the Stratford School system , which operates schools throughout California , according to Reuters .
+########
+8
+The school system offers K_8 programs focusing on science , technology , engineering , arts and math .
+########
+9
+<EOP> .
+########
+10
+Last week , another private school , Florida Preparatory Academy , was sold to a Chinese education company , Newopen Group , at an undisclosed price , according to Florida Today .
+########
+11
+<EOP> .
+########
+12
+The school said the Chinese company will invest more in upgrading facilities and academic programs at the 11_acre campus .
+will	6	ps_cue
+########
+13
+The company is planning to create a network of schools throughout the country , according to the report .
+planning	3	ps_cue
+########
+14
+<EOP> .
+########
+15
+`` The private education sector in the US is a well established industry in general , and vibrant part of the Bay Area and Silicon Valley business landscape in particular , '' said Shin Wei , CEO and co_founder of IvyMax , a California_based college_admissions counseling firm .
+########
+16
+<EOP> .
+########
+17
+`` Leveraging the education expertise in the US will become a more prevalent approach for Chinese investors to gain an early advantage in the education business to serve the ever expanding needs of China , '' he said .
+become	9	CT+	CT+
+will	8	ps_cue
+needs	31	ps_cue
+########
+18
+<EOP> .
+########
+19
+China continues to be the top country of origin for international students studying in the US , and Chinese students are coming to the US at a younger age , according to the Institute of International Education LRB IIE RRB .
+continues	1	CT+	CT+
+########
+20
+<EOP> .
+########
+21
+Around 2 in 5 international students enrolled in US high schools are from China , and the number of Chinese students studying in US high schools has skyrocketed by 48 percent since 2013 , according to the IIE 's report Globally Mobile Youth : Trends in International Secondary Students in the US , 2013_2016 .
+########
+22
+<EOP> .
+########
+23
+The strong demand comes from the Chinese families ' belief that the experience at US secondary schools will increase their children 's chances of being accepted to US universities .
+will	17	ps_cue
+########
+24
+<EOP> .
+########
+25
+`` The fact that the Stratford Schools focus on the K_8 group highlights the potential for future opportunities in that special niche , especially for China , '' said Wei .
+potential	14	ps_cue
+opportunities	17	ps_cue
+########
+26
+<EOP> .
+########
+27
+The growing trend among younger Chinese students to study at US elementary and secondary schools could also be a result of the growing middle class in China , as parents want their children to receive high_quality education , according to the report .
+could	15	ps_cue
+########
+28
+<EOP> .
+########
+29
+It 's easier for Chinese students to enroll in private schools than public schools on an F_1 visa , which is granted to students enrolled in programs that confer degrees , diplomas or certificates at the elementary , secondary or college level , or in language training programs .
+or	32	ps_cue
+or	39	ps_cue
+or	43	ps_cue
+########
+30
+<EOP> .
+########
+31
+`` Perhaps LRB the Stratford deal RRB signals that such a parallel education sector to the government_sponsored , public system will take shape in coming years , '' said Wei .
+will	20	ps_cue
+########
+32
+On the other hand , he added , the K_8 private schools in China will look to the US schools like Stratford as models .
+will	14	ps_cue
+like	20	ps_cue
+########
+33
+<EOP> .
+########
+34
+`` Such deals will not fundamentally change the Stratford or Florida Preparatory Academy , but they will make other players in the private education industry in the US more appealing acquisition targets , '' said Wei .
+make	17	CT+	CT+
+will	3	ps_cue
+not	4	neg_cue
+or	9	ps_cue
+will	16	ps_cue
+########
+35
+<EOP> .
+########
+36
+liazhu@chinadailyusa.com <EOP> .
+########
+37
+<EOP> .
+########

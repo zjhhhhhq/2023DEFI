@@ -1,0 +1,156 @@
+Did Australia search for MH370
+0
+MH370 search reveals hidden undersea world <EOP> .
+search	1	CT+	CT+
+########
+1
+2017_07_21 09:00 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+<EOP> .
+########
+4
+SYDNEY _ The painstaking search for missing Malaysia Airlines Flight MH370 has uncovered a previously unknown undersea world of volcanoes , deep valleys and soaring ridges , according to detailed maps released by Australia .
+search	4	CT+	CT+
+missing	6	neg_cue
+unknown	15	ps_cue
+########
+5
+<EOP> .
+########
+6
+Although no trace of the plane was found during the search in the southern Indian Ocean _ the most expensive ever of its kind _ large volumes of data showing a detailed picture of the sea floor had to be collected to guide the probe .
+search	10	CT+	CT+
+no	1	neg_cue
+########
+7
+<EOP> .
+########
+8
+Scientists are hopeful the new maps will give their community greater insight into oceans .
+hopeful	2	ps_cue
+will	6	ps_cue
+########
+9
+`` It is estimated that only 10 to 15 percent of the world 's oceans have been surveyed with the kind of technology used in the search for MH370 , '' Geoscience Australia 's environmental geoscience chief Stuart Minchin said late Wednesday .
+search	26	CT+	CT+
+########
+10
+<EOP> .
+########
+11
+`` LRB That makes RRB this remote part of the Indian Ocean among the most thoroughly mapped regions of the deep ocean on the planet .
+########
+12
+<EOP> .
+########
+13
+`` So this data is unique both because of the remote location of the search area , and because of the sheer scale of the area surveyed . ''
+search	14	CT+	CT+
+########
+14
+<EOP> .
+########
+15
+Minchin said the maps would also be useful for future scientific research , such as oceanographic and habitat modeling .
+research	11	CT+	CT+
+would	4	ps_cue
+########
+16
+<EOP> .
+########
+17
+Australia , Malaysia and China suspended the hunt in January , almost three years after the Boeing 777 disappeared with 239 people on board .
+suspended	5	neg_cue
+########
+18
+<EOP> .
+########
+19
+The hunt _ based on satellite analysis of the jet 's likely trajectory after it diverted from its flight path _ covered a 120,000 square_kilometer designated zone , an area slightly smaller than England .
+likely	11	ps_cue
+########
+20
+<EOP> .
+########
+21
+Two shipwrecks were discovered during the search but no trace of the plane , deepening one the most enduring mysteries of the aviation age .
+no	8	neg_cue
+########
+22
+<EOP> .
+########
+23
+However , the data revealed ridges 6_km_wide and 15_km_long that rise 1.5 km above the sea floor , as well as fault valleys 1.2 km deep and 5 km wide .
+########
+24
+<EOP> .
+########
+25
+A second set of data will be released in mid_2018 .
+will	5	ps_cue
+########
+26
+<EOP> .
+########
+27
+While the search for the missing plane has been called off , Canberra has said it could be restarted if new evidence about the specific location of the aircraft emerges .
+search	2	CT+	CT+
+missing	5	neg_cue
+could	16	ps_cue
+########
+28
+<EOP> .
+########
+29
+`` We remain hopeful that new information will come to light and that at some point in the future the aircraft will be located , '' Australia 's Transport Minister Darren Chester said .
+hopeful	3	ps_cue
+will	7	ps_cue
+will	21	ps_cue
+########
+30
+<EOP> .
+########
+31
+Australia 's national science body CSIRO released a report in April confirming that MH370 was `` most likely '' north of the former search zone .
+likely	17	ps_cue
+########
+32
+<EOP> .
+########
+33
+Three fragments from the plane have been recovered washed up on western Indian Ocean shores , including a two_meter wing part known as a flaperon found on La Reunion Island .
+########
+34
+<EOP> .
+########
+35
+Speculation on the cause of the plane 's disappearance has focused primarily on possible hijacking , rogue pilot action or mechanical failure , but nothing has yet been proved .
+disappearance	8	neg_cue
+possible	13	ps_cue
+or	19	ps_cue
+failure	21	neg_cue
+nothing	24	neg_cue
+yet	26	neg_cue
+########
+36
+<EOP> .
+########
+37
+Afp _ Reuters <EOP> .
+########
+38
+<EOP> .
+########
+39
+<EOP> .
+########
+40
+<EOP> .
+########
+41
+LRB China Daily 07_21_2017 page11 RRB <EOP> .
+########

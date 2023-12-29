@@ -1,0 +1,89 @@
+Did the Supreme Court dismiss Sharif from office
+0
+Pakistan PM Sharif dismissed from office after damning probe into family wealth <EOP> .
+dismissed	3	CT+	CT+
+########
+1
+2017_07_28 15:58 <EOP> .
+########
+2
+null <EOP> .
+########
+3
+<EOP> .
+########
+4
+Pakistani Prime Minister Nawaz Sharif looks out the window of his plane after attending a ceremony to inaugurate the M9 motorway between Karachi and Hyderabad , Pakistan February 3 , 2017 .
+########
+5
+LRB Photo_Agencies RRB <EOP> .
+########
+6
+The Supreme Court dismissed Sharif after an investigative panel alleged his family could not account for its vast wealth .
+dismissed	3	CT+	CT+
+could	12	ps_cue
+not	13	neg_cue
+########
+7
+The court also ordered a criminal investigation against the premier and his family .
+against	7	neg_cue
+########
+8
+<EOP> .
+########
+9
+`` He is no more eligible to be an honest member of the parliament , and he ceases to be holding the office of prime minister , '' Judge Ejaz Afzal Khan said in court .
+ceases	17	CT+	CT+
+no	3	neg_cue
+########
+10
+<EOP> .
+########
+11
+Sharif , 67 , has always denied any wrongdoing and has dismissed the investigation into him as biased and inaccurate .
+denied	6	neg_cue
+########
+12
+<EOP> .
+########
+13
+Sharif 's allies have alleged there was a conspiracy to unseat him .
+########
+14
+<EOP> .
+########
+15
+`` This is not accountability , it is revenge , '' tweeted Railways Minister Khawaja Saad Rafiq hours before the verdict was announced .
+not	3	neg_cue
+########
+16
+`` In an effort dislodge us , the democratic system has been made a target . ''
+########
+17
+<EOP> .
+########
+18
+Sharif 's two previous stints in power were also cut short , including by a military coup in 1999 , but he came back from exile to win a resounding victory in the 2013 general elections .
+########
+19
+<EOP> .
+########
+20
+His ruling PML_N party , which has a majority in the parliament , is now expected to appoint a new prime minister .
+expected	15	ps_cue
+########
+21
+<EOP> .
+########
+22
+Reuters <EOP> .
+########
+23
+<EOP> .
+########
+24
+<EOP> .
+########
+25
+<EOP> .
+########

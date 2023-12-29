@@ -1,0 +1,126 @@
+Will Center Parcs open European_style vacation villages in China
+0
+Center Parcs to open European_style vacation villages in China <EOP> .
+open	3	CT+	CT+
+########
+1
+2017_05_22 23:59 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+Holiday resorts operator Center Parcs is targeting China 's growing middle class by opening two European_style holiday villages .
+opening	13	CT+	CT+
+########
+4
+<EOP> .
+########
+5
+According to the Financial Times newspaper , the holiday operator will open two resorts , near Beijing and in the southeastern city of Fuzhou .
+open	11	CT+	CT+
+will	10	ps_cue
+########
+6
+It plans to open the facilities by 2020 , as part of a joint venture with the Chinese acquisitive conglomerate HNA Group , which is part owner of Hainan Airlines .
+open	3	PS+	CT+
+plans	1	ps_cue
+########
+7
+<EOP> .
+########
+8
+Emmanuel Brusq , chief executive of the Chinese subsidiary of France 's Pierre et Vacances Center Parcs Group , said the resorts will be aimed at the country 's `` middle and upper_middle classes '' .
+will	22	ps_cue
+########
+9
+<EOP> .
+########
+10
+Brusq told the FT that the potential for growth in China is `` huge '' .
+potential	6	ps_cue
+########
+11
+<EOP> .
+########
+12
+`` We can bring the people a natural environment they have forgotten because they live in the city .
+can	2	ps_cue
+########
+13
+This is exactly what happened in Europe 20 years ago , '' he said .
+########
+14
+<EOP> .
+########
+15
+Pierre et Vacances , France 's largest vacation real estate company , has around 300 sites in Europe .
+########
+16
+Center Parcs , a family_oriented holiday camp in forest settings , is the company 's most famous leisure resort brand .
+########
+17
+<EOP> .
+########
+18
+Holidaymakers can take part in a range of sporting activities , including swimming and rock_climbing , and there are also shops , pools , and restaurants .
+can	1	ps_cue
+########
+19
+<EOP> .
+########
+20
+China 's version of the resort will be denser than European equivalents because of the high cost of land and will host around 3,000 cottages or apartments .
+will	6	ps_cue
+will	20	ps_cue
+or	25	ps_cue
+########
+21
+<EOP> .
+########
+22
+Cars will be banned from the sites and , while the resorts will resemble European villages , they will be adapted to suit local tastes , with such things as accommodation aimed at one_child families that are traveling with grandparents .
+will	1	ps_cue
+banned	3	neg_cue
+will	12	ps_cue
+will	18	ps_cue
+########
+23
+<EOP> .
+########
+24
+Pierre et Vacances added that the parks will have many more restaurant options , to provide choice to Chinese consumers who prefer dining out to self_catering .
+will	7	ps_cue
+########
+25
+<EOP> .
+########
+26
+In 2015 , HNA bought a 10 percent stake in Pierre et Vacances .
+########
+27
+In 2016 , the two companies announced a joint venture to build three holiday sites in China with an area of more than 300 hectares .
+########
+28
+<EOP> .
+########
+29
+The projects will be 60 percent owned by HNA Group and 40 percent owned by Pierre et Vacances Center Parcs .
+will	2	ps_cue
+########
+30
+<EOP> .
+########
+31
+The companies said that the resorts will meet demand from Chinese families for a holiday that combines proximity to large cities with short stays , outdoor experiences and leisure and sports activities for both adults and children .
+will	6	ps_cue
+########
+32
+<EOP> .
+########
+33
+In 2014 , HNA Tourism had total assets valued at about 17 billion euros LRB $ 19 billion RRB and an annual turnover of more than 5 billion euros .
+########
+34
+<EOP> .
+########

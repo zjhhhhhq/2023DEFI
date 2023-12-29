@@ -1,0 +1,99 @@
+Have nine crew members been dismissed from the Royal Navy
+0
+UK nuclear sub hit by drugs , sex scandal <EOP> .
+########
+1
+2017_10_30 07:45 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+<EOP> .
+########
+4
+LONDON _ Nine crew members from a British nuclear submarine have been dismissed from the Royal Navy after failing drugs tests , national media in London reported on Saturday .
+dismissed	12	CT+	CT+
+failing	18	neg_cue
+########
+5
+<EOP> .
+########
+6
+Four officers , including a captain , have also been removed from HMS Vigilant after breaking the rules forbidding affairs aboard submarines , the Daily Mail reported .
+removed	10	CT+	CT+
+########
+7
+<EOP> .
+########
+8
+The nine British servicemen were thrown off the vessel , which the reports said was already at the center of a sex probe .
+########
+9
+They tested positive for a prohibited class_A drug , reported to be cocaine , while on duty and are alleged to have held drug_fueled parties while the submarine was docked in the US to pick up nuclear warheads , the reports added .
+prohibited	5	neg_cue
+########
+10
+<EOP> .
+########
+11
+The Daily Mail also revealed that the submarine 's second_in_command , Lieutenant Commander Michael Seal , 36 , has been removed over claims of an extramarital affair with a 27_year_old female engineering officer who has also been taken off the sub .
+removed	20	CT+	CT+
+########
+12
+<EOP> .
+########
+13
+The submarine had already been embroiled in controversy over an alleged affair between its captain , Commander Stuart Armstrong , 41 , and a 25_year_old female junior officer .
+########
+14
+They both have been removed from duty .
+removed	4	CT+	CT+
+########
+15
+<EOP> .
+########
+16
+The Daily Mail said the dismissals mean that around 10 percent of HMS Vigilant 's 168_strong crew have either quit , been kicked out , are under investigation or have been removed from duty .
+either	18	ps_cue
+quit	19	neg_cue
+or	28	ps_cue
+########
+17
+<EOP> .
+########
+18
+All of the service 's fleet have a no_touching rule that prohibits intimate relationships aboard warships .
+prohibits	11	neg_cue
+########
+19
+<EOP> .
+########
+20
+The newspaper said the matter was considered so serious that Defense Secretary Michael Fallon has discussed the situation with the First Sea Lord , Admiral Sir Philip Jones .
+considered	6	ps_cue
+########
+21
+<EOP> .
+########
+22
+The BBC in London reported that Fallon has ordered all crew members serving aboard Britain 's four nuclear subs to be tested for drugs .
+########
+23
+<EOP> .
+########
+24
+HMS Vigilant is one of the four Royal Navy 's submarines which carry up to eight of Britain 's Trident nuclear deterrent missiles .
+########
+25
+<EOP> .
+########
+26
+Xinhua <EOP> .
+########
+27
+<EOP> .
+########
+28
+LRB China Daily 10_30_2017 page11 RRB <EOP> .
+########

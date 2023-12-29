@@ -1,0 +1,136 @@
+Does US block company sale to Ant Financial
+0
+US blocks company sale to Ant Financial <EOP> .
+blocks	1	CT+	CT+
+blocks	1	neg_cue
+########
+1
+2018_01_03 10:52 <EOP> .
+########
+2
+China Daily USA <EOP> .
+########
+3
+A US government panel rejected Ant Financial 's acquisition of MoneyGram International Inc over national security concerns , the companies said on Tuesday , the most high_profile Chinese deal to be torpedoed under the administration of US President Donald Trump .
+rejected	4	CT+	CT+
+rejected	4	neg_cue
+########
+4
+<EOP> .
+########
+5
+The $ 1.2 billion deal 's collapse represents a blow for Jack Ma , the executive chairman of Chinese internet conglomerate Alibaba Group Holding Ltd , who owns Ant Financial together with Alibaba executives .
+########
+6
+He was looking to expand Ant Financial 's footprint amid fierce domestic competition from Chinese rival Tencent Holdings Ltd 's WeChat payment platform .
+########
+7
+<EOP> .
+########
+8
+Ma had promised Trump in a meeting a year ago that he would create 1 million US jobs .
+would	12	ps_cue
+########
+9
+<EOP> .
+########
+10
+MoneyGram shares were down 8.5 percent at $ 12.06 in after_market trading .
+########
+11
+<EOP> .
+########
+12
+The companies decided to terminate their deal after the Committee on Foreign Investment in the United States LRB CFIUS RRB rejected their proposals to mitigate concerns over the safety of data that can be used to identify US citizens , according to sources familiar with the confidential discussions .
+rejected	20	neg_cue
+can	32	ps_cue
+########
+13
+<EOP> .
+########
+14
+`` Despite our best efforts to work cooperatively with the US government , it has now become clear that CFIUS will not approve this merger , '' MoneyGram Chief Executive Alex Holmes said in a statement .
+will	20	ps_cue
+not	21	neg_cue
+########
+15
+<EOP> .
+########
+16
+A standard CFIUS review lasts up to 75 days , and the companies had gone through the process three times in order to address concerns .
+########
+17
+Additional security measures and protocols that the companies suggested failed to reassure CFIUS , the sources said .
+suggested	8	ps_cue
+failed	9	neg_cue
+########
+18
+<EOP> .
+########
+19
+`` US Treasury is prohibited by statute from publicly disclosing information filed with CFIUS .
+prohibited	4	neg_cue
+########
+20
+CFIUS reviews focus on national security concerns and Treasury takes the role as chair of CFIUS very seriously , to ensure that CFIUS identifies and addresses any national security concerns posed by such foreign investment , '' a US Treasury spokesman said .
+########
+21
+<EOP> .
+########
+22
+The US government has toughened its stance on the sale of companies to Chinese entities , at a time when Trump is trying to put pressure on China to help tackle North Korea 's nuclear ambitions and be more accommodative on trade and foreign exchange issues .
+toughened	4	CT+	CT+
+########
+23
+<EOP> .
+########
+24
+The MoneyGram deal is the latest in a string of Chinese acquisitions of US companies that have failed to clear CFIUS .
+failed	17	neg_cue
+########
+25
+They include China_backed buyout fund Canyon Bridge Capital Partners LLC 's $ 1.3 billion acquisition of US chip maker Lattice Semiconductor Corp , China Oceanwide Holdings Group Co Ltd 's $ 2.7 billion acquisition of US life insurer Genworth Financial Inc and Chinese buyout firm Orient Hontai Capital 's $ 1.4 billion acquisition of U.S. mobile marketing firm AppLovin .
+########
+26
+<EOP> .
+########
+27
+The MoneyGram 's deal demise is also the latest example of how CFIUS ' focus on cyber security and the integrity of personal data is prompting it to block deals in sectors not traditionally associated with national security , such as financial services .
+block	28	neg_cue
+not	32	neg_cue
+########
+28
+<EOP> .
+########
+29
+Other US financial services deals by Chinese firms are waiting for approval from CFIUS , including HNA Group Co 's acquisition of hedge fund_of_funds firm SkyBridge Capital LLC .
+########
+30
+<EOP> .
+########
+31
+Skybridge and HNA did not immediately respond to requests for comment on what impact they believed the blocked MoneyGram deal would have on them .
+not	4	neg_cue
+believed	15	ps_cue
+blocked	17	neg_cue
+would	20	ps_cue
+########
+32
+<EOP> .
+########
+33
+Dallas_based MoneyGram has approximately 350,000 remittance locations in more than 200 countries .
+########
+34
+Ant Financial was looking to take over MoneyGram not so much for its US presence but to expand in growing markets outside of China .
+not	8	neg_cue
+########
+35
+<EOP> .
+########
+36
+Reuters <EOP> .
+########
+37
+<EOP> .
+########

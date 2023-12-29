@@ -1,0 +1,115 @@
+Is there president 's travel ban
+0
+US appellate court again rules against president 's travel ban <EOP> .
+ban	9	CT-	CT-
+against	5	neg_cue
+ban	9	neg_cue
+########
+1
+2017_06_13 08:52 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+<EOP> .
+########
+4
+A man holds an umbrella during a protest of US President Donald Trump 's travel ban outside of the US Court of Appeals in Seattle , Washington , US May 15 , 2017 .
+ban	15	neg_cue
+May	29	ps_cue
+########
+5
+LRB Photo_Agencies RRB <EOP> .
+########
+6
+SAN FRANCISCO _ A three_judge panel of a federal appeals court ruled Monday against reinstalling US President Donald Trump 's travel ban .
+ban	21	CT-	CT-
+against	13	neg_cue
+ban	21	neg_cue
+########
+7
+<EOP> .
+########
+8
+The motions panel of the US Courts for the 9th Circuit presented its decision in 86 pages of written opinion , stating at the end that `` The Government 's motion for a stay LRB of the travel ban RRB pending appeal is DENIED as moot . ''
+ban	38	neg_cue
+########
+9
+<EOP> .
+########
+10
+The travel ban , the second of the kind , was blocked on March 15 by US District Judge Derrick Watson in response to a suit by the state of Hawaii .
+ban	2	CT-	CT-
+blocked	11	neg_cue
+ban	2	neg_cue
+########
+11
+<EOP> .
+########
+12
+The panel heard on May 15 in Seattle , Washington state , Acting US Solicitor General Jeffrey Wall on behalf of the Trump administration and Neal Katyal , an attorney representing the state of Hawaii , argue about whether the nationwide temporary restraining order LRB TRO RRB imposed by Judge Watson should be lifted and the travel ban as part of a presidential executive order reimposed .
+May	4	ps_cue
+whether	38	ps_cue
+should	51	ps_cue
+ban	57	neg_cue
+########
+13
+<EOP> .
+########
+14
+`` The district court did not abuse its discretion in entering a nationwide preliminary injunction , '' the judges wrote in their opinion .
+not	5	neg_cue
+########
+15
+<EOP> .
+########
+16
+The second travel ban , signed by Trump on March 6 as part of his executive order , bars nationals of Libya , Iran , Somalia , Sudan , Syria and Yemen from entering the United States for 90 days ; and suspends the entry of all refugees .
+ban	3	neg_cue
+########
+17
+<EOP> .
+########
+18
+It was the second time the 9th Circuit Court heard and ruled against the same president 's travel ban .
+against	12	neg_cue
+ban	18	neg_cue
+########
+19
+<EOP> .
+########
+20
+On Feb 9 , another panel of three judges ruled in San Francisco , Northern California , against reinstating the travel ban signed on Jan 27 by Trump as part of an executive order .
+against	17	neg_cue
+ban	21	neg_cue
+########
+21
+<EOP> .
+########
+22
+The president subsequently issued the revised order , taking Iraq off the list of seven Muslim_majority countries .
+########
+23
+<EOP> .
+########
+24
+In initiating the legal challenge against the second travel ban on March 9 , Hawaii Attorney General Doug Chin noted that the new order , compared with the initial ban , `` nothing of substance has changed : there is the same blanket ban on entry from Muslim_majority countries . ''
+against	5	neg_cue
+ban	9	neg_cue
+ban	29	neg_cue
+nothing	32	neg_cue
+ban	43	neg_cue
+########
+25
+<EOP> .
+########
+26
+On their part , the three judges sitting on the motions panel of the appellate court said `` the President 's authority is subject to certain statutory and constitutional restraints .
+########
+27
+We conclude that the President , in issuing the Executive Order , exceeded the scope of the authority delegated to him by Congress . ''
+########
+28
+<EOP> .
+########

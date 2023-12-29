@@ -1,0 +1,85 @@
+Does Belt and Road open door for Japan
+0
+Door open for Japan in Belt and Road <EOP> .
+open	1	CT+	CT+
+########
+1
+2017_06_07 07:35 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+<EOP> .
+########
+4
+The Belt and Road Initiative can become an `` experimental field '' for China and Japan to achieve mutually beneficial cooperation and common development , Beijing said on Tuesday .
+can	5	ps_cue
+########
+5
+<EOP> .
+########
+6
+The Foreign Ministry 's remark was made after Japanese Prime Minister Shinzo Abe said in a speech on Monday that Tokyo is ready to work with Beijing on the initiative , with conditions .
+ready	22	ps_cue
+########
+7
+<EOP> .
+########
+8
+Conditions proposed by Abe include `` harmony with a free and fair Trans_Pacific economic zone '' .
+proposed	1	ps_cue
+########
+9
+He also said it is `` critical for infrastructure to be open to use by all and to be developed through procurement that is transparent and fair '' , Japan 's Kyodo News Agency reported .
+open	11	CT+	CT+
+########
+10
+<EOP> .
+########
+11
+In response , Foreign Ministry spokeswoman Hua Chunying said on Tuesday that Beijing had taken notice of Abe 's remarks .
+########
+12
+<EOP> .
+########
+13
+Japan is welcome to talk with China about introducing cooperation within the framework of the Belt and Road Initiative , Hua said .
+########
+14
+<EOP> .
+########
+15
+`` We also hope that the Japanese can translate its will of improving bilateral ties into tangible actions , '' she added .
+hope	3	ps_cue
+can	7	ps_cue
+will	10	ps_cue
+########
+16
+<EOP> .
+########
+17
+Naoya Yoshino , deputy editor of Japan 's Nikkei Business Daily newspaper , commented in an article on Tuesday that Abe 's `` conditional '' support `` tells Beijing that Tokyo is ready to work toward warmer bilateral ties '' .
+ready	32	ps_cue
+########
+18
+<EOP> .
+########
+19
+Lyu Yaodong , a Japanese diplomacy researcher at the Chinese Academy of Social Sciences , noted that Tokyo is `` adapting itself to the evolving trend '' of win_win cooperation as it tones down its negative stance toward the initiative .
+negative	35	neg_cue
+########
+20
+<EOP> .
+########
+21
+`` What China has proposed lives up to the interests of regional stakeholders , and it LRB the initiative RRB has won recognition by the international community , a fact that offers no excuse for Tokyo to continue defying it , '' Lyu said .
+proposed	4	ps_cue
+no	32	neg_cue
+########
+22
+<EOP> .
+########
+23
+zhangyunbi@chinadaily.com.cn <EOP> .
+########

@@ -1,0 +1,89 @@
+Does Trump arrive in Brussels
+0
+Trump arrives in Brussels amid protest against him <EOP> .
+arrives	1	CT+	CT+
+against	6	neg_cue
+########
+1
+2017_05_25 09:36 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+<EOP> .
+########
+4
+US President Donald Trump LRB R RRB walks with King Philippe of Belgium at the Palace in Brussels , Belgium , May 24 , 2017 .
+May	21	ps_cue
+########
+5
+LRB Photo_Agencies RRB <EOP> .
+########
+6
+BRUSSELS _ President Donald Trump arrived in Brussels here on Wednesday for his first trip to the European Union and NATO as the head of the United States and was met with protests against his fractious comments in the past .
+arrived	5	CT+	CT+
+against	33	neg_cue
+########
+7
+<EOP> .
+########
+8
+Donald Trump and his wife Melania , who flew in from Rome , Italy , were greeted at the airport by Belgian Prime Minister Charles Michel and met with King of the Belgians Philippe and his wife Queen Matilda later in the day .
+########
+9
+<EOP> .
+########
+10
+Elsewhere in Brussels , however , some 6,000 protesters demonstrated in the streets to protest against Trump 's presence , with placards letting the controversial leader know he was `` not welcome here . ''
+against	15	neg_cue
+not	30	neg_cue
+########
+11
+<EOP> .
+########
+12
+The US President has had a fractious relationship with Europe since his candidacy , in which he publicly applauded the pro_Brexit campaign before and after the referendum which saw Britain decide to leave the European Union .
+########
+13
+<EOP> .
+########
+14
+In January , as president_elect , he rattled many European allies by stating in an interview that NATO LRB North Atlantic Trade Alliance RRB was obsolete , and indirectly threatening allies to leave the pact if they did not boost defense spending .
+not	38	neg_cue
+########
+15
+<EOP> .
+########
+16
+On Thursday , Trump will meet the President of the European Council Donald Tusk and the President of the European Commission Jean_Claude Juncker , both of whom have been critical of the US president 's remarks .
+will	4	ps_cue
+########
+17
+<EOP> .
+########
+18
+Afterwards , Trump and leaders of other NATO countries will meet for the first time to map out the future of the organization , and try to narrow their differences on its budget .
+will	9	ps_cue
+########
+19
+<EOP> .
+########
+20
+<EOP> .
+########
+21
+<EOP> .
+########
+22
+Donald Trump 's first trip abroad as president has already taken him to Saudi Arabia , Israel , the West Bank of the Palestinian territories , the Vatican before arriving in Brussels .
+arriving	29	CT+	CT+
+########
+23
+His final leg of the journey will be in Sicily , Italy , where he will join a G7 summit in Taormina .
+will	6	ps_cue
+will	15	ps_cue
+########
+24
+<EOP> .
+########

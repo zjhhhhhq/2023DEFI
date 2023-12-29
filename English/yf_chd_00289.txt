@@ -1,0 +1,90 @@
+Does a shooting happen at a Walmart store
+0
+Suspect arrested in deadly Walmart shooting in US state of Colorado <EOP> .
+########
+1
+2017_11_03 09:34 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+<EOP> .
+########
+4
+A lone shopping cart sits in the parking lot as police investigate the scene of a shooting at a Walmart store in the Thorton Town Center shopping plaza on Nov 1 , 2017 in Thornton , Colorado .
+store	20	CT+	CT+
+########
+5
+LRB Photo_VCG RRB <EOP> .
+########
+6
+LOS ANGELES _ A suspect of the fatal shooting that killed three people inside a Walmart supermarket in the US state of Colorado was arrested Thursday morning , local police confirmed .
+suspect	4	ps_cue
+########
+7
+<EOP> .
+########
+8
+`` Walmart homicide suspect Scott Ostrem has been taken into custody , '' Thornton Police Department said on its official tweet page , 14 hours after the heinous act occurred around 6:00 pm Wednesday evening LRB 0030 GMT , Thursday RRB in Thornton , a Denver suburb , and left three dead .
+suspect	3	ps_cue
+########
+9
+<EOP> .
+########
+10
+The suspect was identified as 47_year_old Ostrem , who was described by witnesses as a cold blood murder .
+suspect	1	ps_cue
+########
+11
+Police said he walked into the south entrance of the store and began shooting a handgun randomly , then fled the scene in a red car .
+store	10	CT+	CT+
+########
+12
+<EOP> .
+########
+13
+Local Denver Post reported that Ostrem was stopped on street Thursday while driving that Mitsubishi Mirage with Colorado license plate .
+stopped	7	neg_cue
+########
+14
+<EOP> .
+########
+15
+Ostrem said nothing when he opened fire at the supermarket , police disclosed , adding they had no idea about his motive but there are no indications it is terror_related .
+nothing	2	neg_cue
+no	17	neg_cue
+no	25	neg_cue
+########
+16
+<EOP> .
+########
+17
+`` From what we have right now it appears to be random .
+appears	8	ps_cue
+########
+18
+It 's a crazy world we live in . ''
+########
+19
+Thornton police spokesman Victor Avila said in a briefing conference .
+########
+20
+<EOP> .
+########
+21
+`` He walked in very nonchalantly with his hands in the pockets , raised a weapon and began shooting .
+########
+22
+Then he turns around and walks out of the store . ''
+store	9	CT+	CT+
+########
+23
+<EOP> .
+########
+24
+Denver Post also reported that court records show Ostrem was arrested in 2013 for driving while impaired and filed for bankruptcy two years later .
+########
+25
+<EOP> .
+########

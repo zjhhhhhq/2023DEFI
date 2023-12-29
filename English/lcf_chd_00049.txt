@@ -1,0 +1,178 @@
+Are there challenges of learning Mandarin in London
+0
+The challenges of learning Mandarin in London <EOP> .
+########
+1
+2017_10_16 23:11 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+<EOP> .
+########
+4
+Students having Mandarin class at the Language Show London held in London , Oct 14 , 2017 .
+########
+5
+LRB Photo_chinadaily .
+########
+6
+com.cn RRB <EOP> .
+########
+7
+If you go into a Chinese tailors shop looking for a suit but ask for a wife by mistake instead , you need to improve your Mandarin language skills LRB because in Chinese pinyin `` xi fu '' can mean either `` suit '' or `` wife '' , depending on the tone you use RRB .
+instead	19	neg_cue
+need	22	ps_cue
+can	38	ps_cue
+either	40	ps_cue
+or	44	ps_cue
+########
+8
+<EOP> .
+########
+9
+One of the first things students of Mandarin need to learn is the importance of tones , otherwise words that appear the same in pinyin will have a totally different meaning , according to Li Jing , a teacher from the Confucius Institute for Business London .
+need	8	ps_cue
+appear	20	ps_cue
+will	25	ps_cue
+########
+10
+<EOP> .
+########
+11
+She was teaching the basics of Mandarin to students at the Language Show London held last weekend at the Business Design Centre in Islington .
+teaching	2	CT+	CT+
+########
+12
+<EOP> .
+########
+13
+Li , who has been teaching Chinese for more than 20 years , used the example of the man who entered a shop looking for a suit but instead requested a wife .
+teaching	5	CT+	CT+
+instead	28	neg_cue
+########
+14
+<EOP> .
+########
+15
+She showed her students what Mandarin is like by teaching pinyin , characters , and some Chinese culture .
+teaching	9	CT+	CT+
+like	7	ps_cue
+########
+16
+She normally teaches business Chinese to students with a background in banking and finance .
+teaches	2	CT+	CT+
+########
+17
+<EOP> .
+########
+18
+`` I feel like it 's becoming a trend , especially for young people in the UK , '' said Li .
+like	3	ps_cue
+########
+19
+`` As China is prospering , they are tempted to do business so now it 's important to add more Chinese business culture into their language studies .
+########
+20
+For example , how to make business deals or how to negotiate with Chinese people . ''
+or	8	ps_cue
+########
+21
+<EOP> .
+########
+22
+In a class for beginners , Li introduced the pinyin , four tones , structure of characters , some simple greetings , and ended with pictures of Peking opera masks and Chinese food .
+introduced	7	CT+	CT+
+########
+23
+<EOP> .
+########
+24
+She hoped that this class would help arouse her students ' interest in learning more about Mandarin and the Chinese culture .
+hoped	1	ps_cue
+would	5	ps_cue
+########
+25
+<EOP> .
+########
+26
+`` I really would like to break the stereotype that Mandarin is very hard and boring to learn , and also let them know that China is developing very fast and we all welcome them to make more investment there , '' she said .
+would	3	ps_cue
+like	4	ps_cue
+########
+27
+<EOP> .
+########
+28
+Hugh Beyer , a freelance translator from Coventry , attended the class .
+########
+29
+<EOP> .
+########
+30
+He has spent several years learning Mandarin on the internet but this was his first official Mandarin class .
+########
+31
+<EOP> .
+########
+32
+`` Coventry attracts a lot of international students , especially Chinese students , and I just find those people so interesting to talk to , '' Beyer said .
+########
+33
+`` I translate from German , Dutch and Russian but Chinese is something very different . ''
+########
+34
+<EOP> .
+########
+35
+He said he has to `` think my thoughts back to front '' and find the characters difficult to memorise .
+########
+36
+`` But I very much enjoy the challenge of doing something completely outside the European family , '' he explained .
+########
+37
+<EOP> .
+########
+38
+Sarah Coote , 29 , who works for a language software company in London , was also in the class .
+########
+39
+<EOP> .
+########
+40
+She said she was trying to get more exposure to a new language and was impressed by Mandarin .
+########
+41
+<EOP> .
+########
+42
+`` I speak five languages and I 'm learning Portuguese , Hindi and Japanese , and now I 'm just curious about what Mandarin is , '' she said .
+########
+43
+`` The Chinese characters and the tonal variations are quite challenging , because that 's a very foreign concept , but enjoyable and it 's good to see the aspect of culture as well in the class . ''
+########
+44
+<EOP> .
+########
+45
+The Language Show London is Europe 's biggest event for language learners , teachers and linguists .
+########
+46
+<EOP> .
+########
+47
+Zhang Yangfei in London contributed to this story .
+########
+48
+<EOP> .
+########
+49
+<EOP> .
+########
+50
+<EOP> .
+########
+51
+<EOP> .
+########

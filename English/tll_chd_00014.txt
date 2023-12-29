@@ -1,0 +1,39 @@
+Does man armed with knife ` hold job center staff ' in Newcastle
+0
+Man armed with knife ` holds job center staff ' in Newcastle <EOP> .
+holds	5	CT+	CT+
+########
+1
+2017_06_09 17:02 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+LONDON _ Staff at a job center in Newcastle are being held by a man armed with a knife , BBC reported .
+held	11	CT+	CT+
+########
+4
+<EOP> .
+########
+5
+The armed man entered the premises on Clifford Street in Byker at about 08:00 BST .
+########
+6
+Several members of staff are thought to be held there , police said .
+########
+7
+<EOP> .
+########
+8
+Police negotiators are at the scene and the roads around the premises have been closed as a precaution .
+########
+9
+<EOP> .
+########
+10
+Northumbria Police said the man responsible was known to the job center and it was being treated as an isolated incident at this stage .
+########
+11
+<EOP> .
+########

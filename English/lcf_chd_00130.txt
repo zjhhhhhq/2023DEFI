@@ -1,0 +1,91 @@
+Do protesters gather in Manchester
+0
+50,000 protesters gather in Manchester as May 's Conservatives start their conference <EOP> .
+gather	2	CT+	CT+
+May	6	ps_cue
+########
+1
+2017_10_02 08:53 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+<EOP> .
+########
+4
+<EOP> .
+########
+5
+<EOP> .
+########
+6
+People take part in a demonstration in central Manchester , Britain , on Oct 1 , 2017 .
+########
+7
+LRB Photo_Xinhua RRB <EOP> .
+########
+8
+LONDON _ British Prime Minister Theresa May outlined new proposals Sunday to win support from younger voters after many backed the rival Labour Party .
+May	6	ps_cue
+########
+9
+<EOP> .
+########
+10
+May 's bid to woo thousands of disaffected students came on the first day of the Conservative party 's annual conference in Manchester .
+May	0	ps_cue
+########
+11
+<EOP> .
+########
+12
+Tens of thousands of protestors converged on the northern England city , with a number of rallies organized by anti_Brexit groups and activists demanding an end to the Conservative austerity measures .
+converged	5	CT+	CT+
+########
+13
+<EOP> .
+########
+14
+Local media in Manchester reported that 50,000 people were expected at the various rallies during the day .
+rallies	13	PS+	CT+
+expected	9	ps_cue
+########
+15
+<EOP> .
+########
+16
+Around 1,000 police officers were on duty forming a security shield around Manchester Central , the one_time railway terminal where the conference is taking place over the next four days .
+########
+17
+<EOP> .
+########
+18
+A heavy presence of armed police were on duty outside the nearby baroque_style four_star Midland Hotel which has become May 's conference headquarters .
+May	19	ps_cue
+########
+19
+<EOP> .
+########
+20
+This year 's terror bombing at the nearby Manchester Arena , in which 22 people were killed by suicide bomber Salman Abedi , has heightened security precautions around the conference .
+########
+21
+The security operation is costing police almost 2.7 million US dollars .
+########
+22
+<EOP> .
+########
+23
+In a major interview in the Sunday Telegraph newspaper , May announced the freezing of university tuition fees at 9,250 pounds LRB 12,400 US dollars RRB a year .
+May	10	ps_cue
+########
+24
+She also plans to raise the threshold so students wo n't start paying back their debt until they earn over 33,500 US dollars a year .
+plans	2	ps_cue
+raise	4	ps_cue
+n't	10	neg_cue
+########
+25
+<EOP> .
+########

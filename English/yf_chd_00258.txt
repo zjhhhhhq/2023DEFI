@@ -1,0 +1,80 @@
+Does Xi exchange in_depth views on China_US ties 
+0
+Xi_Trump meeting : New consensus achieved <EOP> .
+########
+1
+2017_11_09 14:19 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+President Xi Jinping said he and visiting US President Donald Trump have achieved new consensus , and their meetings were constructive and yielded fruitful results .
+########
+4
+<EOP> .
+########
+5
+Xi made the remarks when he addressed journalists alongside Trump on Thursday .
+########
+6
+<EOP> .
+########
+7
+The two presidents held talks as well as met with business leaders from both countries before facing the media at the Great Hall of People in central Beijing .
+########
+8
+<EOP> .
+########
+9
+Xi said they exchanged in_depth views on China_US ties and major international , regional issues .
+ties	8	CT+	CT+
+########
+10
+<EOP> .
+########
+11
+China will firmly stay committed to reform and opening_up , increase common interests with various countries and promote coordination among major countries , Xi said .
+will	1	ps_cue
+########
+12
+<EOP> .
+########
+13
+The successful development of both countries serves the interests of each other , and their good ties live up to the hope of the global community , Xi said .
+ties	16	CT+	CT+
+hope	21	ps_cue
+########
+14
+<EOP> .
+########
+15
+The two countries should draft plans for their next step for economic cooperation , Xi said .
+should	3	ps_cue
+plans	5	ps_cue
+########
+16
+<EOP> .
+########
+17
+Trump voiced his appreciation for Xi 's `` gracious hospitality '' .
+########
+18
+<EOP> .
+########
+19
+`` In the coming months and years , I look forward to building an even stronger relationship between our two countries _ China and the United States of America _ and even closer friendships and relationships between the people of our two countries , '' Trump said .
+relationship	16	CT+	CT+
+relationships	35	CT+	CT+
+forward	10	ps_cue
+forward	10	neg_cue
+########
+20
+<EOP> .
+########
+21
+Trump arrived in Beijing on Wednesday on a three_day state visit to China .
+########
+22
+<EOP> .
+########

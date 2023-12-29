@@ -1,0 +1,146 @@
+Does Ivanka Trump call for closing gender gap in business
+0
+Ivanka Trump calls for closing gender gap in business <EOP> .
+calls	2	CT+	CT+
+########
+1
+2017_11_30 07:09 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+<EOP> .
+########
+4
+Indian Prime Minister Narendra Modi watches as US presidential adviser and daughter Ivanka Trump presses the button on a robot during the opening of the Global Entrepreneurship Summit in Hyderabad , India , on Tuesday .
+########
+5
+LRB Photo_Agencies RRB <EOP> .
+########
+6
+HYDERABAD , India _ US President Donald Trump 's daughter Ivanka Trump kicked off a global business leaders ' meeting in southern India on Tuesday , calling for better opportunities for women entrepreneurs battling heavy odds around the world .
+kicked	12	CT+	CT+
+opportunities	29	ps_cue
+########
+7
+<EOP> .
+########
+8
+Ivanka , also an informal adviser to her father , received a warm welcome in India 's high_tech hub of Hyderabad with all the trappings of a state guest .
+########
+9
+<EOP> .
+########
+10
+Prime Minister Narendra Modi joined her in the opening of the US_backed Global Entrepreneurship Summit which New Delhi is hoping will further boost political and economic ties with the United States under the Trump administration .
+hoping	19	ps_cue
+will	20	ps_cue
+########
+11
+<EOP> .
+########
+12
+Ivanka , wearing a bright green floral dress , said fueling the growth of women_led businesses and closing the gender entrepreneurship gap could help expand global GDP by 2 percent .
+said	9	CT+	CT+
+could	22	ps_cue
+########
+13
+<EOP> .
+########
+14
+`` Women still face steep obstacles to starting , owning and growing their businesses .
+########
+15
+We must ensure women entrepreneurs have access to capital , access to networks and mentors , '' Ivanka said to loud cheers from a packed audience in a heavily_guarded conference center .
+ensure	2	CT+	CT+
+########
+16
+<EOP> .
+########
+17
+In developing countries , 70 percent of women_owned smaller businesses were being denied access to capital , she said , leading to a near $ 300 billion annual credit deficit for them .
+denied	12	neg_cue
+########
+18
+<EOP> .
+########
+19
+GES is an event conceived by former US president Barack Obama .
+########
+20
+It has previously been held in countries such as the US and Turkey , but this year 's edition is the first under the Trump administration .
+########
+21
+<EOP> .
+########
+22
+The theme of the conference this year is `` Women First , Prosperity for All '' .
+########
+23
+More than half the participants at the summit are women , and all_female delegations are representing countries such as Afghanistan , Israel and Saudi Arabia .
+########
+24
+<EOP> .
+########
+25
+Ivanka , who ran an eponymous clothing and jewelry business before becoming an adviser in the White House , has made women 's issues one of her main policy areas .
+########
+26
+<EOP> .
+########
+27
+Billboards <EOP> .
+########
+28
+She cited a Harvard Business Review report that found that in the US , investors ask men questions about their potential for gains , whereas they ask women questions about their potential for loss .
+potential	20	ps_cue
+potential	31	ps_cue
+loss	33	neg_cue
+########
+29
+<EOP> .
+########
+30
+Billboards with pictures of Ivanka dotted many parts of Hyderabad which is also home to major US firms such as Microsoft .
+########
+31
+In recent days , authorities took beggars off city streets in a cleanup drive before the meeting , media said .
+########
+32
+<EOP> .
+########
+33
+More than 10,000 police officials were deployed in the city and sniffer dogs as well as `` spotters '' , or men trained to detect any suspicious activity or people , were on stand by , a police officer said .
+or	20	ps_cue
+suspicious	26	ps_cue
+or	28	ps_cue
+########
+34
+<EOP> .
+########
+35
+On the sidelines , Ivanka held talks with Modi , as well as Indian foreign minister Sushma Swaraj .
+########
+36
+Later she toured the conference center with Modi and met a few entrepreneurs , before watching traditional Indian dance performances in the inaugural session .
+########
+37
+<EOP> .
+########
+38
+India has become a major market for the US , with two_way trade of about $ 115 billion last year .
+########
+39
+They aim to raise that to $ 500 billion by 2022 .
+raise	3	ps_cue
+########
+40
+<EOP> .
+########
+41
+Reuters <EOP> .
+########
+42
+<EOP> .
+########

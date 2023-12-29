@@ -1,0 +1,134 @@
+Does suspect in kidnapping of Chinese scholar face potential death penalty 
+0
+Suspect in kidnapping of Chinese scholar faces potential death penalty <EOP> .
+potential	7	PS+	PS+
+potential	7	ps_cue
+########
+1
+2017_10_04 13:21 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+CHICAGO __ A federal grand jury on Tuesday charged Brendt A. Christensen , the suspect in the kidnapping of visiting Chinese scholar Zhang Yingying , with kidnapping resulting in death .
+suspect	14	ps_cue
+########
+4
+<EOP> .
+########
+5
+If convicted , Christensen could face mandatory life in prison or even the death penalty , said a news release by the U.S. Justice Department .
+penalty	14	Uu	PS+
+could	4	ps_cue
+or	10	ps_cue
+########
+6
+<EOP> .
+########
+7
+In the four_page indictment obtained by a Xinhua reporter , the grand jury said Christensen committed the offense `` in an especially heinous , cruel or depraved manner after substantial planning and premeditation to cause the death of a person . ''
+cruel	24	neg_cue
+or	25	ps_cue
+planning	30	ps_cue
+########
+8
+<EOP> .
+########
+9
+Christensen was previously charged with kidnapping Zhang on June 9 .
+########
+10
+Tuesday 's superseding indictment by a federal grand jury added the charge that Christensen 's kidnapping resulted in Zhang 's death .
+########
+11
+<EOP> .
+########
+12
+Though Christensen could face the death penalty on the new charge , whether prosecutors will seek the ultimate penalty against the suspect will be decided by Attorney General Jeff Sessions at a later date .
+penalty	6	PS+	PS+
+could	2	ps_cue
+whether	12	ps_cue
+will	14	ps_cue
+against	19	neg_cue
+suspect	21	ps_cue
+will	22	ps_cue
+########
+13
+<EOP> .
+########
+14
+If prosecutors decide not to seek the death penalty , a conviction would result in mandatory life in prison without parole .
+not	3	neg_cue
+would	12	ps_cue
+without	19	neg_cue
+########
+15
+<EOP> .
+########
+16
+Christensen was also charged with two counts of making false statements to Federal Bureau of Investigation LRB FBI RRB agents , which could result in five years in prison on each charge if convicted .
+could	22	ps_cue
+########
+17
+<EOP> .
+########
+18
+The date for Christensen to appear in federal court for arraignment on the superseding indictment is yet to be decided by the U.S. Clerk of the Court in Urbana , Illinois .
+appear	5	ps_cue
+yet	16	neg_cue
+########
+19
+<EOP> .
+########
+20
+Christensen is currently being held without bond with the tentative schedule to go on trial before U.S. District Court Judge Colin Bruce on Feb. 27 , 2018 .
+without	5	neg_cue
+########
+21
+<EOP> .
+########
+22
+Zhang went missing on her way to sign a lease on June 9 .
+missing	2	neg_cue
+########
+23
+Investigators later announced that Zhang was kidnapped .
+########
+24
+Prosecutors allege that Christensen approached Zhang and lured her into his car .
+########
+25
+<EOP> .
+########
+26
+Law enforcement agents first turned their attention to Christensen after they found his Saturn Astra was the same one Zhang disappeared in , according to surveillance footage .
+########
+27
+<EOP> .
+########
+28
+But Christensen told the FBI that he was at home all day on the day Zhang went missing .
+missing	17	neg_cue
+########
+29
+He then changed his story , saying that he came across an Asian woman and offered her a ride ; however , he let her out of his car after she panicked .
+########
+30
+<EOP> .
+########
+31
+The FBI conducted audio surveillance on Christensen which produced enough evidence to lead to Christensen 's arrest on June 30 .
+########
+32
+Christensen was caught on tape pointing out people he described as `` ideal victims '' during a vigil in Zhang 's honor .
+########
+33
+<EOP> .
+########
+34
+<EOP> .
+########
+35
+<EOP> .
+########

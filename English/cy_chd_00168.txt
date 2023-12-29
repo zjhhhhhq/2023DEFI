@@ -1,0 +1,111 @@
+Does Chinese military allow anyone to make trouble at our doorstep
+0
+Beijing warns on peninsula woes : Not ` at our doorstep ' <EOP> .
+Not	6	neg_cue
+########
+1
+2017_09_01 06:32 <EOP> .
+########
+2
+CHINA DAILY <EOP> .
+########
+3
+Ministries say talks are more powerful than arms , urge all sides to negotiate <EOP> .
+########
+4
+China expects parties involved in the ongoing tensions on the Korean Peninsula to make rational and sensible choices and wo n't allow anyone to make trouble its doorstep , the Foreign Ministry and Defense Ministry said on Thursday .
+allow	21	CT-	CT-
+n't	20	neg_cue
+expects	1	ps_cue
+########
+5
+<EOP> .
+########
+6
+`` The current tensions are not screenplays or computer games , but an actual incident that determines the safety of the peoples on the peninsula and the peace in the entire region , '' Hua Chunying said at a news briefing in Beijing .
+not	5	neg_cue
+or	7	ps_cue
+########
+7
+<EOP> .
+########
+8
+She said China insists that sanctions against the Democratic People 's Republic of Korea must be carried out within the framework of resolutions adopted by the United Nations Security Council .
+against	6	neg_cue
+########
+9
+China strongly opposes the `` long_arm jurisdiction '' through which some countries want to use their domestic laws on the entities or individuals of another country .
+or	21	ps_cue
+########
+10
+<EOP> .
+########
+11
+`` Previous experiences have shown that problems would not be completely solved if the international community depended only on pressure and sanctions , '' Hua said .
+would	7	ps_cue
+not	8	neg_cue
+########
+12
+<EOP> .
+########
+13
+Senior Colonel Ren Guoqiang , a spokesman for the Defense Ministry , also said on Thursday that China does not think military means should be an option for the peninsula , calling for calm and restraint to avoid escalations .
+not	19	neg_cue
+should	23	ps_cue
+avoid	37	neg_cue
+########
+14
+<EOP> .
+########
+15
+He said the military will never allow anyone to make trouble `` at our doorstep '' and will not tolerate armed conflict or chaos on the peninsula .
+allow	6	CT-	CT-
+never	5	neg_cue
+will	4	ps_cue
+will	17	ps_cue
+not	18	neg_cue
+or	22	ps_cue
+########
+16
+<EOP> .
+########
+17
+Hua said that the fundamental reason behind the complicated problems on the peninsula lies in the lack of trust between the DPRK and the United States , and the lack of trust between the DPRK and the Republic of Korea .
+lack	16	neg_cue
+lack	29	neg_cue
+########
+18
+Only through dialogue to address their security concerns could these nations find solutions to peacefully resolve problems , she said .
+could	8	ps_cue
+########
+19
+<EOP> .
+########
+20
+China has proposed the `` dual suspension '' approach － that Pyongyang halts its nuclear and missile activities while Washington and Seoul cease their massive military drills － to break the deadlock .
+proposed	2	ps_cue
+########
+21
+<EOP> .
+########
+22
+`` The pity is that some nations have been deliberately ignoring the UN 's requirement on dialogue , keeping their eyes on pressure and sanctions .
+########
+23
+They make trouble and jeopardize China 's efforts on dialogue and peaceful solutions and when tensions arise , and they pass the buck and blame others , '' Hua said .
+########
+24
+`` Such behaviors are destructive to addressing the Korean Peninsula issues . ''
+########
+25
+<EOP> .
+########
+26
+The DPRK fired an intermediate_range missile that flew over Japan on Tuesday .
+########
+27
+It said on Wednesday the launch was a first step to military action to `` contain '' the US territory of Guam after US President Donald Trump said on Tuesday that `` all options are on the table '' .
+########
+28
+<EOP> .
+########

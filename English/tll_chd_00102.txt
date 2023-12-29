@@ -1,0 +1,179 @@
+Were victims of Manchester bomb attack named
+0
+Victims of Manchester bomb attack named <EOP> .
+named	5	CT+	CT+
+########
+1
+2017_05_24 21:03 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+Manchester police said they were confident that they had identified all 22 victims of the suicide bomber Salman Abedi , who set off an explosion at an Ariana Grande pop concert in Manchester on Monday .
+identified	9	CT+	CT+
+########
+4
+<EOP> .
+########
+5
+<EOP> .
+########
+6
+<EOP> .
+########
+7
+<EOP> .
+########
+8
+A woman places flowers on an impromptu memorial at Manchester Town Hall for the victims of an attack at Manchester Arena , Manchester , Britain , May 24 , 2017 .
+May	26	ps_cue
+########
+9
+<EOP> .
+########
+10
+LRB Photo_Agencies RRB <EOP> .
+########
+11
+So far only 12 victims have been named and 20 people remain under critical care in hospital suffering from damage to organs and limbs .
+########
+12
+<EOP> .
+########
+13
+Alison Howe , 44 , and Lisa Lees , 43 , were killed as they waited for their daughters to leave the concert hall .
+########
+14
+Jordan Howe , stepson , posted : `` They took a caring beautiful mum and step mother away from us all she was amazing to us all x love you loads Alison Howe xx . ''
+love	28	ps_cue
+########
+15
+<EOP> .
+########
+16
+Lees ' brother Lee Hunter posted : '' ` For those who do n't know Lisa is gone but never ever forgotten I love you Lisa I 'll miss you so much . ''
+n't	13	neg_cue
+never	19	neg_cue
+love	23	ps_cue
+miss	28	neg_cue
+########
+17
+<EOP> .
+########
+18
+Kelly Brewster , 32 , shielded her niece from the blast .
+########
+19
+Her partner , Ian Winslow confirmed her death : `` Kelly really was the happiest she has ever been and we had so many things planned together .
+planned	25	ps_cue
+########
+20
+My daughter Phoebe will be absolutely devastated like we all are . ''
+will	3	ps_cue
+like	7	ps_cue
+########
+21
+<EOP> .
+########
+22
+Olivia Campbell , 15 , was the subject of a social media search before her family found out that she had died .
+########
+23
+Her mother , Charlotte Campbell , posted : `` My darling precious gorgeous girl Olivia Campbell , taken far , far too soon go sing with the angels and keep smiling mummy loves you so much . ''
+########
+24
+<EOP> .
+########
+25
+Megan Hurley was a pupil at Halewood Primary School in Merseyside .
+########
+26
+<EOP> .
+########
+27
+<EOP> .
+########
+28
+<EOP> .
+########
+29
+<EOP> .
+########
+30
+Shoes and personal belongings are seen near the Manchester Arena in central Manchester , Britain May 23 , 2017 .
+May	15	ps_cue
+########
+31
+LRB Photo_Agencies RRB <EOP> .
+########
+32
+Georgina Callander , 18 , is a health and social care student at Runshaw College in Lancashire .
+########
+33
+The college said in a statement : `` Our deepest sympathies , thoughts and prayers go out to all of Georgina 's friends , family , and all of those affected by this loss . ''
+loss	33	neg_cue
+########
+34
+<EOP> .
+########
+35
+Saffie Rose Roussos , 8 , was one of the first victims to be named .
+########
+36
+Chris Upton , head teacher at Tarleton Community Primary School , Lancashire said she was a beautiful little girl in every sense of the word .
+little	17	neg_cue
+########
+37
+`` She was loved by everyone and her warmth and kindness will be remembered fondly , '' he said .
+will	11	ps_cue
+########
+38
+Roussos ' mother , Lisa , is in intensive care and does not know of her daughter 's death .
+not	12	neg_cue
+########
+39
+<EOP> .
+########
+40
+John Atkinson , 26 , was described by Hayley Turk as one in a million .
+########
+41
+`` A true gentleman .
+########
+42
+R.I.P John thoughts and prayers with you family and all of the other victims affected by this tragedy , '' she posted .
+########
+43
+<EOP> .
+########
+44
+Angelica and Marcin Klis , 40 and 42 , originally from Poland , took a selfie outside the concert hall before they went to meet their two daughters .
+########
+45
+<EOP> .
+########
+46
+Martyn Hett , 29 , was separated from his friend when he was hit by the blast .
+########
+47
+He was due to travel to the US for ` a trip of a lifetime ' this week .
+########
+48
+<EOP> .
+########
+49
+Jayne Tweddle_Taylor , 50 , was picking up daughter with a friend , when she was killed .
+########
+50
+<EOP> .
+########
+51
+To contact the reporter : conal@mail.chinadailyuk.com <EOP> .
+########
+52
+Michael Masci_Gore contributed to this report .
+########
+53
+<EOP> .
+########

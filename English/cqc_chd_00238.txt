@@ -1,0 +1,118 @@
+Did Australia raise the standard for Australian citizenship 
+0
+Standard raised for Australian citizenship <EOP> .
+########
+1
+2017_04_21 07:20 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+<EOP> .
+########
+4
+SYDNEY _ Australia plans to raise the bar for handing out citizenships by lengthening the waiting period , adding a new `` Australian values '' test and raising the standard for English language as part of a shake up of its immigration program .
+raise	5	PS+	PS+
+raising	27	CT+	PS+
+plans	3	ps_cue
+raise	5	ps_cue
+########
+5
+<EOP> .
+########
+6
+The move comes in a week when Prime Minister Malcolm Turnbull announced axing a temporary work visa popular with foreigners and replacing it with a tougher program in a bid to put `` Australia First '' .
+########
+7
+<EOP> .
+########
+8
+<EOP> .
+########
+9
+<EOP> .
+########
+10
+The country has seen the rise of nationalist , anti_immigration politics with far_right wing parties such as One Nation garnering strong public support , while the popularity of Turnbull 's ruling center_right government has been languishing .
+rise	5	CT+	PS+
+########
+11
+<EOP> .
+########
+12
+The new requirements are expected to be passed by Parliament with the backing of right_wing Senators .
+expected	4	ps_cue
+########
+13
+<EOP> .
+########
+14
+On Thursday , Turnbull said basic English would no longer be sufficient to become an Australian citizen under the new test .
+would	7	ps_cue
+no	8	neg_cue
+########
+15
+<EOP> .
+########
+16
+Applicants need a minimum level 6.0 equivalent of the International English Language Testing System , and a person will only become eligible for citizenship after four years as a permanent resident , up from one year .
+need	1	ps_cue
+will	18	ps_cue
+########
+17
+<EOP> .
+########
+18
+`` What we are doing is strengthening our multicultural society and strengthening our values , '' Turnbull told reporters in Canberra .
+########
+19
+<EOP> .
+########
+20
+Turnbull said the current immigration process was mainly `` administrative '' while the citizenship test largely a `` civics test '' .
+########
+21
+<EOP> .
+########
+22
+The current citizenship multiple_choice questionnaire tests a person 's knowledge of Australian laws , national symbols and colors of the Aboriginal flag .
+########
+23
+But Turnbull said it was not adequate to judge whether a person would accept `` Australian values '' .
+not	5	neg_cue
+whether	9	ps_cue
+would	12	ps_cue
+########
+24
+<EOP> .
+########
+25
+`` If we believe that respect for women and children and saying no to violence ... is an Australian value , then why should that not be made a key part , a fundamental part , a very prominent part , of our process to be an Australian citizen ?
+no	12	neg_cue
+should	23	ps_cue
+not	25	neg_cue
+########
+26
+Why should the test simply be a checklist of civic questions ? ''
+should	1	ps_cue
+########
+27
+<EOP> .
+########
+28
+The new citizenship test will include questions about whether applicants have sent their kids to school , whether they go to work _ if they are of working age _ and whether becoming part of unruly gangs in cities were Australian values .
+will	4	ps_cue
+whether	8	ps_cue
+whether	17	ps_cue
+whether	31	ps_cue
+########
+29
+<EOP> .
+########
+30
+<EOP> .
+########
+31
+LRB China Daily 04_21_2017 page12 RRB <EOP> .
+########

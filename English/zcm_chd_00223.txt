@@ -1,0 +1,151 @@
+Will Argentina propose bilateral and multilateral cooperation
+0
+Gathering to send ` strong message ' to world , Argentine envoy says <EOP> .
+########
+1
+2017_05_13 07:28 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+Argentina will propose bilateral and multilateral cooperation in infrastructure and agriculture during the Belt and Road Forum for International Cooperation , its ambassador said .
+propose	2	CT+	CT+
+will	1	ps_cue
+########
+4
+<EOP> .
+########
+5
+Argentine President Mauricio Macri will attend the forum and make a state visit to China from Sunday to Thursday .
+will	4	ps_cue
+########
+6
+<EOP> .
+########
+7
+According to Diego Ramiro Guelar , Argentina 's ambassador to China , the Belt and Road Initiative is a global proposal that includes countries from different regions of the world , including Argentina .
+########
+8
+Guelar spoke to China Daily at his country 's embassy on Monday .
+########
+9
+<EOP> .
+########
+10
+`` Argentina has two main proposals .
+########
+11
+First is the possibility to include Latin American countries ' infrastructure in key projects of the Belt and Road Initiative , '' he said .
+possibility	3	ps_cue
+########
+12
+<EOP> .
+########
+13
+According to Guelar , Argentina has major rivers that connect Bolivia , Paraguay , Brazil and Argentina , and many Chinese companies are already working on river transport infrastructure .
+########
+14
+<EOP> .
+########
+15
+`` We think this can be included in the worldwide infrastructure program under the initiative , '' he said .
+can	4	ps_cue
+########
+16
+<EOP> .
+########
+17
+Since Argentina is building national programs related to energy and transport , the ambassador also suggested cooperation between China and Argentina in terms of railways , hydroelectric power , nuclear power and nonconventional power such as wind and sun .
+suggested	15	CT+	CT+
+suggested	15	ps_cue
+########
+18
+<EOP> .
+########
+19
+Cooperation between China and Africa in the food sector is the second area in which his country can be useful , since Argentina has excellent technology that can help increase food production in Africa , Guelar said .
+can	17	ps_cue
+can	27	ps_cue
+########
+20
+<EOP> .
+########
+21
+`` We can cooperate with China and Africa , '' he said .
+can	2	ps_cue
+########
+22
+<EOP> .
+########
+23
+Guelar believes the forum could also send a clear message of international cooperation on global issues , such as environmental protection , the fight against drug trafficking and violence .
+could	4	ps_cue
+against	24	neg_cue
+########
+24
+<EOP> .
+########
+25
+`` This is a very strong message that could neutralize the few voices that are menacing the world with new nationalism , isolation or violence .
+could	8	ps_cue
+or	23	ps_cue
+########
+26
+And it is going to be listened to by hundreds of millions of people all over the world , '' he said .
+########
+27
+<EOP> .
+########
+28
+This year marks the 45th anniversary of the establishment of diplomatic relations between China and Argentina , and China has become the second_largest trading partner of Argentina , according to the Foreign Ministry .
+########
+29
+<EOP> .
+########
+30
+The ambassador hopes `` close cooperation '' through investment , financing and trade will also happen in two new areas , tourism and soccer .
+hopes	2	ps_cue
+will	13	ps_cue
+########
+31
+<EOP> .
+########
+32
+Last year , only 35,000 of the 120 million Chinese who traveled abroad chose Argentina as their destination .
+########
+33
+<EOP> .
+########
+34
+In order to attract more Chinese tourists to Argentina , a 10_year visa policy for Chinese citizens will be announced during Macri 's visit to China .
+will	17	ps_cue
+########
+35
+Under this new policy , tourists can stay up to three months at a time in Argentina .
+can	6	ps_cue
+########
+36
+<EOP> .
+########
+37
+`` We hope in 10 years we will see 1 million Chinese tourists , '' Guelar said .
+hope	2	ps_cue
+will	7	ps_cue
+########
+38
+<EOP> .
+########
+39
+The two countries also will sign agreements on soccer cooperation during the Argentine president 's visit , to promote exchanges among soccer clubs , schools , players and coaches .
+will	4	ps_cue
+########
+40
+<EOP> .
+########
+41
+`` We are going to participate in this case to help China in the football field , '' he added .
+########
+42
+<EOP> .
+########

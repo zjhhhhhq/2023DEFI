@@ -1,0 +1,185 @@
+Will robots replace human attributes
+0
+There are some human attributes robots could never replace _ or at least that 's what you might hope .
+replace	8	CT-	CT-
+never	7	neg_cue
+could	6	ps_cue
+or	10	ps_cue
+might	17	ps_cue
+hope	18	ps_cue
+########
+1
+<EOP> .
+########
+2
+But one university has brought that into question by replacing one of their teaching assistants with a machine .
+replacing	9	CT-	CT-
+question	7	ps_cue
+########
+3
+And none of the students realized .
+none	1	neg_cue
+########
+4
+<EOP> .
+########
+5
+Jill Watson , an IBM_designed bot , has been helping graduate students at Georgia Institute of Technology solve problems with their design projects since January .
+########
+6
+<EOP> .
+########
+7
+Responding to questions over email and posted on forums , Jill had a casual , colloquial tone , and was able to offer nuanced and accurate responses within minutes.Her replies included ' yep ! '
+########
+8
+and ' we 'd love to ' .
+love	4	ps_cue
+########
+9
+<EOP> .
+########
+10
+The students had no idea until they were told _ and many were shocked .
+no	3	neg_cue
+########
+11
+<EOP> .
+########
+12
+Tyson Bailey began to wonder if Jill was a computer and posted his suspicions on Piazza .
+########
+13
+<EOP> .
+########
+14
+We were taking an AI course , so I had to imagine that it was possible there might be an AI lurking around , ' said Bailey , who lives in Albuquerque , New Mexico .
+possible	15	ps_cue
+might	17	ps_cue
+########
+15
+<EOP> .
+########
+16
+It seemed very much like a normal conversation with a human being , ' Jennifer Gavin , one of the students , told the Wall Street Journal .
+seemed	1	ps_cue
+like	4	ps_cue
+########
+17
+<EOP> .
+########
+18
+Another student , Petr Bela , told the newspaper : ' Just when I wanted to nominate Jill Watson as an outstanding TA . '
+wanted	14	ps_cue
+########
+19
+<EOP> .
+########
+20
+The bot was named Jill Watson after the IBM Watson analytics system that all her responses come from _ essentially her brain .
+########
+21
+<EOP> .
+########
+22
+She was trained by Georgia Tech researchers before being thrown into the mix with nine other TAs .
+########
+23
+<EOP> .
+########
+24
+Some students were suspicious at how swiftly she responded .
+suspicious	3	ps_cue
+########
+25
+And once she used the word 'd esign ' instead of ' project ' .
+instead	9	neg_cue
+########
+26
+But none actually suspected she was a bot .
+none	1	neg_cue
+suspected	3	ps_cue
+########
+27
+<EOP> .
+########
+28
+And they said many of the TAs are sharp , impersonal , and quick to respond anyway .
+########
+29
+<EOP> .
+########
+30
+The experiment sent shockwaves through the tech industry , with many questioning the ethics of covertly inserting artificial intelligence into real_life situations .
+########
+31
+<EOP> .
+########
+32
+But Ashok Goel , the computer science professor who designed the project , insisted it was a worthwhile experiment _ and Jill performed a necessary task .
+########
+33
+<EOP> .
+########
+34
+Students posted upwards of 10,000 messages on forums , taking up professors ' time with routine responses .
+########
+35
+<EOP> .
+########
+36
+One of the main reasons many students drop out is because they do n't receive enough teaching support .
+n't	13	neg_cue
+########
+37
+<EOP> .
+########
+38
+We created Jill as a way to provide faster answers and feedback . '
+########
+39
+<EOP> .
+########
+40
+The bot has helped medical research teams diagnose illnesses in patients .
+########
+41
+<EOP> .
+########
+42
+And in 2013 it took on the role of customer service manager .
+########
+43
+<EOP> .
+########
+44
+According to Goel , Jill Watson 's capabilities were far more nuanced than that .
+########
+45
+She answers only to questions that she is 97 per cent certain of the answer to .
+########
+46
+<EOP> .
+########
+47
+Once Watson had a number of potential solutions , it was able to check against its database to make sure the answers made sense .
+potential	6	ps_cue
+against	14	neg_cue
+########
+48
+<EOP> .
+########
+49
+Watson then evaluated the response and determined whether to virtually press the buzzer .
+whether	7	ps_cue
+########
+50
+<EOP> .
+########
+51
+The bot would then speak with an electronic voice synthesized from recordings that actor Jeff Woodman made for an IBM text_to_speech program in 2004 .
+would	2	ps_cue
+########
+52
+<EOP> .
+########

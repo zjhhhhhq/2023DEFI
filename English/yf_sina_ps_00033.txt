@@ -1,0 +1,66 @@
+Will China send a rover to Mars to collect samples
+0
+China is planning to send a rover to Mars to collect samples and search for alien life within the next six years .
+send	4	PS+	PS+
+planning	2	ps_cue
+########
+1
+<EOP> .
+########
+2
+Ouyang Ziyuan , chief scientist of the country 's lunar project , said the Mars programme will focus on creating space probes on the red planet .
+focus	17	CT+	PS+
+will	16	ps_cue
+########
+3
+<EOP> .
+########
+4
+According to the Beijing Times , quoted by South China Morning Post , China 's space agency plan to touch down on Mars by 2020 .
+touch	19	PS+	PS+
+plan	17	ps_cue
+########
+5
+<EOP> .
+########
+6
+It will look to collect its own samples over the next 10 years , while also looking for extraterrestrial life and determining if the planet is hospitable to life .
+will	1	ps_cue
+########
+7
+<EOP> .
+########
+8
+Ouyang was speaking at the International Planetarium Society Conference in Beijing , during which he gave time schedules for the mission .
+gave	15	neg_cue
+########
+9
+<EOP> .
+########
+10
+China 's space agency currently has the Jade Rabbit LRB Yutu RRB on the moon .
+########
+11
+It was the nation 's first soft landing and roving exploration on the Moon .
+########
+12
+The mission was part of the Chang ' e 3 expedition , which as well as landing on the moon was to develop and test key technologies for future missions .
+########
+13
+<EOP> .
+########
+14
+Ouyang said another important goal of the Mars mission was to detect solar systems beyond Earth 's reach and to compare the origins of earth_like planets with the formation of the solar system .
+detect	11	CT+	PS+
+########
+15
+<EOP> .
+########
+16
+In potentially its most ambitious project , the space agency also hopes to recreate a planet based on information obtained through exploration .
+potentially	1	ps_cue
+hopes	11	ps_cue
+########
+17
+<EOP> .
+########

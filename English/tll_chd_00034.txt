@@ -1,0 +1,175 @@
+Does London van attack delay campaigning
+0
+London van attack kills 7 , delays campaigning <EOP> .
+delays	6	CT+	CT+
+########
+1
+2017_06_05 07:38 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+<EOP> .
+########
+4
+Campaigning for Britain 's general election was suspended for a day after British police said seven people were killed and 48 others injured when a white van mowed down pedestrians on London Bridge in the city 's center , and three attackers were shot dead after stabbing several victims at nearby Borough Market on Saturday night .
+suspended	7	CT+	CT+
+suspended	7	neg_cue
+########
+5
+<EOP> .
+########
+6
+UK Prime Minister Theresa May held an emergency meeting of COBRA , the government committee that coordinates intelligence matters , on Sunday and afterward said : `` The whole of the country needs to come together to counter this extremism .
+May	4	ps_cue
+needs	32	ps_cue
+########
+7
+We need to review our counterterrorism strategy , to see police have everything they need . ''
+need	1	ps_cue
+need	14	ps_cue
+########
+8
+<EOP> .
+########
+9
+She added : `` It is time to say enough is enough . ''
+########
+10
+<EOP> .
+########
+11
+Both the ruling Conservatives and the Labour Party confirmed they would suspend national campaigning ahead of Thursday 's general election , although the minority UKIP party said it would continue .
+suspend	11	PS+	CT+
+would	10	ps_cue
+suspend	11	neg_cue
+would	28	ps_cue
+########
+12
+<EOP> .
+########
+13
+<EOP> .
+########
+14
+<EOP> .
+########
+15
+The attackers drove a white van at pedestrians on London Bridge before coming to a halt near Borough Market , a popular bar and restaurant quarter .
+########
+16
+The men then attacked anyone they could find with knives before being shot dead by police eight minutes after the incident had begun .
+could	6	ps_cue
+########
+17
+<EOP> .
+########
+18
+The attacks took place outside and inside bars and restaurants .
+########
+19
+In some places the attackers were repelled by people throwing chairs and bottles at them .
+########
+20
+An unarmed policeman who confronted them was one of the injured .
+########
+21
+<EOP> .
+########
+22
+The London Ambulance Service said they took 48 people to six hospitals around the capital , most suffering from stab wounds and collision injuries .
+########
+23
+<EOP> .
+########
+24
+May confirmed the three attackers were wearing fake bomb vests .
+May	0	ps_cue
+########
+25
+She said police had foiled five terrorist plots since March .
+########
+26
+She said the recent attacks were all connected to Islamist extremism and that the `` safe spaces '' where it was allowed to breathe on the internet , in British communities and foreign countries such as Libya and Syria must be challenged .
+########
+27
+<EOP> .
+########
+28
+But she said the London Bridge attack was not directly linked to a similar one on Westminster Bridge in March that killed five or a bomb attack on a pop concert in Manchester .
+not	8	neg_cue
+or	23	ps_cue
+########
+29
+The attack comes less than two weeks after a man blew himself up at the Ariana Grande concert in Manchester , killing 22 people .
+########
+30
+<EOP> .
+########
+31
+Saturday 's attack happened just south of London 's financial district .
+########
+32
+The French government confirmed that at least two of its citizens were injured and at least one Australian and a New Zealander are being treated at a hospital .
+########
+33
+The Chinese embassy said so far no Chinese nationals had been hurt .
+no	6	neg_cue
+########
+34
+<EOP> .
+########
+35
+The area of the attack remained closed on Sunday as police officers searched for evidence .
+########
+36
+Cressida Dick , the head of the Metropolitan police , said authorities did not know the identity of the attackers but that they believed the incident had been contained .
+not	13	neg_cue
+believed	23	ps_cue
+########
+37
+<EOP> .
+########
+38
+Leaders from all over the world condemned the London attack .
+condemned	6	neg_cue
+########
+39
+US President Donald Trump spoke with May after the attack and Russian President Vladimir Putin said the London Bridge attack is `` shocking in its cruelty and cynicism '' .
+May	6	ps_cue
+########
+40
+<EOP> .
+########
+41
+European leaders including Chancellor Angela Merkel , French President Emmanuel Macron , Italian Premier Paolo Gentiloni , Spanish Prime Minister Mariano Rajoy have voiced solidarity with the British government and expressed condolences to the victims in the London attacks .
+########
+42
+<EOP> .
+########
+43
+conal@mail.chinadailyuk.com <EOP> .
+########
+44
+<EOP> .
+########
+45
+<EOP> .
+########
+46
+<EOP> .
+########
+47
+<EOP> .
+########
+48
+People disperse along Borough High Street following the London Bridge van attack and subsequent stabbings in which seven people were confirmed killed and dozens hurt .
+########
+49
+The suspected perpetrators were shot by police.Dominic Lipinski_press Association Via Ap <EOP> .
+suspected	1	ps_cue
+########
+50
+LRB China Daily 06_05_2017 page1 RRB <EOP> .
+########

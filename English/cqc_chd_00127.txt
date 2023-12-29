@@ -1,0 +1,41 @@
+Will president Xi visit Kazakhstan
+0
+President Xi to visit Kazakhstan <EOP> .
+visit	3	CT+	CT+
+########
+1
+2017_06_02 10:25 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+President Xi Jinping will embark on a four_day trip to Kazakhstan next Wednesday , Foreign Ministry spokesman Lu Kang announced on Friday .
+will	3	ps_cue
+########
+4
+<EOP> .
+########
+5
+At the invitation of Kazakhstan President Nursultan Nazarbayev , Xi will pay a state visit to the country , which borders western China .
+visit	14	CT+	CT+
+will	10	ps_cue
+########
+6
+He will attend the 17th Meeting of the Council of Heads of State of the Shanghai Cooperation Organization and the opening ceremony of Astana Expo 2017 between Wednesday and Saturday , Lu said .
+attend	2	CT+	CT+
+will	1	ps_cue
+########
+7
+<EOP> .
+########
+8
+This year marks the 25th anniversary of the establishment of diplomatic relations between China and Kazakhstan .
+########
+9
+The two presidents had a meeting in Beijing last month on the sidelines of the Belt and Road Forum for International Cooperation .
+meeting	5	CT+	CT+
+########
+10
+<EOP> .
+########

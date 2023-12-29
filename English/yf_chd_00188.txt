@@ -1,0 +1,104 @@
+Does Mobike tout bike_sharing scheme in LatAm
+0
+Mobike touts bike_sharing scheme in LatAm <EOP> .
+touts	1	CT+	CT+
+########
+1
+2017_12_03 11:15 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+<EOP> .
+########
+4
+A representative of the Chinese bicycle_sharing company Mobike presents a unit to the representatives of the media , during the 11th China_Latin America and the Caribbean LRB China_LAC RRB Business Summit at the Punta del Este Convention Center , in Punta del Este , Uruguay , on Dec 1 , 2017 .
+presents	8	CT+	CT+
+########
+5
+LRB Photo_Xinhua RRB <EOP> .
+########
+6
+<EOP> .
+########
+7
+<EOP> .
+########
+8
+PUNTA DEL ESTE , Uruguay _ Mobike , one of China 's leading bicycle_sharing program operators , is promoting its system in Latin America .
+promoting	18	CT+	CT+
+########
+9
+<EOP> .
+########
+10
+Curious attendees circled a display of bikes , took pictures and even took them for a spin on the first day of the 11th China_Latin America and the Caribbean LRB China_LAC RRB Business Summit held in the Uruguayan resort Punta del Este on Friday .
+########
+11
+<EOP> .
+########
+12
+Mobike , which emerged in 2016 and now operates in about 180 cities , mainly in China but also abroad , has introduced a spate of design innovations to make their bikes more user_friendly , including airless puncture_proof tires , shaft transmission system , solar_powered PV panel on some models to power the bike and a patented durable disc brake that can run for more than 10,000 km without failing .
+can	61	ps_cue
+without	68	neg_cue
+failing	69	neg_cue
+########
+13
+<EOP> .
+########
+14
+After taking one of the bikes for a ride , Uruguayan agricultural engineer Daniel Palomares said he liked the bike_sharing arrangement and its benefits .
+########
+15
+<EOP> .
+########
+16
+`` It 's necessary in many areas so we can all live in a much more sustainable economy , in a much more sustainable environment , able to share among us things that we are n't using at a given moment and that someone else can use without each of us having to have the same thing , '' said Palomares .
+can	9	ps_cue
+n't	35	neg_cue
+can	45	ps_cue
+without	47	neg_cue
+########
+17
+<EOP> .
+########
+18
+Mobike spokesperson Yang Zhongjie told Xinhua : `` We want to expand in the international market , as well as in China . ''
+########
+19
+<EOP> .
+########
+20
+`` We hope everyone uses the bicycles to help reduce environmental pollution and improve environmental conditions , '' he added .
+hope	2	ps_cue
+########
+21
+<EOP> .
+########
+22
+The program has more than 200 million registered users in China , where it operates a fleet of more than 7 million bikes that make up to 30 million trips a day .
+########
+23
+<EOP> .
+########
+24
+Nationwide , China had 18.9 million users of shared bikes at the end of 2016 .
+########
+25
+The number is expected to hit 50 million by the end of 2017 , according to China 's E_Commerce Research Center .
+expected	3	ps_cue
+########
+26
+<EOP> .
+########
+27
+The sharing economy is gaining ground and having an impact .
+########
+28
+As of August 2017 , Mobike users alone had collectively pedaled some 5.6 billion km , replacing some 350,000 autos on the roads a year or cutting more than 1.26 million tons of carbon dioxide emissions , according to calculations by World Wildlife Fund .
+or	25	ps_cue
+########
+29
+<EOP> .
+########

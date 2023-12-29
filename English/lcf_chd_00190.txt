@@ -1,0 +1,80 @@
+Is the incident a terrorist attack 
+0
+Stabber in Turku a Moroccan citizen , suspected of terrorism <EOP> .
+terrorism	9	CT+	CT-
+suspected	7	ps_cue
+########
+1
+2017_08_19 19:21 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+<EOP> .
+########
+4
+<EOP> .
+########
+5
+<EOP> .
+########
+6
+People bring memorial candles and flowers to the Turku Market Square for the victims of Friday 's stabbings in Turku , Finland , Aug 19 , 2017 .
+########
+7
+LRB Photo_Agencies RRB <EOP> .
+########
+8
+TURKU , Finland _ Finnish police said Saturday the suspect who mounted the multiple stabbings in Turku , southwestern Finland , on Friday was a Moroccan citizen .
+suspect	9	ps_cue
+########
+9
+<EOP> .
+########
+10
+Police said they are investigating two murders and eight attempted murders involved in the case and suspecting there is intent of terrorism .
+terrorism	21	PS+	CT-
+intent	19	ps_cue
+########
+11
+<EOP> .
+########
+12
+The suspect , an 18_year_old man , is in intensive care at the Turku University Hospital , said the police .
+suspect	1	ps_cue
+########
+13
+<EOP> .
+########
+14
+Two people were killed and eight others wounded when he stabbed people at two squares in Turku on Friday afternoon .
+########
+15
+<EOP> .
+########
+16
+The police said those killed were two Finnish nationals , with one Italian and two Swedes among the injured .
+########
+17
+<EOP> .
+########
+18
+At a press conference on Friday evening , the police said they could not identify the nationality of the attacker and would not call the incident a terrorist attack .
+terrorist	27	CT-	CT-
+not	22	neg_cue
+could	12	ps_cue
+not	13	neg_cue
+would	21	ps_cue
+########
+19
+<EOP> .
+########
+20
+Witnesses told local media that they heard the attacker shouting `` Allah '' while committing the violence , but police could not confirm the claim .
+could	20	ps_cue
+not	21	neg_cue
+########
+21
+<EOP> .
+########

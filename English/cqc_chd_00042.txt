@@ -1,0 +1,104 @@
+Do Russia and the US reach the agreement 
+0
+UN welcomes US_Russian agreement on cease_fire in southern Syria <EOP> .
+agreement	3	CT+	CT+
+########
+1
+2017_07_08 20:50 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+DAMASCUS __ Deputy UN Special Envoy for Syria Ramzy Ezzeldin Ramzy said here on Saturday that the cease_fire agreement reached Friday between the United States and Russia to quell fighting in southwest Syria is a `` step in the right direction . ''
+agreement	18	CT+	CT+
+########
+4
+<EOP> .
+########
+5
+In a press briefing held in Damascus , Ramzy said the US_Russian agreement for creating the de_escalation zones in southwest Syria is also an important development , adding that the UN support the efforts to de_escalate violence in Syria .
+agreement	12	CT+	CT+
+########
+6
+<EOP> .
+########
+7
+`` The agreement to create de_escalation zones in southern Syria ... is an important development .
+agreement	2	CT+	CT+
+########
+8
+The UN always aims to de_escalate tension and this is a step in the right direction .
+########
+9
+We hope that the other areas that have been discussed to be included in the de_escalation zones deal to reach similar agreement soon and that will support the political process , '' he said .
+agreement	21	CT+	CT+
+hope	1	ps_cue
+will	25	ps_cue
+########
+10
+<EOP> .
+########
+11
+A day earlier , US Secretary of State Rex Tillerson said the agreement , if it holds , may be a blueprint for other parts of the country .
+agreement	12	CT+	CT+
+may	18	ps_cue
+########
+12
+`` This area in the south is our first show of success .
+########
+13
+We hope we can replicate that elsewhere , '' he said .
+hope	1	ps_cue
+can	3	ps_cue
+########
+14
+<EOP> .
+########
+15
+Tillerson noted that there are more details to be discussed on the Russian side regarding who will provide the security forces to observe the cease_fire in that part , adding that such details will be finalized within a week .
+will	16	ps_cue
+will	33	ps_cue
+########
+16
+<EOP> .
+########
+17
+The de_escalation zones deal was established in Syria last May , with Russia , Iran and Turkey signing the deal .
+May	9	ps_cue
+########
+18
+<EOP> .
+########
+19
+The US had no apparent role in the deal , which included four zones that will be included in the deal , namely Homs , Idlib , Daraa and Eastern Ghouta countryside of Damascus .
+no	3	neg_cue
+will	15	ps_cue
+########
+20
+<EOP> .
+########
+21
+The deal held up relatively well in Idlib , but in Daraa in southern Syria the situation got tense recently with renewed battles between the Syrian army and the rebels , which prompted Russia and the US to reach the agreement for southwestern Syria , which include Daraa and Qunaitera , near the Israeli_occupied Golan Heights .
+agreement	40	CT+	CT+
+########
+22
+<EOP> .
+########
+23
+Qunaitera witnessed intense battles between the Syrian army and the rebels .
+########
+24
+Also , Israel struck Syrian military positions several times over the past two weeks .
+########
+25
+<EOP> .
+########
+26
+Still , the Syrian government has n't officially commented on the new US_Russian agreement .
+government	4	CT+	CT+
+n't	6	neg_cue
+########
+27
+<EOP> .
+########

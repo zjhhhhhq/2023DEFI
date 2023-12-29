@@ -1,0 +1,115 @@
+Did Maduro vote at 6:05 am local time
+0
+Venezuela 's leader casts unusual vote , decries ` terrorism ' <EOP> .
+########
+1
+2017_07_30 21:18 <EOP> .
+########
+2
+null <EOP> .
+########
+3
+Venezuelan President Nicolas Maduro show his ballot as casts his vote at a polling station during the Constituent Assembly election in Caracas , Venezuela July 30 , 2017 .
+########
+4
+LRB Photo_Agencies RRB <EOP> .
+########
+5
+Accompanied by close advisers and state media , Maduro voted at 6:05 am local time , far earlier and less publicly than in previous elections .
+voted	9	CT+	CT+
+########
+6
+The run_up to Sunday 's vote has been marked by months of clashes between protesters and the government , including the fatal shooting of a 61_year_old nurse by men accused of being pro_government paramilitaries during a protest at a church a few hundred feet from the school where Maduro voted .
+########
+7
+<EOP> .
+########
+8
+Maduro and his administration deny links to violent paramilitaries and say the political opposition is responsible for the violence that has left at least 113 dead and nearly 2000 wounded in four months of protests .
+deny	4	neg_cue
+opposition	13	neg_cue
+########
+9
+<EOP> .
+########
+10
+`` We 've stoically withstood the terrorist , criminal violence , '' Maduro said .
+########
+11
+`` Hopefully the world will respectfully extend its arms toward our country .
+Hopefully	1	ps_cue
+will	4	ps_cue
+########
+12
+`` The Trump administration has imposed successive rounds of sanctions on high_ranking members of Maduro 's administration , with the support of countries including Mexico , Colombia and Panama .
+########
+13
+Vice President Mike Pence promised on Friday that the US would take `` strong and swift economic actions '' if the vote went ahead .
+would	10	ps_cue
+########
+14
+He did n't say whether the US would sanction Venezuelan oil imports , a measure with the potential to undermine Maduro but cause an even deeper humanitarian crisis here .
+n't	2	neg_cue
+whether	4	ps_cue
+would	7	ps_cue
+potential	17	ps_cue
+########
+15
+<EOP> .
+########
+16
+The special assembly being selected Sunday will have powers to rewrite the country 's 1999 constitution but will also have powers above and beyond other state institutions , including the opposition_controlled congress .
+will	6	ps_cue
+will	17	ps_cue
+########
+17
+<EOP> .
+########
+18
+While opinion polls say a vast majority oppose him , Maduro made clear in a televised address Saturday evening that he intends to use the assembly to govern without limitation , describing the vote as `` the election of a power that 's above and beyond every other .
+oppose	7	neg_cue
+without	28	neg_cue
+########
+19
+It 's the super power !
+########
+20
+`` He said he wants the assembly to strip opposition legislators of their constitutional immunity from prosecution and jail at least one -- Freddy Guevara , a hard_line opposition leader and one the highest_profile organizers of four months of protests against the government .
+wants	4	ps_cue
+opposition	9	neg_cue
+opposition	28	neg_cue
+against	40	neg_cue
+########
+21
+<EOP> .
+########
+22
+`` This little Hitler has his cell guaranteed ! ''
+little	2	neg_cue
+########
+23
+Maduro shouted , using his frequent nickname for Guevara .
+########
+24
+<EOP> .
+########
+25
+The opposition is boycotting Sunday 's vote , contending the election has been structured to ensure Maduro 's socialist party continues to dominate .
+opposition	1	neg_cue
+########
+26
+So all 5,500 candidates for the 545 seats in the constituent assembly are his supporters .
+########
+27
+<EOP> .
+########
+28
+The vote 's success will be measured by turnout , with the opposition urging Venezuelans to stay and the government encouraging participation with tactics that include threats to state workers ' jobs and social benefits like subsidized food for the poor .
+vote	1	CT+	CT+
+will	4	ps_cue
+opposition	12	neg_cue
+like	35	ps_cue
+########
+29
+<EOP> .
+########

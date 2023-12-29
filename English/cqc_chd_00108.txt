@@ -1,0 +1,73 @@
+Do China, ASEAN strengthen judicial exchanges
+0
+China , ASEAN look to strengthen judicial exchanges <EOP> .
+strengthen	5	CT+	CT+
+########
+1
+2017_06_09 13:52 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+Judges from China and ASEAN members reached an agreement on Thursday to strengthen continuous judicial communication and cooperation in order to guarantee social security and economic prosperity in the region .
+strengthen	12	CT+	CT+
+########
+4
+<EOP> .
+########
+5
+With the implementation of the Belt and Road Initiative , exchanges between China and ASEAN have expanded in multiple areas .
+expanded	16	CT+	CT+
+########
+6
+However , business disputes and cross_border crimes , such as drug trafficking and smuggling , continue to increase , Zhou Qiang , president of China 's Supreme People 's Court , said at the opening ceremony of the China_ASEAN Justice Forum .
+########
+7
+<EOP> .
+########
+8
+More than 100 judicial officers attended the forum , held in Nanning , Guangxi Zhuang autonomous region , including presidents and chief judges from Southeast Asian countries such as Singapore , Thailand and Malaysia .
+########
+9
+South Asian nations such as Sri Lanka and Pakistan were also invited .
+########
+10
+<EOP> .
+########
+11
+Kanagasabapathy Sripavan , Sri Lanka 's chief justice , said : `` It 's my first time to attend the forum .
+########
+12
+We were specially invited this year because Sri Lanka is an important partner along the 21st Century Maritime Silk Road .
+########
+13
+The forum offers us a good chance to learn about China 's judicial achievements in recent years . ''
+########
+14
+<EOP> .
+########
+15
+Veerapol Tungsuwan , president of Thailand 's Supreme Court , said : `` The judicial exchange between China and Thailand has enjoyed 26 years of history since 1991 .
+########
+16
+I am glad to see more and more countries involved in the forum and sharing their judicial reform experiences , which will no doubt deepen mutual understanding and accelerate regional prosperity . ''
+deepen	24	CT+	CT+
+will	21	ps_cue
+no	22	neg_cue
+########
+17
+<EOP> .
+########
+18
+The forum was previously held in 2014 , focusing on judicial reform , the training of judges and dispute resolution .
+########
+19
+<EOP> .
+########
+20
+zhangli@chinadaily.com.cn <EOP> .
+########
+21
+<EOP> .
+########

@@ -1,0 +1,75 @@
+Does experts attend Governance Modernization Seminar
+0
+Experts share ideas in London at Governance Modernization Seminar <EOP> .
+Seminar	8	CT+	CT+
+########
+1
+2017_09_26 23:52 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+Around 50 experts and scholars from universities , research institutes , think tanks , and government institutions in China , the United Kingdom , France , Germany , and Italy have attended the Governance Modernization Seminar in London .
+Seminar	35	CT+	CT+
+########
+4
+<EOP> .
+########
+5
+The event , which was co_hosted by Beijing Normal University 's China Academy of Social Management and by the China Institute within the University of London 's School of Oriental and African Studies , carried the theme `` Social Governance Modernization : New Trends and New Responses '' .
+########
+6
+<EOP> .
+########
+7
+Delegates discussed theoretical and practical issues and topics included the Belt and Road Initiative , the internet community , population aging , government decision_making , and public service , all in relation to social governance .
+########
+8
+<EOP> .
+########
+9
+Wei Liqun , a former director of the Research Office of the State Council and dean of the China Academy of Social Management , delivered the keynote speech , in which he said human society is faced with many serious challenges and risks , in particular , from the potential changes that will be brought about by `` informationization '' and `` internet plus '' .
+potential	49	ps_cue
+will	52	ps_cue
+########
+10
+<EOP> .
+########
+11
+`` Strengthening and innovating social governance , and improving the scientific and modern level of social governance are urgent tasks for human society and all countries in the world , '' he said .
+########
+12
+<EOP> .
+########
+13
+Jin Xu , a minister counselor at China 's UK embassy , said this year marks the 45th anniversary of ambassadorial_level diplomatic relations and the fifth anniversary of the high_level cultural exchange mechanism between China and the UK .
+########
+14
+<EOP> .
+########
+15
+`` In such context , it is of vital importance to deepen high_level academic exchanges in economic and social areas between the two , '' Jin said .
+########
+16
+`` Such institutionalized exchanges and cooperation have now gone beyond pure academic exchanges , but have forged a diverse open platform . ''
+########
+17
+<EOP> .
+########
+18
+During the latest Sino_UK People_to_People Dialogue , high_level officials from both countries agreed that social equity would be a new theme of cooperation under the new global partnership .
+would	16	ps_cue
+########
+19
+<EOP> .
+########
+20
+Christ Pallet , research analyst at the Asia Pacific Directorate within the Foreign and Commonwealth Office , said the conference was one of the first steps in taking this forward .
+conference	19	CT+	CT+
+forward	29	ps_cue
+forward	29	neg_cue
+########
+21
+<EOP> .
+########

@@ -1,0 +1,80 @@
+Do strong winds batter Central Europe 
+0
+Strong winds batter Central Europe <EOP> .
+batter	2	CT+	CT+
+########
+1
+2017_10_30 07:46 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+PRAGUE_BERLIN _ Strong winds battered Central Europe on Sunday , reaching 180 kilometers an hour in the Czech Republic , where two people were killed by falling trees .
+battered	4	CT+	CT+
+killed	24	CT+	CT+
+########
+4
+<EOP> .
+########
+5
+The storm knocked out power to hundreds of thousands of households , Czech electricity utility CEZ said .
+knocked	2	CT+	CT+
+########
+6
+Winds reached more than 100 km_h in several parts of the country and topped out at 180 km_h on Snezka , at 1,602 meters its highest mountain , Czech Television reported .
+########
+7
+<EOP> .
+########
+8
+In Germany , railway operator Deutsche Bahn closed many routes in northern and central Germany , cutting rail access to cities such as Bremen , Hamburg , Berlin , Dresden and Leipzig .
+########
+9
+<EOP> .
+########
+10
+A soccer match between Dynamo Dresden and Eintracht Braunschweig scheduled in Dresden was delayed by two and a half hours because of winds .
+scheduled	9	ps_cue
+delayed	13	neg_cue
+########
+11
+<EOP> .
+########
+12
+The winds felled trees in the Czech Republic , with one man dying after being hit on a sidewalk in a town in the north of the country and one woman killed by a tree in a wooded area , media reported .
+dying	12	CT+	CT+
+killed	31	CT+	CT+
+########
+13
+<EOP> .
+########
+14
+The weather delayed or halted traffic on several railway corridors and slowed road traffic , with a fallen tree blocking one highway just outside of the capital , Prague , the website of newspaper Mlada Fronta Dnes reported .
+delayed	2	neg_cue
+or	3	ps_cue
+########
+15
+<EOP> .
+########
+16
+Prague Zoo closed because of the winds , but Prague Airport was running without problems , newspaper Lidove Noviny 's website reported .
+without	13	neg_cue
+########
+17
+<EOP> .
+########
+18
+The winds also hit Poland , damaging a pipeline at the liquefied natural gas terminal in the port of Swinoujscie .
+hit	3	CT+	CT+
+########
+19
+They caused a small leak but no greater damage , according to a spokesman for the state gas pipeline operator , Gaz_System .
+no	6	neg_cue
+########
+20
+<EOP> .
+########
+21
+Reuters <EOP> .
+########

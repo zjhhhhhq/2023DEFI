@@ -1,0 +1,112 @@
+Will FTA enhance Russia 's presence in APR markets
+0
+Creation of Asia_Pacific FTA to promote Russia 's position on regional markets : Putin <EOP> .
+########
+1
+2017_11_09 09:24 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+MOSCOW _ Russia favors the idea of establishing a free trade area LRB FTA RRB in the Asia Pacific region LRB APR RRB , which is expected to help enhance Russia 's presence in APR markets , Russian President Vladimir Putin said Wednesday .
+enhance	29	PS+	PS+
+expected	26	ps_cue
+########
+4
+<EOP> .
+########
+5
+`` We support the idea of forming an Asia_Pacific free trade area .
+########
+6
+We believe this is in our practical interest and represents an opportunity to strengthen our positions in the rapidly growing APR markets , '' Putin said in his article `` The 25th APEC Economic Leaders ' Meeting in Danang : Together Towards Prosperity and Harmonious Development '' which is published on the Kremlin 's website .
+strengthen	13	CT+	PS+
+########
+7
+<EOP> .
+########
+8
+The APEC LRB Asia_Pacific Economic Cooperation RRB summit will be held on Nov. 10_11 in Vietnam 's central Danang city .
+will	8	ps_cue
+########
+9
+<EOP> .
+########
+10
+Over the past five years , the share of APEC economies in Russia 's foreign trade has increased from 23 to 31 percent , and from 17 to 24 percent in exports , according to Putin .
+########
+11
+<EOP> .
+########
+12
+`` And we have no intention of stopping there , '' he said .
+no	4	neg_cue
+stopping	7	neg_cue
+########
+13
+<EOP> .
+########
+14
+The president underlined that the project of creating the FTA should take example by the experiences gained from implementing key integration formats in the Asia_Pacific region and Eurasia , including the Eurasian Economic Union .
+should	10	ps_cue
+########
+15
+<EOP> .
+########
+16
+`` I would like to mention our idea to create the Greater Eurasian Partnership .
+would	2	ps_cue
+like	3	ps_cue
+########
+17
+We suggested forming it on the basis of the Eurasian Economic Union and China 's Belt and Road initiative .
+suggested	1	ps_cue
+########
+18
+To reiterate , this is a flexible modern project open to other participants , '' he said .
+########
+19
+<EOP> .
+########
+20
+In his article , Putin also highlighted that establishing effective cooperation to support innovation is `` the most important task we face in this dynamic era . ''
+########
+21
+<EOP> .
+########
+22
+According to the president , Russia has put forward a number of specific initiatives in this regard , including unifying digital economy and trade rules , harmonizing national technical standards , coordinating strategies for forming high_tech markets , and creating a uniform conceptual framework for the digital space .
+forward	8	ps_cue
+forward	8	neg_cue
+########
+23
+<EOP> .
+########
+24
+`` In addition , we suggest starting consultations within APEC on international information security and protection of computer software , '' he added .
+suggest	5	ps_cue
+########
+25
+<EOP> .
+########
+26
+All these topics are intended to be fully discussed during the upcoming summit , Putin said .
+intended	4	ps_cue
+########
+27
+<EOP> .
+########
+28
+Leaders and representatives from 21 member economies are expected to participate in the APEC summit and discuss issues on sustainable growth and prosperity in the Asia_Pacific region .
+expected	8	ps_cue
+########
+29
+<EOP> .
+########
+30
+<EOP> .
+########
+31
+<EOP> .
+########

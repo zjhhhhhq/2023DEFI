@@ -1,0 +1,19 @@
+Is annual water fight held in Spain 's Madrid 
+0
+Annual water fight held in Spain 's Madrid <EOP> .
+fight	2	CT+	CT+
+########
+1
+2017_07_18 09:33 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+Revelers take part in the annual water fight LRB Naval Battle of Vallecas RRB where thousands of people gather to fight with water in the streets of Vallecas neighborhood of Madrid , July 16 , 2017 .
+fight	7	CT+	CT+
+fight	20	CT+	CT+
+########
+4
+LRB Photo_VCG RRB <EOP> .
+########

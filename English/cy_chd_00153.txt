@@ -1,0 +1,118 @@
+Does Park trial continue without Court
+0
+Court says Park trial to continue without her <EOP> .
+continue	5	CT-	CT-
+without	6	neg_cue
+########
+1
+2017_11_29 08:33 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+<EOP> .
+########
+4
+Former South Korean president Park Geunhye arrives for her trial the Seoul Central District Court in Seoul on Oct 16 .
+########
+5
+A court ruled on Tuesday that the trial will proceed without her .
+proceed	9	CT-	CT-
+without	10	neg_cue
+will	8	ps_cue
+########
+6
+CHOI JUNSEOK _ NEWSIS VIA AP <EOP> .
+########
+7
+SEOUL _ The trial of disgraced former South Korean president Park Geun_hye will proceed without her , a court said on Tuesday , following a hiatus of more than 40 days as she boycotted proceedings .
+proceed	13	CT-	CT-
+without	14	neg_cue
+will	12	ps_cue
+########
+8
+<EOP> .
+########
+9
+Park , who was ousted earlier this year over a sprawling corruption scandal , has refused to appear for her trial , angry at the court 's decision last month to extend her detention by six months .
+refused	15	neg_cue
+appear	17	ps_cue
+########
+10
+<EOP> .
+########
+11
+The ex_president 's legal team quit last month over the decision , accusing the court of bias .
+quit	5	neg_cue
+########
+12
+Park has since refused to cooperate with a team of state_sponsored defense lawyers appointed by the court , and failed to appear for her trial on Monday and Tuesday .
+refused	3	neg_cue
+failed	19	neg_cue
+appear	21	ps_cue
+########
+13
+<EOP> .
+########
+14
+`` We have a lot of things to do , including the questioning of many witnesses .
+########
+15
+Taking into account the limited time , ... we can not delay the trial any longer , '' presiding judge Kim Se_yoon said on Tuesday .
+can	9	ps_cue
+not	10	neg_cue
+########
+16
+<EOP> .
+########
+17
+The court_appointed defense lawyers repeatedly sought to interview Park at the detention center where she is being held , but she refused to see them , the Yonhap news agency said .
+refused	21	neg_cue
+########
+18
+<EOP> .
+########
+19
+Park , 65 , submitted a letter to the detention center on Monday , saying she can not appear at her trial because of her health problems .
+can	16	ps_cue
+not	17	neg_cue
+appear	18	ps_cue
+########
+20
+<EOP> .
+########
+21
+The center reported to the court that Park has been taking painkillers for back pain and a swollen knee , and has made clear her intention to not appear at the trial .
+not	27	neg_cue
+appear	28	ps_cue
+########
+22
+<EOP> .
+########
+23
+Authorities at the detention center said they were unable to force Park out because of her status as a former president of South Korea .
+unable	8	neg_cue
+########
+24
+<EOP> .
+########
+25
+Park , the country 's first woman president , was impeached by parliament in December after months of mass protests over accusations of graft and influence_peddling .
+########
+26
+<EOP> .
+########
+27
+South Korea 's constitutional court upheld the decision in March , removing her from office .
+########
+28
+Her trial started in May .
+May	4	ps_cue
+########
+29
+<EOP> .
+########
+30
+Agence France_presse <EOP> .
+########

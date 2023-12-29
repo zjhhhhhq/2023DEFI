@@ -1,0 +1,78 @@
+Does China call for restraint on Korean Peninsula issue 
+0
+China calls for restraint on Korean Peninsula issue <EOP> .
+calls	1	CT+	CT+
+########
+1
+2017_06_02 20:00 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+BEIJING _ China called on relevant parties to maintain restraint and not exacerbate tensions on the Korean Peninsula , a Foreign Ministry spokesperson said Friday .
+called	3	CT+	CT+
+not	11	neg_cue
+########
+4
+<EOP> .
+########
+5
+It was reported that the United Nations Security Council will vote on Friday on a proposal to strengthen sanctions on the Democratic People 's Republic of Korea LRB DPRK RRB over its repeated missile launches .
+will	9	ps_cue
+########
+6
+<EOP> .
+########
+7
+China remains committed to denuclearizing the Korean Peninsula , maintaining peace and stability there and resolving problems through dialogue and negotiation , Foreign Ministry spokesperson Hua Chunying said at a regular news briefing .
+########
+8
+<EOP> .
+########
+9
+The UN Security Council resolutions are explicit about the DPRK 's use of ballistic missile technologies , the spokesperson said , adding that the Security Council press statement recently expressed opposition to the missile launch .
+opposition	30	neg_cue
+########
+10
+<EOP> .
+########
+11
+`` The Korean Peninsula is now in a critical stage in terms of restarting dialogue , '' Hua said .
+########
+12
+<EOP> .
+########
+13
+All parties should exercise restraint and should not do anything to further aggravate regional tensions in order to maintain peace and stability in the region , Hua said , adding that the actions of the Security Council should also realize these goals .
+should	2	ps_cue
+should	6	ps_cue
+not	7	neg_cue
+should	37	ps_cue
+########
+14
+<EOP> .
+########
+15
+Given the DPRK has sped up the development of its nuclear missile program , China agrees to step up efforts with the international community against nuclear proliferation , Hua said .
+against	24	neg_cue
+########
+16
+<EOP> .
+########
+17
+China advocates strengthening efforts for peace and dialogue as tensions escalate on the peninsula , Hua said , noting that an emphasis on preventing nuclear proliferation and promoting peace and dialogue should also be strengthened .
+advocates	1	CT+	CT+
+should	31	ps_cue
+########
+18
+<EOP> .
+########
+19
+China is willing to bring the Korean Peninsula nuclear issue back to the track of peaceful resolution as soon as possible , Hua said .
+willing	2	ps_cue
+possible	20	ps_cue
+########
+20
+<EOP> .
+########

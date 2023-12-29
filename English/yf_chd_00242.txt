@@ -1,0 +1,91 @@
+Is there new laser surgery to get blue eyes emerging
+0
+New laser surgery to get blue eyes emerging <EOP> .
+########
+1
+2017_11_23 14:13 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+SAN FRANCISCO _ People who want to turn their eye colors blue permanently now have a chance as a US medical company has promoted a new laser surgery to achieve the change .
+surgery	27	CT+	CT+
+########
+4
+<EOP> .
+########
+5
+Stroma Medical , a US company based in southern California , has helped at least 37 patients to change their eye color from brown to blue with a laser surgery in around 20 seconds , according to an online report posted on Tuesday .
+surgery	29	CT+	CT+
+########
+6
+<EOP> .
+########
+7
+The laser works to eliminate the brown melanin __ the pigment which dyes hair and skin __ from the surface of the iris .
+########
+8
+<EOP> .
+########
+9
+Without the brown melanin , when light consequently enters and scatters in the stroma __ the little fibers look like bicycle spokes in light_colored eyes , blue eyes appear .
+Without	0	neg_cue
+little	16	neg_cue
+like	19	ps_cue
+appear	28	ps_cue
+########
+10
+<EOP> .
+########
+11
+In an earlier interview with CNN , the company 's representative Dr. Gregg Homer said the laser is so weak that the eyes wo n't bear injuries from it .
+n't	24	neg_cue
+########
+12
+Nevertheless , the medical industry and ophthalmologists still raised concerns about the irreversibility of the surgery .
+surgery	15	CT+	CT+
+########
+13
+<EOP> .
+########
+14
+Though the surgery currently stands at a price as high as approximate $ 5,000 , many netizens asked for more information on the company 's facebook .
+surgery	2	CT+	CT+
+########
+15
+Some are eager to see the technology released in London and Mexico .
+########
+16
+<EOP> .
+########
+17
+However , the new laser is in clinical trials , Stroma Medical said in their most recent reply on Facebook on Nov 3 .
+########
+18
+<EOP> .
+########
+19
+So far , the company 's website has been hung up .
+########
+20
+It said a new website will be launched soon .
+will	5	ps_cue
+########
+21
+<EOP> .
+########
+22
+Early reports said the new technology is yet to gain approval from US regulatory bodies .
+yet	7	neg_cue
+########
+23
+<EOP> .
+########
+24
+It seems that blue eye seekers have to wait longer until the new laser is more advanced and gains wider acceptance .
+seems	1	ps_cue
+########
+25
+<EOP> .
+########

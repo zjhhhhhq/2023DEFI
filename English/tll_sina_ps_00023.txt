@@ -1,0 +1,48 @@
+Did the students who were rated higher in openness and conscientiousness receive better grades
+0
+According to a new review of the link between personality and academic achievement , personality is a better way to predict success at school than intelligence as it 's usually measured , by traditional standardized tests .
+predict	20	ps_cue
+########
+1
+Arthur Poropat , of Griffith University in Australia , compared measurements of what psychologists call the `` big five '' personality traits -- openness , conscientiousness , extroversion , agreeableness , and neuroticism -- to academic scores , and found that the students who were rated higher in openness and conscientiousness tended to receive better grades .
+receive	53	PS+	PS+
+########
+2
+<EOP> .
+########
+3
+`` In practical terms , the amount of effort students are prepared to put in , and where that effort is focused , is at least as important as whether the students are smart , '' Poropat said in the release accompanying the paper , which was published in Learning and Individual Differences .
+whether	29	ps_cue
+########
+4
+`` And a student with the most helpful personality will score a full grade higher than an average student in this regard . ''
+score	10	CT+	PS+
+will	9	ps_cue
+########
+5
+<EOP> .
+########
+6
+In Dr. Poropat 's research , a student 's assessment of their own personality is as useful for predicting university success as intelligence rankings .
+########
+7
+However , when people who know the student well provide the personality rating , it is nearly four times more accurate for predicting grades .
+########
+8
+<EOP> .
+########
+9
+It makes intuitive sense that both conscientiousness and openness would result in higher grades ; it does n't really matter how smart you are if you ca n't manage to turn your homework in on time , for one .
+would	9	ps_cue
+n't	17	neg_cue
+n't	27	neg_cue
+########
+10
+And another word for openness is curiosity , another obviously necessary factor in learning .
+########
+11
+Still , it 's an interesting way to think about academic achievement for anyone who grew up believing they did well in school simply because they were `` smart . ''
+########
+12
+<EOP> .
+########

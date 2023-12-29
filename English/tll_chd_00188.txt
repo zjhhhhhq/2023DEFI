@@ -1,0 +1,171 @@
+Does Brexit offer hope for oyster farmers over water dispute
+0
+Brexit offers hope for oyster farmers over water dispute <EOP> .
+hope	2	ps_cue
+########
+1
+2017_05_02 07:19 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+<EOP> .
+########
+4
+GREENCASTLE , Ireland _ For many on the oyster_rich shores of the River Foyle estuary on the northern tip of Ireland , Britain 's departure from the European Union can not come soon enough .
+can	29	ps_cue
+not	30	neg_cue
+########
+5
+<EOP> .
+########
+6
+The hope is that Brexit will solve a decades_old sovereignty dispute over the waterway between British_ruled Northern Ireland and the Republic of Ireland .
+hope	1	ps_cue
+will	5	ps_cue
+########
+7
+<EOP> .
+########
+8
+The standoff has led to a boom in the unauthorized cultivation of oysters on Lough Foyle , which licensed Irish oyster farmers say threatens their lucrative export industry .
+########
+9
+<EOP> .
+########
+10
+`` After almost 100 years of failing to deal with the issue , Brexit will now force the two sides to settle the issue once and for all , '' said Seamus Bovaird , a former manager of the Lough Foyle Fishermen 's Co_Op .
+deal	8	CT-	CT-
+settle	21	CT+	CT-
+failing	6	neg_cue
+will	14	ps_cue
+########
+11
+<EOP> .
+########
+12
+When Ireland was partitioned in 1921 the main focus was on establishing peace after a bruising war of independence that led to the creation of two states on the island .
+########
+13
+<EOP> .
+########
+14
+<EOP> .
+########
+15
+<EOP> .
+########
+16
+Whether by accident or willful neglect , the British government and the newly_created Irish Free State left the ownership of Lough Foyle out of the terms of the negotiated settlement .
+or	3	ps_cue
+########
+17
+<EOP> .
+########
+18
+Elsewhere along the open border between Ireland and Northern Ireland , residents and businesses are concerned that new customs checks will be imposed once Britain is out of the EU .
+will	20	ps_cue
+########
+19
+<EOP> .
+########
+20
+But on Lough Foyle , Brexit spells greater legal certainty , according to Enda Craig , a member of the Loughs Agency , a cross_border body that supervises the waters but has no powers over aquaculture .
+no	32	neg_cue
+########
+21
+<EOP> .
+########
+22
+`` When Brexit comes in it will force the hand of the Irish government because ... the EU will have to ask it where its borders lie and then regulation can be enforced , '' Craig said .
+will	6	ps_cue
+will	18	ps_cue
+can	30	ps_cue
+########
+23
+<EOP> .
+########
+24
+Four years ago there were 2,000 oyster beds , now the Loughs Agency estimates there are around 30,000 .
+########
+25
+<EOP> .
+########
+26
+Only a small fraction have official licenses .
+########
+27
+<EOP> .
+########
+28
+With few employment prospects in the area , many have seized the opportunity created by the territorial spat .
+########
+29
+<EOP> .
+########
+30
+These oyster farmers consider themselves unlicensed rather than illegal but they still shy away from publicity and have consistently refused interviews .
+consider	3	ps_cue
+rather	6	neg_cue
+refused	19	neg_cue
+########
+31
+<EOP> .
+########
+32
+Craig compared the proliferation to the Klondike gold boom in Canada at the end of the 19th century .
+########
+33
+<EOP> .
+########
+34
+`` This is the Irish equivalent of the Klondike _ a marine gold rush with no enforcement , no guaranteed health and safety supervision or environmental controls , '' he said .
+no	15	neg_cue
+no	18	neg_cue
+or	24	ps_cue
+########
+35
+<EOP> .
+########
+36
+Traditionally , Irish oysters have been sold for the quality end of the French market , or to Asia .
+or	16	ps_cue
+########
+37
+<EOP> .
+########
+38
+Richie Flynn , aquaculture executive at the Irish Shellfish Association , said he was `` very nervous '' about the uncertainty and called for an immediate resolution .
+########
+39
+<EOP> .
+########
+40
+`` If it all unravels it would be a disaster for the guys who are doing things right , '' he said .
+would	6	ps_cue
+########
+41
+<EOP> .
+########
+42
+Agence France_Presse <EOP> .
+########
+43
+<EOP> .
+########
+44
+<EOP> .
+########
+45
+Oyster farmer Conall Lynch displays oysters at Culmore Point on Lough Foyle at the border between Derry in Northern Ireland and Donegal in the Republic of Ireland .
+########
+46
+Paul Faith _ Agence France_Presse <EOP> .
+########
+47
+<EOP> .
+########
+48
+LRB China Daily 05_02_2017 page10 RRB <EOP> .
+########

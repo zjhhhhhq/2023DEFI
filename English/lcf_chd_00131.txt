@@ -1,0 +1,110 @@
+Will there be more musical collaborations between China and the West 
+0
+Celebration of ties hits right note <EOP> .
+########
+1
+2017_10_02 16:00 <EOP> .
+########
+2
+China Daily UK <EOP> .
+########
+3
+<EOP> .
+########
+4
+Wang Beibei the Chinese soprano .
+########
+5
+LRB Photo_China Daily RRB <EOP> .
+########
+6
+Chinese soprano Wang Beibei is hoping for more musical collaborations between China and the West , as a way to bring cultures together , following a concert in London that was held to celebrate the 45th anniversary of ambassadorial_level diplomatic relations between China and the United Kingdom .
+collaborations	9	CT+	CT+
+hoping	5	ps_cue
+########
+7
+<EOP> .
+########
+8
+The singer from the city of Shenzhen in Southeast China founded the East_West Arts Initiative , which aims to introduce classical musicians to wider audiences by encouraging cultural exchanges between Europe and China .
+exchanges	28	CT+	CT+
+########
+9
+<EOP> .
+########
+10
+The East_West Arts Initiative staged an evening of performances on Thursday that featured emerging and established Chinese and European artists .
+########
+11
+Musicians played Western classical music and also works by Chinese composers .
+########
+12
+<EOP> .
+########
+13
+Wang , pianist Ke Ma , tenor Alberto Sousa , and Stephanie Lewis , a mezzo soprano , were among those who took the stage at St John 's Smith Square under the direction of conductor Peter Knapp .
+########
+14
+<EOP> .
+########
+15
+Classical music lovers were treated to renditions of Yellow River Piano Concerto , Zhi Liu 's My Motherland , and a duet between Wang and Sousa from Madame Butterfly .
+########
+16
+<EOP> .
+########
+17
+`` I really enjoyed the whole concert , even though I 'm suffering from a cough and it 's not really easy to sing , '' Wang said after the concert .
+not	19	neg_cue
+########
+18
+`` I felt so close to the audience , though , and to using music to build a bridge between different people and cultures . ''
+build	16	CT+	CT+
+########
+19
+<EOP> .
+########
+20
+The arts initiative aims to introduce Western singers to China and finds a platform for Chinese performers to get exposure in the West .
+########
+21
+<EOP> .
+########
+22
+`` Artists from China study the way the West expresses music and vice_versa , '' she said .
+########
+23
+`` It 's about mutual understanding . ''
+########
+24
+<EOP> .
+########
+25
+She added that she is very much looking forward to future performances and projects because such collaborations are `` magical '' .
+collaborations	16	CT+	CT+
+forward	8	ps_cue
+forward	8	neg_cue
+########
+26
+<EOP> .
+########
+27
+Sousa had collaborated with Wang previously in Puccini 's opera Madame Butterfly .
+########
+28
+<EOP> .
+########
+29
+He said he loved the concept of East meets West and the choice of repertoire for the evening and also hopes to see more concerts like it .
+hopes	20	ps_cue
+like	25	ps_cue
+########
+30
+<EOP> .
+########
+31
+<EOP> .
+########
+32
+<EOP> .
+########

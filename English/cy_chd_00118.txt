@@ -1,0 +1,119 @@
+Do the three countries boost their cooperation
+0
+With help from China , Pakistan finds common ground with Afghanistan <EOP> .
+########
+1
+2017_12_27 07:06 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+China and Pakistan are ready to discuss with Afghanistan extending the China_Pakistan Economic Corridor to Afghanistan , Foreign Minister Wang Yi has said .
+ready	4	ps_cue
+########
+4
+<EOP> .
+########
+5
+Wang also said at a joint news conference after he chaired the first China_Afghanistan_Pakistan Foreign Ministers ' Dialogue in Beijing on Tuesday morning that the corridor does not target any third party .
+not	27	neg_cue
+########
+6
+<EOP> .
+########
+7
+The gathering worked on repairing Afghanistan_Pakistan ties , boosting the war on terrorism and gearing up Afghanistan 's rebuilding process .
+########
+8
+<EOP> .
+########
+9
+As a key neighbor to both China and Pakistan , Afghanistan has a strong desire to improve its economy and public livelihood and become part of regional interconnectivity , Wang said .
+########
+10
+<EOP> .
+########
+11
+Concrete programs and approaches for cooperation regarding the CPEC will be decided through consultation among the three parties on an equal footing , he said , and one of the first options could be improving livelihoods at border areas .
+cooperation	5	CT+	CT+
+will	9	ps_cue
+could	32	ps_cue
+########
+12
+<EOP> .
+########
+13
+The CPEC is an economic cooperative project and should not be politicalized , Wang said .
+should	8	ps_cue
+not	9	neg_cue
+########
+14
+It has nothing to do with existing disputes in the region , including territorial ones , he added .
+nothing	2	neg_cue
+########
+15
+<EOP> .
+########
+16
+Afghan Foreign Minister Salahuddin Rabbani said he appreciated China for launching the `` unique '' trilateral dialogue that aims to promote peace , security , stability and prosperity among the three countries .
+########
+17
+<EOP> .
+########
+18
+The three ministers had `` an in_depth exchange of views on win_win development cooperation , with a special focus on infrastructure development , to strengthen connectivity among the three countries , including under the Belt and Road Initiative '' , Rabbani said .
+cooperation	13	CT+	CT+
+########
+19
+<EOP> .
+########
+20
+Pakistani Foreign Minister Khawaja Muhammad Asif said the successful implementation of CPEC projects `` will serve as a model for enhancing connectivity and cooperation through similar projects with neighboring countries , including Afghanistan , Iran and with central and west Asia '' .
+cooperation	23	CT+	CT+
+will	14	ps_cue
+########
+21
+<EOP> .
+########
+22
+Lin Minwang , a professor of South Asian studies at Fudan University , said that an increasing number of countries such as Iran and multilateral organizations have displayed an interest in participating in the CPEC .
+########
+23
+<EOP> .
+########
+24
+The CPEC has made remarkable progress in the past few years , and extending it to Afghanistan is a first step for the corridor to become a blueprint with a wider influence , Lin said .
+########
+25
+<EOP> .
+########
+26
+Another highlight of Tuesday 's trilateral dialogue is the consensus reached by Pakistan and Afghanistan on repairing their ties .
+########
+27
+<EOP> .
+########
+28
+Afghanistan agreed to fully echo an action plan proposed by Pakistan to boost their solidarity , which aims to introduce five liaison working groups to cover areas such as politics , military , information , economy and refugee , Wang told reporters .
+plan	7	ps_cue
+proposed	8	ps_cue
+########
+29
+<EOP> .
+########
+30
+The three countries also agreed to boost their counterterrorism coordination and cooperation to crack down on any terrorists and terror organs .
+cooperation	11	CT+	CT+
+########
+31
+<EOP> .
+########
+32
+Rabbani said Afghanistan will continue with China the `` resolute fight '' against the terrorist and separatist East Turkestan Islamic Movement organization and their support groups and networks .
+will	3	ps_cue
+against	12	neg_cue
+########
+33
+<EOP> .
+########

@@ -1,0 +1,69 @@
+Can tourists wear skirts or dresses in India 
+0
+There was uproar at the weekend when Culture Minister Mahesh Sharma said that a list given to tourists at airports advised them not to wear skirts or dresses in India or venture out alone at night in small towns <EOP> .
+wear	24	CT-	CT-
+not	22	neg_cue
+or	26	ps_cue
+or	30	ps_cue
+########
+1
+Sadly , he is not the first _ and he certainly wo n't be the last _ to deliver such advice to women on how to keep themselves safe and avoid rape .
+not	4	neg_cue
+n't	12	neg_cue
+avoid	30	neg_cue
+########
+2
+<EOP> .
+########
+3
+Time and again , ministers , politicians and other influential community leaders have been telling women and girls not to wear jeans , short skirts , dresses or shorts .
+wear	20	CT-	CT-
+not	18	neg_cue
+or	27	ps_cue
+########
+4
+Women have also been told not to go out after dark , date , be friends with boys , or even use mobile phones .
+not	5	neg_cue
+or	19	ps_cue
+########
+5
+<EOP> .
+########
+6
+Since the brutal gang rape and murder of a 23_year_old student on a bus in December 2012 in Delhi , there is much more scrutiny within India _ and globally _ of what influential people and opinion makers say about violence against women .
+against	41	neg_cue
+########
+7
+<EOP> .
+########
+8
+The justification offered by many in India 's largely paternalistic society is that these remarks are well meaning and actually meant to protect women .
+########
+9
+<EOP> .
+########
+10
+But women activists and commentators disagree _ they say that there 's no correlation between short skirts and rape .
+no	12	neg_cue
+########
+11
+<EOP> .
+########
+12
+`` It 's very very important that these politicians stop telling women what sort of clothes to wear or what not to wear , '' Swati Maliwal , chief of Delhi Commission for Women , told the BBC .
+wear	22	CT-	CT-
+not	20	neg_cue
+stop	9	neg_cue
+or	18	ps_cue
+########
+13
+<EOP> .
+########
+14
+`` It 's time they stop trivialising issues like rape and sexual harassment and do something constructive to address these serious problems . ''
+stop	5	neg_cue
+like	8	ps_cue
+########
+15
+<EOP> .
+########

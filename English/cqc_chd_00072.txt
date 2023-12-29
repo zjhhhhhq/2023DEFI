@@ -1,0 +1,59 @@
+Were 2 naval personnel killed in terrorist attack
+0
+2 naval personnel killed in SW Pakistan terrorist attack <EOP> .
+killed	3	CT+	CT+
+########
+1
+2017_06_20 11:08 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+ISLAMABAD _ At least two personnel working for Pakistani navy were killed and four others injured when some unknown militants sprayed bullets at their vehicle in the countrys southwest Gwadar district on Monday , local Urdu media reported .
+killed	11	CT+	CT+
+unknown	18	ps_cue
+########
+4
+<EOP> .
+########
+5
+Dawn News said that the militants ambushed the troopsvehicle in a market area of Jiwani city of Gawadar , a district located in the countrys southwest Balochistan province .
+########
+6
+<EOP> .
+########
+7
+Police said that four assailants coming on two motorbikes attacked the forcesvehicle and fled the scene .
+########
+8
+<EOP> .
+########
+9
+One troop was killed right at the spot in the incident , while four others who got injured were shifted to Naval hospital in the countrys southern port city of Karachi where one of them succumbed to injuries , bringing the death toll to two .
+killed	3	CT+	CT+
+########
+10
+<EOP> .
+########
+11
+No group has taken credit for the attack yet .
+No	0	neg_cue
+yet	8	neg_cue
+########
+12
+<EOP> .
+########
+13
+Security forces cordoned off the area and kicked off search operation .
+########
+14
+<EOP> .
+########
+15
+Chief Minster Balochistan Sanaullah Zehri condemned the attack and directed the concerned authorities to submit a report to him after completion of the investigations .
+condemned	5	neg_cue
+########
+16
+<EOP> .
+########

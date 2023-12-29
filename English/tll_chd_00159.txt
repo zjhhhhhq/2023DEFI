@@ -1,0 +1,21 @@
+Does Britain 's PM May meet pupils of primary school in Birmingham
+0
+Britain 's PM May meets pupils of primary school in Birmingham <EOP> .
+meets	4	CT+	CT+
+May	3	ps_cue
+########
+1
+2017_05_17 09:13 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+Britain 's Prime Minister Theresa May meets the Nishkam Trust leadership team and pupils of Nishkam Primary School in Birmingham , May 16 , 2017 .
+meets	6	CT+	CT+
+May	5	ps_cue
+May	21	ps_cue
+########
+4
+LRB Photo_Agencies RRB <EOP> .
+########

@@ -1,0 +1,143 @@
+Did a Welsh folk singer win first prize on Saturday in the Chinese Song UK contest
+0
+UK 's Chinese singers are on song <EOP> .
+########
+1
+2017_05_22 17:55 <EOP> .
+########
+2
+China Daily UK <EOP> .
+########
+3
+A Welsh folk singer won first prize on Saturday in the Chinese Song UK contest , in which non_native_speakers belted out traditional Chinese songs -- in Mandarin and Cantonese .
+won	4	CT+	CT+
+########
+4
+<EOP> .
+########
+5
+<EOP> .
+########
+6
+<EOP> .
+########
+7
+<EOP> .
+########
+8
+Sun Dali , China 's consul general in Manchester , congratulates Alec Loane after he won Chinese Song UK .
+won	15	CT+	CT+
+########
+9
+Angel Kong _ China Daily <EOP> .
+########
+10
+<EOP> .
+########
+11
+Alec Loane impressed the judges with his lively performance and affectionate rendition of the Chinese love song The Moon Represents My Heart at a packed theater in Manchester .
+love	15	ps_cue
+########
+12
+<EOP> .
+########
+13
+`` I have sung Chinese songs for many years and my friends have always enjoyed my singing , '' Loane said after the tournament , which was for people who speak non_Chinese languages as their mother tongue .
+########
+14
+<EOP> .
+########
+15
+Loane said he was pleasantly surprised that his hobby , which he picked up while hanging out with friends from Hong Kong , had eventually brought him plaudits , and the 3,000 pound prize .
+########
+16
+<EOP> .
+########
+17
+`` I 'm over the moon , '' he beamed .
+########
+18
+<EOP> .
+########
+19
+The 58_year_old father is a big fan of Chinese culture .
+########
+20
+He said his daughter is planning to participate in the competition next year .
+planning	5	ps_cue
+########
+21
+<EOP> .
+########
+22
+Ten contestants , from the United Kingdom , Italy , and Switzerland , reached the final of the Chinese Song UK contest , performing before an audience of about 1,000 people at Manchester Central .
+########
+23
+Singers entertained the crowd with hip hop songs , pop tunes , rock anthems , and folk ballads .
+########
+24
+<EOP> .
+########
+25
+Gabriel Mayoral_Galindo , 21 , who has learned to speak fluent Chinese , sung the ballad You Exist in My Song and impressed people on social media , who voted him their favorite .
+########
+26
+<EOP> .
+########
+27
+His interest in the Chinese language started in secondary school , when he got an opportunity to visit China through the Confucius Institute , an organization that promotes Chinese culture around the world .
+########
+28
+<EOP> .
+########
+29
+`` My brothers and I sang in Chinese to Li Keqiang , the Chinese premier , when he visited the UK and that encouraged me to put more effort into learning Chinese , '' he said .
+encouraged	23	ps_cue
+########
+30
+<EOP> .
+########
+31
+Mayoral_Galindo , who is a student at the University of Leeds , will study for a postgraduate degree at Shanghai Theatre Academy .
+will	12	ps_cue
+########
+32
+<EOP> .
+########
+33
+David Geary , 24 , won a prolonged round of applause from the audience for his original creation , The Dialect .
+########
+34
+A past winner of the Chinese Bridge Mandarin speaking competition , Geary rapped in Chinese -- in both the Guizhou and Beijing dialects .
+########
+35
+<EOP> .
+########
+36
+Sun Dali , China 's consul general in Manchester , congratulated the winners and noted that music has no boundaries and `` amity between people holds the key to sound relations between states '' .
+no	18	neg_cue
+########
+37
+<EOP> .
+########
+38
+The Chinese Song UK contest was organized by the UK Chinese Young Entrepreneur Association .
+########
+39
+By midday on Sunday , video highlights from the competition had already had more than 1.4 million views on Chinese social media platforms .
+########
+40
+<EOP> .
+########
+41
+Yang Jing contributed to this story <EOP> .
+########
+42
+<EOP> .
+########
+43
+<EOP> .
+########
+44
+<EOP> .
+########

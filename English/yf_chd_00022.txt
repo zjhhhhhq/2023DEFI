@@ -1,0 +1,410 @@
+Does waste import ban safeguard health
+0
+Waste import ban a safeguard for health <EOP> .
+safeguard	4	CT-	CT-
+ban	2	neg_cue
+########
+1
+2018_01_06 04:54 <EOP> .
+########
+2
+China Daily USA <EOP> .
+########
+3
+To foster cleaner growth , China will refuse to accept 24 types of material for recycling , as Zheng Jinran reports from Beijing , with Angus McNeice in London and Aaron Hagstrom in New York .
+will	6	ps_cue
+refuse	7	neg_cue
+########
+4
+<EOP> .
+########
+5
+China 's ban on the importation of several types of solid waste is likely to come into force in March .
+ban	2	PS+	CT-
+likely	13	ps_cue
+ban	2	neg_cue
+########
+6
+The move has proved controversial , though , as China is a major market for global recyclables , and some exporting countries , including the United Kingdom and the United States , say it will cause a certain degree of turmoil .
+will	34	ps_cue
+########
+7
+<EOP> .
+########
+8
+The planned ban has already affected a number of companies in China , forcing them to close or suspend production , but experts claim it is urgently needed to protect the environment and public health , and will lead to an upgrade of the recycling sector .
+ban	2	PS+	CT-
+planned	1	ps_cue
+ban	2	neg_cue
+or	17	ps_cue
+suspend	18	neg_cue
+will	37	ps_cue
+########
+9
+<EOP> .
+########
+10
+On July 18 , China notified the World Trade Organization that it would impose a ban on the importation of 24 types of solid waste in four classes , including unsorted waste paper , textiles and plastics by the end of the year , according to a WTO document .
+ban	15	CT+	CT-
+would	12	ps_cue
+ban	15	neg_cue
+########
+11
+<EOP> .
+########
+12
+The ban was proposed because of the `` large amounts of dirty or even hazardous waste '' polluting China 's environment , the document stated .
+ban	1	CT+	CT-
+ban	1	neg_cue
+proposed	3	ps_cue
+or	12	ps_cue
+########
+13
+<EOP> .
+########
+14
+A statement issued by the Bureau of International Recycling , a global alliance of recycling businesses in Brussels , said China later told the WTO that it would adopt new environmental standards for certain types of waste on Dec 31 , and proposed March 1 as the day the ban would come into force , although the date has not yet been officially confirmed .
+ban	49	CT+	CT-
+would	27	ps_cue
+proposed	42	ps_cue
+ban	49	neg_cue
+would	50	ps_cue
+not	59	neg_cue
+yet	60	neg_cue
+########
+15
+<EOP> .
+########
+16
+Since the move was announced in July , it has had an impact on both the global and domestic markets .
+had	10	CT+	CT-
+########
+17
+<EOP> .
+########
+18
+Shrinking export market <EOP> .
+########
+19
+China has been a major processing center for waste for many decades , with imported waste recycled to provide raw materials for the manufacturing sector .
+########
+20
+<EOP> .
+########
+21
+In 2016 , more than 43 million metric tons of scrap iron and steel , nonferrous metals , paper and plastics were imported , with nonferrous metals alone valued at $ 8.42 billion , according to Ministry of Commerce data .
+########
+22
+<EOP> .
+########
+23
+In addition , the largest sources of waste , including the US and European countries , are heavily reliant on China 's recycling industry , so they are already feeling the impact of the ban and struggling to deal with the soaring volume of domestic waste .
+ban	34	CT+	CT-
+ban	34	neg_cue
+########
+24
+<EOP> .
+########
+25
+Landfill and incineration costs are high in Europe , while other countries are likely to charge more than China to accept waste , according to Meadhbh Bolger , a resource use campaigner at Friends of the Earth Europe .
+likely	13	ps_cue
+########
+26
+<EOP> .
+########
+27
+In 2016 , the UK collected 2 million tons of mixed paper for recycling , exporting more than half to China .
+########
+28
+Around one_third of plastic collected for recycling in Europe was sent to China .
+########
+29
+<EOP> .
+########
+30
+Simon Ellin , chief executive of the UK Recycling Association , said the UK government has been `` asleep at the wheel '' since China announced the partial ban , which followed the introduction of restrictions on waste imports phased in over the past four years .
+ban	28	CT+	CT-
+ban	28	neg_cue
+########
+31
+<EOP> .
+########
+32
+`` We could have a big problem on our hands , '' he said .
+could	2	ps_cue
+########
+33
+`` Where is the material going to go ?
+########
+34
+I expect that in the first quarter of next year , we will see the UK awash with mixed paper . ''
+expect	1	ps_cue
+will	12	ps_cue
+########
+35
+<EOP> .
+########
+36
+The US is confronted by a similar situation .
+########
+37
+Restrictions on the export of waste mean it is losing money , while it is spending time and energy attempting to find countries that will deal with the recyclable material China will no longer accept .
+will	24	ps_cue
+will	31	ps_cue
+no	32	neg_cue
+########
+38
+<EOP> .
+########
+39
+Recyclables and waste are the sixth_largest US export to China .
+########
+40
+In 2016 , almost 50 percent of its commodity_grade scrap metal , paper and plastic was sent to China , according to the Institute of Scrap Recycling Industries in Washington .
+########
+41
+<EOP> .
+########
+42
+`` Our industry is on tenterhooks right now because of the impact on these high_value scrap commodities , which our members send almost exclusively to China , '' said Adina Renee Adler , a senior director with the institute .
+########
+43
+<EOP> .
+########
+44
+Some companies , such as Rogue Waste Systems , a waste collector in Oregon , have started to slow processing work to meet the higher quality standards imposed by China , and have sought help from local authorities to allow them to bury excess material in landfills , as indoor stage facilities are full .
+########
+45
+<EOP> .
+########
+46
+In November , the European Union , the US , Japan , Australia and Canada questioned the broad scope of the ban and asked China for a longer transition period of up to five years , according to the statement issued by the WTO .
+ban	21	neg_cue
+########
+47
+<EOP> .
+########
+48
+Domestic effect <EOP> .
+########
+49
+The strengthened restrictions on some recyclable waste have also affected Chinese companies that rely on foreign recyclables , especially paper and plastics .
+########
+50
+<EOP> .
+########
+51
+The Ziya Circular Economy Industrial Zone in Tianjin is the largest recycling facility in North China and was home to 387 companies by December .
+########
+52
+Now , some companies have closed or suspended activities as a result of the fall in the volume of imported waste .
+or	6	ps_cue
+suspended	7	neg_cue
+########
+53
+<EOP> .
+########
+54
+`` About 90 percent of the materials for companies that process plastic waste were imported , so they have been affected by the planned ban , '' said Tang Guilan , deputy director of the zone 's management committee , adding that 96 plants used to process imported waste , but only a few are still operating .
+planned	23	ps_cue
+ban	24	neg_cue
+########
+55
+<EOP> .
+########
+56
+It 's estimated that next year , the zone 's approved import volume of recyclables will be 118,000 tons , half the number in 2016 , she said , noting that the volume of imported waste in the zone fell as stricter regulations were implemented in recent years .
+will	15	ps_cue
+########
+57
+<EOP> .
+########
+58
+Tang said the affected plants are being encouraged to turn to domestic suppliers to replace imported waste , but conceded that it will take time to shift their materials .
+encouraged	7	ps_cue
+will	22	ps_cue
+########
+59
+<EOP> .
+########
+60
+Some plants in Tianjin started processing imported solid waste from the US , Canada , Japan and South Korea in the 1980s , and many relocated to the industrial zone in 2003 , establishing a recycling system based on the steady supply of material , Tang said .
+########
+61
+<EOP> .
+########
+62
+According to Xue Tao , deputy head of the E20 Environmental Platform , a domestic environmental protection service , imported solid waste is cheaper to buy than some domestically sourced raw materials as a result of lower costs in the countries of origin .
+########
+63
+<EOP> .
+########
+64
+He added that plants that rely on imported waste in other areas of China will also be affected , especially in the paper and plastics scraps industry , considering the large volume of imported recyclables .
+will	14	ps_cue
+########
+65
+<EOP> .
+########
+66
+In 2016 , China processed more than 49 million tons of waste paper , with 28.5 million tons , or 57 percent , coming from overseas .
+or	19	ps_cue
+########
+67
+Of the 18.78 million tons of plastic scraps processed in the same year , 39 percent , or 7.35 million tons , was imported , according to data from the Ministry of Commerce .
+or	17	ps_cue
+########
+68
+<EOP> .
+########
+69
+`` Imported plastic and paper scraps accounted for a large proportion , thus the ban will significantly raise costs at processing plants , which will definitely have an influence on plants that rely on processed paper and plastic materials in the short term , '' Xue said .
+ban	14	CT+	CT-
+ban	14	neg_cue
+will	15	ps_cue
+raise	17	ps_cue
+will	24	ps_cue
+########
+70
+<EOP> .
+########
+71
+In addition , stricter regulations have seen import volumes fall in recent years , which has resulted in a reduction in the number of companies processing imported waste nationwide , from 2,527 in 2013 to 1,766 in 2016 , data from the Ministry of Environmental Protection showed .
+########
+72
+<EOP> .
+########
+73
+`` By adopting the ban , China plans to change the current global structure in the division of work , eradicating its role as a dumping ground for leftovers from developed countries , which has grown in the past 30 years , '' Xue said .
+ban	4	CT+	CT-
+ban	4	neg_cue
+plans	7	ps_cue
+########
+74
+<EOP> .
+########
+75
+The ban caters to a growing demand for sustainable development and public calls for a cleaner environment in recent years , and it 's a step China urgently needed to take , he said .
+ban	1	CT+	CT-
+ban	1	neg_cue
+########
+76
+<EOP> .
+########
+77
+Therese Coffey , parliamentary undersecretary at the Department for Environment , Food and Rural Affairs in the UK , said the ban may not be all bad news for Britain .
+ban	21	PS-	CT-
+ban	21	neg_cue
+may	22	ps_cue
+not	23	neg_cue
+########
+78
+<EOP> .
+########
+79
+`` It gives us an opportunity to reprocess more here , rather than exporting to the other side of the world just because it 's a bit cheaper to do so , '' Coffey told the UK Environmental Audit Committee in November .
+rather	11	neg_cue
+########
+80
+<EOP> .
+########
+81
+Seeking replacements <EOP> .
+########
+82
+In the US , some processors are trying to find markets to replace China .
+########
+83
+<EOP> .
+########
+84
+Xu Haiyun , chief engineer of the China Urban Construction Design and Research Institute , said the planned ban demonstrates the central government 's strong determination to curb pollution from imported solid waste , which is quite encouraging , but he added `` implementation may be not easy '' .
+ban	18	PS+	CT-
+planned	17	ps_cue
+ban	18	neg_cue
+may	44	ps_cue
+not	46	neg_cue
+########
+85
+<EOP> .
+########
+86
+China has not established a household garbage sorting system or a waste_recycling network , which means a massive amount of waste ends up in landfills and incinerators , he added .
+not	2	neg_cue
+or	9	ps_cue
+########
+87
+<EOP> .
+########
+88
+Xue , from E20 , is optimistic about progress in establishing a recycling network before 2020 as a result of government support and rising private sector investment .
+########
+89
+<EOP> .
+########
+90
+Domestic recyclers may discover replacement sources of solid waste soon , he said .
+may	2	ps_cue
+########
+91
+<EOP> .
+########
+92
+Pilot garbage_sorting projects have been established in more than 20 cities , and there are plans to boost the recycling industry so the total volume of recyclable waste grows from 256 million tons in 2016 to 350 million tons by 2020 , according to statements from the central government .
+plans	15	ps_cue
+########
+93
+<EOP> .
+########
+94
+More measures have been adopted to regulate solid waste imports , because the materials are often dirty , poorly sorted or contaminated with hazardous substances .
+or	20	ps_cue
+########
+95
+Even when such waste is safely imported , it is not always recycled properly .
+not	10	neg_cue
+########
+96
+<EOP> .
+########
+97
+For example , in Tianjin , highly_polluting processing plants have been corralled in the Ziya Circular Economy Industrial Zone , and special equipment is used to tackle the pollutants emitted , according to Tang Guilan , the zone 's deputy director .
+########
+98
+<EOP> .
+########
+99
+Moreover , the zone strictly supervises every container to ensure that imported recyclables are processed inside the facility and no contaminated products are allowed to leave .
+no	19	neg_cue
+########
+100
+<EOP> .
+########
+101
+The 387 companies in the zone can process more than 1.5 million tons of solid waste , including imported material , every year , providing ample material for the domestic market , such as 300,000 tons of plastic products , without polluting the atmosphere .
+can	6	ps_cue
+without	40	neg_cue
+########
+102
+<EOP> .
+########
+103
+Regulating solid waste imports is a major issue to protect the environment and public health , so China will employ a range of safety measures and will hit violators hard , said Li Ganjie , the minister of environmental protection .
+will	18	ps_cue
+will	26	ps_cue
+########
+104
+<EOP> .
+########
+105
+Wang Keju in Tianjin contributed to this story <EOP> .
+########
+106
+Contact the writer at zhengjinran@chinadaily.com.cn <EOP> .
+########
+107
+<EOP> .
+########
+108
+A border guard in Shenzhen , Guangdong province , inpects bundles of waste textiles smuggled into China.Mao Siqian _ Xinhua <EOP> .
+########

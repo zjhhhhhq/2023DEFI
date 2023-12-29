@@ -1,0 +1,91 @@
+Will there be `` no deal '' Brexit 
+0
+UK lawmaker warns of economic catastrophe for `` no deal '' Brexit : report <EOP> .
+deal	9	CT-	CT-
+no	8	neg_cue
+########
+1
+2017_11_20 17:12 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+LONDON _ British Conservative Party lawmaker Stephen Hammond has warned that enshrining the Brexit date in the EU Withdrawal Bill will increase the chances of `` economic catastrophe '' , Sky News reported on Sunday .
+will	20	ps_cue
+########
+4
+<EOP> .
+########
+5
+Hammond , 55 , also former UK government minister , has labeled the government 's attempts to write the Brexit date into British law as `` madness '' , it said .
+########
+6
+<EOP> .
+########
+7
+He claimed enshrining the date in the EU Withdrawal Bill would prevent `` flexibility '' if it was felt exit talks needed to be extended .
+would	10	ps_cue
+prevent	11	neg_cue
+########
+8
+<EOP> .
+########
+9
+About the potential for a `` no deal '' Brexit , Hammond told Sky News : `` We have to make provision for it and accept it is a possibility .
+deal	7	CT-	CT-
+no	6	neg_cue
+potential	2	ps_cue
+possibility	29	ps_cue
+########
+10
+<EOP> .
+########
+11
+`` And we have to accept , actually , by putting this date on the front of the bill , unfortunately you 've made that more likely . ''
+likely	26	ps_cue
+########
+12
+<EOP> .
+########
+13
+Hammond , who supported Remain last year , said leaving the EU without an exit agreement would be an `` economic catastrophe '' .
+without	12	neg_cue
+would	16	ps_cue
+########
+14
+<EOP> .
+########
+15
+The British government 's amendment to the EU Withdrawal Bill aims to declare 11 p.m. on March 29 of 2019 as the official moment Britain leaves the EU .
+########
+16
+<EOP> .
+########
+17
+The Withdrawal Bill is undergoing line_by_line scrutiny in the House of Commons as part of a process to turn it into law .
+########
+18
+Almost 500 amendments have been lodged in a multitude of attempts to change the bill .
+########
+19
+<EOP> .
+########
+20
+There will be several weeks of debates before the bill is handed to the unelected House of Lords where it will again face challenges in what could be an even tougher ride .
+will	1	ps_cue
+will	20	ps_cue
+could	26	ps_cue
+########
+21
+<EOP> .
+########
+22
+<EOP> .
+########
+23
+<EOP> .
+########
+24
+<EOP> .
+########

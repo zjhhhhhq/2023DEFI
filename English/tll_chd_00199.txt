@@ -1,0 +1,119 @@
+Does the country address a trash crisis
+0
+Diving into task of cleaning up after crisis <EOP> .
+########
+1
+2017_11_28 07:50 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+<EOP> .
+########
+4
+TABARJA , Lebanon _ The divers plunge below the surface , scuba tanks on their backs and nets in hand .
+########
+5
+But what they 're looking for under the ocean surface is not treasure , it 's trash .
+not	11	neg_cue
+########
+6
+<EOP> .
+########
+7
+The group is conducting a cleanup below the waves , one of many initiatives emerging from Lebanon 's civil society and private sector in response to the government 's failure to address a long_running garbage crisis .
+address	31	CT-	CT-
+failure	29	neg_cue
+########
+8
+<EOP> .
+########
+9
+The dive , off the town of Tabarja , near Beirut , proved fruitful : The divers emerged with nets full of plastic and glass bottles , rusted drink and food cans and even tires , as a few swimmers nearby looked on bemused .
+########
+10
+<EOP> .
+########
+11
+`` What we saw down there , it makes your heart hurt , '' said Christian Nader , a 19_year_old student , who has been diving for five years .
+########
+12
+<EOP> .
+########
+13
+The event was organized by Live Love Beirut , a group of local people working to promote a positive image of their country , who said more than 100 divers joined cleanups at eight sites throughout the country over two days .
+########
+14
+<EOP> .
+########
+15
+`` It 's sad , it 's our sea .
+########
+16
+There should be awareness campaigns , the state should help us clean , '' Nader said .
+should	1	ps_cue
+should	8	ps_cue
+########
+17
+<EOP> .
+########
+18
+The country has struggled to address a trash crisis that reached catastrophic proportions in the summer of 2015 .
+address	5	CT+	CT-
+########
+19
+<EOP> .
+########
+20
+Mountains of rubbish piled up in the streets of Beirut and its surroundings after the nation 's largest dump closed down and there was nowhere for collectors to send the rubbish produced by 2 million residents .
+########
+21
+<EOP> .
+########
+22
+Experts warn the nightmare scenario could soon be repeated because of what they said is the government 's failure to adopt a comprehensive waste management strategy , even as the country produces 6,000 tons of refuse a day .
+could	5	ps_cue
+failure	18	neg_cue
+refuse	35	neg_cue
+########
+23
+<EOP> .
+########
+24
+`` The government must start to think seriously about lasting solutions and start putting them in place , even if it 's little by little , '' said Lama Bashour , head of the Ecocentra environmental consultancy .
+little	22	neg_cue
+little	24	neg_cue
+########
+25
+<EOP> .
+########
+26
+Like many experts , she emphasized the importance of `` sorting and recycling '' .
+########
+27
+<EOP> .
+########
+28
+European Union funds have helped pay for several sorting and composting facilities in Lebanon , but there are still more than 900 unlicensed dumps nationwide , according to an official study .
+########
+29
+<EOP> .
+########
+30
+The government is reportedly now studying a plan that would seek to decrease waste and boost recycling .
+plan	7	ps_cue
+would	9	ps_cue
+########
+31
+<EOP> .
+########
+32
+Agence France_presse <EOP> .
+########
+33
+<EOP> .
+########
+34
+<EOP> .
+########

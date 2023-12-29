@@ -1,0 +1,76 @@
+Does US Fed chair nominee say case for rate hike
+0
+US Fed chair nominee says case for rate hike in Dec ` coming together ' <EOP> .
+says	4	CT+	CT+
+########
+1
+2017_11_29 10:00 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+<EOP> .
+########
+4
+US Federal Reserve governor Jerome Powell , the nominee for the next chair of the Fed , testifies during a confirmation hearing at the Senate Banking Committee in Washington D.C. US , on Nov 28 , 2017 .
+testifies	17	CT+	CT+
+########
+5
+LRB Photo_Xinhua RRB <EOP> .
+########
+6
+WASHINGTON _ US Federal Reserve governor Jerome Powell , the nominee for the next chair of the Fed , said on Tuesday that he would likely support the central bank to raise interest rate again in December .
+said	19	PS+	CT+
+likely	25	ps_cue
+would	24	ps_cue
+raise	31	ps_cue
+########
+7
+<EOP> .
+########
+8
+`` I think that the case for raising interest rates at our next meeting is coming together , '' said Powell at his confirmation hearing at the Senate Banking Committee .
+coming	15	CT+	CT+
+########
+9
+`` Conditions are supportive of doing that , '' he added .
+########
+10
+<EOP> .
+########
+11
+But he cautioned that no decision will be made until the meeting which will be held on Dec 12 and 13 .
+no	4	neg_cue
+will	6	ps_cue
+will	13	ps_cue
+########
+12
+<EOP> .
+########
+13
+<EOP> .
+########
+14
+<EOP> .
+########
+15
+He argued that the central bank would continue to tighten its monetary policy as the unemployment rate hits record low and the economy continues steady growth .
+would	6	ps_cue
+########
+16
+<EOP> .
+########
+17
+In his responses to senators ' questions , he expected the US economy to grow 2.5 percent this year and continue the current growth strength next year .
+expected	9	ps_cue
+########
+18
+<EOP> .
+########
+19
+Powell , who is currently a member of the Fed 's Board of Governors , was nominated by President Donald Trump to replace current Chair Janet Yellen , whose term as chair expires in February 2018 .
+########
+20
+<EOP> .
+########

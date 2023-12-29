@@ -1,0 +1,118 @@
+Will US 's relationship with China grow
+0
+Nebraska seeks investment from China <EOP> .
+seeks	1	ps_cue
+########
+1
+2017_05_09 07:33 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+In welcoming scores of Chinese and US business leaders to Omaha , Nebraska Governor Pete Ricketts said he believes the state 's relationship with China will grow .
+grow	26	CT+	CT+
+will	25	ps_cue
+########
+4
+<EOP> .
+########
+5
+`` In China , we see the middle classes are increasing tremendously , '' Ricketts said on Friday .
+########
+6
+`` That presents opportunities for us to expand the relationship .
+expand	7	CT+	CT+
+opportunities	3	ps_cue
+########
+7
+In Nebraska , we think long term , '' he said .
+########
+8
+<EOP> .
+########
+9
+The governor said that China is the state 's second_largest trade partner outside of North America and one of the fastest_growing .
+########
+10
+Last year , Nebraska exported products worth $ 1.3 billion to China .
+########
+11
+<EOP> .
+########
+12
+Elaborating his government 's efforts to improve education , regulation and the tax system , Ricketts urged the business leaders to consider investing in the state .
+consider	21	ps_cue
+########
+13
+<EOP> .
+########
+14
+`` We seek those Chinese companies who look to invest in Nebraska to help them to grow their business in the US , help them to leverage our regulatory and tax environment , our central location and the shared culture value , '' Ricketts said .
+########
+15
+<EOP> .
+########
+16
+Compared with other states such as Texas or California , Chinese direct investment in Nebraska is relatively small .
+or	7	ps_cue
+########
+17
+<EOP> .
+########
+18
+To attract more businesses from China , Ricketts has visited the country twice since taking office in 2015 , with the last trip in November .
+########
+19
+Ricketts said he took more than 70 businesspeople with him .
+########
+20
+<EOP> .
+########
+21
+During the last trip , Ricketts and Hu Heping , governor of Shaanxi province , formalized Nebraska and Shaanxi 's relationship as sister states .
+########
+22
+<EOP> .
+########
+23
+`` We had investment meetings in Shanghai and Xi'an .
+########
+24
+We tried to connect business leaders together to see where we can find those relationships and where to invest . ''
+can	11	ps_cue
+########
+25
+<EOP> .
+########
+26
+Nebraska is strong in agriculture , and Ricketts said that 's where Nebraska and China can grow the relationship the most .
+grow	16	CT+	CT+
+can	15	ps_cue
+########
+27
+<EOP> .
+########
+28
+`` That 's why when we were in China last fall , we broke ground on a demonstration Nebraska farm in Yangling , Shaanxi .
+########
+29
+The idea is to show what technology and processes we have in agriculture to Chinese farmers and see how they may be able to use that . ''
+may	20	ps_cue
+########
+30
+<EOP> .
+########
+31
+Ricketts said that Nebraska is the largest irrigable state in the United States , and 80 percent of center pivot irrigation equipment is made in the state .
+########
+32
+`` China might take advantage of that technology , '' he said .
+might	2	ps_cue
+########
+33
+<EOP> .
+########
+34
+Contact the writer at mayzhou@chinadaily.com.cn <EOP> .
+########

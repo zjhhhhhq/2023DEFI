@@ -1,0 +1,117 @@
+Does EU seek political solution to Korean Peninsula crisis 
+0
+EU seeks political solution to Korean Peninsula crisis <EOP> .
+seeks	1	CT+	CT+
+seeks	1	ps_cue
+########
+1
+2017_09_13 09:11 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+The European Union will continue its work to find a political solution to the Korean Peninsula crisis mainly triggered by the Democratic People 's Republic of Korea LRB DPRK RRB 's nuclear test , said the bloc 's foreign chief on Tuesday .
+find	8	CT+	CT+
+will	3	ps_cue
+########
+4
+<EOP> .
+########
+5
+Federica Mogherini , vice_president of European Commission in charge of the bloc 's foreign affairs , security and defence , addressed the European Parliament plenary , hours after the UN Security Council unanimously adopted a resolution to impose fresh sanctions on DPRK over its nuclear test on Sept 3 , which violated the previous Security Council resolutions .
+########
+6
+<EOP> .
+########
+7
+`` Of course , sanctions are not a goal in themselves ... our objective is not the pressure alone , but to open the political path for a solution of the crisis , '' said Mogherini .
+not	6	neg_cue
+not	15	neg_cue
+########
+8
+`` And the European , economic and diplomatic pressures are always aimed at opening channels for credible , meaningful and fruitful dialogue . ''
+########
+9
+<EOP> .
+########
+10
+To bring the DPRK back to the negotiation table , Mogherini said she has been working closely with key players such as China , Russia , the United States and Japan to achieve international unity in solving the crisis .
+########
+11
+<EOP> .
+########
+12
+China has put trust on European Union to help solve the crisis as well .
+########
+13
+In recent days , President Xi Jinping has called German Chancellor Angela Merkel and French President Emmanuel Macron , exchanging views on the crisis , before the UN Security Council made the decisions of more severe sanctions including control of crude oil import .
+########
+14
+<EOP> .
+########
+15
+Mogherini said EU will continue the discussion it launched last week on additional European sanctions , to complement the action decided by the Security Council and put maximum pressure on the DPRK .
+will	3	ps_cue
+########
+16
+<EOP> .
+########
+17
+But she also said that the union will continue to work to open a credible political path toward the denuclearization of the Korean Peninsula .
+will	7	ps_cue
+########
+18
+`` It will be one of the core issues of my agenda in New York next week , at the UN General Assembly ministerial week , '' said Mogherini .
+will	2	ps_cue
+########
+19
+<EOP> .
+########
+20
+Men Jing , professor of College of Europe in Belgium , said European Union has some advantages in helping mediate the crisis because crisis intervention is high on its global agenda , it has experience in dealing with crisis and some countries have transitional relationship with the DPRK .
+########
+21
+<EOP> .
+########
+22
+`` I think the countries in the East Europe , such as Poland can play a role in helping offer solutions to the nuclear crisis , '' said Men .
+can	13	ps_cue
+########
+23
+`` But we must realize that the Korean Peninsula crisis is highly complex . ''
+########
+24
+<EOP> .
+########
+25
+In her address , Mogherini also said that European Union has seven member states that have embassies in the DPRK and some member states run humanitarian programmes in the country .
+########
+26
+<EOP> .
+########
+27
+`` When I say diplomatic channels , I mean a system of mediation of diplomatic talks that can guarantee a credible engagement .
+can	17	ps_cue
+########
+28
+Because talks for talks are not necessarily a good idea , '' said Mogherini .
+not	5	neg_cue
+########
+29
+`` What we need is to create the conditions in the international community with all our partners , including with the European Union , to create the conditions for credible and meaningful diplomatic negotiations . ''
+need	3	ps_cue
+########
+30
+<EOP> .
+########
+31
+Mogherini 's speech was highlighted at the European Parliament 's plenary held in France 's Strasbourg from Monday to Thursday .
+########
+32
+On Wednesday , European Commission President Jean_Claude Juncker will give his annual state of union address to present his ideas on the future of Europe .
+will	8	ps_cue
+########
+33
+<EOP> .
+########

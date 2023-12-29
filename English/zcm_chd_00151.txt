@@ -1,0 +1,126 @@
+Did Russian President Vladimir Putin form a cyber security unit 
+0
+Trump says discussed with Putin forming cyber security unit <EOP> .
+########
+1
+2017_07_10 09:08 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+WASHINGTON _ US President Donald Trump said on Sunday that he discussed with Russian President Vladimir Putin forming a cyber security unit in their first meeting amid speculation about his acceptance of Putin 's denial of Russian meddling in the US election .
+forming	17	CT+	CT+
+speculation	27	ps_cue
+########
+4
+<EOP> .
+########
+5
+`` Putin and I discussed forming an impenetrable Cyber Security unit so that election hacking , and many other negative things , will be guarded and safe , '' Trump tweeted on Sunday .
+negative	19	neg_cue
+will	22	ps_cue
+########
+6
+<EOP> . ''
+########
+7
+... Now it is time to move forward in working constructively with Russia ! ''
+working	9	CT+	CT+
+forward	7	ps_cue
+forward	7	neg_cue
+########
+8
+Trump wrote on another tweet .
+########
+9
+<EOP> .
+########
+10
+The first face_to_face encounter between Trump and Putin came on Friday on the sidelines of the G20 summit in Hamburg , Germany .
+########
+11
+<EOP> .
+########
+12
+After the meeting , Russian Foreign Minister Sergey Lavrov told reporters on Friday that Trump had accepted Putin 's denial of Russian meddling in the US election .
+########
+13
+<EOP> .
+########
+14
+Putin himself also said on Saturday that he left the meeting with the impression that Trump had accepted his denial .
+########
+15
+<EOP> .
+########
+16
+`` He asked questions , I replied .
+########
+17
+It seemed to me that he was satisfied with the answers , '' Putin told reporters on Saturday .
+seemed	1	ps_cue
+########
+18
+<EOP> .
+########
+19
+During his visit to Ukraine on Sunday , US Secretary of State Rex Tillerson , the only other US official in the Trump_Putin meeting , did not answer directly when asked whether Trump had accepted Putin 's denial .
+not	26	neg_cue
+whether	31	ps_cue
+########
+20
+<EOP> .
+########
+21
+On another tweeter on Sunday , Trump said that he `` strongly pressed President Putin twice about Russian meddling in our election . ''
+########
+22
+<EOP> . ''
+########
+23
+... He vehemently denied it .
+denied	3	neg_cue
+########
+24
+I 've already given my opinion ... '' Trump said .
+########
+25
+<EOP> .
+########
+26
+The idea of forming a cyber security unit with Russia was soon met with criticism within Trump 's own Republican Party .
+forming	3	CT-	CT+
+criticism	14	neg_cue
+########
+27
+<EOP> .
+########
+28
+Speaking at a TV interview aired on Sunday , Republican Senator Lindsey Graham called the idea `` pretty close '' to the dumbest idea he 'd ever heard .
+########
+29
+<EOP> .
+########
+30
+`` He LRB Trump RRB is literally the only person I know of who does n't believe Russia attacked our election in 2016 , '' said Graham .
+n't	15	neg_cue
+########
+31
+<EOP> .
+########
+32
+`` This whole idea about moving forward without punishing Russia is undermining his entire presidency , '' he added .
+forward	6	ps_cue
+forward	6	neg_cue
+without	7	neg_cue
+########
+33
+<EOP> .
+########
+34
+<EOP> .
+########
+35
+<EOP> .
+########

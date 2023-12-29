@@ -1,0 +1,121 @@
+Will Washington ease restrictions on tech products
+0
+Li calls for fairness in trade , investment in US <EOP> .
+########
+1
+2017_09_26 08:04 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+<EOP> .
+########
+4
+Premier says Washington should ease restrictions on tech products <EOP> .
+ease	4	PS+	PS+
+should	3	ps_cue
+########
+5
+<EOP> .
+########
+6
+China urged the United States to provide a level playing field for Chinese enterprises investing there and to loosen restrictions on high_tech products being sold to China , Premier Li Keqiang said on Monday .
+########
+7
+<EOP> .
+########
+8
+Li made the remarks during his meeting with US Commerce Secretary Wilbur Ross at the Zhongnanhai compound in Beijing .
+########
+9
+<EOP> .
+########
+10
+The premier said relations between China and the US have been progressing well and communication at different levels also have progressed on track .
+########
+11
+He said President Xi Jinping and US President Donald Trump have concluded several meetings successfully .
+########
+12
+<EOP> .
+########
+13
+Li said that China , being the world 's largest developing country , and the US , the world 's largest developed country , are also the largest trade partners with each other .
+########
+14
+<EOP> .
+########
+15
+`` So I think it is fair to say that our common interests far outweigh our difference or divergence .
+or	17	ps_cue
+########
+16
+Economic and trade relations between the two countries have always served as a ballast stone for the overall bilateral relationship , '' Li said , adding that cooperation runs as the main stream in bilateral ties .
+########
+17
+<EOP> .
+########
+18
+He said he believes the secretary 's current visit to China will be conducive to further deepening economic and trade relations between China and the US , as well as overall bilateral ties .
+will	11	ps_cue
+########
+19
+<EOP> .
+########
+20
+He said China is willing to expand trade volume on services and commodities with the US and is ready to properly handle disputes and conflicts between the two countries through dialogue based on mutual trust and cooperation .
+willing	4	ps_cue
+ready	18	ps_cue
+########
+21
+<EOP> .
+########
+22
+China will further open to the global market while continuing to improve its business environment , Li said .
+will	1	ps_cue
+########
+23
+<EOP> .
+########
+24
+He added that China welcomes more US companies to develop their business in China .
+########
+25
+<EOP> .
+########
+26
+At the same time , he said , China expects the US to provide equal treatment for Chinese companies investing in the US .
+provide	13	PS+	PS+
+expects	9	ps_cue
+########
+27
+<EOP> .
+########
+28
+Ross said ties between the US and China are getting increasingly close , with huge prospects for further development .
+########
+29
+The US looks forward to seeing China further its opening_up , and is ready to expand trade and people_to_people exchanges with China , he said .
+forward	3	ps_cue
+forward	3	neg_cue
+ready	13	ps_cue
+########
+30
+<EOP> .
+########
+31
+Trade volume between China and the US reached $ 524.3 billion in 2016 , from $ 2.5 billion in 1979 , when the two countries officially established diplomatic relations .
+########
+32
+<EOP> .
+########
+33
+Zhang Jianping , a professor at the Chinese Academy of International Trade and Economic Cooperation in the Ministry of Commerce , said he believes Ross ' visit to China is part of the preparation work for Trump 's November visit to China .
+########
+34
+<EOP> .
+########
+35
+zhangyue@chinadaily.com.cn <EOP> .
+########

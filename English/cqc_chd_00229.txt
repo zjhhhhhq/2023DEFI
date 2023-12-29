@@ -1,0 +1,132 @@
+Will China conduct live_fire drills 
+0
+Live_fire drills , new weapons planned <EOP> .
+drills	1	CT+	CT+
+planned	5	ps_cue
+########
+1
+2017_04_28 04:11 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+Defense Ministry says THAAD ` will destroy ' Korean Peninsula stability <EOP> .
+will	5	ps_cue
+########
+4
+China will conduct `` combat_oriented live_fire drills '' and test new weapons to protect national security and regional stability , Defense Ministry spokesman Yang Yujun said on Thursday .
+drills	6	CT+	CT+
+will	1	ps_cue
+########
+5
+<EOP> .
+########
+6
+Yang made the remarks when answering question regarding the latest development that parts of the Terminal High Altitude Area Defense system were moved to the deployment site in the Republic of Korea .
+question	6	ps_cue
+########
+7
+<EOP> .
+########
+8
+Yang said that the current situation in the Korean Peninsula was complicated and sensitive and that China had been involved in much constructive work for regional peace and stability .
+########
+9
+<EOP> .
+########
+10
+`` The deployment of the THAAD in the ROK will destroy regional strategic balance and stability .
+will	9	ps_cue
+########
+11
+China has firmly opposed it , '' Yang said in a monthly news conference .
+opposed	3	neg_cue
+########
+12
+<EOP> .
+########
+13
+`` The Chinese military will continue to engage in real combat_oriented training and drills , and will test its new_type weaponry to safeguard national security and regional peace and stability , '' he said .
+drills	13	CT+	CT+
+will	4	ps_cue
+will	16	ps_cue
+########
+14
+<EOP> .
+########
+15
+On Wednesday , the ROK moved parts of the THAAD system to its deployment site on a golf course about 250 km south of Seoul , a move interpreted as sign that the system will be installed sooner than expected .
+will	34	ps_cue
+expected	39	ps_cue
+########
+16
+The top US commander in the Pacific , Admiral Harry Harris , said on Wednesday the system would become operational `` in coming days '' .
+would	17	ps_cue
+########
+17
+<EOP> .
+########
+18
+China and Russia have said repeatedly that THAAD 's advanced radar is far more powerful than needed to monitor military actions in the Democratic People 's Republic of Korea , which the US cited as the reason to deploy it in the ROK .
+########
+19
+It can penetrate deep into China and Russia .
+can	1	ps_cue
+########
+20
+<EOP> .
+########
+21
+Foreign Ministry spokesman Geng Shuang urged Washington and Seoul on Wednesday to cancel the deployment , and he warned that `` China will resolutely adopt the necessary measures to defend its interests '' .
+will	22	ps_cue
+########
+22
+<EOP> .
+########
+23
+THAAD 's deployment has severely undermined China 's strategic security interests , he said .
+########
+24
+<EOP> .
+########
+25
+Chinese Ambassador to the United States Cui Tiankai said on Wednesday that the deployment wo n't ease tensions or thwart dangers on the peninsula , but will undermine mutual trust among all parties .
+n't	15	neg_cue
+or	18	ps_cue
+will	26	ps_cue
+########
+26
+<EOP> .
+########
+27
+Shi Yinhong , director of the Center of US Studies at Renmin University of China in Beijing , said from the beginning China has strongly opposed THAAD 's deployment , but Washington and Seoul did not consider Beijing 's concerns .
+opposed	25	neg_cue
+not	35	neg_cue
+consider	36	ps_cue
+########
+28
+<EOP> .
+########
+29
+`` China has always opposed military conflicts .
+opposed	4	neg_cue
+########
+30
+But as the final choice , it retains the right to undertake all legal actions , '' he said about the Defense Ministry 's remarks .
+########
+31
+<EOP> .
+########
+32
+Zhao Xiaozhuo , director of the Center of China_US Defense Relations Studies of the PLA 's Academy of Military Science , said the deployment of the THAAD system has moved a step toward substantially shattering the strategic balance among major powers in Northeast Asia .
+########
+33
+<EOP> .
+########
+34
+`` China is forced to make new arrangements to regain balance in the region , '' he said .
+########
+35
+<EOP> .
+########

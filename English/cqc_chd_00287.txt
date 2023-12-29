@@ -1,0 +1,95 @@
+Do retailers urge longer UK visas for Chinese tourists
+0
+Retailers urge longer UK visas for Chinese tourists <EOP> .
+urge	1	CT+	CT+
+########
+1
+2017_11_09 02:13 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+A group representing retailers and other businesses in London 's West End has called on the United Kingdom government to extend the length of visas issued to Chinese nationals , something it believes will help the economy .
+called	13	CT+	CT+
+will	33	ps_cue
+########
+4
+<EOP> .
+########
+5
+Jace Tyrrell , chief executive of New West End Company , which represents hundreds of businesses in the shopping hotspots of Oxford Street , Bond Street , and Regent Street , said the latest figures show a rise in the number of Chinese visitors to London .
+########
+6
+<EOP> .
+########
+7
+To maintain the momentum , he would like to see visas issued to Chinese visitors extended to cover multiple visits during a 10_year period , instead of the two years of the current pilot scheme , which is due to end in January .
+would	6	ps_cue
+like	7	ps_cue
+instead	25	neg_cue
+########
+8
+<EOP> .
+########
+9
+`` Visas and access is incredibly important , '' he said .
+########
+10
+`` So , I 'm hoping the government will listen to businesses during the Brexit talks and think about the important Chinese market and also make sure we have the airport capacity as well . ''
+hoping	5	ps_cue
+will	8	ps_cue
+########
+11
+<EOP> .
+########
+12
+According to figures from New West End Company 's annual Christmas tracker report , international demand in the area has `` gone from strength to strength this year '' .
+########
+13
+Sales to non_EU tourists were up 28 percent between July and August .
+########
+14
+<EOP> .
+########
+15
+The study found sales to Chinese tourists have been `` essential to the growth '' , rising by 33 percent for the period of January to September in comparison to the same period last year .
+########
+16
+<EOP> .
+########
+17
+The report cited figures from tax_free shopping company Global Blue , noting that the average spend per person is already up 4 percent overall , with Chinese shoppers up 11 percent to 1,583 pounds LRB $ 2,079 RRB against the backdrop of a weaker pound .
+against	38	neg_cue
+########
+18
+<EOP> .
+########
+19
+`` A few years ago , Chinese visitors would go for high_priced fashion items , but now they 're focusing on independent retailers and art pieces that have been curated or made in Britain , '' said Tyrrell .
+would	8	ps_cue
+or	30	ps_cue
+########
+20
+<EOP> .
+########
+21
+He said there has been more interest from Chinese tourists in art programs and the activities of galleries and he expects the trend to continue .
+expects	20	ps_cue
+########
+22
+<EOP> .
+########
+23
+While Chinese people used to mainly travel during Chinese New Year and Golden Week at the start of October , there is now a constant presence of visitors from China .
+########
+24
+<EOP> .
+########
+25
+`` We have seen a lot more younger Chinese people , so we 're tapping into universities and the student market to find opportunities for our retailers and galleries , '' he added .
+opportunities	23	ps_cue
+########
+26
+<EOP> .
+########

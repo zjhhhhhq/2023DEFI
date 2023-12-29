@@ -1,0 +1,77 @@
+Was Trump invited to give State of the Union address 
+0
+Trump invited to give State of the Union address on Jan 30 <EOP> .
+########
+1
+2017_12_01 09:30 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+WASHINGTON _ US House of Representative Speaker Paul Ryan announced Thursday he has formally invited President Donald Trump to deliver his first State of the Union address on January 30 , 2018 .
+invited	14	CT+	CT+
+########
+4
+<EOP> .
+########
+5
+`` I 'm formally inviting President Trump to address a joint session of Congress on Tuesday , January 30 , to report on the state of the union , '' Ryan told reporters Thursday .
+inviting	4	CT+	CT+
+########
+6
+`` We look forward to him accepting our invitation . ''
+forward	3	ps_cue
+forward	3	neg_cue
+########
+7
+<EOP> .
+########
+8
+The address will be the president 's first speech to the full Congress since his joint address earlier this year .
+will	2	ps_cue
+########
+9
+But the February speech was technically not a State of the Union address because he had only been sworn in as president a month earlier .
+not	6	neg_cue
+########
+10
+<EOP> .
+########
+11
+`` Looking ahead , the new year will bring an opportunity to take account of the progress we have made but also lay out the work that still remains to be done on behalf of the American people , '' Ryan wrote in a letter to Trump offering the invitation .
+wrote	41	CT+	CT+
+will	7	ps_cue
+########
+12
+<EOP> .
+########
+13
+Ryan 's announcement came as Republicans in Congress are pushing for the passage of tax reform legislation , which is likely their last chance to pass a major piece of legislation before the end of 2017 .
+likely	20	ps_cue
+########
+14
+<EOP> .
+########
+15
+The US Constitution states that the president `` shall from time to time give to the Congress Information of the State of the Union . ''
+########
+16
+The tradition of delivering the address in_person was revived by President Woodrow Wilson in 1913 .
+########
+17
+<EOP> .
+########
+18
+Trump is expected to lay out his agenda for his second year in office at that occasion .
+expected	2	ps_cue
+########
+19
+<EOP> .
+########
+20
+<EOP> .
+########
+21
+<EOP> .
+########

@@ -1,0 +1,36 @@
+Does Kazuo Ishiguro win 2017 Nobel Prize in Literature
+0
+Kazuo Ishiguro wins 2017 Nobel Prize in Literature <EOP> .
+wins	2	CT+	CT+
+########
+1
+2017_10_05 20:47 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+STOCKHOLM _ The Nobel Prize in Literature for 2017 is awarded to Kazuo Ishiguro `` who , in novels of great emotional force , has uncovered the abyss beneath our illusory sense of connection with the world '' , the Swedish Academy announced in Stockholm on Thursday .
+awarded	10	CT+	CT+
+########
+4
+<EOP> .
+########
+5
+<EOP> .
+########
+6
+<EOP> .
+########
+7
+<EOP> .
+########
+8
+Author Kazuo Ishiguro photographed during an interview with Reuters in New York , U.S. April 20 , 2005 .
+########
+9
+<EOP> .
+########
+10
+LRB Photo_Agencies RRB <EOP> .
+########

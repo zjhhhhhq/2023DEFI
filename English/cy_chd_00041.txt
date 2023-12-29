@@ -1,0 +1,119 @@
+Did chemical attack in Syria cross many lines
+0
+Trump says chemical attack in Syria crossed many lines <EOP> .
+crossed	6	CT+	CT+
+########
+1
+2017_04_06 09:01 <EOP> .
+########
+2
+null <EOP> .
+########
+3
+<EOP> .
+########
+4
+US President Donald Trump speaks during a joint news conference with Jordan 's King Abdullah LRB not pictured RRB in the Rose Garden after their meeting at the White House in Washington , US , April 5 , 2017 .
+not	16	neg_cue
+########
+5
+LRB Photo_Agencies RRB <EOP> .
+########
+6
+Trump said the attack , which killed at least 70 people , many of them children , `` crosses many , many lines '' , an allusion to his predecessor Barack Obama 's threat to topple Assad with airstrikes if he used such weapons .
+crosses	18	CT+	CT+
+########
+7
+His accusations against Assad put him directly at odds with Moscow , the Syrian 's president principal backer .
+against	2	neg_cue
+########
+8
+<EOP> .
+########
+9
+`` I will tell you , what happened yesterday is unacceptable to me , '' Trump told reporters at a news conference with Jordan 's King Abdullah on Wednesday .
+will	2	ps_cue
+unacceptable	10	neg_cue
+########
+10
+<EOP> .
+########
+11
+`` And I will tell you , it 's already happened that my attitude toward Syria and Assad has changed very much , '' though when asked at an earlier meeting whether he was formulating a new policy on Syria , Trump said : `` You 'll see . ''
+will	3	ps_cue
+whether	31	ps_cue
+########
+12
+<EOP> .
+########
+13
+Vice President Mike Pence , when asked whether it was time to renew the call for Assad to be ousted and safe zones be established , told Fox News : `` But let me be clear , all options are on the table , '' without elaborating .
+whether	7	ps_cue
+without	45	neg_cue
+########
+14
+<EOP> .
+########
+15
+US officials rejected Russia 's assertion that Syrian rebels were to blame for the attack .
+rejected	2	neg_cue
+########
+16
+<EOP> .
+########
+17
+Trump 's comments , which came just a few days after Washington said it was no longer focused on making Assad leave power , suggested a clash between the Kremlin and Trump 's White House after initial signals of warmer ties .
+no	15	neg_cue
+suggested	24	ps_cue
+########
+18
+Trump did not mention Russia in his comments on Wednesday but Secretary of State Rex Tillerson said it was time for Russia to think carefully about its support for Assad .
+not	2	neg_cue
+########
+19
+<EOP> .
+########
+20
+Pence said the time had come for Moscow to `` keep the word that they made to see to the elimination of chemical weapons so that they no longer threaten the people in that country . ''
+no	27	neg_cue
+########
+21
+<EOP> .
+########
+22
+Western countries , including the United States , blamed Assad 's armed forces for the worst chemical attack in Syria for more than four years .
+blamed	8	CT+	CT+
+########
+23
+<EOP> .
+########
+24
+US intelligence officials , based on a preliminary assessment , said the deaths were most likely caused by sarin nerve gas dropped by Syrian aircraft on the town of Khan Sheikhoun on Tuesday .
+likely	15	ps_cue
+########
+25
+A senior State Department official saidWashington had not yet ascertained it was sarin .
+not	7	neg_cue
+yet	8	neg_cue
+########
+26
+<EOP> .
+########
+27
+Moscow offered an alternative explanation that would shield Assad : that the poison gas belonged to rebels and had leaked from an insurgent weapons depot hit by Syrian bombs .
+would	6	ps_cue
+########
+28
+<EOP> .
+########
+29
+A senior White House official , speaking on condition of anonymity , said the Russian explanation was not credible .
+not	17	neg_cue
+########
+30
+`` We do n't believe it , '' the official said .
+n't	3	neg_cue
+########
+31
+<EOP> .
+########

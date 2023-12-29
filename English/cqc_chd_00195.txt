@@ -1,0 +1,156 @@
+Did the cost of living in Asian cities increase 
+0
+Living in China cheaper as Asian cities get pricier <EOP> .
+Living	0	CT+	CT+
+########
+1
+2017_05_08 07:38 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+<EOP> .
+########
+4
+Visitors view light installations at `` Love in Springtime '' light exhibition in Singapore 's Sentosa island , Jan 25 , 2017 .
+########
+5
+The `` Love in Springtime '' exhibition is held from Jan 21 to Feb 26 to celebrate Chinese Lunar New Year.LRB Photo_Xinhua RRB <EOP> .
+########
+6
+The cost of living in Asian cities generally increased last year , with Singapore remaining at the top for the fourth consecutive year .
+living	3	CT+	CT+
+########
+7
+But exchange rate volatility and resurgent commodity prices , rather than productivity gains , were responsible for the increase .
+rather	9	neg_cue
+########
+8
+<EOP> .
+########
+9
+Asia remains the most diverse region in terms of the cost of living .
+living	12	CT+	CT+
+########
+10
+Ironically , with several major agricultural and manufacturing product exporters , East Asian cities tend to be the world 's priciest places for tradable products , such as general grocery and clothing .
+tend	14	ps_cue
+########
+11
+<EOP> .
+########
+12
+Asian cities continue to climb up the world cost of living ladder , accounting for half of the 10 most expensive cities in the latest Worldwide Cost of Living Survey from The Economist Intelligence Unit .
+Living	28	CT+	CT+
+########
+13
+<EOP> .
+########
+14
+Exchange rate volatility was the major factor that determined the cost of living in cities .
+living	12	CT+	CT+
+########
+15
+With the strength of the US dollar moderating and the euro remaining relatively stable , currencies such as the Australian dollar and the New Zealand dollar have gained in value , ending up with higher relative cost .
+########
+16
+Underpinned by a stronger yen , Tokyo and Osaka have returned to the 10 most expensive cities ' list , by climbing up seven and nine places .
+########
+17
+And Seoul , supported by currency and income growth , has moved up two places to the 6th spot .
+########
+18
+<EOP> .
+########
+19
+The steady depreciation of the yuan and weaker consumer sentiment have dragged down living costs in China .
+########
+20
+Five Chinese mainland cities － Beijing , Suzhou , Guangzhou , Tianjin and Dalian － are among the biggest movers down the ranking ladder in the past year .
+########
+21
+Shanghai remains the most expensive city in the Chinese mainland , though its relative costs are lower .
+########
+22
+The city is 8 percent cheaper than New York City now compared with just 3 percent 12 months ago .
+########
+23
+The city used to be as expensive as Tokyo , but is now cheaper than not only Tokyo and Osaka but also Sydney and Melbourne .
+not	15	neg_cue
+########
+24
+<EOP> .
+########
+25
+Asian cities ' rankings are characterized by extremes , the most expensive and the cheapest .
+########
+26
+Singapore and Hong Kong continue to be the most and second_most expensive cities , while cities such as Colombo , Kathmandu , New Delhi , Chennai , Mumbai , Karachi and Bangalore represent the best value for money in Asia and are among the 30 cheapest in the world because of lower incomes and closer links to domestic agriculture and manufacturing supply chains .
+########
+27
+<EOP> .
+########
+28
+A closer look at the most expensive cities shows Asian cities tend to form the priciest locations for tradable goods , such as grocery and daily necessities .
+tend	11	ps_cue
+########
+29
+Yet they offer non_tradable goods at much lower prices than European cities .
+########
+30
+This perhaps reflects a greater premium on discretionary spending for better quality products , such as organic food , branded clothes and advanced electronic products , in high_income cities such as Hong Kong and Tokyo .
+perhaps	1	ps_cue
+########
+31
+The grocery products many Asian countries , such as China and Malaysia , export often do not match the demand for wealthier Asian countries ' premium consumption .
+not	16	neg_cue
+########
+32
+<EOP> .
+########
+33
+Government subsidy is another important factor that decides Asian cities ' ranks .
+########
+34
+Grocery prices in cities in Japan and the Republic of Korea , for instance , are among the highest in the world .
+########
+35
+<EOP> .
+########
+36
+In Seoul , topping up a grocery basket is almost 50 percent more expensive than in New York City .
+########
+37
+The average price of a 1_kilogram loaf of bread in Seoul is 140 percent more than in New Delhi , and much higher than in China , Malaysia , New Zealand , which export agricultural products .
+########
+38
+Due to limited domestic arable land , the ROK relies on imports of agricultural products , but with high tariffs to protect its domestic agricultural industry , it ends up with very high grocery prices .
+########
+39
+In India , one sees the opposite trend .
+########
+40
+To reduce hunger , India provides subsidies for staple foods and other agricultural products , lowering the cost of foods .
+########
+41
+<EOP> .
+########
+42
+In the long run , this divergence is likely to persist and Asian cities are expected to become relatively more expensive as emerging economies continue to supply much of the world 's wage and demand growth .
+likely	8	ps_cue
+expected	15	ps_cue
+########
+43
+But the capacity for economic shocks and currency swings could make the ride quite bumpy .
+could	9	ps_cue
+########
+44
+<EOP> .
+########
+45
+The author is an economist with The Economist Intelligence Unit .
+########
+46
+<EOP> .
+########

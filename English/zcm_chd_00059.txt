@@ -1,0 +1,113 @@
+Will Illinois hold candlelight vigil for missing Chinese scholar
+0
+Illinois to hold candlelight vigil for missing Chinese scholar <EOP> .
+hold	2	CT+	CT+
+missing	6	neg_cue
+########
+1
+2017_09_15 17:27 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+<EOP> .
+########
+4
+A photo of Zhang Yingying released by the police .
+########
+5
+LRB Provided to chinadaily.com.cn RRB <EOP> .
+########
+6
+<EOP> .
+########
+7
+<EOP> .
+########
+8
+The University of Illinois will host a candlelight vigil on Sunday to mark the 100th day since visiting Chinese scholar Zhang Yingying was last seen .
+will	4	ps_cue
+########
+9
+<EOP> .
+########
+10
+Zhang , 26 , went to the University of Illinois Urbana_Champaign to study agriculture in April .
+########
+11
+She was reported missing on June 9 while on her way to renew a rental contract .
+missing	3	neg_cue
+########
+12
+<EOP> .
+########
+13
+On June 30 , the FBI announced Brendt Christensen , 28 , a student in physics major also at UIUC , as a suspect for kidnapping Zhang and arrested him .
+suspect	23	ps_cue
+########
+14
+The trail is scheduled to start on Feb 27 .
+scheduled	3	ps_cue
+########
+15
+The evidence referred that Zhang is presumed dead , but she has not been found yet .
+not	12	neg_cue
+yet	15	neg_cue
+########
+16
+<EOP> .
+########
+17
+According to local newspaper The News Gazette , the vigil will begin at 6:30 pm on the quad side of the Illini Union and the event 's Facebook page wrote : `` In Chinese culture , 100 days after a tragedy is a day for family and friends to pay tribute . ''
+begin	11	CT+	CT+
+will	10	ps_cue
+########
+18
+<EOP> .
+########
+19
+Bruce Rauner , governor of Illinois , who is visiting Shanghai , said : `` My heart goes along with the family , it breaks my heart . ''
+########
+20
+<EOP> .
+########
+21
+The governor said it is a very unusual and isolated case and people should be concerned , but `` that 's one bad person did one bad , evil thing .
+should	13	ps_cue
+########
+22
+The university is very safe . ''
+########
+23
+<EOP> .
+########
+24
+Edward Seidel , vice_president for Economic Development and Innovation of UIUC , said : `` We were all devastated by this incident _ not only the LRB victim 's RRB family but the entire community _ but we are working hard on addressing it . ''
+not	23	neg_cue
+########
+25
+<EOP> .
+########
+26
+According to Seidel , the university has been supporting the victim 's family in many ways over the past months , while setting up a foundation to support other students who may come to the university and cooperating with professionals to improve orientation for international students to ensure their safety in a foreign country .
+may	31	ps_cue
+########
+27
+<EOP> .
+########
+28
+The university is home to the largest number of Chinese students among the top 50 universities according to the US News ranking .
+########
+29
+In 2015 , the number stood at around 5,000 .
+########
+30
+<EOP> .
+########
+31
+He Qi in Shaghai contributed to this story .
+########
+32
+<EOP> .
+########

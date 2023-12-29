@@ -1,0 +1,96 @@
+Does fund continue support for peace , development
+0
+Fund continues support for peace , development <EOP> .
+support	2	CT+	CT+
+########
+1
+2017_10_31 04:09 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+UN peacekeeping , the Belt and Road Initiative and the 2030 Agenda for Sustainable Development will continue to be priorities for the China_UN Peace and Development Trust Fund in 2017 and 2018 , according to the Chinese Permanent Mission to the UN .
+will	15	ps_cue
+########
+4
+<EOP> .
+########
+5
+The Guidance Committee of the China_UN Peace and Development Trust Fund met for the second time on Oct 27 at UN headquarters in New York , presided over by Maria Luiza Ribeiro Viotti , chef de cabinet to UN Secretary General Ant <EOP> .
+########
+6
+nio Guterres .
+########
+7
+The meeting reviewed the implementation of programs in 2016 , the fund 's financial situation and related project applications .
+########
+8
+<EOP> .
+########
+9
+Wu Haitao , charge d'affairs of the mission , said at the meeting that General Secretary Xi Jinping pointed out in his speech at the 19th National Party Congress in Beijing that China will stick to the road of peace and development , and push for the building of a community for shared destiny for mankind .
+will	33	ps_cue
+########
+10
+<EOP> .
+########
+11
+China maintains the global governance view of extensive consultation , making joint contributions and sharing benefits and supports the UN to play an active role in international affairs .
+########
+12
+The setup of the China_UN Peace and Development Fund has strongly demonstrated the commitments China has made , Wu said .
+########
+13
+<EOP> .
+########
+14
+Wu said he hoped the fund 's management team will continue work on its branding .
+hoped	3	ps_cue
+will	9	ps_cue
+########
+15
+<EOP> .
+########
+16
+President Xi Jinping announced during the UN 's 70th anniversary summit in 2015 that China will establish a $ 1 billion China_UN peace and development fund to support the UN 's work in peace , development and security .
+support	27	CT+	CT+
+will	15	ps_cue
+########
+17
+<EOP> .
+########
+18
+Li Junhua , director general of the international division of China 's Ministry of Foreign Affairs , said the 19th NPC reaffirmed China 's support for the UN and highlighted the UN 's important role in China 's national development and international relations , which reflect China 's support for UN 's work and multilateralism .
+support	24	CT+	CT+
+support	48	CT+	CT+
+########
+19
+<EOP> .
+########
+20
+Chen Zhibin , a deputy director general from China 's Ministry of Finance , said the ministry will provide funds as scheduled to support its operation and he hoped the secretariat will ensure a solid financial status for the fund .
+support	23	CT+	CT+
+will	17	ps_cue
+scheduled	21	ps_cue
+hoped	28	ps_cue
+will	31	ps_cue
+########
+21
+<EOP> .
+########
+22
+Progress has been made on the first batch of 13 projects , according to Viotti , who expressed hope that the fund will play a greater role in advancing international peace and development .
+hope	18	ps_cue
+will	22	ps_cue
+########
+23
+<EOP> .
+########
+24
+The UN Economic and Social Affairs Department will continue to work with China to fully implement related projects of the fund and contribute to the 2030 Agenda , said Under_Secretary_General Liu Zhenmin .
+will	7	ps_cue
+########
+25
+<EOP> .
+########

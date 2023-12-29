@@ -1,0 +1,70 @@
+Has China perfected its anti_drone laser beam 
+0
+Robots and ray guns : China perfects its anti_drone laser beam <EOP> .
+perfects	6	CT+	CT+
+########
+1
+2017_07_03 13:54 <EOP> .
+########
+2
+null <EOP> .
+########
+3
+Scientists at the China Academy of Engineering Physics LRB CAEP RRB announced recently that they have perfected a laser gun capable of shooting down drones flying at low altitudes .
+perfected	16	CT+	CT+
+########
+4
+The laser system performed well during experiments and tests , shooting down over 30 small aircraft , said a CAEP employee .
+########
+5
+<EOP> .
+########
+6
+The laser gun disables drones after shooting lasers that burn and erode the target 's surface and functional parts .
+########
+7
+In this way , it interferes with the drone 's remote control and navigation system .
+########
+8
+The system can destroy targets within five seconds , causing no collateral damage .
+can	2	ps_cue
+no	10	neg_cue
+########
+9
+A single system defense set can cover an area of 12 square kilometers .
+can	5	ps_cue
+########
+10
+<EOP> .
+########
+11
+In April , 19 drones flying illegally over various Chinese airports forced many flights to be canceled .
+########
+12
+Though China has required civilian drones weighing more than 250 grams to be registered under real names since June 1 , experts nevertheless warn that occasional hostile flights can not be prevented .
+can	28	ps_cue
+not	29	neg_cue
+prevented	31	neg_cue
+########
+13
+<EOP> .
+########
+14
+The laser system has become a popular way to counter these drone issues .
+########
+15
+It can be dismantled for easier transportation .
+can	1	ps_cue
+########
+16
+In addition , in order to effectively detect and guide the laser system , a complementary radar system is designed to work with the laser .
+########
+17
+The laser system is the first of its kind in the world .
+########
+18
+<EOP> .
+########
+19
+Sputnik <EOP> .
+########

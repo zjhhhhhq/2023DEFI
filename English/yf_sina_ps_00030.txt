@@ -1,0 +1,768 @@
+Will there be BRICS Summit in Fortaleza
+0
+How do you evaluate BRICS cooperation in the past five years since its inception and how would it be strengthened in the future ?
+evaluate	3	ps_cue
+would	16	ps_cue
+########
+1
+What is your expectation of the upcoming BRICS Summit in Fortaleza ?
+Summit	8	PS+	PS+
+expectation	3	ps_cue
+########
+2
+Given the slowdown or even stagnation of the developed economies , great hopes are placed on the BRICS countries .
+or	3	ps_cue
+hopes	12	ps_cue
+########
+3
+How could the BRICS countries overcome their diversity to become the engine of the global economy ?
+could	1	ps_cue
+########
+4
+<EOP> .
+########
+5
+Over the past five years , BRICS has formed a pattern of multi_tiered and wide_ranging cooperation that is led by the leaders ' meeting .
+########
+6
+Among BRICS countries , there has been growing political mutual trust , expanding practical cooperation in economy , finance , trade , development and many other areas as well as increasing communication and coordination on important international affairs .
+########
+7
+<EOP> .
+########
+8
+What has happened has proved that when BRICS countries , which account for 42.6 % of the world population , enjoy economic growth and social stability and work together for common development , it conforms with the call of the times for peace , development and win_win cooperation and will thus facilitate a more balanced world economy , more effective global governance and more democratic international relations .
+will	49	ps_cue
+########
+9
+<EOP> .
+########
+10
+The Brazilian author Paulo Coelho once said , `` The world is in the hands of those who have the courage to live their dreams with their talent . ''
+########
+11
+Today , the international landscape continues to undergo intricate changes .
+########
+12
+The world economy is recovering steadily , but still faces many risks and challenges .
+########
+13
+Against this backdrop , the Fortaleza summit has great significance in advancing BRICS cooperation as it will take stock of past progress and plan for the future .
+will	16	ps_cue
+plan	23	ps_cue
+########
+14
+I hope that the summit could deepen cooperation , display inclusiveness and convey confidence .
+hope	1	ps_cue
+could	5	ps_cue
+########
+15
+<EOP> .
+########
+16
+To deepen cooperation means we need to make strategic planning for BRICS ' future development .
+need	5	ps_cue
+planning	9	ps_cue
+########
+17
+At the Durban summit last year , I proposed that `` BRICS should move toward the goal of integrated markets , multi_tiered network , connectivity by land , air and sea , and greater cultural exchanges '' .
+proposed	8	ps_cue
+should	12	ps_cue
+########
+18
+This is my keen expectation for closer economic partnership among BRICS .
+expectation	4	ps_cue
+########
+19
+I hope that all the members could make full use of the beginning summit of a new cycle to come up with new vision , find new dynamism , and solidify BRICS cooperation through better institutions , more mature policy coordination and more substantive practical cooperation .
+hope	1	ps_cue
+could	6	ps_cue
+########
+20
+<EOP> .
+########
+21
+To display inclusiveness means that BRICS countries should learn from and complement each other while opening up further to the rest of the world in pursuit of win_win outcome .
+should	7	ps_cue
+########
+22
+Given the different national conditions and culture , the BRICS countries may have different views on certain issues .
+may	11	ps_cue
+########
+23
+But such diversity and differences should and can motivate rather than impede complementary and inclusive BRICS cooperation .
+should	5	ps_cue
+can	7	ps_cue
+rather	9	neg_cue
+########
+24
+BRICS cooperation is not solely aimed at self improvement .
+not	3	neg_cue
+########
+25
+It is intended to bring about common development through concerted efforts with all other countries .
+intended	2	ps_cue
+########
+26
+On the sidelines of the Fortaleza summit , the BRICS leaders will have a dialogue with leaders of South American countries .
+will	11	ps_cue
+########
+27
+It is hoped that the two sides will have an in_depth exchange of views on regional and international issues of mutual interest , enhance mutual understanding and collaboration , and explore practical cooperation in the economic , trade , people_to_people and cultural areas .
+hoped	2	ps_cue
+will	7	ps_cue
+########
+28
+<EOP> .
+########
+29
+To convey confidence means we should have full confidence in the solidarity and mutual trust among the BRICS countries and in the prospect of BRICS , and also boost the confidence of the market and people in the BRICS economies .
+should	5	ps_cue
+########
+30
+It is important to take a long_term perspective .
+########
+31
+The BRICS countries have the need to pursue economic restructuring and innovative development .
+need	5	ps_cue
+########
+32
+We also share the desire to safeguard international justice and equity and uphold the common interests of emerging markets and developing countries .
+########
+33
+As long as the BRICS countries continue to build political mutual trust and strategic consensus , make our voice heard and propose more solutions , we will contribute more positive energy to world economic growth , better global economic governance and world peace and development .
+will	26	ps_cue
+########
+34
+<EOP> .
+########
+35
+Brazil plays an active role in BRICS cooperation and has done a great deal of work to make the Fortaleza summit possible .
+possible	21	ps_cue
+########
+36
+I am confident that with Brazil as the chair , the Fortaleza summit will become another success in the history of BRICS cooperation .
+will	13	ps_cue
+########
+37
+<EOP> .
+########
+38
+What is your view of the China_Brazil global strategic partnership ?
+########
+39
+In which areas will China cooperate with Brazil ?
+will	3	ps_cue
+########
+40
+Will China increase investment in Brazil ?
+########
+41
+<EOP> .
+########
+42
+The Chinese side and I myself attach great importance to growing the global strategic partnership with Brazil .
+########
+43
+I am delighted to see that , thanks to joint efforts , our political and strategic trust has reached an unprecedented level , and bilateral practical cooperation has reached such a depth and breadth as never seen before .
+never	35	neg_cue
+########
+44
+<EOP> .
+########
+45
+Last year , President Rousseff and I had two bilateral meetings on multilateral occasions .
+########
+46
+We also stayed in contact through phone calls .
+########
+47
+We have had in_depth discussion on China_Brazil relations and issues of shared interest , and reached important agreement on enhancing our mutually beneficial cooperation in various fields .
+########
+48
+<EOP> .
+########
+49
+Two_way trade volume exceeded US$ 90 billion last year .
+########
+50
+China remains Brazil 's largest trading partner , and Brazil has become China 's ninth largest trading partner .
+########
+51
+The two sides have conducted win_win , fruitful cooperation in energy , resources , manufacturing , finance and agriculture .
+########
+52
+The practical cooperation between China and Brazil has not only generated more and more real benefits for our two peoples , but also brought our two countries more closely together in the course of development .
+not	8	neg_cue
+########
+53
+<EOP> .
+########
+54
+As major emerging markets and developing countries , China and Brazil have been engaged in effective strategic coordination on major global issues .
+########
+55
+We are both committed to making the international order more just and equitable and upholding common interests of developing countries .
+########
+56
+<EOP> .
+########
+57
+This year marks the 40th anniversary of China_Brazil diplomatic ties .
+########
+58
+Confucius once said , `` One should have no more doubts when he is 40 . ''
+should	6	ps_cue
+no	8	neg_cue
+########
+59
+I am looking forward to my state visit to Brazil .
+forward	3	ps_cue
+forward	3	neg_cue
+########
+60
+During the visit , the Brazilian leaders and I will sum up the experience of growing our bilateral relations , discuss concrete steps to build closer cooperation and exchanges in all fields and upgrade our bilateral relations .
+will	9	ps_cue
+########
+61
+Our two countries should continue to see each other as important partners .
+should	3	ps_cue
+########
+62
+China is ready to work with Brazil under the principle of mutual benefit to promote sustained growth of two_way trade .
+ready	2	ps_cue
+########
+63
+At the same time , we could , bearing in mind our respective plans of development , carry out industrial investment cooperation and keep exploring new areas of cooperation so as to contribute more to economic and social development of our two countries .
+could	6	ps_cue
+plans	13	ps_cue
+########
+64
+<EOP> .
+########
+65
+How do you assess the current China_Argentina strategic partnership ?
+########
+66
+What do you think are the major areas in which the two countries will be able to work together ?
+will	13	ps_cue
+########
+67
+<EOP> .
+########
+68
+Since the establishment of diplomatic relations more than 40 years ago , our bilateral ties have moved forward rapidly thanks to the joint efforts of the two sides .
+forward	17	ps_cue
+forward	17	neg_cue
+########
+69
+As a line from the Argentine epic Martin Fierro goes , `` Brothers have to be united , because this is the first law . ''
+########
+70
+China and Argentina have become trustworthy friends and equal partners in win_win cooperation .
+########
+71
+<EOP> .
+########
+72
+Last year , President Cristina and I met at the G20 St. Petersburg Summit .
+Summit	13	CT+	PS+
+########
+73
+We had an in_depth exchange of views on increasing exchanges and cooperation between our two countries in all fields .
+########
+74
+The meeting is still vivid in my memory .
+########
+75
+China appreciates Argentina 's commitment to the one_China principle and supports Argentina 's claim on the sovereignty of the Malvinas .
+########
+76
+<EOP> .
+########
+77
+In 2013 , bilateral trade reached US$ 14.8 billion , more than 2,400 times of the amount in the early days of our diplomatic ties .
+########
+78
+China has become Argentina 's second largest trading partner and a major source of investment .
+########
+79
+Argentina has become China 's fifth largest trading partner in Latin America .
+########
+80
+The two sides have had productive cooperation in energy , resources , agriculture , infrastructure development and finance , bringing real benefits to the two peoples .
+########
+81
+Thanks to the rich programs of people_to_people exchanges , mutual understanding and friendship between the Chinese and Argentine people have deepened .
+########
+82
+On major international and regional affairs , China and Argentina have maintained close and sound strategic coordination , effectively upholding common interests of developing countries .
+########
+83
+<EOP> .
+########
+84
+My country and I personally attach great importance to China_Argentina strategic partnership .
+########
+85
+I look forward to having an in_depth exchange of views with President Cristina on bilateral relations and issues of mutual interest to chart the course for the growth of bilateral relations , forge closer exchanges and cooperation in all fields , promote balanced and steady growth of bilateral trade and upgrade mutually beneficial cooperation in industrial investment and infrastructure development so as to bring China_Argentina strategic partnership to a new level .
+forward	2	ps_cue
+forward	2	neg_cue
+########
+86
+<EOP> .
+########
+87
+How do you evaluate the contribution by President Hugo Chavez to Venezuela_China relations ?
+evaluate	3	ps_cue
+########
+88
+What is China 's expectation of enhancing cooperation and growing strategic partnership for common development with Venezuela under the leadership of President Maduro ?
+expectation	4	ps_cue
+########
+89
+<EOP> .
+########
+90
+President Chavez was a great friend of the Chinese people .
+########
+91
+He was deeply committed to growing relations with China and personally involved in advancing practical cooperation between the two countries .
+########
+92
+The Chinese people will always remember him for his tremendous dedication and enormous contribution to the establishment and development of China_Venezuela strategic partnership for common development .
+will	3	ps_cue
+########
+93
+<EOP> .
+########
+94
+This year marks the 40th anniversary of the diplomatic relations between China and Venezuela .
+########
+95
+Since the establishment of diplomatic ties , especially the establishment of strategic partnership for common development in 2001 , China_Venezuela relations have witnessed comprehensive , sustained and rapid growth .
+########
+96
+The two countries enjoy close high_level exchanges and ever_deepening political mutual trust .
+########
+97
+Our practical cooperation in energy , finance , infrastructure development , agriculture and hi_tech has been productive .
+########
+98
+Bilateral trade volume grew to US$ 19.2 billion last year from only US$ 1.4 million in the early days of diplomatic relations .
+########
+99
+China has become Venezuela 's second largest trading partner .
+########
+100
+Venezuela is China 's fourth largest trading partner in Latin America , an important partner for energy cooperation and a major market of contracted projects .
+########
+101
+The ever_closer people_to_people exchange has cemented popular support for the friendly relations between the two countries .
+########
+102
+Last September , President Maduro paid a successful state visit to China , giving a strong boost to China_Venezuela relations .
+########
+103
+Recently , the two sides have jointly organized a series of activities in celebration of the 40th anniversary , which have enhanced the mutual understanding and friendship between the two peoples .
+########
+104
+<EOP> .
+########
+105
+The relationship between China and Venezuela is at an important stage from which it will move to a new era based on past achievements .
+will	14	ps_cue
+########
+106
+China highly values its relations with Venezuela and stands ready to work with Venezuela , taking the 40th anniversary as an opportunity , to upgrade bilateral relations , step up mutually beneficial cooperation in all fields and promote greater development of bilateral relations in the new era .
+ready	9	ps_cue
+########
+107
+I look forward to visiting Venezuela to have an in_depth exchange of views with President Maduro on all_dimensional cooperation between the two countries , draw plans for the future of bilateral relations , take our relations to a new level and bring more benefits to our two peoples .
+forward	2	ps_cue
+forward	2	neg_cue
+plans	25	ps_cue
+########
+108
+<EOP> .
+########
+109
+How do you view the friendly and cooperative relationship between China and Cuba and its future development ?
+########
+110
+<EOP> .
+########
+111
+I visited Cuba in June 2011 .
+########
+112
+During that visit , I had open and in_depth exchange of views with President Raul Castro and was deeply impressed by the warmth and hospitality of the Cuban people .
+########
+113
+<EOP> .
+########
+114
+In 1960 , Cuba took the lead among countries in the Western Hemisphere to establish diplomatic relations with New China , opening a new chapter for the growth of China ' s relations with Cuba and with Latin America and the Caribbean .
+########
+115
+Over the past half a century and more , the friendly relationship between China and Cuba has increasingly matured and our cooperation has been steadily enriched .
+########
+116
+Our two countries have progressed hand in hand along the path of socialism with our respective characteristics , supported each other on issues concerning our respective core interests and coordinated closely on major regional and international issues .
+########
+117
+This relationship has stood the test of constant changes in the international landscape and set an example of unity and cooperation between developing countries .
+########
+118
+<EOP> .
+########
+119
+Cuban national hero Jose Marti said , `` To be united : this is the word of the world . ''
+########
+120
+China and Cuba are good friends , good comrades and good brothers who share the same visions and beliefs .
+########
+121
+Both countries have now come to a critical juncture in our development when opportunities must be seized for common development .
+opportunities	13	ps_cue
+########
+122
+We should maintain close high_level exchanges , share experience in governance , speed up cooperation in priority areas such as agriculture , infrastructure , energy and mineral resources , tourism , renewable energy and biotechnology , enhance people_to_people and local exchanges and conduct close coordination on multilateral arenas .
+should	1	ps_cue
+########
+123
+I believe that with concerted efforts of the two sides , our high_level political relations will be translated into rich results in practical cooperation , and our mutually_beneficial and friendly cooperation will be lifted to new levels .
+will	15	ps_cue
+will	31	ps_cue
+########
+124
+<EOP> .
+########
+125
+I look forward to meeting President Raul Castro during my visit to Cuba to take stock of experience in growing the bilateral relationship and chart the course for its future development .
+forward	2	ps_cue
+forward	2	neg_cue
+########
+126
+<EOP> .
+########
+127
+How would you comment on the current level of relations between China and Latin America and the Caribbean ?
+would	1	ps_cue
+########
+128
+What are your plans and visions for the growth of the overall relationship between the two sides ?
+plans	3	ps_cue
+########
+129
+<EOP> .
+########
+130
+`` Bosom friends make distance disappear . ''
+########
+131
+This line from an ancient Chinese poem well captures the relations between China and Latin America and the Caribbean .
+########
+132
+China and Latin American and the Caribbean states are all developing countries in about the same development stage and face the same task of striving for development .
+########
+133
+We support each other in pursuing development paths that suit our respective national conditions and are committed to making the international order more just and equitable .
+########
+134
+These are the fundamental reasons which enable us to seek common ground while shelving differences and stand by each other 's side in our joint pursuit of development .
+########
+135
+<EOP> .
+########
+136
+Since the beginning of the new century , China and Latin American and the Caribbean states , focusing on the theme of common development , have deepened mutual trust in the political field , expanded cooperation in economy and trade , learned from each other in cultural and people_to_people exchanges and coordinated closely in international affairs .
+########
+137
+This has made it possible for us to make big strides in our relations and set a model for South_South cooperation .
+possible	4	ps_cue
+########
+138
+<EOP> .
+########
+139
+Practical cooperation in economy and trade is an important pillar for relations between the two sides .
+########
+140
+In recent years , two_way trade has continued to rise and reached a record high of US$ 261.6 billion in 2013 .
+########
+141
+China has become the second largest trading partner and the third largest source of investment of Latin America and the Caribbean .
+########
+142
+Our cooperation in energy and resources , infrastructure , finance , agriculture , manufacturing and high_tech has produced rich results for mutual benefit , giving a strong boost to economic growth and improvement in people ' s wellbeing on both sides .
+########
+143
+<EOP> .
+########
+144
+Now , we are presented with important opportunities and blessed with better conditions and a more solid basis to further grow our relations .
+opportunities	7	ps_cue
+########
+145
+China always views its relations with Latin American and the Caribbean states from a strategic height and long_term perspective , and stands ready to work together with them to advance the comprehensive and cooperative partnership featuring equality , mutual benefit and common development between the two sides to a higher level , so as to better benefit the people of China , Latin American and the Caribbean states , and the rest of the world .
+ready	22	ps_cue
+########
+146
+<EOP> .
+########
+147
+To establish a forum between China and the Community of Latin American and Caribbean States LRB CELAC RRB for stronger cooperation between China and the region is consistent with the trend of regional and interregional cooperation .
+########
+148
+It is also the shared aspiration of China and Latin American and the Caribbean states .
+########
+149
+<EOP> .
+########
+150
+At the second CELAC Summit held in Havana , Cuba in January this year , a special statement on the establishment of a China_CELAC forum was adopted , which laid an important foundation for promoting the overall cooperation and uplifting the relationship between the two sides .
+Summit	4	CT+	PS+
+########
+151
+Cuba has played an important role in this regard , which is highly appreciated by China .
+########
+152
+<EOP> .
+########
+153
+Now , conditions are ripe for the establishment of the China_CELAC forum .
+########
+154
+China is ready to work with CELAC to make good use of the platform for overall cooperation provided by the forum in the spirit of mutual respect , equality and mutual benefit , conduct dialogue and cooperation across the board , and strive for mutual complementarity and common development , so as to contribute to upholding the common interests of the two sides , advancing South_South cooperation , and promoting regional and world peace , stability and development .
+ready	2	ps_cue
+########
+155
+<EOP> .
+########
+156
+Bolivarian Revolution advocates upholding and promoting a multi_polar world .
+########
+157
+How do you view the issue of democracy in international relations ?
+########
+158
+<EOP> .
+########
+159
+The international situation is undergoing profound and complex changes .
+########
+160
+The trend toward a multi_polar world is gathering momentum , multiple growth centers are emerging in various regions of the world , the overall strength of emerging markets and developing countries is rising , and the international balance of power is more favorable to maintaining world peace .
+########
+161
+<EOP> .
+########
+162
+`` When the great way is followed , all under the heaven will be equal . ''
+will	12	ps_cue
+########
+163
+Equality and justice is the noble goal pursued by people around the world in international relations .
+########
+164
+China resolutely upholds international justice and equality , and is committed to promoting a multi_polar world and democracy in international relations .
+########
+165
+We maintain that the destiny of the world must be taken into the hands of peoples of all countries and that world affairs can only be handled through consultation by governments and peoples around the world .
+can	23	ps_cue
+########
+166
+All countries , regardless of their size , strength or wealth , are equal members of the international community and should work together for greater democracy in international relations .
+or	9	ps_cue
+should	20	ps_cue
+########
+167
+<EOP> .
+########
+168
+The growth of China_Venezuela relations will help enhance the overall strength of developing countries and promote democracy in international relations .
+will	5	ps_cue
+########
+169
+The two sides should step up coordination on the international stage and work with other developing countries to jointly uphold the overall interests of developing countries .
+should	3	ps_cue
+########
+170
+<EOP> .
+########
+171
+How would China further deepen reform ?
+would	1	ps_cue
+########
+172
+What is the significance of China 's development for its foreign policy ?
+########
+173
+What kind of role does China hope to play in the world ?
+hope	6	ps_cue
+########
+174
+<EOP> .
+########
+175
+Despite the enormous achievements in its development , China remains a big developing country with a population of more than 1.3 billion .
+########
+176
+It remains and will continue to be at the primary stage of socialism for a long time .
+will	3	ps_cue
+########
+177
+The Chinese people are striving to realize modernization , a great undertaking unprecedented in human history that requires painstaking efforts .
+########
+178
+<EOP> .
+########
+179
+`` Just as jade needs to be polished , one needs to go through trials and tribulations to be strong . ''
+needs	4	ps_cue
+needs	10	ps_cue
+########
+180
+In the past 30 years and more , over 600 million Chinese have been lifted out of poverty , accounting for 70 % of the global achievement in poverty reduction .
+########
+181
+The share of the Chinese economy in the world economy has risen from 1 % to 12 % , and China 's economic growth now contributes to nearly 30 % of global growth .
+contributes	25	ps_cue
+########
+182
+The most important reason for the tremendous accomplishments in China 's development is that we are committed to reform and opening_up in light of China 's national conditions and have embarked on a path of socialism with Chinese characteristics .
+########
+183
+<EOP> .
+########
+184
+The Chinese people have long had a strong inclination towards innovation .
+########
+185
+As ancient Chinese sayings go , `` Even an established nation like Zhou still regards self_renewal as its mission ; '' and `` As heaven maintains vigor through movements , a gentleman should constantly strive for self_perfection . ''
+like	11	ps_cue
+should	32	ps_cue
+########
+186
+What has happened shows that without reform and opening_up , China could not have come to where it is today , nor can it have a future .
+without	5	neg_cue
+could	11	ps_cue
+not	12	neg_cue
+nor	21	neg_cue
+can	22	ps_cue
+########
+187
+Over the past 30 years and more , we have resolved a series of major issues through reform .
+resolved	10	neg_cue
+########
+188
+Going forward , we will continue to meet the various difficulties and challenges through reform .
+forward	1	ps_cue
+forward	1	neg_cue
+will	4	ps_cue
+########
+189
+We have put forward `` two centenary goals '' , namely , to double the 2010 GDP and per capita income of urban and rural residents and complete the building of a society of moderate prosperity in all respects by 2020 ; and to build a modern socialist country that is prosperous , strong , democratic , culturally advanced and harmonious and realize the Chinese dream of great national renewal by the middle of this century .
+forward	3	ps_cue
+forward	3	neg_cue
+########
+190
+We are now comprehensively deepening reform , improving and developing the system of socialism with Chinese characteristics and modernizing the state governance system and capacity .
+########
+191
+We will promote reform of the economic , political , cultural , social and ecological systems and the Party 's development system in a balanced way .
+will	1	ps_cue
+########
+192
+We will advance reform with the political courage and wisdom of `` venturing into the mountain despite the fact there might be tigers there '' .
+will	1	ps_cue
+might	20	ps_cue
+########
+193
+When we step onto the stone , we will leave our footprints on it ; and when we clutch a piece of iron , we will leave our handprints on it .
+will	8	ps_cue
+will	25	ps_cue
+########
+194
+This is the spirit we will uphold in pushing forward reform .
+will	5	ps_cue
+forward	9	ps_cue
+forward	9	neg_cue
+########
+195
+By so doing , we strive to provide a stronger driving force for China 's modernization , bring more and greater benefits to the Chinese people and create new development opportunities for the world .
+opportunities	30	ps_cue
+########
+196
+<EOP> .
+########
+197
+China 's basic national conditions and status as the most populous developing country remain unchanged and development is still our top priority .
+########
+198
+The purpose of China 's foreign policy is to uphold world peace , promote common development and foster a sound external environment for deepening reform and realizing the `` two centenary goals '' within China .
+########
+199
+The Chinese people love peace .
+love	3	ps_cue
+########
+200
+It is not in the genes of the Chinese nation to invade other countries or seek world hegemony .
+not	2	neg_cue
+or	14	ps_cue
+########
+201
+China does not subscribe to the outdated logic that `` a strong country is bound to seek hegemony '' .
+not	2	neg_cue
+########
+202
+Committed to the path of peaceful development , China actively seeks a peaceful international environment for its development and also promotes world peace through its own development .
+seeks	10	ps_cue
+########
+203
+By committing itself to peaceful development , China will make a better use of the opportunities in the world and also enable the world to better share in the opportunities brought by China , so as to promote sound interactions and mutual benefits between China and other countries in the world .
+will	8	ps_cue
+opportunities	15	ps_cue
+opportunities	29	ps_cue
+########
+204
+<EOP> .
+########
+205
+As China develops , it will better play its role as a major responsible country .
+will	5	ps_cue
+########
+206
+We will be more active in working to uphold world peace , advocate common , comprehensive , cooperative and sustainable security and commit ourselves to peacefully resolving disputes through consultation and negotiation .
+will	1	ps_cue
+########
+207
+We will firmly uphold the UN_centered post_war international order and actively participate in UN peacekeeping missions and regional security dialogue and cooperation .
+will	1	ps_cue
+########
+208
+<EOP> .
+########
+209
+We will play a more active role in international affairs , commit ourselves to improving international governance system , and make vigorous efforts to increase the representation and voice of developing countries in international affairs .
+will	1	ps_cue
+########
+210
+We will offer more Chinese solutions , contribute Chinese wisdom and provide the international community with more public goods .
+will	1	ps_cue
+########
+211
+<EOP> .
+########
+212
+We will more actively promote common development , uphold the right approach to justice and interests with a priority to justice , and promote North_South dialogue and South_South cooperation .
+will	1	ps_cue
+########
+213
+In particular , we will help other developing countries achieve self and sustainable development .
+will	4	ps_cue
+########
+214
+<EOP> .
+########

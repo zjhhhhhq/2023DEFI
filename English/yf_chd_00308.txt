@@ -1,0 +1,208 @@
+Were eight people mowed down by driver on NYC bike path
+0
+Eight people mowed down by driver on NYC bike path <EOP> .
+mowed	2	CT+	CT+
+########
+1
+2017_11_01 05:01 <EOP> .
+########
+2
+Agencies <EOP> .
+########
+3
+NEW YORK , Oct 31 _ Eight people were killed and 15 others injured in New York City on Tuesday afternoon after a vehicle drove down a bike path that runs alongside the Hudson River in Manhattan , police said .
+killed	9	CT+	CT+
+########
+4
+<EOP> .
+########
+5
+<EOP> .
+########
+6
+Emergency crews attend the scene of an alleged shooting incident on West Street in Manhattan , New York , U.S. , October 31 2017 .
+########
+7
+LRB Photo_Agencies RRB <EOP> .
+########
+8
+The Latest on a vehicle driving onto a bike path and gunfire near the World Trade Center site and memorial LRB all times local RRB :4:35 p.m. <EOP> .
+########
+9
+A law enforcement official says at least eight people were killed and at least 15 people were struck by a rented van near the World Trade Center in New York City .
+killed	10	CT+	CT+
+########
+10
+<EOP> .
+########
+11
+The official was familiar with the investigation but was n't authorized to speak publicly and spoke on condition of anonymity .
+n't	9	neg_cue
+########
+12
+<EOP> .
+########
+13
+The rented Home Depot van drove onto a busy bicycle path and struck several people , then the driver emerged from the vehicle screaming .
+########
+14
+The official says the man had two imitation firearms .
+########
+15
+<EOP> .
+########
+16
+Police say the man was shot by officers and is in custody .
+########
+17
+<EOP> .
+########
+18
+The official says it is being investigated as a possible case of terrorism .
+possible	9	ps_cue
+########
+19
+<EOP> .
+########
+20
+4:25 p.m. <EOP> .
+########
+21
+New York City police say there are `` several fatalities and numerous people injured '' after a motorist drove onto a busy bicycle path and struck several people , then emerged from the vehicle screaming and firing something that appeared to be a gun .
+appeared	39	ps_cue
+########
+22
+<EOP> .
+########
+23
+The department writes on Twitter that the suspect got out of the vehicle displaying imitation firearms and was shot by police officers .
+suspect	7	ps_cue
+########
+24
+Police say the person is in custody .
+########
+25
+<EOP> .
+########
+26
+A man who was riding in an Uber along the West Side Highway near the World Trade Center says he saw several bleeding people on the ground after a truck struck several people .
+########
+27
+<EOP> .
+########
+28
+A witness says the truck had also collided with a small bus and one other vehicle .
+########
+29
+<EOP> .
+########
+30
+4 p.m. <EOP> .
+########
+31
+Police and witnesses say a motorist drove onto a busy bicycle path near the World Trade Center memorial and struck several people , then emerged from the vehicle screaming and firing something that appeared to be a gun .
+appeared	33	ps_cue
+########
+32
+<EOP> .
+########
+33
+An Associated Press photographer on the scene Tuesday witnessed at least two bodies lying motionless on the path beneath tarps .
+########
+34
+<EOP> .
+########
+35
+The New York Police Department posted on its Twitter feed that one person was in custody .
+########
+36
+The department says it 's unclear whether anyone was shot .
+unclear	5	ps_cue
+whether	6	ps_cue
+########
+37
+<EOP> .
+########
+38
+A man who was riding in an Uber along the West Side Highway near Chambers street says he saw several bleeding people on the ground after a truck struck several people .
+########
+39
+<EOP> .
+########
+40
+A witness said the truck had also collided with a small bus and one other vehicle .
+########
+41
+<EOP> .
+########
+42
+3:50 p.m. <EOP> .
+########
+43
+Police are responding to a report of gunfire a few blocks from the World Trade Center site and memorial , and witnesses say a vehicle drove down a popular bike path and struck pedestrians and cyclists .
+blocks	10	neg_cue
+########
+44
+<EOP> .
+########
+45
+The New York Police Department posted on its Twitter feed that one person was in custody Tuesday .
+########
+46
+<EOP> .
+########
+47
+An Associated Press photographer on the scene saw at least one person lying motionless on the Manhattan bike path .
+########
+48
+<EOP> .
+########
+49
+A large number of police vehicles could be seen near a community college and a high school and a few blocks north of the National Sept. 11 Memorial .
+could	6	ps_cue
+blocks	20	neg_cue
+########
+50
+<EOP> .
+########
+51
+It 's unclear how many people have been injured or whether anyone was killed .
+killed	13	PS+	CT+
+unclear	2	ps_cue
+whether	10	ps_cue
+or	9	ps_cue
+########
+52
+<EOP> .
+########
+53
+3:35 p.m. <EOP> .
+########
+54
+Police are responding to a report of gunfire a few blocks from the World Trade Center site and memorial .
+blocks	10	neg_cue
+########
+55
+<EOP> .
+########
+56
+The New York Police Department posted on its Twitter feed that one person was in custody Tuesday .
+########
+57
+<EOP> .
+########
+58
+A large number of police vehicles could be seen in Manhattan near West Street and Chambers Street , which is near a community college and a high school and a few blocks north of the National Sept. 11 Memorial .
+could	6	ps_cue
+blocks	31	neg_cue
+########
+59
+<EOP> .
+########
+60
+It 's unclear if anyone was injured .
+unclear	2	ps_cue
+########
+61
+<EOP> .
+########

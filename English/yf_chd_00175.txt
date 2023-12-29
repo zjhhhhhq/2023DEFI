@@ -1,0 +1,121 @@
+Do Democrats stand united against GOP tax bill
+0
+Democrats stand united against GOP tax bill <EOP> .
+bill	6	CT-	CT-
+against	3	neg_cue
+########
+1
+2017_12_05 08:01 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+<EOP> .
+########
+4
+WASHINGTON _ Rarely unified , Senate Democrats stood together in opposing the GOP revamp of the tax code despite the traditional popularity of tax cuts and warnings from President Donald Trump and Republicans about the political cost in next year 's midterm elections .
+code	17	CT-	CT-
+opposing	10	neg_cue
+########
+5
+<EOP> .
+########
+6
+White House dinners , trips aboard Air Force One and even threats from Trump during campaign stops in their states were not enough to sway Democrats who rejected the nearly $ 1.5 trillion tax bill on Saturday .
+bill	34	CT-	CT-
+not	21	neg_cue
+rejected	27	neg_cue
+########
+7
+Lawmakers voting against the bill included 10 vulnerable Democrats from states Trump won last year , some handily .
+bill	4	CT-	CT-
+against	2	neg_cue
+########
+8
+<EOP> .
+########
+9
+When Trump took office 10 months ago , moderate Democrats such as Joe Manchin of West Virginia , Heidi Heitkamp of North Dakota and others were widely expected to break with their party and side with the Republican president .
+expected	27	ps_cue
+########
+10
+<EOP> .
+########
+11
+But on Trump 's top two legislative priorities taxes and dismantling former president Barack Obama 's healthcare law Democrats unanimously rebuffed the GOP president despite his derision .
+########
+12
+<EOP> .
+########
+13
+Trump said on Saturday : `` We got no Democrat help and I think that 's going to cost them in the election because they voted against tax cuts .
+cuts	28	CT-	CT-
+no	8	neg_cue
+against	26	neg_cue
+########
+14
+I do n't think politically it 's good to vote against tax cuts . ''
+cuts	12	CT+	CT-
+n't	2	neg_cue
+against	10	neg_cue
+########
+15
+<EOP> .
+########
+16
+<EOP> .
+########
+17
+<EOP> .
+########
+18
+He suggested on Saturday that he may be willing to negotiate changes to the significant portion of the tax overhaul .
+overhaul	19	PS+	CT-
+suggested	1	ps_cue
+may	6	ps_cue
+willing	8	ps_cue
+########
+19
+<EOP> .
+########
+20
+Trump said that he would consider setting the corporate tax rate at 22 percent .
+rate	10	PS+	CT-
+consider	5	ps_cue
+would	4	ps_cue
+########
+21
+<EOP> .
+########
+22
+Democrats argued that the unpopularity of the tax bill with its deep cuts for business and the wealthy and modest changes for many US citizens made their votes relatively easy .
+bill	8	CT+	CT-
+########
+23
+Multiple polls show the tax bill is supported by less than 40 percent of voters .
+bill	5	CT+	CT-
+########
+24
+And Democrats recall a painful political lesson : In 2010 , Democrats backed the unpopular healthcare bill and lost their House majority months later .
+########
+25
+<EOP> .
+########
+26
+`` My Republican friends must know that ` we needed to notch a political win ' is n't a good enough excuse for a constituent who asks why you voted to raise their taxes but slash them for big corporations , '' Democratic leader Chuck Schumer said .
+n't	17	neg_cue
+raise	31	ps_cue
+########
+27
+<EOP> .
+########
+28
+AP _ Xinhua <EOP> .
+########
+29
+<EOP> .
+########
+30
+LRB China Daily 12_05_2017 page12 RRB <EOP> .
+########

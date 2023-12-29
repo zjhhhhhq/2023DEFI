@@ -1,0 +1,95 @@
+Will children study in the UK in the future
+0
+Chinese students set to entertain UK capital <EOP> .
+########
+1
+2017_08_09 17:27 <EOP> .
+########
+2
+China Daily UK <EOP> .
+########
+3
+Londoners will get a glimpse of some of China 's up_and_coming young performers when they take the stage at the City of Westminster College on Wednesday .
+will	1	ps_cue
+########
+4
+<EOP> .
+########
+5
+The show , which involves around 30 artists , who range in age from primary school students to those at university , will offer Chinese cultural performances in such areas as martial arts , calligraphy , Chinese poetry , and music .
+will	22	ps_cue
+########
+6
+<EOP> .
+########
+7
+The show is being organized by the Beijing_based cultural organization Young China .
+########
+8
+Each year , it takes a handpicked group of talented young Chinese artists on an overseas cultural tour .
+########
+9
+In the past , the event has made its way to the United States , Russia , Thailand , Singapore , and South Korea .
+########
+10
+This year marks the first time the group has visited the United Kingdom .
+########
+11
+<EOP> .
+########
+12
+Zhao Hongli , artistic director of Young China , said : `` We hope this show will facilitate cultural exchanges between Chinese children and children in the UK , so that they may learn from each other as they advance their performance skills in the future .
+hope	13	ps_cue
+will	16	ps_cue
+may	32	ps_cue
+########
+13
+This trip will also enable our children to learn more about British culture , and develop a broader vision .
+will	2	ps_cue
+########
+14
+Many of our children may even realize that they would like to study in the UK in the future . ''
+study	12	PS+	PS+
+would	9	ps_cue
+may	4	ps_cue
+like	10	ps_cue
+########
+15
+<EOP> .
+########
+16
+The concert will be attended by an audience of around 200 .
+will	2	ps_cue
+########
+17
+<EOP> .
+########
+18
+The children will also be taken on a tour around important local landmarks , including Buckingham Palace , Globe Theater , the British Museum , and Windsor Castle .
+will	2	ps_cue
+########
+19
+In total , around 60 children are participating in the trip .
+########
+20
+<EOP> .
+########
+21
+`` We are thrilled that our children are able to experience British culture for themselves , '' Zhao said .
+experience	10	CT+	PS+
+########
+22
+`` Britain and China are two nations that are rich in culture , where the future opportunities for collaboration are immense , and these young people will become future bridges , to make these cultural collaboration opportunities a reality . ''
+opportunities	16	ps_cue
+will	26	ps_cue
+opportunities	36	ps_cue
+########
+23
+<EOP> .
+########
+24
+In addition to organizing the children 's annual summer overseas performances , Young China also sets up shows for them in China .
+########
+25
+<EOP> .
+########

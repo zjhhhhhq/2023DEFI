@@ -1,0 +1,76 @@
+Do France ban the use of unhealthily thin fashion models 
+0
+A law in France banning the use of unhealthily thin fashion models has come into effect .
+models	11	CT-	CT-
+banning	4	neg_cue
+########
+1
+<EOP> .
+########
+2
+Models will need to provide a doctor 's certificate attesting to their overall physical health , with special regard to their body mass index LRB BMI RRB _ a measure of weight in relation to height .
+will	1	ps_cue
+need	2	ps_cue
+########
+3
+<EOP> .
+########
+4
+The health ministry says the aim is to fight eating disorders and inaccessible ideals of beauty .
+########
+5
+<EOP> .
+########
+6
+Digitally altered photos will also have to be labelled from 1 October .
+will	3	ps_cue
+########
+7
+<EOP> .
+########
+8
+Images where a model 's appearance has been manipulated will need to be marked photographie retouchée LRB English : retouched photograp <EOP> .
+will	9	ps_cue
+need	10	ps_cue
+########
+9
+A previous version of the bill had suggested a minimum BMI for models , prompting protests from modelling agencies in France .
+suggested	7	ps_cue
+########
+10
+<EOP> .
+########
+11
+But the final version , allows doctors to decide whether a model is too thin by taking into account their weight , age , and body shape .
+whether	9	ps_cue
+########
+12
+<EOP> .
+########
+13
+Employers breaking the law could face fines of up to 75,000 euros （ $ 82,000 RRB and up to six months in jail .
+could	4	ps_cue
+########
+14
+<EOP> .
+########
+15
+`` Exposing young people to normative and unrealistic images of bodies leads to a sense of self_depreciation and poor self_esteem that can impact health_related behaviour , '' said France 's Minister of Social Affairs and Health , Marisol Touraine , in a statement on Friday , French media report .
+can	21	ps_cue
+########
+16
+<EOP> .
+########
+17
+France is not the first country to legislate on underweight models _ Italy , Spain and Israel have all done so .
+not	2	neg_cue
+########
+18
+<EOP> .
+########
+19
+Anorexia affects between 30,000 to 40,000 people in France , 90 % of whom are women .
+########
+20
+<EOP> .
+########

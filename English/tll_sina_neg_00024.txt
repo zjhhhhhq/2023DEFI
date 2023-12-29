@@ -1,0 +1,134 @@
+Did Nina make the cut in Leicester
+0
+Ben Guymer , 25 , from Wigan , Greater Manchester , caught the eye of beauty contest staff while giving moral support to Nina Higham at the beauty pageant 's regional heats .
+########
+1
+<EOP> .
+########
+2
+But in a cruel twist paralegal Nina , also 25 , failed to make the cut in Leicester _ while Ben found himself thrust into the running for the Mr England prize .
+make	13	CT-	CT-
+cruel	3	neg_cue
+failed	11	neg_cue
+########
+3
+<EOP> .
+########
+4
+He now has his eyes set on the national award and will battle it out with 11 other contestants at the Riviera Centre in Torquay , Devon , in June .
+will	11	ps_cue
+########
+5
+<EOP> .
+########
+6
+If he grabs the ultimate prize then he will jet off to sunny Mauritius to take on the best from across the globe in the Mr World competition .
+will	8	ps_cue
+########
+7
+<EOP> .
+########
+8
+Ben said : ' I did n't go there to be pretty or really good looking , I was just driving Nina down to the second stage of the competition .
+n't	6	neg_cue
+or	12	ps_cue
+########
+9
+<EOP> . '
+########
+10
+I was just waiting for her really but the staff there were really keen for me to enter .
+########
+11
+<EOP> . '
+########
+12
+I definitely was n't keen at first because I knew I 'd get a load of stick off my mates but I gave in in the end . '
+n't	3	neg_cue
+gave	22	neg_cue
+########
+13
+<EOP> .
+########
+14
+Ben continued : ` My mates have been ripping me for it but , to be fair , they 've always been really supportive of me in the end . '
+########
+15
+<EOP> .
+########
+16
+The building surveyor is already gearing up for the pageant and has been hitting the gym four times a week as well as dieting to ensure he is in peak condition to wow the judges .
+########
+17
+<EOP> .
+########
+18
+Pageant virgin Ben is also practicing his singing talents and is eyeing up a Michael Bublé song or an acoustic version of Mr Probz ' hit song Waves to steal the show .
+or	17	ps_cue
+########
+19
+<EOP> .
+########
+20
+He will also take on the Spartan challenge this summer to tone up for the contest .
+will	1	ps_cue
+########
+21
+<EOP> .
+########
+22
+Ben said : ' I do n't really know what to expect , I think that there is a round on questions about the economy as well as talents and modelling .
+n't	6	neg_cue
+expect	11	ps_cue
+########
+23
+<EOP> .
+########
+24
+` They 're definitely looking for more than just good looks and I 'm just hoping to see how it goes .
+hoping	15	ps_cue
+########
+25
+If I can win it then obviously that would be great .
+can	2	ps_cue
+would	8	ps_cue
+########
+26
+<EOP> .
+########
+27
+And thankfully Nina is n't jealous of Ben 's success : ' I know Nina did n't make it herself but she 's happy for me and been really supportive .
+make	17	CT-	CT-
+n't	4	neg_cue
+n't	16	neg_cue
+########
+28
+She 's definitely on board . '
+########
+29
+<EOP> .
+########
+30
+Ben , who has a masters degree in furniture and product design , insists that he is just happy to be working as a building surveyor at Central Manchester University Hospitals .
+########
+31
+<EOP> .
+########
+32
+But he refuses to close the door to more work on the catwalk in the future .
+########
+33
+<EOP> .
+########
+34
+Ben said : ` If this turns into anything then I 'd be happy to pursue it , but at the moment I 'm just happy to keep doing what I 'm doing .
+########
+35
+We 'll see how it goes . '
+########
+36
+<EOP> .
+########
+37
+Vocabulary <EOP> .
+########

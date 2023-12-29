@@ -1,0 +1,182 @@
+Does too much sugar lead to depression , anxiety and stress .
+0
+According to new research , too much sugar does n't just lead to weight gain , but also depression , anxiety and stress .
+lead	11	CT+	PS+
+n't	9	neg_cue
+########
+1
+<EOP> .
+########
+2
+Eating a diet high in fructose as a teenager makes depression and anxiety worse , scientists found .
+makes	9	CT+	PS+
+########
+3
+<EOP> .
+########
+4
+It also alters how the brain response to stress , they said .
+########
+5
+<EOP> .
+########
+6
+Fructose is a sugar found naturally in fruits and vegetables but is also added to processed foods and drinks _ from biscuits to ice cream .
+########
+7
+<EOP> .
+########
+8
+Scientists have found fructose appears to be linked to serious modern epidemics such as cancers , heart disease , hypertension , kidney damage , type 2 diabetes and even dementia .
+linked	7	PS+	PS+
+appears	4	ps_cue
+########
+9
+<EOP> .
+########
+10
+But now researchers say it also stimulates pathways in the brain that affect how it responds to stress , which have important effects for behaviour .
+########
+11
+<EOP> .
+########
+12
+It can worsen the symptoms related to depression and anxiety , they said .
+worsen	2	CT+	PS+
+can	1	ps_cue
+########
+13
+<EOP> .
+########
+14
+These effects are particularly concerning during the teenage years , when a person 's stress response develops .
+########
+15
+<EOP> .
+########
+16
+If the body 's stress response becomes too sensitive , teenagers risk growing up susceptible to high levels of stress .
+########
+17
+<EOP> .
+########
+18
+Prolonged exposure to stress can raise blood pressure , suppress the immune system , increase the risk of heart attack and stroke , contribute to infertility , and speed up the aging process .
+can	4	ps_cue
+raise	5	ps_cue
+########
+19
+<EOP> .
+########
+20
+As part of the study , lead author Constance Harrell of Emory University in Atlanta , US , and her team gave teenage and adult rats either a standard diet , or one high in fructose .
+gave	21	neg_cue
+either	26	ps_cue
+or	31	ps_cue
+########
+21
+<EOP> .
+########
+22
+After 10 weeks , they exposed the rats to stress , forcing them to swim or putting them in an elevated maze .
+or	15	ps_cue
+########
+23
+<EOP> .
+########
+24
+The teenage rats fed the high fructose had a different stress hormone response to the test , including producing more of the stress hormone cortisol than the adult rats .
+########
+25
+<EOP> .
+########
+26
+They showed depressed and anxious behaviour in response to the tests .
+########
+27
+<EOP> .
+########
+28
+Scientists found that a genetic pathway in the brain that plays a key role in regulating the way it responds to stress was also altered as a result of the diet .
+########
+29
+<EOP> .
+########
+30
+The findings indicate that eating a diet high in fructose throughout the teenage years may exacerbate depressive behaviours , researchers said .
+exacerbate	15	PS+	PS+
+indicate	2	ps_cue
+may	14	ps_cue
+########
+31
+<EOP> .
+########
+32
+They may also affect the way the body and brain responds to stress , they added .
+may	1	ps_cue
+########
+33
+<EOP> .
+########
+34
+` Our results offer new insights into the ways in which diet can alter brain health and may lead to important implications for adolescent nutrition and development , ' Ms Harrell concluded .
+lead	18	PS+	PS+
+can	12	ps_cue
+may	17	ps_cue
+########
+35
+<EOP> .
+########
+36
+HOW THE BODY REACTS TO FRUCTOSE <EOP> .
+########
+37
+Although it is a simple sugar , glucose , rather than fructose is the body 's preferred energy source .
+rather	9	neg_cue
+########
+38
+<EOP> .
+########
+39
+Excess fructose in the body is turned into fat , which can lodge in the liver , leading to non_alcoholic fatty liver disease .
+can	11	ps_cue
+########
+40
+<EOP> .
+########
+41
+Fructose puts an extra load on the liver , which in turn , prompts a range of problems , including raised levels of fat in the bloodstream .
+########
+42
+<EOP> .
+########
+43
+The sugar can also lead to insulin resistance _ where the body stops detecting insulin levels in the blood _ and so produces even more insulin .
+lead	4	CT+	PS+
+can	2	ps_cue
+########
+44
+<EOP> .
+########
+45
+Insulin resistance is one of the key feature of metabolic syndrome , which could lead to type 2 diabetes , obesity and heart disease .
+lead	14	CT+	PS+
+could	13	ps_cue
+########
+46
+<EOP> .
+########
+47
+High levels of insulin in the blood also blocks the action of ` hunger hormone ' leptin , which tells the brain when fat cells have enough energy .
+blocks	8	neg_cue
+########
+48
+<EOP> .
+########
+49
+So high levels of insulin lead to leptin resistance and therefore obesity .
+lead	5	CT+	PS+
+########
+50
+<EOP> .
+########

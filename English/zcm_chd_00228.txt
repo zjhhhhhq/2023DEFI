@@ -1,0 +1,80 @@
+Does President Donald Trump make progress to change Washington D.C. as promised
+0
+Over half Americans say Trump not making progress in changing D.C. <EOP> .
+not	5	neg_cue
+########
+1
+2017_05_08 09:27 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+WASHINGTON _ Over half of Americans say that President Donald Trump has not made progress to change Washington D.C. as promised , according to a new Gallup poll .
+made	13	CT-	CT-
+not	12	neg_cue
+########
+4
+<EOP> .
+########
+5
+The April 21_22 poll shows that , by 54 percent to 40 percent , Americans are more inclined to disagree than agree that Trump has made progress on his goal of changing the way Washington works .
+made	25	CT-	CT-
+########
+6
+<EOP> .
+########
+7
+When Gallup did the same poll in 2009 , it found that by 53 percent to 45 percent , Americans believed that former President Barack Obama had made progress in changing the way Washington works .
+believed	20	ps_cue
+########
+8
+<EOP> .
+########
+9
+Trump , a Washington outsider , promised during last year 's campaign that he would `` drain the swamp '' in Washington if he got elected president .
+would	14	ps_cue
+########
+10
+In his most recent weekly radio and internet address as president , Trump touted he has brought `` profound change '' to Washington .
+########
+11
+<EOP> .
+########
+12
+The poll found that opinions about Trump 's efforts to change Washington are driven mostly by political partisanship .
+########
+13
+While 78 percent of Republicans believe Trump has made progress , 79 percent of Democrats say he has not .
+made	8	CT+	CT-
+not	18	neg_cue
+########
+14
+Fifty_nine percent of independents believe Trump has not made progress .
+made	8	CT-	CT-
+not	7	neg_cue
+########
+15
+<EOP> .
+########
+16
+Obama took some steps early in his administration to address ethical issues in Washington , limiting the hiring of lobbyists in his administration and releasing records of visitors to the White House .
+########
+17
+<EOP> .
+########
+18
+Trump has instituted a five_year ban on former government officials lobbying their former colleagues in order to reduce the influence of the Washington establishment .
+ban	5	neg_cue
+########
+19
+<EOP> .
+########
+20
+However , while Trump has appointed some Cabinet secretaries and key advisers who are from the business world or private sector with no prior government experience , this has aroused concerns about conflicts of interest as they have certain decision_making powers .
+or	18	ps_cue
+no	22	neg_cue
+########
+21
+<EOP> .
+########

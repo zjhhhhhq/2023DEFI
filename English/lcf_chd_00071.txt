@@ -1,0 +1,82 @@
+Has Huawei teamed up with London 's Barking and Dagenham College 
+0
+Huawei partners with London college to foster technology skills <EOP> .
+partners	1	CT+	CT+
+########
+1
+2017_10_12 23:18 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+<EOP> .
+########
+4
+Huawei Launches Authorised Network Academy with Barking and Dagenham College Stanley Lichun Wang , UK Director of Services and Yvonne Kelly , Principal and CEO .
+########
+5
+LRB Photo provided to chinadaily.com.cn RRB <EOP> .
+########
+6
+Chinese telecommunications giant Huawei has teamed up with London 's Barking and Dagenham College to teach students skills that will help them find work in the information and communications technology sector .
+teamed	5	CT+	CT+
+will	19	ps_cue
+########
+7
+<EOP> .
+########
+8
+The partners will help students gain academic theory and industry experience in networking technologies , security , cloud computing , IT storage systems , and big data .
+partners	1	CT+	CT+
+will	2	ps_cue
+########
+9
+<EOP> .
+########
+10
+The agreement that the two partners signed last week is a part of a worldwide nonprofit initiative at Huawei to share its extensive telecommunications expertise with education partners and help improve young people 's grasp of technology skills .
+########
+11
+<EOP> .
+########
+12
+Known as the Huawei Authorized Information Network Academy project , Huawei has already established partnerships with more than 240 universities .
+########
+13
+`` The partners have opened academies throughout China , North America , Europe , and Australia and now collectively train more than 16,200 students globally . ''
+########
+14
+<EOP> .
+########
+15
+In the United Kingdom , the network has more than 10 partner universities and colleges .
+########
+16
+The first of the UK partnerships was between Huawei and the Henley Business School at the University of Reading , which was signed in 2015 .
+########
+17
+<EOP> .
+########
+18
+Yvonne Kelly , principal and CEO at Barking and Dagenham College , said the institution is excited about the possibilities the partnership offers students .
+########
+19
+<EOP> .
+########
+20
+`` The fast_changing nature of technology means that it is crucial for our students to get the best possible hands_on experience to prepare them for future careers in the sector , '' Kelly said .
+possible	18	ps_cue
+########
+21
+<EOP> .
+########
+22
+<EOP> .
+########
+23
+<EOP> .
+########
+24
+<EOP> .
+########

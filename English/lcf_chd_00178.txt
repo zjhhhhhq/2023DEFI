@@ -1,0 +1,96 @@
+Did third round Brexit_talk conclude without decisive progress 
+0
+Third round Brexit_talk concluded without decisive progress <EOP> .
+progress	6	CT-	CT-
+without	4	neg_cue
+########
+1
+2017_09_01 09:16 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+<EOP> .
+########
+4
+Britain 's Secretary of State for Exiting the European Union David Davis and European Union 's chief Brexit negotiator Michel Barnier hold a joint news conference marking the end of the third formal negotiation session in Brussels , Belgium August 31 , 2017 .
+########
+5
+LRB Photo_Agencies RRB <EOP> .
+########
+6
+BRUSSELS _ Amid a blaming game between the European Union LRB EU RRB and Britain , the third round of Brexit talks concluded Thursday without decisive progress , as expected .
+progress	26	CT-	CT-
+without	24	neg_cue
+expected	29	ps_cue
+########
+7
+<EOP> .
+########
+8
+`` Time is passing quickly and with each day that goes by , we are getting closer to the United Kingdom 's withdrawal , on 29 March 2019 at midnight .
+########
+9
+The fundamental question for which we need an answer is whether on this day , the United Kingdom will leave the European Union in an orderly manner , with an agreement , '' European Union LRB EU RRB chief negotiator Michel Barnier told a joint news conference with Britain 's Brexit Secretary David Davis .
+question	2	ps_cue
+need	6	ps_cue
+whether	10	ps_cue
+will	18	ps_cue
+########
+10
+<EOP> .
+########
+11
+`` Over the course of this week we have made a number of useful clarification on a number of points , for instance the status of border workers .
+########
+12
+However , we did not get any decisive progress on any of the principle subjects , '' said Barnier .
+progress	8	CT-	CT-
+not	4	neg_cue
+########
+13
+<EOP> .
+########
+14
+`` We made real progress on the question of the Common Travel Area , on the basis of guarantees by the United Kingdom , and we clarified , in a constructive manner , what remains to be done , particularly with regards to North_South cooperation in the Good Friday Agreement , '' said Barnier , reaffirming that time is passing quickly for the two sides to reach a global agreement .
+question	7	ps_cue
+########
+15
+<EOP> .
+########
+16
+`` At the current speed , we are far from being able to recommend to the European Council that there has been sufficient progress in order to start discussions on the future relationship , while we are finalising the withdrawal agreement throughout 2018 , '' he added .
+########
+17
+<EOP> .
+########
+18
+Unlike Barnier 's pessimism , Davis believed that the two sides have had long and detailed discussions across multiple areas this week and `` I think it is fair to say , that we have seen some concrete progress '' especially on citizens ' rights .
+pessimism	3	ps_cue
+believed	6	ps_cue
+########
+19
+<EOP> .
+########
+20
+Both sides have agreed to protect the rights of frontier workers , to cover future social security contributions for those covered by the Withdrawal Agreement and protect existing healthcare rights and arrangements for EU27 citizens in Britain and British nationals in the EU , among others , said Davis .
+########
+21
+<EOP> .
+########
+22
+`` And we have had further discussions on the governance of the citizens ' rights agreement __ and the wider withdrawal agreement .
+########
+23
+We have shown a willingness to discuss creative solutions in this area and now is the time for the Commission to match it , '' he added .
+########
+24
+<EOP> .
+########
+25
+<EOP> .
+########
+26
+<EOP> .
+########

@@ -1,0 +1,148 @@
+Is New York City Marathon held in wake of terrorist attack
+0
+New York City Marathon held in tight security in wake of terrorist attack <EOP> .
+attack	12	CT+	CT+
+########
+1
+2017_11_06 11:00 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+<EOP> .
+########
+4
+Policemen stand guard as runners participate in the New York City Marathon in Manhattan of New York , the United States , on Nov 5 , 2017 .
+########
+5
+LRB Photo_Xinhua RRB <EOP> .
+########
+6
+NEW YORK _ The New York City Marathon was held Sunday with heavy police presence as the massive event through all the five boroughs of the city was just days after a terrorist attack in Manhattan that killed eight people .
+attack	33	CT+	CT+
+########
+7
+<EOP> .
+########
+8
+Neither the fear for another attack or the humidity brought by a light breeze could deter people __ New Yorkers and visitors __ from coming out and lining up the streets to cheer the marathoners on __ with cow bells and placards .
+or	6	ps_cue
+could	14	ps_cue
+########
+9
+<EOP> .
+########
+10
+`` It 's really beautiful because this is honestly the worst nightmare for a terrorist __ that people from all nations and faiths get together , run , people of all backgrounds cheering them on , and it goes on schedule despite an attack in the same week .
+########
+11
+That is a message we 'll send to the whole world , '' New York City Mayor Bill de Blasio told WABC_TV before the start of the marathon with about 50,000 runners .
+########
+12
+<EOP> .
+########
+13
+`` This race is one of the best examples to all the rest of the world about what is great about New York City and America . ''
+########
+14
+<EOP> .
+########
+15
+Spectators say security is notably tighter than last year .
+########
+16
+Major intersections were blocked by police cars and runners are escorted by police vehicles .
+blocked	3	neg_cue
+########
+17
+Police officers equipped with heavy weapons could be seen along the route .
+could	6	ps_cue
+########
+18
+The New York Police Department also deployed extra_heavy `` block trucks '' to prevent vehicle attacks on crowds .
+block	9	neg_cue
+prevent	13	neg_cue
+########
+19
+<EOP> .
+########
+20
+Despite heavy security and the fact the Tuesday 's truck attack was the worst in the city since the 9_11 terrorist attacks , and the terrorist attack on the 2013 Boston Marathon , people came out en masse in defiance .
+attack	26	CT+	CT+
+########
+21
+<EOP> .
+########
+22
+`` The terrorists , for as much hatred as they have ... we have a lot more to love in this world that will always outpower that .
+love	18	ps_cue
+will	23	ps_cue
+########
+23
+They can scare us with their acts of hatred .
+can	1	ps_cue
+########
+24
+But acts of kindness or triumph will always come out stronger , '' said Cece Marizu , a New Yorker in her 20s .
+or	4	ps_cue
+will	6	ps_cue
+########
+25
+<EOP> .
+########
+26
+For Abbigail Rioux , a Canadian who has been living in New York for 15 years , Tuesday 's truck attack was more personal because she was a regular bicyclist on the very path that was plowed by the rented pickup truck .
+########
+27
+`` I was not biking that day , '' she told Xinhua .
+not	3	neg_cue
+########
+28
+<EOP> .
+########
+29
+Despite the narrow escape , Rioux remained defiant .
+########
+30
+<EOP> .
+########
+31
+She admitted that the threat of terrorism crosses in her mind all the time before she decides to go to a public place .
+########
+32
+But she argued that if people choose to stay home because of the fear , they are stuck as prisoners to that and will let terrorists ' fear tactics win .
+will	23	ps_cue
+########
+33
+<EOP> .
+########
+34
+`` We ca n't live in fear , we ca n't show them LRB terrorists RRB we live in fear .
+n't	3	neg_cue
+n't	10	neg_cue
+########
+35
+Otherwise their tactics worked on us . ''
+########
+36
+<EOP> .
+########
+37
+She said Sunday 's marathon was a good example .
+########
+38
+`` I made a choice knowing this is a huge event with a lot of people , '' she explained .
+########
+39
+<EOP> .
+########
+40
+In Sunday 's race , American runner Shalane Flanagan won the women 's title with 2 hours 26 minutes and 53 seconds .
+########
+41
+The first male marathoner that hit the finish line was Geoffrey Kamworor of Kenya with 2 hours 10 minutes and 53 seconds .
+########
+42
+<EOP> .
+########

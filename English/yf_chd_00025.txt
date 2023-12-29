@@ -1,0 +1,84 @@
+Does Costa Rica investigate after 10 US citizens die in plane disaster
+0
+Costa Rica investigates after 10 US citizens die in plane disaster <EOP> .
+investigates	2	CT+	CT+
+########
+1
+2018_01_02 11:35 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+SAN JOSE , Costa Rica _ Investigators are looking into what caused a charter aircraft to crash in woods in the country 's northwest soon after takeoff , killing the 10 US citizens and two local crew members on board .
+looking	8	CT+	CT+
+########
+4
+<EOP> .
+########
+5
+Officials said on Sunday evening that they were still seeking to establish the names of the US citizens who died when the plane went down at midday in Guanacaste .
+seeking	9	CT+	CT+
+seeking	9	ps_cue
+########
+6
+They said Nature Air had provided a passenger list , but the names on it had not been confirmed .
+not	16	neg_cue
+########
+7
+<EOP> .
+########
+8
+`` The government of Costa Rica profoundly regrets the deaths of 10 US passengers and two Costa Rican pilots in the air accident , '' Costa Rican President Luis Guillermo Solis said in a statement .
+########
+9
+<EOP> .
+########
+10
+A family in the suburbs of New York said five of the dead were their relatives on vacation .
+########
+11
+They identified them as Bruce and Irene Steinberg and their sons Matthew , William and Zachary , all of Scarsdale .
+########
+12
+<EOP> .
+########
+13
+`` We are in utter shock and disbelief right now , '' Bruce Steinberg 's sister , Tamara Steinberg Jacobson , wrote on Facebook .
+########
+14
+She also confirmed the deaths in an interview with NBC News .
+########
+15
+<EOP> .
+########
+16
+Rabbi Jonathan Blake of the Westchester Reform Temple in Scarsdale said in a statement posted on the temple 's Facebook page that the Steinbergs were involved in philanthropy and local Jewish groups .
+########
+17
+`` This tragedy hits our community very hard , '' Blake wrote .
+########
+18
+<EOP> .
+########
+19
+At a news conference , Enio Cubillo , director of Costa Rica Civil Aviation , said the Nature Air charter flight crashed shortly after taking off just after noon on Sunday from Punta Islita on a planned flight to the capital San Jose .
+planned	36	ps_cue
+########
+20
+He said investigators were looking into possible causes .
+looking	4	CT+	CT+
+possible	6	ps_cue
+########
+21
+<EOP> .
+########
+22
+Cubillo identified the pilot as Juan Manuel Retana and described him as very experienced .
+########
+23
+Former Costa Rican president Laura Chinchilla said via Twitter that Retana was her cousin .
+########
+24
+<EOP> .
+########

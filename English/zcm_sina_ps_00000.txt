@@ -1,0 +1,88 @@
+May watching pornography shrink the brain
+0
+Watching pornography may shrink the brain and dull responses to sexual stimulation , researchers have suggested .
+shrink	3	PS+	PS+
+may	2	ps_cue
+suggested	15	ps_cue
+########
+1
+<EOP> .
+########
+2
+Scientists have found for the first time that regularly viewing sexual images could be physically harmful .
+could	12	ps_cue
+########
+3
+<EOP> .
+########
+4
+Researchers from the Max Planck Institute in Berlin found that a part of the brain which activates when people feel motivated or rewarded , shrinks and works less efficiently .
+shrinks	24	CT+	PS+
+or	21	ps_cue
+########
+5
+<EOP> .
+########
+6
+So people who watch a lot of porn are likely to need increasingly graphic material to achieve the same sexual stimulation .
+likely	9	ps_cue
+need	11	ps_cue
+########
+7
+<EOP> .
+########
+8
+For the study , Dr Kuhn and her colleague Jurgen Gallinat from Charite University , also in Berlin , recruited 64 healthy men between the ages of 21 and 45 years and asked them questions about their porn_watching habits .
+########
+9
+<EOP> .
+########
+10
+They also took images of the men 's brains to measure volume and to see how their brains reacted to pornographic pictures .
+########
+11
+<EOP> .
+########
+12
+They found noticeable differences in the men who abstained compared with those who regularly accessed sexual videos or images .
+or	17	ps_cue
+########
+13
+<EOP> .
+########
+14
+However other researchers claimed that pornography in moderation was probably not damaging .
+probably	9	ps_cue
+not	10	neg_cue
+########
+15
+<EOP> .
+########
+16
+`` Everything is going to be bad in excess and it 's probably not terrible in moderation , '' Dr Gregory Tau of the Columbia University <EOP> .
+probably	12	ps_cue
+not	13	neg_cue
+########
+17
+Dr Tau , who was not involved with the study , agreed that more research should be done in this area and that longer studies would be need to find out if porn leads to brain changes .
+not	5	neg_cue
+should	15	ps_cue
+would	25	ps_cue
+need	27	ps_cue
+########
+18
+<EOP> .
+########
+19
+`` It is possible that there are individuals with a certain kind of brain that are more susceptible to these kinds of behaviors , '' he said .
+possible	3	ps_cue
+########
+20
+<EOP> .
+########
+21
+The study was published in JAMA Psychiatry .
+########
+22
+<EOP> .
+########

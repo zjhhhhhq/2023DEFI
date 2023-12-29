@@ -1,0 +1,130 @@
+Did ` Comfort women ' deal call into question
+0
+` Comfort women ' deal called into question <EOP> .
+called	5	CT+	CT+
+question	7	ps_cue
+########
+1
+2018_01_03 11:48 <EOP> .
+########
+2
+China Daily USA <EOP> .
+########
+3
+Advocates are calling for a renegotiation of the 2015 `` comfort women '' deal between South Korea and Japan to involve surviving victims and other Asian countries , following the release of a South Korean government task force report .
+calling	2	CT+	CT+
+########
+4
+<EOP> .
+########
+5
+Shortly after current South Korean President Moon Jae_in took office in May last year , `` comfort women '' advocates , including those in California , have been urging the new administration to revise the agreement .
+revise	33	CT+	CT+
+May	11	ps_cue
+########
+6
+<EOP> .
+########
+7
+A task force under the South Korean Foreign Ministry was launched two months after Moon assumed office to review the much_criticized deal .
+review	18	CT+	CT+
+########
+8
+<EOP> .
+########
+9
+Last week , the task force released findings that the previous government of ousted president Park Geun_hye kept part of the deal secret from the public in order to avoid criticism of concessions made to Tokyo .
+avoid	29	neg_cue
+criticism	30	neg_cue
+########
+10
+<EOP> .
+########
+11
+`` The report reconfirmed that the Grandmas ' LRB advocates ' term for comfort women survivors RRB immediate denouncement of the deal at the time was indeed accurate , courageous , and a just condemnation of the sham deal , '' said Phyllis Kim , executive committee member of the San Francisco_based Comfort Women Justice Coalition .
+########
+12
+<EOP> .
+########
+13
+The upside to the 2015 accord is it acknowledged that Japan had orchestrated a violent , systemic program of sexual slavery in the 1930s and 1940s , said Alexis Dudden , professor of history at the University of Connecticut .
+########
+14
+`` This aspect was helpful , '' she said .
+########
+15
+<EOP> .
+########
+16
+But the problem with the deal was _ and remains _ what the South Korean government task force highlighted : The surviving victims were ignored in the deal , Dudden said .
+########
+17
+<EOP> .
+########
+18
+`` This matters because the deal essentially says that there can be no further discussion of this history , which simply does not make sense in terms of how instances of historical atrocity occur , because ongoing conversation and learning about this history is the way to dignify its victims and to ensure the prevention of its recurrence , '' said Dudden .
+can	10	ps_cue
+no	12	neg_cue
+not	22	neg_cue
+########
+19
+<EOP> .
+########
+20
+Under the deal , South Korea and Japan agreed to `` finally and irreversibly '' resolve the `` comfort women '' issue , while Tokyo agreed to contribute 1 billion yen LRB US$ 8.9 million RRB to a foundation dedicated to supporting the victims .
+resolve	15	CT+	CT+
+########
+21
+<EOP> .
+########
+22
+The deal drew an immediate backlash from victims and advocacy groups .
+drew	2	CT+	CT+
+########
+23
+<EOP> .
+########
+24
+The agreement excludes victims and lacks a sincere apology from the Japanese government , and the issue can not be resolved through a bilateral political negotiation , but a multiparty negotiation including all survivors from numerous other victimized countries , said Kim .
+resolved	20	PS-	CT+
+can	17	ps_cue
+not	18	neg_cue
+lacks	5	neg_cue
+resolved	20	neg_cue
+########
+25
+<EOP> .
+########
+26
+An estimated 400,000 girls and women were forced into prostitution by the Japanese military during World War II .
+########
+27
+Half of them were from China , 140,000 to 160,000 from Korea , and the rest were from Japan and other Asian countries , according to Chinese historian Su Zhiliang .
+########
+28
+<EOP> .
+########
+29
+`` The history of wartime sexual slavery involved people from throughout the areas of Japan 's former empire .
+########
+30
+By definition , all this region should be included in any deal that addresses this collective past , '' said Dudden .
+should	6	ps_cue
+########
+31
+<EOP> .
+########
+32
+However , the main challenge South Korea faces to renegotiate the deal is the current administration in Japan that relies on criticizing Korea to shore up its political base rather than embracing an empathetic view .
+renegotiate	9	CT+	CT+
+rather	29	neg_cue
+########
+33
+<EOP> .
+########
+34
+liazhu@chinadailyusa.com <EOP> .
+########
+35
+<EOP> .
+########

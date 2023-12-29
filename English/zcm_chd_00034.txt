@@ -1,0 +1,78 @@
+Does endowed chair keep spark of wisdom lit
+0
+Endowed chair keeps spark of wisdom lit <EOP> .
+keeps	2	CT+	CT+
+########
+1
+2017_09_28 07:47 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+<EOP> .
+########
+4
+Visiting Vice_Premier Liu Yandong delivers a keynote speech at the opening ceremony of the China_US University Presidents and Think Tank Forum at Columbia University in New York , Sept 26 , 2017 .
+########
+5
+LRB Photo_Agencies RRB <EOP> .
+########
+6
+In her remarks at Columbia University on Tuesday , Vice_Premier Liu Yandong noted a bit of history .
+########
+7
+<EOP> .
+########
+8
+At the university 's department of East Asian Studies , there is a teaching chair for special studies in Chinese culture and Han teachings called the Dean Lung Professorship .
+########
+9
+It was established and funded by Horace Walpole Carpentier in 1901 to commemorate Dean Lung , his illiterate but noble Chinese servant .
+########
+10
+<EOP> .
+########
+11
+Carpentier LRB 1824_1918 RRB was the first mayor of Oakland , California .
+########
+12
+In 1888 , he returned to his hometown of New York City and was elected to the board of trustees of Columbia University .
+########
+13
+<EOP> .
+########
+14
+In California , he hired Dean Lung as a servant , who went with him to New York .
+########
+15
+When Dean Lung retired , he wanted to use his savings to build a department of Chinese culture and Han studies , hoping to share the culture of his home country .
+wanted	6	ps_cue
+hoping	22	ps_cue
+########
+16
+<EOP> .
+########
+17
+Carpentier , deeply moved , gave donations to the project in honor of his friend and employee for the endowment of Chinese studies at the university , founding the department of East Asian languages and cultures .
+gave	5	neg_cue
+########
+18
+<EOP> .
+########
+19
+Liu expressed hope that everyone attending would illuminate the road of Sino_US relations by lighting the spark of wisdom .
+illuminate	7	PS+	CT+
+hope	2	ps_cue
+would	6	ps_cue
+########
+20
+<EOP> .
+########
+21
+`` I believe with the joint efforts by all of you , Sino_US relations will have a brighter future , '' she said .
+will	14	ps_cue
+########
+22
+<EOP> .
+########

@@ -1,0 +1,156 @@
+Has Walt Disney Co struck a deal to buy businesses 
+0
+Disney to buy Fox film , TV businesses for $ 52.4 billion in stock <EOP> .
+########
+1
+2017_12_14 20:36 <EOP> .
+########
+2
+null <EOP> .
+########
+3
+Walt Disney Co has struck a deal to buy film , television and international businesses from Rupert Murdoch 's Twenty_First Century Fox Inc for $ 52.4 billion in stock as the world 's largest entertainment company seeks even greater scale to combat growing digital rivals Netflix Inc and Amazon.com Inc. .
+struck	4	CT+	CT+
+seeks	36	ps_cue
+########
+4
+<EOP> .
+########
+5
+The deal brings to a close more than half a century of expansion by Murdoch , 86 , who turned a single Australian newspaper he inherited from his father at the age of 21 into one of the world 's most important global news and film conglomerates .
+########
+6
+<EOP> .
+########
+7
+Shares of Fox , which have surged 35 percent since talk of the deal surfaced in early November , were slightly lower in premarket trading .
+########
+8
+<EOP> .
+########
+9
+Disney shares also edged lower as investors fretted about dilution from the all_stock deal .
+########
+10
+Disney said it expects to buy up to $ 20 billion of its own shares to offset that dilution .
+expects	3	ps_cue
+########
+11
+<EOP> .
+########
+12
+Fox stockholders will receive 0.2745 Disney shares for each share held and will end up owning about a quarter of Disney .
+will	2	ps_cue
+will	12	ps_cue
+########
+13
+<EOP> .
+########
+14
+Under the deal , expected to close in 12 to 18 months , Disney acquires 21st Century Fox 's film and television studios , its cable entertainment networks and international TV businesses .
+acquires	14	PS+	CT+
+expected	4	ps_cue
+########
+15
+<EOP> .
+########
+16
+Those assets include some blockbuster Marvel superhero pictures that Disney did not already own and the `` Avatar '' and `` X_Men '' franchises , as well as hit TV shows such as `` The Simpsons . ''
+not	11	neg_cue
+########
+17
+<EOP> .
+########
+18
+Disney 's global footprint also expands with the acquisition of Fox 's international satellite assets , including Star TV network in India and a stake in European pay_TV provider Sky Plc. .
+########
+19
+<EOP> .
+########
+20
+The acquisition will give Disney a new pipeline of shows and movies as it battles technology companies spending billions of dollars on programming shown online to siphon audiences away from traditional TV networks .
+will	2	ps_cue
+########
+21
+<EOP> .
+########
+22
+`` This is the right move at the right time as the marriage of these assets creates a much more formidable Disney , '' said Daniel Ives , an analyst at GBH Insights in a note to clients .
+########
+23
+<EOP> .
+########
+24
+Immediately before the acquisition , Fox will separate the Fox Broadcasting network and stations , Fox News Channel , Fox Business Network , its sports channels FS1 , FS2 and the Big Ten Network into a newly listed company that it will spin off to its shareholders .
+will	6	ps_cue
+will	41	ps_cue
+########
+25
+<EOP> .
+########
+26
+The `` new '' Fox is intended to grow and focus on live news and sports , Fox said .
+intended	6	ps_cue
+########
+27
+<EOP> .
+########
+28
+`` It is born out of an important lesson I 've learned in my long career in media : namely , content and news relevant to viewers will always be valuable , '' 21st Century Fox Executive Chairman Murdoch said in statement .
+will	27	ps_cue
+########
+29
+<EOP> .
+########
+30
+Disney Chief Executive Bob Iger , 66 , will extend his tenure through the end of 2021 to oversee the integration of the Fox businesses .
+will	8	ps_cue
+########
+31
+He has already postponed his retirement from Disney three times , saying in March he was committed to leaving the company in July 2019 .
+postponed	3	neg_cue
+########
+32
+<EOP> .
+########
+33
+`` This gives us the ability to marry the great content of Fox with the great content of Disney , it gives us a much larger international footprint , and it enables us to use cutting_edge technology to reach consumers in far more compelling ways , '' Iger told ABC 's `` Good Morning America '' program .
+########
+34
+<EOP> .
+########
+35
+Iger said new technology would be necessary to meet the demands of viewers who want to access content anytime .
+would	4	ps_cue
+########
+36
+<EOP> .
+########
+37
+Direct_to_consumer service is a top company priority , he added .
+########
+38
+<EOP> .
+########
+39
+Disney will also assume about $ 13.7 billion of Fox 's net debt in the deal .
+will	1	ps_cue
+assume	3	ps_cue
+########
+40
+<EOP> .
+########
+41
+Through Fox 's stake in the Hulu video streaming service , Disney would assume majority control of one of Netflix Inc 's main competitors .
+would	12	ps_cue
+assume	13	ps_cue
+########
+42
+Hulu is also partially owned by Comcast Corp and Time Warner Inc. .
+########
+43
+<EOP> .
+########
+44
+Reuters <EOP> .
+########

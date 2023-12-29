@@ -1,0 +1,157 @@
+Do US trade protection measures achieve their primary policy aims
+0
+Study : Past US protectionism a failure <EOP> .
+failure	6	neg_cue
+########
+1
+2017_08_26 07:16 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+US trade protection measures , including Section 301 of the US Trade Act of 1974 , have not only imposed huge costs on consumers in the United States and on the country 's economy but have failed to achieve their primary policy aims , according to a report published this week .
+achieve	38	CT-	CT-
+failed	36	neg_cue
+not	17	neg_cue
+########
+4
+<EOP> .
+########
+5
+Scott Lincicome , an adjunct scholar at the Cato Institute , surveyed academic literature throughout US history .
+########
+6
+He examined three periods _ the founding of the US to its entry into the General Agreement on Tariffs and Trade LRB GATT RRB in 1947 ; the GATT 's early years to the creation of the World Trade Organization in 1995 ; and the current World Trade Organization LRB WTO RRB era .
+########
+7
+<EOP> .
+########
+8
+`` The surveys show that , contrary to the fashionable rhetoric , American protectionism has repeatedly failed as an economic strategy , '' Lincicome said .
+failed	16	neg_cue
+########
+9
+<EOP> .
+########
+10
+While many trade specialists and economists agree that US protection measures are costly and ineffective , the fact that the measures produce winners and losers is exploited by politicians , according to Lincicome , an international trade attorney .
+########
+11
+<EOP> .
+########
+12
+He explained that winners are concentrated , with concentrated benefits , while losers are diffuse and have diffuse costs .
+########
+13
+<EOP> .
+########
+14
+`` So , there is clearly this area for political gain by President Obama or by President Trump to pursue trade measures for political gain , despite the potential economic cost , '' Lincicome told China Daily on Thursday .
+or	14	ps_cue
+potential	28	ps_cue
+########
+15
+<EOP> .
+########
+16
+An analysis by the Peterson Institute for International Economics , which was cited in the study , found that threats of retaliation using Section 301 failed to achieve even partial success more than half the time ; and even actual retaliation worked less than 20 percent of the time .
+achieve	27	CT-	CT-
+failed	25	neg_cue
+########
+17
+<EOP> .
+########
+18
+`` These outcomes would likely be worse if similar policies were implemented today , owing to increased American integration into the global economy , the proliferation of global supply chains , the rise of other economic powers , and the creation of the WTO , '' Lincicome wrote in the report .
+would	3	ps_cue
+likely	4	ps_cue
+########
+19
+<EOP> .
+########
+20
+The US launched a Section 301 investigation against China , targeting technology transfers and intellectual property .
+against	7	neg_cue
+########
+21
+Lincicome believes it 's far better for the US to go to the WTO , but said it 's too early for people to react much .
+########
+22
+<EOP> .
+########
+23
+`` I would agree that , in terms of rhetoric , President Trump 's rhetoric is easily the most protectionist of any president in the last several decades .
+would	2	ps_cue
+########
+24
+On actual policy , the jury is still out , '' he said .
+########
+25
+<EOP> .
+########
+26
+According to the study , US anti_dumping laws , including measures against Chinese imports , have repeatedly been found not only to hurt US consumers and many large exporters but also to improve only rarely the state of the protected industry .
+against	11	neg_cue
+not	19	neg_cue
+########
+27
+Instead , what often comes in the wake of the protectionism is the bankruptcy of the very firms that lobbied for it .
+########
+28
+<EOP> .
+########
+29
+The report cited the high cost of protectionism in Obama 's imposition of `` special '' safeguard duties on Chinese tire imports from 2009 to 2011 .
+########
+30
+US tariffs imposed $ 1.1 billion in additional costs on US tire consumers in 2011 , and the cost per manufacturing job saved was at least $ 900,000 that year , it said .
+########
+31
+<EOP> .
+########
+32
+Most tariffs did not benefit US workers but did help foreign producers in countries such as Thailand , Indonesia and Mexico , which replaced Chinese imports .
+not	3	neg_cue
+########
+33
+The US tariffs also killed 2,351 jobs in retail and other industries .
+########
+34
+<EOP> .
+########
+35
+In response to the US tire tariffs , the Chinese government retaliated against US exporters of chicken parts , costing that industry about $ 1 billion , according to the study .
+against	12	neg_cue
+########
+36
+<EOP> .
+########
+37
+Lincicome said the US has struggled in recent years to adapt to economic disruptions driven by automation , innovation or changing consumer tastes , and it 's legitimate to discuss policy ideas in response .
+or	19	ps_cue
+########
+38
+<EOP> .
+########
+39
+`` What should not be up for debate , however , is whether protectionism would help to solve the country 's current problems , '' he said .
+should	2	ps_cue
+not	3	neg_cue
+whether	12	ps_cue
+would	14	ps_cue
+########
+40
+`` History is replete with examples of the failure of American protectionism .
+failure	8	neg_cue
+########
+41
+Unless our policymakers quickly relearn this history , we may be doomed to repeat it . ''
+may	9	ps_cue
+########
+42
+<EOP> .
+########
+43
+chenweihua@chinadailyusa.com <EOP> .
+########

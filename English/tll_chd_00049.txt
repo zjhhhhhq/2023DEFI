@@ -1,0 +1,176 @@
+Will election gamble fail
+0
+Election gamble may fail as polls hint at close finish <EOP> .
+fail	3	PS+	PS+
+may	2	ps_cue
+fail	3	neg_cue
+########
+1
+2017_06_02 07:19 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+<EOP> .
+########
+4
+<EOP> .
+########
+5
+Britain 's Prime Minister Theresa May reacts as she speaks at an election campaign event at Pride Park Stadium in Derby , Britian June 1 , 2017 .
+May	5	ps_cue
+########
+6
+LRB Photo_Agencies RRB <EOP> .
+########
+7
+The United Kingdom general election is looking increasingly hard to predict after the Prime Minister Theresa May made a series of errors and appeared ill at ease during campaigning .
+predict	10	ps_cue
+May	16	ps_cue
+appeared	23	ps_cue
+########
+8
+<EOP> .
+########
+9
+In contrast , Jeremy Corbyn , the leader of the opposition Labour Party , has looked relaxed and his manifesto has been well received by some sectors of the electorate .
+opposition	10	neg_cue
+########
+10
+<EOP> .
+########
+11
+All the opinion polls suggest that May 's Conservative Party will still win , but some put her lead at 3 percentage points , which would mean the prime minister would not be able to command a majority in parliament .
+win	12	PS+	PS+
+command	35	PS-	PS+
+suggest	4	ps_cue
+May	6	ps_cue
+will	10	ps_cue
+would	25	ps_cue
+would	30	ps_cue
+not	31	neg_cue
+########
+12
+Other polls judge her lead to be greater .
+########
+13
+<EOP> .
+########
+14
+May had a majority of 17 in the last parliament and failure to improve that would be seen as a defeat .
+defeat	20	PS+	PS+
+May	0	ps_cue
+failure	11	neg_cue
+would	15	ps_cue
+########
+15
+<EOP> .
+########
+16
+On Wednesday night , May did not attend a televised debate for party leaders , for which she was widely criticized .
+May	4	ps_cue
+not	6	neg_cue
+criticized	20	neg_cue
+########
+17
+<EOP> .
+########
+18
+May called a surprise election last month when the opinion polls put her 20 points ahead of Corbyn .
+May	0	ps_cue
+########
+19
+At first it looked as though the gamble would pay off , but that lead has been eroded as the campaign has progressed .
+off	10	PS+	PS+
+would	8	ps_cue
+########
+20
+<EOP> .
+########
+21
+The main thrust of her campaign has been to ask voters who they trust to represent the UK in the Brexit negotiations which will start on June 19 , 11 days after the general election .
+will	23	ps_cue
+########
+22
+<EOP> .
+########
+23
+But in a series of public appearances and interviews , May has appeared vague , repetitive and not `` strong and stable '' , the phrase she has repeated .
+May	10	ps_cue
+appeared	12	ps_cue
+not	17	neg_cue
+########
+24
+<EOP> .
+########
+25
+The turning point for May was the release of her party manifesto last month , which included policies that appalled some of the Conservatives ' key voters .
+May	4	ps_cue
+########
+26
+<EOP> .
+########
+27
+She was particularly hit by a policy that has become known as the `` dementia tax '' , whereby elderly people would use the value of their homes to pay for social care .
+would	21	ps_cue
+########
+28
+May was forced to back down .
+May	0	ps_cue
+########
+29
+<EOP> .
+########
+30
+Corbyn has offered voters a series of expensive left_wing policies .
+########
+31
+He has said he wants to nationalize rail services , the mail and the water supply companies and remove university tuition fees .
+wants	4	ps_cue
+########
+32
+The party says that it will pay for these policies by taxing the rich and closing loopholes .
+will	5	ps_cue
+########
+33
+<EOP> .
+########
+34
+The contents of the party manifestos are likely to be irrelevant in a parliament that will be dominated by the mechanics of leaving the European Union .
+likely	7	ps_cue
+will	15	ps_cue
+########
+35
+<EOP> .
+########
+36
+The election result will be affected by the number of young voters , who will likely favor Corbyn , and of the estimated 3 million people who voted for the first time to back Brexit .
+will	3	ps_cue
+will	14	ps_cue
+likely	15	ps_cue
+########
+37
+<EOP> .
+########
+38
+Conventional wisdom is that they should vote Conservative , but they may find themselves more emotionally attracted to Corbyn than May .
+should	5	ps_cue
+may	11	ps_cue
+May	20	ps_cue
+########
+39
+<EOP> .
+########
+40
+conal@mail.chinadailyuk.com <EOP> .
+########
+41
+<EOP> .
+########
+42
+<EOP> .
+########
+43
+<EOP> .
+########

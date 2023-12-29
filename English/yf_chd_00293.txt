@@ -1,0 +1,90 @@
+Do Wheelchair racers finish NYC Marathon
+0
+Wheelchair racers finish NYC Marathon <EOP> .
+Marathon	4	CT+	CT+
+########
+1
+2017_11_06 11:23 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+<EOP> .
+########
+4
+Chinese <EOP> .
+########
+5
+paralympics champion Zou Lihong competes during the 2017 New York City Marathon on Nov 5 , 2017 .
+Marathon	11	CT+	CT+
+########
+6
+<EOP> .
+########
+7
+LRB Photo by Judy Zhu_chinadaily .
+########
+8
+com.cn RRB <EOP> .
+########
+9
+Four Chinese wheelchair racers were invited to compete in the 2017 New York City Marathon on Sunday , and two of them finished the course for the first time in history .
+Marathon	14	CT+	CT+
+########
+10
+<EOP> .
+########
+11
+Chinese paralympics champion Zou Lihong , 33 , ranked fourth place and became the first Chinese woman wheelchair racer to finish the 26.2 _ mile , five_borough race with a time of 2 hours , 3 minutes and 20 seconds .
+########
+12
+<EOP> .
+########
+13
+On the men 's side , three Chinese wheelchair racers were invited to race for the first time , and Zhang Yong , 25 , finished the course with a time of 1 hour , 50 minutes and 51 seconds .
+########
+14
+<EOP> .
+########
+15
+Unfortunately , the other two , Dai Yunqiang and Song Lei , had to drop out at the 40 kilometer_mark due to flat tires .
+########
+16
+<EOP> .
+########
+17
+Last year , Zou was invited to the event after winning the gold medal in the women 's marathon at the Rio Paralympics in the summer , where she narrowly beat Tatyana McFadden , an American marathoner who had swept 17 straight victories in major marathons , including last year 's .
+########
+18
+<EOP> .
+########
+19
+However , her right rear tire went flat halfway through the run at the 13_mile point .
+########
+20
+The tire could not be repaired .
+could	2	ps_cue
+not	3	neg_cue
+########
+21
+<EOP> .
+########
+22
+This year , despite not being in the best physical condition after catching a cold , Zou came back with three other teammates and better prepared .
+not	4	neg_cue
+########
+23
+<EOP> .
+########
+24
+`` We tested our tires with two months of training in Shanghai ahead of the race .
+########
+25
+New York City 's road situation is very different , and we paid extra attention to avoid tire damage , '' Zou said , `` all we wanted was to finish the race . ''
+avoid	16	neg_cue
+wanted	27	ps_cue
+########
+26
+<EOP> .
+########

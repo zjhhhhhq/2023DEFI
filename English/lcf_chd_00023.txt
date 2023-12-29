@@ -1,0 +1,97 @@
+Will China change determination to deepen relations with Russia 
+0
+China will not change determination to deepen relations with Russia <EOP> .
+change	3	CT-	CT-
+not	2	neg_cue
+will	1	ps_cue
+########
+1
+2017_10_27 10:15 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+BEIJING _ Russia is China 's comprehensive strategic partner of coordination , and whatever volatile changes may take place in the international arena , China will not change its determination to deepen relations with Russia , Chinese President Xi Jinping said Thursday .
+change	27	CT-	CT-
+may	16	ps_cue
+will	25	ps_cue
+not	26	neg_cue
+########
+4
+<EOP> .
+########
+5
+Xi made the remarks during a phone conversation with Russian President Vladimir Putin .
+########
+6
+<EOP> .
+########
+7
+China can not develop in isolation from the rest of the world , Xi said .
+can	1	ps_cue
+not	2	neg_cue
+########
+8
+And China is willing to work with Russia to advance bilateral relations to achieve more tangible fruits so as to benefit the two peoples as well as people from all other countries .
+willing	3	ps_cue
+########
+9
+<EOP> .
+########
+10
+During the conversation , Putin congratulated Xi on his reelection as the general secretary of the Central Committee of the Communist Party of China LRB CPC RRB .
+########
+11
+<EOP> .
+########
+12
+Putin also extended congratulations on the successful conclusion of the 19th CPC National Congress .
+########
+13
+<EOP> .
+########
+14
+Expressing appreciation for Putin 's congratulations , Xi said that the just_concluded congress formulated an overall principle and an action guideline for the future development of the CPC and China , which reflected the strong consensus reached by all the 89 million party members .
+########
+15
+<EOP> .
+########
+16
+`` We have the confidence and the capability to lead the Chinese people toward the goal of the great rejuvenation of the Chinese nation , which is the CPC 's historic responsibility and mission , '' Xi said .
+########
+17
+<EOP> .
+########
+18
+Putin said it is very important that Xi Jinping Thought on Socialism with Chinese Characteristics for a New Era was established during the congress .
+########
+19
+<EOP> .
+########
+20
+And the achievements of the congress have fully demonstrated the Chinese people 's trust in and support for the CPC led by Xi , he said .
+########
+21
+<EOP> .
+########
+22
+Putin expressed his sincere wishes that Xi will lead the CPC , the largest party in the world , to continuously score new achievements .
+will	7	ps_cue
+########
+23
+<EOP> .
+########
+24
+The Russia_China relationship is a exemplar of harmonious coexistence of major countries in contemporary world , Putin said .
+########
+25
+<EOP> .
+########
+26
+`` I am willing to maintain close contact with President Xi to advance bilateral cooperation in various fields and conduct close communication and coordination on major international and regional issues , '' he said .
+willing	3	ps_cue
+########
+27
+<EOP> .
+########

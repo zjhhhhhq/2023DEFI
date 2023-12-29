@@ -1,0 +1,109 @@
+Do four more states sue President Trump administration over plan to end DACA program
+0
+Four more states sue President Trump administration over plan to end DACA program <EOP> .
+sue	3	CT+	CT+
+plan	8	ps_cue
+########
+1
+2017_09_12 09:51 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+LOS ANGELES _ California , home to about a quarter of all young people covered by the Deferred Action for Childhood Arrivals LRB DACA RRB program , joined by Minnesota , Maryland and Maine , filed a lawsuit on Monday against President Donald Trump Administration over its decision to end the program .
+filed	35	CT+	CT+
+against	40	neg_cue
+########
+4
+<EOP> .
+########
+5
+The lawsuit comes after 15 states and the District of Columbia filed a similar legal challenge last week to preserve the program shielding children brought to the United States illegally .
+########
+6
+<EOP> .
+########
+7
+California Attorney General Xavier Becerra said Monday he decided to file a separate suit because the state and its economy will be especially harmed by the president 's action .
+will	20	ps_cue
+########
+8
+`` One_in_four of those DACA Dreamers know California as home , and it 's no coincidence that our great state is the sixth largest economy in the world , '' Becerra said in a statement .
+no	14	neg_cue
+########
+9
+<EOP> .
+########
+10
+`` We will not permit Donald Trump to destroy the lives of young immigrants who make California and our country stronger , '' said Becerra .
+will	2	ps_cue
+not	3	neg_cue
+########
+11
+<EOP> .
+########
+12
+The Attorney General also said in a recent interview that the DACA program approved by the former US President Barack Obama is legal and its repeal violates due process rights and will hurt the state 's economy .
+will	31	ps_cue
+########
+13
+<EOP> .
+########
+14
+The four States filed the suit in the US District Court for the Northern District of California arguing that the Trump Administration violated the Constitution and federal laws when it rescinded DACA .
+########
+15
+<EOP> .
+########
+16
+In the complaint , Minnesota Attorney General Lori Swanson , Maryland Attorney General Brian Frosh , Maine Attorney General Janet Mills , and Attorney General Becerra describe the several violations by the US federal government of the Constitution and federal laws designed to ensure that the government treats everyone fairly and transparently .
+########
+17
+<EOP> .
+########
+18
+The lawsuit was criticized Monday by Robin Hvidston , who heads a California group seeking tougher enforcement of immigration laws , according to the Los Angeles Times .
+criticized	3	neg_cue
+seeking	14	ps_cue
+########
+19
+Hvidston noted that President Trump delayed repeal of the program for six months to give Congress a chance to address the issue , and that several Republican_led states have sued to end the DACA program .
+delayed	5	neg_cue
+########
+20
+<EOP> .
+########
+21
+The lawsuit is the second filed by California officials .
+########
+22
+Last Friday , the University of California LRB UC RRB also filed a lawsuit in federal court against Trump 's administration for allegedly unconstitutionally violating the rights of the University and its students by rescinding the DACA program on `` nothing more than unreasoned executive whim . ''
+against	17	neg_cue
+nothing	40	neg_cue
+########
+23
+<EOP> .
+########
+24
+DACA program was implemented in 2012 to essentially provide a legal status for recipients or renewable two_year term work authorization .
+or	14	ps_cue
+########
+25
+Approximately 800,000 people have participated in the program across the United States and they are often referred to as `` Dreamers . ''
+########
+26
+<EOP> .
+########
+27
+The Trump administration announced a decision to rescind DACA on Sept 5 .
+########
+28
+Shortly afterwards , the US Department of Homeland Security LRB DHS RRB said that they would stop accepting new DACA applications , and would review old ones case by case pending requests .
+would	15	ps_cue
+stop	16	neg_cue
+would	23	ps_cue
+########
+29
+<EOP> .
+########

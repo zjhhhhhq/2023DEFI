@@ -1,0 +1,269 @@
+Were three more arrested in Manches
+0
+Three more arrested in Manchester ; attacker 's Libya ties probed <EOP> .
+arrested	2	CT+	CT+
+########
+1
+2017_05_24 18:44 <EOP> .
+########
+2
+null <EOP> .
+########
+3
+MANCHESTER , England -- British police and intelligence agencies arrested three more suspects Wednesday in connection with the Manchester suicide bombing and moved quickly to secure key sites across the country , including Buckingham Palace and the British Parliament at Westminster .
+arrested	9	CT+	CT+
+########
+4
+<EOP> .
+########
+5
+<EOP> .
+########
+6
+<EOP> .
+########
+7
+<EOP> .
+########
+8
+A policeman stands outside a residential property in south Manchester , Britain , May 24 , 2017 .
+May	13	ps_cue
+########
+9
+<EOP> .
+########
+10
+LRB Photo_Agencies RRB <EOP> .
+########
+11
+Home Secretary Amber Rudd said the bomber , identified as British_born Libyan Salman Abedi , `` likely '' did not act alone when he killed 22 people and wounded dozens at an Ariana Grande concert Monday night in Manchester .
+likely	16	ps_cue
+not	19	neg_cue
+########
+12
+She said he had been known to security forces `` up to a point . ''
+########
+13
+Officials are examining Abedi 's trips to Libya as they worked to piece together his allegiances and foil any new potential threats .
+potential	20	ps_cue
+########
+14
+<EOP> .
+########
+15
+Police said three men were arrested Wednesday in south Manchester , where a day earlier a 23_year_old man was also arrested and a number of homes were searched .
+arrested	5	CT+	CT+
+########
+16
+<EOP> .
+########
+17
+Britain raised its threat level from terrorism to `` critical '' after an emergency government meeting late Tuesday amid concerns that the 22_year_old Abedi may have accomplices who are planning another attack .
+may	24	ps_cue
+planning	29	ps_cue
+########
+18
+British soldiers have been deployed in place of police officers to guard high_profile sites such as Buckingham Palace and Parliament .
+########
+19
+<EOP> .
+########
+20
+The changing of the guard ceremony at Buckingham Palace was canceled Wednesday so police officers can be re_deployed , Britain 's defense ministry said .
+can	15	ps_cue
+########
+21
+The traditional ceremony at the palace is a major tourist attraction in London .
+########
+22
+<EOP> .
+########
+23
+The Palace of Westminster , which houses the British Parliament in London , was also closed Wednesday to all those without passes , and tours and events there were cancelled until further notice .
+without	20	neg_cue
+########
+24
+Armed police were seen on patrol outside St. Paul 's Cathedral in London , another popular tourist spot .
+########
+25
+<EOP> .
+########
+26
+Abedi was born in Britain to a Libyan family , grew up in Manchester 's southern suburbs and attended the local Salford University for a time .
+########
+27
+<EOP> .
+########
+28
+Police on Tuesday raided his house , using a controlled explosion to blast down the door .
+########
+29
+Neighbors recalled him as a tall , thin young man who often wore traditional Islamic dress and did not talk much .
+not	18	neg_cue
+########
+30
+<EOP> .
+########
+31
+British Prime Minister Theresa May Wednesday chaired a meeting of her emergency security cabinet group known as Cobra to deal with the intelligence reports about Abedi and concerns that he might have had outside support .
+May	4	ps_cue
+might	30	ps_cue
+########
+32
+<EOP> .
+########
+33
+<EOP> .
+########
+34
+<EOP> .
+########
+35
+<EOP> .
+########
+36
+Floral tributes are left for the victims of an attack on concert goers at Manchester Arena , in St Ann 's Square , in Manchester , Britain May 24 , 2017 .
+May	27	ps_cue
+########
+37
+<EOP> .
+########
+38
+LRB Photo by Wang Bo_chinadaily .
+########
+39
+com.cn RRB <EOP> .
+########
+40
+Police also raided and searched a property elsewhere in Manchester where Abedi 's brother Ismail is thought to have lived .
+########
+41
+A 23_year_old man has also been arrested as part of the investigation but officials have released no details about him .
+no	16	neg_cue
+########
+42
+<EOP> .
+########
+43
+Officials are probing how often Abedi had traveled to Libya , which has seen an eruption of armed Islamist groups since dictator Moammar Gadhafi was overthrown and killed in 2011 .
+########
+44
+<EOP> .
+########
+45
+France 's interior minister said Abedi is believed to have traveled to Syria and had `` proven '' links with the Islamic State group .
+believed	7	ps_cue
+########
+46
+<EOP> .
+########
+47
+Minister Gerard Collomb said Wednesday on BFM television that British and French intelligence have information that Abedi had been to Syria .
+########
+48
+He did not provide details , and said it 's unclear whether Abedi was part of a larger network of attackers .
+not	2	neg_cue
+unclear	10	ps_cue
+whether	11	ps_cue
+########
+49
+<EOP> .
+########
+50
+British officials have not commented on whether Abedi had links to IS or other extremist groups .
+not	3	neg_cue
+whether	6	ps_cue
+or	12	ps_cue
+########
+51
+<EOP> .
+########
+52
+Rudd said Britain 's increased official threat level will remain at `` critical '' as the investigation proceeds and wo n't be lowered until security services are convinced there is no active plot in place .
+will	8	ps_cue
+n't	20	neg_cue
+no	30	neg_cue
+########
+53
+<EOP> .
+########
+54
+She also complained about US officials leaking sensitive information about Abedi to the US press .
+########
+55
+<EOP> .
+########
+56
+`` I have been very clear with our friends that that should not happen again , '' she said .
+should	11	ps_cue
+not	12	neg_cue
+########
+57
+<EOP> .
+########
+58
+In addition to those killed in the concert attack , 64 people are being treated for their wounds , Jon Rouse of the Greater Manchester Health and Social Care Partnership said Wednesday .
+########
+59
+<EOP> .
+########
+60
+He said some of the reported 59 wounded had been discharged , but that the number of patients being treated had increased due to `` walking wounded '' who came in hours after the attack .
+discharged	10	neg_cue
+########
+61
+Rouse said many of those hospitalized had serious wounds that would require `` very long term care and support in terms of their recovery .
+would	10	ps_cue
+########
+62
+`` Officials said all those hospitalized had been identified .
+########
+63
+<EOP> .
+########
+64
+Soldiers were replacing armed police on Wednesday at sites like Buckingham Palace , 10 Downing Street and Parliament .
+like	9	ps_cue
+########
+65
+London Police Commander Jane Connors said the goal is to `` make our city as hostile an environment as possible for terrorists to plan and operate .
+possible	19	ps_cue
+plan	23	ps_cue
+########
+66
+`` She said armed police will also be ready to respond quickly to any incidents and their walking patrols had been increased .
+will	5	ps_cue
+ready	8	ps_cue
+########
+67
+<EOP> .
+########
+68
+Collomb , who spoke with May after the attack , said the two countries should continue cooperating closely on counterterrorism efforts despite Britain 's pending exit from the European Union .
+May	5	ps_cue
+should	14	ps_cue
+########
+69
+<EOP> .
+########
+70
+Katz reported from London .
+########
+71
+Sylvie Hui in London , Rob Harris in Manchester and Angela Charlton in Paris contributed .
+########
+72
+<EOP> .
+########
+73
+Agencies <EOP> .
+########
+74
+<EOP> .
+########
+75
+<EOP> .
+########
+76
+<EOP> .
+########

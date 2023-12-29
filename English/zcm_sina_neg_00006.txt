@@ -1,0 +1,151 @@
+Is pensions system fit for 21st century
+0
+Pensions system not fit for 21st century , says former government adviser <EOP> .
+fit	3	CT-	CT-
+not	2	neg_cue
+########
+1
+Millions of workers will be exposed to `` risky '' , hard_to_understand and outdated retirement saving schemes under the government 's scheme to automatically enrol people into pensions , former Downing Street adviser Dr Ros Altmann has warned .
+will	3	ps_cue
+########
+2
+<EOP> .
+########
+3
+More than 1.6 million people have already been placed into pension schemes under the Government 's automatic enrolment initiative , which started in October 2012 and is expected to result in around 11 million new pension savers over the next five years .
+expected	27	ps_cue
+########
+4
+<EOP> .
+########
+5
+But in a report , Pensions _ Time for change , Altmann said : `` The future for pensions is more complex and risky than ever before . ''
+########
+6
+She called for an overhaul of defined contribution LRB DC RRB pensions which , she argued , `` are not fit for 21st_century lives '' .
+fit	20	CT-	CT-
+not	19	neg_cue
+########
+7
+<EOP> .
+########
+8
+DC schemes offer payouts based on the performance of the funds that the saver 's money is invested in , unlike final salary schemes where employees are guaranteed a set income on retirement .
+########
+9
+They are cheaper for firms to run because the employee is taking on the investment risk , and are likely to be the type of scheme on offer to workers through auto_enrolment .
+likely	19	ps_cue
+########
+10
+<EOP> .
+########
+11
+People with DC schemes use their retirement savings to buy an annuity when they retire , which sets the size of their annual income for life .
+########
+12
+But the rates on offer fluctuate and comparing deals is made more complicated by the variety of different annuities you can buy , which depend on factors like the state of your health and whether you want them to provide for just yourself or your partner as well .
+can	20	ps_cue
+like	27	ps_cue
+whether	34	ps_cue
+or	43	ps_cue
+########
+13
+<EOP> .
+########
+14
+The report said : `` The risk of buying at the wrong time , choosing the wrong annuity or failing to find the right rate could increase the number of poorer pensioners by many millions . ''
+or	18	ps_cue
+failing	19	neg_cue
+could	25	ps_cue
+########
+15
+<EOP> .
+########
+16
+Altmann , a former director_general of over_50s group Saga , recently said pensioners could be taking on `` the biggest gamble '' of their lives when they buy an annuity , and many may never live to see any return on their money .
+could	13	ps_cue
+may	33	ps_cue
+never	34	neg_cue
+########
+17
+<EOP> .
+########
+18
+Her report , sponsored by retirement products provider MetLife , surveyed more than 3,000 people .
+########
+19
+It argued that auto_enrolment will increase `` coverage but not adequacy of pensions '' .
+will	4	ps_cue
+not	9	neg_cue
+########
+20
+<EOP> .
+########
+21
+Altmann said the problem with the Government 's pension reforms is that they require people `` to be able to cope with risks that they do not really understand '' .
+not	26	neg_cue
+########
+22
+<EOP> .
+########
+23
+Consumer research carried out for MetLife found that three_fifths LRB 60 % RRB of people do not understand or are unsure if they are fully aware of the risks of investing in a DC scheme .
+not	16	neg_cue
+or	18	ps_cue
+unsure	20	ps_cue
+########
+24
+This figure rose to three_quarters LRB 75 % RRB of people aged between 18 and 24 years old .
+########
+25
+<EOP> .
+########
+26
+Nearly three_quarters LRB 72 % RRB of people said they would be more likely to save into a pension if it guaranteed a level of retirement income .
+would	10	ps_cue
+likely	13	ps_cue
+########
+27
+<EOP> .
+########
+28
+Altmann said that to shore up more savings , people should think about working for longer and easing into retirement in phases , perhaps by initially going part time .
+should	10	ps_cue
+perhaps	23	ps_cue
+########
+29
+<EOP> .
+########
+30
+`` A record 1 million people are now still working beyond age 65 , '' she said .
+########
+31
+`` The old notions of ` early retirement ' are being consigned to history , but far too few workers are planning ahead for longer working lives .
+planning	21	ps_cue
+########
+32
+<EOP> .
+########
+33
+`` This has to be part of the solution to our pensions crisis and , in fact , can be a very positive model for the future .
+can	18	ps_cue
+########
+34
+The whole concept of retirement is changing .
+########
+35
+It will become a process rather than an event . ''
+will	1	ps_cue
+rather	5	neg_cue
+########
+36
+<EOP> .
+########
+37
+A Department for Work and Pensions spokeswoman said : `` Our reforms to the state pension will introduce a single , simple , decent state pension , which will provide a solid foundation for further saving through automatic enrolment into workplace pensions with employer contributions and tax relief . ''
+will	16	ps_cue
+will	28	ps_cue
+########
+38
+<EOP> .
+########

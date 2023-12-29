@@ -1,0 +1,60 @@
+Will Facebook share Russia_linked ads with US Congress
+0
+Facebook to share Russia_linked ads with US Congress <EOP> .
+share	2	CT+	CT+
+########
+1
+2017_09_22 04:32 <EOP> .
+########
+2
+Agencies <EOP> .
+########
+3
+SAN FRANCISCO LRB Reuters RRB _ Facebook Inc said on Thursday it plans to share with US congressional investigators some 3,000 political ads that it says Russia_based operatives ran on Facebook in the months before and after last year 's US presidential election .
+share	14	PS+	CT+
+plans	12	ps_cue
+########
+4
+<EOP> .
+########
+5
+Chief Executive Mark Zuckerberg , who has been under pressure to do more to prevent the use of Facebook for election manipulation , said in a live broadcast on Facebook that he supported the investigation by the US Congress .
+prevent	14	neg_cue
+########
+6
+<EOP> .
+########
+7
+Zuckerberg laid out nine steps that he said Facebook was taking to deter governments from using the world 's largest social network to interfere with elections .
+########
+8
+<EOP> .
+########
+9
+In one major change , Facebook will make political ads on the social network more transparent , so that people can see which ads are being run in connection with an election , he said .
+will	6	ps_cue
+can	20	ps_cue
+########
+10
+<EOP> .
+########
+11
+Facebook General Counsel Colin Stretch said in a separate blog post that the social network does not disclose content lightly under any circumstances , but that the company wants to help protect the integrity of U.S. elections .
+not	16	neg_cue
+wants	28	ps_cue
+########
+12
+<EOP> .
+########
+13
+`` We believe the public deserves a full accounting of what happened in the 2016 election , '' Stretch wrote .
+########
+14
+<EOP> .
+########
+15
+LRB Adds comments from Zuckerberg , Stretch RRB <EOP> .
+########
+16
+LRB Reporting by David Ingram ; Editing by Bill Rigby and Cynthia Osterman RRB <EOP> .
+########

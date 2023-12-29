@@ -1,0 +1,107 @@
+Does Merkel 's party lose election in German state of Lower Saxony
+0
+Merkel 's party loses election in German state of Lower Saxony <EOP> .
+loses	3	CT+	CT+
+########
+1
+2017_10_16 09:01 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+<EOP> .
+########
+4
+German Chancellor Angela Merkel delivers her speech during a Lower Saxony 's Christian Democratic Union 's LRB CDU RRB regional election campaign rally in Stade , Germany , Oct 13 , 2017 .
+########
+5
+LRB Photo_Xinhua RRB <EOP> .
+########
+6
+BERLIN _ German Chancellor Angela Merkel 's Christian Democratic Union LRB CDU RRB was beaten by the Social Democratic Party LRB SPD RRB in the state election of Lower Saxony on Sunday , complicating her efforts in government coalition talks .
+beaten	14	CT+	CT+
+########
+7
+<EOP> .
+########
+8
+The SPD garnered 37.1 percent of the total votes , followed by CDU at 34.4 percent , according preliminary results broadcasted by ARD and ZDF .
+########
+9
+<EOP> .
+########
+10
+The far_right populist Alternative fuer Deutschland LRB AfD RRB gained 5.9 percent of the votes , thus entering the 14th state parliaments in Germany .
+########
+11
+<EOP> .
+########
+12
+The Greens made with 8.8 percent and the Free Democratic Party LRB FDP RRB with 7.2 percent , while the Left Party had only 4.6 percent of the vote and will again remain outside the state parliament due to the 5_percent_hurdle .
+will	30	ps_cue
+########
+13
+<EOP> .
+########
+14
+The Lower Saxony state election came three weeks later after the federal parliament election on Sept 24 , in which Merkel 's Union suffered a 8.5 _ percentage point loss compared to that of 2013 , and the lowest votes since 1949 , despite maintaining the strongest party in the Bundestag , or German Federal Parliament .
+loss	29	neg_cue
+or	52	ps_cue
+########
+15
+<EOP> .
+########
+16
+The AfD made an historic debut in the Bundestag and became the third strongest party in Germany , while the liberal and pro_business FDP returned the Bundestag after a failure in 2013 .
+failure	29	neg_cue
+########
+17
+<EOP> .
+########
+18
+The latest lose in Lower Saxony may further weaken Merkel 's power and complicate her efforts for government coalition talks that are already facing an array of differences between three parties .
+lose	2	CT+	CT+
+may	6	ps_cue
+########
+19
+<EOP> .
+########
+20
+After the election in Lower Saxony , Merkel will focus on the negotiation for a new government with the FDP and the Greens , an alliance called `` Jamaica Coalition '' for their colors similar to that of the flag of the Caribbean country , but it has never appeared at the federal level .
+will	8	ps_cue
+never	48	neg_cue
+appeared	49	ps_cue
+########
+21
+<EOP> .
+########
+22
+The result of the Sept 24 federal parliament made the alliance become the only possibility after the SPD announced that it would not form a new coalition with the Union again and all five parties ruled out possibility of cooperating with the AfD .
+possibility	14	ps_cue
+would	21	ps_cue
+not	22	neg_cue
+possibility	37	ps_cue
+########
+23
+<EOP> .
+########
+24
+After the CDU and its Bavarian sister Christian Social Union LRB CSU RRB agreed on the ceiling of the numbers of refugees Germany accepts every year , Merkel announced last Monday that the exploratory talks for the `` Jamaica Coalition '' would start on Wednesday .
+would	41	ps_cue
+########
+25
+<EOP> .
+########
+26
+However , the three parties are different from each other in policies concerning immigration , climate change , the European Union and others .
+########
+27
+<EOP> .
+########
+28
+<EOP> .
+########
+29
+<EOP> .
+########

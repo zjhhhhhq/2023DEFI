@@ -1,0 +1,124 @@
+Was Pakistan deadly oil tanker fire caused by smoking
+0
+Pakistan deadly oil tanker fire likely caused by smoking : police <EOP> .
+caused	6	PS+	PS+
+likely	5	ps_cue
+########
+1
+2017_06_25 12:36 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+<EOP> .
+########
+4
+Hospital workers carry in the first victims of an oil tanker explosion in Bahawalpur at Nishtar hospital in Multan , Pakistan , on June 25 , 2017 .
+########
+5
+LRB Photo_Agencies RRB <EOP> .
+########
+6
+ISLAMABAD _ The deadly oil tanker fire that claimed at least 123 lives and wounded over 100 others in Pakistan 's eastern Punjab province on Sunday morning could be caused by smoking , said police .
+caused	29	CT+	PS+
+could	27	ps_cue
+########
+7
+<EOP> .
+########
+8
+Imran Shah , spokesman of Pakistan Motorway Police , a top body in charge of the security issues of motors in the country , said that initial investigation suggested that the fire broke out after someone on the spot lit a cigarette .
+suggested	28	ps_cue
+########
+9
+<EOP> .
+########
+10
+Further probe into the incident is still underway , he said .
+########
+11
+<EOP> .
+########
+12
+Earlier on Sunday morning , a fully packed oil tanker skidded off the road after tire burst on a highway in Ahmad Pur Shaqia , a small town lying about 400 km southwest of Lahore , capital city of Punjab province .
+########
+13
+<EOP> .
+########
+14
+The fire broke out after many people from nearby villages came in motorbikes to collect the oil spilled out from the capsized oil tanker , said eyewitnesses .
+########
+15
+<EOP> .
+########
+16
+A total of 75 motorbikes and six vehicles including a traffic police vehicle were burnt out in the fire , said police .
+########
+17
+The site is littered with numerous bodies burned beyond recognition , said eyewitnesses .
+########
+18
+<EOP> .
+########
+19
+Three fire engines rushed to the site following the report of the oil tanker fire which broke out at about 6:23 am local time , said fire engine department officials , adding that it took them hours to have the fire put off .
+########
+20
+<EOP> .
+########
+21
+Several helicopters have been dispatched to the site for rescue work , said Inter_Service Public Relations , a media wing of Pakistan Army , in a statement .
+########
+22
+<EOP> .
+########
+23
+Due to the lack of doctors and facilities for burn injuries , many of the seriously burned have been shifted to hospitals in the nearby cities of Bahawalpur and Multan .
+lack	3	neg_cue
+########
+24
+<EOP> .
+########
+25
+Muhammad Baqir , an official in charge of the rescue work , said that 123 people were killed in the fire while over 100 others suffered from burn injuries to different degrees .
+########
+26
+<EOP> .
+########
+27
+Dr. Aurangzeb , Medical Superintendent of Victoria Hospital in Bahawalpur , a district which Ahmad Pur Shaqia falls under jurisdiction , confirmed that 120 bodies and over 100 injured people have been received by different hospitals in the district .
+########
+28
+<EOP> .
+########
+29
+The death toll could further rise as 31 injured people are in critical condition , he said .
+could	3	ps_cue
+########
+30
+<EOP> .
+########
+31
+Latest reports coming in said that the death toll from the oil tanker fire has risen to 140 , but the figure is not officially confirmed .
+not	23	neg_cue
+########
+32
+<EOP> .
+########
+33
+Both Pakistani President Mamnoon Hussain and Prime Minister Nawaz Sharif have expressed deep sorrows over the loss of so many precious lives in the incident .
+loss	16	neg_cue
+########
+34
+<EOP> .
+########
+35
+Sharif , who is currently abroad on a private trip , instructed all the concerned authorities to provide the best available medical treatment for the fire victims .
+########
+36
+<EOP> .
+########
+37
+<EOP> .
+########

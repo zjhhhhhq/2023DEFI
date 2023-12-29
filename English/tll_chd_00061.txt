@@ -1,0 +1,84 @@
+Were 5 Russian diplomats in Moldova declared persona non grata
+0
+5 Russian diplomats in Moldova declared persona non grata <EOP> .
+declared	5	CT+	CT+
+########
+1
+2017_05_30 06:45 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+BUCHAREST __ Five Russian diplomats in Moldova were declared persona non grata on Monday , according to news reaching here from Moldova 's capital city of Chisinau .
+declared	8	CT+	CT+
+########
+4
+<EOP> .
+########
+5
+The diplomats have 72 hours to leave the territory of Moldova , local media reported , citing Artur Sarbu , adviser to Foreign Minister Andrei Galbur .
+########
+6
+<EOP> .
+########
+7
+The Chisinau authorities did not explain the reasons for the sudden expulsion .
+not	4	neg_cue
+########
+8
+<EOP> .
+########
+9
+The action took place less than a week after Estonia last Friday expelled Russian Consul General in Narva Dmitry Kazennov and Consul Andrey Surgaev under similar unexplained circumstances .
+########
+10
+<EOP> .
+########
+11
+Moldova 's President Igor Dodon categorically condemned the steps taken by the government , saying the move was `` most likely made on an order from the West . ''
+condemned	6	neg_cue
+likely	20	ps_cue
+########
+12
+<EOP> .
+########
+13
+`` I want to state that I am deeply indignant at this unfriendly step on the part of representatives of Moldovan diplomacy and categorically condemn it , '' said the president .
+########
+14
+<EOP> .
+########
+15
+`` I understand that the Euro_unionists are irritated by the President 's successes achieved in recent months and decided to go on direct provocations that carry the risk of a significant deterioration in Moldovan_Russian relations , '' Dodon was quoted by local Accent TV as saying .
+########
+16
+<EOP> .
+########
+17
+`` I also understand that this is most likely done on an order from the West , maybe even from across the ocean , from those who are concerned that a constructive and effective dialogue has been reached between the Presidency and the Kremlin , '' he added .
+likely	8	ps_cue
+maybe	17	ps_cue
+########
+18
+<EOP> .
+########
+19
+Dodon was elected president last November and has visited Moscow three times already in his first half of year of presidency .
+########
+20
+<EOP> .
+########
+21
+According to him , many problems were solved especially regarding the export of Moldovan products and migrants during his visits to Russia .
+########
+22
+<EOP> .
+########
+23
+He stressed that restoring full_fledged ties with Russia , his `` priority goal as head of state , '' will have a positive impact on the economy of Moldova , and hundreds of thousands of farmers and migrant workers .
+will	19	ps_cue
+########
+24
+<EOP> .
+########

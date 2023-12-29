@@ -1,0 +1,85 @@
+Do Coke and Pepsi taste different
+0
+This is why Coke and Pepsi taste so different _ and it 's down to one simple thing <EOP> .
+different	8	CT+	CT+
+########
+1
+The two popular soft drinks are designed to leave very different impressions on our taste buds .
+different	10	CT+	CT+
+########
+2
+<EOP> .
+########
+3
+You 're either a Coke devotee or you 're a Pepsi fan , but you 're never both .
+either	2	ps_cue
+or	6	ps_cue
+never	16	neg_cue
+########
+4
+<EOP> .
+########
+5
+Discerning soft drink enthusiasts state there IS a difference in taste between two of the world 's biggest food brands ' most famous product .
+difference	8	CT+	CT+
+########
+6
+<EOP> .
+########
+7
+But , apart from wildly divergent marketing campaigns and different packaging , are the two really so dissimilar , taste_wise ?
+dissimilar	17	CT+	CT+
+########
+8
+<EOP> .
+########
+9
+As it turns out , yes .
+########
+10
+<EOP> .
+########
+11
+What marks Coke and Pepsi apart , Wales Online reports , is in fact their individual flavours .
+########
+12
+<EOP> .
+########
+13
+Pepsi is sweeter than Coke , so right away it had a big advantage in a sip test .
+########
+14
+<EOP> .
+########
+15
+Pepsi is also characterised by a citrusy flavour burst , unlike the more raisiny_vanilla taste of Coke .
+########
+16
+<EOP> .
+########
+17
+But that burst tends to dissipate over the course of an entire can .
+tends	3	ps_cue
+can	12	ps_cue
+########
+18
+Pepsi , in short , is a drink built to shine in a sip test .
+########
+19
+<EOP> .
+########
+20
+As for the nutritional content , Pepsi has slightly more sugar , calories , and caffeine .
+########
+21
+Coke has slightly more sodium .
+########
+22
+<EOP> .
+########
+23
+However , while Pepsi is designed to wow the taste buds instantly , it 's Coke , which owing to its branding , is winning the Cola wars .
+########
+24
+<EOP> .
+########

@@ -1,0 +1,163 @@
+Are Sino_US ties crucial for peace , progress
+0
+Kissinger : Sino_US ties crucial for peace , progress <EOP> .
+ties	3	CT+	CT+
+########
+1
+2017_09_28 07:19 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+<EOP> .
+########
+4
+Vice_Premier Liu Yandong shakes hands with former US secretary of state Henry Kissinger before a forum where they both spoke at Columbia University in New York on Tuesday .
+########
+5
+WANG YING_XINHUA <EOP> .
+########
+6
+<EOP> .
+########
+7
+<EOP> .
+########
+8
+Former US secretary of state Henry Kissinger , who has described the US_China relationship as the `` defining '' relationship of the 21st century , said on Tuesday that both sides need to work together for `` peace and human progress '' .
+need	31	ps_cue
+########
+9
+<EOP> .
+########
+10
+`` It will be imperative that we work together to lift our relationship from the pragmatic and from the day_to_day solving of problems to the conceptual , to the creation of a new encompassing concept of a world order that promotes peace and human progress , as we are now doing on the Korean issue , '' Kissinger said .
+lift	10	PS+	CT+
+will	2	ps_cue
+########
+11
+He spoke at the opening ceremony of the US_China University Presidents and Think Tank Forum at Columbia University .
+########
+12
+<EOP> .
+########
+13
+Kissinger said conflict between China and the US would be a disaster for each society and for the world at large .
+would	8	ps_cue
+########
+14
+`` As I said before , we do not have this choice , '' Kissinger emphasized .
+not	8	neg_cue
+########
+15
+He said he has visited China more than 100 times since his first visit 46 years ago .
+########
+16
+<EOP> .
+########
+17
+Kissinger said the two nations ' people_to_people exchanges have evolved into an absolute prerequisite for world order .
+########
+18
+<EOP> .
+########
+19
+`` When China and the United States first established its present relationship , the motivation was largely strategic , to conserve securities , '' he said .
+########
+20
+<EOP> .
+########
+21
+`` Today , they might seek a concept not of security but of coevolution , in which two great societies can exist side by side , occasionally pursuing different objectives , but merging them in a common protection of the necessities and the opportunities that are the imperative of our age .
+seek	5	PS+	CT+
+might	4	ps_cue
+not	8	neg_cue
+can	20	ps_cue
+opportunities	43	ps_cue
+########
+22
+<EOP> .
+########
+23
+`` Our challenge is to find a way for American exceptionalism and China 's dreams to produce a new world order for the benefit of all , '' he said .
+########
+24
+<EOP> .
+########
+25
+Kissinger said China is pursuing two centenary goals and all people who have witnessed China 's development in one generation will have no doubt that the country will fulfill its dream .
+will	20	ps_cue
+no	22	neg_cue
+will	27	ps_cue
+########
+26
+<EOP> .
+########
+27
+He said China 's Belt and Road Initiative will have the significance of `` shifting the world center of gravity from the Atlantic to the Pacific .
+will	8	ps_cue
+########
+28
+... That 's why many of us urged the US to join the Asian Infrastructure Investment Bank when it was proposed by China . ''
+proposed	20	ps_cue
+########
+29
+<EOP> .
+########
+30
+Vice_Premier Liu Yandong , speaking at the same forum , expressed appreciation to Kissinger for his contribution to China_US relations .
+########
+31
+<EOP> .
+########
+32
+The key to the relationship is how the two countries ' peoples relate to each other , Liu said .
+########
+33
+<EOP> .
+########
+34
+`` Only by constantly releasing the positive energy of people_to_people and cultural exchanges between China and the US , enhancing the understanding and friendship between the two peoples and consolidating the friendly public opinion foundation of the two countries , can Sino_US relations maintain a long_term , healthy and stable development , '' Liu said .
+can	40	ps_cue
+########
+35
+<EOP> .
+########
+36
+The daylong forum attracted 200 attendees , including presidents and representatives of universities from the two countries and senior US politicians .
+########
+37
+<EOP> .
+########
+38
+Also Tuesday , Liu addressed a China_US cultural forum at the Metropolitan Museum of Art in New York , calling for more cooperation between Chinese and US cultural institutions and artists to promote the development of the ties between the two countries .
+promote	32	CT+	CT+
+########
+39
+<EOP> .
+########
+40
+`` The forum invited more than 40 representatives from distinguished cultural institutions in both China and the US , '' said Luo Shugang , China 's minister of culture , who hosted the event .
+########
+41
+`` It 's the largest cultural dialogue between the two nations . ''
+########
+42
+<EOP> .
+########
+43
+Liu said cultural exchanges are the highlight of the nations ' people_to_people exchanges .
+########
+44
+<EOP> .
+########
+45
+Zhang Ruinan and Xinhua contributed to this story .
+########
+46
+<EOP> .
+########
+47
+Contact the writers at wanglinyan@chinadaily.com.cn <EOP> .
+########

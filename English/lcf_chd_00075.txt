@@ -1,0 +1,18 @@
+Was Parade held in Moscow
+0
+Parade for 2017 World Festival of Youth and Students held in Moscow <EOP> .
+Parade	0	CT+	CT+
+########
+1
+2017_10_15 07:57 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+Members of a dragon dance team attend a parade for the 2017 World Festival of Youth and Students in Moscow , Russia , Oct 14 , 2017 .
+parade	8	CT+	CT+
+########
+4
+LRB Photo_Xinhua RRB <EOP> .
+########

@@ -1,0 +1,157 @@
+Does expert laud economic change
+0
+Expert lauds economic change <EOP> .
+lauds	1	CT+	CT+
+########
+1
+2017_12_27 16:16 <EOP> .
+########
+2
+China Daily USA <EOP> .
+########
+3
+Market forces mentioned in Xi 's remarks noted as a positive sign for what 's ahead <EOP> .
+noted	7	CT+	CT+
+########
+4
+Nicholas Lardy , a senior fellow at the Peterson Institute for International Economics , has observed positive signs on China 's economic front since the 19th National Congress of the Communist Party of China held in Beijing in October .
+observed	15	CT+	CT+
+########
+5
+<EOP> .
+########
+6
+While many observers outside China noted the emphasis on the Party 's role , Lardy pointed out that President Xi Jinping also mentioned the importance of market forces in his speech .
+########
+7
+<EOP> .
+########
+8
+Most observers have focused on the revision of the Party 's Constitution to include some of General Secretary Xi 's thoughts , but Lardy said the Constitution also was revised to enshrine the phrase that the market must be the decisive force in the allocation of resources , which he said goes back to the Third Plenum of the 18th Party Congress in November 2013 .
+########
+9
+<EOP> .
+########
+10
+`` So I am kind of neutral in thinking that maybe there will be more Party control , but also the possibility of the role of market will be expanded , '' he told China Daily .
+maybe	10	ps_cue
+will	12	ps_cue
+possibility	21	ps_cue
+will	27	ps_cue
+########
+11
+<EOP> .
+########
+12
+What we 've seen since the congress is positive , said Lardy , one of the leading US experts on the Chinese economy .
+########
+13
+<EOP> .
+########
+14
+He cited a new direction by the State Council , China 's Cabinet , on the further reform of prices for the few remaining categories that are State controlled and it will be changed and be subject to market forces .
+cited	1	CT+	CT+
+will	31	ps_cue
+########
+15
+<EOP> .
+########
+16
+More than 97 percent of the prices of goods and services in China are determined by market forces , according to the National Development and Reform Commission .
+########
+17
+<EOP> .
+########
+18
+Lardy also took note of the steps taken by the central government weeks ago to provide foreign financial firms more access to the Chinese domestic market in areas such as insurance , banking , asset management and securities .
+took	2	CT+	CT+
+########
+19
+`` So that 's an example of unilateral liberalization by China , '' he said .
+########
+20
+<EOP> .
+########
+21
+Vice_Minister of Finance Zhu Guangyao announced in early November that foreign businesses will be allowed to own as much as a 51 percent stake in joint ventures in the securities , funds and futures industries , up from 49 percent .
+will	12	ps_cue
+########
+22
+<EOP> .
+########
+23
+Lardy also noted that China has been pushing ahead with negotiations on trade liberalization arrangements with many trading partners .
+noted	2	CT+	CT+
+########
+24
+<EOP> .
+########
+25
+In November , China and Chile approved an upgrade of their free_trade agreement .
+########
+26
+China also has been actively pushing forward the Regional Comprehensive Economic Partnership , a free_trade agreement of 10 ASEAN economies and six partners _ China , Japan , South Korea , Australia , New Zealand and India .
+forward	6	ps_cue
+forward	6	neg_cue
+########
+27
+<EOP> .
+########
+28
+`` China is always complicated to figure out .
+########
+29
+It 's always a mix edpicture .
+########
+30
+There are some positive things and there are some negative things , '' Lardy said .
+negative	9	neg_cue
+########
+31
+<EOP> .
+########
+32
+He said those people who anticipated only that there would be no reform but more Party control and a greater State role have to recognize that there has been some positive momentum in the economic domains since the congress .
+said	1	CT+	CT+
+would	9	ps_cue
+no	11	neg_cue
+########
+33
+<EOP> .
+########
+34
+He reiterated that China is moving ahead on trade arrangements , opening_up its domestic market and moving forward in the important domain of domestic price reforms .
+reiterated	1	CT+	CT+
+forward	17	ps_cue
+forward	17	neg_cue
+########
+35
+<EOP> .
+########
+36
+Lardy agreed as some suggested that China should be cautious about liberalizing the financial sector .
+suggested	4	ps_cue
+should	7	ps_cue
+########
+37
+`` I think it 's a step in the right direction , '' he said .
+think	2	CT+	CT+
+########
+38
+<EOP> .
+########
+39
+He pointed out , however , the slow progress of reform in the State_owned enterprises sector , saying these enterprises have absorbed more of China 's investment resources in the past two years .
+########
+40
+<EOP> .
+########
+41
+`` The long_term trend was private firms undertaking a larger share of the investment , but in the last two years that has changed quite dramatically , '' said Lardy , author of Markets Over Mao : The Rise of Private Business in China .
+########
+42
+<EOP> .
+########
+43
+chenweihua@chinadailyusa.com <EOP> .
+########

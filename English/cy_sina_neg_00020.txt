@@ -1,0 +1,95 @@
+Is concern is growing for residents in the most vulnerable areas of Florida evacuated 
+0
+Concern is growing for residents in the most vulnerable areas of Florida who have not yet evacuated , as Hurricane Irma edges closer to making landfall .
+evacuated	16	CT-	CT-
+not	14	neg_cue
+yet	15	neg_cue
+########
+1
+<EOP> .
+########
+2
+Despite authorities begging residents of the Florida Keys to evacuate since Thursday , some have opted to remain .
+evacuate	9	CT+	CT-
+########
+3
+<EOP> .
+########
+4
+The low_lying coral cay islands are scattered off Florida 's southern coast , with a population of 70,000 .
+########
+5
+<EOP> .
+########
+6
+One official warned staying on the islands among storm surge warnings was `` almost like suicide '' .
+like	14	ps_cue
+########
+7
+<EOP> .
+########
+8
+But some Florida Keys locals , known as `` conches '' , have developed a tough attitude to riding storms out .
+########
+9
+<EOP> .
+########
+10
+News on Friday that the county 's first responders and emergency staff could be evacuated to the mainland prompted some to change their mind .
+evacuated	14	CT+	CT-
+could	12	ps_cue
+########
+11
+<EOP> .
+########
+12
+Those opting to stay despite the mandatory evacuation order included the curator and 10 members of staff at Ernest Hemingway 's famous home in Key West .
+evacuation	7	CT+	CT-
+opting	1	ps_cue
+########
+13
+<EOP> .
+########
+14
+The museum is now famous for homing 54 cats , which the curator said would be too difficult to evacuate safely on the gridlocked roads .
+evacuate	19	CT+	CT-
+would	14	ps_cue
+########
+15
+<EOP> .
+########
+16
+With some still opting to remain despite the warnings , Monroe County was forced to announce the opening of four shelters of last resort in the area .
+opting	3	ps_cue
+########
+17
+<EOP> .
+########
+18
+But officials stressed services and supplies would not be provided at the shelters .
+would	6	ps_cue
+not	7	neg_cue
+########
+19
+<EOP> .
+########
+20
+`` Once a dangerous storm starts , do n't dial 911 during it because nobody is going to answer , '' Monroe County Administrator Roman Gastesi said .
+n't	8	neg_cue
+########
+21
+<EOP> .
+########
+22
+With Irma hours away it is unclear how many have opted to stay on the islands .
+unclear	6	ps_cue
+########
+23
+<EOP> .
+########
+24
+The hurricane is on course to reach the islands on Sunday morning .
+########
+25
+<EOP> .
+########

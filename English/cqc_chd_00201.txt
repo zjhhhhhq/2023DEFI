@@ -1,0 +1,75 @@
+Has the Australian admited to being victims 
+0
+One in 5 Australians admits to being victims of online ` image abuse ' : survey <EOP> .
+admits	4	CT+	CT+
+########
+1
+2017_05_08 15:40 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+MELBOURNE _ One in five Australians has admitted to being the subject of online `` image abuse '' , whereby personal photographs _ often of an explicit nature _ are unknowingly shared online , according the results of a survey released on Monday .
+admitted	7	CT+	CT+
+########
+4
+<EOP> .
+########
+5
+The phenomenon is commonly known as `` revenge porn '' in Australia and the survey of 4,274 people aged 16 to 49 , undertaken by Monash University and RMIT University , showed that 22 percent of men and 23 percent of women had been the victim of `` image abuse . ''
+########
+6
+<EOP> .
+########
+7
+According to the survey , the most common types of abuse were having sexual or nude images taken without consent LRB 20 percent RRB , the distribution of images without consent LRB 11 percent RRB and threatening to have images shared LRB 9 percent RRB .
+or	14	ps_cue
+without	18	neg_cue
+without	29	neg_cue
+########
+8
+<EOP> .
+########
+9
+The majority of perpetrators were found to be men LRB 54 percent RRB , while 33 percent of perpetrators were female and 13 percent of cases were either ` unlisted ' or committed by ' a group ' of people .
+either	27	ps_cue
+or	31	ps_cue
+########
+10
+<EOP> .
+########
+11
+Lead investigator , RMIT University 's Dr Nicola Henry , said the research showed that revenge porn was affecting a wider range of people than first thought , adding that authorities were lagging behind in making the practice illegal .
+########
+12
+<EOP> .
+########
+13
+`` Image_based abuse has emerged so rapidly as an issue that inevitably our laws and policies are struggling to catch up , '' Henry said in a statement on Monday .
+########
+14
+<EOP> .
+########
+15
+`` This is n't just about ` revenge porn ' _ images are being used to control , abuse and humiliate people in ways that go well beyond the ` relationship gone sour ' scenario . ''
+n't	3	neg_cue
+########
+16
+<EOP> .
+########
+17
+Colleague , Dr Anastasia Powell said governments needed to `` rethink LRB their RRB approach from a legal perspective '' , while Monash University 's Dr Asher Flynn said it was also likely that the survey 's findings had underestimated the extent of image_based abuse .
+likely	32	ps_cue
+########
+18
+<EOP> .
+########
+19
+`` Our survey only captured those victims who had become aware their images had been distributed , whereas some victims may never discover that their images have been taken and distributed , particularly if they are circulated on sites located on the dark web , '' Flynn said .
+may	20	ps_cue
+never	21	neg_cue
+########
+20
+<EOP> .
+########

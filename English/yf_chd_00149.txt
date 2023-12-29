@@ -1,0 +1,48 @@
+Does China condemn blast in New York City
+0
+China condemns blast in New York City <EOP> .
+blast	2	CT-	CT-
+condemns	1	neg_cue
+########
+1
+2017_12_12 20:12 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+BEIJING _ China on Tuesday condemned the rush_hour explosion in the heart of New York City subway system and sent a message of sympathy to the injured .
+explosion	8	CT-	CT-
+condemned	5	neg_cue
+########
+4
+<EOP> .
+########
+5
+Foreign Ministry spokesperson Lu Kang made the remarks at a daily press briefing .
+########
+6
+<EOP> .
+########
+7
+According to reports , the blast occurred early Monday morning in an underground passageway near Times Square , Manhattan , injuring four people .
+blast	5	CT+	CT-
+########
+8
+New York City Mayor Bill de Blasio said the incident was an attempted terrorist attack and `` thank God the perpetrator did not achieve his ultimate goals . ''
+incident	9	CT+	CT-
+not	22	neg_cue
+########
+9
+<EOP> .
+########
+10
+`` We are aware that the Mayor of New York City has called the incident an attempted terrorist attack , '' Lu said , adding , `` Terrorism is the common enemy of humanity .
+incident	14	CT+	CT-
+########
+11
+China opposes terrorism in all manifestations and urges the international community to strengthen counter_terrorism cooperation . ''
+########
+12
+<EOP> .
+########

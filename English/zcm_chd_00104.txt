@@ -1,0 +1,96 @@
+Did hundreds of demonstrators protest white supremacists violence in Charlottesville of Virginia
+0
+Hundreds rally around US against white supremacists <EOP> .
+against	4	neg_cue
+########
+1
+2017_08_14 11:26 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+<EOP> .
+########
+4
+Demonstrators hold a black American flag in Chicago , US , on Aug 13 , 2017 .
+########
+5
+LRB Photo_VCG RRB <EOP> .
+########
+6
+LOS ANGELES _ Hundreds of demonstrators took to the streets in downtown Los Angeles Sunday afternoon , protesting white supremacists violence in Charlottesville of Virginia the day before .
+protesting	17	CT+	CT+
+########
+7
+<EOP> .
+########
+8
+Holding black placards with words such as `` White Silence _ White Consent '' and `` No !
+No	16	neg_cue
+########
+9
+Drive out Trump_Pence regime !
+########
+10
+, '' the demonstrators gathered outside of city hall to condemn racism and violent incidents occurred in Charlottesville Saturday , in which 3 people were killed and about twenty injured .
+condemn	10	CT+	CT+
+########
+11
+<EOP> .
+########
+12
+The rally was launched by Refuse Fascism Organization , a New York based activist group who has dozens offices all around the country .
+########
+13
+<EOP> .
+########
+14
+Michael , a young African_American girl of the organization , delivered a speech on stairs to the front door of city hall , calling on people to take action fighting against KKK and fascism in the United States .
+against	30	neg_cue
+########
+15
+<EOP> .
+########
+16
+`` We are standing against fascism , we are standing with people all of the world , we should give our hands to ourselves . ''
+against	4	neg_cue
+should	18	ps_cue
+########
+17
+her words were echoed by applauds .
+########
+18
+<EOP> .
+########
+19
+`` I am here today to stand solidarity with peace movement and everyone who opposes racism , white supremacy and all the thing that is not neither KKK or our president stand for . ''
+not	25	neg_cue
+neither	26	neg_cue
+or	28	ps_cue
+########
+20
+Jeff Share , a middle age demonstrator told Xinhua .
+########
+21
+<EOP> .
+########
+22
+He said things happened in Charlottesville was ridiculous as a peaceful demonstration turned to be a violent and fatal attack , so that American people should speak out against violence and white supremacy .
+should	25	ps_cue
+against	28	neg_cue
+########
+23
+<EOP> .
+########
+24
+`` Some people there voiced hatred , it 's not ok . ''
+not	9	neg_cue
+########
+25
+he said , `` we have a raw problem in the country with people supporting and promoting violence and discrimination racism , it 's not ok . ''
+not	24	neg_cue
+########
+26
+<EOP> .
+########

@@ -1,0 +1,112 @@
+Do mudslides kill more than 200
+0
+Mudslides kill more than 200 , sweep homes away <EOP> .
+Mudslides	0	CT+	CT+
+########
+1
+2017_04_03 03:06 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+<EOP> .
+########
+4
+Soldiers and residents work together in rescue efforts in Mocoa , Colombia , on Saturday after an avalanche of water and mud from an overflowing river swept through the city as people slept .
+########
+5
+AP <EOP> .
+########
+6
+MOCOA , Colombia -- Rescuers clawed through piles of mud and twisted debris on Sunday searching for survivors after violent mudslides destroyed homes in southern Colombia , killing more than 200 people and injuring hundreds more .
+mudslides	20	CT+	CT+
+########
+7
+<EOP> .
+########
+8
+They were the latest victims of deadly floods and mudslides that have struck the Pacific side of South America over recent months , also killing scores of people in Peru and Ecuador .
+mudslides	9	CT+	CT+
+########
+9
+<EOP> .
+########
+10
+In the southwestern Colombian town of Mocoa , a sudden surge of mud and water swept away homes , bridges , vehicles and trees , leaving piles of wrecked timber buried in thick mud .
+########
+11
+<EOP> .
+########
+12
+The mudslides slammed Mocoa on Friday after days of torrential rain in the Amazon basin area town of 40,000 .
+mudslides	1	CT+	CT+
+########
+13
+<EOP> .
+########
+14
+The latest information showed that there are 234 people confirmed dead , 202 injured and more than 100 people missing , according to the Colombian Red Cross .
+missing	19	neg_cue
+########
+15
+<EOP> .
+########
+16
+On Sunday , President Juan Manuel Santos returned with Cabinet ministers to Mocoa , the capital of the Putumayo Department , to supervise rescue efforts in the heavily forested region .
+########
+17
+<EOP> .
+########
+18
+Santos met with rescuers and survivors in Mocoa on Saturday and declared a public health and safety emergency to speed up rescue and aid operations .
+########
+19
+<EOP> .
+########
+20
+`` Dear God , I do n't want to even remember that , '' said street vendor Marta Ceballos , who survived the mudslide .
+n't	6	neg_cue
+########
+21
+<EOP> .
+########
+22
+`` To see how some people screamed , and others cried , ran , tried to flee in cars , on motorcycles , and how they were trapped in the mud .
+########
+23
+It 's all too , too difficult , '' she said .
+########
+24
+<EOP> .
+########
+25
+Ceballos said that she lost all of her possessions .
+########
+26
+`` The only things I fortunately did not lose were my husband , my daughters and my nephews , '' she said .
+not	7	neg_cue
+########
+27
+<EOP> .
+########
+28
+Meanwhile , 1,000 emergency personnel , including soldiers and local police , were helping the rescue effort .
+########
+29
+Mocoa was left without power or running water , and there were reports of people looting stores in search of bottled water .
+without	3	neg_cue
+or	5	ps_cue
+########
+30
+<EOP> .
+########
+31
+`` There are lots of people in the streets , lots of people displaced , and many houses have collapsed , '' retired Mocoa resident Hernando Rodriguez , 69 , said by telephone .
+########
+32
+<EOP> .
+########
+33
+Xinhua -- AFP <EOP> .
+########

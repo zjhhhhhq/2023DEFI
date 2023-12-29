@@ -1,0 +1,105 @@
+Does tree fall on Portugal 's Madeira Island
+0
+Tree falls on Portugal 's Madeira Island , killing 13 <EOP> .
+########
+1
+2017_08_16 10:11 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+<EOP> .
+########
+4
+Rescuers work at the site where a 200_year_old oak tree collapsed during a religious procession on the Portuguese island of Madeira , Portugal , on Aug 15 , 2017 .
+########
+5
+LRB Photo_Xinhua RRB <EOP> .
+########
+6
+LISBON _ Thirteen people are now confirmed dead and 49 others injured after a large tree collapsed on the Portuguese island of Madeira around midday Tuesday , local media reported .
+########
+7
+<EOP> .
+########
+8
+The incident occurred in the Largo da Fonte square in the Monte neighborhood of Funchal , capital of the autonomous region of Madeira , as crowds assembled for the Our Lady of the Mount religious procession .
+########
+9
+<EOP> .
+########
+10
+Ten people were killed instantly and a further three died in hospital .
+########
+11
+One child is confirmed to be among the dead and six of the injured are said to be in a serious condition .
+########
+12
+<EOP> .
+########
+13
+Regional Secretary of Health , Pedro Ramos , has confirmed that five people of German , French , Dutch and Hungarian nationals are among those injured .
+########
+14
+<EOP> .
+########
+15
+It is not yet known why the tree fell .
+fell	8	CT-	CT-
+not	2	neg_cue
+yet	3	neg_cue
+########
+16
+President of the Regional Government , Miguel Albuquerque , refused to be drawn on speculation that the tree was in a poor state of repair or whether another tree fell three months ago .
+fell	29	Uu	CT-
+refused	9	neg_cue
+speculation	14	ps_cue
+or	25	ps_cue
+whether	26	ps_cue
+########
+17
+He said that the priority for the moment was to support the injured and the families of the victims , and he declared three days of mourning throughout the region , starting on Wednesday .
+########
+18
+<EOP> .
+########
+19
+Locals told the Portuguese Lusa News Agency that the tree , a 200_year_old oak , had been tied back with metal wire for the past two years , but not tied to anything , and that the trunk was hollow .
+not	29	neg_cue
+########
+20
+<EOP> .
+########
+21
+The Funchal Town Hall has confirmed that specialists will examine the scene of the tragedy Wednesday and seek to establish a cause , working in conjunction with the Institute of Agronomy .
+will	8	ps_cue
+########
+22
+A source at the Atorney General 's Office informed Lusa that the public prosecution service has setup an inquest .
+########
+23
+<EOP> .
+########
+24
+Portuguese Prime Minister Antonio Costa expressed his condolences to the victims and President Marcelo Rebola de Sousa flew straight to the island .
+########
+25
+`` What has happened has shocked me .
+########
+26
+I really felt it .
+########
+27
+There 's a need to show support to the people of Madeira , '' he said .
+need	3	ps_cue
+########
+28
+<EOP> .
+########
+29
+`` At this moment , a moment of pain , what 's important is to show solidarity , offer comfort and be with those who are suffering , '' he added .
+########
+30
+<EOP> .
+########

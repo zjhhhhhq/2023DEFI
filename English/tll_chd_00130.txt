@@ -1,0 +1,127 @@
+Does China Medical City build on AstraZenica success with new UK incubator
+0
+China Medical City builds on AstraZenica success with new UK incubator <EOP> .
+builds	3	CT+	CT+
+########
+1
+2017_05_17 23:56 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+China Medical City is aiming to build on its success with drug giant AstraZeneca by opening an office in London on Wednesday .
+build	6	CT+	CT+
+########
+4
+<EOP> .
+########
+5
+The Taizhou_based life science incubator hosts laboratories , infrastructure , and a dedicated team to aid companies on seeking regulatory approval for their products in China .
+seeking	18	ps_cue
+########
+6
+<EOP> .
+########
+7
+Its London venture will initially provide more limited services to the pharmaceutical and medical industry .
+will	3	ps_cue
+########
+8
+<EOP> .
+########
+9
+Huang Bin , vice_president of AstraZeneca China , which built a $ 230 million factory inside the Medical City , said the company was attracted by CMC 's partnership with China 's drug regulating agencies , which helped the company 's drugs get approved in China .
+########
+10
+<EOP> .
+########
+11
+To attract more British companies such as AstraZeneca , CMC launched its UK incubator in London .
+########
+12
+It is CMC 's third overseas incubator , after openings in the US and Germany earlier this year .
+########
+13
+<EOP> .
+########
+14
+But unlike its 30 square kilometers Taizhou laboratory_dominated facility , CMC 's central London incubator is just a regular office for meetings between Chinese and British life science companies , regulators and investors .
+########
+15
+<EOP> .
+########
+16
+`` The UK has unparalleled cutting edge life science technology , highly complementary to China 's commercialization and production strength and massive domestic market , '' said Luke Zhou , director of CMC_UK Incubator .
+########
+17
+<EOP> .
+########
+18
+Built in 2010 , CMC hosts around 700 pharmaceutical and life science companies , such as AstraZeneca , Japan 's Takeda and Germany 's Boehringer_Ingelheim .
+########
+19
+<EOP> .
+########
+20
+Zhou said CMC 's key attraction to UK life science companies is its existing collaboration with Chinese regulators , including the Ministry of Health , the China Food and Drug Administration and the State Administration of Traditional Chinese Medicine .
+########
+21
+<EOP> .
+########
+22
+CMC_UK Incubator 's establishment comes at a time of strong UK China life science collaboration .
+########
+23
+<EOP> .
+########
+24
+Last December 11 China_UK healthcare deals with a total value exceeding 250 million pounds LRB $ 323 million ; 300 million euros RRB were signed in Shanghai during British Secretary of State for Health Jeremy Hunt 's visit .
+########
+25
+In February this year British Minister for Asia and the Pacific Alok Sharma led a delegation of UK healthcare companies to showcase technology across China .
+########
+26
+<EOP> .
+########
+27
+Despite flourishing opportunities , CMC also faces strong competition from many of China 's other science parks and incubators .
+opportunities	2	ps_cue
+########
+28
+Suzhou Industrial Park , for example , hosts Britain 's renowned medical equipment maker Smith and Nephew and pharmaceutical company GlaxoSmithKline .
+########
+29
+<EOP> .
+########
+30
+Perhaps what makes CMC more attractive is its `` established ecosystem , including its collection of life science companies and talents '' , said Will Addison , founder of London_based Apta Biosciences .
+########
+31
+<EOP> .
+########
+32
+`` We want to first enter China by finding a good partner , and hopefully we can do it at CMC , '' said Addison , who just returned from a visit to CMC .
+can	16	ps_cue
+########
+33
+<EOP> .
+########
+34
+However , CMC 's lack of a UK_based lab could restrict potential partnerships , said Peter Crane , development officer of the Oxford_based accelerator Innovation Forum .
+lack	4	neg_cue
+could	9	ps_cue
+potential	11	ps_cue
+########
+35
+<EOP> .
+########
+36
+`` Some life science companies may wish to keep their core research and development team together , so CMC could improve their value proposition if they have a physical lab space in the UK where British companies can work with Chinese investors and partners who come to the UK , '' Crane said .
+may	5	ps_cue
+could	19	ps_cue
+can	37	ps_cue
+########
+37
+<EOP> .
+########

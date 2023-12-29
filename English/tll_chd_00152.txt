@@ -1,0 +1,125 @@
+Will Merkel and Macron deeper EU integration 
+0
+Merkel and Macron agree to draw up roadmap to deeper EU integration <EOP> .
+deeper	9	CT+	CT+
+########
+1
+2017_05_16 09:41 <EOP> .
+########
+2
+null <EOP> .
+########
+3
+German Chancellor Angela Merkel and French President Emmanuel Macron shake hands after a news conference at the Chancellery in Berlin , Germany , May 15 , 2017 .
+May	23	ps_cue
+########
+4
+LRB Photo_Agencies RRB <EOP> .
+########
+5
+BERLIN _ German Chancellor Angela Merkel and new French President Emmanuel Macron agreed on Monday to draw up a roadmap to deeper European Union integration and opened the door to changing the bloc 's treaties to facilitate ambitious reform .
+deeper	21	CT+	CT+
+########
+6
+<EOP> .
+########
+7
+A day after Macron 's inauguration , the two leaders struck a consensual tone in Berlin after talks in which they sought to reinvigorate the Franco_German relationship and the European project that has been shaken by Britain 's planned exit .
+planned	38	ps_cue
+########
+8
+<EOP> .
+########
+9
+The run_up to the meeting had been marked by a row among senior German politicians over how to respond to Macron 's calls for closer EU integration , with some concerned that Berlin would be asked to pay for struggling states that resist reforms .
+closer	24	CT+	CT+
+would	33	ps_cue
+########
+10
+<EOP> .
+########
+11
+Merkel said that Germany needs France to succeed , emphasising that `` Europe will only do well if there is a strong France '' .
+needs	4	ps_cue
+will	13	ps_cue
+########
+12
+<EOP> .
+########
+13
+`` We agreed that we want to develop a road map for the European Union 's medium_term perspectives , '' she said in a joint news conference with Macron .
+########
+14
+<EOP> .
+########
+15
+`` There is a common conviction that we can not only deal with Britain 's exit LRB from the EU RRB , but instead that we must above all think about how we can deepen the existing European Union and especially the euro zone . ''
+can	8	ps_cue
+not	9	neg_cue
+instead	23	neg_cue
+can	33	ps_cue
+########
+16
+<EOP> .
+########
+17
+With Germany 's economy __ Europe 's largest __ outperforming that of France , the traditional Franco_German motor at the heart of the EU that has often misfired in recent years .
+########
+18
+Monday 's meeting was an effort to inject some dynamism into the partnership .
+########
+19
+<EOP> .
+########
+20
+Crucially , both leaders said they were open to the idea of changing the EU 's treaties .
+########
+21
+<EOP> .
+########
+22
+German Finance Minister Wolfgang Schaeuble , an arch conservative who has come to personify Berlin 's focus on fiscal rectitude , had suggested that Macron 's idea of creating a budget and finance minister for the euro zone was unrealistic because it would require politically thorny changes to the EU treaty .
+suggested	22	ps_cue
+would	42	ps_cue
+########
+23
+<EOP> .
+########
+24
+But both leaders said they could tackle treaty change .
+could	5	ps_cue
+########
+25
+<EOP> .
+########
+26
+`` In the past , the subject of treaty change was a French taboo .
+########
+27
+It will no longer be the case , '' said the French president , who earlier arrived at the chancellery to cheers from a crowd chanting `` Macron !
+will	1	ps_cue
+no	2	neg_cue
+########
+28
+Macron ! ''
+########
+29
+and waving European flags .
+########
+30
+<EOP> .
+########
+31
+Merkel said that , from Germany 's viewpoint , treaty change would be possible , adding : `` I would be ready to do this , but first we will work on what we want to reform . ''
+would	11	ps_cue
+possible	13	ps_cue
+would	19	ps_cue
+ready	21	ps_cue
+will	29	ps_cue
+########
+32
+<EOP> .
+########
+33
+Reuters <EOP> .
+########

@@ -1,0 +1,111 @@
+Will the Belgrade_Budapest railway open
+0
+Belgrade_Budapest railway construction starts <EOP> .
+########
+1
+2017_11_29 10:47 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+BELGRADE _ Work to modernize and reconstruct the Belgrade_Stara Pazova segment of Belgrade_Budapest Railway started on Tuesday .
+########
+4
+<EOP> .
+########
+5
+The 34.5 km_long segment , the railway 's first part to start construction , is expected to be completed in three years .
+railway	6	PS+	PS+
+expected	15	ps_cue
+########
+6
+<EOP> .
+########
+7
+The segment in Serbia , with an investment of 350 million US dollars , was kicked off at a ceremony at Zemun railway station in Belgrade by Serbian Prime Minister Ana Brnabic , Minister of Construction , Transportation and Infrastructure Zorana Mihajlovic , and Wang Xiaotao , deputy director of the National Development and Reform Commission of China .
+########
+8
+<EOP> .
+########
+9
+The railway linking Budapest with Belgrade is the first cross_border project jointly realized by Serbia , Hungary and China within the framework of the cooperation between China and the Central and Eastern European Countries LRB CEEC RRB , said Brnabic .
+railway	1	CT+	PS+
+########
+10
+<EOP> .
+########
+11
+It has a total length of 350 km , with 184 km in Serbia .
+########
+12
+It is designed for electrified passenger and cargo trains with a maximum speed of 200 km per hour .
+########
+13
+<EOP> .
+########
+14
+Brnabic said that Serbia had the most projects among the regional participants of the Belt and Road Initiative and the 16 +1 cooperation format between China and the CEEC .
+########
+15
+<EOP> .
+########
+16
+`` Project Belgrade_Budapest implies that Serbia is developing in a smart and a strategic way , '' Brnabic added .
+########
+17
+<EOP> .
+########
+18
+`` Our wish is to attract people to use trains , as well as those who transport cargoes across Serbia , '' Mihajlovic said , noting that with this project Serbia has truly become a part of the Belt and Road Initiative .
+########
+19
+<EOP> .
+########
+20
+Yang Zhongmin , chairman of state_owned China Railway International Company Ltd. , said that the railway was a leading project in the 16 +1 cooperation format and an example of the comprehensive strategic cooperation between China and Serbia .
+########
+21
+<EOP> .
+########
+22
+Yang said the Chinese companies will fulfill their obligations concerning procedures , employment and environment , and adhere to Serbian regulations .
+will	5	ps_cue
+########
+23
+<EOP> .
+########
+24
+`` We are looking forward to the opening of Belgrade_Budapest railway __ the day when we will together with the people of Serbia enjoy the fruits of the development of Serbia_China cooperation , '' Yang said .
+railway	10	CT+	PS+
+forward	4	ps_cue
+forward	4	neg_cue
+will	16	ps_cue
+########
+25
+<EOP> .
+########
+26
+Wang said that since the project to modernize the Belgrade_Budapest railway was initially agreed on at the 2013 China_CEEC leaders ' meeting in Bucharest , China and Serbia have carried out close cooperation .
+########
+27
+<EOP> .
+########
+28
+`` I hope workers from the two countries will work devotedly and complete the project with high quality , to make the Belgrade_Budapest railway a road of friendship , cooperation and development and to become a new milestone of China_Serbia friendship , '' Wang said .
+railway	23	CT+	PS+
+hope	2	ps_cue
+will	8	ps_cue
+########
+29
+<EOP> .
+########
+30
+<EOP> .
+########
+31
+<EOP> .
+########
+32
+<EOP> .
+########

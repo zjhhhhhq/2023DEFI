@@ -1,0 +1,158 @@
+Do the Beijinger search for tips on how to adjust to his new environment
+0
+Beijinger 's book a primer on coping at US schools <EOP> .
+########
+1
+2017_12_21 12:03 <EOP> .
+########
+2
+China Daily USA <EOP> .
+########
+3
+Before Wang Fengyuan packed for boarding school in the US , the Beijinger searched everywhere without success for tips on how to adjust to his new environment .
+tips	18	CT-	CT+
+without	15	neg_cue
+########
+4
+<EOP> .
+########
+5
+So he decided to address the issue himself for future pupils .
+########
+6
+<EOP> .
+########
+7
+The result is The Zeal in Youth : A Boy From China in America , a 400_page book in English and Chinese .
+########
+8
+<EOP> .
+########
+9
+Wang spoke about the book and his American school experiences at a launch party for the book on Wednesday at the Harvard Club in New York .
+########
+10
+<EOP> .
+########
+11
+`` From my observation , not only me , also many of my friends , have issues similar to mine , ranging from loneliness to linguistic and cultural barriers , '' said the now 17_year_old , who also goes by the name Lincoln .
+not	5	neg_cue
+########
+12
+<EOP> .
+########
+13
+Wang recalled that before he went abroad , he tried to look for books to prepare for life in America .
+########
+14
+<EOP> .
+########
+15
+`` I searched online , I searched in popular bookstores , but I could n't find one book that illustrated experiences at American middle schools , '' he said .
+could	13	ps_cue
+n't	14	neg_cue
+########
+16
+<EOP> .
+########
+17
+`` So the purpose of my book is to share the problems I faced , the troubles I went through , and the lessons I learned , in order to give my readers reference , '' he said .
+lessons	23	CT+	CT+
+reference	33	CT+	CT+
+########
+18
+<EOP> .
+########
+19
+According to the US Department of Homeland Security , in 2015 , the number of Chinese studying at K_12 schools in the US tripled to more than 34,500 over a five_year period .
+########
+20
+<EOP> .
+########
+21
+Wang said that as more Chinese parents send their children to study in the US at younger ages , he believes many if not most of them will face issues similar to what he did .
+not	23	neg_cue
+will	27	ps_cue
+########
+22
+<EOP> .
+########
+23
+Wang said the book reflects his actual experiences _ it contains homework assignments , comments from his teachers , his grades of three years , `` including the awful grades from my first and second year '' , Wang said with a chuckle , and some of his high school_application essays .
+########
+24
+<EOP> .
+########
+25
+`` I did not hold anything back or make anything up .
+not	3	neg_cue
+or	7	ps_cue
+########
+26
+I hope that the information will be a useful reference for my readers , '' he said .
+reference	9	PS+	CT+
+hope	1	ps_cue
+will	5	ps_cue
+########
+27
+<EOP> .
+########
+28
+Arriving in a strange land as a shy boy , Wang tried to embrace what the country and the school had to offer .
+########
+29
+<EOP> .
+########
+30
+He attempted to master the English language ; he strove to achieve at high levels in his course of study ; he rowed on the crew team , played on the football team and was elected captain of the wrestling team .
+########
+31
+<EOP> .
+########
+32
+`` No longer a shy , young boy , he left us as an accomplished young man , '' wrote David B. Stettler , headmaster of The Fessenden School in West Newton , Massachusetts , where Wang spent three years , in a congratulatory letter .
+No	1	neg_cue
+########
+33
+<EOP> .
+########
+34
+`` Lincoln 's story shares a valuable lesson for anyone considering an opportunity to go to school in another part of the world .
+lesson	7	CT+	CT+
+########
+35
+Embrace the experience ; engage in the unfamiliar ; try new things ; do n't give up ; do n't be afraid to fail _ embark on ` The Zeal in Youth , ' '' Stettler wrote in the book 's preface .
+n't	14	neg_cue
+n't	19	neg_cue
+fail	23	neg_cue
+########
+36
+<EOP> .
+########
+37
+The Fessenden School , founded in 1903 , is an independent boys ' boarding and day school for pre_kindergarten through ninth grade .
+########
+38
+<EOP> .
+########
+39
+China remained the overseas country with most students in US universities in 2016_2017 academic year , according to a recent report by the Institute of International Education , a US nonprofit organization , in partnership with the US Department of State 's Bureau of Educational and Cultural Affairs .
+########
+40
+<EOP> .
+########
+41
+A total of 350,755 Chinese students were enrolled at US institutions of higher education in the academic year , up 6.8 percent , keeping China in the top slot for the eighth year in a row .
+########
+42
+Chinese students make up 32.5 percent of all international students in the United States .
+########
+43
+<EOP> .
+########
+44
+xiaohong@chinadailyusa.com <EOP> .
+########
+45
+LRB China Daily USA 12_21_2017 page2 RRB <EOP> .
+########

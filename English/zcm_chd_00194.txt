@@ -1,0 +1,90 @@
+Will Supreme Court Justice Edson Fachin postpone the president 's written interrogation by police
+0
+Brazil 's president seeks to postpone interrogation by police <EOP> .
+seeks	3	ps_cue
+########
+1
+2017_06_01 09:48 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+<EOP> .
+########
+4
+Brazil 's President Michel Temer gestures during a inauguration ceremony of the new Minister of Justice , Torquato Jardim , at the Planalto Palace , in Brasilia , Brazil May 31 , 2017 .
+May	29	ps_cue
+########
+5
+LRB Photo_Agencies RRB <EOP> .
+########
+6
+RIO DE JANEIRO _ The defense team of Brazil 's President Michel Temer on Wednesday asked Supreme Court Justice Edson Fachin to postpone the president 's written interrogation by police .
+postpone	22	CT+	CT+
+########
+7
+<EOP> .
+########
+8
+The request argued that the interrogation , which is scheduled to happen within ten days , should be postponed until the police has finished analyzing the recording .
+postponed	18	CT+	CT+
+scheduled	9	ps_cue
+should	16	ps_cue
+postponed	18	neg_cue
+########
+9
+<EOP> .
+########
+10
+Temer has said that the tape has been doctored and that he has done nothing wrong .
+nothing	14	neg_cue
+########
+11
+<EOP> .
+########
+12
+This is the second time Temer 's lawyers sought to postpone the interrogation , since the Supreme Court opened an investigation against the president for passive corruption , obstruction of justice and illicit association .
+against	21	neg_cue
+########
+13
+<EOP> .
+########
+14
+On Tuesday , Fachin gave the federal police ten days to send a written interrogation to Temer , which the president must respond to within 24 hours .
+gave	4	neg_cue
+########
+15
+<EOP> .
+########
+16
+<EOP> .
+########
+17
+<EOP> .
+########
+18
+The defense team also requested Fachin , if he insists the interrogation should go ahead , should veto any police question into the Batista recording , whose validity is under question by Temer .
+should	12	ps_cue
+should	16	ps_cue
+question	20	ps_cue
+question	30	ps_cue
+########
+19
+<EOP> .
+########
+20
+`` The very content of the evidence orchestrated by the entrepreneur LRB Batista RRB was clearly manipulated , '' sustained the defense team .
+########
+21
+<EOP> .
+########
+22
+The recording of a conversation between Temer and Batista lasts around 40 minutes and has the two men discussing politics and economics , before addressing the bribing of former Speaker Eduardo Cunha to buy him silence .
+########
+23
+Cunha was jailed for 15 years for his involvement in the Petrobras corruption ring .
+########
+24
+<EOP> .
+########

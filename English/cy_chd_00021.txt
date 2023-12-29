@@ -1,0 +1,216 @@
+Does United Airlines passenger incident spark boycott in China
+0
+United Airlines passenger incident sparks boycott in China <EOP> .
+boycott	5	CT+	CT+
+########
+1
+2017_04_11 15:59 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+<EOP> .
+########
+4
+A video showing a man being violently dragged off an overbooked United Airlines flight on Sunday has led to an uproar on social media .
+uproar	20	CT+	CT+
+########
+5
+<EOP> .
+########
+6
+Just a few weeks after the United Airlines received a backlash for banning two girls wearing leggings , the airline made headlines in both the United States and China after the video was posted online by another passenger .
+banning	12	neg_cue
+########
+7
+<EOP> .
+########
+8
+The footage captures aviation officers forcibly pulling a 69_year_old male from a window seat on flight 3411 .
+########
+9
+<EOP> .
+########
+10
+The scene occurred just before the aircraft was about to take off from the Chicago O'Hare International Airport , headed to Louisville .
+########
+11
+<EOP> .
+########
+12
+The man , only known as a doctor , had a bleeding mouth and was mumbling in the video .
+########
+13
+Cries for help from other passengers could also be heard .
+could	6	ps_cue
+########
+14
+<EOP> .
+########
+15
+<EOP> .
+########
+16
+A 69_year_old male who was violently dragged off a United Airlines flight is seen a video clip .
+########
+17
+LRB Photo_Twitter RRB <EOP> .
+########
+18
+United Airlines confirmed airline employees were trying to make room for four employees of a partner airline .
+########
+19
+<EOP> .
+########
+20
+According to an unidentifiable witness , the company firstly offered $ 400 vouchers , which was then increased to $ 800 , and free accommodation at a nearby hotel to passengers willing to give up their seats on the overbooked flight .
+willing	31	ps_cue
+########
+21
+<EOP> .
+########
+22
+After many passengers refused , airline staff automatically picked four passengers to be removed .
+refused	3	neg_cue
+########
+23
+<EOP> .
+########
+24
+The elderly doctor , who had Asian facial features , refused to leave and said he had to work at a hospital the next day .
+refused	10	neg_cue
+########
+25
+<EOP> .
+########
+26
+The US Department of Transportation has already started investigations into the matter .
+########
+27
+<EOP> .
+########
+28
+Since the incident , one of the Chicago Department of Aviation security officers , involved in the scenario , has been placed on paid leave .
+########
+29
+<EOP> .
+########
+30
+The incident has attracted a lot of attention from Chinese media , including People 's Daily , which published the video on Sina Weibo .
+########
+31
+<EOP> .
+########
+32
+Attention has since continued to rise on the Chinese social media platform , and the United Airlines situation was rated the most popular topic on Tuesday .
+########
+33
+<EOP> .
+########
+34
+Among the ever increasing comments was Joe Wong , a Chinese American comedian who shot to fame after making appearances on the David Letterman and Ellen Degeneres shows .
+########
+35
+<EOP> .
+########
+36
+Wong called for 2.6 million followers on Weibo to sign a petition for boycotting the airline .
+########
+37
+Some Weibo users responded , stating they would never fly with the airline again .
+would	7	ps_cue
+never	8	neg_cue
+########
+38
+<EOP> .
+########
+39
+The latest incident also prompted reminiscence of bad customer service experiences .
+########
+40
+<EOP> .
+########
+41
+A Weibo user recalled an experience of how staff at the Untied Airlines refused to apologize for misplacing her luggage , which was lost at an airport in Chicago .
+refused	13	neg_cue
+########
+42
+<EOP> .
+########
+43
+`` Since the incident , the United Airlines is on my no_fly list , '' she said .
+########
+44
+<EOP> .
+########
+45
+<EOP> .
+########
+46
+If the boycott of flights continues , business for the United Airlines could stumble in the Chinese market _ a market where the airline has made strides in recent years .
+boycott	2	CT+	CT+
+could	12	ps_cue
+########
+47
+Last year the market_savvy carrier added two direct flights to its already busy China_US air routes : Xi'an _ Hangzhou_San Francisco .
+########
+48
+<EOP> .
+########
+49
+The airline 's move to apologize has since been closely watched by many online users in China .
+########
+50
+<EOP> .
+########
+51
+Oscar Munoz , the CEO of United Airlines ' parent company , defended the actions of United Airline staff in a letter to employees , after first writing a statement .
+########
+52
+<EOP> .
+########
+53
+Munoz said he was `` upset to see and hear about what happened '' at O'Hare .
+########
+54
+<EOP> .
+########
+55
+He then added the man was dragged off the plane because he ignored requests by crew members to leave , and became `` disruptive and belligerent '' .
+########
+56
+<EOP> .
+########
+57
+`` Our employees followed established procedures for dealing with situations like this , '' he said to employees of United Airlines .
+like	10	ps_cue
+########
+58
+<EOP> .
+########
+59
+`` While I deeply regret this situation arose , I also emphatically stand behind all of you . ''
+########
+60
+<EOP> .
+########
+61
+After the letter went public , online outrage escalated on Weibo and many users cited his response to the incident as having a bad attitude .
+outrage	7	CT+	CT+
+########
+62
+<EOP> .
+########
+63
+At the other side of Pacific , a similar reaction emerged on Twitter , which has been flooded with a mixture of anger and mockery .
+########
+64
+<EOP> .
+########
+65
+<EOP> .
+########
+66
+<EOP> .
+########

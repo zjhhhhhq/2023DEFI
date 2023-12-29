@@ -1,0 +1,173 @@
+Does Probe haunt relations between Russia , US in 2018
+0
+Probe to haunt relations between Russia , US in 2018 <EOP> .
+########
+1
+2017_12_27 13:35 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+Despite the personal chemistry between Russian and US presidents and their pledges to revive ties , Russia_US relations have hardly advanced in 2017 thanks to the ongoing probe of Russian interference in the US presidential election last year , in combination with other factors .
+relations	17	CT-	CT-
+hardly	19	neg_cue
+########
+4
+<EOP> .
+########
+5
+According to experts , the so_called `` Russiagate '' probe , believed to be the top issue weighing on Moscow_Washington interactions this year , will continue to overshadow ties in 2018 .
+believed	11	ps_cue
+will	24	ps_cue
+########
+6
+<EOP> .
+########
+7
+Investigations started in June 2016 after accusations piled up against Russia over its `` influence campaign '' and alleged mail hacking aiming to interfere with the US election .
+against	9	neg_cue
+########
+8
+<EOP> .
+########
+9
+The campaign team of US President Donald Trump was arraigned on its suspected link with Russia for the final win in the election .
+suspected	12	ps_cue
+########
+10
+Trump 's inner sanctum members like his eldest son and son_in_law were also interviewed as part of congressional probes .
+like	5	ps_cue
+########
+11
+<EOP> .
+########
+12
+It seemed the turning point came after former Federal Bureau of Investigation director Robert Mueller 's appointment in May as special counsel to oversee the investigation into Russian election interference and related matters .
+seemed	1	ps_cue
+May	18	ps_cue
+########
+13
+<EOP> .
+########
+14
+In October , Mueller 's office charged Trump 's former campaign manager Paul Manafort , Manafort 's deputy Rick Gates , and campaign adviser George Papadopoulos with lying to the FBI .
+########
+15
+While Manafort and Gates pleaded innocent , Papadopoulos admitted the charges .
+########
+16
+<EOP> .
+########
+17
+On Dec 1 , former US National Security Adviser Michael Flynn pleaded guilty of lying to the FBI regarding improper contacts with Russian officials , becoming the first member of the Trump_led administration to be found guilty in the ongoing probe into alleged collusion between Trump 's campaign team and Russia .
+########
+18
+<EOP> .
+########
+19
+`` Mueller 's investigation has certainly unsettled the White House as he has been able to bring charges against several key players － including Paul Manafort and Michael Flynn , '' said Dan Mahaffee , senior vice_president and director of policy at the Center for the Study of Congress and the Presidency , a Washington_based think tank .
+against	18	neg_cue
+########
+20
+<EOP> .
+########
+21
+Political crisis <EOP> .
+########
+22
+`` The White House has cooperated with the investigation , yet at the same time President Trump and many in the conservative media have sought to delegitimize the investigation .
+yet	10	neg_cue
+########
+23
+Any action against Mueller would likely trigger a major constitutional and political crisis , so it will be something to continue to watch closely in 2018 , '' Mahaffee said .
+against	2	neg_cue
+would	4	ps_cue
+likely	5	ps_cue
+will	16	ps_cue
+########
+24
+<EOP> .
+########
+25
+The so_called Russian intervention in US politics also led to the two countries ' mutual expulsion of diplomats and banning media organizations .
+banning	19	neg_cue
+########
+26
+<EOP> .
+########
+27
+Besides the Russia probe , experts from both countries suggested Russian_US relations will suffer as their interests are irreconcilable .
+suggested	9	ps_cue
+will	12	ps_cue
+########
+28
+<EOP> .
+########
+29
+The disagreements between the two countries are `` intractable '' , said a report published in November gathering views of scholars from the Washington_based think tank Center for Strategic and International Studies and the Russian International Affairs Council .
+########
+30
+<EOP> .
+########
+31
+They also thought Russia and the US are not likely to emerge as close partners , as the two perceive threats in each other 's policies and actions .
+not	8	neg_cue
+likely	9	ps_cue
+########
+32
+<EOP> .
+########
+33
+According to Andrei Suzdaltsev , a Russian expert , Moscow now practically has no `` freedom of maneuver '' regarding diplomatic interaction with Washington , which offered preconditions that `` are certainly unacceptable for Russia , like abandoning Crimea '' .
+no	13	neg_cue
+unacceptable	32	neg_cue
+like	36	ps_cue
+########
+34
+<EOP> .
+########
+35
+`` The US is still demonstrating such , I would say , an ` indulgently colonial ' approach , which leaves us without a possibility to maneuver , '' said Suzdaltsev , deputy dean of the Faculty of World Economy and Politics of Russia 's Higher School of Economics Research University .
+would	9	ps_cue
+without	22	neg_cue
+possibility	24	ps_cue
+########
+36
+<EOP> .
+########
+37
+He expressed concern about the fact that almost all communications between the two countries were blocked , except for some `` situational contacts '' .
+communications	9	CT+	CT-
+concern	2	ps_cue
+blocked	15	neg_cue
+except	17	neg_cue
+########
+38
+There is also no mutual trust for dialogue to restart , Suzdaltsev said .
+no	3	neg_cue
+########
+39
+<EOP> .
+########
+40
+US_Russian relations are also believed to be affected by shifting global power dynamics in a broader context .
+relations	1	CT+	CT-
+believed	4	ps_cue
+########
+41
+<EOP> .
+########
+42
+Besides the four_year_old Ukraine crisis , disagreements over the Syrian crisis and the anti_terrorism war played vital parts in the bitter feud .
+########
+43
+<EOP> .
+########
+44
+Although the Russian intervention in Syria and regional anti_terrorism war saw a gradual drawdown in 2017 , Moscow kept two military bases in Syria , the Hmeymim air base and the Tartus naval base , which , according to Russian Defense Ministry , will guarantee Syria 's future stability .
+will	43	ps_cue
+########
+45
+<EOP> .
+########

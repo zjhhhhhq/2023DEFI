@@ -1,0 +1,110 @@
+Will Wang Xinxin open another restaurant in the US 
+0
+Chinese man 's special burger is a big seller in Milan <EOP> .
+########
+1
+2017_10_26 22:19 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+<EOP> .
+########
+4
+Customers dine on lyurou huoshao at Wang Xinxin 's restaurant in Milan .
+########
+5
+LRB Photo provided to chinadaily.com.cn RRB <EOP> .
+########
+6
+A burger stuffed with donkey meat is a hit at a Milan restaurant opened by a man from North China 's Hebei province who wants to promote Chinese traditional food worldwide .
+opened	13	CT+	CT+
+wants	24	ps_cue
+########
+7
+<EOP> .
+########
+8
+Wang Xinxin , born in 1985 in Baoding , opened a restaurant selling lyurou huoshao , the donkey stuffed burger , in Milan 's Chinatown in late September , according to a report by Yanzhao Metropolis Daily .
+########
+9
+<EOP> .
+########
+10
+During the past month , the restaurant has become increasingly popular among local residents and is always crowded during peak meal times .
+########
+11
+<EOP> .
+########
+12
+The burgers are 5 euros LRB $ 6 RRB each and the restaurant receives more than 150 customers each day from 10 am to 10 pm .
+########
+13
+<EOP> .
+########
+14
+`` People here like to eat them , just like Chinese people , '' Wang said , adding that given its popularity , he is planning to open another restaurant in the US .
+open	27	CT+	CT+
+like	3	ps_cue
+like	9	ps_cue
+planning	25	ps_cue
+########
+15
+<EOP> .
+########
+16
+Wang 's hometown , Baoding , is home to lyurou huoshao , burgers with salty , well_braised donkey meat and green peppers minced and stuffed into a baked wheat bread called shaobing .
+########
+17
+<EOP> .
+########
+18
+According to Wang , the specialty originated during the Ming Dynasty LRB 1368_1644 RRB and is healthy , low in fat and high in protein .
+########
+19
+<EOP> .
+########
+20
+Together with a bowl of millet congee , lyurou huoshao is a favorite Chinese breakfast meal .
+########
+21
+<EOP> .
+########
+22
+Wang 's family has sold the food for more than three decades in Baoding .
+########
+23
+<EOP> .
+########
+24
+After he took over the business in 2013 , Wang started to expand it and opened seven chain restaurants in Beijing , most of which are popular .
+########
+25
+<EOP> .
+########
+26
+`` After the success in Beijing , I wanted to sell it in foreign countries and let foreigners enjoy our delicious traditional specialty , '' Wang said .
+sell	10	CT+	CT+
+wanted	8	ps_cue
+########
+27
+<EOP> .
+########
+28
+So far , he has finished exploring options in the US and said he will open a similar restaurant in Los Angeles by the end of the year .
+open	15	CT+	CT+
+will	14	ps_cue
+########
+29
+<EOP> .
+########
+30
+<EOP> .
+########
+31
+Customers dine on lyurou huoshao at Wang Xinxin 's restaurant in Milan .
+########
+32
+LRB Photo provided to chinadaily.com.cn RRB <EOP> .
+########

@@ -1,0 +1,204 @@
+Does Trump criticize US trade deficits 
+0
+Trump again criticizes US trade deficits <EOP> .
+deficits	5	CT-	CT-
+########
+1
+2017_12_07 04:54 <EOP> .
+########
+2
+China Daily USA <EOP> .
+########
+3
+US President Donald Trump continues to blame global trade for causing the loss of American jobs and the rise of US trade deficits , a view disputed by many economists and trade experts .
+deficits	22	CT-	CT-
+loss	12	neg_cue
+########
+4
+<EOP> .
+########
+5
+`` We have a trade deficit with everybody , '' Trump said on Tuesday before a meeting with Senate Republicans on tax reform .
+deficit	5	CT+	CT-
+########
+6
+<EOP> .
+########
+7
+He cited the $ 71 billion US trade deficit with Mexico and a $ 17 billion one with Canada , two other members of the North American Free Trade Agreement , or NAFTA .
+deficit	8	CT+	CT-
+or	31	ps_cue
+########
+8
+<EOP> .
+########
+9
+`` That 's going to be changing .
+########
+10
+It 's already changing .
+########
+11
+But it 's going to be changing fast , '' he said of the deficits .
+########
+12
+<EOP> .
+########
+13
+Trump did not mention the US trade deficit with China , with which the US runs the largest trade deficit .
+deficit	7	CT-	CT-
+deficit	19	CT+	CT-
+not	2	neg_cue
+########
+14
+Instead , he talked about the $ 250 billion in trade deals he brought back from China last month .
+########
+15
+<EOP> .
+########
+16
+`` We went to China .
+########
+17
+We brought back over $ 300 billion worth of contracts from Asia .
+########
+18
+So it 's a very successful trip , '' Trump said .
+########
+19
+<EOP> .
+########
+20
+US Commerce Department data on Tuesday showed that the US trade deficit in October expanded 8.6 percent from September , with record imports from China , Mexico and the European Union before the holiday season .
+deficit	11	CT+	CT-
+########
+21
+The $ 48.7 billion has been the highest monthly trade deficit recorded since Trump took power .
+deficit	10	CT+	CT-
+########
+22
+<EOP> .
+########
+23
+In recent years , Trump and many US politicians have been describing the US as the victim , rather than a major beneficiary , of global trade and globalization that the US had championed for decades .
+rather	18	neg_cue
+########
+24
+<EOP> .
+########
+25
+Dani Rodrik , a professor of international political economy at the Kennedy School of Government at Harvard University , believes the main reason for the complaint in the US is that the gains of globalization have not been equally distributed in the US .
+not	36	neg_cue
+########
+26
+<EOP> .
+########
+27
+Slower global economic growth has translated into stagnating or falling wage growth for many US workers , according to Rodrik .
+or	8	ps_cue
+########
+28
+<EOP> .
+########
+29
+He pointed out that the groups devising and setting the rules of globalization have been large corporations , many in the US .
+########
+30
+`` And they have been the big beneficiaries , '' he said on Tuesday in a talk about his latest book Straight Talk on Trade : Ideas for a Sane World Economy .
+########
+31
+<EOP> .
+########
+32
+`` It 's really in the United States that it 's the distributional issue , '' he said .
+########
+33
+<EOP> .
+########
+34
+The US government , unlike those in Europe and many Asian nations , has been criticized for doing a poor job in helping people adversely affected in the globalization process .
+criticized	15	neg_cue
+########
+35
+<EOP> .
+########
+36
+Trump , Hillary Clinton , Bernie Sanders and Ted Cruz , the four major presidential candidates in 2016 , all opposed the Trans_Pacific Partnership LRB TPP RRB , a free trade agreement among 12 Pacific Rim economies .
+opposed	20	neg_cue
+########
+37
+<EOP> .
+########
+38
+Rodrik did not believe that the TPP would help the US economy much .
+not	2	neg_cue
+would	7	ps_cue
+########
+39
+He described it as mainly to serve US geopolitical interests against China .
+against	10	neg_cue
+########
+40
+<EOP> .
+########
+41
+The Harvard professor noted that the inequality issue in China has also become more serious , but the rapid economic growth in China means that on the whole , everybody seems to have benefited .
+seems	30	ps_cue
+########
+42
+<EOP> .
+########
+43
+Scott Miller , a trade expert at the Center for Strategic and International Studies , said on Tuesday that the US has completed the weaponization of trade politics .
+########
+44
+<EOP> .
+########
+45
+`` To be honest , I see this as a bipartisan achievement .
+########
+46
+... We have this weaponized now , '' he said .
+########
+47
+<EOP> .
+########
+48
+There is renewed concern that the Trump administration may escalate trade confrontation with China , following the ongoing Section 301 investigation into China 's intellectual property policies and practices and the anti_dumping and countervailing duties imposed on Chinese aluminum foil .
+concern	3	ps_cue
+may	8	ps_cue
+########
+49
+<EOP> .
+########
+50
+On Monday , Chinese Ambassador to the US Cui Tiankai delivered a stern warning to US trade hawks .
+########
+51
+<EOP> .
+########
+52
+`` There are people in Washington DC who believe that economic and trade issues between our countries should be resolved through a trade war .
+should	17	ps_cue
+resolved	19	neg_cue
+########
+53
+And I want to tell them , economic and trade relations between our countries are mutually beneficial by nature , '' he said .
+########
+54
+<EOP> .
+########
+55
+`` Cooperation will make both countries winners .
+will	2	ps_cue
+########
+56
+And confrontation will make everybody losers , '' Cui said , before a performance by the Rocky Mountain Ballet Theatre at the Chinese embassy .
+will	2	ps_cue
+########
+57
+<EOP> .
+########
+58
+chenweihua@chinadailyusa.com <EOP> .
+########

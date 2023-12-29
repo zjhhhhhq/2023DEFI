@@ -1,0 +1,123 @@
+Is there a strong signal of increased trade between the world 's two largest economies 
+0
+Leaders shepherd $ 253.5 b in deals <EOP> .
+########
+1
+2017_11_10 05:27 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+<EOP> .
+########
+4
+<EOP> .
+########
+5
+<EOP> .
+########
+6
+President Xi Jinping holds a grand ceremony to welcome US President Donald Trump at the square outside the East Gate of the Great Hall of the People in Beijing on Thursday .
+########
+7
+XU JINGXING _ CHINA DAILY <EOP> .
+########
+8
+President Xi Jinping and his US counterpart Donald Trump witnessed the signing of 15 commercial documents worth of $ 253.5 billion on Thursday , which was seen as a strong signal of increased trade between the world 's two largest economies .
+trade	33	CT+	CT+
+########
+9
+<EOP> .
+########
+10
+The agreements and memorandums of understanding , signed at the Great Hall of the People in Beijing , included energy deals and the purchase of US_produced chipsets and soybeans .
+########
+11
+Boeing and China Aviation Supplies Holding signed an agreement for 300 airplanes .
+########
+12
+<EOP> .
+########
+13
+Companies from the two countries agreed to cooperate on a gas project in Alaska worth $ 43 billion and a shale gas demonstration project valued at $ 83.7 billion .
+########
+14
+<EOP> .
+########
+15
+After witnessing the signing ceremony , Xi said that there is huge potential for China_US economic and trade cooperation .
+trade	17	CT+	CT+
+potential	12	ps_cue
+########
+16
+Saying that the Chinese and US economies are highly complementary , Xi added that China is willing to expand imports of energy products including liquefied natural gas , crude oil and refined oil from the US .
+willing	16	ps_cue
+########
+17
+<EOP> .
+########
+18
+Xi called on the United States to increase exports of civil technologies to China .
+########
+19
+The Chinese government encourages domestic companies to invest in the US , and US companies are also welcome to participate in the Belt and Road Initiative , he said .
+########
+20
+<EOP> .
+########
+21
+`` China will not close its doors and will open even wider , '' Xi said , adding that foreign companies will find China 's market `` more open , more transparent and more orderly '' .
+will	2	ps_cue
+not	3	neg_cue
+will	8	ps_cue
+will	21	ps_cue
+########
+22
+The large population remains a bonus of China 's economy and Chinese market potential is great , he said .
+potential	13	ps_cue
+########
+23
+<EOP> .
+########
+24
+The three major US automakers -- General Motors , Ford and Fiat Chrysler -- produced and sold over 5 million vehicles in China last year , more than their total sales in the rest of the world not including the US , Xi said .
+not	37	neg_cue
+########
+25
+He said Chinese investment has created more than 140,000 jobs in the United States .
+########
+26
+<EOP> .
+########
+27
+Saying it 's natural for the two nations to have trade friction , Xi called on the two sides to properly handle issues using the principle of equality and mutual benefit .
+trade	10	CT+	CT+
+########
+28
+<EOP> .
+########
+29
+China will firmly stick to reform and opening_up , deepen supply_side structural reform , and put forward practical measures to boost opening_up , Xi pledged .
+will	1	ps_cue
+forward	16	ps_cue
+forward	16	neg_cue
+########
+30
+<EOP> .
+########
+31
+The prospects for the Chinese economy are bright , Xi said .
+########
+32
+The country 's economy has shifted from high_speed growth to high_quality growth , he said .
+########
+33
+<EOP> .
+########
+34
+Trump spoke highly of the contributions made by businesspeople to the economic cooperation between the two countries , saying that their discussions `` provide a critical bridge '' between the business communities of both sides .
+########
+35
+<EOP> .
+########

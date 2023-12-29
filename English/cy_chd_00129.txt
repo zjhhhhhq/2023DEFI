@@ -1,0 +1,43 @@
+Are 30 people killed in tropical storm in southern Philippines
+0
+At least 30 people killed in tropical storm in southern Philippines <EOP> .
+killed	4	CT+	CT+
+########
+1
+2017_12_23 11:39 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+MANILA _ At least 30 people have been killed when Tropical Storm Tembin dumped heavy rains as it swept through southern Philippines on Friday , an official from the country 's disaster relief agency said on Saturday .
+killed	8	CT+	CT+
+########
+4
+<EOP> .
+########
+5
+Superintendent Lemuel Gonda , spokesperson of Northern Mindanao regional police , said 19 of the fatalities were from Lanao del Norte which was heavily affected by the calamity .
+########
+6
+Three were reported dead in Bukidnon and one in Iligan .
+dead	3	CT+	CT+
+########
+7
+<EOP> .
+########
+8
+In Lanao del Sur , seven people have been reportedly died in flash floods and landslides set off by the tropical storm and four others were reported missing .
+died	10	CT+	CT+
+missing	27	neg_cue
+########
+9
+<EOP> .
+########
+10
+Tropical storm Kai_Tak which barrelled into central Philippines last weekend killed at least 41 people .
+killed	10	CT+	CT+
+########
+11
+<EOP> .
+########

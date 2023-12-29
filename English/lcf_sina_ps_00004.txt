@@ -1,0 +1,100 @@
+Do cleverer women choose not to have a family 
+0
+Now it seems she might have had a point , after a new study has revealed a clear correlation between intelligence and childlessness _ with cleverer women more likely to choose not to have a family .
+have	33	PS-	PS-
+likely	28	ps_cue
+not	31	neg_cue
+seems	2	ps_cue
+might	4	ps_cue
+########
+1
+<EOP> .
+########
+2
+The study , which was conducted by Satoshi Kanazawa , a researcher at the London School of Economics , found that a woman 's urge to have children decreases by a quarter for every 15 extra IQ points .
+########
+3
+<EOP> .
+########
+4
+When Kanazawa , who used data from the UK 's National Child Development Study , added controls for economics and education , the results remained the same _ the more intelligent the woman , the less likely she was to have children .
+have	40	PS-	PS-
+likely	36	ps_cue
+########
+5
+<EOP> .
+########
+6
+Worsley is n't the UK 's only famously clever childless woman , with others including BBC presenter Kate Humble and actress Helen Mirren .
+n't	2	neg_cue
+########
+7
+<EOP> .
+########
+8
+In the USA , Oprah Winfrey , Cameron Diaz and Eva Mendes are among the famous names who have said they 'll never become mothers , with Diaz adding : ' I have the life I have because I do n't have children . '
+never	22	neg_cue
+n't	40	neg_cue
+########
+9
+<EOP> .
+########
+10
+Mendes too has said that she values her lifestyle too much to share it with children . '
+########
+11
+I do n't want kids , ' she said . '
+n't	2	neg_cue
+########
+12
+I love sleep and I worry about everything . '
+love	1	ps_cue
+########
+13
+<EOP> .
+########
+14
+Humble , meanwhile , told the Times that she just ` does n't have a maternal gene ' and resolved not to have children at the age of 14 .
+n't	12	neg_cue
+resolved	19	neg_cue
+not	20	neg_cue
+########
+15
+<EOP> .
+########
+16
+` People are very judgmental , ' she added .
+########
+17
+` It 's as if I made a selfish decision not to have children , but I never , ever , wanted them . '
+not	10	neg_cue
+never	17	neg_cue
+wanted	21	ps_cue
+########
+18
+<EOP> .
+########
+19
+One in five 45_year_olds is childless , while among those with degrees , the figure rises to 43 per cent , suggesting that Kanazawa 's findings are sound .
+########
+20
+<EOP> .
+########
+21
+A social study , conducted by social scientist Dr Nattavudh Powdthavee of the University of York , revealed that the notion that happiness comes from having children is illusory and offers yet another clue to why so many clever women are rejecting motherhood .
+yet	31	neg_cue
+########
+22
+<EOP> .
+########
+23
+` Parents spend much of their time attending to the very core processes of childcare : problems at school , cooking , laundry , it 's these small but negative experiences that are more likely to impact on our day_to_day levels of happiness and life satisfaction . '
+negative	29	neg_cue
+likely	34	ps_cue
+########
+24
+said Powdthavee in an interview with the Times .
+########
+25
+<EOP> .
+########

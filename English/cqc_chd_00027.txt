@@ -1,0 +1,80 @@
+Did humans arrive in Australia 18000 years earlier than they thought
+0
+Outback axes suggest humans reached Australia 18,000 years earlier than thought <EOP> .
+reached	4	PS+	PS+
+suggest	2	ps_cue
+########
+1
+2017_07_20 16:42 <EOP> .
+########
+2
+null <EOP> .
+########
+3
+SYDNEY -- Axeheads and grinding stones from a cave in Australia 's far north suggest humans arrived on the continent about 65,000 years ago , or 18,000 years earlier than previously thought , according to research published on Thursday .
+arrived	16	PS+	PS+
+suggest	14	ps_cue
+or	25	ps_cue
+########
+4
+<EOP> .
+########
+5
+A technique called luminescence dating was used to date the ancient tools which were found in a rock shelter at the bottom of a cliff , on the edge of a sandy savannah plain some 300 km LRB 186 miles RRB east of Darwin .
+########
+6
+Finding of a new minimum age for the arrival of humans in Australia pushes back the origins of aboriginal culture , the world 's oldest continuous civilisation , from a previously agreed consensus of around 47,000 years ago .
+arrival	8	CT+	PS+
+########
+7
+<EOP> .
+########
+8
+It also changes scientific understanding of the date humans migrated out of Africa , the study 's lead author Chris Clarkson told Australian Broadcasting Corporation radio .
+########
+9
+<EOP> .
+########
+10
+Scientists believed that humans first left Africa some time between 100,000 years ago and 60,000 years ago , Clarkson said .
+believed	1	ps_cue
+########
+11
+<EOP> .
+########
+12
+`` Because Australia sits at the end of this migration route , we can now use this as a benchmark , and use it to say that people must have left Africa earlier than this , '' he said .
+can	13	ps_cue
+########
+13
+<EOP> .
+########
+14
+Clarkson 's paper was published in the journal Nature , which last month turned the understanding of human origins on its head , with a study showing fossils discovered in Morocco to be 300,000 years old , about 100,000 years older than any other human remains previously found .
+########
+15
+<EOP> .
+########
+16
+The Australian study used both radio_carbon dating , which reaches its limits at around 50,000 years , and luminescence , which uses laser beams , to date 28,500 individual grains of sand from the site , which sits on a Rio Tinto uranium mining lease in the Northern Territory .
+########
+17
+<EOP> .
+########
+18
+`` Previous excavations , they did n't have the access to the dating methods that we do these days to actually confirm that the deposits and the archaeology really were that old , '' said Andy Herries , Associate Professor of Palaeoanthropology and Geoarchaeology at La Trobe University in Melbourne , who was not part of the study .
+n't	6	neg_cue
+not	53	neg_cue
+########
+19
+<EOP> .
+########
+20
+`` The problem previously was that there was some old dates and stones but it was just a couple of them , whereas this research shows a significant occupation , '' he said .
+########
+21
+<EOP> .
+########
+22
+Reuters <EOP> .
+########

@@ -1,0 +1,142 @@
+Does Trump ready for first Sept 11 commemoration as president
+0
+Trump readies for first Sept 11 commemoration as president <EOP> .
+readies	1	CT+	CT+
+########
+1
+2017_09_11 13:20 <EOP> .
+########
+2
+null <EOP> .
+########
+3
+<EOP> .
+########
+4
+<EOP> .
+########
+5
+<EOP> .
+########
+6
+A visitor photographs the National September 11 Memorial and Museum on the 15th anniversary of the 9_11 attacks in Manhattan , New York , US , on September 11 , 2016 .
+########
+7
+LRB Photo_Agencies RRB <EOP> .
+########
+8
+WASHINGTON -- President Donald Trump will preside over his first 9_11 commemoration in office on Monday , a mostly solemn and nonpartisan occasion that may highlight his muddled claims about the worst terrorist attack on US soil .
+preside	6	CT+	CT+
+will	5	ps_cue
+may	24	ps_cue
+########
+9
+<EOP> .
+########
+10
+Trump and first lady Melania Trump planned to observe a moment of silence at the White House in remembrance of the nearly 3,000 people who were killed when hijackers flew commercial airplanes into New York 's World Trade Center , the Pentagon and a field near Shanksville , Pennsylvania , the White House said .
+planned	6	ps_cue
+########
+11
+<EOP> .
+########
+12
+The morning remembrance was scheduled for about the time the first plane struck one of the Twin Towers on the morning of Sept 11 , 2001 .
+scheduled	4	CT+	CT+
+scheduled	4	ps_cue
+########
+13
+<EOP> .
+########
+14
+Trump and his wife also were to pay their respects at a Pentagon ceremony led by Defense Secretary Jim Mattis and Gen. Joseph Dunford , chairman of the Joint Chiefs of Staff .
+########
+15
+The observances come as Trump grapples with the death and destruction caused by two hurricanes in three weeks .
+########
+16
+<EOP> .
+########
+17
+Vice President Mike Pence was to represent the administration at an observance at the 9_11 memorial in Shanksville .
+########
+18
+<EOP> .
+########
+19
+A native New Yorker , Trump has a mixed history with 9_11 .
+########
+20
+He frequently uses the terrorist strikes to praise the city 's response but also makes unsubstantiated claims about what he did and saw on that day .
+########
+21
+<EOP> .
+########
+22
+Trump often lauds the bravery of New York police officers , firefighters and other emergency responders who rushed to the Twin Towers , in some cases knowing they probably would n't make it out alive , as an example of the resilience of the city where he made a name for himself .
+probably	28	ps_cue
+would	29	ps_cue
+n't	30	neg_cue
+########
+23
+<EOP> .
+########
+24
+But Trump has criticized President George W. Bush 's handling of the attacks , accusing his fellow Republican of failing to keep Americans safe .
+criticized	3	neg_cue
+failing	19	neg_cue
+########
+25
+<EOP> .
+########
+26
+Trump has also made dubious claims about Sept. 11 , particularly saying when talking about Muslims that `` thousands of people were cheering '' in Jersey City , New Jersey , across the Hudson River from lower Manhattan , as the towers collapsed .
+########
+27
+There is no evidence in news archives of mass celebrations there by Muslims .
+no	2	neg_cue
+########
+28
+<EOP> .
+########
+29
+Trump has also said he lost `` hundreds of friends '' in the attack and that he helped clear rubble afterward .
+########
+30
+Trump has not provided the names of those he knew who perished in the attack , but has mentioned knowing a Catholic priest who died while serving as a chaplain to the city 's fire department .
+not	2	neg_cue
+########
+31
+<EOP> .
+########
+32
+Last year 's 15th anniversary ceremony in lower Manhattan was tinged by the heated presidential race between Trump and Democrat Hillary Clinton .
+########
+33
+Both attended the observance on a warm September morning , but Clinton departed abruptly and was videotaped stumbling as she was being helped into a van .
+########
+34
+<EOP> .
+########
+35
+Clinton later revealed that she had been diagnosed days earlier with pneumonia .
+########
+36
+<EOP> .
+########
+37
+The episode fueled questions that Trump had raised about Clinton 's transparency and whether she had the stamina to handle being president .
+whether	13	ps_cue
+########
+38
+Clinton took a few days off from campaigning to regain her strength .
+########
+39
+A Trump campaign ad included footage of her staggering to the van .
+########
+40
+<EOP> .
+########
+41
+AP <EOP> .
+########

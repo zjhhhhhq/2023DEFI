@@ -1,0 +1,97 @@
+Will Brexit transition period end 
+0
+EU says Brexit transition period should end on Dec 31 , 2020 <EOP> .
+end	6	PS+	PS+
+should	5	ps_cue
+########
+1
+2017_12_21 09:53 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+BRUSSELS _ The European Commission on Wednesday recommended draft negotiating directives to the General Affairs Council LRB Article 50 RRB for the next phase of Brexit negotiations , calling on a transitional period requested by Britain to conclude before the end of December 2020 .
+conclude	37	CT+	PS+
+recommended	7	ps_cue
+########
+4
+<EOP> .
+########
+5
+Supplementing the negotiating directives from May 2017 , the draft negotiating directives set out additional details on possible transitional arrangements .
+May	5	ps_cue
+possible	17	ps_cue
+########
+6
+<EOP> .
+########
+7
+NO CHERRY PICKING <EOP> .
+########
+8
+The directive says no `` cherry picking '' would be allowed .
+no	3	neg_cue
+would	8	ps_cue
+########
+9
+During the transition , Britain would continue to participate in the Customs Union and the Single Market with all four freedoms __ free movement of goods , services and capital and labor .
+would	5	ps_cue
+########
+10
+<EOP> .
+########
+11
+The Union acquis should continue to apply in full to and in Britain as if it were a European Union LRB EU RRB member state .
+should	3	ps_cue
+########
+12
+Any changes made to the acquis during this time should automatically apply to Britain , said the directive .
+should	9	ps_cue
+########
+13
+<EOP> .
+########
+14
+Meanwhile , during the transition period , all existing Union regulatory , budgetary , supervisory , judiciary and enforcement instruments and structures will apply , including the competence of the European Courts of Justice LRB ECJ RRB .
+will	22	ps_cue
+########
+15
+<EOP> .
+########
+16
+Britain will be a third country as of March 30 , 2019 .
+will	1	ps_cue
+########
+17
+As a result , it will no longer be represented in EU 's institutions , agencies , bodies and offices , the directive added .
+will	5	ps_cue
+no	6	neg_cue
+########
+18
+<EOP> .
+########
+19
+The recommendation also recalled the need to translate into legal terms the results of the first phase of the negotiations , as outlined in the Commission 's Communication and Joint Report , according to a press release of the EU .
+need	5	ps_cue
+########
+20
+<EOP> .
+########
+21
+It underlined that work needs to be completed on all withdrawal issues , including those not yet addressed in the first phase , such as the overall governance of the withdrawal agreement and substantive issues such as goods placed on the market before Britain 's withdrawal from the EU .
+completed	7	CT+	PS+
+needs	4	ps_cue
+not	15	neg_cue
+yet	16	neg_cue
+########
+22
+<EOP> .
+########
+23
+The General Affairs Council LRB Art 50 RRB is scheduled to adopt these additional negotiating directives on transitional arrangements in January 2018 , said the release .
+scheduled	9	ps_cue
+########
+24
+<EOP> .
+########

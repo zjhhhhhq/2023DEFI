@@ -1,0 +1,126 @@
+Do Americans see China more favorably
+0
+Surveys : Americans see China more favorably <EOP> .
+favorably	6	CT+	CT+
+########
+1
+2017_04_05 05:10 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+More people in the United States have favorable views of China , according to the latest surveys by Pew Research Center and Gallup .
+favorable	7	CT+	CT+
+########
+4
+<EOP> .
+########
+5
+The Pew survey released on Tuesday finds that 44 percent of Americans have a favorable opinion of China , up from 37 percent a year ago .
+favorable	14	CT+	CT+
+########
+6
+It described the growth in positive ratings for China as partly due to declining concerns about economic threats from China .
+positive	5	CT+	CT+
+########
+7
+<EOP> .
+########
+8
+`` The share of the public that sees the amount of US debt held by Beijing , the loss of jobs to China and the trade deficit with China as very serious problems has dropped significantly in recent years , '' the Pew survey says .
+loss	18	neg_cue
+########
+9
+<EOP> .
+########
+10
+Only 44 percent said trade deficit was a very serious problem , compared with 61 percent in 2012 .
+########
+11
+<EOP> .
+########
+12
+Most US economists have dismissed bilateral trade deficits as a problem .
+########
+13
+Rather , they point out that it was a fiscal policy issue for the US .
+########
+14
+This contrasts to US President Donald Trump 's rhetoric of blaming trade deficits with China , Germany and Mexico for US job losses and economic woes .
+########
+15
+<EOP> .
+########
+16
+A study by the Center for Business and Economic Research at Ball State University showed that 85 percent of the job losses are attributed to technological change , largely automation rather than international trade .
+rather	30	neg_cue
+########
+17
+<EOP> .
+########
+18
+Yukon Huang , a senior fellow at the Carnegie Endowment for International Peace and a former official with the World Bank and US Treasury Department , pointed out that conventional wisdom on many of the bilateral economic issues , such as trade deficits , job losses and exchange rate , is often wrong .
+########
+19
+<EOP> .
+########
+20
+The Pew survey was basically in line with a Gallup poll released in early February , which showed that Americans have been feeling more positively toward China in recent years .
+positively	24	CT+	CT+
+########
+21
+It showed that 50 percent of 1,035 respondents interviewed in the US from Feb 1_5 , say they have a favorable opinion of China , compared with 44 percent in 2016 and 41 percent in 2012 .
+favorable	20	CT+	CT+
+########
+22
+It was the highest rating in about 28 years .
+########
+23
+<EOP> .
+########
+24
+The latest Pew survey shows that Democrats and young people have more favorable views towards China .
+favorable	12	CT+	CT+
+########
+25
+<EOP> .
+########
+26
+Republicans ' view of China has also improved to 39 percent today compared with 27 percent a year ago when then_presidential candidate Trump and other Republican contenders shouted negative rhetoric about China on the campaign trail .
+negative	28	neg_cue
+########
+27
+<EOP> .
+########
+28
+Republicans generally hold more negative attitudes toward China and express stronger worries about economic challenges in the US_China relationship .
+negative	4	neg_cue
+########
+29
+This was reflected by 71 percent of Republicans saying job losses to China are a very big problem for the US , compared with only 47 percent of Democrats .
+########
+30
+<EOP> .
+########
+31
+While jobs are the top Republican concern about China , among Democrats it is China 's impact on the global environment .
+concern	6	ps_cue
+########
+32
+More than six_in_10 Democrats call it a serious problem , compared with only 44 percent of Republicans , according to the Pew survey , conducted among 1,505 respondents in the US from Feb 16 to March 15 .
+########
+33
+<EOP> .
+########
+34
+The Pew survey also finds that people in the US tend to be more concerned about China 's economic strength than its military prowess .
+tend	10	ps_cue
+########
+35
+For example , the amount of US debt held by China is the top concern among the eight sources of tension between the two countries included in the survey .
+concern	14	ps_cue
+########
+36
+<EOP> .
+########

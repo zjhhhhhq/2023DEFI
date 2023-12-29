@@ -1,0 +1,69 @@
+Was Malaysia Airlines Flight 370 missing
+0
+Capt. Zaharie Shah of missing Malaysia Airlines Flight 370 showed no unusual signs of stress before the plane departed , an interim report on the investigation said .
+Flight	7	CT-	CT-
+missing	4	neg_cue
+no	10	neg_cue
+########
+1
+<EOP> .
+########
+2
+`` The Captain 's ability to handle stress at work and home was good .
+########
+3
+There was no known history of apathy , anxiety , or irritability , '' the report said .
+no	2	neg_cue
+or	10	ps_cue
+########
+4
+`` There were no significant changes in his lifestyle , interpersonal conflict or family stresses . ''
+no	3	neg_cue
+or	12	ps_cue
+########
+5
+<EOP> .
+########
+6
+A year after the mysterious disappearance of Malaysia Airlines Flight 370 , the Malaysian government says it remains committed to the search for the plane and the 239 people it was carrying .
+Flight	9	CT-	CT-
+disappearance	5	neg_cue
+########
+7
+<EOP> .
+########
+8
+Family members of the missing passengers and crew members are gathering Sunday to remember their loved ones .
+missing	4	neg_cue
+########
+9
+And Malaysian authorities are expected to release an interim report on the investigation .
+expected	4	ps_cue
+########
+10
+<EOP> .
+########
+11
+`` No words can describe the pain the families of those on board are going through , '' Malaysian Prime Minister Najib Razak said in a statement .
+No	1	neg_cue
+can	3	ps_cue
+########
+12
+`` The lack of answers and definitive proof __ such as aircraft wreckage __ has made this more difficult to bear .
+lack	2	neg_cue
+########
+13
+<EOP> .
+########
+14
+`` Together with our international partners , we have followed the little evidence that exists , '' Najib said .
+little	11	neg_cue
+########
+15
+`` Malaysia remains committed to the search , and hopeful that MH370 will be found . ''
+hopeful	9	ps_cue
+will	12	ps_cue
+########
+16
+<EOP> .
+########

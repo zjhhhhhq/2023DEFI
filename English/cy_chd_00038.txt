@@ -1,0 +1,102 @@
+Does 1964 civil rights law protect LGBT workers from bias
+0
+US court rules 1964 civil rights law protects LGBT workers from bias <EOP> .
+protects	7	CT+	CT+
+########
+1
+2017_04_05 09:58 <EOP> .
+########
+2
+null <EOP> .
+########
+3
+<EOP> .
+########
+4
+The actual Title VII of the Civil Rights Act of 1964 document and pen is on display in the East Room of the White House in Washington , DC , US on July 1 , 2004 .
+########
+5
+LRB Photo_Agencies RRB <EOP> .
+########
+6
+The ruling from a divided 7th US Circuit Court of Appeals in Chicago represents a major legal victory for the gay rights movement .
+########
+7
+<EOP> .
+########
+8
+It also allows a lawsuit to go forward in Indiana , where plaintiff Kimberly Hively said she lost her community college teaching job because she is lesbian .
+forward	7	ps_cue
+forward	7	neg_cue
+########
+9
+<EOP> .
+########
+10
+`` I have been saying all this time that what happened to me was n't right and was illegal , '' Hively said in a statement released by the gay rights legal organization Lambda Legal , which represents her .
+n't	14	neg_cue
+########
+11
+<EOP> .
+########
+12
+In its decision to reinstate Hively 's 2014 lawsuit , which was thrown out at the local level in Indiana , the Court of Appeals ruled that protections against sex discrimination in Title VII of the Civil Rights Act of 1964 protects people from job discrimination based on their sexual orientation .
+protections	27	CT+	CT+
+against	28	neg_cue
+########
+13
+<EOP> .
+########
+14
+In so doing , the full appeals court overruled a decision by a smaller panel of its judges to uphold the district court 's decision in the college 's favor .
+########
+15
+<EOP> .
+########
+16
+In its 8_3 decision , the court bucked decades of rulings that gay people are not protected by the milestone civil rights law , because they are not specifically mentioned in it .
+protected	16	CT-	CT+
+not	15	neg_cue
+not	27	neg_cue
+########
+17
+<EOP> .
+########
+18
+`` For many years , the courts of appeals of this country understood the prohibition against sex discrimination to exclude discrimination on the basis of a person 's sexual orientation , '' Chief Judge Diane Wood wrote for the majority .
+against	15	neg_cue
+exclude	19	neg_cue
+########
+19
+`` We conclude today that discrimination on the basis of sexual orientation is a form of sex discrimination . ''
+########
+20
+<EOP> .
+########
+21
+In her lawsuit , Hively said that Ivy Tech Community College in South Bend passed her over for a permanent position and refused to renew her contract as an adjunct professor after school administrators learned she is a lesbian .
+refused	22	neg_cue
+########
+22
+<EOP> .
+########
+23
+The school has denied the claims , and a representative was not immediately available for comment on Tuesday .
+denied	3	neg_cue
+not	11	neg_cue
+########
+24
+<EOP> .
+########
+25
+Reuters <EOP> .
+########
+26
+<EOP> .
+########
+27
+<EOP> .
+########
+28
+<EOP> .
+########

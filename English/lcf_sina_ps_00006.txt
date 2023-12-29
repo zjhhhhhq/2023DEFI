@@ -1,0 +1,243 @@
+Will people not adopt the behaviors be overweight 
+0
+The National Weight Control Registry LRB NWCR RRB tracks over 10,000 individuals who have lost significant amounts of weight and kept it off for long periods of time .
+########
+1
+People who do n't adopt the following behaviors are more likely to be overweight or obese .
+overweight	13	PS+	PS+
+likely	10	ps_cue
+n't	3	neg_cue
+or	14	ps_cue
+########
+2
+Here are the 5 reasons why you might be fat : <EOP> .
+fat	9	PS+	PS+
+might	7	ps_cue
+########
+3
+1 .
+########
+4
+You do n't eat breakfast <EOP> .
+n't	2	neg_cue
+########
+5
+According to the NWCR research , 78 percent of people who were successful at losing weight and keeping it off reported regularly eating breakfast every day of the week .
+########
+6
+Only 4 percent of healthy people never eat breakfast .
+never	6	neg_cue
+########
+7
+So here 's the deal : make yourself a healthy breakfast every morning .
+########
+8
+Choose foods like fresh fruit , smoothies , eggs , coffee LRB sans cream and sugar RRB , tea , and whole grains .
+like	2	ps_cue
+########
+9
+<EOP> .
+########
+10
+2 .
+########
+11
+You do n't weigh yourself enough <EOP> .
+n't	2	neg_cue
+########
+12
+75 percent of people who maintain a healthy weight weigh themselves at least once a week .
+########
+13
+If you 're struggling to get rid of those love handles , then buy a scale and weigh yourself a few times a week .
+love	9	ps_cue
+########
+14
+This will help you stick with your health goals and see measurable progress .
+will	1	ps_cue
+########
+15
+<EOP> .
+########
+16
+3 .
+########
+17
+You watch too much TV <EOP> .
+########
+18
+Here 's one of the biggest reasons why you might be fat : too many hours in front of the television .
+fat	11	PS+	PS+
+might	9	ps_cue
+########
+19
+62 percent of people on the NWCR registry watch less than 10 hours of TV per week .
+########
+20
+Get up off the couch and get some exercise instead .
+instead	9	neg_cue
+########
+21
+<EOP> .
+########
+22
+4 .
+########
+23
+You do n't exercise enough <EOP> .
+n't	2	neg_cue
+########
+24
+Speaking of exercise , 90 percent of healthy folks exercise an average of 1 hour per day .
+########
+25
+Do n't think you have time for exercise ?
+n't	1	neg_cue
+########
+26
+These tips will make you think otherwise .
+will	2	ps_cue
+########
+27
+<EOP> .
+########
+28
+5 .
+########
+29
+You do n't eat healthy enough <EOP> .
+n't	2	neg_cue
+########
+30
+This one should be obvious .
+should	2	ps_cue
+########
+31
+The biggest reason why most people are fat is because of what they eat .
+########
+32
+Good healthy habits start with a good diet .
+########
+33
+Eat more whole , natural , unprocessed foods like these : <EOP> .
+like	8	ps_cue
+########
+34
+Fruits and veggies <EOP> .
+########
+35
+Nuts and seeds <EOP> .
+########
+36
+Lean meats and eggs from pasture_raised animals <EOP> .
+########
+37
+Healthy fats from olive oil , coconut oil , and dark chocolate <EOP> .
+########
+38
+Whole grains <EOP> .
+########
+39
+HOW TO LOSE WEIGHT ?
+########
+40
+<EOP> .
+########
+41
+Losing weight is tough .
+########
+42
+For most people , it requires a change in diet , a change in exercise habits , and a change in attitude .
+########
+43
+Here 's how you can accomplish all three : <EOP> .
+can	4	ps_cue
+########
+44
+1 .
+########
+45
+Set healthy goals <EOP> .
+########
+46
+If you 're overweight and want to change that , the first step is deciding what your target weight is .
+########
+47
+Write down your goal and set a date that you want to accomplish that goal by .
+########
+48
+<EOP> .
+########
+49
+2 .
+########
+50
+Start small <EOP> .
+########
+51
+Making major behavior modifications is n't something that happens overnight .
+n't	5	neg_cue
+########
+52
+So start with 1_2 things per week and work up from there .
+########
+53
+Commit to eating 5 servings of vegetables a day and exercising 2 days a week for the first week , then add a little more each week .
+little	23	neg_cue
+########
+54
+<EOP> .
+########
+55
+3 .
+########
+56
+Track what you eat and how much you exercise <EOP> .
+########
+57
+Now it 's time to start working toward that goal .
+########
+58
+The best way to stick with your diet and exercise regimen is to track it .
+########
+59
+There are plenty of websites and apps that allow you to do this .
+########
+60
+Or you can do it the old fashioned way and keep a written food and exercise journal .
+can	2	ps_cue
+########
+61
+Find what works for you and write down what you 've accomplished every day .
+########
+62
+<EOP> .
+########
+63
+4 .
+########
+64
+Evaluate and adjust <EOP> .
+########
+65
+Every month you should take a look at your goal and see what type of progress you 've made toward accomplishing it .
+should	3	ps_cue
+########
+66
+If you 're not where you want to be , make minor adjustments .
+not	3	neg_cue
+########
+67
+Try doing different exercises or cutting back on certain types of foods that you may be eating too much of .
+or	4	ps_cue
+may	14	ps_cue
+########
+68
+Losing weight and keeping it off is a highly personal thing .
+########
+69
+Find what works for you and stick with it .
+########
+70
+<EOP> .
+########

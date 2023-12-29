@@ -1,0 +1,163 @@
+Will THAAD make Seoul 's task tougher 
+0
+THAAD will make Seoul 's task tougher <EOP> .
+THAAD	0	CT+	CT+
+will	1	ps_cue
+########
+1
+2017_05_08 07:19 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+<EOP> .
+########
+4
+File photo shows Seoungju residents chant slogans during a protest against the government 's decision on deploying a US THAAD anti_missile defense unit in Seongju , in Seoul , South Korea , July 21 , 2016 .
+THAAD	19	CT+	CT+
+against	10	neg_cue
+########
+5
+The banner reads `` Desperately oppose deploying THAAD '' .
+oppose	5	neg_cue
+########
+6
+LRB Photo_Agencies RRB <EOP> .
+########
+7
+Even though the Republic of Korea 's presidential election is just one day away , the candidates are still debating security matters rather than economic recovery and employment , because the winner will have the tough job of dealing with the security jigsaw on the Korean Peninsula .
+rather	22	neg_cue
+will	32	ps_cue
+########
+8
+<EOP> .
+########
+9
+<EOP> .
+########
+10
+<EOP> .
+########
+11
+The US ' Terminal High Altitude Area Defense anti_missile system , according to claims , is operational to a large extent .
+########
+12
+And the likelihood of the Democratic People 's Republic of Korea conducting its sixth nuclear test remains high as the United States threatens to relinquish `` strategic patience '' .
+likelihood	2	ps_cue
+########
+13
+<EOP> .
+########
+14
+Seoul needs deft diplomatic maneuverings , not some `` defensive '' weapons , to safeguard national security .
+needs	1	ps_cue
+not	6	neg_cue
+########
+15
+The ROK 's economic prospects do n't look good either .
+n't	6	neg_cue
+either	9	ps_cue
+########
+16
+The reform proposed by impeached and ousted president Park Geun_hye did little to break the plutocracy , which is still thwarting economic growth .
+proposed	2	ps_cue
+little	11	neg_cue
+########
+17
+In other words , the paradox that a government requires enough votes as well as financial support to run a country might keep haunting the new ROK administration .
+might	21	ps_cue
+########
+18
+<EOP> .
+########
+19
+The ROK presidential election is being held not only prematurely but also amid fears that a regional conflict could break out at any moment .
+not	7	neg_cue
+could	18	ps_cue
+########
+20
+That THAAD may be combat ready very soon will leave the new ROK president little room to take immediate strategic decisions .
+THAAD	1	CT+	CT+
+may	2	ps_cue
+ready	5	ps_cue
+will	8	ps_cue
+little	14	neg_cue
+########
+21
+In fact , Moon Jae_in of the Minjoo Party , the frontrunner in the presidential race had stressed that the final decision on THAAD should be left to the next government .
+THAAD	23	CT+	CT+
+should	24	ps_cue
+########
+22
+<EOP> .
+########
+23
+The Park administration 's decision that THAAD can better counter the threat from Pyongyang LRB and the interim administration 's ratification of the move RRB will make it difficult for the new ROK president to take a different course on national security .
+THAAD	6	CT+	CT+
+can	7	ps_cue
+will	25	ps_cue
+########
+24
+<EOP> .
+########
+25
+Instead of testing its ballistic missiles , Pyongyang held its `` largest ever live artillery drill '' on April 25 to mark the 85th anniversary of the founding of its army .
+########
+26
+That said , Seoul will be simplifying the complex security and diplomatic issues if it places its faith in THAAD and its military alliance with Washington for safeguarding its national security .
+will	4	ps_cue
+########
+27
+<EOP> .
+########
+28
+The paramount security risk facing the ROK is the DPRK 's nuclear program , whose longevity has a lot to do with the mixed defense structure in Northeast Asia .
+########
+29
+Rather than working closely with China , an important party to the global denuclearization efforts , the ROK chose to depend on its military alliance with the US and Japan for its national security .
+########
+30
+<EOP> .
+########
+31
+US President Donald Trump has said that he wants a diplomatic resolution to the Korean Peninsula issue despite warning of a `` major , major '' conflict with the DPRK .
+wants	8	ps_cue
+########
+32
+In this context , the ROK could help resolve the disputes surrounding the DPRK nuclear issue .
+could	6	ps_cue
+########
+33
+<EOP> .
+########
+34
+Peaceful handling of the nuclear issue is at the core of the interests of both Seoul and Beijing , and the Chinese Foreign Ministry has reiterated China 's strong opposition to the DPRK 's nuclear and missile tests .
+opposition	29	neg_cue
+########
+35
+<EOP> .
+########
+36
+The new ROK president may have an unenviable job on hand , with the country 's security and diplomatic situation approaching a turning point .
+may	4	ps_cue
+########
+37
+There is hope , though , because strategic patience and delicate maneuverings have not yet exhausted .
+hope	2	ps_cue
+not	13	neg_cue
+yet	14	neg_cue
+########
+38
+In this regard , concerted efforts to resume the Kaesong Industrial Complex in the DPRK 's border town , restart the tours to the DPRK 's Mount Kumgang resort , and recalibrate China_ROK relations would be more than worth the trouble .
+would	34	ps_cue
+########
+39
+<EOP> .
+########
+40
+The author is an associate professor at the School of International and Public Affairs , Jilin University .
+########
+41
+<EOP> .
+########

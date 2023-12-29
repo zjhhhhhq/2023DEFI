@@ -1,0 +1,77 @@
+Will Kenya 's extended presidential polls hamper real estate growth 
+0
+Kenya 's extended presidential polls expected to hamper real estate growth <EOP> .
+hamper	7	PS+	PS+
+expected	5	ps_cue
+########
+1
+2017_09_05 10:12 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+NAIROBI _ Growth in Kenya 's real estate sector is likely to be affected by the extended electioneering period of the presidential polls this year , a Nairobi_based investment firm said on Monday .
+affected	13	PS+	PS+
+likely	10	ps_cue
+########
+4
+<EOP> .
+########
+5
+Cytonn Investments Head of Private Equity Real Estate Shiv Arora told a media briefing that following the nullification of the Aug 8 presidential polls and an ordered repeat , the real estate growth will slow down as investors take a wait_and_see attitude .
+will	33	ps_cue
+########
+6
+<EOP> .
+########
+7
+`` We expect the real estate sector to pick up in early 2018 after the end of the presidential polls , '' Arora said .
+pick	8	PS+	PS+
+expect	2	ps_cue
+########
+8
+<EOP> .
+########
+9
+He noted that the sector is also being affected by the banking amendment act that was operationalized in 2016 that put a cap on interest rates of bank loans as well as political uncertainty .
+########
+10
+<EOP> .
+########
+11
+According to the investment firm , there has been increased expenditure in the economy due to electioneering .
+########
+12
+<EOP> .
+########
+13
+`` This has led to a diversion of money away from purchasing of real estate to funding political campaign activity , '' Arora said .
+########
+14
+<EOP> .
+########
+15
+He noted that over 95 percent of all real estate finance comes from commercial banks with the rest from alternative sources of finance .
+########
+16
+<EOP> .
+########
+17
+`` However banks have been reluctant to lend to the real estate sector in the current political campaign season due to uncertainty associated with the presidential polls , '' he added .
+########
+18
+<EOP> .
+########
+19
+Arora noted that historically , the real estate sector has been the best_performing asset class in Kenya .
+########
+20
+<EOP> .
+########
+21
+`` On average the returns have varied between 20 and 25 percent annually , while in the developed nations the returns are less than 5 percent annually , '' he added .
+########
+22
+<EOP> .
+########

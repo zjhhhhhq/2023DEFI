@@ -1,0 +1,232 @@
+Do children use mobile phones at school
+0
+The French government is to ban students from using mobile phones in the country 's primary , junior and middle schools .
+using	8	CT-	CT-
+ban	5	neg_cue
+########
+1
+<EOP> .
+########
+2
+Children will be allowed to bring their phones to school , but not allowed to get them out at any time until they leave , even during breaks .
+get	15	CT-	CT-
+not	12	neg_cue
+will	1	ps_cue
+########
+3
+<EOP> .
+########
+4
+A proposed ban was included in Emmanuel Macron 's successful presidential election campaign this year .
+proposed	1	ps_cue
+ban	2	neg_cue
+########
+5
+<EOP> .
+########
+6
+Jean_Michel Blanquer , the French education minister , said the measure would come into effect from the start of the next school year in September 2018 .
+would	11	ps_cue
+########
+7
+It will apply to all pupils from the time they start school at age of six _ up to about 15 when they start secondary school .
+will	1	ps_cue
+########
+8
+<EOP> .
+########
+9
+Blanquer said some education establishments already prohibited pupils from using their mobiles .
+using	9	CT-	CT-
+prohibited	6	neg_cue
+########
+10
+<EOP> .
+########
+11
+`` Sometimes you need a mobile for teaching reasons ... for urgent situations , but their use has to be somehow controlled , '' he told RTL radio .
+need	3	ps_cue
+########
+12
+<EOP> .
+########
+13
+The minister said the ban was also a `` public health message to families '' , adding : `` It 's good that children are not too often , or even at all , in front of a screen before the age of seven . ''
+ban	4	neg_cue
+not	25	neg_cue
+or	29	ps_cue
+########
+14
+<EOP> .
+########
+15
+The French headteachers ' union was skeptical that the ban could be enforced .
+ban	9	neg_cue
+could	10	ps_cue
+########
+16
+<EOP> .
+########
+17
+`` This new announcement from the LRB education RRB ministry leaves us dubious because we 're having trouble understanding what is the real issue here .
+########
+18
+In general , we 're used to them being logical and pragmatic about things , and here , we ca n't find the logic or the pragmatism in the announcements , '' said Philippe Vincent , the union 's deputy general secretary .
+n't	20	neg_cue
+or	24	ps_cue
+########
+19
+<EOP> .
+########
+20
+Outside one middle school in the centre of Paris , pupils asked about the measure seemed unimpressed .
+seemed	15	ps_cue
+########
+21
+`` I do n't understand how it will work .
+n't	3	neg_cue
+will	7	ps_cue
+########
+22
+Who will take the phones , where will they put them ... how will we get them back ? ''
+will	1	ps_cue
+will	7	ps_cue
+will	13	ps_cue
+########
+23
+said one 13_year_old boy .
+########
+24
+<EOP> .
+########
+25
+At another school , Mathilde , 12 , said : `` It 's ridiculous .
+########
+26
+At my school , we do n't use them in class or during recess , so what 's the problem ?
+n't	6	neg_cue
+or	11	ps_cue
+########
+27
+If anyone 's caught using one in the toilets or at lunchtime , the phones are confiscated immediately and the person is given detention . ''
+or	9	ps_cue
+########
+28
+<EOP> .
+########
+29
+Parents seemed uncertain too .
+seemed	1	ps_cue
+uncertain	2	ps_cue
+########
+30
+`` It 's probably a good idea when the kids are in school , but they ca n't ban them bringing them to school , '' said Sabine .
+probably	3	ps_cue
+n't	17	neg_cue
+ban	18	neg_cue
+########
+31
+`` My daughter goes to school and comes home on her own , and at this time of year it 's dark so early , so I want her to have a phone with her .
+########
+32
+It 's reassuring . ''
+########
+33
+<EOP> .
+########
+34
+She added : `` But rather than a ban , would n't it be better to install a signal blocker in schools ? ''
+rather	5	neg_cue
+ban	8	neg_cue
+would	10	ps_cue
+n't	11	neg_cue
+########
+35
+<EOP> .
+########
+36
+Blanquer has already suggested schools could install lockers for phones , though many city centre schools have little room for them .
+suggested	3	ps_cue
+could	5	ps_cue
+little	17	neg_cue
+########
+37
+<EOP> .
+########
+38
+`` Are we going to transform a school into a giant locker ? ''
+########
+39
+said Vincent .
+########
+40
+`` I 've done a little calculation myself : 5,300 state schools with an average 500 pupils each , that makes around 3 million lockers . ''
+little	5	neg_cue
+########
+41
+<EOP> .
+########
+42
+Parents ' organisations say any ban would pose a significant logistical problem .
+ban	5	neg_cue
+would	6	ps_cue
+########
+43
+<EOP> .
+########
+44
+`` How is the school going to stock them ?
+########
+45
+And how are they going to make sure they 're given back to the owner at the end of school ? ''
+########
+46
+Gérard Pommier , head of the Federation of Parents in State Schools .
+########
+47
+<EOP> .
+########
+48
+Education officials are now studying how the mobile ban can be put into effect .
+ban	8	neg_cue
+can	9	ps_cue
+########
+49
+<EOP> .
+########
+50
+`` In ministerial meetings , we leave our phones in lockers before going in .
+########
+51
+It seems to me that this as doable for any human group , including a class , '' Blanquer said in September .
+seems	1	ps_cue
+########
+52
+<EOP> .
+########
+53
+The minister has also supported the introduction of school uniforms , but has said he is opposed to the measure being obligatory throughout the country .
+opposed	16	neg_cue
+########
+54
+<EOP> .
+########
+55
+He has also announced that each school must set up a choir before January 2019 .
+########
+56
+<EOP> .
+########
+57
+Le Parisien <EOP> .
+########
+58
+newspaper said the government had set aside $ 20m for the measure .
+########
+59
+Government officials said joining the choir would be voluntary and a `` complement to obligatory music lessons '' that exist already .
+would	6	ps_cue
+########
+60
+<EOP> .
+########

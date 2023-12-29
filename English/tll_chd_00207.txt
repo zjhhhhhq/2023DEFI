@@ -1,0 +1,138 @@
+Will use of chemical weapons be tolerated
+0
+China reiterates dialogue only way to solve Syria issue <EOP> .
+########
+1
+2017_04_08 15:04 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+China reiterated that all parties need to remain committed to political solution to the Syria issue at an emergency meeting held by the United Nations Security Council on Friday after the US launched air strikes against a Syrian military base .
+need	5	ps_cue
+against	35	neg_cue
+########
+4
+<EOP> .
+########
+5
+Liu Jieyi , China 's permanent representative to the UN , said China has always stood for dialogue and consultation to solve international conflicts .
+########
+6
+<EOP> .
+########
+7
+`` What 's urgent at the moment is all parties need to make efforts to prevent the situation in Syria from worsening , '' Liu said .
+need	10	ps_cue
+prevent	15	neg_cue
+########
+8
+`` Political solution is the only way to the Syria issue .
+########
+9
+Military means wo n't work .
+n't	3	neg_cue
+########
+10
+They can only deepen Syrian people 's suffering and complicate the Syrian and regional situation , which is not in the interests of Syria , countries in the region and the international community . ''
+can	1	ps_cue
+not	18	neg_cue
+########
+11
+<EOP> .
+########
+12
+Two United States naval vessels deployed in the eastern Mediterranean Sea launched 59 cruise missiles against the Shayrat airbase in Syria in what Washington asserted was a response to alleged chemical weapons attack on civilians in Idlib province earlier this week , killing more than 70 people .
+against	15	neg_cue
+########
+13
+The Syrian government denied any role in it .
+denied	3	neg_cue
+########
+14
+<EOP> .
+########
+15
+The attack came within an hour on Thursday LRB New York time RRB of the council ending deadlocked , closed_door deliberations on a draft resolution calling for an investigation into the toxic gas attack , Xinhua reported .
+########
+16
+<EOP> .
+########
+17
+UN Secretary_General Ant <EOP> .
+########
+18
+nio Guterres , who said he has been following reports of the US ' air strikes against the Shayrat airbase in Syria , urged `` restraint '' to avoid any acts that could deepen the suffering of the Syrian people .
+against	16	neg_cue
+avoid	28	neg_cue
+could	32	ps_cue
+########
+19
+<EOP> .
+########
+20
+`` There is no other way to solve the conflict than through a political solution .
+no	3	neg_cue
+########
+21
+I call on the parties to urgently renew their commitment to making progress in the Geneva talks , '' Guterres said in a statement issued on Friday .
+########
+22
+<EOP> .
+########
+23
+At the Security Council meeting on Friday , division existed but members agreed that political solution is the only way to solve the Syria war .
+########
+24
+<EOP> .
+########
+25
+`` It is important that this council send a strong , collective message that any use of chemical weapons will not be tolerated and will have consequences , '' said Jeffrey Feltman , Under_Secretary_General for Political Affairs .
+tolerated	22	CT-	CT-
+will	19	ps_cue
+not	20	neg_cue
+will	24	ps_cue
+########
+26
+<EOP> .
+########
+27
+Ambassador Sacha Llorent Soliz of Bolivia , noting that his country had called for Friday 's meeting , expressed concern that the US had carried out a unilateral attack , threatening peace and security .
+concern	19	ps_cue
+########
+28
+<EOP> .
+########
+29
+We are here to defend multilateralism , '' he said , urging respect for the United Nations Charter provisions prohibiting unilateral actions .
+########
+30
+<EOP> .
+########
+31
+Russia 's deputy UN envoy , Vladimir Safronkov strongly condemned the attack by the United States on the sovereign territory of Syria , warning that the consequences could be extremely serious .
+condemned	9	neg_cue
+could	27	ps_cue
+########
+32
+<EOP> .
+########
+33
+Nikki Haley , US ambassador to the UN , said the use of chemical weapons against civilians was one such occasion and the United States would not stand by , adding that it was in her country 's national security interest to prevent the spread and use of such arms .
+stand	27	PS-	CT-
+against	15	neg_cue
+would	25	ps_cue
+not	26	neg_cue
+prevent	42	neg_cue
+########
+34
+<EOP> .
+########
+35
+Haley called for a new phase that would begin with a drive for a political solution to the conflict .
+would	7	ps_cue
+########
+36
+<EOP> .
+########

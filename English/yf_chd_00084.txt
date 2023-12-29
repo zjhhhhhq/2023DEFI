@@ -1,0 +1,121 @@
+Does Pardon of ex_president Fujimori spark protests , controversy in Peru 
+0
+Pardon of ex_president Fujimori sparks protests , controversy in Peru <EOP> .
+sparks	4	CT+	CT+
+########
+1
+2017_12_26 10:58 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+LIMA _ Peruvian President Pedro Pablo Kuczynski 's Christmas Eve pardon of ex_president Alberto Fujimori LRB 1990_2000 RRB has sparked protests , and legal and medical controversy in Peru .
+sparked	19	CT+	CT+
+########
+4
+<EOP> .
+########
+5
+Many Peruvians are angry that Fujimori , 79 and ailing , was pardoned on humanitarian grounds , despite the gravity of his crimes : he was sentenced to 25 years in prison in 2009 for ordering the massacre of 25 people , among other human rights violations .
+are	2	CT+	CT+
+########
+6
+<EOP> .
+########
+7
+The announcement led both supporters and detractors of Fujimori to hit the streets .
+led	2	CT+	CT+
+########
+8
+Sympathizers gathered outside the clinic in Lima where the former head of state is being treated for what appear to be non_life threatening ailments .
+appear	18	ps_cue
+########
+9
+<EOP> .
+########
+10
+Protesters concentrated in several key plazas to denounce the pardon clashed with police , who lobbed tear gas to break up the crowds .
+concentrated	1	CT+	CT+
+denounce	7	neg_cue
+########
+11
+<EOP> .
+########
+12
+Legal and medical experts spoke with media about the implications of the move .
+########
+13
+<EOP> .
+########
+14
+Carlos Rivera , a lawyer with the Legal Defense Institute LRB IDL RRB , told reporters Sunday night he expects the questionable pardon to be contested both at home and abroad .
+expects	19	ps_cue
+questionable	21	ps_cue
+########
+15
+<EOP> .
+########
+16
+`` They have disavowed the rulings of the Inter_American Court of Human Rights LRB IACHR RRB , which assert Fujimori committed human rights violations , '' said Rivera .
+########
+17
+<EOP> .
+########
+18
+However on Monday , in an interview with Radio Programas del Peru LRB RPP RRB news network , lawyer Mario Amoretti indicated the pardon was viable .
+########
+19
+<EOP> .
+########
+20
+While a pardon would not apply in cases of crimes against humanity , he said , Peru 's Constitutional Court convicted Fujimori of `` qualified homicide and aggravated kidnapping , but not LRB crimes RRB against humanity . ''
+would	3	ps_cue
+not	4	neg_cue
+against	10	neg_cue
+not	31	neg_cue
+against	35	neg_cue
+########
+21
+<EOP> .
+########
+22
+Dr. Elmer Huerta , a cancer specialist , told RPP `` the pardon is groundless '' in his opinion .
+########
+23
+<EOP> .
+########
+24
+`` His ailments are not life threatening .
+not	4	neg_cue
+########
+25
+None of them can take his life at this time , '' said Huerta , describing the measure as more of a `` political pardon '' than a humanitarian one .
+can	3	ps_cue
+########
+26
+<EOP> .
+########
+27
+The pardon cites that Fujimori has been diagnosed with arrhythmia LRB irregular or rapid heart rate RRB with `` a moderate risk '' of thromboembolism , hypertension , depression and other afflictions .
+or	12	ps_cue
+########
+28
+<EOP> .
+########
+29
+Meanwhile , several lawmakers said the pardon points to a pact between Kuczynski and political factions led by Keiko Fujimori , a daughter of the ex_president and head of the opposition Popular Force LRB FP RRB party .
+opposition	30	neg_cue
+########
+30
+<EOP> .
+########
+31
+The FP strongly backed a motion in congress to impeach Kuczynski for corruption .
+########
+32
+Last week , the president survived the vote .
+########
+33
+<EOP> .
+########

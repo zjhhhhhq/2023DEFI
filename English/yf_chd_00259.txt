@@ -1,0 +1,136 @@
+Does Trump receive lavish welcome in China 
+0
+Trump tweets about ` beautiful ' welcome <EOP> .
+welcome	6	CT+	CT+
+########
+1
+2017_11_09 15:05 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+For those who have never visited China 's Forbidden City , they can see it now _ through the tweets of US President Donald Trump , who is using a picture taken at the UNESCO World Heritage Site as the cover of his Twitter account .
+never	4	neg_cue
+can	12	ps_cue
+########
+4
+<EOP> .
+########
+5
+Trump , who is having a `` state visit_plus '' in China , sent a slew of tweets on Wednesday , calling his first couple of hours in Beijing `` unforgettable '' and the lavish welcome he received `` beautiful '' .
+welcome	35	CT+	CT+
+########
+6
+<EOP> .
+########
+7
+`` On behalf of @FLOTUS Melania and I , THANK YOU for an unforgettable afternoon and evening at the Forbidden City in Beijing , President Xi and Madame Peng Liyuan .
+########
+8
+We are looking forward to rejoining you tomorrow morning ! ''
+forward	3	ps_cue
+forward	3	neg_cue
+########
+9
+Trump wrote .
+########
+10
+<EOP> .
+########
+11
+The US president flew to Beijing from Seoul on Wednesday afternoon .
+########
+12
+<EOP> .
+########
+13
+On the morning before delivering a speech at the National Assembly in South Korea , Trump tweeted that he would `` be headed to China where I very much look forward to meeting with President Xi who is just off his great political victory '' , referring to Xi 's re_election as the Party general secretary at the 19th National Congress of the Communist Party of China late last month .
+would	19	ps_cue
+forward	30	ps_cue
+forward	30	neg_cue
+########
+14
+<EOP> .
+########
+15
+Upon arriving at the Chinese capital , the Trumps had afternoon tea with President Xi and his wife Peng Liyuan at the Hall of Embodied Treasures in the Forbidden City , before a tour of the ancient imperial palace , including a performance by young Peking Opera students .
+########
+16
+<EOP> .
+########
+17
+Their picture with the performers dressed in ornate traditional Chinese costumes is apparently one of Trump 's favorites during the afternoon tour .
+########
+18
+He used it as the cover of his Twitter account .
+########
+19
+He also posted or retweeted four other pictures of his tour in the Forbidden City .
+or	3	ps_cue
+########
+20
+<EOP> .
+########
+21
+Trump wrote in another post that he was `` looking forward to a full day of meetings with President Xi and our delegations tomorrow .
+forward	10	ps_cue
+forward	10	neg_cue
+########
+22
+THANK YOU for the beautiful welcome China !
+welcome	5	CT+	CT+
+########
+23
+@FLOTUS Melania and I will never forget it ! ''
+will	4	ps_cue
+never	5	neg_cue
+########
+24
+<EOP> .
+########
+25
+David Shambaugh , professor of political science at the George Washington University , said he is a great admirer of the collections at the Forbidden City , also known as the Palace Museum .
+########
+26
+<EOP> .
+########
+27
+`` It is a very important heritage for Chinese civilization , and LRB it 's RRB very important for President Trump on his first visit to Beijing be shown this 5,000 years of history , '' Shambaugh told China Daily .
+########
+28
+`` That I 'm sure will leave a big impact on him and his wife . ''
+will	5	ps_cue
+########
+29
+<EOP> .
+########
+30
+Shambaugh also said that the personal chemistry between the two leaders is very positive .
+########
+31
+<EOP> .
+########
+32
+He said the meeting is a very important step forward to stabilize and then improve in various sectors cooperation between the two countries .
+forward	9	ps_cue
+forward	9	neg_cue
+########
+33
+<EOP> .
+########
+34
+William Cohen , former US defense secretary , said an open and constructive US_China relationship is in the interests of both countries and critical to sustained global prosperity and stability .
+########
+35
+<EOP> .
+########
+36
+`` I hope President Trump 's visit to China will result in cooperative actions that promote peace and security in Asia , most urgently on the question of North Korea 's destabilizing nuclear ambitions , '' Cohen said .
+hope	2	ps_cue
+will	9	ps_cue
+question	26	ps_cue
+########
+37
+<EOP> .
+########

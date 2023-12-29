@@ -1,0 +1,48 @@
+Does US look forward to completing all four high_level dialogues with China ` soon ' 
+0
+US looks forward to completing all four high_level dialogues with China ` soon ' <EOP> .
+completing	4	PS+	PS+
+forward	2	ps_cue
+forward	2	neg_cue
+########
+1
+2017_09_15 05:55 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+The US is looking forward to carrying out the first rounds of all four high_level dialogues on a series of issues with China as soon as possible , according to a US State Department spokesperson .
+carrying	6	PS+	PS+
+forward	4	ps_cue
+forward	4	neg_cue
+possible	26	ps_cue
+########
+4
+<EOP> .
+########
+5
+After the inaugural high_level dialogue on diplomacy and security , which took place in Washington in June , and the high_level dialogue on the economy in July , Beijing and Washington have yet to hold their high_level dialogues on social and cultural issues and the dialogue on law enforcement and cybersecurity .
+yet	32	neg_cue
+########
+6
+<EOP> .
+########
+7
+`` I believe we 've had two of those four meetings , and we look forward to carrying out the rest just as soon as possible , '' Heather Nauert , a State Department spokesperson , told a news briefing on Wednesday .
+forward	15	ps_cue
+forward	15	neg_cue
+possible	25	ps_cue
+########
+8
+<EOP> .
+########
+9
+The four dialogues are part of the four_pronged high_level dialogue mechanisms set up by President Xi Jinping and his US counterpart Donald Trump during their meeting at Mar_a_Lago in Florida in April .
+########
+10
+<EOP> .
+########
+11
+huanxinzhao@chinadailyusa.com <EOP> .
+########

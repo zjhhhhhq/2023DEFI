@@ -1,0 +1,86 @@
+Does Korean protest the deployment of THAAD 
+0
+THAAD ` operational ' in ROK amid protests <EOP> .
+protests	7	CT+	CT+
+########
+1
+2017_05_03 07:33 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+<EOP> .
+########
+4
+T <EOP> .
+########
+5
+he US anti_missile system called the Terminal High Altitude Area Defense is seen at Soseong_ri , Republic of Korea , on Tuesday .
+########
+6
+Yonhap Via Ap <EOP> .
+########
+7
+<EOP> .
+########
+8
+<EOP> .
+########
+9
+SEOUL _ US Forces Korea has confirmed that the Terminal High Altitude Area Defense anti_missile system deployed last week in the southeastern Republic of Korea is `` operational '' .
+########
+10
+<EOP> .
+########
+11
+The system has the ability to `` intercept missiles '' from the Democratic People 's Republic of Korea and `` defend South Korea '' , USFK spokesman Rob Manning said on Tuesday .
+########
+12
+<EOP> .
+########
+13
+Last week , about 20 US trucks and trailers carried THAAD components , including radar , to a golf course designated for the system in the village of Soseong_ri in Seongju county , North Gyeongsang province .
+########
+14
+<EOP> .
+########
+15
+The installed components include two mobile launchers and an AN_TPY_2 radar .
+########
+16
+A complete THAAD battery is composed of six mobile launchers , 48 interceptors , radar and the fire and control unit .
+########
+17
+<EOP> .
+########
+18
+The deployment of THAAD in the Republic of Korea has been strongly opposed by nearby countries , including China and Russia , as an element breaking strategic balance in the region .
+opposed	12	CT+	CT+
+opposed	12	neg_cue
+########
+19
+<EOP> .
+########
+20
+In Beijing , a Foreign Ministry spokesman said the parties related in the Korean Peninsula nuclear issue should take responsibility and make a breakthrough to resume peace talks at an early date .
+should	17	ps_cue
+########
+21
+Geng Shuang said at a daily press briefing on Tuesday that China has always believed that peaceful negotiation and consultation remain the only practical and feasible approach to realizing denuclearization , peace and stability on the Korean Peninsula .
+believed	14	ps_cue
+########
+22
+<EOP> .
+########
+23
+On Monday , protesters blocked about 30 ROK police buses from entering , and they have continued to hold daily rallies in Soseong_ri .
+protesters	3	CT+	CT+
+blocked	4	neg_cue
+########
+24
+Three Buddhist monks whose holy ground is near the site , have started a hunger strike .
+########
+25
+<EOP> .
+########

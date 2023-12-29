@@ -1,0 +1,129 @@
+Did Donald Trump meet with Russians during his father 's 2016 presidential campaign
+0
+President Trump 's eldest son details 2016 meeting with Russians before Senate panel <EOP> .
+########
+1
+2017_09_08 09:11 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+<EOP> .
+########
+4
+Donald Trump Jr walks out of bathroom during a break as he attends a closed interview with staff members of the Senate Judiciary Committee as part of the committee 's ongoing probe into Russian meddling in the 2016 US presidential election in Capitol Hill , Washington D.C. , US September 7 , 2017 .
+########
+5
+LRB Photo_Agencies RRB <EOP> .
+########
+6
+WASHINGTON _ Donald Trump Jr. told the Senate Judiciary Committee on Thursday that he agreed to meet with Russians during his father 's 2016 presidential campaign because he wanted to assess Democratic candidate Hillary Clinton 's `` fitness '' and `` qualifications '' for the White House .
+meet	16	CT+	CT+
+wanted	28	ps_cue
+########
+7
+<EOP> .
+########
+8
+In a 10_minute opening statement , the US president 's eldest son insisted that though he accepted a meeting with a Russian lawyer who had promised damaging information on Clinton , he always intended to speak to his lawyers before using any of such materials .
+speak	35	PS+	CT+
+intended	33	ps_cue
+########
+9
+<EOP> .
+########
+10
+The interview , which took place behind closed doors and was not under oath , lasted just more than five hours as one of the most sensitive and sought_after interviews yet in the congressional probes into the alleged Russia 's election meddling in the US 2016 elections .
+not	11	neg_cue
+yet	30	neg_cue
+########
+11
+<EOP> .
+########
+12
+`` To the extent they had information concerning the fitness , character , or qualifications of a presidential candidate , I believed that I should at least hear them out , '' Donald Trump Jr. said in a statement provided to the Senate panel .
+or	13	ps_cue
+believed	21	ps_cue
+should	24	ps_cue
+########
+13
+<EOP> .
+########
+14
+`` Depending on what , if any , information they had , I could then consult with counsel to make an informed decision as to whether to give it further consideration . ''
+could	13	ps_cue
+whether	25	ps_cue
+consideration	30	ps_cue
+########
+15
+according to the statement obtained by The New York Times .
+########
+16
+<EOP> .
+########
+17
+Donald Trump Jr. said in his initial statement after the newspaper broke the news of the meeting that he and a Russian lawyer primarily `` discussed a program about the adoption of Russian children . ''
+########
+18
+<EOP> .
+########
+19
+`` There are a lot of areas that have been opened for future witnesses and questioning , '' said Democrat Senator Richard Blumenthal , `` There will be a lot of areas to be pursued . ''
+will	26	ps_cue
+########
+20
+<EOP> .
+########
+21
+<EOP> .
+########
+22
+<EOP> .
+########
+23
+The White House staunchly defended the June 2016 meeting as appropriate after Trump Jr. released in July the full email chain leading up to the meeting on Twitter upon learning that The Times was going to publish them .
+########
+24
+<EOP> .
+########
+25
+The emails showed that Trump Jr. agreed to meet with the lawyer , Natalia Veselnitskaya , at the Trump Tower in New York to discuss compromising information she said she had on Hillary Clinton .
+meet	8	CT+	CT+
+########
+26
+<EOP> .
+########
+27
+Veselnitskaya was at the time lobbying for the removal of US sanctions on Russia which had prompted Russian President Vladimir Putin to ban all American adoptions of Russian children in retaliation .
+ban	22	neg_cue
+########
+28
+<EOP> .
+########
+29
+Though the interview was not under oath , lying to the US Congress is still a crime , according to a TheHill news daily report .
+not	4	neg_cue
+########
+30
+<EOP> .
+########
+31
+Thursday 's interview was conducted by the Senate Judiciary Committee staffers .
+########
+32
+Lawmakers were allowed to observe , but not ask questions .
+not	7	neg_cue
+########
+33
+<EOP> .
+########
+34
+Trump Jr. is one of the first members of Trump 's inner sanctum to come before congressional investigators and the only immediate member of his family to do so .
+########
+35
+Trump 's son_in_law and senior adviser , Jared Kushner , has interviewed previously before the Senate Intelligence Committee .
+########
+36
+<EOP> .
+########

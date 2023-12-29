@@ -1,0 +1,108 @@
+Does Foreign Ministry urge restraint on Korean Peninsula 
+0
+Foreign Ministry urges restraint on Korean Peninsula <EOP> .
+restraint	3	CT+	CT+
+########
+1
+2017_07_06 07:22 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+<EOP> .
+########
+4
+All parties involved in the Korean Peninsula nuclear issue should exercise restraint and not speak or behave in away that escalates tensions , Foreign Ministry spokesman Geng Shuang said at a regular news conference in Beijing on Wednesday .
+restraint	11	CT+	CT+
+should	9	ps_cue
+not	13	neg_cue
+or	15	ps_cue
+########
+5
+<EOP> .
+########
+6
+Tensions have soared this week after the Democratic People 's Republic of Korea declared that it had successfully launched an intercontinental ballistic missile earlier on Tuesday .
+########
+7
+<EOP> .
+########
+8
+Less than 24 hours afterward , armed forces of the Republic of Korea and the United States launched short_range ballistic missiles of their own from the peninsula into the Sea of Japan on Wednesday .
+########
+9
+<EOP> .
+########
+10
+DPRK leader Kim Jong_un said on Wednesday that his nation will `` demonstrate its mettle to the US '' and never put its weapons programs up for negotiations , the Associated Press reported .
+will	10	ps_cue
+never	20	neg_cue
+########
+11
+<EOP> .
+########
+12
+Geng said the situation on the peninsula is complicated and sensitive , but China 's position is clear , and the other parties involved are aware of that .
+########
+13
+<EOP> .
+########
+14
+The United Nations Security Council scheduled an emergency meeting about the situation on Wednesday in New York .
+scheduled	5	ps_cue
+########
+15
+<EOP> .
+########
+16
+When asked about China 's message to be delivered at the meeting , Geng said it is hoped that the discussions push the nuclear issue closer to dialogue , consultations and a peaceful resolution .
+hoped	17	ps_cue
+########
+17
+<EOP> .
+########
+18
+Between the two missile launches , the foreign ministries of China and Russia issued a joint statement on the peninsula issue , stating `` serious concerns '' about the situation .
+########
+19
+<EOP> .
+########
+20
+The escalating political and military tensions in the region could trigger armed conflict , and the international community should take collective measures to peacefully resolve this through consultation , the statement said .
+could	9	ps_cue
+should	18	ps_cue
+########
+21
+<EOP> .
+########
+22
+China and Russia proposed that the DPRK voluntarily make political decisions and announce the suspension of its nuclear tests and ballistic missile launches , and that the US and the ROK accordingly suspend their large_scale joint military drill .
+proposed	3	ps_cue
+suspend	32	neg_cue
+########
+23
+<EOP> .
+########
+24
+On Wednesday , Geng added that the joint statement showcases voices from the international community calling for dialogue and the easing of tensions .
+########
+25
+<EOP> .
+########
+26
+The statement aims to address the root causes and symptoms , and the proposed solution is objective , fair , reasonable , realistic and viable , he said .
+proposed	13	ps_cue
+########
+27
+<EOP> .
+########
+28
+zhangyunbi@chinadaily.com.cn <EOP> .
+########
+29
+<EOP> .
+########
+30
+LRB China Daily 07_06_2017 page4 RRB <EOP> .
+########

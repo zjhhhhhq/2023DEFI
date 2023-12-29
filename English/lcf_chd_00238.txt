@@ -1,0 +1,104 @@
+Does the gemstone have any intrinsic value 
+0
+Junk_sale diamond fetches over $ 800,000 at auction <EOP> .
+########
+1
+2017_06_10 07:09 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+Gemstone was long believed by its owner to be costume jewelry .
+believed	3	ps_cue
+########
+4
+Justin Tallis _ Afp <EOP> .
+########
+5
+<EOP> .
+########
+6
+<EOP> .
+########
+7
+A diamond that was snapped up at a junk sale for 10 pounds LRB $ 13 RRB has sold at auction in London for 656,750 pounds LRB $ 836,000 RRB .
+########
+8
+<EOP> .
+########
+9
+The gemstone , which has been dubbed the `` tenner '' diamond , was bought as a ring at a flea market in West London in the 1980s , and then worn for many years by its oblivious owner , who had no idea it was a genuine 26.27 _ carat , cushion_shaped white diamond .
+genuine	47	CT-	CT-
+no	42	neg_cue
+########
+10
+<EOP> .
+########
+11
+The buyer thought it was just a piece of costume jewelry , due to its `` filthy mount '' , and had no idea it was valuable .
+valuable	26	CT-	CT-
+no	22	neg_cue
+########
+12
+<EOP> .
+########
+13
+After decades of wear , the true worth of the stone became apparent when it was taken to Sotheby 's for a valuation after a jeweler said it might be valuable .
+might	28	ps_cue
+########
+14
+Jessica Wyndham , head of Sotheby 's London jewelry department , said the owner wore the rock while carrying out everyday chores .
+########
+15
+<EOP> .
+########
+16
+`` The owner would wear it out shopping , wear it day_to_day , '' she said .
+would	3	ps_cue
+########
+17
+`` It 's a good_looking ring .
+########
+18
+No one had any idea it had any intrinsic value at all .
+value	9	CT-	CT-
+No	0	neg_cue
+########
+19
+They enjoyed it all this time . ''
+########
+20
+<EOP> .
+########
+21
+The auction house originally valued the stone at 350,000 pounds , but it ended up going for nearly twice that amount when it went under the hammer at a Sotheby 's fine jewels sale on Wednesday .
+########
+22
+<EOP> .
+########
+23
+The successful final bid was made by an international buyer .
+########
+24
+<EOP> .
+########
+25
+The ring was recently confirmed as a genuine diamond by the Gemological Institute of America .
+########
+26
+It is thought to have been cut in the 19th century , when the style was to cut to preserve weight , rather than to show brilliance , so it is large but relatively dull .
+rather	22	neg_cue
+########
+27
+<EOP> .
+########
+28
+`` Many of us in our lifetime would never even dream of seeing ... a stone like this , '' Wyndham told a news program .
+would	7	ps_cue
+never	8	neg_cue
+like	16	ps_cue
+########
+29
+<EOP> .
+########

@@ -1,0 +1,54 @@
+Did China increase its holding of US Treasury securities for the fourth consecutive month in May
+0
+China increases US treasuries holding in May <EOP> .
+May	6	ps_cue
+########
+1
+2017_07_19 06:38 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+WASHINGTON __ China increased its holding of US Treasury securities for the fourth consecutive month in May , the latest data from the US Treasury Department showed on Tuesday .
+increased	3	CT+	CT+
+May	16	ps_cue
+########
+4
+<EOP> .
+########
+5
+China added its treasuries holding by 10 billion US dollars in May , with the total holding up to 1.1022 trillion dollars .
+added	1	CT+	CT+
+May	11	ps_cue
+########
+6
+<EOP> .
+########
+7
+China 's foreign exchange reserves rose for the fifth month in a row in June , indicating easing capital flight pressure , according to data from the country 's central bank , the People 's Bank of China .
+########
+8
+<EOP> .
+########
+9
+China 's foreign exchange regulator , the State Administration of Foreign Exchange , attributed the rise of forex reserves in June to stable cross_border capital flow and the relative appreciation of non_US dollar assets .
+########
+10
+<EOP> .
+########
+11
+Japan , which overtakes China as the largest holder of US treasuries last October , raised its holding by 4.4 billion dollars to 1.1113 trillion dollars in May .
+May	27	ps_cue
+########
+12
+<EOP> .
+########
+13
+By the end of May , overall foreign holdings of US Treasury securities rose to 6.1236 trillion dollars from April 's 6.0737 trillion dollars .
+rose	13	CT+	CT+
+May	4	ps_cue
+########
+14
+<EOP> .
+########

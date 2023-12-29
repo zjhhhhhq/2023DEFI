@@ -1,0 +1,93 @@
+Will Merkel stay after German federal election 
+0
+Merkel most likely to stay after German federal election : polls <EOP> .
+stay	4	PS+	PS+
+likely	2	ps_cue
+########
+1
+2017_09_20 15:18 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+<EOP> .
+########
+4
+German Chancellor Angela Merkel , a top candidate of the Christian Democratic Union Party LRB CDU RRB for the upcoming general elections , speaks at an election rally in Schwerin , Germany , Sept 19 , 2017 .
+########
+5
+LRB Photo_Agencies RRB <EOP> .
+########
+6
+BERLIN _ Five days before the German federal election , no potential alternative is seen for either Chancellor Merkel or the continuation of the current German government , transferring the question to how Merkel will form the new German government .
+no	10	neg_cue
+potential	11	ps_cue
+either	16	ps_cue
+or	19	ps_cue
+question	30	ps_cue
+will	34	ps_cue
+########
+7
+<EOP> .
+########
+8
+Most polls see Merkel 's conservative union LRB CDU_CSU RRB comfortably sitting between 35_37 percent , more than 10 percentage points ahead of Germany 's other large party , the Social Democrats LRB SPD RRB .
+########
+9
+<EOP> .
+########
+10
+`` Chancellor Merkel will most likely stay , '' said Thorsten Schneider_Haase , head of political research at research group Kantar Emnid Institute .
+stay	6	PS+	PS+
+will	3	ps_cue
+likely	5	ps_cue
+########
+11
+<EOP> .
+########
+12
+As to the potential coalition partner of Chancellor Merkel , there are quite a few coalitions that are possible on paper but impossible in political reality .
+potential	3	ps_cue
+possible	18	ps_cue
+impossible	22	ps_cue
+impossible	22	neg_cue
+########
+13
+<EOP> .
+########
+14
+Everything is pointing at a continuous coalition between the CDU_CSU and the SPD yet within a 2_percent error margin , so a coalition with the Liberals LRB FDP RRB is not completely off the table , since it 's currently polled between 8_9 percent and thus ready to re_enter the German parliament .
+yet	13	neg_cue
+not	30	neg_cue
+ready	46	ps_cue
+########
+15
+<EOP> .
+########
+16
+Similar to many other European countries , the political landscape in Germany has changed fundamentally over the past two decades .
+########
+17
+<EOP> .
+########
+18
+Both polled around 10 percent , the populist right_wing party AfD and the far_left party Die Linke increased the number of parties that have passed the 5_percent hurdle to enter the German parliament from four to six .
+########
+19
+<EOP> .
+########
+20
+<EOP> .
+########
+21
+<EOP> .
+########
+22
+The increase in the number of represented parties has made it very hard for the coalitions of the old days _ either conservatives and liberals or social democrats and the green party _ to get a majority in Germany .
+either	21	ps_cue
+or	25	ps_cue
+########
+23
+<EOP> .
+########

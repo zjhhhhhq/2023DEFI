@@ -1,0 +1,111 @@
+Does Lawmaker make statement on Nanjing Massacre
+0
+Lawmaker makes statement on Nanjing Massacre <EOP> .
+makes	1	CT+	CT+
+########
+1
+2017_12_01 11:11 <EOP> .
+########
+2
+China Daily USA <EOP> .
+########
+3
+<EOP> .
+########
+4
+Jenny Kwan , member of the provincial caucus of the New Democratic Party LRB NDP RRB <EOP> .
+########
+5
+Jenny Kwan , member of the provincial caucus of the New Democratic Party LRB NDP RRB , made an open statement in Ottawa on Thursday on the Nanjing Massacre and other Japanese atrocities committed during World War II .
+made	17	CT+	CT+
+########
+6
+<EOP> .
+########
+7
+It was the first time a Canadian lawmaker delivered such a statement on Parliament Hill .
+delivered	8	CT+	CT+
+########
+8
+<EOP> .
+########
+9
+This year marks the 80th anniversary of the Nanjing Massacre , also known as the Rape of Nanking in the West .
+########
+10
+<EOP> .
+########
+11
+`` Eighty years ago , Imperial Japanese Army Forces raped an estimated 20,000 to 80,000 Chinese women and girls , and some 300,000 people were killed , '' Kwan said in the statement .
+said	29	CT+	CT+
+########
+12
+`` Western eyewitnesses in Nanjing described the atrocities as ` Hell on Earth . ' ''
+########
+13
+<EOP> .
+########
+14
+The Canadian provinces of Ontario , Manitoba , Alberta and British Columbia will hold events to mark Nanjing Massacre Commemorative Day on Dec 13 , she said .
+will	12	ps_cue
+########
+15
+<EOP> .
+########
+16
+Kwan also spoke about the crimes committed against female war victims in Asia , who were forced into sexual slavery as `` comfort women '' by Japanese troops during World War II .
+spoke	2	CT+	CT+
+against	7	neg_cue
+########
+17
+<EOP> .
+########
+18
+`` After the Nanjing Massacre , the military sexual slavery system for the Japanese military expanded rapidly , '' she said .
+########
+19
+`` Some 200,000 women from Korea , Philippines , China , Burma , Indonesia and other Japanese occupied territories were tricked , kidnapped or coerced to work in brothels to serve as ` comfort women ' to the Imperial Japanese Army . ''
+or	23	ps_cue
+########
+20
+<EOP> .
+########
+21
+According to Kwan , documents on the Nanjing Massacre were included in the UNESCO Memory of the World Register .
+########
+22
+<EOP> .
+########
+23
+Thekla Lit of BC ALPHA LRB Association for Learning and Preserving the History of WW II in Asia RRB has worked with the British Columbia NDP government and developed a resource guide , including the Rape of Nanjing .
+########
+24
+<EOP> .
+########
+25
+`` Thank you Canada ALPHA for your dedication in ensuring that Canadians remember and learn from this history , '' Kwan concluded .
+########
+26
+<EOP> .
+########
+27
+Last month , the Ontario Provincial Parliament passed a motion designating Dec 13 as Nanjing Massacre Commemorative Day to commemorate the mass killing of 300,000 Chinese by Japanese troops .
+########
+28
+<EOP> .
+########
+29
+The parliament of Ontario , home to Canada 's largest Asian community with more than 3 million of Asian descent , became the first regional legislature in a Western country to adopt the motion .
+########
+30
+<EOP> .
+########
+31
+Manitoba joined a growing movement in Canada to recognize and commemorate the Nanjing Massacre , with a motion of this kind passing its second reading with unanimous consent in its legislature .
+########
+32
+<EOP> .
+########
+33
+renali@chinadailyusa.com <EOP> .
+########

@@ -1,0 +1,156 @@
+Does ` bomb cyclone ' snowstorm paralyze US East Coast
+0
+` Bomb cyclone ' snowstorm paralyzes US East Coast <EOP> .
+paralyzes	5	CT+	CT+
+########
+1
+2018_01_05 13:55 <EOP> .
+########
+2
+China Daily USA <EOP> .
+########
+3
+A massive winter storm paralyzed much of the US East Coast on Thursday , dumping as much as 18 inches of snow from the Carolinas to Maine , causing flooding in streets of Boston , forcing the cancelation of more than 4,000 flights and closing businesses , offices and schools .
+paralyzed	4	CT+	CT+
+########
+4
+<EOP> .
+########
+5
+Forecasters expected the storm _ which some meteorologists classified as a `` bomb cyclone '' for its sharp drop in atmospheric pressure _ would be followed immediately by a blast of cold air that could break records in more than two dozen cities and bring wind chills as low as minus 40 this weekend .
+expected	1	ps_cue
+would	23	ps_cue
+could	34	ps_cue
+########
+6
+<EOP> .
+########
+7
+Officials said that more than 100,000 customers lost power in the storm that hit many areas with heavy winds .
+########
+8
+<EOP> .
+########
+9
+Airlines canceled 4,000 flights on Thursday and hundreds more on Friday , according to FlightAware.com , a tracking service .
+########
+10
+About 27,000 flights were scheduled Thursday to , from or within the US .
+scheduled	4	ps_cue
+or	9	ps_cue
+########
+11
+<EOP> .
+########
+12
+The storm shut down major airports until early Thursday evening , including John F. Kennedy International Airport and LaGuardia Airport in New York and Logan International Airport in Boston .
+shut	2	CT+	CT+
+########
+13
+Baltimore_Washington International Airport and Philadelphia International Airport remained open .
+########
+14
+Newark Liberty International Airport had one runway open , but flights could n't land due to strong crosswinds .
+could	11	ps_cue
+n't	12	neg_cue
+########
+15
+<EOP> .
+########
+16
+Passenger train operator Amtrak was running reduced service in the Northeast , while mass_transit systems in major metropolitan areas , including New York and Boston , remained open .
+########
+17
+<EOP> .
+########
+18
+The New York City area was among the hardest hit with up to 8 inches of snow in Manhattan and 15 inches on eastern Long Island .
+########
+19
+Wind gusts topped 40 mph in Manhattan and neared 60 mph on Long Island .
+########
+20
+<EOP> .
+########
+21
+People struggled against the wind gusts and swirling snow as drifts piled up on corners .
+against	2	neg_cue
+########
+22
+But the storm did n't stop people from wandering in Times Square and taking selfies as nearby plows and even a bulldozer sought to clear the area .
+stop	5	CT-	CT+
+n't	4	neg_cue
+stop	5	neg_cue
+########
+23
+<EOP> .
+########
+24
+Drivers crawled on roads , some littered with cars that had gotten stuck or had pulled over .
+or	13	ps_cue
+########
+25
+Plows cleared roads as best they could , but wind gusts covered them again .
+could	6	ps_cue
+########
+26
+<EOP> .
+########
+27
+By Thursday afternoon , the snow had stopped in the city , but Mayor Bill de Blasio said it could feel like minus 20 degrees on Friday and Saturday with the wind chill .
+stopped	7	neg_cue
+could	19	ps_cue
+like	21	ps_cue
+########
+28
+`` This is a serious , serious storm , '' he said at a news conference .
+########
+29
+`` We expect tough conditions for days to come , particularly in terms of cold . ''
+expect	2	ps_cue
+########
+30
+<EOP> .
+########
+31
+New York Governor Andrew Cuomo declared a state of emergency for the southern part of the state .
+########
+32
+New Jersey Governor Chris Christie declared a state of emergency for several counties .
+########
+33
+<EOP> .
+########
+34
+The high winds caused coastal flooding from Massachusetts to Maine , stranding people in homes and cars .
+########
+35
+In Massachusetts , Boston Harbor overflowed with chunks of ice and the rising tide pushed some boats up to street level .
+########
+36
+<EOP> .
+########
+37
+The National Weather Service said it was reviewing the water level in Boston , believing it topped levels from the blizzard of 1978 .
+########
+38
+<EOP> .
+########
+39
+The massive storm began two days ago in the Gulf of Mexico , first hitting the Florida Panhandle with snow in Tallahassee on Wednesday , that city 's first snow in nearly three decades .
+########
+40
+It then barreled up the coast and hit southern cities such as Savannah , Georgia , and Charleston , South Carolina , with snow and ice .
+########
+41
+<EOP> .
+########
+42
+AP and Reuters contributed to this story .
+########
+43
+<EOP> .
+########
+44
+<EOP> .
+########

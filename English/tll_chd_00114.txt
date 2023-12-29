@@ -1,0 +1,19 @@
+Is first Giants Parade held in Leuven , Belgium
+0
+First Giants Parade held in Leuven , Belgium <EOP> .
+held	3	CT+	CT+
+########
+1
+2017_05_22 10:09 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+Giant figures are seen during the first Giants Parade held in Leuven , Belgium , May 20 , 2017 .
+held	9	CT+	CT+
+May	15	ps_cue
+########
+4
+LRB Photo_Agencies RRB <EOP> .
+########

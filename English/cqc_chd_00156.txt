@@ -1,0 +1,151 @@
+Does ROK's with China come back on the track of healthy development
+0
+China tells ROK envoy fixing relations crucial <EOP> .
+relations	5	CT+	CT+
+########
+1
+2017_05_19 10:18 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+Foreign minister calls THAAD deployment key impediment <EOP> .
+########
+4
+<EOP> .
+########
+5
+Chinese Foreign Minister Wang Yi meets with Lee Hae_chan , special envoy of the President of the Republic of Korea LRB ROK RRB Moon Jae_in , in Beijing , capital of China , May 18 , 2017 .
+May	33	ps_cue
+########
+6
+LRB Photo_Xinhua RRB <EOP> .
+########
+7
+China hopes the Republic of Korea will take effective measures to `` remove the stumbling block '' so it can get its relationship with China back on the track of healthy development , Foreign Minister Wang Yi said on Thursday .
+relationship	22	CT+	CT+
+hopes	1	ps_cue
+will	6	ps_cue
+block	15	neg_cue
+can	19	ps_cue
+########
+8
+<EOP> .
+########
+9
+Wang met on Thursday in Beijing with former ROK prime minister Lee Hae_chan , a special envoy sent by the new ROK President Moon Jae_in .
+########
+10
+<EOP> .
+########
+11
+`` Since last year , the bilateral relationship has suffered an undeserved frustration , which we are not willing to see , '' Wang told Lee in his opening remarks .
+relationship	7	CT+	CT+
+not	17	neg_cue
+willing	18	ps_cue
+########
+12
+<EOP> .
+########
+13
+Lee 's trip comes at a time when the ties between the two countries have been impacted by the deployment in the ROK of the US Terminal High Altitude Area Defense , or THAAD , anti_missile system over Beijing 's objections .
+or	32	ps_cue
+########
+14
+<EOP> .
+########
+15
+The bilateral ties have made remarkable progress , since being established 25 years ago , to the benefit of the two sides , a fact that both countries should cherish and endorse , Wang said .
+should	28	ps_cue
+########
+16
+<EOP> .
+########
+17
+This is the second time Lee visited China as a presidential special envoy .
+########
+18
+Fourteen years ago , he came as a representative of ROK president Roh Moo_hyun .
+########
+19
+<EOP> .
+########
+20
+Lee told Wang that before his China trip , Moon had asked him to enter into intensive dialogues with China .
+########
+21
+<EOP> .
+########
+22
+Seoul recognizes the damage to the ties prompted by the THAAD deployment , it understands Beijing 's concerns and is ready to seek a solution to tackle the issue , Lee said .
+ready	20	ps_cue
+########
+23
+<EOP> .
+########
+24
+Observers said it remains to be seen how Moon 's new administration will tackle the problem triggered by THAAD .
+will	12	ps_cue
+########
+25
+<EOP> .
+########
+26
+Jin Canrong , a professor of international relations at Renmin University of China , said Moon is embracing opportunities at this moment .
+opportunities	18	ps_cue
+########
+27
+<EOP> .
+########
+28
+China rightfully criticizes the THAAD deployment , which damages China 's strategic interests and brings no good to the region , Jin said .
+no	15	neg_cue
+########
+29
+<EOP> .
+########
+30
+`` Meanwhile , the overall ties should be brought back to a stable status , '' Jin added .
+should	6	ps_cue
+########
+31
+<EOP> .
+########
+32
+Signs of hope about the relationship emerged after Moon was elected on May 9 .
+relationship	5	CT+	CT+
+hope	2	ps_cue
+May	12	ps_cue
+########
+33
+<EOP> .
+########
+34
+President Xi Jinping sent a congratulatory telegraph to Moon on May 10 and held a phone conversation with him a day later .
+May	10	ps_cue
+########
+35
+<EOP> .
+########
+36
+During that conversation , the two leaders agreed to keep contacts open and to meet at an early date .
+########
+37
+<EOP> .
+########
+38
+Another ROK delegation , led by Park Byeong_suk , former deputy speaker of the National Assembly , visited China to attend the Belt and Road Forum for International Cooperation , held in Beijing on Sunday and Monday .
+########
+39
+<EOP> .
+########
+40
+State Councilor Yang Jiechi met with Park on Monday and said , `` China puts emphasis on its ties with the ROK and hopes that the bilateral relations will be improved and developed from a new starting point . ''
+relations	27	CT+	CT+
+hopes	23	ps_cue
+will	28	ps_cue
+########
+41
+<EOP> .
+########

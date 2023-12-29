@@ -1,0 +1,108 @@
+Do Danish divers find missing body parts of Swedish journalist 
+0
+Danish divers find missing body parts of Swedish journalist <EOP> .
+find	2	CT+	CT+
+missing	3	neg_cue
+########
+1
+2017_10_07 18:31 <EOP> .
+########
+2
+null <EOP> .
+########
+3
+A photo of Swedish journalist Kim Wall who was aboard a submarine `` UC3 Nautilus '' before it sank .
+########
+4
+LRB Photo_Agencies RRB <EOP> .
+########
+5
+<EOP> .
+########
+6
+COPENHAGEN _ Danish police said on Saturday divers had found the head and the legs of Swedish journalist Kim Wall , who died in mysterious circumstances on an inventor 's homemade submarine .
+found	9	CT+	CT+
+########
+7
+<EOP> .
+########
+8
+Peter Madsen has been charged with killing the Swedish journalist who disappeared after she went on a trip with him in his submarine on Aug 10 .
+########
+9
+He denies the charges .
+denies	1	neg_cue
+########
+10
+<EOP> .
+########
+11
+Madsen , a Dane , was arrested after his submarine sank and he was rescued .
+########
+12
+His lawyer Betina Hald Engmark told Reuters that she had been informed of the development , but had not received any material or documentation and decline further comment .
+not	18	neg_cue
+or	22	ps_cue
+########
+13
+<EOP> .
+########
+14
+Police identified a headless female torso that washed ashore in Copenhagen later in August as Wall 's , but a cause of death has not been determined .
+not	24	neg_cue
+########
+15
+<EOP> .
+########
+16
+Madsen has said Wall died in an accident when she was hit by a heavy hatch cover on board his submarine .
+########
+17
+<EOP> .
+########
+18
+On Saturday a police spokesman told reporters in Copenhagen that there were no fractures to Wall 's skull .
+no	12	neg_cue
+########
+19
+<EOP> .
+########
+20
+The body parts , a knife and some of Wall 's clothes in bags weighted down by bits of metal were found in Koge Bay on Friday by Danish navy divers who are assisting the police .
+found	21	CT+	CT+
+########
+21
+<EOP> .
+########
+22
+Police spokesman Jens Moller Jensen told reporters on Saturday that the body parts will be investigated further to try and determine a cause of death .
+will	13	ps_cue
+########
+23
+<EOP> .
+########
+24
+He said that the Madsen and his lawyers had not had time yet to react to the new evidence .
+not	9	neg_cue
+yet	12	neg_cue
+########
+25
+<EOP> .
+########
+26
+A police prosecutor said earlier this week that officers had found images `` which we presume to be real '' of women being strangled and decapitated on Peter Madsen 's computer in a laboratory he ran .
+presume	15	ps_cue
+########
+27
+<EOP> .
+########
+28
+Madsen said the computer searched by police was not his but was used by everyone in the laboratory .
+not	8	neg_cue
+########
+29
+<EOP> .
+########
+30
+Reuters <EOP> .
+########

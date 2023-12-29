@@ -1,0 +1,151 @@
+Does UK quit the European Union
+0
+Britain faces confusion , uncertainty with hung parliament <EOP> .
+########
+1
+2017_06_09 20:00 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+British voters have added further confusion to the uncertainty confronting the UK 's international partners , who have spent the past year trying to work out the consequences of the same electorate 's decision to quit the European Union .
+quit	35	CT+	CT+
+quit	35	neg_cue
+########
+4
+<EOP> .
+########
+5
+<EOP> .
+########
+6
+<EOP> .
+########
+7
+<EOP> .
+########
+8
+Britain 's Prime Minister Theresa May leaves 10 Downing Street to travel to Buckingham Palace to ask the Queen 's permission to form a minority government , in London , June 9 , 2017 .
+May	5	ps_cue
+########
+9
+<EOP> .
+########
+10
+LRB Photo_Agencies RRB <EOP> .
+########
+11
+In a snap election called by Prime Minister Theresa May to endorse her mandate for a `` strong and stable '' stance in negotiations on Britain 's withdrawal from the 28_member EU , voters denied her ruling Conservative Party an overall majority in the British Parliament .
+withdrawal	27	CT+	CT+
+May	9	ps_cue
+denied	34	neg_cue
+########
+12
+The Conservatives won 42 percent of the vote to Labour 's 40 percent .
+########
+13
+<EOP> .
+########
+14
+What now looks like an ill_advised gamble to increase her parliamentary majority _ the snap election was called on her initiative _ leaves May in office but seriously weakened .
+like	3	ps_cue
+May	23	ps_cue
+########
+15
+After meeting the Queen on Friday , May said she would form a government that would work with the Democratic Unionist Party and its ten MPs .
+May	7	ps_cue
+would	10	ps_cue
+would	15	ps_cue
+########
+16
+The prime minister has barely a week before she is due to embark on talks on the terms of Britain 's EU withdrawal .
+barely	4	neg_cue
+########
+17
+<EOP> .
+########
+18
+<EOP> .
+########
+19
+<EOP> .
+########
+20
+May fought the election on a `` Brexit '' agenda , promising to take a tough line on maintaining Britain 's rights in future relations with its European neighbors .
+May	0	ps_cue
+########
+21
+Her Brexit promises , criticized for being thin on detail , were twinned with a pledge to tighten Britain 's trade relationship with non_European partners such as China , India and the US .
+criticized	4	neg_cue
+########
+22
+<EOP> .
+########
+23
+In the event , the election result appears to have been driven more by domestic issues _ taxation , welfare and pensions _ than it was by the Brexit issue .
+appears	7	ps_cue
+########
+24
+<EOP> .
+########
+25
+Promises by the main opposition Labour Party to boost public spending , tax corporations and renationalize some sectors of the privatized economy appear to have boosted its support among people who had voted both for and against EU membership in last year 's referendum .
+opposition	4	neg_cue
+appear	22	ps_cue
+against	36	neg_cue
+########
+26
+<EOP> .
+########
+27
+Jeremy Corbyn , a left_wing Labour leader who had looked unelectable as prime minister a year ago , delivered one of the party 's best ever results in a general election in terms of the percentage vote .
+########
+28
+<EOP> .
+########
+29
+Corbyn remains in opposition despite Labour gains in Thursday 's poll but his party may be able to count on tactical support from Liberal Democrats , Scottish Nationalists and others to constrain the weakened Conservative government .
+opposition	3	neg_cue
+may	14	ps_cue
+########
+30
+<EOP> .
+########
+31
+All of the Liberal parliamentarians , many from the Labour Party , and a substantial wing of the Conservative Party campaigned against withdrawal from the EU last year , although a majority of MPs subsequently gave the formal go_ahead for Britain 's departure .
+withdrawal	22	CT+	CT+
+against	21	neg_cue
+gave	35	neg_cue
+########
+32
+<EOP> .
+########
+33
+The result will almost certainly not reverse the consequences of last year 's referendum but it may temper May 's threat of a `` hard Brexit '' if Britain fails to reach a satisfactory deal with the EU .
+will	2	ps_cue
+not	5	neg_cue
+may	16	ps_cue
+May	18	ps_cue
+########
+34
+<EOP> .
+########
+35
+A year on , the UK 's trading partners are still assessing the impact of the referendum on its relations with the world 's sixth largest economy .
+########
+36
+<EOP> .
+########
+37
+Harvey Morris is a senior media consultant for China Daily : contact him on harvey.morris@gmail.com <EOP> .
+########
+38
+<EOP> .
+########
+39
+<EOP> .
+########
+40
+<EOP> .
+########

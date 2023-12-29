@@ -1,0 +1,80 @@
+Do Japanese executives visit China
+0
+Japanese executives plan major visit to China <EOP> .
+visit	4	PS+	PS+
+plan	2	ps_cue
+########
+1
+2017_09_05 14:36 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+The Japan_China Economic Association said on Monday that it will send a delegation of 200 Japanese executives to China in November , according to the SankeiBiz .
+delegation	12	PS+	PS+
+will	9	ps_cue
+########
+4
+<EOP> .
+########
+5
+The business leaders are scheduled to stay in Beijing for talks with Chinese government officials on Nov 20_23 and visit other parts of China including some companies in Guangzhou , Guangdong province , after that .
+scheduled	4	ps_cue
+########
+6
+<EOP> .
+########
+7
+This will be the 43rd annual association delegation to China .
+will	1	ps_cue
+########
+8
+The association is headed by Shoji Muneoka , who is chairman of Nippon Steel ＆ Sumitomo Metal Corporation , Japan 's largest steel producer .
+########
+9
+<EOP> .
+########
+10
+It will be the third time for Japan 's three business bodies _ the Japan Business Federation LRB also known as Keidanren RRB , the Japan Chamber of Commerce and Industry and the Japan_China Economic Association _ to send a joint delegation to China .
+will	1	ps_cue
+########
+11
+Keidanren consists mainly of big companies , and the chamber of commerce represents smaller firms .
+########
+12
+<EOP> .
+########
+13
+Vice Premier Zhang Gaoli met with the group of Japanese business leaders last year .
+########
+14
+<EOP> .
+########
+15
+A white paper released by the Japanese Chamber of Commerce and Industry in China in June showed that the number of Japanese companies which hoped to expand in China , were on the increase for the first time in recent years .
+hoped	24	ps_cue
+########
+16
+About 40 per cent of 8,852 Japanese businesses were willing to expand their business on the Chinese mainland , compared with 38 percent in 2015 .
+willing	9	ps_cue
+########
+17
+Only 7.1 percent wanted to scale down or withdraw , down from 10.6 percent that wanted to leave China in the previous year .
+wanted	3	ps_cue
+or	7	ps_cue
+withdraw	8	neg_cue
+wanted	15	ps_cue
+########
+18
+<EOP> .
+########
+19
+China is Japan 's biggest trading partner .
+########
+20
+Japan 's exports to China rose 17.6 percent in July compared to a year earlier .
+########
+21
+<EOP> .
+########

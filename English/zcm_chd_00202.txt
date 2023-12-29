@@ -1,0 +1,90 @@
+Will the United States withdraw from the Paris Agreement on climate change
+0
+UN chief : US withdrawal from Paris Agreement ` major disappointment ' <EOP> .
+disappointment	10	neg_cue
+########
+1
+2017_06_02 10:22 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+US President Donald Trump pauses as he announces his decision that the United States will withdraw from the landmark Paris Climate Agreement , in the Rose Garden of the White House in Washington , US , June 1 , 2017 .
+will	14	ps_cue
+withdraw	15	neg_cue
+########
+4
+LRB Photo_Agencies RRB <EOP> .
+########
+5
+UN Secretary_General António Guterres said the United States ' decision to withdraw from the Paris Agreement on climate change is `` a major disappointment '' for global efforts to reduce greenhouse gas emissions and promote global security .
+withdraw	11	CT-	CT-
+withdraw	11	neg_cue
+disappointment	23	neg_cue
+########
+6
+<EOP> .
+########
+7
+US President Donald Trump announced at the White House on Thursday that the US will withdraw from the landmark Paris pact , fulfilling a pledge he made during the presidential election campaign .
+withdraw	15	CT+	CT-
+will	14	ps_cue
+withdraw	15	neg_cue
+########
+8
+<EOP> .
+########
+9
+The Paris Agreement was adopted by almost all of the world 's nations in 2015 `` because they recognize the immense harm that climate change is already causing and the enormous opportunity that climate action presents '' , said Guterres in a statement issued by his spokesman .
+########
+10
+`` It offers a meaningful yet flexible framework for action by all countries , '' he said .
+yet	5	neg_cue
+########
+11
+<EOP> .
+########
+12
+Trump , citing economic concerns , said the US would begin negotiations either to re_enter the Paris accord or to have a new agreement `` on terms that are fair to the United States , its businesses , its workers , its people , its taxpayers '' , Reuters reported .
+would	9	ps_cue
+either	12	ps_cue
+or	18	ps_cue
+########
+13
+<EOP> .
+########
+14
+Guterres believes that it is crucial that the US remains a leader on environmental issues , according to the statement .
+########
+15
+<EOP> .
+########
+16
+He remains confident that cities , states and businesses within the United States -- along with other countries -- will continue to demonstrate vision and leadership by working for the low_carbon , resilient economic growth that will create good_quality jobs and markets for 21st century prosperity .
+will	19	ps_cue
+will	36	ps_cue
+########
+17
+<EOP> .
+########
+18
+And he looks forward to engaging with the US government and all actors in the US and around the world to build a sustainable future .
+forward	3	ps_cue
+forward	3	neg_cue
+########
+19
+<EOP> .
+########
+20
+wanglinyan@chinadaily.com.cn <EOP> .
+########
+21
+<EOP> .
+########
+22
+<EOP> .
+########
+23
+<EOP> .
+########

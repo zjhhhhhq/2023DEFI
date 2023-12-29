@@ -1,0 +1,50 @@
+Will the 2018 China_EU Tourism Year quickly approach
+0
+Preparations underway for 2018 China_EU Tourism Year <EOP> .
+########
+1
+2017_06_01 19:30 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+Editor 's Note : Chinese Premier Li Keqiang 's European visit tour , scheduled from May 31 to June 2 , is expected to enhance the tourism business between China and the European Union LRB EU RRB , with the 2018 China_EU Tourism Year quickly approaching .
+approaching	45	CT+	CT+
+scheduled	13	ps_cue
+May	15	ps_cue
+expected	22	ps_cue
+########
+4
+<EOP> .
+########
+5
+<EOP> .
+########
+6
+Overview <EOP> .
+########
+7
+The 2018 China_EU Tourism Year was put forward and discussed by Premier Li Keqiang and the President of the European Commission Jean_Claude Juncker at the 18th China_EU Leaders ' Meeting in July 2016 .
+put	6	CT+	CT+
+forward	7	ps_cue
+forward	7	neg_cue
+########
+8
+<EOP> .
+########
+9
+<EOP> .
+########
+10
+According to the China National Tourism Administration , about 3.5 million Chinese tourists selected Europe as their first destination of choice when asked in 2015 , which equated to 22.9 percent increase year_on_year .
+########
+11
+<EOP> .
+########
+12
+Statistics , released by the European Travel Commission last year , also showed China remained one of the fastest_growing markets to visit Europe , with 10.6 million Chinese tourists staying overnight in 2016 .
+########
+13
+<EOP> .
+########

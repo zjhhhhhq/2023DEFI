@@ -1,0 +1,101 @@
+Do leaders of Germany and France together open 69th Frankfurt Book Fair
+0
+Leaders of Germany and France together open 69th Frankfurt Book Fair <EOP> .
+open	6	CT+	CT+
+########
+1
+2017_10_11 09:39 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+<EOP> .
+########
+4
+German Chancellor Merkel and French President Macron visit french pavilon at the Frankfurt Book Fair in Frankfurt , the world 's largest book fair which runs from October 11 to October 15 and features the literature of France as its guest of honour , in Frankfurt , Germany , October 10 , 2017 .
+########
+5
+LRB Photo_Agencies RRB <EOP> .
+########
+6
+FRANKFURT _ German Chancellor Angela Merkel and French President Emmanuel Macron together opened the 69th Frankfurt Book Fair Tuesday evening .
+opened	12	CT+	CT+
+########
+7
+<EOP> .
+########
+8
+With around 200 French authors coming to Frankfurt , France is this year 's guest of honour at the international publishing industry 's biggest trade fair , where over 7,300 exhibitors from 102 countries and regions as well as around 278,000 visitors are expected .
+expected	43	ps_cue
+########
+9
+<EOP> .
+########
+10
+Addressing the opening ceremony , Merkel and Macron underlined the close cultural connection of both countries __ despite controversies .
+########
+11
+<EOP> .
+########
+12
+Both countries saw themselves united in a thoroughly controversial but always rich interflow in culture , said the German chancellor , whose party just won the parliamentary election in September , which made her most likely to stay .
+likely	35	ps_cue
+########
+13
+<EOP> .
+########
+14
+`` Authors can be creators of ideas and bridge builders , '' Merkel said , emphasizing the solidarity and friendship between the two countries and the importance of the bilateral cooperation in and for Europe .
+can	2	ps_cue
+########
+15
+<EOP> .
+########
+16
+It was widely anticipated that the French president would make use of his visit to Frankfurt to speak about the future of Europe , after he had presented in September his receipt for Europe amid mounting populism , calling for closer ties to build joint defense force , common fiscal policy and coordinate efforts to tackle migration crisis and climate change .
+would	8	ps_cue
+########
+17
+<EOP> .
+########
+18
+`` We must not isolate ourselves , in order to protect our values . ''
+not	3	neg_cue
+########
+19
+Macron said in Frankfurt .
+########
+20
+<EOP> .
+########
+21
+Regarding the fair 's motto `` Frankfurt in French '' , he spoke highly of the power of diversity in culture and languages , saying that the identity of the language lives amid the confrontation with other languages , `` diversity is wealth '' .
+########
+22
+<EOP> .
+########
+23
+The opening of Frankfurt Book Fair by Merkel and Macron was symbol of close connection between the two countries and their commitment to a common and strong Europe , said the fair 's director Juergen Boos .
+opening	1	CT+	CT+
+########
+24
+<EOP> .
+########
+25
+Over 4,000 events are going to take place during this year 's book fair , which will opens its door to professional visitors from Wednesday to Sunday .
+will	16	ps_cue
+########
+26
+On its last two days , anyone interested can visit the book fair .
+can	8	ps_cue
+########
+27
+<EOP> .
+########
+28
+<EOP> .
+########
+29
+<EOP> .
+########

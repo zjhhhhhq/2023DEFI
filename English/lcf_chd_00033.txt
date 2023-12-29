@@ -1,0 +1,220 @@
+Does London 's Chinatown set to change 
+0
+London 's Chinatown set to change as Cantonese move over for mainlanders <EOP> .
+change	5	CT+	CT+
+########
+1
+2017_10_30 17:45 <EOP> .
+########
+2
+China Daily UK <EOP> .
+########
+3
+<EOP> .
+########
+4
+A couple enjoys bubblewrap waffles in London 's iconic Chinatown , an area that is expected to undergo transformation .
+transformation	18	PS+	CT+
+expected	15	ps_cue
+########
+5
+LRB Photo_China Daily RRB <EOP> .
+########
+6
+For more than 50 years , London 's Chinatown has been the heartland of the United Kingdom 's Cantonese community .
+########
+7
+It was where they shopped , ate , and socialized .
+########
+8
+<EOP> .
+########
+9
+But it is now being transformed to accommodate and reflect other Chinese communities and to keep up with the changing profile of the Chinese in the United Kingdom .
+transformed	5	CT+	CT+
+########
+10
+<EOP> .
+########
+11
+The adjustment means there will be fewer supermarkets and family_run restaurants in the years ahead and more large_scale branded restaurants .
+will	4	ps_cue
+########
+12
+<EOP> .
+########
+13
+Most of the property in Chinatown , which is in the southern part of the Soho area of Central London , is owned by Shaftesbury , a public limited company .
+########
+14
+Tom Welton , the property director of Shaftesbury , said neighborhoods change over time .
+########
+15
+<EOP> .
+########
+16
+`` Chinatown , in its own way , is evolving to cater for different tastes , '' he said .
+########
+17
+`` We 're seeing now lots of students from the Chinese mainland hanging out in Chinatown .
+########
+18
+They might come from different parts of China and have different tastes , but the businesses are responding to that . ''
+might	1	ps_cue
+########
+19
+<EOP> .
+########
+20
+London 's first Chinatown was in the east of the city , close to its docks .
+########
+21
+It migrated to its current location in the 1970s , when rents were cheap and Soho was a byword for crime and prostitution .
+########
+22
+<EOP> .
+########
+23
+It is a bustling network of traditional dim sum restaurants , old fashioned barber shops , grocery stores , and gambling places but now also features shops selling Taiwan bubble tea , matcha ice cream , and Instagram_friendly bubblewrap waffles .
+########
+24
+<EOP> .
+########
+25
+Shaftesbury wants new tenants to offer more to Chinese students and visitors , people who are more likely to come from the Chinese mainland than Hong Kong .
+wants	1	ps_cue
+likely	17	ps_cue
+########
+26
+<EOP> .
+########
+27
+Welton said the increasing number of Chinese tourists to the capital is a major catalyst for change in Chinatown .
+change	16	CT+	CT+
+########
+28
+Around 160,000 Chinese tourists visited London last year , each spending an average of 1,370 pounds LRB $ 1,808 RRB , which is more than half of an average Londoner 's monthly net salary of 2,227 pounds , according to the Office for National Statistics .
+########
+29
+<EOP> .
+########
+30
+The number of Chinese tourists is expected to reach 330,000 a year by 2025 , which will make them the largest group of tourists visiting London .
+expected	6	ps_cue
+will	16	ps_cue
+########
+31
+<EOP> .
+########
+32
+Welton said Cantonese people and products will still play an important role in Chinatown , but there will be less of them .
+will	6	ps_cue
+will	17	ps_cue
+########
+33
+<EOP> .
+########
+34
+`` Places evolve , and things change , '' he said .
+########
+35
+`` They do n't just get fixed in time and you have to respond to that . ''
+n't	3	neg_cue
+########
+36
+<EOP> .
+########
+37
+Soho has become more popular and expensive since the 1970s and small businesses now find it hard to afford the rent .
+########
+38
+Jon Man , a member of the West End Chinatown Tenants ' Association , said increasing rents forced his Chinese restaurant out of the area .
+########
+39
+He is skeptical about whether newcomers will be able to succeed there because of the high overheads .
+whether	4	ps_cue
+will	6	ps_cue
+########
+40
+`` They do not have a clue what the market is like , '' he said .
+not	3	neg_cue
+like	11	ps_cue
+########
+41
+`` They think it 's a gold mine , but that 's not what it is . ''
+not	12	neg_cue
+########
+42
+<EOP> .
+########
+43
+Welton said the company does not want to simply lease property to the highest bidder .
+not	5	neg_cue
+########
+44
+`` Chinatown has a very special location and very unique characteristics .
+########
+45
+We want to keep the best of those things there , and it would be madness to try and move out all these restaurants and rebrand it and that 's not our intention , '' he said .
+would	13	ps_cue
+not	30	neg_cue
+########
+46
+<EOP> .
+########
+47
+Peter Lam , the president of London Chinatown Chinese Association , said he fears Chinatown could become like any other part of London .
+could	15	ps_cue
+like	17	ps_cue
+########
+48
+<EOP> .
+########
+49
+`` We do not mind the landlord introduces the new stuff as long as they want to keep the authenticity of Chinatown , '' he said .
+not	3	neg_cue
+########
+50
+<EOP> .
+########
+51
+Lam , who owns restaurants in Chinatown , noted the neighborhood was built on the hard work of migrants .
+########
+52
+<EOP> .
+########
+53
+`` There is a lot of hard work from our grandparents and parents ' generation to build Chinatown as it is today , the glory of which we can see from many old restaurants , '' he said .
+can	28	ps_cue
+########
+54
+<EOP> .
+########
+55
+But he wonders if future generations will be willing to work as hard to keep their foothold in Central London .
+will	6	ps_cue
+willing	8	ps_cue
+########
+56
+<EOP> .
+########
+57
+`` If you go down the kitchen to take a look , the daily running is a tough sell compared to working as a solicitor or an accountant .
+or	25	ps_cue
+########
+58
+That could be a threat to the future of Chinatown , '' he added .
+could	1	ps_cue
+########
+59
+<EOP> .
+########
+60
+Zhang Yangfei contributed to the story <EOP> .
+########
+61
+<EOP> .
+########
+62
+<EOP> .
+########

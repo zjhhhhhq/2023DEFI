@@ -1,0 +1,101 @@
+Does Xi meeting Alaskan governor urge more regional cooperation
+0
+Xi meets Alaskan governor , urges more regional cooperation <EOP> .
+cooperation	8	CT+	CT+
+########
+1
+2017_04_08 18:05 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+<EOP> .
+########
+4
+President Xi Jinping LRB R RRB meets with governor of US state Alaska Bill Walker in Anchorage , the US , April 7 , 2017 .
+########
+5
+LRB Photo_Xinhua RRB <EOP> .
+########
+6
+<EOP> .
+########
+7
+<EOP> .
+########
+8
+ANCHORAGE , the United States __ Chinese President Xi Jinping met with governor of US state Alaska Bill Walker here on Friday , urging further regional cooperation and hailing it as one of the most dynamic aspects in China_US ties .
+cooperation	26	CT+	CT+
+########
+9
+<EOP> .
+########
+10
+Alaska and China have had exchanges in history , Xi told Walker , adding that the state of Alaska and its largest city Anchorage are the participants and witnesses of the development of China_US relations .
+########
+11
+<EOP> .
+########
+12
+Alaskan industries are complementary to those in China .
+########
+13
+Steady progress has been made in mutual cooperation and potential can be immense , Xi said .
+cooperation	7	CT+	CT+
+potential	9	ps_cue
+can	10	ps_cue
+########
+14
+<EOP> .
+########
+15
+The president suggested that the two sides should further cooperate in industries of mineral , oil , gas , fishery and tourism , initiate more exchanges in winter sports and enhance friendship among the peoples .
+cooperate	9	CT+	CT+
+suggested	2	ps_cue
+should	7	ps_cue
+########
+16
+<EOP> .
+########
+17
+China is a vital trading partner for Alaska and the largest export market for its aquatic products .
+########
+18
+China 's capital city of Beijing will host the 2022 Winter Olympic Games , while Alaska , the far north US state , has abundant natural resources as well as snow and ice .
+will	6	ps_cue
+########
+19
+<EOP> .
+########
+20
+Walker extended a warm welcome to President Xi and expressed strong willingness to further work with China in the industries mentioned above and have closer people_to_people exchanges .
+########
+21
+<EOP> .
+########
+22
+Xi met Walker while the plane of the Chinese delegation made a refueling stop in Anchorage .
+stop	13	neg_cue
+########
+23
+Earlier on Thursday and Friday , President Xi had the first face_to_face meeting with his US counterpart Donald Trump at Mar_a_Lago resort in Florida .
+########
+24
+<EOP> .
+########
+25
+The meeting with President Trump was a huge success .
+########
+26
+Consensus has been reached on multiple fronts and positive outcomes have been achieved , Xi said .
+########
+27
+<EOP> .
+########
+28
+The purpose of the meeting with President Trump was to set the direction for China_US relations in the new era and expand pragmatic cooperation in a wide range of fields , Xi said .
+########
+29
+<EOP> .
+########

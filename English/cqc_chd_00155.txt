@@ -1,0 +1,88 @@
+Does S. Korea 's ruling party push for hearings
+0
+S. Korea 's ruling party to push hearings on unauthorized THAAD launchers delivery <EOP> .
+hearings	7	CT+	CT+
+########
+1
+2017_06_01 13:27 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+SEOUL _ South Korea 's ruling Democratic Party has planned to push for parliamentary hearing on the unauthorized delivery of four more mobile launchers of the US missile shield to the country , which failed to be reported to President Moon Jae_in .
+hearing	14	CT+	CT+
+planned	9	ps_cue
+failed	34	neg_cue
+########
+4
+<EOP> .
+########
+5
+The party 's special committee on THAAD LRB Terminal High Altitude Area Defense RRB on Thursday told a press briefing in the National Assembly building that the defense ministry omitted `` on purpose '' the bring_in report of additional THAAD elements to President Moon .
+########
+6
+<EOP> .
+########
+7
+The committee described the report omission as `` mutiny '' and the `` loosened state discipline , '' announcing its plan to push for the parliamentary hearings .
+hearings	26	CT+	CT+
+plan	20	ps_cue
+########
+8
+<EOP> .
+########
+9
+Senior presidential press secretary Yoon Young_chan told a press conference Wednesday that the defense ministry intentionally omitted the report on the delivery of four more THAAD launchers to the country , following a probe into several defense ministry officials .
+########
+10
+<EOP> .
+########
+11
+On Tuesday , President Moon ordered a thorough investigation into the unauthorized transportation as it failed to be reported to the new president who took office on May 10 .
+failed	15	neg_cue
+May	27	ps_cue
+########
+12
+<EOP> .
+########
+13
+According to the presidential Blue House 's investigation into military officers , working_level officials of the defense ministry included the four more launchers delivered to an unidentified US base in South Korea in the document , but those were omitted in the final version to report to Chung Eui_yong , top presidential national security advisor .
+########
+14
+<EOP> .
+########
+15
+Moon said it was `` very shocking '' as the THAAD transportation , which profoundly affects the fate of people and the country , was not made public .
+not	25	neg_cue
+########
+16
+<EOP> .
+########
+17
+In addition , the intentional omission of the report to the Blue House came ahead of the South Korea_US summit meeting scheduled for late June .
+scheduled	21	ps_cue
+########
+18
+<EOP> .
+########
+19
+About two weeks before the May 9 presidential by_election , the first THAAD elements such as the radar and two mobile launchers were transported in the middle of night to a golf course at Soseong_ri village in Seongju county , North Gyeongsang province .
+May	5	ps_cue
+########
+20
+<EOP> .
+########
+21
+THAAD is composed of six mobile launchers , 48 interceptors , the AN_TPY_2 radar and the fire and control unit .
+########
+22
+<EOP> .
+########
+23
+The clandestine transportation raised speculation that it was aimed to politicize security issues during the election campaign period , which tended to benefit conservative candidates in the past elections .
+speculation	4	ps_cue
+########
+24
+<EOP> .
+########

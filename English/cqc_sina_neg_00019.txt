@@ -1,0 +1,149 @@
+Will countries be rated by many various categories
+0
+Countries may be rated by many various categories , such as how expensive or interesting they are to foreign tourists .
+rated	3	PS+	PS+
+may	1	ps_cue
+or	13	ps_cue
+########
+1
+They can also be rated by their openness and friendliness toward visitors .
+rated	4	CT+	PS+
+can	1	ps_cue
+########
+2
+<EOP> .
+########
+3
+You might be shocked to find out that , for example , the USA is number 102 on the list of the least welcoming places , 140 being the most unfriendly land .
+list	19	CT+	PS+
+might	1	ps_cue
+########
+4
+<EOP> .
+########
+5
+Mongolia <EOP> .
+########
+6
+Mongolia was closed for quite some time and opened up to foreigners only 20 years ago .
+########
+7
+That ` s probably the major reason why it is not yet experienced enough in hosting tourists .
+probably	3	ps_cue
+not	10	neg_cue
+yet	11	neg_cue
+########
+8
+The country is beautiful , with huge spacious areas of land that are low populated .
+########
+9
+There local people are not yet used to being visited by foreign guests .
+not	4	neg_cue
+yet	5	neg_cue
+########
+10
+<EOP> .
+########
+11
+Slovakia <EOP> .
+########
+12
+There are , undoubtedly , pluses as well as minuses in every country .
+########
+13
+Slovakia is not the most perfect destination for a couple of reasons .
+not	2	neg_cue
+########
+14
+First and foremost , Slovakia is becoming more and more similar to the rest of European countries surrounding it .
+########
+15
+Sameness is not the best quality .
+not	2	neg_cue
+########
+16
+As a rule , tourists want to travel and see things they have never seen before .
+never	13	neg_cue
+########
+17
+It is good that the land ` s countryside is still unique , although it is also being commercialized day by day .
+########
+18
+<EOP> .
+########
+19
+Iran <EOP> .
+########
+20
+Iran is not the best place to travel to .
+not	2	neg_cue
+########
+21
+It is located close to Pakistan with its negative political atmosphere .
+negative	8	neg_cue
+########
+22
+Western visitors are not welcome over there and embassies advise against travel to Iran .
+not	3	neg_cue
+against	10	neg_cue
+########
+23
+The population , contrary to the country 's government , consists of very friendly and welcoming people .
+########
+24
+<EOP> .
+########
+25
+Kuwait <EOP> .
+########
+26
+In Kuwait people are warm and friendly .
+########
+27
+It has a unique history , plenty of traditions and customs .
+########
+28
+People respect their culture and are very religious .
+########
+29
+It is a Muslim country , which means that you are not allowed to drink alcohol .
+not	11	neg_cue
+########
+30
+If you happen to visit Kuwait during Ramadan , you will not be allowed to eat in public places , either .
+will	10	ps_cue
+not	11	neg_cue
+either	20	ps_cue
+########
+31
+<EOP> .
+########
+32
+Russia <EOP> .
+########
+33
+Russia is truly a special place .
+########
+34
+It is definitely worth visiting it .
+########
+35
+What you might not find attractive is the corruption and bureaucracy that rule in some certain official circles .
+might	2	ps_cue
+not	3	neg_cue
+########
+36
+Another nuisance you should be ready for is that , as a visitor , you ` ll be asked to receive an invitation .
+should	3	ps_cue
+ready	5	ps_cue
+########
+37
+Only then will you be able to apply for a visa .
+will	2	ps_cue
+########
+38
+Once you arrive in Russia , you 'll be warmly greeted and accepted .
+########
+39
+<EOP> .
+########

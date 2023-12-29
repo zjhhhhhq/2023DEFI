@@ -1,0 +1,98 @@
+Did the United States on Monday slap sanctions on Venezuelan President Nicolas Maduro
+0
+US imposes sanctions on Venezuela leader <EOP> .
+########
+1
+2017_08_01 09:28 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+<EOP> .
+########
+4
+<EOP> .
+########
+5
+<EOP> .
+########
+6
+US National Security Advisor H.R. McMaster LRB R RRB and Treasury Secretary Steven Mnuchin attend a daily briefing to address sanctions on Venezuelan President Nicolas Maduro at the White House in Washington D.C. , United States , on July 31 , 2017 .
+########
+7
+LRB Photo_Xinhua RRB <EOP> .
+########
+8
+WASHINGTON _ The United States on Monday slapped sanctions on Venezuelan President Nicolas Maduro after Venezuela held its National Constituent Assembly LRB ANC RRB on Sunday .
+slapped	7	CT+	CT+
+########
+9
+<EOP> .
+########
+10
+`` By sanctioning Maduro , the United States makes clear our opposition to the policies of his regime , '' a statement by the US Treasury Department quoted Treasury Secretary Steven Mnuchin as saying .
+opposition	11	neg_cue
+########
+11
+<EOP> .
+########
+12
+The statement also warned that anyone who participates in the ANC could be exposed to future US sanctions .
+could	11	ps_cue
+########
+13
+<EOP> .
+########
+14
+As a result of the sanctions , `` all assets of Nicolas Maduro subject to US jurisdiction are frozen , '' said the statement , adding that US persons are prohibited from dealing with him .
+prohibited	30	neg_cue
+########
+15
+<EOP> .
+########
+16
+Apart from the sanctions against Maduro , the US Treasury Department had already slapped sanctions on 13 current or former senior officials of the Venezuelan government amid political turmoil in the South American country .
+slapped	13	CT+	CT+
+against	4	neg_cue
+or	18	ps_cue
+########
+17
+<EOP> .
+########
+18
+The Venezuelan officials were blacklisted for their association with the election of the controversial National Constituent Assembly LRB ANC RRB and their government 's `` rampant violence against opposition protesters and its corruption , '' the US Treasury Department said in a statement on Wednesday .
+against	27	neg_cue
+opposition	28	neg_cue
+########
+19
+<EOP> .
+########
+20
+According to Venezuela 's National Electoral Council , more than 8 million people on Sunday participated in vote to elect a new ANC tasked to rewrite the constitution , with a 41.53 _ percent turnout rate .
+########
+21
+<EOP> .
+########
+22
+The vote on Sunday came at a time of high tension in Venezuela , with the anti_government protests organized by the opposition , Democratic Unity Roundtable LRB MUD RRB , having led to more than 110 deaths since early April .
+opposition	21	neg_cue
+########
+23
+<EOP> .
+########
+24
+The ANC was proposed by Maduro in May to rewrite the 1999 Constitution to break the ongoing political deadlock that has paralyzed the South American country .
+proposed	3	ps_cue
+May	7	ps_cue
+########
+25
+But the opposition said it was an excuse for Maduro to consolidate power .
+opposition	2	neg_cue
+########
+26
+<EOP> .
+########
+27
+<EOP> .
+########

@@ -1,0 +1,92 @@
+Is it possible to live to 500 years old
+0
+Google has invested in taxi firms , smart thermostats and even artificial intelligence but it is also setting its sights on immortality _ or at least increasing our lives five_fold .
+or	23	ps_cue
+########
+1
+<EOP> .
+########
+2
+In an interview with Bloomberg , Google Ventures ' president Bill Maris said he thinks it 's possible to live to 500 years old .
+live	19	PS+	PS+
+possible	17	ps_cue
+########
+3
+<EOP> .
+########
+4
+And this will be helped by medical breakthroughs as well as a rise in biomechanics .
+will	2	ps_cue
+########
+5
+<EOP> .
+########
+6
+He has already ploughed money into genetics firms and cancer diagnostic startups and said : ` We have the tools in the life sciences to achieve anything that you have the audacity to envision .
+########
+7
+I just hope to live long enough not to die . '
+live	4	PS+	PS+
+hope	2	ps_cue
+not	7	neg_cue
+########
+8
+<EOP> .
+########
+9
+Mr Maris founded Google Ventures in 2009 and oversees all of the fund 's global activities .
+########
+10
+<EOP> .
+########
+11
+He studied neuroscience at Middlebury College and conducted neurobiology research at Duke University .
+########
+12
+<EOP> .
+########
+13
+Elsewhere he has advised Aurolab in the development of a hydrophobic acrylic lens for cataract blindness , and helped develop Google 's Calico project .
+########
+14
+<EOP> .
+########
+15
+Calico is a research and development company set up in 2013 by Google and Apple to tackle ` ageing and associated diseases . '
+########
+16
+<EOP> .
+########
+17
+Google co_founder Larry Page said the project would focus on ` health , wellbeing and longevity ' and last September Calico partnered with AbbVie to open a research centre into neurodegeneration and cancer .
+would	7	ps_cue
+########
+18
+<EOP> .
+########
+19
+Although these firms are focused on extending life naturally , there is also a group that believes machines will be the key to extending out lives beyond 120 _ an age that has been quoted as the ` real absolute limit to human lifespan ' .
+will	18	ps_cue
+limit	40	neg_cue
+########
+20
+<EOP> .
+########
+21
+Google 's director of engineering , and colleague of Mr Maris , Ray Kurzweil has previously said that in just over 30 years humans will be able to upload their entire minds to computers and become digitally immortal _ an event called singularity .
+will	24	ps_cue
+########
+22
+<EOP> .
+########
+23
+At the Global Futures 2045 International Congress in New York last year , Mr Kurzweil claimed that the biological parts of our body will be replaced with mechanical parts and this could happen as early as 2100 .
+will	23	ps_cue
+could	31	ps_cue
+########
+24
+<EOP> .
+########
+25
+Vocabulary <EOP> .
+########

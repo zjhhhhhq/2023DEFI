@@ -1,0 +1,100 @@
+Is Xi 's visit to US constructive
+0
+Xi 's visit to US called constructive <EOP> .
+constructive	6	CT+	CT+
+########
+1
+2017_04_10 10:00 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+Meeting with Trump set positive tone for two nations , foreign minister says <EOP> .
+positive	4	CT+	CT+
+########
+4
+<EOP> .
+########
+5
+Chinese President Xi Jinping LRB 3rd R RRB and his US counterpart Donald Trump LRB 3rd L RRB hold the second round of talks in the Mar_a_Lago resort in Florida , the United States , April 7 , 2017 .
+########
+6
+LRB Photo_Xinhua RRB <EOP> .
+########
+7
+Analysts said Sino_US relations are expected to make progress while maintaining stability as the two countries have a wide range of common interests .
+expected	5	ps_cue
+########
+8
+<EOP> .
+########
+9
+During the talks , the first face_to_face communications between Xi and Trump , the two presidents reached consensuses after spending a total of more than seven hours in deep discussion in several sessions , Wang said .
+########
+10
+<EOP> .
+########
+11
+The talks took place against the backdrop of mounting uncertainties , given tensions that have been rising in trade , maritime issues and the Korean Peninsula .
+against	4	neg_cue
+########
+12
+<EOP> .
+########
+13
+Both sides agreed that the meeting , which has drawn worldwide attention , `` was positive and fruitful , '' Wang said , adding that the meeting has set a constructive tone for the development of China_US relations , and helped set the direction for collective endeavors .
+fruitful	17	CT+	CT+
+constructive	30	CT+	CT+
+########
+14
+<EOP> .
+########
+15
+The two presidents shared their state governance thoughts and domestic and foreign policy agendas , and the meeting increased mutual understanding and built good working relations , according to Wang .
+########
+16
+<EOP> .
+########
+17
+Xi invited Trump to make a state visit to China this year , and the US president accepted .
+########
+18
+Wang said they also agreed to remain in close contact through meetings , phone calls and written communications .
+########
+19
+<EOP> .
+########
+20
+The two leaders charted the course and established principles for their relationship .
+########
+21
+Xi said cooperation is the only right choice for China and the United States , while Trump said the US stands ready to work with China to eliminate factors and issues that stand in the way of their relations .
+ready	21	ps_cue
+########
+22
+<EOP> .
+########
+23
+China and the US agreed to facilitate the healthy development of two_way trade and investment , to advance negotiations on a bilateral investment treaty and to promote pragmatic cooperation in infrastructure and other areas , Wang said .
+########
+24
+<EOP> .
+########
+25
+Both sides plan to make good use of the joint staff dialogue set up to boost military communications , he said , adding that both countries intend to deepen cooperation in law enforcement and cybersecurity , and to boost cultural and people_to_people exchanges .
+plan	2	ps_cue
+intend	26	ps_cue
+########
+26
+<EOP> .
+########
+27
+The two sides also initiated a comprehensive economic dialogue and a diplomatic and security dialogue , which make up two elements of the four_pronged dialogue structure they established .
+########
+28
+The other two are a law enforcement and cybersecurity dialogue and a social and cultural issues dialogue .
+########
+29
+<EOP> .
+########

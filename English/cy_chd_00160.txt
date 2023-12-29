@@ -1,0 +1,91 @@
+Are Sydney harbors reshaped as three ` new ' cities
+0
+Sydney harbors plan to be reshaped as three ` new ' cities <EOP> .
+reshaped	5	PS+	PS+
+plan	2	ps_cue
+########
+1
+2017_10_24 07:46 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+<EOP> .
+########
+4
+SYDNEY _ An ambitious long_term strategy to transform Sydney into three separate but interconnected cities was launched on Sunday , with the goal of creating communities that are within 30 minutes of services and job opportunities .
+opportunities	35	ps_cue
+########
+5
+<EOP> .
+########
+6
+Drafted by the New South Wales government 's transport and planning departments , along with the Greater Sydney Commission , the Future Transport 2056 strategy is actually based on an old concept .
+planning	10	ps_cue
+########
+7
+<EOP> .
+########
+8
+Long before British settlers arrived in Australia , Aboriginal people thought of Sydney as three different areas .
+########
+9
+<EOP> .
+########
+10
+The eastern side of the harbor was known as the salt water region , the area now called Parramatta was recognized by its muddy waters and the far west was known for its clear waters .
+########
+11
+<EOP> .
+########
+12
+`` Reshaping Greater Sydney as a metropolis of three cities _ Eastern , Central and Western _ will rebalance it , fostering jobs , improving housing affordability , easing congestion and enhancing our enviable natural environment across the entire region , '' GSC Chief Commissioner Lucy Turnbull said in a statement .
+will	17	ps_cue
+########
+13
+<EOP> .
+########
+14
+`` This is particularly exciting for Sydney 's west , with an entirely new city to emerge west of the M7 motorway , where the new Western Sydney Airport and the surrounding aerotropolis will support tens of thousands of jobs . ''
+will	33	ps_cue
+########
+15
+<EOP> .
+########
+16
+The plan will also focus on transforming the furthest outer edge suburbs of Penrith , Liverpool and Campbelltown into thriving university towns with bustling business districts , which means `` even greater opportunity for young people '' , Turnbull said .
+transforming	6	PS+	PS+
+will	2	ps_cue
+plan	1	ps_cue
+########
+17
+<EOP> .
+########
+18
+With Sydney 's population expected to double and surpass 8 million within the next 40 years , transport and infrastructure planning remain key to the city 's success .
+expected	4	ps_cue
+planning	20	ps_cue
+########
+19
+<EOP> .
+########
+20
+NSW Minister for Planning and Housing Anthony Roberts said : `` We need these plans to ensure we deliver the housing , jobs , transport services , schools and medical facilities Sydneysiders will need . ''
+need	12	ps_cue
+plans	14	ps_cue
+will	32	ps_cue
+need	33	ps_cue
+########
+21
+<EOP> .
+########
+22
+Xinhua <EOP> .
+########
+23
+<EOP> .
+########
+24
+LRB China Daily 10_24_2017 page11 RRB <EOP> .
+########

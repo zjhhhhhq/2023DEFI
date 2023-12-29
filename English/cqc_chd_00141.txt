@@ -1,0 +1,83 @@
+Does Chinese general meet Japanese counterpart
+0
+Chinese general meets Japanese counterpart <EOP> .
+meets	2	CT+	CT+
+########
+1
+2017_06_05 07:38 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+Lieutenant General He Lei , vice_president of the PLA Academy of Military Science and head of the PLA delegation , attends the Shangri_La Dialogue in Singapore , which ended on Sunday .
+attends	20	CT+	CT+
+########
+4
+Joseph Nair_ap <EOP> .
+########
+5
+<EOP> .
+########
+6
+<EOP> .
+########
+7
+Two senior Chinese and Japanese military officials met in Singapore on Sunday , People 's Liberation Army 's delegation to the Shangri_La Dialogue said in a news release .
+met	7	CT+	CT+
+########
+8
+<EOP> .
+########
+9
+Lieutenant General He Lei , vice_president of the PLA Academy of Military Science and head of the PLA delegation , met on Sunday morning with Lieutenant General Kazuaki Sumida , vice_chief of staff of the Japanese Self_Defense Forces ' Joint Staff , at the Shangri_La Hotel on the sidelines of the regional security conference that concluded later in the day .
+met	20	CT+	CT+
+########
+10
+<EOP> .
+########
+11
+He told Sumida that Sino_Japanese relations appeared to be improving , but they are still sophisticated and fragile .
+appeared	6	ps_cue
+########
+12
+China always holds a positive attitude toward communication and exchange with Japan in defense affairs and that the two sides should make efforts to improve their defense relations , He said according to the news release .
+should	20	ps_cue
+########
+13
+<EOP> .
+########
+14
+He said China attaches great importance to the negotiation of an air_sea communication mechanism between the two countries ' defense departments and has made a lot of effort on this matter .
+########
+15
+China hopes that Japan will consider this issue in a strategic perspective and use flexibility to handle it , the Chinese officer said .
+hopes	1	ps_cue
+will	4	ps_cue
+consider	5	ps_cue
+########
+16
+<EOP> .
+########
+17
+Sumida said more communication and exchanges between the two nations ' defense departments would contribute to stable relations , which are crucial to security in the Asia_Pacific .
+would	13	ps_cue
+########
+18
+<EOP> .
+########
+19
+Sumida was quoted by the Chinese news release as saying that the air_sea communication mechanism will be established through efforts from both sides .
+will	15	ps_cue
+########
+20
+The Japanese officer also said Japan is willing to enhance bilateral exchanges and talks in defense , especially when the two countries mark the 45th anniversary of normalization of their diplomatic ties this year and as they mark next year the 40th anniversary of the signing of the Treaty of Peace and Friendship between Japan and China .
+talks	13	CT+	CT+
+willing	7	ps_cue
+########
+21
+<EOP> .
+########
+22
+zhaolei@chinadaily.com.cn <EOP> .
+########

@@ -1,0 +1,132 @@
+Will China and Brazil upgrade their commerce structure from commodity and goods exchanges
+0
+China and Brazil to upgrade ties <EOP> .
+########
+1
+2017_08_02 07:38 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+<EOP> .
+########
+4
+Vice_Minister of Commerce Wang Shouwen shakes hands with Marcelo Maia , secretary of commerce and services at Brazil 's Ministry of Development , Industry and Foreign Trade , at the MOU signing ceremony in Shanghai on Tuesday .
+########
+5
+CHINA NEWS SERVICE <EOP> .
+########
+6
+Action Plan to help Latin American nation build modern service sector <EOP> .
+########
+7
+China and Brazil signed a memorandum of understanding on Tuesday to diversify service trade to upgrade their commerce structure from commodity and goods exchanges .
+upgrade	15	CT+	CT+
+########
+8
+<EOP> .
+########
+9
+The MOU , or the Two_Year Action Plan , is designed to encourage the two countries to improve service trade in eight areas including engineering , architecture , e_commerce , banking automation and tourism , to enrich bilateral trade ties over the next two years .
+improve	17	CT+	CT+
+or	3	ps_cue
+########
+10
+<EOP> .
+########
+11
+`` Signing this Two_Year Action Plan will help Brazil build a modern service sector , as well as create new e_commerce and financial activities to boost the economy , '' said Marcelo Maia , secretary of commerce and services at Brazil 's Ministry of Development , Industry and Foreign Trade .
+will	6	ps_cue
+########
+12
+<EOP> .
+########
+13
+The plan is expected to provide experiences for BRICS countries to promote services trade cooperation .
+services	12	PS+	CT+
+expected	3	ps_cue
+plan	1	ps_cue
+########
+14
+<EOP> .
+########
+15
+Even though China_Brazil trade is heavily focused on commodity and goods trade including soybeans , beef , iron ore , construction machinery , chemicals , garments and vehicle products , service trade has not notably featured in bilateral trade .
+not	33	neg_cue
+########
+16
+<EOP> .
+########
+17
+Chinese companies invested $ 8.39 billion in Brazil last year , an increase of 13 percent year_on_year .
+########
+18
+Both countries have already begun to intensify their cooperation in infrastructure , energy and telecommunication business development , data from the Ministry of Commerce show .
+########
+19
+<EOP> .
+########
+20
+`` Supported by rich natural resources , Brazil has been keen to upgrade service trade and related sectors such as logistics , tourism , shipping , healthcare , education , finance and smart city development , '' said Wang Haifeng , a researcher with the Institute for International Economic Research at the National Development and Reform Commission .
+########
+21
+<EOP> .
+########
+22
+The deal was sealed during the trade ministers ' meeting from the five BRICS countries － Brazil , Russia , India , China and South Africa in Shanghai on Tuesday and Wednesday , ahead of next month 's leaders summit in Xiamen , Fujian province .
+########
+23
+<EOP> .
+########
+24
+China is expected to further open its market to imports from Brazil , Russia , India and South Africa , and spearhead an anti_trade protectionism campaign .
+expected	2	ps_cue
+########
+25
+In the past six months , China 's imports from these countries surged 33 percent year_on_year .
+########
+26
+<EOP> .
+########
+27
+`` We hope that BRICS countries can further expand their cooperation with economies related to the Belt and Road Initiative .
+hope	2	ps_cue
+can	6	ps_cue
+########
+28
+This will help to better meet the challenges brought by the uncertainties of the global economy and generate new growth momentum , '' said Zhong Shan , China 's commerce minister .
+will	1	ps_cue
+########
+29
+<EOP> .
+########
+30
+Vice_Minister of Commerce Wang Shouwen said while protectionists have doubts about multilateral trade , BRICS countries , as major developing economies , can tackle the skeptics as a united team and build a sufficient trade mechanism .
+can	22	ps_cue
+########
+31
+<EOP> .
+########
+32
+To strengthen trade links , Wang said China will host an international imports exhibition from 2018 in Shanghai and it will help with trade and stimulate investment .
+will	8	ps_cue
+will	20	ps_cue
+########
+33
+<EOP> .
+########
+34
+`` China will further open its market to other BRICS countries and increase imports , as they are highly complementary in trade , '' said Wang .
+will	2	ps_cue
+########
+35
+<EOP> .
+########
+36
+Trade ministers from the five countries will discuss topics including trade and investment facilitation , enhancing economic and technology cooperation , as well as supporting a multilateral trade system in Shanghai .
+will	6	ps_cue
+########
+37
+<EOP> .
+########

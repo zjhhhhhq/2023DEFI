@@ -1,0 +1,85 @@
+Do Canada , Britain seek closer trade cooperation
+0
+Canada , Britain seeking closer trade cooperation <EOP> .
+seeking	3	CT+	CT+
+seeking	3	ps_cue
+########
+1
+2017_09_19 09:11 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+<EOP> .
+########
+4
+Britain 's Prime Minister Theresa May LRB R RRB speaks with Canada 's Prime Minister Justin Trudeau during a welcoming ceremony on Parliament Hill in Ottawa , Ontario , Canada , Sept 18 , 2017 .
+May	5	ps_cue
+########
+5
+LRB Photo_Agencies RRB <EOP> .
+########
+6
+OTTAWA _ Canada and Britain are working towards a new bilateral free trade deal after the United Kingdom leaves the European Union .
+working	6	CT+	CT+
+########
+7
+<EOP> .
+########
+8
+After their meeting Monday , Canadian Prime Minister Justin Trudeau and visiting British Prime Minister Theresa May told a joint press conference that they agreed to a smooth transition of the Comprehensive Economic and Trade Agreement LRB CETA RRB between the European Union and Canada after Britain leaves the EU and is no longer a party to that agreement .
+May	16	ps_cue
+no	52	neg_cue
+########
+9
+<EOP> .
+########
+10
+The Canada_EU trade deal eliminates well over 90 percent of all barriers in trade between Canada and the European Union , and as such provides `` an excellent basis for ensuring a smooth transition , '' Trudeau said .
+########
+11
+<EOP> .
+########
+12
+CETA officially comes into effect on Thursday .
+########
+13
+<EOP> .
+########
+14
+`` After that , there will obviously be opportunities for us to look at particular details that could be improved upon for the specific needs and opportunities in the bilateral relationship between the U.K. and Canada , '' he said .
+improved	19	CT+	CT+
+will	5	ps_cue
+opportunities	8	ps_cue
+could	17	ps_cue
+needs	24	ps_cue
+opportunities	26	ps_cue
+########
+15
+<EOP> .
+########
+16
+`` But as a strong basis for a smooth transition , CETA is perfectly designed , and will be able to ensure __ for investors , for companies and for workers and consumers __ a smooth transition , '' added the Canadian prime minister , who will lead a Canadian delegation to attend the United Nations General Assembly on Tuesday .
+will	17	ps_cue
+will	46	ps_cue
+########
+17
+<EOP> .
+########
+18
+May , who arrived here for one_day visit , said that using the Canada_EU agreement as the basis for a forthcoming new bilateral deal makes sense and would ensure the best path forward for all parties .
+May	0	ps_cue
+would	27	ps_cue
+forward	32	ps_cue
+forward	32	neg_cue
+########
+19
+<EOP> .
+########
+20
+<EOP> .
+########
+21
+<EOP> .
+########

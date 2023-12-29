@@ -1,0 +1,135 @@
+Will UK wage growth cement BoE rate hike bets
+0
+UK wage growth edges above forecasts , likely to cement BoE rate hike bets <EOP> .
+cement	9	PS+	PS+
+likely	7	ps_cue
+forecasts	5	ps_cue
+########
+1
+2017_10_18 17:14 <EOP> .
+########
+2
+Agencies <EOP> .
+########
+3
+<EOP> .
+########
+4
+Workers cross London Bridge during the morning rush hour in London , Britain , August 16 , 2017 .
+########
+5
+LRB Photo_Agencies RRB <EOP> .
+########
+6
+LONDON _ British pay growth has lagged behind inflation again , official data showed , but the figures are likely to cement expectations among investors that the Bank of England will soon raise interest rates for the first time in a decade .
+cement	21	PS+	PS+
+likely	19	ps_cue
+will	30	ps_cue
+raise	32	ps_cue
+########
+7
+<EOP> .
+########
+8
+The data also showed the unemployment rate between June and August held at its 42_year low of 4.3 percent , one of the reasons why the BoE thinks pay is likely to pick up soon .
+likely	30	ps_cue
+########
+9
+<EOP> .
+########
+10
+Despite a slowdown in Britain 's economy this year , the central bank is widely expected to increase its Bank Rate to 0.50 percent from an all_time low of 0.25 percent on Nov 2 , at the end of its next meeting .
+expected	15	ps_cue
+########
+11
+<EOP> .
+########
+12
+The BoE has said it expects pay growth to pick up speed soon because the unemployment rate is below the 4.5 percent level that it considers to be a trigger for inflation pressure in the economy .
+expects	5	ps_cue
+considers	25	ps_cue
+########
+13
+It also thinks Brexit will increase price growth in Britain .
+will	4	ps_cue
+########
+14
+<EOP> .
+########
+15
+The Office for National Statistics said on Wednesday that workers ' total earnings , including bonuses , rose by an annual 2.2 percent in the three months to August and it slightly revised up growth in the three months to July to 2.2 percent as well .
+########
+16
+<EOP> .
+########
+17
+Economists taking part in a Reuters poll had expected wage growth of 2.1 percent .
+expected	8	ps_cue
+########
+18
+<EOP> .
+########
+19
+Excluding bonuses , earnings rose by 2.1 percent , a touch stronger than the Reuters poll forecast of 2.0 percent .
+forecast	16	ps_cue
+########
+20
+<EOP> .
+########
+21
+Wages have steadily fallen behind inflation which hit 3 percent in September , its highest level in more than five years .
+########
+22
+<EOP> .
+########
+23
+In August alone , total wages picked up speed to grow by 2.2 percent after a slowdown in July to 1.7 percent .
+########
+24
+<EOP> .
+########
+25
+The steady loss of spending power for households is not just a headache for the BoE .
+loss	2	neg_cue
+not	9	neg_cue
+########
+26
+Prime Minister Theresa May has promised help for households and has proposed a cap on power tariffs to ease the squeeze on their budgets .
+May	3	ps_cue
+proposed	11	ps_cue
+########
+27
+<EOP> .
+########
+28
+Finance minister Philip Hammond is under pressure to come up with further measures when he announces his budget plan in November .
+plan	18	ps_cue
+########
+29
+But he has little margin for error given the still weak state of Britain 's public finances .
+little	3	neg_cue
+########
+30
+<EOP> .
+########
+31
+The number of people in work rose by 94,000 people in the three months to August , about half the increase in the three months to July but still a relatively strong rate of growth .
+########
+32
+<EOP> .
+########
+33
+The employment rate stood at 75.1 percent , falling slightly from the previous reading but still higher than in most other rich economies the ONS said .
+########
+34
+<EOP> .
+########
+35
+<EOP> .
+########
+36
+<EOP> .
+########
+37
+<EOP> .
+########

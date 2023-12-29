@@ -1,0 +1,52 @@
+Does DPRK urge vigilance against US call for UN reform
+0
+DPRK urges vigilance against US call for UN reform <EOP> .
+call	5	CT+	CT+
+against	3	neg_cue
+########
+1
+2017_12_26 19:41 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+PYONGYANG __ The Democratic People 's Republic of Korea LRB DPRK RRB on Tuesday called for vigilance against the United States ' appeal for reform of the United Nations LRB UN RRB , depicting it as `` an arrogant act of a gangster nation . ''
+appeal	22	CT+	CT+
+against	17	neg_cue
+########
+4
+<EOP> .
+########
+5
+The United States has recently called for reform of the UN , which is said to have failed to display its full potential due to bureaucracy and improper working style .
+called	5	CT+	CT+
+failed	17	neg_cue
+potential	22	ps_cue
+########
+6
+<EOP> .
+########
+7
+The official daily Rodong Sinmun said in a commentary that the United States , as a permanent member of the UN Security Council , is committing high_handed arbitrary practices to realize its ambition for world domination .
+########
+8
+<EOP> .
+########
+9
+`` In disregard of the demand and interests of the UN member nations , the US is going to abuse the issue of the UN reform for establishing its domination .
+########
+10
+It is , indeed , a cancer_like entity harassing world peace and security , '' said the newspaper .
+########
+11
+<EOP> .
+########
+12
+The daily said if the United States is allowed in its moves to reshape the UN in its interests , `` justice and truth will be undermined in the international relations and the world will inevitably turn into one in which the jungle law prevails . ''
+will	24	ps_cue
+will	34	ps_cue
+########
+13
+<EOP> .
+########

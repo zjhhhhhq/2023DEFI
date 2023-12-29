@@ -1,0 +1,96 @@
+Does Apple improve our health
+0
+We all know working at cool tech companies can often mean free food all day , nap pods and leaving via a slide LRB maybe RRB .
+can	8	ps_cue
+maybe	24	ps_cue
+########
+1
+<EOP> .
+########
+2
+But one of the best _ and most helpful when it comes to money_saving _ perks of a workplace is a gym .
+########
+3
+<EOP> .
+########
+4
+And a company that you may not be surprised to learn has a particularly impressive gym is Apple .
+may	5	ps_cue
+not	6	neg_cue
+########
+5
+<EOP> .
+########
+6
+A few miles from Apple 's new headquarters in Cupertino , California , you 'll find their invite_only secret exercise lab .
+########
+7
+<EOP> .
+########
+8
+This is where the tech giant 's employees workout , clad with Apple watches and clutching iPads while they burn calories .
+########
+9
+<EOP> .
+########
+10
+And as they run , cycle and row , exercise physiologists , nurses and medics monitor data .
+########
+11
+<EOP> .
+########
+12
+Having revolutionised how we listen to music , work and go about our daily lives , Apple is now interested in how we can improve our health .
+improve	24	CT+	CT+
+can	23	ps_cue
+########
+13
+<EOP> .
+########
+14
+Not content with simply counting calories burned and distance travelled , however , exercisers here measure everything possible , including their oxygen consumption LRB via a $ 40,000 mask RRB .
+Not	0	neg_cue
+possible	17	ps_cue
+########
+15
+<EOP> .
+########
+16
+As one would expect at any decent gym , there 's a studio for group classes and a pool , but Apple 's gym also features three climate_controlled temperature chambers , set to recreate everything from Arctic to Saharan conditions .
+would	2	ps_cue
+expect	3	ps_cue
+########
+17
+<EOP> .
+########
+18
+`` Our lab has collected more data on activity and exercise than any other human performance study in history , '' Jay Blahnik , Apple 's director of fitness for health technologies , told Men 's Health .
+########
+19
+<EOP> .
+########
+20
+`` Over the past five years , we 've logged 33,000 sessions with over 66,000 hours of data , involving more than 10,000 unique participants . ''
+########
+21
+<EOP> .
+########
+22
+Apple is working on how its watch can sync with gym equipment , providing more detailed analytics of a workout than most people will have ever experienced .
+providing	13	CT+	CT+
+can	7	ps_cue
+will	23	ps_cue
+########
+23
+<EOP> .
+########
+24
+Just when we 'd all got on board with tracking our steps , it looks like that may no longer be enough _ Apple is , as usual , upping the game .
+upping	29	CT+	CT+
+like	15	ps_cue
+may	17	ps_cue
+no	18	neg_cue
+########
+25
+<EOP> .
+########

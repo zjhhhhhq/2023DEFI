@@ -1,0 +1,67 @@
+Do financial analysts lower their growth forecasts for 2017 and 2018
+0
+Brazil 's political woes lead to lower growth expectations <EOP> .
+########
+1
+2017_06_13 09:13 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+BRASILIA _ The uncertainty provoked by the crisis facing the government of President Michel Temer is weighing heavily on economic predictions , with financial analysts lowering their growth forecasts for 2017 and 2018 .
+lowering	25	CT+	CT+
+forecasts	28	ps_cue
+########
+4
+<EOP> .
+########
+5
+In its latest Focus poll of financial experts published Monday , Brazil 's Central Bank found that expectations for GDP growth in 2017 had lowered from 0.5 to 0.41 percent and from 2.4 to 2.3 percent for 2018 .
+lowered	24	CT+	CT+
+########
+6
+<EOP> .
+########
+7
+According to the analysts polled , this drop in confidence is due to expectations that new elements will arise to incriminate Temer during the investigation being carried out by prosecutor_general Rodrigo Janot .
+will	17	ps_cue
+########
+8
+<EOP> .
+########
+9
+These political problems , which have also seen several government ministers facing corruption charges , have essentially frozen Temer 's reform package in Congress , which is likely to spook investors and halt a fledgling economic recovery .
+likely	27	ps_cue
+########
+10
+<EOP> .
+########
+11
+Brazil saw its hopes raised with its GDP growing by 1 percent in the first quarter after two years of continuous contraction .
+hopes	3	ps_cue
+########
+12
+<EOP> .
+########
+13
+However , this crisis has lowered expectations once again , with inflation predictions dropping from 3.9 to 3.71 percent in 2017 and from 4.4 to 4.37 percent for 2018 .
+lowered	5	CT+	CT+
+########
+14
+If accurate , this would be below the government 's annual target of 4.5 percent , increasing chances the central bank will slash interest rates .
+would	4	ps_cue
+will	21	ps_cue
+########
+15
+<EOP> .
+########
+16
+The expected exchange rate of Brazil 's real remained fixed , with predictions it will stand at 3.3 reais against 1 U.S. dollar at the end of 2017 and 3.4 to 1 at the end of 2018 .
+expected	1	ps_cue
+will	14	ps_cue
+against	19	neg_cue
+########
+17
+<EOP> .
+########

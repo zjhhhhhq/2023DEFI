@@ -1,0 +1,83 @@
+Will the US state of New York sue President Donald Trump
+0
+New York State to sue President Trump if he scraps young immigrants program <EOP> .
+########
+1
+2017_09_05 09:55 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+NEW YORK _ The US state of New York will sue President Donald Trump if he scraps a program shielding from deportation immigrants who came to the United States illegally as children , officials said on Monday .
+sue	10	Uu	Uu
+will	9	ps_cue
+########
+4
+<EOP> .
+########
+5
+Trump is expected to announce on Tuesday he will end the Deferred Action for Childhood Arrivals program but will give Congress six months to craft legislation to replace it , according to local reports .
+expected	2	ps_cue
+will	8	ps_cue
+will	18	ps_cue
+########
+6
+<EOP> .
+########
+7
+The president 's move to end DACA `` would upend the lives of hundreds of thousands of young people who have only ever called America their home , including roughly 42,000 New Yorkers , said a statement jointly released by New York State Governor Andrew Cuomo and Attorney General Eric Schneiderman on Monday .
+would	8	ps_cue
+########
+8
+<EOP> .
+########
+9
+`` If he moves forward with this cruel action , New York State will sue to protect the ` dreamers ' and the state 's sovereign interest in the fair and equal application of the law , '' Cuomo said .
+sue	14	Uu	Uu
+forward	4	ps_cue
+forward	4	neg_cue
+cruel	7	neg_cue
+will	13	ps_cue
+########
+10
+<EOP> .
+########
+11
+Schneiderman said Trump 's decision to scrap the DACA program `` cruel , gratuitous , and devastating to tens of thousands of New Yorkers , `` I will sue to protect them , Dreamers are Americans in every way . ''
+sue	28	PS+	Uu
+cruel	11	neg_cue
+will	27	ps_cue
+########
+12
+<EOP> .
+########
+13
+He argued that more than 40,000 New Yorkers protected under DACA pay more than 140 million US dollars in state and local taxes and they are `` vital members of our community . ''
+########
+14
+<EOP> .
+########
+15
+The DACA , which was passed under the Obama administration in 2012 , grants temporary residency and work privileges to those who entered the country before their 16th birthday .
+########
+16
+This group of undocumented immigrants are often described as Dreamers .
+########
+17
+<EOP> .
+########
+18
+Under the program , Dreamers can apply to defer deportation and legally reside in the US for two years .
+can	5	ps_cue
+########
+19
+After that , they can apply for renewal .
+can	4	ps_cue
+########
+20
+By March 31 , 240,700 people had applied for renewal in the 2017 fiscal year and nearly 800,000 renewals have been approved over the life of the program .
+########
+21
+<EOP> .
+########

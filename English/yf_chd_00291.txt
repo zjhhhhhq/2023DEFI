@@ -1,0 +1,100 @@
+Is Times Square the most dangerous block in America 
+0
+How Times Square was reborn <EOP> .
+########
+1
+2017_11_05 05:17 <EOP> .
+########
+2
+China Daily USA <EOP> .
+########
+3
+<EOP> .
+########
+4
+<EOP> .
+########
+5
+Times Square in New York City is always bustling with people and traffic in New York City .
+########
+6
+PHOTOS BY JUDY ZHU _ CHINA DAIL <EOP> .
+########
+7
+Commitment to redevelopment swapped out sex shops and drugs for a retail paradise for pedestrians <EOP> .
+########
+8
+Ask people about their impression of New York City 's Times Square , and busy , crowded and crazy might be the top three answers you get .
+might	19	ps_cue
+########
+9
+But as recently as the 1980s , the neighborhood was known as `` the sleaziest and most dangerous block in America '' .
+block	18	CT+	CT+
+block	18	neg_cue
+########
+10
+<EOP> .
+########
+11
+The transformation reflects the long and tortuous redevelopment of Times Square that began about 40 years ago .
+########
+12
+<EOP> .
+########
+13
+`` Times Square has always been this place that is ever changing and always a kind of reﬂection of what people love and hate about New York City , '' said Tim Tompkins , president of the Times Square Alliance , a non_proﬁ t founded in 1992 that works to improve and promote Times Square .
+love	21	ps_cue
+########
+14
+<EOP> .
+########
+15
+`` It was a very dangerous place back in the 1980s , '' he said .
+place	6	CT+	CT+
+########
+16
+`` Forty_second Street was literally the most dangerous block in the America ; you basically could n't go down there without being subjected to crimes . ''
+block	8	CT+	CT+
+block	8	neg_cue
+could	15	ps_cue
+n't	16	neg_cue
+without	20	neg_cue
+########
+17
+<EOP> .
+########
+18
+Back then , pimps , prostitutes , drug addicts and dope pushers prowled the area .
+########
+19
+<EOP> .
+########
+20
+It projected an image very different from today 's Times Square , which is now known as the `` Cross_roads of the World '' .
+projected	1	ps_cue
+########
+21
+<EOP> .
+########
+22
+Today , Morgan Stanley , Allianz Global Investors and Viacom make their corporate homes there LRB as does China Daily USA RRB ; Broadway shows attract audiences totaling more than 13 million a year ; and Times Square souvenir shops sell T_shirts , statues , magnets , pens and mugs to about 60 million visitors from all over the world .
+########
+23
+<EOP> .
+########
+24
+Though it comprises only 0.1 per_cent of New York City 's land area , Times Square supports 7 percent of the city 's jobs and generates 15 percent of its economic output , according to the alliance .
+########
+25
+<EOP> .
+########
+26
+`` Times Square became the symbol of whether the government had either the will or the capacity to make the city safe , '' said Tompkins .
+whether	7	ps_cue
+either	11	ps_cue
+will	13	ps_cue
+or	14	ps_cue
+########
+27
+<EOP> .
+########

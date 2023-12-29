@@ -1,0 +1,79 @@
+Does a bus company not call passengers ` babe ` to avoid lawsuits from offended women
+0
+A bus company is warning drivers to not call passengers ` babe ` in a bid to avoid lawsuits from offended women .
+call	8	CT-	CT-
+not	7	neg_cue
+avoid	17	neg_cue
+########
+1
+<EOP> .
+########
+2
+Brighton and Hove Buses posted warnings to drivers in its head offices after a complaint from a woman who said she felt insulted by being called ` babe ` when she boarded a bus .
+called	25	CT+	CT-
+########
+3
+<EOP> .
+########
+4
+The company also warned drivers they could face the sack if they call passengers ` love ` or ` darling ` .
+call	12	Uu	CT-
+could	6	ps_cue
+love	15	ps_cue
+or	17	ps_cue
+########
+5
+<EOP> .
+########
+6
+One employee , who did not want to be named , said : ` It ` s just the height of political correctness .
+not	5	neg_cue
+########
+7
+The drivers know how to best speak to customers .
+########
+8
+<EOP> .
+########
+9
+` People do n`t want their drivers to be robots .
+########
+10
+What is the world coming to when you ca n`t have a bit of friendly banter with passengers ?
+########
+11
+` <EOP> .
+########
+12
+The sign reads : ` Please can drivers be aware that some of our customers may take offence at having terms such as `` love '' , `` darling '' and `` babe '' directed towards them .
+can	6	ps_cue
+may	15	ps_cue
+love	24	ps_cue
+########
+13
+<EOP> .
+########
+14
+` This can be seen by some as being a sexist comment , as a recent complaint has highlighted .
+can	2	ps_cue
+########
+15
+` <EOP> .
+########
+16
+Managing director Roger French said : ` A lady complained to us that she thought the language used by a driver was demeaning to her .
+########
+17
+<EOP> .
+########
+18
+` We take a lot of customer feedback so we thought we would pass this on .
+would	12	ps_cue
+########
+19
+The drivers will understand and take it in good spirit .
+will	2	ps_cue
+########
+20
+` <EOP> .
+########

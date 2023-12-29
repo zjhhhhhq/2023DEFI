@@ -1,0 +1,62 @@
+Does Obama warn of social media use irresponsibility
+0
+Obama warns of social media use irresponsibility <EOP> .
+warns	1	CT+	CT+
+########
+1
+2017_12_27 22:20 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+LONDON __ Former US President Barack Obama has warned against the irresponsible use of social media in an interview by British Prince Harry on BBC Radio 4 's Today on Wednesday .
+warned	8	CT+	CT+
+against	9	neg_cue
+########
+4
+<EOP> .
+########
+5
+In the interview , which is rare since the ex_president 's stepping down nearly a year ago , Obama said that the irresponsible use of social media was distorting people 's understanding of complex issues , and spreading misinformation .
+said	19	CT+	CT+
+rare	6	ps_cue
+########
+6
+<EOP> .
+########
+7
+`` All of us in leadership have to find ways in which we can recreate a common space on the internet , '' he said .
+can	13	ps_cue
+########
+8
+<EOP> .
+########
+9
+Obama told Harry that one of the dangers of the internet is that people can have entirely different realities .
+told	1	CT+	CT+
+can	14	ps_cue
+########
+10
+<EOP> .
+########
+11
+They can be cocooned in information that reinforces their current biases , he added .
+can	1	ps_cue
+########
+12
+<EOP> .
+########
+13
+Obama 's successor Donald Trump has been accused of overusing Twitter , and involved in a number of rows over his expressions in the cyber space .
+accused	7	CT+	CT+
+########
+14
+<EOP> .
+########
+15
+Prince Harry is one of several prominent figures who are guest_editing the BBC program over the Christmas period .
+########
+16
+<EOP> .
+########

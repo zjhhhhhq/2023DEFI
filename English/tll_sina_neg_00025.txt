@@ -1,0 +1,114 @@
+Do families go for walks 
+0
+Children who lead inactive lives are likely to grow up to become middle_aged couch potatoes , a study suggests .
+likely	6	ps_cue
+suggests	18	ps_cue
+########
+1
+<EOP> .
+########
+2
+Researchers compared the TV viewing habits of more than 6,000 British people born in a single week in 1970 <EOP> .
+########
+3
+Parents should increase children 's physical activity to ensure they become fit and healthy adults , .
+should	1	ps_cue
+########
+4
+<EOP> .
+########
+5
+`` Do something active to displace TV , '' advised Lee Smith .
+########
+6
+`` In the evening time when families tend to sit down and watch TV they should try to go for walks instead .
+go	18	PS+	PS+
+tend	7	ps_cue
+should	15	ps_cue
+instead	21	neg_cue
+########
+7
+If you ca n't go outside , try active computer games , '' <EOP> .
+go	4	CT-	PS+
+n't	3	neg_cue
+########
+8
+The authors acknowledge that for today 's children TV viewing is often replaced by time on computers , smartphones or tablets .
+or	19	ps_cue
+########
+9
+But Dr Smith stressed the issues are the same , that computers and phones are `` just a different way of sitting down and relaxing '' , and parents need to encourage children to be more active .
+need	29	ps_cue
+########
+10
+<EOP> .
+########
+11
+A British study , which gathers information on the economic circumstances , health , physical , educational and social development of people born in England , Scotland and Wales in 1970 .
+########
+12
+<EOP> .
+########
+13
+When they were 10 , their parents were asked how often the children watched TV and played sport .
+########
+14
+Their height and weight were recorded , as were their parents ' occupations .
+########
+15
+At age 42 they were asked how much time they spent watching TV and on a range of physical activities and sports .
+########
+16
+They were also asked to assess their health and weight .
+########
+17
+<EOP> .
+########
+18
+The study shows that the children who watched a lot of TV aged 10 were 42 % more likely to spend more than three hours a day in front of the screen as adults than those who watched relatively little television in childhood .
+likely	18	ps_cue
+little	39	neg_cue
+########
+19
+The 42_year_olds who watched TV for at least three hours a day were more likely to be in only `` fair '' or `` poor '' health and to rate themselves as either overweight or obese.They were also more likely to have had fathers who were overweight and in routine or manual jobs .
+likely	14	ps_cue
+or	22	ps_cue
+either	32	ps_cue
+or	34	ps_cue
+likely	39	ps_cue
+or	50	ps_cue
+########
+20
+<EOP> .
+########
+21
+Parents who are manual workers `` are more likely to be physically active at work and may compensate for this by spending more time sitting down during their leisure hours '' , suggests another of the researchers , Dr Mark Hamer .
+likely	8	ps_cue
+may	16	ps_cue
+suggests	32	ps_cue
+########
+22
+<EOP> .
+########
+23
+`` Their children may then model their mothers ' and fathers ' leisure activity patterns .
+may	3	ps_cue
+########
+24
+It is important that children keep active .
+########
+25
+And if they can be encouraged to participate in sports , so much the better . ''
+can	3	ps_cue
+encouraged	5	ps_cue
+########
+26
+<EOP> .
+########
+27
+`` Our work indicates that parents ' health_related behaviours may at least partly influence children 's TV viewing habits more than three decades later , '' said Dr Hamer .
+may	9	ps_cue
+########
+28
+<EOP> .
+########

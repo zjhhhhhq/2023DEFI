@@ -1,0 +1,66 @@
+Do Police arrest drug kingpin in Rio de Janeiro 
+0
+Police arrest most wanted drug kingpin in Rio de Janeiro <EOP> .
+arrest	1	CT+	CT+
+wanted	3	ps_cue
+########
+1
+2017_12_07 11:12 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+RIO DE JANEIRO _ Brazilian police arrested on Wednesday in a massive operation drug kingpin Rogerio Avelino da Silva , known as `` Rogerio 157 '' , the most wanted criminal in Rio de Janeiro .
+arrested	6	CT+	CT+
+wanted	29	ps_cue
+########
+4
+<EOP> .
+########
+5
+Rogerio 157 was arrested in the favela of Arara in northern Rio , the local secretariat of security reported on Twitter .
+arrested	3	CT+	CT+
+########
+6
+<EOP> .
+########
+7
+The operation saw over 3,000 elements from the army and police across six different favelas , Mangueira , Tuiti , Arara , Mandela 1 , Mandela 2 y Barrera do Vasco .
+########
+8
+<EOP> .
+########
+9
+Rogerio 157 was the leader of a gang in Rocinha , Brazil 's largest favela where a bloody gang war erupted in September with a rival unit .
+########
+10
+<EOP> .
+########
+11
+At the moment of his arrest , he had tried to flee but was found hiding under bed sheets outside a house , after his bodyguards appeared to have fled .
+appeared	26	ps_cue
+########
+12
+<EOP> .
+########
+13
+Police had put up a reward of 50,000 reais LRB around $ 15,000 RRB for those leading to the arrest of Rogerio 157 .
+put	2	CT+	CT+
+########
+14
+<EOP> .
+########
+15
+Police said that since the beginning of 2017 , 434 telephone tips had been received about the drug boss , who is facing charges of drug trafficking , extortion and murder .
+########
+16
+<EOP> .
+########
+17
+In recent months , Rogerio 157 had often moved from favela to favela controlled by his gang , never staying long in the same place in order to throw off the pursuit by police .
+never	18	neg_cue
+########
+18
+<EOP> .
+########

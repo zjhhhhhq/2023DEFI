@@ -1,0 +1,111 @@
+Deos San Francisco mayor Ed Lee die from heart attack
+0
+San Francisco mayor Ed Lee dies from heart attack <EOP> .
+dies	5	CT+	CT+
+########
+1
+2017_12_13 01:23 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+Ed Lee , San Francisco 's first Asian_American mayor , died early Tuesday morning after suffering a heart attack , his office said .
+died	10	CT+	CT+
+########
+4
+He was 65 .
+########
+5
+<EOP> .
+########
+6
+Lee died at 1:11 am at Zuckerberg General Hospital after suffering cardiac arrest while grocery shopping at a local Safeway just hours before , his office said .
+died	1	CT+	CT+
+########
+7
+<EOP> .
+########
+8
+Brent Andrew , the spokesman for the hospital and its trauma center , said Lee arrived at the hospital in an ambulance at about 10 pm on Monday .
+########
+9
+<EOP> .
+########
+10
+He was surrounded by his family , including his wife Anita and his two daughters , Brianna and Tania , as well as many political leaders when he passed away , Lee 's office said .
+########
+11
+<EOP> .
+########
+12
+The mayor 's office released a brief statement early Tuesday morning , stating in part : `` Our thoughts and prayers are with his wife Anita , his two daughters , Brianna and Tania , and his family . ''
+########
+13
+<EOP> .
+########
+14
+Under the city 's rules , London Breed , the president of the board of supervisors , became the acting mayor .
+########
+15
+<EOP> .
+########
+16
+Flags at City Hall were flying at half staff .
+########
+17
+<EOP> .
+########
+18
+The former civil rights attorney had been mayor since 2011 , while serving as city administrator , the board of supervisors appointed him to fill the rest of the term of Mayor Gavin Newsom , who left to become California 's lieutenant governor .
+########
+19
+<EOP> .
+########
+20
+Lee was elected to his own term in 2011 and re_elected in 2015 .
+########
+21
+<EOP> .
+########
+22
+Serving as the city and county 's first Asian_American mayor in a county where more than 35 percent of residents are of Asian descent is part of `` the height of his legacy , '' former San Francisco mayor Willie Brown told CNN affiliate KPIX .
+########
+23
+Lee served under Brown in various civil posts when Brown was mayor from 1996 to early 2004 .
+########
+24
+<EOP> .
+########
+25
+`` Unlike all the rest of us LRB who RRB got elected _ we got elected by our own skills to convince people and to sell people on us as an idea _ Ed Lee earned that title by demonstration of being an efficient person who could manage a huge enterprise like San Francisco , '' Brown told KPIX .
+could	46	ps_cue
+like	51	ps_cue
+########
+26
+<EOP> .
+########
+27
+`` I am utterly and totally grief stricken , '' said Supervisor Malia Cohen , who cried as she spoke Tuesday morning .
+########
+28
+`` My heart breaks for LRB Lee 's wife RRB Anita and the mayor 's daughters .
+########
+29
+The entire city family is grieving right now .
+########
+30
+It 's a very stressful and difficult time .
+########
+31
+We 'll get through it together .
+########
+32
+I 'm in shock , it 's still hard for me to believe .
+########
+33
+I was just with him on Saturday . ''
+########
+34
+<EOP> .
+########

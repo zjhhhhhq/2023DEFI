@@ -1,0 +1,157 @@
+Does learning a second language have a powerful influence on our brains
+0
+Multiplicity of advantages of bilingualism lauded in studies <EOP> .
+########
+1
+2017_12_05 08:00 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+Research in the area of bilingualism has improved vastly in the last 20 years .
+########
+4
+Learning a second language has a powerful influence on our brains .
+has	4	CT+	CT+
+########
+5
+<EOP> .
+########
+6
+Bilingualism helps students to be more socially and emotionally skilled .
+helps	1	CT+	CT+
+helps	1	ps_cue
+########
+7
+<EOP> .
+########
+8
+Studies have shown that when children are in a bilingual environment , they need to determine which language to use with each individual at home and at school .
+need	13	ps_cue
+########
+9
+<EOP> .
+########
+10
+As a result , they are essential learning how to take on different perspectives , which leads to earlier developments in areas such as empathy .
+########
+11
+<EOP> .
+########
+12
+<EOP> .
+########
+13
+Learning a second language also helps students to become better readers in both languages .
+helps	5	CT+	CT+
+helps	5	ps_cue
+########
+14
+<EOP> .
+########
+15
+In learning to read in the second language , students use the skill of decoding .
+use	10	CT+	CT+
+########
+16
+That decoding skill has been found to transfer across both languages resulting in better reading skills .
+########
+17
+<EOP> .
+########
+18
+Studies have also shown that dual language learners are generally more successful in school .
+########
+19
+Outside of academic achievement , dual language students had better attendance rates and less problem_related behavior .
+########
+20
+<EOP> .
+########
+21
+When a second language is learned , a second culture is also learned .
+learned	12	CT+	CT+
+########
+22
+Being raised with one language and one culture can make it more difficult for individuals to be culturally intelligent .
+can	8	ps_cue
+########
+23
+<EOP> .
+########
+24
+As a result , bilingual individuals are more likely to be open_minded and adaptive .
+are	6	PS+	CT+
+likely	8	ps_cue
+########
+25
+So , bilingualism increases the development of intercultural and communication skills .
+increases	3	CT+	CT+
+########
+26
+<EOP> .
+########
+27
+In the past , the prevailing thought was that bilingual education would confuse students .
+would	11	ps_cue
+########
+28
+<EOP> .
+########
+29
+However , current research shows that children successfully use both languages and switch readily between the two .
+########
+30
+This type of brain function has been shown to support students in multi_tasking , decision_making , and problem solving .
+########
+31
+<EOP> .
+########
+32
+Looking to the future for our children , those who are bilingual have more opportunities open to them .
+have	12	CT+	CT+
+opportunities	14	ps_cue
+########
+33
+<EOP> .
+########
+34
+They can attend higher level education in either or both languages .
+can	1	ps_cue
+either	7	ps_cue
+or	8	ps_cue
+########
+35
+In addition , these individuals then have an advantage over monolinguists when it comes to career opportunities and opportunities for advancement .
+opportunities	16	ps_cue
+opportunities	18	ps_cue
+########
+36
+<EOP> .
+########
+37
+The Canadian International School Kunshan is recognized by the International Baccalaureate Organization as an IB world school , offering a dual language program .
+########
+38
+<EOP> .
+########
+39
+Our students have the opportunity to complete the International Baccalaureate 's Diploma Program and receive a bilingual IBDP certificate .
+########
+40
+<EOP> .
+########
+41
+With all the advantages of bilingualism and the IBDP bilingual certificate , our students have an exceptional foundation for their university studies and career success .
+have	14	CT+	CT+
+########
+42
+<EOP> .
+########
+43
+The author is the principal of the Canadian International School Kunshan .
+########
+44
+<EOP> .
+########

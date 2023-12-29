@@ -1,0 +1,39 @@
+Has DPRK fired ballistic missile into east waters
+0
+DPRK fires ballistic missile into east waters <EOP> .
+fires	1	CT+	CT+
+########
+1
+2017_07_04 09:32 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+SEOUL _ The Democratic People 's Republic of Korea LRB DPRK RRB has fired a ballistic missile into its eastern waters , Yonhap news agency reported Tuesday , citing the Republic of Korea LRB ROK RRB 's Joint Chiefs of Staff LRB JCS RRB .
+fired	13	CT+	CT+
+########
+4
+<EOP> .
+########
+5
+The JCS was quoted as saying in a statement that the ballistic missile was fired off into the East Sea from Banghyeon , North Pyongan province in the DPRK 's northwestern region at about 9:40 a.m. local time LRB 0040 GMT RRB .
+fired	14	CT+	CT+
+########
+6
+<EOP> .
+########
+7
+The missile launch was immediately reported to President Moon Jae_in , the statement said .
+########
+8
+<EOP> .
+########
+9
+Citing Japanese media reports , Yonhap said the missile may have landed in Japan 's exclusive economic zone .
+landed	11	CT+	CT+
+may	9	ps_cue
+########
+10
+<EOP> .
+########

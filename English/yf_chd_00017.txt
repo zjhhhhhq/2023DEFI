@@ -1,0 +1,164 @@
+Are US public universities seeking opportunities to enhance cooperation with Chinese counterparts
+0
+Creating connections beyond the usual borders <EOP> .
+########
+1
+2018_01_04 16:23 <EOP> .
+########
+2
+China Daily USA <EOP> .
+########
+3
+US public universities are seeking opportunities to enhance cooperation with Chinese counterparts to advance technological development and build global centers for innovative interdisciplinary research .
+seeking	4	CT+	CT+
+seeking	4	ps_cue
+opportunities	5	ps_cue
+########
+4
+<EOP> .
+########
+5
+Arizona State University , a US public_research university established in 1885 in Tempe , near Phoenix , Arizona , started several China_related initiatives 15 years ago to provide more opportunities for students .
+provide	27	CT+	CT+
+opportunities	29	ps_cue
+########
+6
+<EOP> .
+########
+7
+The school has already founded education and research programs across China .
+########
+8
+The two largest are in the Hainan provincial capital , Haikou , and Sichuan 's capital , Chengdu .
+########
+9
+<EOP> .
+########
+10
+It built the first campus , the HNU_ASU Joint International Tourism College , in Haikou in cooperation with Hainan University .
+########
+11
+The joint program set up three double degrees and admitted 253 students in the first semester .
+########
+12
+<EOP> .
+########
+13
+The ASU_Sichuan University Center for American Culture in Chengdu focuses on US culture to advance mutual understanding and provide intellectual resources in the fields of literature , art , music and history .
+########
+14
+<EOP> .
+########
+15
+`` We are trying to use these joint programs to attract highly qualified Chinese students to the campus and set up platforms for joint research , '' says ASU 's president Michael Crow .
+########
+16
+<EOP> .
+########
+17
+`` Our next plan is to find ways to be engaged with our digital_education activity .
+find	6	PS+	CT+
+plan	3	ps_cue
+########
+18
+We are working to link up with many new universities and expanded universities to use technology and work together . ''
+link	4	CT+	CT+
+########
+19
+<EOP> .
+########
+20
+ASU has been ranked among the 30 `` most innovative schools '' by the US News <EOP> .
+########
+21
+& <EOP> .
+########
+22
+World Report .
+########
+23
+<EOP> .
+########
+24
+ASU was initially built as a teachers college to provide education in the areas of agriculture and mechanical arts .
+########
+25
+The college performed all the functions of a university and was officially authorized as Arizona State University in 1958 .
+########
+26
+<EOP> .
+########
+27
+`` I think the highly innovative curriculum we have conducted in our university was the most important part for us , '' Crow says .
+########
+28
+<EOP> .
+########
+29
+Its 400 degree programs encompass such fields as engineering , art , business , science , music and philosophy .
+########
+30
+<EOP> .
+########
+31
+The number of international students has also rapidly increased in recent years .
+########
+32
+<EOP> .
+########
+33
+About 430 Chinese students were enrolled in the fall semester of 2002 .
+########
+34
+The number is nearly 4,000 in 2017 , Crow says .
+########
+35
+<EOP> .
+########
+36
+A growing number of Chinese are attending universities in the United States .
+########
+37
+About 350,000 Chinese students went to study in the US in 2016 , making China the biggest source country for the US ' 1 million overseas students , the US Institute of International Education reports .
+########
+38
+<EOP> .
+########
+39
+Chinese also accounts for the largest segment of ASU 's 13,000 international students , who come from 135 countries and regions , a number that makes ASU the US public university with the most students from overseas , he says .
+########
+40
+<EOP> .
+########
+41
+`` The university has created huge opportunities for new learning ways and many unique pathways for Chinese students , who are involved in different programs , '' Crow says .
+created	4	CT+	CT+
+opportunities	6	ps_cue
+########
+42
+<EOP> .
+########
+43
+Many Chinese universities seek connections with only the most elite US universities , but those are the schools that exclude the largest number of students , Crow says .
+seek	3	CT+	CT+
+exclude	19	neg_cue
+########
+44
+<EOP> .
+########
+45
+`` But we have a broader model .
+########
+46
+And what we are looking for are Chinese universities to work with that have the objective of having the most impact on the whole of society .
+looking	4	CT+	CT+
+########
+47
+And that 's the whole external US_China education bond . ''
+########
+48
+<EOP> .
+########
+49
+xinwen@chinadaily.com.cn <EOP> .
+########

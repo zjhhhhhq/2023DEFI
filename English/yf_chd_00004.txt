@@ -1,0 +1,154 @@
+Does Zimbabwe party expect opposition to help oust Mugabe
+0
+Zimbabwe party expects opposition to help oust Mugabe <EOP> .
+opposition	3	PS+	PS+
+expects	2	ps_cue
+opposition	3	neg_cue
+########
+1
+2017_11_21 09:18 <EOP> .
+########
+2
+Xinhua_Agencies <EOP> .
+########
+3
+<EOP> .
+########
+4
+People watch as Zimbabwean President Robert Mugabe addresses the nation on television , at a bar in Harare , Zimbabwe , November 19 , 2017 .
+########
+5
+<EOP> .
+########
+6
+LRB Photo_Agencies RRB <EOP> .
+########
+7
+HARARE , Zimbabwe -- The ruling ZANU_PF party has asked the opposition Movement for Democratic Change LRB MDC RRB to support its motion to impeach President Robert Mugabe , ZANU_PF Deputy Secretary for Legal Affairs Paul Mangwana said on Monday .
+opposition	11	CT+	PS+
+opposition	11	neg_cue
+########
+8
+<EOP> .
+########
+9
+He told the media just before the start of the party 's parliamentary caucus meeting that the ruling party needs 125 votes plus 73 votes from the MDC to obtain the two_thirds majority needed to impeach the president .
+needs	19	ps_cue
+########
+10
+<EOP> .
+########
+11
+`` We have discussed with the MDC , and they have promised to give us the 73 votes that we require , '' Mangwana said .
+########
+12
+<EOP> .
+########
+13
+He said the party hopes to complete the three_stage impeachment process by Wednesday .
+hopes	4	ps_cue
+########
+14
+<EOP> .
+########
+15
+The first stage is to move a motion and raise charges on Tuesday , which requires a simple majority , followed by the setting up of a nine_member committee to investigate the charges and report back to parliament , with voting on Wednesday , Mangwana said .
+raise	9	ps_cue
+########
+16
+<EOP> .
+########
+17
+The impeachment effort by ZANU_PF came after Mugabe missed the party 's deadline for him to resign by noon Monday .
+########
+18
+<EOP> .
+########
+19
+Lawmakers from the MDC will hold a meeting on Tuesday to decide whether to join their ruling party rivals to impeach the 93_year_old president , the minority chief whip said .
+will	4	ps_cue
+whether	12	ps_cue
+########
+20
+<EOP> .
+########
+21
+Although Mugabe 's ZANU_PF has the required two_thirds membership to remove Mugabe , participation by the opposition could boost a process that was started by the military 's intervention last week .
+opposition	16	PS+	PS+
+could	17	ps_cue
+opposition	16	neg_cue
+########
+22
+<EOP> .
+########
+23
+Mugabe has called his cabinet for a meeting on Tuesday at his State House offices , the chief secretary to the president and cabinet said in a notice , the same day ruling party members plan to impeach him .
+plan	35	ps_cue
+########
+24
+<EOP> .
+########
+25
+This is the first time the ministers are set to meet for their routine weekly meeting with Mugabe since the military took power on Wednesday .
+########
+26
+Cabinet meetings are usually held at Munhumutapa Building in the center of town , but an armored vehicle and armed soldiers are camped outside the offices .
+########
+27
+<EOP> .
+########
+28
+Events of the past week surrounding the fate of Mugabe have put tremendous pressure on the mobile networks of the southern African country , as people chose to stay on social media to be in the loop .
+########
+29
+State_owned NetOne said on Monday that its network experienced congestion .
+########
+30
+<EOP> .
+########
+31
+`` We would like to inform all our valued customers that we are currently experiencing high data usage and congestion on the network .
+would	2	ps_cue
+like	3	ps_cue
+########
+32
+We are doing all the best we can to address the issue , '' a message posted to NetOne 's subscribers said .
+can	7	ps_cue
+########
+33
+<EOP> .
+########
+34
+Zimbabwe 's military took over government functions last week in an action they said was not a coup but has been widely interpreted as such , saying that it wanted to get rid of `` criminals '' around Mugabe and put the economy back on track .
+not	15	neg_cue
+wanted	29	ps_cue
+########
+35
+<EOP> .
+########
+36
+Many took to social media to spread the news .
+########
+37
+Even those in the diaspora stayed on their mobile phones and were sharing pictures of what was happening as excitement gripped Zimbabweans who believed that a new political dispensation beckoned , especially on Saturday , when tens of thousands marched against Mugabe .
+believed	23	ps_cue
+against	40	neg_cue
+########
+38
+<EOP> .
+########
+39
+Messages were being posted via Whatsapp , Facebook and Twitter with images of the march and commentaries .
+########
+40
+<EOP> .
+########
+41
+<EOP> .
+########
+42
+<EOP> .
+########
+43
+<EOP> .
+########

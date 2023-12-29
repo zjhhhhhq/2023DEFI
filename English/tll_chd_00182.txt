@@ -1,0 +1,75 @@
+Does France ban super skinny models
+0
+France bans super skinny models <EOP> .
+bans	1	CT-	CT-
+bans	1	neg_cue
+########
+1
+2017_05_08 09:35 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+<EOP> .
+########
+4
+A model presents a creation from Amir Slama during Sao Paulo Fashion Week in Sao Paulo , Brazil , March 16 , 2017 .
+########
+5
+LRB Photo_Agencies RRB <EOP> .
+########
+6
+PARIS __ A new law banning the use of super skinny fashion models in France came into effect on Saturday , in efforts to target unrealistic ideas of beauty and eating disorders .
+banning	5	CT-	CT-
+banning	5	neg_cue
+########
+7
+<EOP> .
+########
+8
+Models operating in the fashion hub will be required to provide doctor 's certificate to state their overall physical health and prove their body mass index LRB BMI RRB sits within a healthy range .
+will	6	ps_cue
+########
+9
+<EOP> .
+########
+10
+The index , a measure of weight in relation to height and age , will be compared to the World Health Organization 's standards of underweight to decide whether a model is certified .
+will	14	ps_cue
+whether	28	ps_cue
+########
+11
+<EOP> .
+########
+12
+Marisol Touraine , French minister of social affairs and health , explained the new rules on Friday in a statement , saying that they were aimed at avoiding the promotion of inaccessible beauty ideals and preventing youth anorexia .
+########
+13
+<EOP> .
+########
+14
+The previous version of the law , backed and adopted by French parliamentarians in late 2015 , suggested a minimum BMI for models , prompting protests from the country 's fashion industry .
+suggested	17	ps_cue
+########
+15
+Employers breaking the law could face fines of up to 75,000 euros LRB $ 82,000 RRB and up to six months in jail .
+could	4	ps_cue
+########
+16
+<EOP> .
+########
+17
+In addition , another law obliging magazines and advertisers to label digitally altered images will come into force on October 1 .
+will	14	ps_cue
+########
+18
+<EOP> .
+########
+19
+According to the law , images where a model 's appearance has been manipulated need to be labeled `` photographie retouchee '' LRB retouched photograph RRB .
+need	14	ps_cue
+########
+20
+<EOP> .
+########

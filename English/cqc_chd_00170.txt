@@ -1,0 +1,153 @@
+Was global cyber chaos spreading worldwide
+0
+Cyber chaos keeps spreading worldwide <EOP> .
+spreading	3	CT+	CT+
+########
+1
+2017_05_16 08:14 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+In China , 18,000 IP addresses attacked , and universities among the hardest hit <EOP> .
+########
+4
+TOKYO _ Global cyber chaos was spreading on Monday as companies booted up computers at work following the weekend 's worldwide ransomware cyberattack .
+spreading	6	CT+	CT+
+########
+5
+<EOP> .
+########
+6
+The extortion scheme created chaos in 150 countries and could wreak even greater havoc as more malicious variations appear .
+could	9	ps_cue
+appear	18	ps_cue
+########
+7
+The initial attack , known as `` WannaCry '' , paralyzed computers running the United Kingdom 's hospital network , Germany 's national railway and scores of other companies and government agencies around the world .
+########
+8
+<EOP> .
+########
+9
+As a loose global network of cybersecurity experts fought the ransomware hackers , Chinese media said 29,372 institutions had been infected along with hundreds of thousands of devices .
+########
+10
+<EOP> .
+########
+11
+The Japan Computer Emergency Response Team Coordination Center , a nonprofit providing support for computer attacks , said 2,000 computers at 600 locations in Japan were reported affected so far .
+########
+12
+<EOP> .
+########
+13
+Government agencies said they were unaffected .
+########
+14
+Companies such as Hitachi and Nissan Motor reported problems they said had not seriously affected their business operations .
+not	12	neg_cue
+########
+15
+<EOP> .
+########
+16
+In China , about 18,000 IP addresses in China have been confirmed as infected with the `` WannaCry '' ransomware .
+########
+17
+Universities and other educational institutions were among the hardest hit , Xinhua reported .
+########
+18
+<EOP> .
+########
+19
+That may be because schools tend to have old computers and be slow about updates of operating systems and security , said Fang Xingdong , founder of ChinaLabs , an internet strategy think tank .
+may	1	ps_cue
+tend	5	ps_cue
+########
+20
+<EOP> .
+########
+21
+Railway stations , mail delivery , gas stations , hospitals , office buildings , shopping malls and government services also were affected , Xinhua said , citing Qihoo 360 , a Chinese internet security services company .
+########
+22
+<EOP> .
+########
+23
+But the spread of the ransomware is ongoing , but is slowing down , the Cyberspace Administration of China said in a statement .
+spread	2	CT+	CT+
+########
+24
+<EOP> .
+########
+25
+Elsewhere in Asia , officials in Japan and the Republic of Korea said they believed security updates had helped ward off the worst of the impact .
+believed	14	ps_cue
+########
+26
+<EOP> .
+########
+27
+The most public damage in the ROK was to cinema chain CJ CGV Co. .
+########
+28
+It was restoring its advertising servers at dozens of theaters after the attack left the company unable to display trailers of upcoming movies .
+unable	16	neg_cue
+########
+29
+<EOP> .
+########
+30
+The attack was disrupting computers that run factories , banks , government agencies and transport systems in scores of countries , including Russia , Ukraine , Brazil , Spain , India and Japan , among others .
+########
+31
+Russia 's Interior Ministry and companies including Spain 's Telefonica , FedEx in the United States and French carmaker Renault all reported troubles .
+########
+32
+<EOP> .
+########
+33
+Experts were urging organizations and companies to immediately update older Microsoft operating systems , such as Windows XP , with a patch released by Microsoft to limit vulnerability to a more powerful version of the malware or to future versions that ca n't be stopped .
+limit	26	neg_cue
+or	36	ps_cue
+n't	42	neg_cue
+stopped	44	neg_cue
+########
+34
+<EOP> .
+########
+35
+Paying the ransom will not ensure any fix , said Eiichi Moriya , a cybersecurity expert and professor at Meiji University .
+will	3	ps_cue
+not	4	neg_cue
+########
+36
+<EOP> .
+########
+37
+`` You are dealing with a criminal , '' he said .
+########
+38
+`` It 's like after a robber enters your home .
+like	3	ps_cue
+########
+39
+You can change the locks but what has happened can not be undone .
+can	1	ps_cue
+can	9	ps_cue
+not	10	neg_cue
+########
+40
+If someone kidnaps your child , you may pay your ransom but there is no guarantee your child will return . ''
+may	7	ps_cue
+no	14	neg_cue
+will	18	ps_cue
+########
+41
+<EOP> .
+########
+42
+Xinhua_AP_AFP_Reuters <EOP> .
+########

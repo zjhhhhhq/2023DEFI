@@ -1,0 +1,156 @@
+Does the ambitious Abe set numerical targets for his `` womenomics '' initiatives 
+0
+Japanese Prime Minister Shinzo Abe included five women in his second Cabinet nine days before the World Assembly for Women convened in Tokyo on Friday .
+########
+1
+<EOP> .
+########
+2
+This is because Abe is looking to Japanese women to help him execute his strategy to revitalize the economy .
+########
+3
+<EOP> .
+########
+4
+Governing a country with a shrinking and rapidly aging population , Abe is counting on Japan 's `` hidden asset '' , millions of highly educated women who are not working .
+not	29	neg_cue
+########
+5
+<EOP> .
+########
+6
+In Japan the negative impact of aging on growth is said to be larger than in any other advanced economy .
+negative	3	neg_cue
+########
+7
+Its decline in labor is judged to subtract about 0.25 percentage points from potential growth each year .
+potential	13	ps_cue
+########
+8
+<EOP> .
+########
+9
+An easy way to help slow this trend would be to increase the participation in the economy of women .
+would	8	ps_cue
+########
+10
+<EOP> .
+########
+11
+Kathy Matsui , chief Japan strategist at Goldman Sachs , said Japan could boost its GDP by almost 13 percent if it could narrow the gap between the number of men and women in the workplace , which would mean 7 million more workers in the labor pool .
+could	12	ps_cue
+could	22	ps_cue
+would	38	ps_cue
+########
+12
+<EOP> .
+########
+13
+Also , the World Economic Forum 's research found that Japanese corporations with higher performance consistently have greater female participation in senior management .
+########
+14
+<EOP> .
+########
+15
+The ambitious Abe has set numerical targets for his `` womenomics '' initiatives after his ineffective bids in other fields .
+initiatives	12	CT+	PS+
+########
+16
+He aims to raise the proportion of mothers who return to work after the birth of their first child to 55 percent and have women occupy 30 percent of leadership positions by the year 2020 .
+raise	3	ps_cue
+########
+17
+As of March 2015 , the Japanese government will require listed companies to disclose the number of women in executive positions in their financial reports .
+will	8	ps_cue
+########
+18
+<EOP> .
+########
+19
+At present only 38 percent of Japanese mothers return to work after giving birth to their first child .
+########
+20
+And women account for only 2.9 percent of manager_level and higher positions in Japanese companies employing 5,000 or more people .
+or	17	ps_cue
+########
+21
+<EOP> .
+########
+22
+Official figures released on Sunday show that the employment rate of women aged between 25 and 44 rose to 74.2 percent at the end of July , the highest since the Japanese government began compiling such data in 1968 .
+########
+23
+But unless the workplace is more women_friendly , Abe 's `` womenomics '' wo n't have the desired effect .
+womenomics	11	CT-	PS+
+n't	14	neg_cue
+########
+24
+<EOP> .
+########
+25
+It is still difficult for Japanese women to balance raising children and working full time .
+########
+26
+And the current system discourages women from entering career_stream positions .
+########
+27
+<EOP> .
+########
+28
+There is a severe shortage of day_care provision , which makes it hard for mothers to return to work .
+########
+29
+While Japan 's workplace culture rewards long hours more than results .
+########
+30
+Goldman Sachs report found that Japanese men spend an average of 59 minutes a day on housework and child care _ the shortest amount of time in the developed world .
+########
+31
+And the current tax system keeps women in the home , as it effectively punishes households with two working adults _ a family can currently only deduct a second income if it remains under about 1 million yen LRB $ 10,000 RRB a year _ a hurdle for spouses who wish to work more .
+can	23	ps_cue
+########
+32
+<EOP> .
+########
+33
+However , even if Abe can increase the proportion of women in employment , some economists doubt it will be enough to stimulate the Japanese economy .
+can	5	ps_cue
+will	18	ps_cue
+########
+34
+<EOP> .
+########
+35
+Royal Bank of Scotland Securities economists calculated that even if the percentage of the working_age women who work climbs up to 73.5 percent by 2030 , Japan 's potential growth rate would only rise by 0.14 percentage points .
+potential	28	ps_cue
+would	31	ps_cue
+########
+36
+And population declines would nullify that tiny increment .
+would	3	ps_cue
+########
+37
+<EOP> .
+########
+38
+But Japan ca n't afford to leave its large number of women underutilized .
+n't	3	neg_cue
+########
+39
+<EOP> .
+########
+40
+As Abe 's tenure is finite , how far his `` womenomics '' initiatives will go is questionable .
+initiatives	13	PS+	PS+
+questionable	17	ps_cue
+will	14	ps_cue
+########
+41
+It is uncertain whether his successors will follow his strategy to boost economic growth through reforms and policies to encourage Japanese women to work and lead .
+uncertain	2	ps_cue
+whether	3	ps_cue
+will	6	ps_cue
+########
+42
+<EOP> .
+########

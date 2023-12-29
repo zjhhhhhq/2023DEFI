@@ -1,0 +1,102 @@
+Will transgender individuals serve in the US military in any capacity
+0
+Trump says transgender people should not serve in military <EOP> .
+should	4	ps_cue
+not	5	neg_cue
+########
+1
+2017_07_27 09:08 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+<EOP> .
+########
+4
+<EOP> .
+########
+5
+<EOP> .
+########
+6
+Crowds of people protest US President Donald Trump 's announcement that he plans to reinstate a ban on transgender individuals from serving in any capacity in the US military , in Times Square , New York , US , July 26 , 2017 .
+plans	12	ps_cue
+ban	16	neg_cue
+########
+7
+LRB Photo_Agencies RRB <EOP> .
+########
+8
+WASHINGTON _ US President Donald Trump announced Wednesday that he would not allow transgender individuals to serve in the US military in any capacity .
+serve	16	CT-	CT-
+not	11	neg_cue
+would	10	ps_cue
+########
+9
+<EOP> .
+########
+10
+`` After consultation with my generals and military experts , please be advised that the United States Government will not accept or allow transgender individuals to serve in any capacity in the US Military , '' Trump tweeted .
+serve	26	CT-	CT-
+will	18	ps_cue
+not	19	neg_cue
+or	21	ps_cue
+########
+11
+<EOP> .
+########
+12
+The US military `` must be focused on decisive and overwhelming victory and can not be burdened with the tremendous medical costs and disruption that transgender in the military would entail , '' he continued .
+can	13	ps_cue
+not	14	neg_cue
+would	29	ps_cue
+########
+13
+<EOP> .
+########
+14
+A ban on transgender people serving openly in the military ended last year , but a year_long review was put in place to allow the Pentagon to figure out how to bring in new transgender recruits into the military .
+serving	5	CT-	CT-
+ban	1	neg_cue
+########
+15
+<EOP> .
+########
+16
+Trump 's announcement came after US Defense Secretary Jim Mattis said he was delaying the implementation of the new plan on the eve of the one_year deadline for the military to upgrade medical standards for transgender service members .
+delaying	13	neg_cue
+plan	19	ps_cue
+########
+17
+<EOP> .
+########
+18
+Mattis said late in June that the Pentagon needs more time to assess whether the new policy would affect the ability of the US military to defend the country .
+needs	8	ps_cue
+whether	13	ps_cue
+would	17	ps_cue
+########
+19
+<EOP> .
+########
+20
+A Pentagon_commissioned study in 2016 showed that there are an estimated 1,320 to 6,630 transgender service members in the US military .
+########
+21
+<EOP> .
+########
+22
+It concluded that allowing them to serve openly would have a minimal impact on the readiness and health care costs of the 1.3 _ million_member US military force .
+would	8	ps_cue
+########
+23
+<EOP> .
+########
+24
+Several Republican Congressmen have urged the Trump administration to reverse the policy on the basis that it is not in the interest of the national defense .
+not	18	neg_cue
+########
+25
+<EOP> .
+########

@@ -1,0 +1,165 @@
+Does Pope Francis have only two or three years left to live
+0
+Pope Francis has said he might have only two or three years left to live .
+have	6	PS+	PS+
+might	5	ps_cue
+or	9	ps_cue
+########
+1
+<EOP> .
+########
+2
+On a plane trip back from South Korea , he told journalists he believed he only had limited time left to complete his reforms of the Roman Catholic Church .
+believed	13	ps_cue
+########
+3
+<EOP> .
+########
+4
+Asked about how he copes with his popularity , he said : ` I try to think of my sins , my mistakes , so as not to think that I am some _ body important . '
+not	26	neg_cue
+########
+5
+<EOP> .
+########
+6
+He then added with a smile : ` Because I know this is going to last a short time , two or three years and then ... to the house of the Father . '
+last	15	CT+	PS+
+or	21	ps_cue
+########
+7
+<EOP> .
+########
+8
+According to a Vatican source , the 77_year_old has previously told those close to him that he thought he only had a few years left .
+had	20	CT+	PS+
+########
+9
+<EOP> .
+########
+10
+He also revealed that he would consider retiring if he felt he could no longer perform his duties .
+would	5	ps_cue
+consider	6	ps_cue
+could	12	ps_cue
+no	13	neg_cue
+########
+11
+<EOP> .
+########
+12
+His predecessor Pope Benedict XVI resigned in February last year .
+########
+13
+<EOP> .
+########
+14
+` If you asked me if , in the future , I felt I could not go forward , would I do the same ?
+could	14	ps_cue
+not	15	neg_cue
+forward	17	ps_cue
+forward	17	neg_cue
+would	19	ps_cue
+########
+15
+I would do the same .
+would	1	ps_cue
+########
+16
+Benedict has opened a door , ' Francis said on board the papal plane .
+########
+17
+<EOP> .
+########
+18
+He also admitted that his advisers have been encouraging him to rest more after he cancelled a series of engagements earlier in the year .
+########
+19
+<EOP> .
+########
+20
+In June he cancelled a visit to the Gemelli Hospital in Rome due to a ` sudden ailment ' .
+########
+21
+<EOP> .
+########
+22
+At the time he told Catholic television station TV2000 : ` We are not masters of our own lives , we can not arrange things to suit us .
+not	13	neg_cue
+can	21	ps_cue
+not	22	neg_cue
+########
+23
+We have to accept fragility . '
+########
+24
+<EOP> .
+########
+25
+He also called off trips to a shrine in February and a seminary in May .
+May	14	ps_cue
+########
+26
+<EOP> .
+########
+27
+` Those were very demanding days .
+########
+28
+And now I have to be a bit more sensible , ' he said , adding that he had been sleeping more over the past two months .
+########
+29
+<EOP> .
+########
+30
+The Pope has kept up a whirlwind of activity since his election in March 2013 .
+########
+31
+However he has some underlying health problems , including sciatica .
+########
+32
+He also had part of a lung removed in his youth .
+########
+33
+<EOP> .
+########
+34
+Some observers claim the pontiff has gained weight and is having difficulty breathing , which could be signs of a heart condition .
+could	15	ps_cue
+########
+35
+<EOP> .
+########
+36
+He also received the sad news that three members of his family had died in a car crash in Argentina .
+########
+37
+<EOP> .
+########
+38
+His two young great_nephews , aged two and eight months , and their 39_year_old mother Valeria Carmona , were killed in a road accident on Monday .
+########
+39
+<EOP> .
+########
+40
+Vatican spokesman Federico Lombardi said the Pope 's nephew Emanuel Bergoglio , who was driving , was in a serious condition .
+########
+41
+<EOP> .
+########
+42
+He added : ` The Pope was informed about the tragic accident .
+########
+43
+He is deeply pained . '
+########
+44
+<EOP> .
+########
+45
+The family 's car reportedly collided with a lorry in the Cordoba region , north_east of Buenos Aires .
+########
+46
+<EOP> .
+########

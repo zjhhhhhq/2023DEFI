@@ -1,0 +1,66 @@
+Is the victim traced 
+0
+Yorkshire police search for man who left severed ear on street after fight <EOP> .
+########
+1
+Police are searching for a man who left his partially severed , diamond_studded ear on the pavement after it was bitten off in a fight .
+########
+2
+<EOP> .
+########
+3
+West Yorkshire police believe the man did not seek medical treatment after the incident in Huddersfield at about 9.20 pm on Sunday night and are urging him to come forward .
+not	7	neg_cue
+forward	29	ps_cue
+forward	29	neg_cue
+########
+4
+<EOP> .
+########
+5
+A photograph of the ear , complete with the diamond stud earring , has been posted on Twitter but the victim has not yet been traced said the man fled the <EOP> .
+traced	25	CT-	CT-
+not	22	neg_cue
+yet	23	neg_cue
+########
+6
+Two men , aged 37 and 45 , from the Holmfirth area , have been arrested on suspicion of wounding and are currently in police custody.A police spokesman said : `` The male who we believe was injured in this incident has still not been traced and has not contacted police . ''
+traced	45	CT-	CT-
+suspicion	17	ps_cue
+not	43	neg_cue
+not	48	neg_cue
+########
+7
+<EOP> .
+########
+8
+He added : `` We have recovered a partially severed ear , the outer section of it .
+########
+9
+It still has the diamond stud in it . ''
+########
+10
+<EOP> .
+########
+11
+Twitter user @Ashley_Haigh posted a photograph of the severed ear on Twitter with the comment : `` Happy #BankHolidayWeekend in #huddersfield fighting by 21:20 . ''
+########
+12
+<EOP> .
+########
+13
+The picture shows the torn and bloodied rim and lobe of the ear , containing a diamond stud , lying on the ground .
+########
+14
+<EOP> .
+########
+15
+Police appealed for the injured man and any witnesses to contact them on 101 or Crimestoppers anonymously on 0800 555111 .
+or	14	ps_cue
+########
+16
+<EOP> .
+########
+17
+LRB Ivy via huffington post and the guardian RRB <EOP> .
+########

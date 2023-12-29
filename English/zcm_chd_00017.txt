@@ -1,0 +1,119 @@
+Did President Xi Jinping meet with visiting US Secretary of State Rex Tillerson Saturday
+0
+President Xi meets US secretary of state <EOP> .
+########
+1
+2017_10_01 06:57 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+<EOP> .
+########
+4
+<EOP> .
+########
+5
+<EOP> .
+########
+6
+President Xi Jinping LRB R RRB meets with visiting US Secretary of State Rex Tillerson in Beijing , Sept 30 , 2017 .
+########
+7
+LRB Photo_Xinhua RRB <EOP> .
+########
+8
+BEIJING _ President Xi Jinping met with visiting US Secretary of State Rex Tillerson Saturday , discussing US President Donald Trump 's state visit to China later this year .
+met	5	CT+	CT+
+########
+9
+<EOP> .
+########
+10
+`` Currently the most important event in our bilateral relations is President Trump 's China visit in November , '' Xi said .
+########
+11
+`` His visit will be a major opportunity for the development of China_US relations . ''
+will	3	ps_cue
+########
+12
+<EOP> .
+########
+13
+Xi said China_US ties have been generally stable , and that he has maintained sound communication with President Trump .
+########
+14
+<EOP> .
+########
+15
+Chinese and US teams should implement consensus reached by the two heads of state , grasp the direction of bilateral relationship , respect each other , and focus on cooperation while dealing with differences properly , Xi said .
+should	4	ps_cue
+########
+16
+<EOP> .
+########
+17
+`` China attaches great importance to President Trump 's visit , and I look forward to working with him to outline and advance our bilateral relations in the years to come , '' Xi said .
+forward	14	ps_cue
+forward	14	neg_cue
+########
+18
+<EOP> .
+########
+19
+He said the teams on both sides should work closely to make the visit `` successful and special . ''
+should	7	ps_cue
+########
+20
+<EOP> .
+########
+21
+China and the US are respectively the largest developing country and the largest developed one as well as two leading economies of the world , Xi said , stressing both sides need to and can cooperate on the bilateral , regional and global levels .
+need	31	ps_cue
+can	34	ps_cue
+########
+22
+<EOP> .
+########
+23
+`` The common interests of our two countries far exceed our differences , and cooperation is the only correct choice , '' Xi said .
+########
+24
+<EOP> .
+########
+25
+The two sides should expand mutually beneficial cooperation and strengthen communication and coordination on major international and regional issues , he said .
+should	3	ps_cue
+########
+26
+<EOP> .
+########
+27
+Xi called on the two sides to handle their differences and sensitive issues through dialogue and consultation , on the basis of respecting each other 's core interests and major concerns , so as to maintain stability of bilateral relations .
+########
+28
+<EOP> .
+########
+29
+The two sides should continue to encourage and expand people_to_people exchanges and strengthen friendship between the people of the two countries , he said .
+should	3	ps_cue
+########
+30
+<EOP> .
+########
+31
+Tillerson conveyed Trump 's greetings to Xi , saying the US president looks forward to his visit to China .
+forward	13	ps_cue
+forward	13	neg_cue
+########
+32
+<EOP> .
+########
+33
+Hailing the progress in US_China relations under the auspices of the two presidents , Tillerson said the United States values its relations with China and hopes to increase mutual trust and practical cooperation in various areas as well as to jointly tackle international and regional challenges .
+hopes	25	ps_cue
+########
+34
+<EOP> .
+########

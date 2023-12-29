@@ -1,0 +1,60 @@
+Are New Jersey teens victorious in table tennis open
+0
+New Jersey teens victorious in table tennis open <EOP> .
+victorious	3	CT+	CT+
+########
+1
+2016_12_16 09:17 <EOP> .
+########
+2
+CHINA DAILY <EOP> .
+########
+3
+<EOP> .
+########
+4
+Ray Huang LRB R RRB , one of the three Chinese_American teenagers from the New Jersey Table Tennis Club , won the junior boys ' team event at the 2016 US Table Tennis Championships this week in Las Vegas .
+won	20	CT+	CT+
+########
+5
+LRB Photo provided to China Daily RRB <EOP> .
+########
+6
+Three Chinese_American teenagers from the New Jersey Table Tennis Club captured the junior boys ' team championship at the 2016 US Table Tennis Championships this week in Las Vegas .
+championship	16	CT+	CT+
+########
+7
+<EOP> .
+########
+8
+Ray Huang , Ye Tian and Zirui Zhao are 16_year_olds representing the New Jersey Table Tennis Club LRB NJTTC RRB in Westfield , New Jersey .
+########
+9
+<EOP> .
+########
+10
+Huang , a sophomore at the Wardlaw_Hartridge School in Edison , New Jersey , said he hopes his victory will interest more of his friends in the sport so they can share in the fun .
+victory	18	CT+	CT+
+hopes	16	ps_cue
+will	19	ps_cue
+can	30	ps_cue
+########
+11
+<EOP> .
+########
+12
+Huang has been playing since he was 10 .
+########
+13
+He and his teammates also won a US championship in May .
+May	10	ps_cue
+########
+14
+<EOP> .
+########
+15
+In August , Huang finished second in the AAU Junior Olympic boys ' singles under_16 competition ; second in boys ' doubles under 16 , and was on the champion under_18 boys ' team .
+########
+16
+<EOP> .
+########

@@ -1,0 +1,106 @@
+Did DPRK test_launch ballistic missile
+0
+DPRK test_fires at least 1 ballistic missile from east coast : ROK military <EOP> .
+test_fires	1	CT+	CT+
+########
+1
+2017_05_29 08:27 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+SEOUL __ The Democratic People 's Republic of Korea LRB DPRK RRB test_launched at least one ballistic missile early Monday from the country 's east coast , the Republic of Korea LRB ROK RRB 's Joint Chiefs of Staff LRB JCS RRB said .
+test_launched	12	CT+	CT+
+########
+4
+<EOP> .
+########
+5
+The ballistic missile , which was believed to be of Scud type , was fired at about 5:39 am local time LRB 2039 GMT on Sunday RRB from the DPRK 's Wonsan vicinity , the JCS said in a statement .
+fired	14	CT+	CT+
+believed	6	ps_cue
+########
+6
+<EOP> .
+########
+7
+The missile flew some 450 km into eastern waters .
+########
+8
+<EOP> .
+########
+9
+An official with the JCS told a regular press briefing later that the exact number of launched missiles was currently under analysis though Pyongyang was assessed to have fired at least one missile .
+########
+10
+<EOP> .
+########
+11
+The missile was lofted to the maximum altitude of some 120 km , indicating a launch at a normal angle .
+launch	15	CT+	CT+
+########
+12
+The DPRK often fired a missile at a steep angle to test a technology for the long_range missile development .
+fired	3	CT+	CT+
+########
+13
+<EOP> .
+########
+14
+The JCS said the ROK and the United States were analyzing details on the missile launch .
+launch	15	CT+	CT+
+########
+15
+<EOP> .
+########
+16
+It noted that ROK 's military was closely watching any possible provocation of the DPRK , while maintaining a full preparedness .
+possible	10	ps_cue
+########
+17
+<EOP> .
+########
+18
+The Monday missile launch marked the third provocation of the DPRK since the new ROK administration was launched earlier this month .
+launch	3	CT+	CT+
+########
+19
+It also logged the DPRK 's ninth missile test_firing this year .
+test_firing	8	CT+	CT+
+########
+20
+<EOP> .
+########
+21
+ROK President Moon Jae_in ordered a meeting of national security council to be held .
+########
+22
+The meeting was presided over by Moon 's top national security advisor Chung Eui_yong .
+########
+23
+<EOP> .
+########
+24
+Meanwhile , the JCS said in a separate statement that the DPRK 's repeated provocative acts would cause isolation and make the country face strong punitive actions from the international community .
+would	16	ps_cue
+########
+25
+<EOP> .
+########
+26
+The statement said that Pyongyang 's continued launch of ballistic missiles was in violation of UN Security Council resolutions and was a clear provocation against the ROK , the ROK_US alliance and the international society .
+against	24	neg_cue
+########
+27
+<EOP> .
+########
+28
+It urged the DPRK to immediately stop any acts that raise tensions in the region , issuing a strong warning against the country .
+stop	6	neg_cue
+raise	10	ps_cue
+against	20	neg_cue
+########
+29
+<EOP> .
+########

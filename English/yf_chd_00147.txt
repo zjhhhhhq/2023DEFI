@@ -1,0 +1,66 @@
+Does Trump sign directive sending astronauts back to moon 
+0
+Trump signs directive sending astronauts back to moon <EOP> .
+directive	2	CT+	CT+
+########
+1
+2017_12_12 10:00 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+WASHINGTON _ US President Donald Trump on Monday signed his administration 's first space policy directive , formally directing the US space agency NASA to send astronauts back to the moon and eventually Mars .
+directive	15	CT+	CT+
+########
+4
+<EOP> .
+########
+5
+`` This time , we will not only plant our flag and leave our footprint , '' Trump said at a White House ceremony .
+will	5	ps_cue
+not	6	neg_cue
+########
+6
+<EOP> .
+########
+7
+`` We will establish a foundation for an eventual mission to Mars , and perhaps , someday , to many worlds beyond , '' he said .
+will	2	ps_cue
+perhaps	14	ps_cue
+########
+8
+<EOP> .
+########
+9
+Trump offered no specific timeline during his four_minute speech .
+no	2	neg_cue
+########
+10
+<EOP> .
+########
+11
+The Space Policy Directive 1 , as it 's called , was based on recommendations of the National Space Council , which Trump directed to reestablish in June to advise and help implement his space policy with exploration as a national priority .
+Directive	3	CT+	CT+
+########
+12
+<EOP> .
+########
+13
+The council was first created in 1989 during the administration of President George H.W. Bush but later disbanded in 1993 under President Bill Clinton .
+########
+14
+<EOP> .
+########
+15
+It marked a return to the vision of President George W. Bush , whose Constellation program aimed to return astronauts to the moon by 2020 and then go on to Mars .
+########
+16
+<EOP> .
+########
+17
+However , Constellation was cancelled in 2010 by then_President Barack Obama , on the grounds that Americans `` have been there before '' and that `` there 's a lot more of space to explore . ''
+########
+18
+<EOP> .
+########

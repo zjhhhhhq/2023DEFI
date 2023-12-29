@@ -1,0 +1,142 @@
+Do UK tourism chiefs hold emergency talks after terror attack
+0
+UK tourism chiefs hold emergency talks after terror attack <EOP> .
+hold	3	CT+	CT+
+########
+1
+2017_06_07 17:54 <EOP> .
+########
+2
+China Daily UK <EOP> .
+########
+3
+Top representatives from Britain 's tourism and hospitality sector convened on Monday to discuss a potential slump in the number of visitors to the United Kingdom following Saturday 's van and knife terror attack in London , which claimed seven lives and injured 48 .
+convened	9	CT+	CT+
+potential	15	ps_cue
+########
+4
+<EOP> .
+########
+5
+<EOP> .
+########
+6
+<EOP> .
+########
+7
+<EOP> .
+########
+8
+A police boat heads under Southwark Bridge on the River Thames towards London Bridge , the scene of the recent attack , in London , Britain June 6 , 2017 .
+########
+9
+LRB Photo_Agencies RRB <EOP> .
+########
+10
+The Tourism Industry Emergency Response Group met to coordinate the industry 's response to the third UK terror attack this year .
+met	6	CT+	CT+
+########
+11
+<EOP> .
+########
+12
+Xu Xiaolei , a spokesman for travel agent China Youth Travel Service , said only a few Chinese clients had canceled or changed plans , but he anticipates a future reduction .
+or	21	ps_cue
+plans	23	ps_cue
+########
+13
+Chinese people made 260,000 visits to the UK in 2016 .
+########
+14
+<EOP> .
+########
+15
+`` Chinese tourists are mature and rational , and they have trust in the UK 's security system , '' he said .
+########
+16
+`` However , the UK has witnessed several attacks recently .
+########
+17
+I think some Chinese tourists are likely to choose other destinations , and the number of Chinese tourists to the UK will be slightly reduced . ''
+likely	6	ps_cue
+will	21	ps_cue
+########
+18
+<EOP> .
+########
+19
+The industry 's emergency response group is facilitated by UK tourism authority VisitBritain and comprises more than 10 members , including the Association of British Travel Agents and the British Hospitality Group .
+########
+20
+<EOP> .
+########
+21
+It met after the attack on Westminster Bridge and following the London attacks on July 7 , 2005 in which 52 people were killed and more than 700 injured .
+########
+22
+<EOP> .
+########
+23
+A VisitBritain spokesperson said : `` First and foremost , we extend our thoughts and deepest sympathy to those affected by the recent events in London ... London is open for business and Britain continues to welcome the millions of visitors from around the globe . ''
+########
+24
+<EOP> .
+########
+25
+The UK 's tourism industry is worth 130 billion pounds LRB $ 168 billion RRB a year , contributing 36 billion pounds a year to London 's economy .
+########
+26
+The sector maintained healthy numbers following the Westminster and Manchester attacks and it remains to be seen whether the third attack will result in fewer tourists heading to the UK .
+whether	17	ps_cue
+will	21	ps_cue
+########
+27
+Last year , France saw a 7 percent drop in visitor numbers following multiple terror attacks there .
+########
+28
+<EOP> .
+########
+29
+`` There is the immediate impact and the question is how long that impact is sustained , '' said Ufi Ibrahim , CEO of the BHA .
+question	8	ps_cue
+########
+30
+`` We 've seen in France , in Paris and Nice , and in other countries where there have been terrorist attacks ... that there is a sustained period .
+########
+31
+It takes months to be able to recover . ''
+########
+32
+<EOP> .
+########
+33
+Flight bookings from China to the UK for June to August 2017 are up 37 percent compared to last year , according to data compiled at the end of May by flight monitoring company ForwardKeys .
+May	29	ps_cue
+########
+34
+<EOP> .
+########
+35
+Overall , there were a record 8.1 million overseas visits to the UK from January to March 2017 , up 7 percent on the same period in 2016 , according to Visit Britain .
+########
+36
+Overseas visitors to the UK spent 4.2 billion pounds from January to March , up 11 percent on the same period in 2016 and setting a new record for the first three months of the year .
+########
+37
+<EOP> .
+########
+38
+Chen Yingqun contributed to this story .
+########
+39
+<EOP> .
+########
+40
+<EOP> .
+########
+41
+<EOP> .
+########
+42
+<EOP> .
+########

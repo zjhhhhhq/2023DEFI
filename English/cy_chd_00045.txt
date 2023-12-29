@@ -1,0 +1,63 @@
+Are the shelters and government food supplies being delivered to specialized treatment centers
+0
+Death toll from Colombia landslide climbs to 306 <EOP> .
+########
+1
+2017_04_07 09:22 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+BOGOTA _ At least 306 people have died and 362 more have been injured by the landslide that hit the Colombian town of Mocoa on Saturday .
+########
+4
+<EOP> .
+########
+5
+The Minister of Defense and the man in charge of Mocoa 's reconstruction efforts , Luis Carlos Villegas , told the press Thursday that 220 bodies had been handed over to their families after being identified , including 92 children .
+########
+6
+<EOP> .
+########
+7
+`` We have 362 injured people , of which 19 are still in hospital .
+########
+8
+Another 100 have been sent to specialized treatment centers ... I have been inspecting the shelters and government food supplies are being delivered there .
+delivered	22	CT+	CT+
+########
+9
+The population in the shelters is being well_fed , '' he added .
+########
+10
+<EOP> .
+########
+11
+The minister also explained that , in recent days , there had been a sharp rise in demands for vaccinations by a great number of people seeking to avoid diseases .
+seeking	26	ps_cue
+avoid	28	neg_cue
+########
+12
+<EOP> .
+########
+13
+According to instructions from President Juan Manuel Santos , daily supplies for the displaced will continue to arrive until at least April 16th .
+arrive	17	CT+	CT+
+will	14	ps_cue
+########
+14
+<EOP> .
+########
+15
+The city of Mocoa is crisscrossed by the Mocoa , Mulato and Sancoyaco rivers , all of which burst their limits last Friday due to intense rain .
+########
+16
+<EOP> .
+########
+17
+The landslide hit early Saturday morning , when most of 43,700 people in the town was fast asleep .
+########
+18
+<EOP> .
+########

@@ -1,0 +1,60 @@
+Is wreckage of missing Myanmar millitary aircraft found
+0
+Wreckage of missing Myanmar military aircraft found : military sources <EOP> .
+found	6	CT+	CT+
+missing	2	neg_cue
+########
+1
+2017_06_07 20:38 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+YANGON _ The wreckage of the missing Myanmar military aircraft has been found on sea off Dawei township in southern Tanintharyi region late on Wednesday , according to military sources .
+found	12	CT+	CT+
+missing	6	neg_cue
+########
+4
+<EOP> .
+########
+5
+The military circle said the tragedy might be due to bad weather condition but it is yet to be determined only after the black box is found .
+might	6	ps_cue
+yet	16	neg_cue
+########
+6
+<EOP> .
+########
+7
+With 104 passengers on board , the aircraft of the Myanmar air force suddenly lost contact with the ground and went missing Wednesday afternoon on its flight from southern Tanintharyi region 's Myeik to Yangon .
+missing	21	neg_cue
+########
+8
+<EOP> .
+########
+9
+The 104 passengers include 90 army family members and 14 crew members .
+########
+10
+<EOP> .
+########
+11
+With a load of 2.4 tons of goods , the military aircraft , carrying some welfare goods and military family members in its transport mission , took off from Myeik air base at 01:06 pm local time for Yangon , but when the aircraft reached a height of 18,000 feet LRB 5,400 meters RRB at about 01:35 pm local time , it lost contact with the ground at a location , 32 km west of Dawei and went missing .
+missing	78	neg_cue
+########
+12
+<EOP> .
+########
+13
+The aircraft was on a round trip transport mission in accordance with the route Yangon_Myeik_Pokkpyin_Myeik_Yangon .
+########
+14
+<EOP> .
+########
+15
+Two aircrafts of the air force and four vessels of the navy have begun search and rescue operation .
+########
+16
+<EOP> .
+########

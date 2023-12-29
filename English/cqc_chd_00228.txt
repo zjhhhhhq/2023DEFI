@@ -1,0 +1,127 @@
+Can China and Russia Stop THAAD
+0
+THAAD only hinders efforts to denuclearize peninsula <EOP> .
+THAAD	0	CT+	CT+
+########
+1
+2017_04_28 07:32 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+<EOP> .
+########
+4
+File photo shows Seoungju residents chant slogans during a protest against the government 's decision on deploying a US THAAD anti_missile defense unit in Seongju , in Seoul , South Korea , July 21 , 2016 .
+against	10	neg_cue
+########
+5
+The banner reads `` Desperately oppose deploying THAAD '' .
+THAAD	7	CT+	CT+
+oppose	5	neg_cue
+########
+6
+LRB Photo_Agencies RRB <EOP> .
+########
+7
+If , as US Pacific Command chief Harry Harris claimed , THAAD is expected to be operational `` in the coming days '' , there is little chance of it being suspended because of protests from Beijing and Moscow , even though it comes at a time when Washington and its allies want them to commit more comprehensively and deeply to coordinated moves .
+THAAD	11	CT+	CT+
+expected	13	ps_cue
+little	26	neg_cue
+suspended	31	neg_cue
+########
+8
+<EOP> .
+########
+9
+Although the official excuse has been Pyongyang 's wayward stuntsmanship and the threat it poses , making THAAD a fait accompli and pre_empting any change of mind from the next administration in Seoul may be a more powerful driver behind the rush to get THAAD up and running in the ROK .
+may	33	ps_cue
+########
+10
+<EOP> .
+########
+11
+Of course , Beijing and Moscow have valid reasons to protest , because the advanced system upsets the regional strategic balance and its radar undermines Chinese and Russian security interests , even though both the US and the ROK claim otherwise .
+########
+12
+<EOP> .
+########
+13
+And since the deployment of THAAD in the ROK is now seemingly done and dusted , China and Russia have no choice but to respond .
+THAAD	5	CT+	CT+
+seemingly	11	ps_cue
+no	20	neg_cue
+########
+14
+<EOP> .
+########
+15
+Yet , whatever form that takes , it will not be the end of the story , since the nascent coalition against Pyongyang 's nuclear_missile program is likely to be collateral damage from the intransigence of Washington and Seoul .
+will	8	ps_cue
+not	9	neg_cue
+against	21	neg_cue
+likely	27	ps_cue
+########
+16
+<EOP> .
+########
+17
+Beijing and Moscow are in the same boat with Washington and its regional allies on denuclearizing the Korean Peninsula thanks to a shared security interest .
+########
+18
+And in the White House 's latest rhetoric on Korean Peninsula denuclearization , China and Russia are referred to as `` partners in the region '' , indicating unprecedented eagerness for a united front .
+########
+19
+<EOP> .
+########
+20
+Beijing , however , has been identified as crucial to dissuading the DPRK from continuing along the path it has chosen .
+########
+21
+So much so that Washington seems to believe that Beijing alone can make a dramatic difference .
+seems	5	ps_cue
+can	11	ps_cue
+########
+22
+<EOP> .
+########
+23
+Beijing , on its part , has been consistent in adherence to diplomacy and pursuing a nuclear_free peninsula with the united efforts of all stakeholders .
+########
+24
+<EOP> .
+########
+25
+The push to make THAAD operational in the ROK , however , creates a serious distraction for Beijing , because it represents a new security threat to it , one it must now address as a matter of urgency .
+THAAD	4	CT+	CT+
+########
+26
+<EOP> .
+########
+27
+Washington and Seoul claim Beijing is misreading the situation and overreacting , but that is because they are not willing to take Beijing 's concerns seriously and have not looked at the matter from Beijing 's perspective .
+not	18	neg_cue
+willing	19	ps_cue
+not	28	neg_cue
+########
+28
+<EOP> .
+########
+29
+Seoul does not seem to care what this means in the long run .
+not	2	neg_cue
+seem	3	ps_cue
+########
+30
+But THAAD threatens to permanently change the regional landscape and only adds new dynamics to a situation that was already complex and requiring of careful handling .
+########
+31
+<EOP> .
+########
+32
+<EOP> .
+########
+33
+<EOP> .
+########

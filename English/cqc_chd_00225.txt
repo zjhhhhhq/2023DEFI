@@ -1,0 +1,71 @@
+Are the puppies named by sick kids
+0
+Seven new Australian police puppies to be named by sick kids <EOP> .
+named	7	CT+	CT+
+########
+1
+2017_05_03 17:06 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+The puppies , all sable German Shepherds , were born in New South Wales LRB NSW RRB in March , with six of them set to serve in Australia , while the seventh will be sent to the New Zealand Police Force as part of a puppy exchange program .
+will	33	ps_cue
+########
+4
+<EOP> .
+########
+5
+The NSW Minister for Police Troy Grant told Xinhua in a statement on Wednesday that these puppies are ready for action .
+ready	18	ps_cue
+########
+6
+<EOP> .
+########
+7
+`` Just like our men and women in blue , our police pups are some of the best in the world , '' Grant said .
+like	2	ps_cue
+########
+8
+<EOP> .
+########
+9
+`` The Dog Unit achieves amazing things , and before we know it these cute puppies will be strong , crime fighting top dogs . ''
+will	16	ps_cue
+########
+10
+<EOP> .
+########
+11
+Commander of the Dog Unit in NSW Dean Smith said that the puppies will be named by sick kids at Westmead Children 's Hospital in Sydney , with one stipulation .
+named	15	CT+	CT+
+will	13	ps_cue
+########
+12
+All the names have to begin with the letter `` X '' .
+########
+13
+<EOP> .
+########
+14
+`` We are working with The Children 's Hospital at Westmead to give some of the kids who are chronically ill a chance to help choose their names , '' Smith said .
+########
+15
+<EOP> .
+########
+16
+`` Once the most popular names are chosen , we will assign the names to the pups and take them on a social outing to the hospital so the kids can meet them . ''
+names	13	CT+	CT+
+will	10	ps_cue
+can	30	ps_cue
+########
+17
+<EOP> .
+########
+18
+The NSW Dog Unit is the largest of its kind in Australia , and has currently serving dogs from a variety of breeds ; German Shepherds , Dutch Shepherds , English Springer Spaniels , Belgian Malinois , and Labradors .
+########
+19
+<EOP> .
+########

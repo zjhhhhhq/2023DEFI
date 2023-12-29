@@ -1,0 +1,146 @@
+Did four conservative lawmakers support it in its current form
+0
+Senate Republicans unveil Obamacare replacement bill , but fate uncertain <EOP> .
+uncertain	9	ps_cue
+########
+1
+2017_06_23 09:34 <EOP> .
+########
+2
+null <EOP> .
+########
+3
+<EOP> .
+########
+4
+Senate Minority leader Chuck Schumer stands during a press conference after Senate Republicans unveiled their version of legislation that would replace Obamacare on Capitol Hill in Washington , US , June 22 , 2017 .
+would	19	ps_cue
+########
+5
+LRB Photo_Agencies RRB <EOP> .
+########
+6
+Four conservative lawmakers said they could not support it in its current form , leaving Republicans short of the votes they need for passage .
+support	7	CT-	CT-
+could	5	ps_cue
+not	6	neg_cue
+need	21	ps_cue
+########
+7
+Democrats are united in opposition .
+opposition	4	neg_cue
+########
+8
+<EOP> .
+########
+9
+The 142_page proposal , worked out in secret by a group led Senate Majority Leader Mitch McConnell , aims to deliver on a central campaign promise of President Donald Trump by rolling back former President Barack Obama 's signature healthcare law , which has provided coverage to millions of Americans since it was passed in 2010 .
+########
+10
+<EOP> .
+########
+11
+Republicans view the law , formally known as the Affordable Care Act , as a costly government intrusion into the private marketplace .
+########
+12
+<EOP> .
+########
+13
+Trump welcomed the bill but indicated that changes may be in store .
+may	8	ps_cue
+########
+14
+<EOP> .
+########
+15
+`` I am very supportive of the Senate #Healthcarebill .
+supportive	4	CT+	CT-
+########
+16
+Look forward to making it really special ! ''
+forward	1	ps_cue
+forward	1	neg_cue
+########
+17
+he wrote on Twitter .
+########
+18
+<EOP> .
+########
+19
+Trump urged the House of Representatives to pass a similar bill in May , only to criticize it in private as `` mean '' once it passed .
+May	12	ps_cue
+########
+20
+He said on Wednesday he wanted a health plan `` withheart . ''
+wanted	5	ps_cue
+plan	8	ps_cue
+########
+21
+<EOP> .
+########
+22
+Democrats immediately attacked the legislation as a callous giveaway to the rich that would leave millions without coverage .
+would	13	ps_cue
+without	16	neg_cue
+########
+23
+<EOP> .
+########
+24
+`` The president said the House bill was mean , '' said Senate Democratic leader Chuck Schumer .
+########
+25
+`` The Senate bill may be even meaner . ''
+may	4	ps_cue
+########
+26
+<EOP> .
+########
+27
+Obama weighed in on Facebook .
+########
+28
+`` If there 's a chance you might get sick , get old , or start a family _ this bill will do you harm , '' he wrote .
+might	7	ps_cue
+or	14	ps_cue
+will	21	ps_cue
+########
+29
+<EOP> .
+########
+30
+The Senate 's most conservative members said the plan did not do enough to scale back the US government 's role .
+plan	8	ps_cue
+not	10	neg_cue
+########
+31
+<EOP> .
+########
+32
+`` This current bill does not repeal Obamacare .
+not	5	neg_cue
+########
+33
+It does not keep our promises to the American people , '' said Senator Rand Paul , who along with fellow Republican Senators Ted Cruz , MikeLee and Ron Johnson said they could not support it in it scurrent form .
+support	34	CT-	CT-
+not	2	neg_cue
+could	32	ps_cue
+not	33	neg_cue
+########
+34
+<EOP> .
+########
+35
+Shares of hospital companies and health insurers rose on the bill 's release , with the overall SandP 500 healthcare sector closing up 1.1 percent at an all_time high .
+########
+36
+<EOP> .
+########
+37
+`` The initial proposal I think is more generous and morepositive to the industry than expected , '' said Jeff Jonas , aportfolio manager with Gabelli Funds .
+expected	15	ps_cue
+########
+38
+<EOP> .
+########

@@ -1,0 +1,81 @@
+Has Russia interfered in elections
+0
+No proof of Russian interference in US , EU elections : Russian FM <EOP> .
+interference	4	CT-	CT-
+No	0	neg_cue
+########
+1
+2017_11_01 09:39 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+<EOP> .
+########
+4
+Russian Foreign Minister Sergei Lavrov gestures during a meeting with his Surinamese counterpart Yldiz Pollack_Beighle in Moscow , Russia Oct 31 , 2017 .
+########
+5
+LRB Photo_Agencies RRB <EOP> .
+########
+6
+MOSCOW _ The allegations that Russia has interfered in elections in the United States or the European Union are groundless and their authors are unable to present any proof , Russian Foreign Minister Sergei Lavrov said Tuesday .
+interfered	7	CT-	CT-
+or	14	ps_cue
+unable	24	neg_cue
+########
+7
+<EOP> .
+########
+8
+`` It has even been mentioned somewhere that we are not only going to interfere in all the elections , but also will manipulate the environment to create floods , '' Lavrov said at a meeting with the Association of European Businesses .
+interfere	14	CT+	CT-
+not	10	neg_cue
+will	22	ps_cue
+########
+9
+<EOP> .
+########
+10
+`` But no one has presented a single proof , '' he stressed .
+no	2	neg_cue
+########
+11
+<EOP> .
+########
+12
+Lavrov said the United States and its allies have accused Russia of everything from protests , bankruptcies of some companies , and `` maybe even man_made disasters . ''
+maybe	23	ps_cue
+########
+13
+<EOP> .
+########
+14
+The minister also pointed out that the investigation of the Russian interference in the US presidential election has last for nine months already but no proof has been made public .
+investigation	7	CT+	CT-
+no	24	neg_cue
+########
+15
+<EOP> .
+########
+16
+Lavrov said with so many people involved in the investigation in the US Congress and in the Office of Special Counsel , there should have been a leak to the media by now .
+should	23	ps_cue
+########
+17
+<EOP> .
+########
+18
+`` Therefore , these excuses about secrecy , frankly , are simply ridiculous for people who make such serious accusations against us , '' said the minister .
+against	20	neg_cue
+########
+19
+<EOP> .
+########
+20
+<EOP> .
+########
+21
+<EOP> .
+########

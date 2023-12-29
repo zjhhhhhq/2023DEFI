@@ -1,0 +1,65 @@
+Does a Bangladeshi man have an attempted terrorist attack
+0
+Subway bomber wounds self , three victims in New York <EOP> .
+########
+1
+2017_12_12 09:21 <EOP> .
+########
+2
+null <EOP> .
+########
+3
+NEW YORK _ A Bangladeshi man set off a homemade pipe bomb strapped to his body in a crowded New York City commuter hub during the morning rush hour on Monday , officials said , immediately calling it an attempted terrorist attack .
+attack	41	CT+	CT+
+########
+4
+<EOP> .
+########
+5
+The suspect , Akayed Ullah , 27 , was taken to a hospital after suffering burns from the explosive device , which was attached to his body with Velcro and zip ties and did not fully ignite , officials said .
+suspect	1	ps_cue
+not	34	neg_cue
+########
+6
+Investigators told Reuters they believe the attack in midtown Manhattan was intended to be a suicide bombing .
+attack	6	CT+	CT+
+intended	11	ps_cue
+########
+7
+<EOP> .
+########
+8
+The blast , which occurred around 7 am LRB 1200 GMT RRB in a busy underground passageway between the subway station underneath the Port Authority Bus Terminal and the Times Square subway station , sent commuters fleeing for the exits and police officers rushing to the scene , as officials scrambled to reroute trains and shut down streets .
+########
+9
+<EOP> .
+########
+10
+Three people , including a police officer , suffered minor injuries .
+########
+11
+<EOP> .
+########
+12
+The attack came just six weeks after police say an Uzbek man , Sayfullo Saipov , plowed a truck through a crowd of pedestrians along a bike path in lower Manhattan , killing eight in an act for which Islamic State later claimed responsibility .
+attack	1	CT+	CT+
+########
+13
+In September 2016 , a man injured 31 people when he set off a homemade bomb in New York 's Chelsea neighborhood .
+########
+14
+<EOP> .
+########
+15
+In recent years , numerous people claiming to be inspired by Islamic State have carried out attacks across Europe , the Middle East and the United States .
+claiming	6	ps_cue
+########
+16
+<EOP> .
+########
+17
+A law enforcement official familiar with the Ullah investigation said investigators have found evidence that he watched Islamic State propaganda on the internet .
+########
+18
+<EOP> .
+########

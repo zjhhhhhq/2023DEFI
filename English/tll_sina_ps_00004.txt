@@ -1,0 +1,73 @@
+Will you be forced to sit upright 
+0
+Dutch designer Jeffrey Heiligers ' latest clothing line _ ` Posture ' _ targets people who spend most of their time hunched over a computer .
+########
+1
+By preventing the wearer from slouching , the clothes help people improve their posture in the long run .
+########
+2
+The concept is simple _ every time you slouch , the shirt will tighten uncomfortably around the back , forcing you to sit upright again !
+sit	22	CT+	CT+
+will	12	ps_cue
+########
+3
+<EOP> .
+########
+4
+`` I engineered a tailor_made remedy that corrects poor posture , nowadays very common amongst the digital generation , not by constraining the muscles , but by training them , '' Heiligers told Dezeen magazine .
+not	19	neg_cue
+########
+5
+`` Posture offers a solution integrated in the clothes you wear .
+########
+6
+By repositioning the seams in such a way that they start to feel uncomfortable when hunching , it stimulates you to sit up straight . ''
+sit	21	CT+	CT+
+########
+7
+<EOP> .
+########
+8
+Heiligers revealed that a physiotherapist was involved in the designing process .
+########
+9
+They began by identifying the various sitting and standing positions that cause neck , shoulder , and back pain .
+########
+10
+Heiligers then cut the fabric across the back , in order to make the clothes tighten slightly when the wearer slumps forward .
+forward	21	ps_cue
+forward	21	neg_cue
+########
+11
+The discomfort will remind the wearer to adjust their posture , and their muscles will eventually get trained to sit and stand the right way .
+will	2	ps_cue
+will	14	ps_cue
+########
+12
+<EOP> .
+########
+13
+The Posture range includes cotton shirts , felted cardigans , and knitted wool jumpers that are all constructed differently to normal garments .
+########
+14
+Heiligers pointed out that the clothes are special because the more they are used , the less they are needed .
+########
+15
+He chose to use only a minimum palette of colors _ white , grey , navy _ because he wanted to create an everyday collection .
+wanted	19	ps_cue
+########
+16
+<EOP> .
+########
+17
+`` I would like the fashion industry to be inspired by the blueprint I created and them to buy_adopt it to prevent upper back problems in the future , '' Heiligers said .
+would	2	ps_cue
+like	3	ps_cue
+prevent	21	neg_cue
+########
+18
+<EOP> .
+########
+19
+Vocabulary : <EOP> .
+########

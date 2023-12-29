@@ -1,0 +1,109 @@
+Does China support probe into use of chemical attack
+0
+China supports probe into use of chemical attack <EOP> .
+supports	1	CT+	CT+
+########
+1
+2017_04_07 09:34 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+China supports the Organization for the Prohibition of Chemical Weapons -- an intergovernmental institution that makes sure countries adhere to the prohibition on chemical weapons -- to carry out comprehensive investigations into all uses of chemicals as weapon in Syria , a senior Chinese envoy said on Wednesday .
+supports	1	CT+	CT+
+########
+4
+<EOP> .
+########
+5
+Liu Jieyi , China 's permanent representative to the UN , strongly condemned the alleged use of chemical weapons in Syria during a Security Council emergency meeting convened in response to it .
+condemned	12	neg_cue
+########
+6
+<EOP> .
+########
+7
+It is reported that at least 70 people died and 200 others were wounded on Tuesday in a gas attack in a rebel_held town of Khan Sheikhoun in Syria 's northwestern province of Idlib .
+########
+8
+<EOP> .
+########
+9
+Liu said within Syria there have been `` many instances of the use of chemicals as weapons '' , and China supports OPCW in conducting the probe into all cases to reach conclusions based on substantive evidence that can `` stand the test of time and facts '' .
+supports	21	CT+	CT+
+can	38	ps_cue
+########
+10
+<EOP> .
+########
+11
+`` China firmly opposes the use of chemical weapons by any country , any organization , or any person under any circumstances and this has been our consistent position , '' Liu said .
+or	16	ps_cue
+########
+12
+<EOP> .
+########
+13
+`` It is essential to hold to account all the related perpetrators and responsible parties in cases of chemical weapons , '' Liu said .
+########
+14
+`` The civil conflict has entered into its seventh year , already resulting in enormous civilian casualties .
+########
+15
+China is empathetic with the Syrian people for their sufferings , and we call upon the various Syrian parties to put an early end to the conflict . ''
+########
+16
+<EOP> .
+########
+17
+Liu also said that political settlement is the only solution to the Syrian question .
+question	13	ps_cue
+########
+18
+China hopes that all relevant parties will create conditions for the political solution rather than creating difficulties , he said .
+hopes	1	ps_cue
+will	6	ps_cue
+rather	13	neg_cue
+########
+19
+<EOP> .
+########
+20
+The 15_nation council is working on a draft resolution which asks for an inquiry into the alleged attack .
+########
+21
+<EOP> .
+########
+22
+Syrian government has denied any role in the attack .
+denied	3	neg_cue
+########
+23
+<EOP> .
+########
+24
+Nikki Haley , the US ambassador to the UN who is currently serving as president of the Security Council for the month of April , said that the US might unilaterally act on Syria if the Security Council failed to respond to the crisis .
+might	29	ps_cue
+failed	38	neg_cue
+########
+25
+<EOP> .
+########
+26
+`` When the United Nations consistently fails in its duty to act collectively , there are times in the life of states that we are compelled to take our own action , '' she said .
+########
+27
+`` For the sake of the victims , I hope the rest of the council is finally willing to do the same . ''
+hope	9	ps_cue
+willing	17	ps_cue
+########
+28
+<EOP> .
+########
+29
+Xinhua and Wang Linyan contributed to this story .
+########
+30
+<EOP> .
+########

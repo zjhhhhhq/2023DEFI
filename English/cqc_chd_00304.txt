@@ -1,0 +1,125 @@
+Is Northern England boosted by Beijing link
+0
+Northern England boosted by Beijing link <EOP> .
+boosted	2	CT+	CT+
+########
+1
+2017_11_06 18:16 <EOP> .
+########
+2
+China Daily UK <EOP> .
+########
+3
+<EOP> .
+########
+4
+The first Beijing_Manchester direct flight arrives at Manchester Airport on June 10 , 2016 .
+########
+5
+LRB Photo_Xinhua RRB <EOP> .
+########
+6
+Trade and investment flows between China and Northern England soared following the launch of a new direct flight between Manchester and Beijing in June 2016 , according to a new study unveiled on Monday .
+########
+7
+<EOP> .
+########
+8
+The report , commissioned by business association Manchester China Forum and conducted by the economic consultancy Steer Davies Gleeve , found the value of goods exported by businesses from across Northern England via Manchester Airport to China increased by 265 percent year_on_year after the direct flight was launched , climbing to almost 200 million poundsLRB $ 261 million RRB a month .
+########
+9
+<EOP> .
+########
+10
+Chinese investments in Manchester 's property market in 2016 grew by 54 percent compared to 2015 .
+########
+11
+<EOP> .
+########
+12
+As of April 2017 , the pipeline of Chinese investment was capable of creating 850 new jobs in the Manchester region , the report said .
+########
+13
+<EOP> .
+########
+14
+Part of the increase in trade and investment was attributed to smoother communication as a result of easier business travel .
+########
+15
+<EOP> .
+########
+16
+The Manchester_Beijing route , which is operated by Hainan Airlines , runs daily during peak months .
+########
+17
+The route has so far carried 90,000 passengers .
+########
+18
+The report said the total number of passengers traveling from the Manchester area to Beijing rose by 20,415 to 74,055 per year since the introduction of the route .
+########
+19
+<EOP> .
+########
+20
+Sun Dali , China 's consul general for the North of England , said the direct route started at the right time and continues to develop cooperation between the North of England and China .
+########
+21
+<EOP> .
+########
+22
+`` I hope that the intercommunication between the UK and China continues to encourage more cooperation between China and the North of England , and that more Chinese people come here to set up businesses , study , travel , and have first_hand experiences in this unique and charming part of the world , '' said Sun .
+encourage	13	CT+	CT+
+hope	2	ps_cue
+########
+23
+<EOP> .
+########
+24
+Ryan Zhang , the UK general manager for Hainan Airlines , said the route has been one of the most successful the airline has launched in recent years .
+########
+25
+<EOP> .
+########
+26
+`` Manchester has proved to be an extremely popular destination for our Chinese customers , whether they be students , business travelers or people visiting friends and family based in the North of England or wider UK , '' he said .
+whether	15	ps_cue
+or	22	ps_cue
+or	34	ps_cue
+########
+27
+<EOP> .
+########
+28
+John Cridland , chairman of Transport for the North , a government body , said the route is `` a fantastic example of the economic value of direct access to markets and the North 's ability to sustain such links '' .
+########
+29
+<EOP> .
+########
+30
+The route has not only benefited trade links between China and Manchester , but also between China and the wider North of England region , which is branded by the UK government as the ` Northern Powerhouse ' in an effort to revitalize growth in Northern England through infrastructure construction , which is set to become more important after Britain leaves the European Union .
+benefited	5	CT+	CT+
+not	3	neg_cue
+########
+31
+<EOP> .
+########
+32
+In 2016 , regions covered by the UK 's Northern Powerhouse accounted for 25 percent of total UK exports to China , according to UK government data .
+########
+33
+<EOP> .
+########
+34
+On Tuesday , a UK government delegation will host a ` Northern Powerhouse Day ' at the China International Industry Fair in Shanghai , to further promote trade and investment links between China and the region .
+promote	26	CT+	CT+
+will	7	ps_cue
+########
+35
+<EOP> .
+########
+36
+<EOP> .
+########
+37
+<EOP> .
+########

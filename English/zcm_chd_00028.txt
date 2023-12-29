@@ -1,0 +1,130 @@
+Does Obamacare repeal appear doomed after key Republican says ` no '
+0
+Obamacare repeal appears doomed after key Republican says ` no ' <EOP> .
+doomed	3	PS+	PS+
+appears	2	ps_cue
+no	9	neg_cue
+########
+1
+2017_09_26 09:58 <EOP> .
+########
+2
+null <EOP> .
+########
+3
+<EOP> .
+########
+4
+<EOP> .
+########
+5
+<EOP> .
+########
+6
+Senator Susan Collins LRB R_ME RRB walks to the Senate floor ahead of a vote on the health care bill on Capitol Hill in Washington , US , July 27 , 2017 .
+########
+7
+LRB Photo_Agencies RRB <EOP> .
+########
+8
+WASHINGTON -- The last_gasp Republican drive to tear down President Barack Obama 's health care law essentially died Monday as Maine Sen. Susan Collins joined a small but decisive cluster of GOP senators in opposing the push .
+opposing	34	neg_cue
+########
+9
+<EOP> .
+########
+10
+The Maine moderate said in a statement that the legislation would make `` devastating '' cuts in the Medicaid program for poor and disabled people , drive up premiums for millions and weaken protections Obama 's law gives people with pre_existing medical conditions .
+would	10	ps_cue
+########
+11
+She said the legislation is `` deeply flawed , '' despite eleventh_hour changes its sponsors have made in search of support .
+########
+12
+<EOP> .
+########
+13
+The only way Republicans could resuscitate their push would be to change opposing senators ' minds , which they 've tried unsuccessfully to do for months .
+could	4	ps_cue
+would	8	ps_cue
+opposing	12	neg_cue
+unsuccessfully	21	neg_cue
+########
+14
+Collins told reporters that she made her decision despite a phone call from President Donald Trump , who 's been futilely trying to press unhappy GOP senators to back the measure .
+########
+15
+<EOP> .
+########
+16
+`` They 're still working it and a lot of conversations are going on , '' No 3 Senate GOP leader John Thune of South Dakota told reporters .
+No	16	neg_cue
+########
+17
+But he conceded that a revival would be `` a heavy lift '' and the prospects were `` bleak .
+revival	5	PS+	PS+
+would	6	ps_cue
+bleak	18	ps_cue
+########
+18
+`` The collapse marks a replay of the embarrassing loss Trump and party leaders suffered in July , when the Senate rejected three attempts to pass legislation erasing Obama 's 2010 statute .
+loss	9	neg_cue
+rejected	21	neg_cue
+########
+19
+The GOP has made promises to scrap the law a high_profile vow for years , and its failure to deliver despite controlling the White House and Congress has infuriated conservatives whose votes Republican candidates need .
+failure	17	neg_cue
+need	34	ps_cue
+########
+20
+<EOP> .
+########
+21
+Republicans had pinned their last hopes on a measure by GOP Sens. Bill Cassidy of Louisiana and South Carolina 's Lindsey Graham .
+hopes	5	ps_cue
+########
+22
+It would end Obama 's Medicaid expansion and subsidies for consumers and ship the money -- $ 1.2 trillion through 2026 -- to states to use on health services with few constraints .
+would	1	ps_cue
+########
+23
+<EOP> .
+########
+24
+With their narrow 52_48 majority and solid Democratic opposition , three GOP `` no '' votes would doom the bill .
+doom	17	PS+	PS+
+opposition	8	neg_cue
+no	13	neg_cue
+would	16	ps_cue
+########
+25
+GOP Sens. John McCain of Arizona , Rand Paul of Kentucky and Texas ' Ted Cruz have said they oppose the measure , though Cruz aides said he was seeking changes that would let him vote yes .
+oppose	19	neg_cue
+seeking	29	ps_cue
+would	32	ps_cue
+########
+26
+<EOP> .
+########
+27
+Sen. Lisa Murkowski , R_Alaska , remains undecided .
+########
+28
+Murkowski , who voted against the failed GOP bills in July , has said she 's analyzing the measure 's impact on her state , where medical costs are high .
+against	4	neg_cue
+failed	6	neg_cue
+########
+29
+<EOP> .
+########
+30
+The Senate must vote this week for Republicans to have any chance of prevailing with their narrow margin .
+########
+31
+Next Sunday , protections expire against a Democratic filibuster , bill_killing delays that Republicans lack the votes to overcome .
+against	5	neg_cue
+lack	14	neg_cue
+########
+32
+<EOP> .
+########

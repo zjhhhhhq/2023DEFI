@@ -1,0 +1,67 @@
+Does Japanese right_wing hotelier's new book blame Nanjing Massacre on Chinese army
+0
+Japanese ` right_wing ' hotelier 's new book blames Nanjing Massacre on Chinese army <EOP> .
+blames	8	CT+	CT+
+########
+1
+2017_06_06 13:07 <EOP> .
+########
+2
+People 's Daily Online <EOP> .
+########
+3
+<EOP> .
+########
+4
+Toshio Motoya LRB Photo scrolled by CNTV RRB <EOP> .
+########
+5
+Tokyo_based hotel and real estate developer APA Group has once again come under fire over a historically inaccurate book by the group 's CEO , Toshio Motoya .
+########
+6
+At the launch of the new book on June 2 , Motoya said he would not remove copies of the book from his hotels during the Tokyo Olympics .
+would	14	ps_cue
+not	15	neg_cue
+########
+7
+<EOP> .
+########
+8
+In the book , titled `` The Real History of Japan : Japan Pride , '' Motoya says the `` so_called Nanjing Massacre story '' is `` fabricated , '' and blames looting and killings in the city on soldiers with the Chinese army , the Japan Times reported on June 3 .
+blames	31	CT+	CT+
+########
+9
+A copy of the book is placed in every room at the company 's APA Hotels .
+########
+10
+<EOP> .
+########
+11
+<EOP> .
+########
+12
+Books denying Japan 's history of aggression including the 1937 Nanking Massacre and the forced recruitment of `` comfort women '' before and during World War II are on display in a hotel room of an APA hotel .
+########
+13
+LRB Photo_Xinhua RRB <EOP> .
+########
+14
+`` The Japanese army merely exposed and put to death plainclothes soldiers who abandoned their uniforms , stole the garments of regular citizens , and were hiding in the refugee zone with weapons and ammunition , '' Motoya writes in the book , which has been printed in both English and Japanese .
+########
+15
+<EOP> .
+########
+16
+In the book , Motoya says Japan must grow strong without staining its reputation , which is why he denies the occurrence of the Nanjing Massacre and the forced recruitment of `` comfort women . ''
+without	10	neg_cue
+denies	19	neg_cue
+########
+17
+He also expresses strong concern about the situation in the East China Sea and South China Sea , emphasizing that only a Japan_US alliance can confront China .
+concern	4	CT+	CT+
+concern	4	ps_cue
+can	24	ps_cue
+########
+18
+<EOP> .
+########

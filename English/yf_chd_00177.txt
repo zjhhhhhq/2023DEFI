@@ -1,0 +1,85 @@
+Is there alternative to the two_state solution 
+0
+UN chief : Two_state solution a must , ` no Plan B ' <EOP> .
+no	9	neg_cue
+########
+1
+2017_12_06 16:10 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+United Nations Secretary_General Antonio Guterres said that there is no alternative to the two_state solution on Wednesday after US President Donald Trump recognized Jerusalem as Israel 's capital .
+solution	14	CT+	CT+
+no	9	neg_cue
+########
+4
+<EOP> .
+########
+5
+Trump has instructed the Department of State to move the US embassy there from Tel Aviv .
+########
+6
+<EOP> .
+########
+7
+`` In this moment of great anxiety , I want to make it clear : there is no alternative to the two_state solution .
+solution	22	CT+	CT+
+no	17	neg_cue
+########
+8
+There is no Plan B , '' Guterres told reporters at UN headquarters in New York .
+no	2	neg_cue
+########
+9
+<EOP> .
+########
+10
+Guterres said that Jerusalem is an issue that must be resolved through direct negotiations between Israel and Palestine .
+resolved	10	neg_cue
+########
+11
+<EOP> .
+########
+12
+He said that it is only by realizing the vision of two states living side_by_side in peace , security and mutual recognition , with Jerusalem as the capital of Israel and Palestine , and all final status issues resolved permanently through negotiations , that the legitimate aspirations of both peoples can be achieved .
+states	12	CT+	CT+
+resolved	38	neg_cue
+can	50	ps_cue
+########
+13
+<EOP> .
+########
+14
+`` For my part as the UN secretary_general , I will do everything in my power to support the Israeli and Palestinian leaders ' return to meaningful negotiations and to realize this vision of a lasting peace for both people , '' he said .
+will	10	ps_cue
+########
+15
+<EOP> .
+########
+16
+China voiced concerns about a possible escalation of tension in the region .
+possible	5	ps_cue
+########
+17
+<EOP> .
+########
+18
+Trump said he has judged this cause of action to be in the best interest of the US and the pursuit of peace between Israel and the Palestinians .
+########
+19
+<EOP> .
+########
+20
+The Jerusalem Embassy Act passed by the US Congress in 1995 required the relocation of the US embassy in Israel from Tel Aviv to Jerusalem .
+########
+21
+Former US presidents , including Bill Clinton , George W. Bush and Barack Obama , all renewed a presidential waiver to delay the relocation .
+########
+22
+Trump renewed the waiver in June for six months .
+########
+23
+<EOP> .
+########

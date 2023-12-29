@@ -1,0 +1,73 @@
+Does Scottish Chambers of Commerce open trade office in Yantai
+0
+Scottish Chambers of Commerce opens trade office in Yantai <EOP> .
+opens	4	CT+	CT+
+########
+1
+2017_05_16 23:58 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+The Scottish Chambers of Commerce opened an international trade office in Yantai , a Chinese port city in Shandong province on Tuesday .
+opened	5	CT+	CT+
+########
+4
+<EOP> .
+########
+5
+The formal opening ceremony was hosted by Zhang Bo , vice_mayor of the city , together with senior officials from Yantai municipal government .
+########
+6
+Both parties signed a memorandum of understanding for trade engagement and partnership , designed to achieve an effective channel for exchange of business between Scotland and Yantai .
+########
+7
+<EOP> .
+########
+8
+The Scottish delegation was led by SCC 's new president , Tim Allan , and chief executive Liz Cameron .
+########
+9
+<EOP> .
+########
+10
+Shandong province has the third_largest economy in China with a population of more than 97 million and a GDP of 6.3 trillion yuan LRB $ 900 billion RRB .
+########
+11
+It is China 's main wine growing region accounting for more than 25 percent of all wine production .
+########
+12
+Yantai is the biggest trading port in North China and in 2016 , the city imported more than $ 19 billion of goods and services .
+########
+13
+<EOP> .
+########
+14
+Allan said the rate of growth within new cities such as Yantai and Jinan opens up the potential for Scottish businesses to promote and sell goods and services which Chinese businesses and consumers want and need .
+potential	17	ps_cue
+need	35	ps_cue
+########
+15
+<EOP> .
+########
+16
+That demand , together with a more recent policy of further openness to new trading partners and overseas alliances by the Chinese government , presents a myriad of opportunities for Scottish businesses to capitalize on .
+opportunities	28	ps_cue
+########
+17
+<EOP> .
+########
+18
+The Scottish Chambers of Commerce identified robotics , bioscience , manufacturing , engineering and smart technologies , agriculture , food and drink and soccer management as being areas of key interest .
+########
+19
+<EOP> .
+########
+20
+SCC officials intend to return to the province later this year to `` explore new ways to foster co_operation between the two countries '' .
+intend	2	ps_cue
+########
+21
+<EOP> .
+########

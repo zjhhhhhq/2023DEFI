@@ -1,0 +1,144 @@
+Are netizens free to post photos and reviews about their travel and food experiences
+0
+Social media plays a bigger role in food tourism <EOP> .
+########
+1
+2017_04_14 14:53 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+<EOP> .
+########
+4
+The US Embassy to China launched the `` American Fo0.odie Tour '' _ a social media contest to promote US tourism and cuisine on April 14 in Beijing .
+########
+5
+As the latest attempt to lure Chinese visitors , the contest runs until May 19 and each week Chinese netizens are invited to upload their best photos of American regional cuisine to Weibo , the Chinese version of Twitter , and compete for great travel prizes .
+upload	23	CT+	CT+
+May	13	ps_cue
+########
+6
+The organizer also broadcasted the launch ceremony live , attracting more than 10,000 viewers during the three_hour event .
+########
+7
+<EOP> .
+########
+8
+<EOP> .
+########
+9
+Food and drinks showcased at the `` American Foodie Tour '' launch event at the Ritz Carlton Beijing on April 14 , 2017 .
+########
+10
+LRB Photo by Chen Liubing_chinadaily .
+########
+11
+com.cn RRB <EOP> .
+########
+12
+Besides Weibo , social media such as Twitter , Facebook , Instagram , Flickr and professional trip service providers TripAdvisor and its Chinese counterpart Mafengwo has a growing impact on food and tourism industries .
+########
+13
+With more than 200 million reviews and opinions posted on TripAdvisor , and more than one billion active users on Facebook who post updates and share images , social media dominates the travel industry .
+posted	8	CT+	CT+
+post	22	CT+	CT+
+share	25	CT+	CT+
+########
+14
+<EOP> .
+########
+15
+Travel Agencies in China are closing their offline experience centers and digging deeper into social media .
+########
+16
+Tourism bureaus of various countries such as Britain , Australia and South Korea have all opened official accounts on Weibo and WeChat , a social media application developed by Tencent .
+########
+17
+And the US Embassy is taking a new step by not only publishing official promotional content , but also inviting netizens to upload authentic photos to make the contest more fun and real .
+upload	22	CT+	CT+
+not	10	neg_cue
+########
+18
+<EOP> .
+########
+19
+<EOP> .
+########
+20
+A test post of the `` American Foodie Tour '' contest on the official Weibo account of US Embassy to China .
+########
+21
+LRB Photo_Weibo RRB <EOP> .
+########
+22
+The reason behind this surge is simple _ travel and tourism depends heavily on word_of_mouth to spread opinions and recommendations , and people tend to seek trip information and advice from the sources they trust most , other tourists and people they know .
+tend	23	ps_cue
+########
+23
+And social media platforms allow customers to easily share tips and suggestions .
+share	8	CT+	CT+
+########
+24
+<EOP> .
+########
+25
+With no biased interests involved , user generated content shared on social media is what travelers truly experience , which is more persuasive and reliable .
+shared	9	CT+	CT+
+no	1	neg_cue
+########
+26
+Different from traditional media , travel topics and content on social media can be traced , discussed and re_broadcasted , and largely increase coverage and active time of the travel topics .
+can	12	ps_cue
+########
+27
+<EOP> .
+########
+28
+Although all netizens are free to post photos and reviews about their travel and food experiences , social media influencers play a much bigger role .
+post	6	CT+	CT+
+########
+29
+News platform Social Media Week pointed out that certain social influencers have built online followings so strong that they dwarf giant brands and do so within the brand 's industry .
+########
+30
+<EOP> .
+########
+31
+<EOP> .
+########
+32
+The latest travel post from Scott 's Twitter account .
+########
+33
+LRB Photo_twitter RRB <EOP> .
+########
+34
+Scott Eddy , who is constantly on Klout 's top 10 Travel Influencer list , has over 1.09 million followers on Twitter .
+########
+35
+He 's been building his brand since the beginning of Twitter , Instagram and Facebook , and specifically focuses on travel , hotels , food and wine .
+########
+36
+Expert and amateur food and travel lovers like Scott share millions of photos daily across social media platforms , which have changed how people research trips , make decisions and share experiences .
+share	9	CT+	CT+
+like	7	ps_cue
+########
+37
+<EOP> .
+########
+38
+Big data analysis can extract basic information such as age , gender , hometown and interests of social media users , and locate potential visitors of travel destinations through capturing and analyzing the information published and followed by users , which saves companies on resources and promotional costs .
+can	3	ps_cue
+potential	23	ps_cue
+########
+39
+<EOP> .
+########
+40
+<EOP> .
+########
+41
+<EOP> .
+########

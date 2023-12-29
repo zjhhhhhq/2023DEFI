@@ -1,0 +1,59 @@
+Does Chile look forward to arrival of China_made electric buses
+0
+Chile looks forward to arrival of China_made electric buses <EOP> .
+looks	1	CT+	CT+
+forward	2	ps_cue
+forward	2	neg_cue
+########
+1
+2017_12_31 16:03 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+SANTIAGO _ Chile looks forward to the scheduled delivery next year of 15 electric buses manufactured with Chinese technology , said a senior Chilean official .
+looks	3	CT+	CT+
+forward	4	ps_cue
+forward	4	neg_cue
+scheduled	7	ps_cue
+########
+4
+<EOP> .
+########
+5
+`` We will be the country with the largest fleet of electric buses in South America and we will be almost on a par with those countries that have incorporated this technology , '' Transport minister Paola Tapia said in an interview with a local radio station .
+will	2	ps_cue
+will	18	ps_cue
+########
+6
+<EOP> .
+########
+7
+The units will be the first of 90 Chinese_made electric buses being incorporated to modernize the public transit fleet operating in capital Santiago .
+will	2	ps_cue
+########
+8
+<EOP> .
+########
+9
+Made by Chinese automobile manufacturer BYD , the 81_passenger buses feature cushioned seats , air conditioning , Wi_Fi , charging outlets for mobiles and a secure separate cabin for drivers .
+########
+10
+<EOP> .
+########
+11
+Transit authorities expect the new units to cut operating costs by some 70 percent , with electric buses consuming some 70 pesos LRB 10 U.S. cents RRB per km to run , compared to 300 pesos LRB 49 US cents RRB per km for conventional diesel vehicles .
+expect	2	CT+	CT+
+expect	2	ps_cue
+########
+12
+<EOP> .
+########
+13
+The bus units can be fully charged in just two to three hours , allowing the buses to cover various routes throughout the day , Tapia said .
+can	3	ps_cue
+########
+14
+<EOP> .
+########

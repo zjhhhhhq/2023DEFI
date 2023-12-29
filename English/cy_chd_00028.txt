@@ -1,0 +1,67 @@
+Is plea for free chicken nuggets tweet on track to break retweet record
+0
+Plea for free chicken nuggets tweet is on track to break retweet record <EOP> .
+retweet	11	CT+	CT+
+########
+1
+2017_04_12 15:09 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+With 3.3 million retweets , the most retweeted record holder right now is talk show host Ellen DeGeneres , which is a group selfie taken by Bradly Cooper at the Oscars award show in 2014 .
+retweeted	7	CT+	CT+
+########
+4
+And now , Wilkerson 's plea has 2.6 million retweets , less than 1 million away to break that record .
+retweets	9	CT+	CT+
+########
+5
+<EOP> .
+########
+6
+It all started on Wednesday , when Wilkerson tweeted at Wendy 's , a fast_food chain store and asked them how many retweets was needed for a year of free chicken nuggets .
+########
+7
+Wendy 's replied with `` 18 million . ''
+########
+8
+Wilkerson replied `` Consider it done '' and posted the screenshot of this conversation with `` Help me please , a man needs his nuggs '' to ask for retweets .
+retweets	29	CT+	CT+
+needs	22	ps_cue
+########
+9
+<EOP> .
+########
+10
+`` I sent out the tweet as a joke , '' Wilkerson told the Reno Gazette_Journal , `` but then they responded with the outrageous number ... Then I put the screenshot up and it started gaining momentum . ''
+########
+11
+<EOP> .
+########
+12
+As his plea is going viral , Google , Amazon , United Airlines , and many other companies have joined Wilkerson 's quest for chicken nuggets and retweeted his post .
+retweeted	27	CT+	CT+
+########
+13
+<EOP> .
+########
+14
+Wilkerson 's father suggested that at this point , `` it 's great if it has a great cause other than eating chicken nuggets for a year . ''
+suggested	3	ps_cue
+########
+15
+<EOP> .
+########
+16
+Carter Wilkerson has taken his father 's suggestion and set up a website , where he is planning to sell #NuggsforCarter T_shirts .
+planning	17	ps_cue
+########
+17
+The proceeds will be donated to help families of Breast Cancer Patients , an educational scholarship , and to a local breast cancer non_profit organization called Mom 's on the Run , according to the website .
+will	2	ps_cue
+########
+18
+<EOP> .
+########

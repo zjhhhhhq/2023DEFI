@@ -1,0 +1,210 @@
+Does Michael Li become the organization 's first Chinese person 
+0
+Oxford debating society gets a new perspective <EOP> .
+########
+1
+2017_05_30 18:58 <EOP> .
+########
+2
+China Daily UK <EOP> .
+########
+3
+Michael Li is the first Chinese_British president of the prestigious Oxford Union Society .
+########
+4
+<EOP> .
+########
+5
+<EOP> .
+########
+6
+<EOP> .
+########
+7
+<EOP> .
+########
+8
+A keen debater , he says he used to be a shy teenager who hated public speaking until he found his passion for discussions .
+########
+9
+<EOP> .
+########
+10
+The union , which was founded in 1823 , has a membership drawn largely from the University of Oxford .
+########
+11
+It is one of the most famous debating societies in the world .
+########
+12
+<EOP> .
+########
+13
+Li said becoming the organization 's first Chinese person was a proud moment .
+becoming	2	CT+	CT+
+########
+14
+<EOP> .
+########
+15
+`` There have been a lot of presidents in the union 's almost 200_year history , '' he said .
+########
+16
+`` But , at the same time , being president is not about a specific identity ; it is about getting the best out of your team and putting together a strong program of events .
+not	11	neg_cue
+########
+17
+I 'm very privileged and humbled to have this position . ''
+have	7	CT+	CT+
+########
+18
+<EOP> .
+########
+19
+Notable past_presidents of the Oxford Union include previous British prime ministers ; Boris Johnson , the United Kingdom 's foreign secretary ; and Benazir Bhutto , a former prime minister of Pakistan .
+########
+20
+<EOP> .
+########
+21
+Li , who turned 21 two weeks ago , was born in Manchester and is studying chemistry at Oxford .
+########
+22
+<EOP> .
+########
+23
+His parents moved to the UK in the 1980s , from Sichuan province .
+########
+24
+At the age of 5 , Li and his family moved to Sweden before returning to Britain when he was 10 .
+########
+25
+<EOP> .
+########
+26
+In the UK , Li attended Manchester Grammar and became involved in various activities and projects .
+########
+27
+In his final year , he became the first Chinese_British person to become school captain at Manchester Grammar .
+########
+28
+<EOP> .
+########
+29
+His interest in debating started when he was around 15 .
+########
+30
+He says that , despite being shy , he eventually came to love public speaking .
+love	12	ps_cue
+########
+31
+<EOP> .
+########
+32
+`` I 've always been interested in putting forward different points of views and looking at alternative perspectives , '' he said .
+forward	8	ps_cue
+forward	8	neg_cue
+########
+33
+`` With my upbringing , I 've been quite fortunate to have been exposed to different backgrounds and culture and , from that , it makes me think that there are always two sides to a story . ''
+########
+34
+<EOP> .
+########
+35
+He said he enjoys coming up with an argument in a short space of time and `` not just criticizing or attacking an argument but also convincing the audience and persuading them to side with your point of view '' .
+not	17	neg_cue
+or	20	ps_cue
+########
+36
+<EOP> .
+########
+37
+Li first came across the debating society during an Oxford Schools ' competition in 2013 where he gained `` a glimpse of what the union does and how multifaceted it is '' .
+########
+38
+<EOP> .
+########
+39
+He joined the union when he became a student at Oxford University in 2014 .
+########
+40
+He became its president two years later .
+became	1	CT+	CT+
+########
+41
+<EOP> .
+########
+42
+Since joining the union , Li has helped put together more than 300 events .
+########
+43
+The Oxford Union has a history of hosting international fi gures and celebrities but one guest speaker who stood out for him was Professor Stephen Hawkin .
+########
+44
+<EOP> .
+########
+45
+Li would like to see more international students join the debating society .
+would	1	ps_cue
+like	2	ps_cue
+########
+46
+<EOP> .
+########
+47
+`` The union will reach its 200th anniversary in 2023 and the challenges for us are engaging our members once they have left and also increasing the accessibility and membership uptake , especially getting international students and speakers to take part . ''
+will	3	ps_cue
+########
+48
+<EOP> .
+########
+49
+Li is not sure what he wants to do after he graduates but thinks he may look into consultancy or healthcare work .
+not	2	neg_cue
+wants	6	ps_cue
+may	15	ps_cue
+or	19	ps_cue
+########
+50
+<EOP> .
+########
+51
+He said he does not have any plans to follow in the footsteps of former union presidents Boris Johnson and Michael Gove and head into the world of politics .
+not	4	neg_cue
+plans	7	ps_cue
+########
+52
+<EOP> .
+########
+53
+One event from history that propelled the union into the spotlight took place in 1933 , against the backdrop of a strengthening Soviet Union and the rise of Adolf Hitler 's Nazi Party in Germany .
+against	16	neg_cue
+########
+54
+<EOP> .
+########
+55
+The union voted 275 to 153 in favour of the motion `` that in no circumstances would this House fi ght for King and Country '' , triggering a torrent of public criticism , including allegations of disloyalty .
+no	14	neg_cue
+would	16	ps_cue
+criticism	32	neg_cue
+########
+56
+<EOP> .
+########
+57
+Future wartime leader and prime minister , Winston Churchill , condemned the vote as `` that abject , squalid , shameless avowal ... It is a very disquieting and disgusting symptom '' .
+condemned	10	neg_cue
+########
+58
+<EOP> .
+########
+59
+<EOP> .
+########
+60
+<EOP> .
+########
+61
+<EOP> .
+########

@@ -1,0 +1,134 @@
+Can an interim arrangement last long 
+0
+Seamless trade arrangement with EU outlined in Britain 's 1st major Brexit proposal <EOP> .
+########
+1
+2017_08_16 09:51 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+<EOP> .
+########
+4
+Brexit Secretary David Davis leaves a television studio in central London , Britain August 15 , 2017 .
+########
+5
+LRB Photo_Agencies RRB <EOP> .
+########
+6
+LONDON _ The British government on Tuesday unveiled a blueprint setting out Britain 's future customs relationship with the European Union LRB EU RRB , the first in a series of official document to outline the government 's Brexit strategy .
+########
+7
+<EOP> .
+########
+8
+The paper puts forward a transitional customs arrangement between the United Kingdom LRB UK RRB and the EU , with customs requirements as frictionless as possible .
+forward	3	ps_cue
+forward	3	neg_cue
+possible	25	ps_cue
+########
+9
+<EOP> .
+########
+10
+Although the paper does not indicate how long an interim arrangement will last for , British Brexit secretary David Davis told media here Tuesday that it would continue for two_years or less .
+last	12	CT-	CT-
+continue	27	PS+	CT-
+not	4	neg_cue
+would	26	ps_cue
+indicate	5	ps_cue
+will	11	ps_cue
+or	30	ps_cue
+########
+11
+<EOP> .
+########
+12
+The proposal has to be agreed by the EU .
+########
+13
+<EOP> .
+########
+14
+The British Department for Exiting the EU LRB DExEU RRB said the aim of the proposal is to continue some of the existing arrangements Britain already has with the EU .
+########
+15
+<EOP> .
+########
+16
+It would , said DExEU , reduce or remove barriers to trade through new arrangements , and adopt technology_based solutions to make it easier for businesses to comply with customs procedures .
+would	1	ps_cue
+or	7	ps_cue
+########
+17
+<EOP> .
+########
+18
+Britain is scheduled to leave the EU in March 2019 when it will cease to be a member of the European Single Market and the European Customs Union which allows tariff_free flow of goods throughout the 500_million population trading bloc .
+scheduled	2	ps_cue
+will	12	ps_cue
+########
+19
+<EOP> .
+########
+20
+<EOP> .
+########
+21
+<EOP> .
+########
+22
+Last year , British imports and exports from the EU totalled some 718 billion USdollars , said a government spokesman .
+########
+23
+<EOP> .
+########
+24
+DExEU said a new customs partnership with the EU , by aligning Britain 's approach to the customs border , would remove the need for a UK_EU customs border .
+would	20	ps_cue
+need	23	ps_cue
+########
+25
+<EOP> .
+########
+26
+One potential approach , the official statement said , would involve Britain mirroring the EU 's requirements for imports from the rest of the world where the final destination is the EU .
+potential	1	ps_cue
+would	9	ps_cue
+########
+27
+<EOP> .
+########
+28
+The paper published by the government is the first major proposal by Britain on its future trading relationship with the EU .
+########
+29
+<EOP> .
+########
+30
+It is also the first of a series of papers on Britain 's future partnership with the EU .
+########
+31
+<EOP> .
+########
+32
+The first paper also sets out new details on an interim period with the EU .
+########
+33
+The proposed model , which would mean close association with the EU customs union for a time_limited period , would ensure that UK businesses only have to adjust once to a new customs relationship .
+proposed	1	ps_cue
+would	5	ps_cue
+would	19	ps_cue
+########
+34
+<EOP> .
+########
+35
+This would minimize disruption and offering business a smooth and orderly transition , said DExEU .
+would	1	ps_cue
+########
+36
+<EOP> .
+########

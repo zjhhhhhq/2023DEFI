@@ -1,0 +1,53 @@
+Will Iran , Russia and Turkey de_escalate violence in key areas in Syria
+0
+UN chief hopes to see accord improve lives in war_torn Syria <EOP> .
+hopes	2	ps_cue
+########
+1
+2017_05_05 10:55 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+United Nations Secretary General Antonio Guterres speaks at Financing for Peace : Innovations to Tackle Fragility session during the IMF_World Bank spring meetings in Washington , US , April 21 , 2017 .
+########
+4
+LRB Photo_Agencies RRB <EOP> .
+########
+5
+The agreement was reached by guarantor countries Iran , Russia and Turkey to de_escalate violence in key areas in Syria , noted a statement issued here by UN spokesman Stephane Dujarric .
+de_escalate	13	CT+	CT+
+########
+6
+<EOP> .
+########
+7
+`` The secretary_general welcomes the commitments to ceasing the use of all weapons , particularly aerial assets ; to rapid , safe , and unhindered humanitarian access ; and to creating conditions for the delivery of medical aid and meeting civilians ' basic needs , '' the statement said .
+ceasing	7	CT+	CT+
+needs	43	ps_cue
+########
+8
+`` The commitments made should not affect the rights of Syrians to seek and enjoy asylum . ''
+should	4	ps_cue
+not	5	neg_cue
+########
+9
+<EOP> .
+########
+10
+On Thursday , Russia , Iran and Turkey signed a memorandum in Kazakhstan 's capital Astana on the creation of four safe zones in war_torn Syria .
+########
+11
+The countries will outline the maps by June 4 .
+will	2	ps_cue
+########
+12
+<EOP> .
+########
+13
+<EOP> .
+########
+14
+<EOP> .
+########

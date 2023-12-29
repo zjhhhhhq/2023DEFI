@@ -1,0 +1,88 @@
+Is US dazzled by Chinese traditional arts 
+0
+US dazzled by Chinese traditional arts <EOP> .
+arts	5	CT+	CT+
+########
+1
+2017_04_03 08:03 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+<EOP> .
+########
+4
+Artisans demonstrate paper cutting , sugar drawing and dough modeling .
+########
+5
+A group of them have brought traditional Chinese folk arts to the United States , as this year marks the 46th anniversary of China_US `` ping_pong diplomacy '' .
+arts	9	CT+	CT+
+########
+6
+LRB Photo_Xinhua RRB <EOP> .
+########
+7
+BOCA RATON , Florida － In a booth at Sunset Cove Amphitheater , a huge outdoor venue in Boca Raton , Li Jun , in his traditional Tang suit , was drawing a dragon in caramel on his iron pad .
+########
+8
+<EOP> .
+########
+9
+With a spoon in hand , he swirled his wrist , carefully contouring this auspicious creature , before pressing a bamboo stick on it and shoveling the whole thing off the pad .
+########
+10
+Complicated as the dragon shape appeared to be , it took Li only about three minutes to finish .
+appeared	5	ps_cue
+########
+11
+<EOP> .
+########
+12
+`` If I hold a party this time next year , can I invite him to do this for my guests ? ''
+can	11	ps_cue
+########
+13
+a middle_aged woman only identified as Jennifer , asked a volunteer translator , her eyes fixed on the dragon .
+########
+14
+<EOP> .
+########
+15
+Sugar drawing , a traditional Chinese folk art using hot caramel to create two_dimensional figures , is among many folk skills on display until April 9 at the Chinese Lantern Festival in Palm Beach County , a paradise for holidaymakers in South Florida .
+########
+16
+<EOP> .
+########
+17
+Most of the artisans who have traveled to the United States are from China 's Hebei province .
+########
+18
+This is their second stop , after Virginia .
+stop	4	neg_cue
+########
+19
+They have brought paper cutting , dough modeling and straw weaving across the Pacific .
+########
+20
+<EOP> .
+########
+21
+Just a few steps away , a clay sculpture artist was also surrounded by dozens of local visitors who , in astonishment , observed him finishing the sculpture of two children in just 15 minutes .
+########
+22
+<EOP> .
+########
+23
+<EOP> .
+########
+24
+Artisans demonstrate paper cutting , sugar drawing and dough modeling .
+########
+25
+A group of them have brought traditional Chinese folk arts to the United States , as this year marks the 46th anniversary of China_US `` ping_pong diplomacy '' .
+arts	9	CT+	CT+
+########
+26
+LRB Photo_Xinhua RRB <EOP> .
+########

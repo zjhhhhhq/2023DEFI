@@ -1,0 +1,138 @@
+Did Downton Abbey offer an insight into the opulent life of the upper_class Crawley family
+0
+Downton Abbey actor reminisces as exhibition about drama heads East <EOP> .
+########
+1
+2017_06_01 17:19 <EOP> .
+########
+2
+China Daily UK <EOP> .
+########
+3
+For hundreds of millions of TV viewers , Downton Abbey offered an insight into the opulent life of the upper_class Crawley family as it struggled with the social and political upheavals of the early 20th century .
+offered	10	CT+	CT+
+########
+4
+<EOP> .
+########
+5
+<EOP> .
+########
+6
+<EOP> .
+########
+7
+Episodes of the award_winning series were watched by 160 million people in China and 25.5 million in the United States during its last season in 2015 .
+########
+8
+<EOP> .
+########
+9
+Now , fans around the world will be able to walk through the sets and admire the costumes that they had previously only seen on TV as Downton Abbey : The Exhibition starts its world tour in Singapore at Marina Bay Sands on June 17 .
+walk	10	PS+	CT+
+will	6	ps_cue
+########
+10
+The exhibition will take visitors on a journey through the grand stately home and give them a glimpse into the world of Lord Grantham and his family , as well as those who served them from below stairs .
+take	3	CT+	CT+
+will	2	ps_cue
+########
+11
+<EOP> .
+########
+12
+Visitors can check out the series ' most recognizable locations , which have been recreated for the exhibition .
+can	1	ps_cue
+########
+13
+Mock_ups include the dining room , Lady Mary 's bedroom , the servants ' quarters , and the kitchen .
+########
+14
+<EOP> .
+########
+15
+Hugh Bonneville , who played Robert Crawley , the Earl of Grantham , said the sets were the backdrops to some of the show 's most dramatic scenes .
+########
+16
+Asked to choose his favorite , he said : `` I 'd say the great hall , simply because there were so many great iconic moments that occurred there , be it the Armistice _ the end of the First World War _ or seeing Lady Mary coming down the stairs in her wedding dress . ''
+or	43	ps_cue
+########
+17
+<EOP> .
+########
+18
+The historical period drama was set in a fictional Yorkshire town with some exterior and interior scenes filmed at Highclere Castle in Newbury , southwest of London .
+########
+19
+<EOP> .
+########
+20
+The kitchen , servants ' quarters , working areas , and some of the bedrooms were constructed and filmed at Ealing Studios in London .
+########
+21
+Many outdoor scenes were filmed in the village of Bampton , in Oxfordshire .
+########
+22
+<EOP> .
+########
+23
+`` We were obviously blessed by fantastic location design , costumes , sound and music , everything else that all came together in one of those rare experiences that really worked , really chimed together , and that is what the audience has taken to their heart , '' Bonneville said .
+rare	26	ps_cue
+########
+24
+<EOP> .
+########
+25
+The exhibition will include more than 50 costumes from the show , worn by actors including Michelle Dockery , Hugh Bonneville , and Dame Maggie Smith .
+will	2	ps_cue
+########
+26
+<EOP> .
+########
+27
+Since Downton Abbey was first broadcast in 2010 , it has become a global phenomenon , winning Golden Globe and Emmy awards in the US and BAFTAs in the UK .
+########
+28
+The drama has been shown in more than 250 countries .
+########
+29
+<EOP> .
+########
+30
+Bonneville said he was shocked when he first heard how popular the show has been in China .
+########
+31
+<EOP> .
+########
+32
+`` We knew by the time we 'd been filming three or four years that people really loved it all over the world , '' he said .
+or	11	ps_cue
+########
+33
+`` And then to discover it was popular in China , I could not believe it .
+could	12	ps_cue
+not	13	neg_cue
+########
+34
+I got a letter from someone in China saying how it was a fascinating reflection of Chinese society and I could n't believe it . ''
+could	20	ps_cue
+n't	21	neg_cue
+########
+35
+<EOP> .
+########
+36
+While Bonneville is now busy with major films and other television series , he teased that there is a possibility that there will be a Downton Abbey film , but said it might be difficult to bring back the cast members from commitments around the world .
+possibility	19	ps_cue
+will	22	ps_cue
+might	32	ps_cue
+########
+37
+<EOP> .
+########
+38
+`` I know there is a lot of goodwill toward the idea , so fingers_crossed , '' he added .
+########
+39
+<EOP> .
+########

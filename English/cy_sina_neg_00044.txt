@@ -1,0 +1,102 @@
+Do the referendum _ and existing ministerial powers _ mean MPs need to vote
+0
+This means the government can not trigger Article 50 of the Lisbon Treaty _ beginning formal exit negotiations with the EU _ on its own .
+can	4	ps_cue
+not	5	neg_cue
+########
+1
+<EOP> .
+########
+2
+Theresa May says the referendum _ and existing ministerial powers _ mean MPs do not need to vote , but campaigners called this unconstitutional .
+vote	17	CT-	CT-
+not	14	neg_cue
+May	1	ps_cue
+need	15	ps_cue
+########
+3
+<EOP> .
+########
+4
+The government is appealing , with a further hearing expected next month .
+expected	9	ps_cue
+########
+5
+<EOP> .
+########
+6
+The prime minister 's spokeswoman said she would be calling President of the EU Commission Jean_Claude Juncker to say she intended to stick to her March 2017 deadline for triggering Article 50 .
+would	7	ps_cue
+intended	20	ps_cue
+########
+7
+<EOP> .
+########
+8
+Amid suggestions that she might try to call an early general election , she added that Mrs May believed `` there should n't be an election until 2020 and that remains her view '' .
+election	25	CT-	CT-
+n't	22	neg_cue
+might	4	ps_cue
+May	17	ps_cue
+believed	18	ps_cue
+should	21	ps_cue
+########
+9
+<EOP> .
+########
+10
+A statement is to be made to MPs on Monday but the government says it has no intention of letting the judgement `` derail Article 50 or the timetable we have set out '' .
+no	16	neg_cue
+or	26	ps_cue
+########
+11
+<EOP> .
+########
+12
+Brexit Secretary David Davis said he presumed the court ruling meant an act of Parliament would be required to trigger Article 50 _ so would be subject to approval by both MPs and peers .
+would	15	ps_cue
+would	24	ps_cue
+########
+13
+<EOP> .
+########
+14
+But the government was going to contest that view in an appeal , and said the referendum was held only following `` a six_to_one vote in the Commons to give the decision to the British people '' .
+########
+15
+<EOP> .
+########
+16
+`` The people are the ones Parliament represents _ 17.4 m of them , the biggest mandate in history , voted for us to leave the European Union .
+########
+17
+We are going to deliver on that mandate in the best way possible for the British national interest , '' he told the BBC .
+possible	12	ps_cue
+########
+18
+<EOP> .
+########
+19
+Labour leader Jeremy Corbyn urged the government `` to bring its negotiating terms to Parliament without delay '' , adding that `` there must be transparency and accountability to Parliament on the terms of Brexit '' .
+without	15	neg_cue
+########
+20
+<EOP> .
+########
+21
+But UKIP leader Nigel Farage said he feared a `` betrayal '' of the 51.9 % of voters who backed leaving the EU in June 's referendum and voiced concern at the prospect of a `` half Brexit '' .
+concern	29	ps_cue
+########
+22
+<EOP> .
+########
+23
+BBC assistant political editor Norman Smith said the court ruling could mean potentially `` months and months '' of parliamentary hurdles but said a majority of MPs would be likely to vote for Article 50 _ despite having backed the Remain campaign _ as Brexit had been supported in the referendum .
+could	10	ps_cue
+potentially	12	ps_cue
+would	27	ps_cue
+likely	29	ps_cue
+########
+24
+<EOP> .
+########

@@ -1,0 +1,54 @@
+Does Queen Elizabeth visit young survivors of concert blast
+0
+Queen Elizabeth visits young survivors of concert blast <EOP> .
+visits	2	CT+	CT+
+########
+1
+2017_05_25 23:13 <EOP> .
+########
+2
+null <EOP> .
+########
+3
+MANCHESTER -- Queen Elizabeth II met Thursday with children injured in the Manchester concert bombing , consoling them and pronouncing the attack at an event attended by so many young people `` wicked .
+met	5	CT+	CT+
+########
+4
+`` The 91_year_old monarch visited Evie Mills , 14 , Millie Robson , 15 , and other youngsters recovering from severe shrapnel wounds at the Royal Manchester Children 's Hospital .
+visited	4	CT+	CT+
+########
+5
+<EOP> .
+########
+6
+<EOP> .
+########
+7
+<EOP> .
+########
+8
+<EOP> .
+########
+9
+Britain 's Queen Elizabeth speaks to Evie Mills , 14 , from Harrogate , her mother , Karen and dad , Craig during a visit to the Royal Manchester Children 's Hospital in Manchester , Britain May 25 , 2017 .
+visit	24	CT+	CT+
+May	36	ps_cue
+########
+10
+<EOP> .
+########
+11
+LRB Photo_Agencies RRB <EOP> .
+########
+12
+Agencies <EOP> .
+########
+13
+<EOP> .
+########
+14
+<EOP> .
+########
+15
+<EOP> .
+########

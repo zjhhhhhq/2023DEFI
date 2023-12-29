@@ -1,0 +1,88 @@
+Does Macron sign France 's controversial new anti_terror legislation
+0
+Macron signs France 's controversial new anti_terror legislation <EOP> .
+signs	1	CT+	CT+
+########
+1
+2017_11_02 11:50 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+<EOP> .
+########
+4
+French President Emmanuel Macron delivers a speech at the European Court of Human Rights in Strasbourg , France , October 31 , 2017 .
+########
+5
+LRB Photo_Agencies RRB <EOP> .
+########
+6
+<EOP> .
+########
+7
+<EOP> .
+########
+8
+PARIS _ French President Emmanuel Macron on Monday signed new anti_terror legislation which he said was necessary to muscle security at home to combat high terrorism menace .
+signed	8	CT+	CT+
+########
+9
+<EOP> .
+########
+10
+`` This law will allow us to come out of the state of emergency as of Nov 1 while ensuring the full security of our citizens .
+will	3	ps_cue
+########
+11
+This law will allow us to reinforce our means to fight terrorism , '' Macron said .
+will	2	ps_cue
+########
+12
+<EOP> .
+########
+13
+Current security measures have been in place in France under a state of emergency imposed since November 2015 .
+########
+14
+<EOP> .
+########
+15
+The legislation , one of Macron 's main campaign pledges , will become law `` from tomorrow '' , he said .
+will	11	ps_cue
+########
+16
+<EOP> .
+########
+17
+`` It will be evaluated within two years and what will have to be changed will be , '' he added .
+will	2	ps_cue
+will	10	ps_cue
+will	15	ps_cue
+########
+18
+<EOP> .
+########
+19
+Under the new law , police will have more power to search , arrest without judge approval and restrict people movements and gathering .
+will	6	ps_cue
+without	14	neg_cue
+########
+20
+<EOP> .
+########
+21
+Despite persistent terror risks , emergency security measures give fuel to domestic critics of the French government , who say the law would undermine the Republic 's values and freedom of expression and right to assembly .
+would	22	ps_cue
+########
+22
+<EOP> .
+########
+23
+For the Minister of the Interior Gerad Collomb , the law `` takes into account the need to protect citizens and ensure maximum individual freedom '' .
+need	16	ps_cue
+########
+24
+<EOP> .
+########

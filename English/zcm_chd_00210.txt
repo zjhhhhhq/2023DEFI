@@ -1,0 +1,72 @@
+Did Brazil 's Foreign Ministry blast the statement
+0
+Brazil 's Temer rejects UN criticism about repression in Brazil <EOP> .
+rejects	3	neg_cue
+criticism	5	neg_cue
+########
+1
+2017_05_27 09:42 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+BRASILIA _ The Brazilian government rejected on Friday `` in the strongest terms '' a joint statement from the UN High Commissioner for Refugees LRB UNHCR RRB and the Inter_American Commission on Human Rights LRB IACHR RRB criticizing repression in the country in recent days .
+statement	16	CT-	CT-
+rejected	5	neg_cue
+########
+4
+<EOP> .
+########
+5
+Brazil 's Foreign Ministry blasted the statement , calling it `` uninformed and biased . ''
+statement	6	CT-	CT-
+blasted	4	neg_cue
+########
+6
+<EOP> .
+########
+7
+`` It is scary the lightness with which the UNHCR and the IACHR want to lead LRB people RRB to believe that Brazil does not have solid institutions , dedicated to the protection of human rights and cemented in the democratic rule of law , '' read its response .
+not	24	neg_cue
+########
+8
+<EOP> .
+########
+9
+On Friday , the two international bodies criticized excessive police force in the removal of drug users from the center of Sao Paulo and the repression of a union protest in Brasilia .
+criticized	7	neg_cue
+########
+10
+They demanded that the Brazilian government seek dialogue and to protect people taking part in protests .
+########
+11
+<EOP> .
+########
+12
+For Brasilia , this stance shows a lack of concern for the security of public officials and of protests subject to `` systematic and deliberate '' violence .
+lack	7	neg_cue
+concern	9	ps_cue
+########
+13
+<EOP> .
+########
+14
+The government said that a violent protest on Wednesday saw the buildings of the ministries of culture , economy , planning and agriculture being attacked , with a number of fires being started , putting those inside in danger .
+planning	20	ps_cue
+########
+15
+<EOP> .
+########
+16
+In response , President Michel Temer ordered army troops onto the streets to protect the ministries .
+########
+17
+<EOP> .
+########
+18
+While the army and police fought back with tear gas and rubber bullets , live ammunition was also fired , with one street vendor in a critical condition after being shot in the face .
+########
+19
+<EOP> .
+########

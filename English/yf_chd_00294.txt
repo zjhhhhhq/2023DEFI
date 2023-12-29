@@ -1,0 +1,64 @@
+Does US President Donald Trump visit China
+0
+US presidents and first ladies who have visited China <EOP> .
+########
+1
+2017_11_06 11:58 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+Editor 's Note : <EOP> .
+########
+4
+US President Donald Trump will kick off his first state visit to China on Wednesday , a trip which is expected to yield positive results for bilateral ties .
+visit	10	CT+	CT+
+will	4	ps_cue
+expected	20	ps_cue
+########
+5
+A number of major business deals are due to be signed during the visit , as was the case with his predecessors .
+visit	13	CT+	CT+
+########
+6
+With the impending trip , now is a good time to look back at American presidents and first ladies who have come to China to strengthen bonds .
+########
+7
+<EOP> .
+########
+8
+Richard Nixon <EOP> .
+########
+9
+February 1972 <EOP> .
+########
+10
+Former US President Richard Nixon made a formal visit to China , with a China_US Joint Communiqué released in Shanghai on Feb 28 , 1972 .
+visit	8	CT+	CT+
+########
+11
+The Joint Communiqué , also called the Shanghai Communiqué , was the first of its kind between the two countries .
+########
+12
+This historic document laid the foundation for the development of China_US relations .
+########
+13
+Besides Beijing and Shanghai , Nixon also went to eastern Chinese city of Hangzhou during the epic trip .
+########
+14
+<EOP> .
+########
+15
+<EOP> .
+########
+16
+US President Richard Nixon shares a toast with Premier Zhou Enlai in February 1972 in Beijing during Nixon 's official visit to China .
+visit	20	CT+	CT+
+########
+17
+LRB Provided to China Daily RRB <EOP> .
+########
+18
+<EOP> .
+########

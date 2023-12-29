@@ -1,0 +1,156 @@
+Is China the top trending country ringing in the New Year 
+0
+China trending top 10 among tourist boards <EOP> .
+trending	1	CT+	CT+
+########
+1
+2017_12_28 15:52 <EOP> .
+########
+2
+China Daily USA <EOP> .
+########
+3
+Wondering where to go in 2018 ?
+########
+4
+<EOP> .
+########
+5
+For starters , China is the top trending country ringing in the New Year .
+trending	7	CT+	CT+
+########
+6
+The `` beautiful , mysterious and mind_blowing '' nation is among the globe 's must_see destinations for the year ahead , according to several leading travel services .
+########
+7
+<EOP> .
+########
+8
+With the New Year around the corner , travelers are heading `` far east to take one last trip to ring in 2018 '' , according to online hospitality service Airbnb .
+########
+9
+<EOP> .
+########
+10
+`` China is the top trending country for travelers on New Year 's Eve , and Chinese cities dominate the 10 cities with the highest growth in Airbnb listings globally , '' Airbnb said in a statement last week .
+trending	5	CT+	CT+
+########
+11
+<EOP> .
+########
+12
+This coming New Year 's Eve will be Airbnb 's biggest yet , with nearly 3 million guests traveling and staying in one of their listings , the company said in a release .
+will	6	ps_cue
+yet	11	neg_cue
+########
+13
+<EOP> .
+########
+14
+Six Chinese cities are dominating the top_10 list of trending destinations this New Year Eve , the company said .
+trending	9	CT+	CT+
+########
+15
+<EOP> .
+########
+16
+In addition to provincial capitals such as Wuhan in central China and Nanjing in east China , cities near Shanghai , which has seen 100 percent domestic listing growth on Airbnb over the past year , are attracting revelers this year , it said .
+########
+17
+<EOP> .
+########
+18
+They include Suzhou and Hangzhou , both of which offer beautiful old canals , pagodas , temples , gardens and arched bridges .
+########
+19
+<EOP> .
+########
+20
+Xi'an , capital of northwest China 's Shaanxi province , also makes the list with its ancient history and famed archaeological sites like the Terracotta Army .
+like	22	ps_cue
+########
+21
+<EOP> .
+########
+22
+Lonely Planet , the largest travel guide book publisher in the world , asked its experts to scour the globe for `` next year 's irresistible destinations '' .
+########
+23
+<EOP> .
+########
+24
+They selected China as one of the 10 top , with centrally located Hunan province being one of the world 's top `` 10 destinations to tempt frugal travelers '' .
+########
+25
+<EOP> .
+########
+26
+Lonely Planet experts singled out the phenomenal rapid transport in China as a plus to the country 's travel amenities , saying that since 2016 , China has opened extensive new high_speed rail tracks , creating the largest such network on Earth .
+########
+27
+<EOP> .
+########
+28
+`` Twenty_first century China is here to stay , so hop on board a bullet train and explore this modern Middle Kingdom , '' the Lonely Planet said in its Best in Travel 2018 report .
+########
+29
+<EOP> .
+########
+30
+Top attractions in the country that is `` big , beautiful and full of mystery and adventure '' include the Palace Museum , also known as the Forbidden City , where several previously restricted halls are now open to the public ; the gargantuan Shanghai Tower , which welcomes visitors to the world 's highest observation deck , and the cultural hub Design Society in Shenzhen , which features a partnership gallery with London 's VandA Museum .
+########
+31
+<EOP> .
+########
+32
+For Hunan , the Lonely Planet recommends Zhangjiajie , an amazing sandstone canyon with almost 250 bizarrely shaped peaks ; Fenghuang , a stunning historic town that quite literally hangs over the Tuo River ; and the fiery Hunan cuisine .
+########
+33
+<EOP> .
+########
+34
+Travel Market Report , an online business publication from the American Marketing Group , also lists China among its top destinations for 2018 .
+########
+35
+<EOP> .
+########
+36
+According to its Ultimate Travel Agent Bucket List : Top Destinations for 2018 , China is one of the top places that travel professionals said they want to go to in 2018 .
+########
+37
+<EOP> .
+########
+38
+`` I spent two months traveling through rural China .
+########
+39
+It absolutely blew my mind , '' the Travel Market Report website cited Jord Ana of Tripzter Travel in Vancouver , Canada , as saying .
+########
+40
+<EOP> .
+########
+41
+`` The hospitality , kindness , landscapes , history , loved it so much .
+########
+42
+I felt like I was in an ancient novel .
+like	2	ps_cue
+########
+43
+Such a contrast from the ultra_modern cities like Shanghai that look like they belong on another planet ! ''
+like	7	ps_cue
+like	11	ps_cue
+########
+44
+<EOP> .
+########
+45
+The total number of China 's domestic and inbound tourist trips is expected to surpass 5.1 billion this year , up more than 11 percent from 2016 , according to a report released by the China Tourism Academy and the data center of the China National Tourism Administration last week .
+expected	12	ps_cue
+########
+46
+<EOP> .
+########
+47
+huanxinzhao@chinadailyusa.com <EOP> .
+########

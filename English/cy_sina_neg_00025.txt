@@ -1,0 +1,79 @@
+Do pet owners use acupuncture 
+0
+Pet owners living in China are turning to acupuncture to help soothe the aches and pains of their beloved cats and dogs .
+acupuncture	8	CT+	CT+
+########
+1
+<EOP> .
+########
+2
+Traditional practitioners believe acupuncture , which involves inserting long , fine needles at specific places of the body , can stimulate blood circulation .
+acupuncture	3	CT+	CT+
+can	19	ps_cue
+########
+3
+<EOP> .
+########
+4
+They believe the process , which is famous in China , can relieve aches and pains of a patient .
+can	11	ps_cue
+########
+5
+<EOP> .
+########
+6
+And now it seems more and more people living in China are taking their pets to get treated .
+seems	3	ps_cue
+########
+7
+<EOP> .
+########
+8
+Fascinating photographs show cats and dogs receiving treatment at clinics in the country after their owners decided to see if it would help them .
+would	21	ps_cue
+########
+9
+<EOP> .
+########
+10
+Wang Xijuan , 74 , took her cat to a session at a Shanghai clinic and said : ` China is famous for acupuncture .
+acupuncture	23	CT+	CT+
+########
+11
+I took the cat here immediately to have a try . '
+########
+12
+<EOP> .
+########
+13
+After four treatments , Wang said her cat can ` walk now , jump and even fight with other cats ' .
+can	8	ps_cue
+########
+14
+<EOP> .
+########
+15
+On its website , the International Veterinary Acupuncture Society said acupuncture has been used in veterinary practice in China ` for thousands of years to treat many ailments ' .
+acupuncture	10	CT+	CT+
+########
+16
+<EOP> .
+########
+17
+Jin Rishan , a specialist at the Shanghai TCM Neurology and Acupuncture Animal Health Center , said they have treated more than 2,000 cats and dogs since the clinic opened four years ago .
+########
+18
+<EOP> .
+########
+19
+A single session costs 260 yuan and last for about 45 minutes .
+########
+20
+<EOP> .
+########
+21
+Jin said about 80 percent of their patients have shown some improvement after treatment and added : ` Making a paralysed and dependent dog stand up is our ultimate goal . '
+########
+22
+<EOP> .
+########

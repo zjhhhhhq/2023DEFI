@@ -1,0 +1,36 @@
+Does Pakistan strongly condemn terrorist attack in Kabul
+0
+Pakistan strongly condemns terrorist attack in Kabul <EOP> .
+condemns	2	CT+	CT+
+condemns	2	neg_cue
+########
+1
+2017_12_28 21:21 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+ISLAMABAD __ Pakistan on Thursday strongly condemned the `` dastardly terrorist attacks '' in Afghan capital Kabul , in which at least 40 people including two attackers were killed and many others injured after a double suicide bombing rocked a building in western neighborhood of Kabul .
+condemned	6	CT+	CT+
+condemned	6	neg_cue
+########
+4
+<EOP> .
+########
+5
+`` We express our heartfelt condolences with the families and friends of those who have lost their loved ones in these brutal terrorist attacks and pray for the speedy recovery of the wounded .
+########
+6
+We express our abiding solidarity with the Government and the brotherly people of Afghanistan , '' the Pakistan foreign ministry said in a statement .
+########
+7
+<EOP> .
+########
+8
+`` Pakistan reiterates its unequivocal condemnation of terrorism in its all forms and manifestations and firm resolve to eradicate this menace , '' said the statement .
+condemnation	5	CT+	CT+
+########
+9
+<EOP> .
+########

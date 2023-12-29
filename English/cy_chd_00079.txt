@@ -1,0 +1,80 @@
+Did Pyongyang reopen a line of communication with Seoul
+0
+Revived DPRK_ROK link ` positive ' <EOP> .
+Revived	0	CT+	CT+
+########
+1
+2018_01_04 07:05 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+Beijing on Wednesday encouraged all parties to take advantage of the situation in the Korean Peninsula showing signs of easing after Pyongyang reopened a line of communication with Seoul .
+reopened	22	CT+	CT+
+encouraged	3	ps_cue
+########
+4
+<EOP> .
+########
+5
+The channel was reopened in the truce village of Panmunjom on Wednesday afternoon after Seoul on Tuesday proposed high_level talks between both sides on Jan 9 to discuss issues including the Democratic People 's Republic of Korea 's participation in the 2018 Winter Olympics .
+reopened	3	CT+	CT+
+proposed	17	ps_cue
+########
+6
+<EOP> .
+########
+7
+Foreign Ministry spokesman Geng Shuang said in a daily news conference in Beijing that China thinks all parties `` should seize the positive development of the situation in the peninsula and work in the same direction '' .
+should	19	ps_cue
+########
+8
+<EOP> .
+########
+9
+He reiterated China 's support for the two sides to use the Olympics as an opportunity to improve ties , ease tensions and denuclearize the peninsula .
+########
+10
+<EOP> .
+########
+11
+The inter_Korean communication channel had been severed since the previous Republic of Korea administration unilaterally closed the inter_Korean industrial zone in the DPRK 's border town of Kaesong following Pyongyang 's fourth nuclear test in January 2016 .
+########
+12
+<EOP> .
+########
+13
+Tensions had been rising since the nuclear test .
+########
+14
+But in an address on Monday , DPRK top leader Kim Jong_un sent out a conciliatory message .
+########
+15
+He said his country is willing to dispatch a delegation to the Winter Olympics in the ROK , suggesting the two sides meet soon on the matter .
+willing	5	ps_cue
+########
+16
+<EOP> .
+########
+17
+Pyongyang and Washington , however , have been exchanging fierce remarks .
+########
+18
+<EOP> .
+########
+19
+The DPRK and the United States should resume talks and build mutual trust as soon as possible , instead of challenging each other , Geng said .
+should	6	ps_cue
+possible	16	ps_cue
+instead	18	neg_cue
+########
+20
+<EOP> .
+########
+21
+Xinhua contributed to this story .
+########
+22
+<EOP> .
+########

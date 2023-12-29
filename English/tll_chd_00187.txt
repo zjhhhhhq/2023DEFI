@@ -1,0 +1,112 @@
+Did the 3_year_old British girl vanish during a family vacation to Portugal in 2007
+0
+Parents of missing UK girl still hopeful <EOP> .
+missing	2	CT-	CT-
+missing	2	neg_cue
+hopeful	6	ps_cue
+########
+1
+2017_05_01 08:17 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+<EOP> .
+########
+4
+LONDON _ The parents of Madeleine McCann , the 3_year_old British girl who vanished during a family vacation to Portugal in 2007 , say they are still hopeful they will one day be reunited with their daughter as they mark the 10th anniversary of her disappearance .
+vanished	13	CT+	CT-
+hopeful	27	ps_cue
+will	29	ps_cue
+disappearance	45	neg_cue
+########
+5
+<EOP> .
+########
+6
+In an interview with the British media released on Sunday , the McCanns said they felt encouraged by the `` real progress '' that British police have made in the case in the past five years .
+encouraged	16	ps_cue
+########
+7
+<EOP> .
+########
+8
+Scotland Yard said last week that , a decade later , detectives are still pursuing `` critical '' leads to trace Madeleine , who disappeared from a vacation home in Portugal 's Algarve region on the night of May 3 , 2007 .
+disappeared	24	CT+	CT-
+May	38	ps_cue
+########
+9
+Her parents had gone out to a tapas bar nearby after putting her and her twin siblings to bed .
+########
+10
+<EOP> .
+########
+11
+Despite an investigation costing more than 11 million pounds LRB $ 14 million RRB so far , police said there was no `` definitive evidence '' on whether Madeleine who would be almost 14 now is alive or dead .
+no	21	neg_cue
+whether	27	ps_cue
+would	30	ps_cue
+or	37	ps_cue
+########
+12
+The girl was abducted from the apartment , they said , but how and why it happened is still largely a mystery .
+########
+13
+<EOP> .
+########
+14
+One theory that police say has n't been ruled out is a `` burglary gone wrong '' .
+n't	6	neg_cue
+########
+15
+<EOP> .
+########
+16
+Gerry McCann , 48 , acknowledged it was `` devastating '' not to have found her , but added : `` No parent is going to give up on their child , unless they know for certain their child is dead .
+not	11	neg_cue
+No	21	neg_cue
+########
+17
+And we just do n't have any evidence . ''
+n't	4	neg_cue
+########
+18
+<EOP> .
+########
+19
+His wife , Kate , agreed .
+########
+20
+<EOP> .
+########
+21
+`` My hope for Madeleine being out there is no less than it was almost 10 years ago , '' she said .
+hope	2	ps_cue
+no	9	neg_cue
+########
+22
+`` I never thought we 'd still be in this situation , so far along the line .
+never	2	neg_cue
+########
+23
+It 's a huge amount of time . ''
+########
+24
+<EOP> .
+########
+25
+Associated Press <EOP> .
+########
+26
+<EOP> .
+########
+27
+<EOP> .
+########
+28
+<EOP> .
+########
+29
+LRB China Daily 05_01_2017 page4 RRB <EOP> .
+########

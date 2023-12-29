@@ -1,0 +1,40 @@
+Does Bomb scare close Madrid 's Gran Via square 
+0
+Bomb scare closes Madrid 's Gran Via square <EOP> .
+closes	2	CT+	CT+
+########
+1
+2017_10_27 09:06 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+MADRID _ The emblematic Gran Via in the center of the Spanish capital was closed for an hour on Thursday evening as the result of a false alert over a possible car bomb , Spanish police informed .
+closed	14	CT+	CT+
+possible	30	ps_cue
+########
+4
+<EOP> .
+########
+5
+The incident began at around 7 pm local time LRB GMT 1800 RRB when a man abandoned a car in the middle of the street before running away .
+########
+6
+<EOP> .
+########
+7
+Police closed the six_lane street to traffic and launched the protocol for the presence of a vehicle without a driver .
+closed	1	CT+	CT+
+without	17	neg_cue
+########
+8
+<EOP> .
+########
+9
+On failing to find any signs of explosives , a trailer was called to take the vehicle away after it was tested for fingerprints and the road was re_opened to traffic .
+failing	1	neg_cue
+########
+10
+<EOP> .
+########

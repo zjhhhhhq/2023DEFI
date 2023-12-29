@@ -1,0 +1,105 @@
+Will the Dalai Lama 's actions change Beijing 's position
+0
+Dalai Lama trip ` wo n't change ' China 's aim <EOP> .
+n't	5	neg_cue
+########
+1
+2017_04_13 07:58 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+The Dalai Lama 's actions wo n't change Beijing 's position on Tibet_related issues and the boundary question , a Foreign Ministry official said on Wednesday , after India invited the Dalai Lama to visit the disputed eastern section of the China_India boundary despite China 's concerns .
+change	7	CT-	CT-
+n't	6	neg_cue
+question	17	ps_cue
+########
+4
+<EOP> .
+########
+5
+The Dalai Lama 's behavior , like claiming to be a `` son of India '' and endorsing false statements by the so_called Arunachal Pradesh officials in disputed areas in Southern Tibet , indicate that the Dalai Lama clique 's position is thoroughly `` foreign '' , said Foreign Ministry spokesman Lu Kang .
+like	6	ps_cue
+claiming	7	ps_cue
+indicate	33	ps_cue
+########
+6
+<EOP> .
+########
+7
+Lu made the remarks when asked to comment on the Dalai Lama 's attack on the Chinese government during his stay in the disputed region , as well as Indian officials ' repeated , inappropriate speeches over the boundary question .
+question	39	ps_cue
+########
+8
+<EOP> .
+########
+9
+China strongly objected to India over the visit , and Lu said China will `` take further measures to safeguard its territorial sovereignty and national security '' .
+will	13	ps_cue
+########
+10
+<EOP> .
+########
+11
+`` The 14th Dalai Lama 's show wo n't change China 's position one bit on the boundary question and Tibet_related issues , '' Lu said .
+change	9	CT-	CT-
+n't	8	neg_cue
+question	18	ps_cue
+########
+12
+On the contrary , it will only make people see more clearly the Dalai Lama 's true intention to split China and undermine the interests of its people , including the Tibetan ethnic group , all under the cover `` of religion '' , Lu added .
+will	5	ps_cue
+########
+13
+<EOP> .
+########
+14
+The spokesman also slammed India 's insistence on inviting the Dalai Lama to the disputed region and `` indulging '' him , as well as Indian officials making provocative political speeches .
+########
+15
+<EOP> .
+########
+16
+This shows that the Dalai Lama 's trip goes beyond what India claimed to be `` religious activities '' , Lu said .
+########
+17
+It also shows that India had violated the `` solemn commitment '' it made over Tibet_related issues , and its behavior will adversely affect the two countries ' efforts to solve territorial disputes through negotiations , he added .
+will	21	ps_cue
+########
+18
+<EOP> .
+########
+19
+`` The boundary question and Tibet_related issues bear on the political foundation of China_India relations , '' Lu said , urging India to stop `` provocative moves '' .
+question	3	ps_cue
+stop	23	neg_cue
+########
+20
+<EOP> .
+########
+21
+Jia Duqiang , a researcher at the National Institute of International Strategy of the Chinese Academy of Social Sciences , said India `` will gain nothing from the move '' , which will damage its ties with Beijing .
+will	23	ps_cue
+nothing	25	neg_cue
+will	32	ps_cue
+########
+22
+<EOP> .
+########
+23
+`` China will not make any concessions when it comes to its core interests , sovereignty and Tibet_related issues '' , he said .
+will	2	ps_cue
+not	3	neg_cue
+########
+24
+<EOP> .
+########
+25
+Jia said to repair ties , India must give assurances that such incidents will not happen again .
+will	13	ps_cue
+not	14	neg_cue
+########
+26
+<EOP> .
+########

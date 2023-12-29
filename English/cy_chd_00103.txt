@@ -1,0 +1,58 @@
+Is policy of bolstering nuclear , missile capabilities changed
+0
+DPRK vows never to change policy of bolstering nuclear , missile capabilities <EOP> .
+change	4	CT-	CT-
+never	2	neg_cue
+########
+1
+2017_12_30 15:19 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+PYONGYANG __ The Democratic People 's Republic of Korea LRB DPRK RRB said Saturday that it will never change its policy of developing nuclear and missile capabilities as a means to counter threats from the United States .
+change	18	CT-	CT-
+never	17	neg_cue
+will	16	ps_cue
+########
+4
+<EOP> .
+########
+5
+The official Korean Central News Agency LRB KCNA RRB released a detailed report on the situation of the Korean peninsula this year , accusing the United States of being culpable for the dangerous tension there .
+########
+6
+<EOP> .
+########
+7
+It said that the Donald Trump administration `` has resorted to the hard_line hostile policy toward the DPRK , the degree of which dwarfs the policies of the former administrations . ''
+########
+8
+<EOP> .
+########
+9
+`` Our party and state ... clarified the principled stand that it would continue bolstering the capabilities for self_defense and preemptive attack with the nuclear force as the pivot , as long as the US and its vassal forces persist in nuclear threat and blackmail , '' said the KCNA .
+would	12	ps_cue
+########
+10
+<EOP> .
+########
+11
+The report also listed chronically the events which marked the nuclear and missile crisis this year .
+########
+12
+<EOP> .
+########
+13
+The DPRK has detonated a hydrogen bomb and test_fired ballistic missiles this year , including three intercontinental ballistic missiles , which drew sanctions by the United Nations Security Council .
+########
+14
+<EOP> .
+########
+15
+The `` Hwasong 15 '' test_fired by the country last month was said to be able to hit the whole territory of the United States .
+########
+16
+<EOP> .
+########

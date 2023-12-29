@@ -1,0 +1,88 @@
+Does Paris climate agreement cut carbon dioxide emissions from ships
+0
+Shipowners ' groups back the EU_China drive to cut carbon <EOP> .
+########
+1
+2017_06_08 17:34 <EOP> .
+########
+2
+China Daily UK <EOP> .
+########
+3
+The European Community Shipowners ' Associations and the International Chamber of Shipping have said they broadly support the decision by China and the European Union to press ahead with plans to cut carbon dioxide emissions from ships , despite the United States announcing its withdrawal from the Paris climate agreement .
+cut	31	PS+	PS+
+plans	29	ps_cue
+########
+4
+<EOP> .
+########
+5
+`` The withdrawal of the United States from the Paris climate agreement should not jeopardize an ambitious global strategy to reduce the CO2 emissions of shipping , '' said Patrick Verhoeven , the shipowners ' association 's secretary_general .
+reduce	20	CT+	PS+
+should	12	ps_cue
+not	13	neg_cue
+########
+6
+`` We are therefore pleased that the EU and China appear to be working toward reinforced cooperation on delivering a climate agreement for shipping at the International Maritime Organization . ''
+appear	10	ps_cue
+########
+7
+<EOP> .
+########
+8
+In Brussels last week , China and EU leaders agreed to intensify cooperation over a shipping deal , and will join Canada in hosting a ministerial summit in September to advance the Paris climate agreement , accelerating the transition to clean energy .
+will	19	ps_cue
+########
+9
+<EOP> .
+########
+10
+The shipowners ' association and the shipping chamber are both working with the International Maritime Organization to produce an international proposal that will keep total global shipping 's carbon dioxide emissions below the 2008 levels , before steadily cutting annual emissions to a percentage that is yet to be agreed by 2050 .
+will	22	ps_cue
+yet	46	neg_cue
+########
+11
+<EOP> .
+########
+12
+But , the two shipping organizations said they were worried about unilateral measures being considered by the EU that would include making shipping a part of the European Emission Trading Scheme .
+considered	14	ps_cue
+would	19	ps_cue
+########
+13
+China is also considering a national emission trading scheme that could eventually include shipping .
+could	10	ps_cue
+########
+14
+<EOP> .
+########
+15
+Emission trading schemes allow companies that join them to trade greenhouse gas emissions allowances , provided the overall cap set by the administrators is not exceeded .
+not	24	neg_cue
+########
+16
+<EOP> .
+########
+17
+`` We remain firmly opposed to a patchwork of regional schemes that would distort international shipping markets , while doing little to tackle the reduction of the global industry 's actual emissions , '' said Verhoeven .
+reduction	24	CT+	PS+
+opposed	4	neg_cue
+would	12	ps_cue
+little	20	neg_cue
+########
+18
+<EOP> .
+########
+19
+Peter Hinchclife , secretary_general of the International Chamber of Shipping , agreed , adding : `` We call upon the EU and China , and indeed all IMO member states , to support the industry proposals .
+########
+20
+The priority of governments should be to focus on the development of alternative , fossil_free fuels and the IMO should assess whether holding CO2 below 2008 can be achieved with technical and operational measures alone . ''
+should	4	ps_cue
+should	19	ps_cue
+whether	21	ps_cue
+can	26	ps_cue
+########
+21
+<EOP> .
+########

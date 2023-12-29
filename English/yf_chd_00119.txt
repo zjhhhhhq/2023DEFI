@@ -1,0 +1,162 @@
+Does California 's third largest wildfire trigger new evacuations
+0
+Fueled by winds , California 's third largest wildfire triggers new evacuations <EOP> .
+triggers	9	CT+	CT+
+########
+1
+2017_12_17 11:09 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+LOS ANGELES _ The ferocious wildfire raging in the US state of California for nearly two weeks grew more volatile on Saturday , threatening a wealthy community northwest of Los Angeles and prompting new evacuation orders in Santa Barbara county .
+grew	17	CT+	CT+
+########
+4
+<EOP> .
+########
+5
+The so_called Thomas Fire , now ranked the third largest wildfire in modern history of California , was moving rapidly and now took aim at the hills above the unincorporated Santa Barbara county community of Montecito known for its luxury resorts and mansions of celebrities .
+moving	18	CT+	CT+
+########
+6
+<EOP> .
+########
+7
+Under Saturday 's orders , the evacuation zone for Thomas Fire has been expanded to 17 miles LRB 28.9 kilometers RRB long and 5 miles LRB 8.5 kilometers RRB wide .
+########
+8
+<EOP> .
+########
+9
+Taking advantage of a lull in winds in last Wednesday to Friday , firefighters cleared contained areas along the westernmost edge of the giant blaze to stop the wildfire from approaching communities at foothills , Tony Pighetti , a captain of the Santa Barbara fire department , told Xinhua .
+stop	26	neg_cue
+########
+10
+<EOP> .
+########
+11
+However , fueled by a new blast of Santa Ana winds which were predicted to hit the area through Sunday with gusts of 65 mph LRB 110 kph RRB , the Thomas Fire moved northward fast Saturday and the flame has been seen on top of hill over the town .
+moved	33	CT+	CT+
+predicted	13	ps_cue
+########
+12
+<EOP> .
+########
+13
+Kelly Hoover , Santa Barbara County Sheriff 's spokeswoman , said that authorities dispatched hundreds of crews to Montecito , checking the communities door to door and ordering residents to leave the evacuation zone .
+dispatched	13	CT+	CT+
+########
+14
+<EOP> .
+########
+15
+She warned that the situation was really dangerous for their lives since the Santa Ana winds mixed with the Sundowner , a northerly offshore wind in Santa Barbara .
+########
+16
+<EOP> .
+########
+17
+`` When the sundowners surface in that area and the fire starts running down slopes , you are not going to stop it , '' Mark Brown , an operations section chief for the California Department of Forestry and Fire Protection , told reporters at a news briefing on Saturday morning .
+not	18	neg_cue
+stop	21	neg_cue
+########
+18
+<EOP> .
+########
+19
+`` And we are not going to stand in front of it and put firefighters in untenable situations , '' he added .
+not	4	neg_cue
+########
+20
+<EOP> .
+########
+21
+A sundowner is particularly dangerous during wildfire season because the air heats and dries as it descends from the mountains to the sea .
+########
+22
+<EOP> .
+########
+23
+Pictures posted on Twitter showed that platoons of fire trucks awaited orders with their engines running in parking lots of public schools , churches and other designated safety zones Saturday morning .
+########
+24
+<EOP> .
+########
+25
+Santa Barbara branch of Cal Fire tweeted a video at noon , showing fire engines from Portland of Oregon state provided structure protection at the historic San Ysidro Ranch in Montecito , a luxury resort dated from 1893 .
+########
+26
+<EOP> .
+########
+27
+Montecito , a small oceanside city located between the Coastal Mountains and the Pacific seashore with about 20,000 residents , were empty since from last week the fire scorched the southern Ventura county .
+########
+28
+<EOP> .
+########
+29
+The Santa Ana winds are strong , extremely dry down_slope winds that originate inland and affect coastal Southern California in fall and winter .
+########
+30
+They are known as `` devil winds '' for fanning regional wildfires .
+########
+31
+<EOP> .
+########
+32
+Fanned by the unusual Santa Ana this winter , the Thomas Fire has scorched about 259,000 acres , destroyed 1,000 structures and killed two people including a firefighter in Southern California since it ignited on Dec 4 .
+########
+33
+<EOP> .
+########
+34
+In Cal Fire 's list of the top 20 largest wildfires in the state dates back to 1932 , only two fires have burned more acreage in California so far this century : the Cedar Fire of 2003 , and the Rush Fire of 2012 , which burned 273,246 and 271,911 , respectively .
+########
+35
+<EOP> .
+########
+36
+A 32_year_old firefighter from San Diego county died Thursday from burns and smoke inhalation , according to autopsy results announced Saturday by the Ventura county medical examiner 's office .
+########
+37
+<EOP> .
+########
+38
+National Weather Service meteorologist Curt Kaplan was quoted by ABC news channel as saying that they never seen the red flag warnings were issued for straight 12 days before .
+never	16	neg_cue
+########
+39
+<EOP> .
+########
+40
+`` This has been the longest duration event that we have had a red flag warning out without any breaks , '' he said .
+without	17	neg_cue
+########
+41
+<EOP> .
+########
+42
+Red flag warnings were instituted by the weather service in 2004 and are intended to alert fire agencies to hot , dry and windy conditions that foster wildfires .
+intended	13	ps_cue
+########
+43
+<EOP> .
+########
+44
+The National Weather Service warned that red flag conditions would be in effect in the Santa Barbara county mountains till Sunday morning .
+would	9	ps_cue
+########
+45
+<EOP> .
+########
+46
+To contain the Thomas Fire , about 8,300 firefighters from nearly a dozen states have been battling on fire lines for 13 days , aided by 78 bulldozers and 29 helicopters .
+########
+47
+And the firefighting costs approached $ 89 million .
+########
+48
+<EOP> .
+########

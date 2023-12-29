@@ -1,0 +1,77 @@
+Was Copenhagen 's Little Mermaid statue doused with paint
+0
+Copenhagen 's Little Mermaid statue doused with paint <EOP> .
+doused	5	CT+	CT+
+########
+1
+2017_05_31 09:39 <EOP> .
+########
+2
+null <EOP> .
+########
+3
+<EOP> .
+########
+4
+The Little Mermaid statue is seen painted in red in what local authorities say is an act of vandalism , in Copenhagen , Denmark May 30 , 2017 .
+painted	6	CT+	CT+
+May	24	ps_cue
+########
+5
+LRB Photo_Agencies RRB <EOP> .
+########
+6
+COPENHAGEN , Denmark -- Danish officials on Tuesday hosed down Copenhagen 's famed Little Mermaid after the statue was found doused with red paint .
+doused	20	CT+	CT+
+########
+7
+<EOP> .
+########
+8
+On the ground in front of the statue was written in red , in English , `` Denmark defend the whales of the Faeroe Islands '' -- likely a reference to the hunting of pilot whales in the North Atlantic islands during the summer months , Danish media say .
+written	9	CT+	CT+
+likely	27	ps_cue
+########
+9
+<EOP> .
+########
+10
+Authorities on the Faeroe Islands allow islanders to drive herds of pilot whales into shallow waters , where they are stabbed to death .
+########
+11
+The meat and blubber are shared afterward in the non_commercial slaughter , a practice that dates from the late 16th century .
+########
+12
+The whales are not an endangered species .
+not	3	neg_cue
+########
+13
+<EOP> .
+########
+14
+Island officials say that the pilot whale population in the eastern North Atlantic is abundant with about 778,000 whales , with approximately 100,000 around the Faroe Islands .
+########
+15
+Islanders hunt and kill on average 800 pilot whales each year .
+########
+16
+<EOP> .
+########
+17
+<EOP> .
+########
+18
+<EOP> .
+########
+19
+The Little Mermaid was created by Danish sculptor Edvard Eriksen in tribute to the Danish storyteller Hans Christian Andersen .
+########
+20
+Sitting on a rock at the entrance of the Copenhagen harbor since 1913 , she also been a popular target for vandals , who have blown her off her perch , beheaded her , and painted her .
+########
+21
+<EOP> .
+########
+22
+AP <EOP> .
+########

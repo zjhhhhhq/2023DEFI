@@ -1,0 +1,69 @@
+Whether the Prime Minister of Pakistan quit
+0
+Pakistan PM quits after court orders disqualification <EOP> .
+quits	2	CT+	CT+
+########
+1
+2017_07_28 18:09 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+<EOP> .
+########
+4
+Pakistan Prime Minister Nawaz Sharif speaks during a joint news conference in Kabul , Afghanistan , May 12 , 2015 .
+May	16	ps_cue
+########
+5
+LRB Photo_Agencies RRB <EOP> .
+########
+6
+ISLAMABAD _ Pakistani Prime Minister Nawaz Sharif Friday quit as prime minister after the Supreme Court disqualified him over corruption charges .
+quit	8	CT+	CT+
+quit	8	neg_cue
+########
+7
+<EOP> .
+########
+8
+The court had ordered the Election Commission of Pakistan to de_notify Nawaz Sharif as member of the parliament .
+########
+9
+<EOP> .
+########
+10
+In a formal reaction to the court 's verdict , the spokesman for the ruling party Pakistan Muslim League_Nawaz LRB PML_N RRB party said that despite `` serious reservations over the contents of the petition and different stages until the court 's verdict , it has been decided that the court verdict will be implemented . ''
+will	52	ps_cue
+########
+11
+<EOP> .
+########
+12
+`` The Prime Minister Mr Nawaz Sharif immediately relinquished powers as prime minister , '' the spokesman said in a statement issued by the PM 's office .
+relinquished	8	CT+	CT+
+########
+13
+<EOP> .
+########
+14
+He said `` all legal and constitutional requirements of fair trial have been badly trampled .
+########
+15
+Injustice has been done with us .
+########
+16
+History will make its own decision on this verdict . ''
+will	1	ps_cue
+########
+17
+<EOP> .
+########
+18
+The court had also ordered the country 's anti_corruption body National Accountability Bureau to start formal criminal proceedings against the PM , the country 's finance minister and two sons , daughter and son_in_law of the prime minister for allegedly concealing their property abroad .
+against	18	neg_cue
+########
+19
+<EOP> .
+########

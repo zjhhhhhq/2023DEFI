@@ -1,0 +1,68 @@
+Was former Greek PM Loukas Papademos lightly injured in booby trapped envelope blast 
+0
+Former Greek PM Loukas Papademos lightly injured in booby trapped envelope blast <EOP> .
+injured	6	CT+	CT+
+########
+1
+2017_05_26 09:07 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+<EOP> .
+########
+4
+Forensic officers inspect the car of former Greek Prime Minister and former central bank chief Lucas Papademos following the detonation of an envelope injuring him and his driver , in Athens , Greece , May 25 , 2017 .
+injuring	23	CT+	CT+
+May	34	ps_cue
+########
+5
+LRB Photo_Agencies RRB <EOP> .
+########
+6
+ATHENS __ Former Greek Prime Minister Loukas Papademos was slightly injured on Thursday after the explosion of a booby trapped envelope inside his car in central Athens , according to the latest report on Greek national news agency AMNA .
+injured	10	CT+	CT+
+########
+7
+<EOP> .
+########
+8
+Papademos , 69 , has been transferred to hospital , along with the driver and co_driver of his car who were also slightly injured .
+########
+9
+<EOP> .
+########
+10
+According to early information from police sources , the envelope exploded while the car was in motion near the Polytechnic University .
+########
+11
+<EOP> .
+########
+12
+Although there is yet no claim of responsibility , suspicions fall on domestic groups who for several years attack political , financial and police targets , according to the same sources .
+yet	3	neg_cue
+no	4	neg_cue
+########
+13
+<EOP> .
+########
+14
+In recent years , `` Conspiracy of the Nuclei of Fire '' has claimed responsibility for a series of such attacks with booby trapped envelopes which have been sent also to European leaders .
+########
+15
+<EOP> .
+########
+16
+Papademos served as an interim prime minister from November 2011 to May 2012 .
+May	11	ps_cue
+########
+17
+<EOP> .
+########
+18
+He has also served as governor of the Central Bank of Greece LRB 1994_2002 RRB and vice_president of the European Central Bank LRB 2002_2010 RRB .
+########
+19
+<EOP> .
+########

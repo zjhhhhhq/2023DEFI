@@ -1,0 +1,144 @@
+Do UK interest rates rise for first time in a decade 
+0
+UK interest rates rise for first time in a decade <EOP> .
+rise	3	CT+	CT+
+########
+1
+2017_11_03 01:01 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+<EOP> .
+########
+4
+A man speaks on his phone outside the Bank of England in the City of London , Britain , August 23 , 2017 .
+########
+5
+LRB Photo_Agencies RRB <EOP> .
+########
+6
+The Bank of England 's decision to raise interest rates for the first time in 10 years will have minimal impact on the United Kingdom 's trade and investment relationship with China , according to business adviser Yu Zongwen .
+raise	7	CT+	CT+
+raise	7	ps_cue
+will	17	ps_cue
+########
+7
+<EOP> .
+########
+8
+The UK 's central bank increased interest rates from a record low of 0.25 percent to 0.5 percent on Thursday to help curb high inflation .
+increased	5	CT+	CT+
+########
+9
+<EOP> .
+########
+10
+The widely expected move reversed the emergency action the bank took in the wake of last year 's referendum on European Union membership , when it cut rates to avert a recession .
+expected	2	ps_cue
+########
+11
+<EOP> .
+########
+12
+Following the rate increase , the pound fell around 1 percent against the dollar and the euro on dovish commentary from the central bank .
+increase	3	CT+	CT+
+against	11	neg_cue
+########
+13
+<EOP> .
+########
+14
+The UK inflation rate is running a full percentage point above the central bank 's 2 percent target .
+########
+15
+<EOP> .
+########
+16
+Bank of England Governor Mark Carney said inflation was unlikely to return to the target level without raising rates , because the economy was growing at levels `` above its speed limit '' .
+unlikely	9	ps_cue
+unlikely	9	neg_cue
+without	16	neg_cue
+limit	31	neg_cue
+########
+17
+<EOP> .
+########
+18
+`` The UK 's decision to raise interest rates is a solution mainly to combat inflation , '' said Yu , CEO of the London_based advisory Shanghai_London Connect .
+raise	6	CT+	CT+
+raise	6	ps_cue
+########
+19
+<EOP> .
+########
+20
+He added that the rate rise would have `` minimal impact on the UK 's trade and investment relationship with China , as the UK still needs to improve its economic growth and China links are an important part '' of that growth .
+rise	5	CT+	CT+
+would	6	ps_cue
+needs	26	ps_cue
+########
+21
+<EOP> .
+########
+22
+`` The depreciation in the pound 's value could even be beneficial for Chinese investors , as the costs of investing in the UK is reduced , '' he said .
+could	8	ps_cue
+########
+23
+<EOP> .
+########
+24
+The Bank of England kept its forecasts for growth and inflation broadly unchanged .
+forecasts	6	ps_cue
+########
+25
+Its estimates are based on market projections for the key interest rate reaching 1 percent .
+########
+26
+<EOP> .
+########
+27
+`` Interest rates are likely to rise only very gradually over an extended period of time , '' said Colin Ellis , managing director for credit strategy at Moody 's Investors Service .
+rise	6	CT+	CT+
+likely	4	ps_cue
+########
+28
+<EOP> .
+########
+29
+In recent weeks , after inflation hit 3 percent for the first time in five years in September , there had been speculation that UK interest rates would rise .
+speculation	22	ps_cue
+would	27	ps_cue
+########
+30
+<EOP> .
+########
+31
+Seven of the Bank of England 's nine_strong panel that sets interest rates _ the Monetary Policy Committee _ voted in favor of raising the rate .
+raising	23	CT+	CT+
+########
+32
+<EOP> .
+########
+33
+The committee also repeated previous guidance that any future increases in rates would be carried out at `` a gradual pace and to a limited extent '' .
+increases	9	CT+	CT+
+would	12	ps_cue
+########
+34
+<EOP> .
+########
+35
+Mike Harrison contributed to this story .
+########
+36
+<EOP> .
+########
+37
+<EOP> .
+########
+38
+<EOP> .
+########

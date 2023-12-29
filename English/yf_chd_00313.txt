@@ -1,0 +1,88 @@
+Does US consider arms sale to update Greece 's F_16 fleet
+0
+US considers arms sale to update Greece 's F_16 fleet <EOP> .
+sale	3	PS+	PS+
+considers	1	ps_cue
+########
+1
+2017_10_18 09:45 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+<EOP> .
+########
+4
+US President Donald Trump LRB L RRB welcomes visiting Greek Prime Minister Alexis Tsipras to the White House in Washington D.C. , the United States , on Oct 17 , 2017 .
+########
+5
+LRB Photo_Xinhua RRB <EOP> .
+########
+6
+WASHINGTON _ US President Donald Trump said on Tuesday his administration had informed Congress of a potential arms sale to update Greece 's F_16 aircrafts .
+sale	18	CT+	PS+
+potential	16	ps_cue
+########
+7
+<EOP> .
+########
+8
+`` This agreement to strengthen the Hellenic Air Force is worth up to <EOP> .
+########
+9
+$ <EOP> .
+########
+10
+2.4 billion and would generate thousands of American jobs , '' Trump said during his joint press conference with visiting Greek Prime Minister Alexis Tsipras .
+would	3	ps_cue
+########
+11
+<EOP> .
+########
+12
+According to a statement by the Defense Security Cooperation Agency , the Greek government had requested a possible purchase of an upgrade of its existing F_16 fleet to an F_16 Block V configuration .
+possible	17	ps_cue
+########
+13
+<EOP> .
+########
+14
+`` The upgrade of F_16 aircraft to an F_16 Block V configuration will bolster the Hellenic Air Force 's ability to support NATO and remain interoperable with the US and the NATO alliance .
+will	12	ps_cue
+########
+15
+It will also help Greece sustain operations in the future , thereby reducing the threat the alliance 's enemies pose to the US and the alliance , '' said the statement .
+will	1	ps_cue
+########
+16
+<EOP> .
+########
+17
+The proposed sale will require the assignment of approximately three to five additional US government or contractor representatives to Greece , the statement added .
+sale	2	PS+	PS+
+proposed	1	ps_cue
+will	3	ps_cue
+or	15	ps_cue
+########
+18
+<EOP> .
+########
+19
+The arms sale is not concluded at the moment as it still needs the approval of the US Congress .
+sale	2	CT-	PS+
+not	4	neg_cue
+needs	12	ps_cue
+########
+20
+<EOP> .
+########
+21
+<EOP> .
+########
+22
+<EOP> .
+########
+23
+<EOP> .
+########

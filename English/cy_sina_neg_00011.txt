@@ -1,0 +1,112 @@
+﻿Did the cyclist fail to assist the 29_year_old
+0
+German police are searching for a cyclist who filmed a dying man after a road accident instead of going to his aid .
+aid	21	CT-	CT-
+instead	16	neg_cue
+########
+1
+<EOP> .
+########
+2
+Police say the cyclist could be prosecuted for failing to assist the 29_year_old who had crashed his motorbike into a lamp post .
+assist	10	CT-	CT-
+could	4	ps_cue
+failing	8	neg_cue
+########
+3
+He was later pronounced dead at the scene of the accident in Heidenheim near Ulm in southern Germany .
+########
+4
+<EOP> .
+########
+5
+The cyclist , who is thought to be in his early 20s , filmed the aftermath of the accident on his mobile phone and continued to do so when an ambulance crew arrived .
+########
+6
+When medical staff complained that he was hampering their work , he refused to leave or stop filming .
+refused	12	neg_cue
+or	15	ps_cue
+stop	16	neg_cue
+########
+7
+He fled just before police arrived .
+########
+8
+<EOP> .
+########
+9
+Police said the case served to highlight the problem of `` gawpers '' , or `` gaffers '' as they are known in Germany , who slow down or stop their vehicles to film accidents on their phones , often publishing pictures or videos of them on social media .
+or	14	ps_cue
+or	28	ps_cue
+stop	29	neg_cue
+or	42	ps_cue
+########
+10
+<EOP> .
+########
+11
+In July , German rescue services said gawpers had impeded their access to victims of a bus crash in Bavaria and speculated that they may have reached them sooner had drivers , who were concentrated on capturing the scene on their mobile phones , not failed to open a corridor to allow their emergency vehicles through .
+may	24	ps_cue
+not	44	neg_cue
+failed	45	neg_cue
+########
+12
+Eighteen people died in the ensuing blaze .
+########
+13
+<EOP> .
+########
+14
+The cyclist involved in Sunday night 's incident was caught on a motorist 's dash cam , and police are now trying to track the cyclist down using the footage .
+########
+15
+<EOP> .
+########
+16
+Police said surveillance camera footage showed four people walking past or over him as he lay on the floor .
+or	10	ps_cue
+########
+17
+The fourth person faces separate proceedings .
+########
+18
+<EOP> .
+########
+19
+Only after about 20 minutes did another customer call emergency services .
+########
+20
+The man was taken to a hospital but died a few days later .
+########
+21
+<EOP> .
+########
+22
+The Essen district court handed the defendants , a woman and two men , fines ranging from 2,400 to 3,600 euros .
+########
+23
+<EOP> .
+########
+24
+The German psychologist Wolfgang Kr彨鋑er said the `` gaffer '' phenomenon was nothing new , but had been given a new lease of life thanks to smartphones .
+nothing	12	neg_cue
+########
+25
+<EOP> .
+########
+26
+`` Sensation_seeking is the simplest way to bring a bit of excitement into one 's life , '' he told the <EOP> .
+########
+27
+Hamburger Morgenpost <EOP> .
+########
+28
+.
+########
+29
+The thrill factor is only heightened when photos or film footage are posted online , he said .
+or	8	ps_cue
+########
+30
+<EOP> .
+########

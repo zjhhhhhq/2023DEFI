@@ -1,0 +1,135 @@
+Does Xi call for healthy ROK ties
+0
+Xi calls for healthy ROK ties <EOP> .
+calls	1	CT+	CT+
+########
+1
+2017_05_11 06:17 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+President urges mutual trust and proper handling of disagreements <EOP> .
+urges	1	CT+	CT+
+########
+4
+President Xi Jinping called for joint efforts to strengthen mutual political trust and properly handle disagreements in a congratulatory message on Wednesday to the newly elected president of the Republic of Korea .
+called	3	CT+	CT+
+########
+5
+<EOP> .
+########
+6
+Noting that he has always attached great importance to China_ROK relations , Xi wrote Moon Jae_in that the two countries should push forward the healthy and stable development of ties under the basis of mutual understanding and respect .
+should	20	ps_cue
+forward	22	ps_cue
+forward	22	neg_cue
+########
+7
+<EOP> .
+########
+8
+Moon , of the liberal Democratic Party , won the presidential election by a landslide on Tuesday to replace ousted president Park Geun_hye , who was impeached in December on charges of bribery and abuse of power .
+########
+9
+<EOP> .
+########
+10
+Analysts said Moon is likely to seek to mend China_ROK relations damaged by the deployment of the Terminal High Altitude Area Defense anti_missile system led by the United States .
+likely	4	ps_cue
+########
+11
+<EOP> .
+########
+12
+In the message , Xi said the development of China_ROK relations has not only brought tangible benefits for the people of both countries , but also made positive contributions to regional peace and stability .
+not	12	neg_cue
+########
+13
+<EOP> .
+########
+14
+Xi pointed out that China and the ROK are important neighbors .
+########
+15
+Relations have been comprehensively developed in the 25 years since the establishment of diplomatic ties , he said .
+########
+16
+<EOP> .
+########
+17
+Xi said he would like to work with Moon to help China_ROK relations better benefit the two countries and their people .
+would	3	ps_cue
+like	4	ps_cue
+########
+18
+<EOP> .
+########
+19
+Foreign Ministry spokesman Geng Shuang said at a regular news conference that China 's stance on the deployment of THAAD is consistent .
+########
+20
+He called on the ROK to attach importance to China 's concerns and handle the THAAD issue properly .
+called	1	CT+	CT+
+########
+21
+<EOP> .
+########
+22
+Moon said in his inaugural speech that he will sincerely negotiate with the US and China over the deployment of THAAD .
+will	8	ps_cue
+########
+23
+<EOP> .
+########
+24
+During his campaign , Moon argued for a parliamentary ratification and public consensus for the THAAD installation that can influence the country 's society from diplomatic , security and economic perspectives .
+can	18	ps_cue
+########
+25
+<EOP> .
+########
+26
+Part of the US missile_interception system has been transported to the deployment site in the country 's southeastern region , causing strong protests from anti_THAAD activists and residents .
+########
+27
+<EOP> .
+########
+28
+Huang Youfu , a Korean studies professor at Minzu University of China in Beijing , said it 's impossible for the ROK 's new government to withdraw the deployment given the current situation of the Korean Peninsula .
+impossible	18	ps_cue
+impossible	18	neg_cue
+withdraw	26	neg_cue
+########
+29
+<EOP> .
+########
+30
+But Moon is highly likely to take measures to improve the relations with China , and Beijing will welcome such moves , he said .
+likely	4	ps_cue
+will	17	ps_cue
+########
+31
+<EOP> .
+########
+32
+Da Zhigang , director of the Institute of Northeast Asian Studies at the Heilongjiang Academy of Social Sciences , said Moon faces challenges on the THAAD issue as he has to balance domestic public opinions while also coordinating the relations with both China and the US .
+########
+33
+<EOP> .
+########
+34
+China and the ROK should create opportunities now to enhance strategic mutual trust and improve relations , he said .
+should	4	ps_cue
+opportunities	6	ps_cue
+########
+35
+<EOP> .
+########
+36
+<EOP> .
+########
+37
+<EOP> .
+########

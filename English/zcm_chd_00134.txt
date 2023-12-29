@@ -1,0 +1,57 @@
+Are the measures expected to include a ban on Venezuelan oil shipments to the United States
+0
+US considering oil_related sanctions on Venezuela <EOP> .
+########
+1
+2017_07_31 09:20 <EOP> .
+########
+2
+null <EOP> .
+########
+3
+<EOP> .
+########
+4
+Venezuelan President Nicolas Maduro show his ballot as casts his vote at a polling station during the Constituent Assembly election in Caracas , Venezuela July 30 , 2017 .
+########
+5
+LRB Photo_Agencies RRB <EOP> .
+########
+6
+The measures , which could be announced as early as Monday , are not expected to include a ban on Venezuelan oil shipments to the United States __ one of the harshest options __ but could block sale of lighter US crude that Venezuela mixes with its heavy crude and then exports , the officials told Reuters .
+ban	18	PS-	PS-
+not	13	neg_cue
+expected	14	ps_cue
+could	4	ps_cue
+ban	18	neg_cue
+could	35	ps_cue
+block	36	neg_cue
+########
+7
+<EOP> .
+########
+8
+While no final decisions have been made , the officials , who spoke on condition of anonymity , said the United States could also sanction further senior Venezuelan officials .
+sanction	24	PS+	PS-
+no	1	neg_cue
+could	22	ps_cue
+########
+9
+But the timing of such an announcement remained uncertain , the sources said .
+uncertain	8	ps_cue
+########
+10
+<EOP> .
+########
+11
+Reuters <EOP> .
+########
+12
+<EOP> .
+########
+13
+<EOP> .
+########
+14
+<EOP> .
+########

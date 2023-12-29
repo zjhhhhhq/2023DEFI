@@ -1,0 +1,84 @@
+Does European Investment Bank pledge support for Belt and Road plan
+0
+European Investment Bank pledges support for Belt and Road plan <EOP> .
+support	4	CT+	CT+
+plan	9	ps_cue
+########
+1
+2017_05_16 22:03 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+The European Investment Bank pledged to support the Belt and Road Initiative by exploring financing opportunities for its individual infrastructure projects , the bank 's head said on Tuesday .
+support	6	CT+	CT+
+opportunities	15	ps_cue
+########
+4
+<EOP> .
+########
+5
+`` The European Investment Bank recognize the potential of the Belt and Road Initiative to promote economic growth and strengthen international cooperation , '' said Jean_Christophe Laloux , director_general of the European Investment Bank in a news release .
+potential	7	ps_cue
+########
+6
+<EOP> .
+########
+7
+Laloux said the strengthened cooperation between China and the European Investment Bank will `` enable increased dialogue and examination of individual infrastructure projects located in Asia , Europe and Africa and covered by the initiative . ''
+will	12	ps_cue
+########
+8
+<EOP> .
+########
+9
+Laloux made the announcement after the two_day Belt and Road Initiative Forum for International Cooperation in Beijing endedon Monday in Beijing , where his bank signed a Memorandum of Understanding with Chinese government .
+########
+10
+<EOP> .
+########
+11
+The Asian Development Bank , Asian Infrastructure Investment Bank , European Bank for Reconstruction and Development , the New Development Bank and the World Bank also participated in the forum and <EOP> .
+########
+12
+signed MoU with China .
+########
+13
+<EOP> .
+########
+14
+Laloux said the European Investment Bank looked forward to sharing its financial , technical and environmental experiences gained in 160 economies worldwide to support the Belt and Road Initiative <EOP> .
+support	23	CT+	CT+
+forward	7	ps_cue
+forward	7	neg_cue
+########
+15
+The European Union was represented at the forum by Jyrki Katainen , vice_president of the European Commission , who said the EU has been working with China on the Belt and Road Initiative since President Xi Jinping 's visit to the EU headquarters in March 2014 .
+########
+16
+<EOP> .
+########
+17
+`` China is at one end of the ` Belt and Road ' _ Europe is at the other , '' said Katainen at the leaders ' round_table discussion in Beijing on Monday .
+########
+18
+`` Done the right way , more investment in cross_border links could unleash huge growth potential with benefits for us all . ''
+could	11	ps_cue
+potential	15	ps_cue
+########
+19
+<EOP> .
+########
+20
+Apart from other suggestions , the vice_president also urged multilateral banks to play a proper role in turning the initiative into reality .
+########
+21
+<EOP> .
+########
+22
+`` We must use the wisdom of the multilateral banks , whose decades of experience makes them an invaluable partner for new institutions such as the Asian Infrastructure Investment Bank , '' said Katainen .
+########
+23
+<EOP> .
+########

@@ -1,0 +1,133 @@
+Does Flynn admit lying to FBI
+0
+Flynn admits lying to FBI , offers to cooperate <EOP> .
+admits	1	CT+	CT+
+########
+1
+2017_12_03 07:48 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+<EOP> .
+########
+4
+Michael Flynn , former US national security adviser .
+########
+5
+CHINA DAILY <EOP> .
+########
+6
+<EOP> .
+########
+7
+<EOP> .
+########
+8
+Analysts : Political uncertainty has weighed on the financial markets <EOP> .
+########
+9
+WASHINGTON _ Former US national security adviser Michael Flynn on Friday pleaded guilty to lying regarding improper contacts with foreign officials , as the government said the charges implicated no one else in the White House .
+pleaded	11	CT+	CT+
+no	29	neg_cue
+########
+10
+<EOP> .
+########
+11
+He also agreed to cooperate with prosecutors delving into the actions of President Donald Trump 's inner circle before he took office .
+########
+12
+<EOP> .
+########
+13
+Flynn was the first member of Trump 's administration to plead guilty to a crime uncovered by special counsel Robert Mueller 's wide_ranging investigation into allegedly foreign attempts to influence the US election last year and potential collusion by Trump aides .
+was	1	CT+	CT+
+potential	36	ps_cue
+########
+14
+<EOP> .
+########
+15
+`` It has been extraordinarily painful to endure these many months of false accusations of ` treason ' and other outrageous acts , '' Flynn , who was fired from his job in February , said in a statement .
+########
+16
+<EOP> .
+########
+17
+`` Such false accusations are contrary to everything I have ever done and stood for .
+########
+18
+But I recognize that the actions I acknowledged in court today were wrong , and , through my faith in God , I am working to set things right , '' he said .
+recognize	2	CT+	CT+
+########
+19
+<EOP> .
+########
+20
+Analysts said political uncertainty has weighed on the financial markets .
+########
+21
+All three major indexes fell sharply after the news , with the Dow Jones industrial average dropping over 300 points around midday on Friday .
+########
+22
+<EOP> .
+########
+23
+Mueller 's office issued a statement earlier on Friday specifying Flynn 's charges , saying he lied to the Federal Bureau of Investigation about two contacts he 's had with Russian officials before assuming office .
+########
+24
+<EOP> .
+########
+25
+Flynn had falsely stated that on or about Dec 29 , he did not ask the Russian ambassador to the United States to `` refrain from escalating the situation in response to sanctions '' from the US and that he did not remember receiving a call from the ambassador notifying him that Russia has decided to moderate Moscow 's response at the request of Flynn , the statement said .
+or	6	ps_cue
+not	13	neg_cue
+not	41	neg_cue
+########
+26
+<EOP> .
+########
+27
+The special counsel 's office found that Flynn also falsely stated that he did not on Dec 22 ask the Russian ambassador to `` delay the vote on or defeat a pending United Nations Security Council resolution '' , and that he did not remember receiving a subsequent call from the Russian side .
+not	14	neg_cue
+or	28	ps_cue
+not	43	neg_cue
+########
+28
+<EOP> .
+########
+29
+White House ' a victim ' <EOP> .
+########
+30
+Ty Cobb , a White House attorney , issued a statement following the revelation saying the White House has also been a victim of Flynn 's lies and downplaying the implications of Flynn 's plea .
+########
+31
+<EOP> .
+########
+32
+`` The false statements involved mirror the false statements to the White House officials which resulted in his resignation in February this year , '' Cobb said .
+########
+33
+<EOP> .
+########
+34
+`` Nothing about the guilty plea of the charge implicates anyone other than Mr Flynn , '' he said .
+########
+35
+<EOP> .
+########
+36
+In October , Mueller 's office charged Trump 's former campaign manager Paul Manafort , Manafort 's deputy Rick Gates , and campaign adviser George Papadopoulos with lying to the FBI .
+########
+37
+While Manafort and Gates pleaded innocent , Papadopoulos admitted the charges .
+########
+38
+<EOP> .
+########
+39
+Xinhua _ Reuters _ AP <EOP> .
+########

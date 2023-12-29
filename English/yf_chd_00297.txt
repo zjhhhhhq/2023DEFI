@@ -1,0 +1,92 @@
+Are 20 killed in Texas church shooting 
+0
+At least 20 killed in Texas church shooting : authority <EOP> .
+shooting	7	CT+	CT+
+########
+1
+2017_11_06 06:47 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+HOUSTON , Nov. 5 __ At least 20 people were shot dead in Texas after a gunman opened fire at a church during Sunday services in Sutherland Springs , Texas .
+########
+4
+<EOP> .
+########
+5
+Local media reported that Wilson County Commissioner Larry Wiley quoted an emergency responder as saying that between 20 and 24 people were killed , and around 20 were wounded when a man walked into the church about 11:30 a.m. on Sunday and opened fire at the crowd of people .
+########
+6
+<EOP> .
+########
+7
+The gunman , according to Wiley , was killed roughly nine km away in Guadalupe County after being cornered by deputies .
+########
+8
+<EOP> .
+########
+9
+At least eight injured are being treated at University Hospital in San Antonio , Spokeswoman Leni Kirkman said , adding the hospital may receive more patients .
+may	22	ps_cue
+########
+10
+<EOP> .
+########
+11
+The Wilson County News earlier quoted Sheriff Joe Tackitt as reporting that there have been ` multiple casualties and fatalities ' .
+########
+12
+<EOP> .
+########
+13
+Texas Governor Abbott released the statement on the shooting .
+shooting	8	CT+	CT+
+########
+14
+`` While the details of this horrific act are still under investigation , Cecilia and I want to send our sincerest thoughts and prayers to all those who have been affected by this evil act .
+########
+15
+I want to thank law enforcement for their response and ask that all Texans pray for the Sutherland Springs community during this time of mourning and loss . ''
+loss	26	neg_cue
+########
+16
+<EOP> .
+########
+17
+The shooting incident occurred on Sunday in a church in Sutherland Springs , about 300 km west of Houston , Texas .
+shooting	1	CT+	CT+
+########
+18
+<EOP> .
+########
+19
+The shooting reportedly happened at the First Baptist Church of Sutherland Springs , approximately 35 km southeast of San Antonio .
+shooting	1	CT+	CT+
+########
+20
+<EOP> .
+########
+21
+U.S. President Donald Trump tweeted `` May God be w _ the people of Sutherland Springs , Texas .
+May	6	ps_cue
+########
+22
+The FBI and law enforcement are on the scene .
+########
+23
+I am monitoring the situation from Japan . ''
+########
+24
+<EOP> .
+########
+25
+Sutherland Springs is an unincorporated community located on the old Spanish land grant of Manuel Tarin in northern Wilson County .
+########
+26
+According to the Handbook of Texas , the population was 362 in 2000 .
+########
+27
+<EOP> .
+########

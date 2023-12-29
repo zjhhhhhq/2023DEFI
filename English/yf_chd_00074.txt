@@ -1,0 +1,90 @@
+Does Apple admit it deliberately slows down older iPhones 
+0
+Apple admits it deliberately slows down older iPhones <EOP> .
+admits	1	CT+	CT+
+########
+1
+2017_12_23 14:52 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+WASHINGTON _ Apple has confirmed the long_held suspicion of some users that it is deliberately limiting the iPhones ' processing speed as they age .
+confirmed	4	CT+	CT+
+suspicion	7	ps_cue
+########
+4
+<EOP> .
+########
+5
+According to the company , it has released a feature with the iOS to reduce the processing power of older iPhones in a bid to prevent them from unexpectedly shutting down due to the degrading condition of their batteries .
+released	7	CT+	CT+
+prevent	25	neg_cue
+########
+6
+<EOP> .
+########
+7
+`` Lithium_ion batteries become less capable of supplying peak current demands when in cold conditions , have a low battery charge or as they age over time , which can result in the devices unexpectedly shutting down to protect its electronic components , '' Apple said in the statement released on Wednesday .
+or	21	ps_cue
+can	29	ps_cue
+########
+8
+<EOP> .
+########
+9
+`` Our goal is to deliver the best experience for customers , which includes overall performance and prolonging the life of their devices , '' it added .
+########
+10
+<EOP> .
+########
+11
+Many customers suspect that Apple purposefully slows down the older iPhones to prompt people to buy new ones .
+slows	6	PS+	CT+
+suspect	2	ps_cue
+########
+12
+<EOP> .
+########
+13
+A report released on Monday by Geekbench , an iOS speed test developer , suggested that a simple battery replacement , which costs only about $ 79 , should help the phone function almost like a new one .
+suggested	14	ps_cue
+should	28	ps_cue
+like	34	ps_cue
+########
+14
+<EOP> .
+########
+15
+`` I believe LRB as do others RRB that Apple introduced a change to limit performance when battery condition decreases past a certain point , '' John Poole , developer of Geekbench , wrote in the report .
+limit	14	neg_cue
+########
+16
+<EOP> .
+########
+17
+If the iPhone 's performance drops , users are not notified .
+not	9	neg_cue
+########
+18
+It may make them think that the slowdown is due to a faulty processor instead of an old battery , the report said .
+may	1	ps_cue
+instead	14	neg_cue
+########
+19
+<EOP> .
+########
+20
+This will also cause users to think , My phone is slow , so I should replace it , rather than My phone is slow , so I should replace its battery , Poole said .
+will	1	ps_cue
+should	15	ps_cue
+rather	19	neg_cue
+should	28	ps_cue
+########
+21
+<EOP> .
+########
+22
+Xinhua <EOP> .
+########

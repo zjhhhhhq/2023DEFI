@@ -1,0 +1,61 @@
+Will Temer resign
+0
+Lula , Rousseff put pressure on Temer after corruption charges <EOP> .
+########
+1
+2017_06_28 09:17 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+BRASILIA _ After Brazilian Supreme Court charged President Michel Temer of corruption on Monday , his two predecessors , Luiz Inacio Lula da Silva and Dilma Rousseff , were quick to call for his resignation on Tuesday .
+resignation	34	CT+	CT+
+########
+4
+<EOP> .
+########
+5
+Speaking to Radio Itatiaia , Lula said that Temer might decide to resign , if pressure from the society was strong enough .
+resign	12	Uu	CT+
+might	9	ps_cue
+########
+6
+<EOP> .
+########
+7
+`` The ideal would be a peaceful process for Temer to call for an early election , so we can elect , before October 2018 , a new president and new Congress , '' said Lula , who was the founder of the Workers ' Party LRB PT RRB and Brazilian president from 2003 to 2011 .
+would	3	ps_cue
+can	19	ps_cue
+########
+8
+<EOP> .
+########
+9
+Lula added that an investigation into Temer was needed to find out `` if the accusations are true . ''
+########
+10
+<EOP> .
+########
+11
+Meanwhile , Rousseff also reacted to the charges against Temer by writing on her website that the `` coup of 2016 , '' referring to her impeachment , had left the country in the hands of a president charged with corruption .
+against	8	neg_cue
+########
+12
+<EOP> .
+########
+13
+Rousseff , succeeding Lula as president from 2011 till her impeachment in last August for breaking budgetary laws , accused the political parties and industrial sectors which supported her impeachment of `` being directly responsible for his LRB Temer RRB rise . ''
+########
+14
+Temer , then vice president to Rousseff , assumed the powers and became the president after the impeachment .
+########
+15
+<EOP> .
+########
+16
+<EOP> .
+########
+17
+<EOP> .
+########

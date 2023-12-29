@@ -1,0 +1,183 @@
+Will China launch its Chang ' e 4 mission
+0
+Chang ' e lure is proving to be irresistible <EOP> .
+########
+1
+2018_01_04 16:16 <EOP> .
+########
+2
+China Daily USA <EOP> .
+########
+3
+The moon has been putting on quite a show for the New Year _ a super moon you could read a newspaper by on New Year 's Eve night _ with a grand finale coming in four weeks _ a super blue blood moon LRB total lunar eclipse RRB all on the same night , Jan 31 .
+could	18	ps_cue
+########
+4
+<EOP> .
+########
+5
+On a clear night the silvery orb does seem to be beckoning , and it looks like China is poised to take the lead in answering the call .
+seem	8	ps_cue
+like	16	ps_cue
+########
+6
+<EOP> .
+########
+7
+This year China plans to launch its Chang ' e 4 mission , as the Guardian reports .
+launch	5	PS+	PS+
+plans	3	ps_cue
+########
+8
+It 's a two_part project .
+########
+9
+The first step will be positioning a relay satellite 38,000 miles behind the moon on its dark side sometime around June .
+will	3	ps_cue
+########
+10
+The next step will be landing a robotic explorer on the dark side , a place no one has ever been because of the impossibility of communicating through the body .
+will	3	ps_cue
+no	16	neg_cue
+########
+11
+<EOP> .
+########
+12
+`` The Chinese are pushing back the frontier with such a technically challenging mission , '' space analyst Brian Harvey , author of China in Space : The Great Leap Forward , told the Guardian .
+########
+13
+<EOP> .
+########
+14
+Looking out at the universe from the far side of the moon is a special point of view because no stray radio waves from Earth cloud the picture .
+no	19	neg_cue
+########
+15
+One scientific project from Europe has already signed on to the project _ thanks to a word put in by the king of Holland during a trade mission to China .
+########
+16
+<EOP> .
+########
+17
+The Dutch instrument is designed to listen for signals from the so_called `` dark ages '' of the universe , that is , before there were any stars .
+########
+18
+It was originally designed for a European Space Agency mission that was scrubbed five years ago .
+########
+19
+<EOP> .
+########
+20
+`` China has always made a big play about wanting to do international collaboration , '' Harvey said .
+made	4	CT+	PS+
+########
+21
+<EOP> .
+########
+22
+China has been making a steady lockstep march toward the moon since 2007 with its Chang ' e 1 LRB Chang ' e is the name of the Chinese moon goddess RRB , a simple orbiter , Chang ' e 2 in 2010 , another orbiter that went on to the asteroid belt , and three years later Chang ' e 3 , the first soft landing on the lunar surface since 1976 , which deployed the widely publicized Jade Rabbit rover .
+making	3	CT+	PS+
+########
+23
+<EOP> .
+########
+24
+`` It is reasonable to presume that China will have its own people on the surface early in the 2030s , '' Harvey said .
+have	9	CT+	PS+
+presume	5	ps_cue
+will	8	ps_cue
+########
+25
+<EOP> .
+########
+26
+China has been testing the ability for future astronauts to stay on the moon for extended periods , as Beijing has been accelerating its space program and looks to put people on the surface of the moon within the next two decades , Reuters reported .
+testing	3	CT+	PS+
+########
+27
+<EOP> .
+########
+28
+Xinhua said volunteers would live in a `` simulated space cabin '' for between 60 to 200 days in 2018 to help scientists understand what will be needed for humans to `` remain on the moon in the medium and long terms '' .
+would	3	ps_cue
+will	25	ps_cue
+########
+29
+<EOP> .
+########
+30
+Putting a probe on the dark side of the moon was part of President Xi Jinping 's call for China to become a global power in space exploration , including putting astronauts on the surface by 2036 .
+########
+31
+<EOP> .
+########
+32
+`` While it remains unclear exactly how long China 's first lunar explorers will spend on the surface , the country is already planning for longer stays , '' Xinhua said .
+unclear	4	ps_cue
+will	13	ps_cue
+planning	23	ps_cue
+########
+33
+<EOP> .
+########
+34
+Two groups of four volunteers will live in the simulated cabin `` Yuegong_1 '' to test how a life_support system works in a moonlike environment .
+will	5	ps_cue
+########
+35
+A similar 105_day trial was carried out successfully in 2014 .
+########
+36
+<EOP> .
+########
+37
+The system , called the Bioregenerative Life Support System LRB BLSS RRB , allows water and food to be recycled and is key to any Chinese probes to the moon or beyond .
+or	30	ps_cue
+########
+38
+<EOP> .
+########
+39
+`` The latest test is vital to the future of China 's moon and Mars missions and must be relied upon to guarantee the safety and health of our astronauts , '' Liu Zhiheng of the Chinese Academy of Sciences told the news agency .
+########
+40
+<EOP> .
+########
+41
+The Yuegong_1 cabin has a central living space the size of a `` very small urban apartment '' and two `` greenhouses '' for plants .
+########
+42
+<EOP> .
+########
+43
+In March , China announced plans to launch a space probe to bring back samples from the moon this year , while the country 's first cargo space craft docked with an orbiting space lab in April , a major step as Beijing looks to establish a permanently manned space station by 2022 .
+launch	7	PS+	PS+
+plans	5	ps_cue
+########
+44
+<EOP> .
+########
+45
+Three weeks ago US President Donald Trump used the 45th anniversary of the last time people walked on the moon to sign Space Policy Directive 1 , instructing NASA to get astronauts to the moon working with the commercial space industry .
+########
+46
+<EOP> .
+########
+47
+But as Harvey points out , the directive is pretty vague on details .
+########
+48
+`` We 're still no more definite about when the Americans will set foot back on the moon , '' he said .
+no	4	neg_cue
+will	11	ps_cue
+########
+49
+<EOP> .
+########
+50
+Contact the writer at chrisdavis@chinadailyusa.com .
+########
+51
+<EOP> .
+########

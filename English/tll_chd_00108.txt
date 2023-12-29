@@ -1,0 +1,106 @@
+Do UK and Chinese universities establish research network
+0
+UK and Chinese universities establish research network <EOP> .
+establish	4	CT+	CT+
+########
+1
+2017_05_25 21:14 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+Several top Chinese and British universities established a network on Thursday to facilitate joint engineering research and the commercialization of breakthroughs .
+established	6	CT+	CT+
+########
+4
+<EOP> .
+########
+5
+The group comprises nine Chinese universities and six from Britain .
+########
+6
+Representatives signed an agreement to work together in Nanjing , following on from an initial idea proposed in 2016 by Jo Johnson , Britain 's minister of state for universities and science .
+proposed	16	ps_cue
+########
+7
+The British Council put up an initial 200,000 pounds LRB $ 260,000 RRB to kick_start the cooperation project .
+########
+8
+<EOP> .
+########
+9
+`` Our network hopes to use cutting_edge academic research to help Chinese technology companies move up the value chain at a time when the Chinese economy is undergoing structural transformation , '' said Li Kang , a professor at Queen 's University Belfast , which is part of the UK contingent .
+hopes	3	ps_cue
+########
+10
+<EOP> .
+########
+11
+`` We believe network_wide large_scale sharing of knowledge and research resources will take collaboration to a different level , in contrast to the many collaboration projects initiated by individual Chinese and UK universities , '' said Li .
+will	11	ps_cue
+########
+12
+<EOP> .
+########
+13
+This network also includes Tianjin University , Tongji University , and the Beijing Institute of Technology on the China side , and University College London , and the University of Nottingham on the UK side .
+########
+14
+<EOP> .
+########
+15
+Joint education for PhD students is another innovation that will see such students spending time at several universities and participating in a range of research projects `` to gain a broader perspective '' .
+will	9	ps_cue
+########
+16
+Li said it has not yet been decided which university will become the degree_awarding authority in such cases .
+not	4	neg_cue
+yet	5	neg_cue
+will	10	ps_cue
+########
+17
+<EOP> .
+########
+18
+Research is yet to begin , but study areas are likely to include electric vehicle technology , industrial energy consumption , and artificial intelligence .
+yet	2	neg_cue
+likely	10	ps_cue
+########
+19
+<EOP> .
+########
+20
+The network rides on a wave of China_UK research cooperation , which grew after the UK government committed in 2014 to a five_year 200 million pound funding program to finance joint research projects through the UK_China Research and Innovation Partnership Fund .
+########
+21
+<EOP> .
+########
+22
+Many British universities now host research and development centers for Chinese companies , in sectors including technology , advanced manufacturing , automotive , nuclear , and high_speed rail .
+########
+23
+<EOP> .
+########
+24
+Some cross_university collaboration also exist , the most successful is the China_UK Sustainable Agriculture Innovation Network LRB SAIN RRB that was established in 2008 by China 's Ministry of Agriculture and the UK 's Department for Environment , Food and Rural Affairs .
+########
+25
+<EOP> .
+########
+26
+`` Government support for the network has crucially helped us to transform academic research results into actual policy_making suggestions , while cross_university collaboration importantly facilitates interdisciplinary research , '' said Lu Yuelai , head of secretariat of the SAIN network .
+########
+27
+Its research has involved more than 40 British and Chinese universities , and almost 5 million pounds in government investment .
+########
+28
+<EOP> .
+########
+29
+But Lu said the abundance of Sino_British university_level research projects would benefit from more coordination between different initiatives .
+would	10	ps_cue
+########
+30
+<EOP> .
+########

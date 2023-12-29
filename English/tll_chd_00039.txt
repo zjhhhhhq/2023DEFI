@@ -1,0 +1,72 @@
+Do UK police reveal names of London attackers 
+0
+UK police reveal names of London attackers , say one investigated before <EOP> .
+reveal	2	CT+	CT+
+########
+1
+2017_06_06 10:17 <EOP> .
+########
+2
+null <EOP> .
+########
+3
+<EOP> .
+########
+4
+Two of the men shot dead by police following the attack on London Bridge and Borough Market on Saturday are seen in this undated combination image of two photographs , received in London via the Metropolitan Police in London on June 5 , 2017 .
+########
+5
+LRB Photo_Agencies RRB <EOP> .
+########
+6
+The news raises questions about the police 's judgment and increases pressure on Prime Minister Theresa May , who three days before a national election is facing criticism for overseeing cuts to police during her years as interior minister .
+May	16	ps_cue
+criticism	27	neg_cue
+########
+7
+<EOP> .
+########
+8
+In Britain 's third Islamist attack in as many months , three men on Saturday rammed a van into pedestrians on London Bridge before running into the Borough Market area , where they slit throats and stabbed people indiscriminately .
+########
+9
+Seven people were killed and dozens wounded .
+########
+10
+<EOP> .
+########
+11
+All three attackers were shot dead by police , who made at least a dozen arrests in east London on Sunday and carried out further raids on Monday .
+########
+12
+<EOP> .
+########
+13
+Police on Monday named two of the attackers and said they were trying to identify the third .
+named	3	CT+	CT+
+########
+14
+One , 27_year_old Khuram Shazad Butt , was a British citizen born in Pakistan who had already been investigated by police and Britain 's domestic spy agency MI5 .
+########
+15
+<EOP> .
+########
+16
+`` However , there was no intelligence to suggest that this attack was being planned , and the investigation had been prioritised accordingly , '' police said .
+no	5	neg_cue
+suggest	8	ps_cue
+planned	14	ps_cue
+########
+17
+<EOP> .
+########
+18
+Another attacker , 30_year_old Rachid Redouane , went by the alias Rachid Elkhdar and claimed to be Moroccan or Libyan , police said .
+or	18	ps_cue
+########
+19
+He and Butt lived in the same area of east London .
+########
+20
+<EOP> .
+########

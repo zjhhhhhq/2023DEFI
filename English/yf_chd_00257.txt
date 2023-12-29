@@ -1,0 +1,135 @@
+Does weather complicate submarine search 
+0
+Weather complicates submarine search <EOP> .
+submarine	2	CT+	CT+
+########
+1
+2017_11_21 08:07 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+MAR DEL PLATA , Argentina _ A multinational armada of aircraft and vessels battled high winds and raging seas on Sunday as they intensified their search for a missing Argentine submarine , after apparent attempted distress calls raised hopes the 44 crew members may still be alive .
+submarine	30	CT+	CT+
+missing	28	neg_cue
+hopes	38	ps_cue
+may	43	ps_cue
+########
+4
+<EOP> .
+########
+5
+There has been no contact with the ARA San Juan , a German_built diesel_electric sub , since early on Wednesday .
+no	3	neg_cue
+########
+6
+<EOP> .
+########
+7
+An air and sea search is under way with help from countries including Brazil , Britain , Chile , the United States and Uruguay .
+########
+8
+<EOP> .
+########
+9
+The search will continue `` until it appears , '' the Argentine Navy said .
+will	2	ps_cue
+appears	7	ps_cue
+########
+10
+<EOP> .
+########
+11
+`` We will continue to redouble our efforts tomorrow , day and night , looking by air , sea and underwater until the submarine appears , '' said captain Gabriel Galeazzi , spokesman for the Navy .
+submarine	23	CT+	CT+
+will	2	ps_cue
+appears	24	ps_cue
+########
+12
+<EOP> .
+########
+13
+Hopes of finding survivors were revived when the Navy said on Saturday that its bases had received seven satellite calls attributed to the submersible .
+########
+14
+<EOP> .
+########
+15
+However , the Navy was unable to confirm that those calls originated from the submarine .
+submarine	14	CT+	CT+
+unable	5	neg_cue
+########
+16
+<EOP> .
+########
+17
+The TR_1700 class submarine had been returning from a routine mission to Ushuaia , near the southernmost tip of South America , to its base at Mar del Plata .
+submarine	3	CT+	CT+
+########
+18
+<EOP> .
+########
+19
+It is one of three submarines in the Argentine fleet .
+########
+20
+Sixty_five meters long and seven meters wide , it was built by Germany 's Thyssen Nordseewerke and launched in 1983 .
+########
+21
+<EOP> .
+########
+22
+Seven_meter waves <EOP> .
+########
+23
+The calls revived hopes that the submarine has surfaced , but a powerful storm that has whipped up waves reaching 7 meters in height has made geolocation difficult , officials said .
+submarine	6	CT+	CT+
+hopes	3	ps_cue
+########
+24
+<EOP> .
+########
+25
+Balbi said weather conditions were not expected to improve before Tuesday .
+not	5	neg_cue
+expected	6	ps_cue
+########
+26
+<EOP> .
+########
+27
+Despite the bad weather , `` 10 aircraft , both domestic and foreign , are in a search rotation 24 hours a day , each in a different area '' , he said .
+########
+28
+<EOP> .
+########
+29
+He said the attempt to use a satellite phone indicates that `` the submarine had to emerge to a depth that allowed the call '' .
+submarine	13	CT+	CT+
+########
+30
+<EOP> .
+########
+31
+The last regular communication with the San Juan was early on Wednesday , when the submarine was 430 kilometers off Argentina 's coast in the Gulf of San Jorge .
+submarine	15	CT+	CT+
+########
+32
+<EOP> .
+########
+33
+Rescuers are focusing on an ocean patch about 300 km in diameter , radiating from the last point of contact .
+########
+34
+<EOP> .
+########
+35
+Relatives of crew members unfurled a flag at the naval base that read : `` Be strong Argentina .
+########
+36
+We trust in God , We wait for you . ''
+########
+37
+<EOP> .
+########

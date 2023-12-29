@@ -1,0 +1,102 @@
+Does US toughen drug war 
+0
+US urged to toughen drug war <EOP> .
+toughen	3	CT+	CT+
+########
+1
+2017_12_29 16:24 <EOP> .
+########
+2
+China Daily USA <EOP> .
+########
+3
+China expands its list of controlled substances used to make narcotics <EOP> .
+########
+4
+The United States should take measures to reduce its demand for drugs and intensify its law enforcement , rather than simply claim that China is the major source of the chemicals , a senior Chinese drug control official said on Thursday .
+reduce	7	CT+	CT+
+should	3	ps_cue
+rather	18	neg_cue
+########
+5
+<EOP> .
+########
+6
+`` The biggest difficulty China faces in opioid control is that such drugs are in enormous demand in the US , '' Yu Haibin , a narcotics control official with the Ministry of Public Security , said at a news conference in Beijing .
+########
+7
+<EOP> .
+########
+8
+Yu urged other countries , including the US , to improve cooperation with China in drug control , including sharing more data and police intelligence with Chinese authorities .
+improve	10	CT+	CT+
+########
+9
+<EOP> .
+########
+10
+During the same news conference , the China National Narcotics Control Commission announced five substances have been included in a list of controlled substances that can be used to produce narcotics .
+can	25	ps_cue
+########
+11
+<EOP> .
+########
+12
+Of the five substances , two of them can be used to produce fentanyl , a drug that can relieve pain but has also become a popular narcotic in recent years in China and abroad , according to the commission .
+can	8	ps_cue
+can	18	ps_cue
+########
+13
+<EOP> .
+########
+14
+The other three are major chemicals used to produce methamphetamine , Deng Ming , deputy head of the commission , said at the news conference .
+########
+15
+<EOP> .
+########
+16
+The regulation , formulated by ministries including the China Food and Drug Administration and Ministry of Public Security , and approved by the State Council , will take effect on Feb 1 .
+will	26	ps_cue
+########
+17
+<EOP> .
+########
+18
+`` Adding the five substances to the list means their production , use , transport , import and export will be under strict administrative management , and violators will face administrative or criminal penalties , '' Yu said .
+will	19	ps_cue
+will	28	ps_cue
+or	31	ps_cue
+########
+19
+<EOP> .
+########
+20
+The State Council adopted a regulation on the management of chemicals used for producing narcotics in 2005 .
+########
+21
+<EOP> .
+########
+22
+The list has expanded to include 138 psychoactive substances that can be used to produce drugs such as fentanyl and cathinone , which have been gaining popularity across the world due to the lack of unified international supervision and the ease of producing them in labs , the commission said .
+can	10	ps_cue
+lack	33	neg_cue
+########
+23
+<EOP> .
+########
+24
+China still faces severe challenges in narcotics control , with increasing popularity of synthetic and psychoactive drugs .
+########
+25
+<EOP> .
+########
+26
+More than 115,000 people received criminal sentences last year in China for narcotics_related violations , compared with about 81,000 in 2012 , according to the Supreme People 's Court .
+########
+27
+<EOP> .
+########
+28
+wangxiaodong@chinadaily.com.cn <EOP> .
+########

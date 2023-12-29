@@ -1,0 +1,104 @@
+Will the cub be born as early as Friday
+0
+Britain 's only female giant panda pregnant <EOP> .
+########
+1
+2017_08_25 09:55 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+<EOP> .
+########
+4
+Tian Tian , a giant panda eats bamboo in the outdoor enclosure at Edinburgh Zoo , Scotland April 12 , 2016 .
+########
+5
+LRB Photo_Agencies RRB <EOP> .
+########
+6
+LONDON _ Tian Tian , the only female Chinese giant panda in Britain , is pregnant , and a cub could be born as early as Friday , local media reported here Thursday .
+born	22	PS+	PS+
+could	20	ps_cue
+########
+7
+<EOP> .
+########
+8
+Edinburgh Zoo staff believe giant panda Tian Tian is pregnant , after the release of emails suggesting a cub could be born as early as Friday , said the reports .
+born	21	PS+	PS+
+could	19	ps_cue
+########
+9
+<EOP> .
+########
+10
+Documents released Thursday showed that in late July this year , Tian Tian 's pregnancy was `` on track '' and the mother_to_be is `` doing real well . ''
+########
+11
+<EOP> .
+########
+12
+Scottish government officials and staff at Edinburgh Zoo discussed in late July that Tian Tian was definitely pregnant and that her expected date , at the time , was Aug. 25 , according to the reports .
+expected	21	ps_cue
+########
+13
+<EOP> .
+########
+14
+If a cub is born , it would be the first birth of a panda in Britain .
+would	7	ps_cue
+########
+15
+<EOP> .
+########
+16
+Tian Tian , which means Sweetie in Chinese , was born on Aug 24 , 2003 at the Beijing Zoo in China .
+########
+17
+She is currently living at Edinburgh Zoo , Scotland .
+########
+18
+<EOP> .
+########
+19
+Tian Tian and Yang Guang , meaning Sunshine in Chinese , are Britain 's only pair of pandas .
+########
+20
+After their arrival , Edinburgh Zoo instantly became one of Scotland 's most popular attractions .
+########
+21
+<EOP> .
+########
+22
+Tian Tian has failed to produce a cub despite repeated artificial inseminations since her arrival at Edinburgh Zoo in December 2011 .
+failed	3	neg_cue
+########
+23
+<EOP> .
+########
+24
+The decision to go ahead with artificial insemination came after the zoo decided there was now no prospect of Tian Tian and Yang Guang ever mating naturally .
+no	16	neg_cue
+########
+25
+<EOP> .
+########
+26
+Panda reproduction is very difficult , partly due to the very short breeding window with ovulation occurring only once a year .
+########
+27
+<EOP> .
+########
+28
+The zoo said that a pseudopregnancy , in which female pandas show physiological and behavioral signs of pregnancy without actually being pregnant , is possible .
+without	18	neg_cue
+possible	24	ps_cue
+########
+29
+Many female pandas undergo pseudopregnancy and Edinburgh Zoo is using a battery of tests to try to rule it out .
+########
+30
+<EOP> .
+########

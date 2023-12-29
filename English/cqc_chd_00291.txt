@@ -1,0 +1,66 @@
+Does Spanish Constitutional Court annul Catalan independence declaration 
+0
+Spanish Constitutional Court annuls Catalan independence declaration <EOP> .
+declaration	6	CT+	CT+
+########
+1
+2017_11_09 08:48 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+<EOP> .
+########
+4
+People wave Spanish national flags in a march with the slogan `` Enough and let 's recover the sensibility '' to defend the Spanish constitution and the unity of Spain in Barcelona , Spain , Oct 8 , 2017 .
+########
+5
+LRB Photo_Xinhua RRB <EOP> .
+########
+6
+The Constitutional Court also voted to suspend the transition law for the construction of a Catalan republic .
+suspend	6	neg_cue
+########
+7
+<EOP> .
+########
+8
+Both the declaration of independence and the transition law had previously been temporarily suspended by the court while it studied an appeal against them by the Spanish government of Mariano Rajoy .
+declaration	2	CT+	CT+
+suspended	13	neg_cue
+against	22	neg_cue
+########
+9
+<EOP> .
+########
+10
+Speaking in the Spanish Congress on Wednesday , Prime Minister Rajoy made an appeal for a `` massive turnout '' in the elections for Catalan Parliament , which he called for Dec 21 after applying Article 155 of the Spanish Constitution to suspend Catalan autonomy and sack the former regional government of Carles Puigdemont hours after the Oct. 27 independence declaration .
+suspend	42	neg_cue
+########
+11
+<EOP> .
+########
+12
+Meanwhile , a strike in Catalonia against the imprisonment of eight members of the former government on charges of rebellion , sedition , and misuse of funds , has obtained only a limited following in the region .
+against	6	neg_cue
+########
+13
+<EOP> .
+########
+14
+Despite the patchy support , protestors have caused major delays on both roads and rail lines , with traffic backups of up to 15 km on some major roads in the region .
+########
+15
+Demonstrators also blocked the line of the high_speed AVE train service in Gerona and caused delays on many local and regional trains .
+blocked	2	neg_cue
+########
+16
+<EOP> .
+########
+17
+<EOP> .
+########
+18
+<EOP> .
+########

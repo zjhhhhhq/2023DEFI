@@ -1,0 +1,36 @@
+Does Ship sink in Vietnam 's Ha Long Bay
+0
+Ship sinks in Vietnam 's Ha Long Bay , all 31 Chinese tourists safe <EOP> .
+sinks	1	CT+	CT+
+########
+1
+2017_12_24 20:53 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+HANOI __ All 31 Chinese visitors , a guide and four crewmembers aboard a tourist ship were brought to shore safely after a collision between a ship and a cargo barge in Ha Long Bay , northern Vietnam 's province of Quang Ninh , on Sunday .
+########
+4
+<EOP> .
+########
+5
+The accident took place at 12:00 pm local time near Ti Top island when the tourist ship coded Hong Long 3109 on its way to the port after touring the bay , collided with the barge coded Hung Vuong HP3888 , enroute from Hai Phong city to Hon Net seaport in Quang Ninh , Vietnam News Agency reported .
+collided	32	CT+	CT+
+########
+6
+<EOP> .
+########
+7
+According to local authority , the barge was transporting some 1,700 tons of stone when the accident occurred .
+########
+8
+<EOP> .
+########
+9
+The accident 's cause is being investigated .
+########
+10
+<EOP> .
+########

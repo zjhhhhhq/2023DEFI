@@ -1,0 +1,167 @@
+Does exhibition fill gap in WWII history in Asia 
+0
+Exhibition fills gap in WWII history in Asia <EOP> .
+fills	1	CT+	CT+
+########
+1
+2017_12_27 16:08 <EOP> .
+########
+2
+China Daily USA <EOP> .
+########
+3
+An exhibition on an Allied POW camp run by the Japanese Army in China helps people better understand the WWII history and inspires reflection on wars , said visitors .
+helps	14	CT+	CT+
+helps	14	ps_cue
+########
+4
+<EOP> .
+########
+5
+The Mukden POW camp in Shenyang held more than 2,000 Allied POWs who arrived from the Philippines by sea from 1942 to 1945 after the Bataan Death March .
+########
+6
+But this camp went unremembered for half a century and this history was not well known .
+not	13	neg_cue
+########
+7
+<EOP> .
+########
+8
+`` It 's a wonderful reenactmentIt gives those of us who were born after World War II an understanding of what our soldiers went through , '' said Anna Graves , a visitor to the ongoing exhibition Forgotten Camp in San Francisco .
+gives	6	CT+	CT+
+########
+9
+<EOP> .
+########
+10
+Through 250 historic photographs and 42 pieces of duplicated artifacts , the exhibition , organized by the Site Museum of Shenyang POW Camp of WWII Allied Forces and China Daily , depicts the hardships endured by those POWs .
+########
+11
+<EOP> .
+########
+12
+Graves said she had never heard of the camp but she was impressed by the resilience and camaraderie of the POWs , and their willingness to help each other and survive through it .
+never	4	neg_cue
+########
+13
+<EOP> .
+########
+14
+The exhibit had visited Liverpool , England , in 2015 .
+########
+15
+It 's the second time it has traveled overseas .
+########
+16
+It 's important for the US public to learn about this history as most of the Allied POWs held at the Mukden camp were Americans , said Fan Lihong , director of the Site Museum of Shenyang POW Camp of WWII Allied Forces .
+learn	8	CT+	CT+
+########
+17
+<EOP> .
+########
+18
+Jim Barnard , a resident of Berkeley , said he had learned a lot more after viewing the exhibit .
+########
+19
+<EOP> .
+########
+20
+`` I had heard about the brutality of the experience LRB of POWs RRB .
+########
+21
+But I had n't heard about the trip by ship after the LRB Bataan RRB march , '' he said .
+n't	3	neg_cue
+########
+22
+<EOP> .
+########
+23
+The Japanese hell ships , which were used to transfer Allied POWs during the Pacific War , have the reputation for appalling living conditions and cruelty among the crew .
+########
+24
+<EOP> .
+########
+25
+`` It 's fantastic that the exhibit is here , so that people can have a real sense of what actually happened in the past , '' said Norm Arslan , a visitor .
+have	14	CT+	CT+
+can	13	ps_cue
+########
+26
+`` This brings to life in a real way that you simply can not get by reading in the book .
+brings	2	CT+	CT+
+can	12	ps_cue
+not	13	neg_cue
+########
+27
+It makes the experience very real . ''
+makes	1	CT+	CT+
+########
+28
+<EOP> .
+########
+29
+Arslan said the photographs make the whole experience real .
+make	4	CT+	CT+
+########
+30
+`` When you see those photographs , it makes you feel you are right there .
+makes	8	CT+	CT+
+########
+31
+It 's the most powerful part of the exhibit , '' he said .
+########
+32
+<EOP> .
+########
+33
+The historical photographs on display are from the permanent collection of the Site Museum of Shenyang POW Camp of WWII Allied Forces .
+########
+34
+The photographs not only depict the history but also the lesser_known friendships that took root between the prisoners and the local Chinese workers , and the visit to the site by some of the former POWs in 2007 .
+depict	4	CT+	CT+
+not	2	neg_cue
+########
+35
+<EOP> .
+########
+36
+`` I 'm grateful because it 's my parents ' generation who fought in this war .
+########
+37
+They lived with the pain of it all their lives , '' said Graves with tears in her eyes .
+########
+38
+<EOP> .
+########
+39
+`` I think here , where life is rich , you can hardly imagine being in a war .
+can	11	ps_cue
+hardly	12	neg_cue
+########
+40
+We have to remember our past , and we have to remember wars happening all over the world , too , still now , '' she said .
+########
+41
+`` How unnecessary is war ?
+########
+42
+Why ca n't we work out things by talking and being fair to one another ? ''
+n't	2	neg_cue
+########
+43
+<EOP> .
+########
+44
+The exhibition , which was scheduled to end in December , has been extended to March .
+scheduled	5	ps_cue
+########
+45
+<EOP> .
+########
+46
+liazhu@chinadailyusa.com <EOP> .
+########
+47
+<EOP> .
+########

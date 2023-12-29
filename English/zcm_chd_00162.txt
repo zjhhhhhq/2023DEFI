@@ -1,0 +1,107 @@
+Was there an attack against the court 's headquarters in Caracas
+0
+Venezuela 's supreme court slams attack against gov ' t institutions <EOP> .
+slams	4	neg_cue
+against	6	neg_cue
+########
+1
+2017_06_29 08:40 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+<EOP> .
+########
+4
+A member of the National Guard walks past the Supreme Court building in Caracas on June 28 , 2017 .
+########
+5
+LRB Photo_VCG RRB <EOP> .
+########
+6
+CARACAS _ The president of Venezuela 's Supreme Court of Justice LRB TSJ RRB , Maikel Moreno , on Wednesday condemned an attack against the court 's headquarters in Caracas , calling it terrorism .
+attack	22	CT-	CT-
+condemned	20	neg_cue
+against	23	neg_cue
+########
+7
+<EOP> .
+########
+8
+The attack on Tuesday saw a grenade launched against the building from a police helicopter .
+against	8	neg_cue
+########
+9
+The grenade did not explode and there were no casualties .
+not	3	neg_cue
+no	8	neg_cue
+########
+10
+<EOP> .
+########
+11
+In a statement , Moreno said the attack , allegedly carried out by a police officer identified as Oscar Perez , `` endangered the lives of workers '' at the TSJ , as well as bystanders .
+attack	7	CT-	CT-
+########
+12
+<EOP> .
+########
+13
+`` It can not be called anything other than terrorism , '' added Moreno , following an inspection of the site , located about a kilometer from the presidential headquarters .
+can	2	ps_cue
+not	3	neg_cue
+########
+14
+<EOP> .
+########
+15
+<EOP> .
+########
+16
+<EOP> .
+########
+17
+In Venezuela 's ongoing power struggle , the conservative opposition has often criticized the judicial branch for upholding decisions by the ruling socialist party .
+opposition	9	neg_cue
+criticized	12	neg_cue
+########
+18
+<EOP> .
+########
+19
+`` These types of actions will not intimidate Venezuela 's judges , but will strengthen their actions within the framework of the Constitution , '' said Moreno .
+will	5	ps_cue
+not	6	neg_cue
+will	13	ps_cue
+########
+20
+<EOP> .
+########
+21
+The attackers reportedly hijacked the helicopter belonging to the police department 's criminal investigative unit to attack the TSJ and the Ministry of the Interior .
+########
+22
+<EOP> .
+########
+23
+President Nicolas Maduro affirmed that nothing will disrupt upcoming polls in July to elect the members of a National Constituent Assembly to rewrite the Constitution .
+nothing	5	neg_cue
+will	6	ps_cue
+########
+24
+<EOP> .
+########
+25
+The coalition of right_wing parties , known by its Spanish acronym MUD , is against the constitutional initiative and has stepped up anti_government protests to demand presidential elections be moved up .
+against	14	neg_cue
+########
+26
+<EOP> .
+########
+27
+The increasingly violent demonstrations have claimed the lives of at least 76 people so far , according to official figures .
+########
+28
+<EOP> .
+########

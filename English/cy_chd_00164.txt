@@ -1,0 +1,118 @@
+Does Beijing hold the key to peninsula issue
+0
+Beijing ` does not hold the key ' to peninsula issue <EOP> .
+hold	4	CT-	CT-
+not	3	neg_cue
+########
+1
+2017_09_16 06:01 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+Beijing expressed its opposition to Pyongyang 's use of ballistic missile technology in violation of UN Security Council resolutions on Friday , calling for restraint from all relevant parties .
+opposition	3	neg_cue
+########
+4
+<EOP> .
+########
+5
+`` The current situation on the Korean Peninsula is complicated , sensitive and severe .
+########
+6
+All relevant parties should remain calm and avoid actions that intensify tensions , '' Foreign Ministry spokeswoman Hua Chunying said after Pyongyang fired a ballistic missile that flew over northern Japan and landed in the Pacific Ocean earlier in the day .
+should	3	ps_cue
+avoid	7	neg_cue
+########
+7
+<EOP> .
+########
+8
+Hua also said it is `` irresponsible '' to blame Beijing for regional tensions after US Secretary of State Rex Tillerson called on China to use the `` powerful tool '' of oil to persuade Pyongyang to reconsider its `` current path '' .
+########
+9
+<EOP> .
+########
+10
+According to Hua , China has strictly and comprehensively implemented UN Security Council resolutions , and has made `` enormous sacrifices at a great price '' .
+########
+11
+<EOP> .
+########
+12
+`` Our sincerity and efforts should not be doubted , '' she said .
+should	5	ps_cue
+not	6	neg_cue
+########
+13
+<EOP> .
+########
+14
+She noted that the essence of the nuclear issue on the Korean Peninsula is a security issue , and the core is conflict between Pyongyang and Washington .
+########
+15
+<EOP> .
+########
+16
+`` China is not the driver behind the escalation of the tensions .
+not	3	neg_cue
+########
+17
+China also does not hold the key to the Korean Peninsula issue .
+hold	4	CT-	CT-
+not	3	neg_cue
+########
+18
+The initiators of trouble should end it , '' she said .
+should	4	ps_cue
+########
+19
+<EOP> .
+########
+20
+`` It 's irresponsible and unhelpful for the settlement of the issue to unjustly blame others and shirk responsibilities in any form , '' she added .
+########
+21
+<EOP> .
+########
+22
+In the longest flight for a DPRK missile , it reached an altitude of about 770 kilometers and flew for about 19 minutes over a distance of about 3,700 km , according to the Republic of Korea 's military -- far enough to reach the US territory of Guam , Reuters reported .
+########
+23
+<EOP> .
+########
+24
+The ROK 's military said it conducted a live_fire drill by mobilizing Hyunmoo_2A ballistic missiles about six minutes after the DPRK 's missile launch .
+########
+25
+<EOP> .
+########
+26
+The UN Security Council will hold an emergency meeting on Pyongyang 's latest missile launch on Friday , at the request of the US and Japanese delegations , days after it unanimously adopted a new resolution imposing more sanctions over Pyongyang 's Sept 3 nuclear test .
+will	4	ps_cue
+########
+27
+<EOP> .
+########
+28
+Shi Yongming , a researcher at the China Institute of International Relations , said the US never tries to determine what its own problem is , but insists on blaming China for the current tensions .
+never	16	neg_cue
+########
+29
+<EOP> .
+########
+30
+`` However , whatever China does will not fundamentally solve the issue , '' he said .
+will	6	ps_cue
+not	7	neg_cue
+########
+31
+<EOP> .
+########
+32
+Zhou Jin contributed to this story .
+########
+33
+<EOP> .
+########

@@ -1,0 +1,21 @@
+Do British royal family visit Germany and Poland
+0
+British royal family visit Germany and Poland <EOP> .
+visit	3	CT+	CT+
+########
+1
+2017_07_20 06:55 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+German Chancellor Angela Merkel receives Prince William , the Duke of Cambridge and his wife Catherine , The Duchess of Cambridge , at the Chancellery in Berlin , Germany July 19 , 2017 .
+########
+4
+The royal couple and their children , Prince George and Princess Charlotte , are on an official three_day_visit in Germany after making their first official visit to Poland .
+visit	25	CT+	CT+
+########
+5
+LRB Photo_Agencies RRB <EOP> .
+########

@@ -1,0 +1,104 @@
+Does Merkel 's CDU win key German state election
+0
+Exit polls show Merkel 's CDU wins key German state election <EOP> .
+wins	6	CT+	CT+
+########
+1
+2017_05_15 08:54 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+German Chancellor Angela Merkel speaks during an election rally in Aachen , Germany , May 13 , 2017 .
+May	14	ps_cue
+########
+4
+LRB Photo_Agencies RRB <EOP> .
+########
+5
+BERLIN _ Exit polls showed on Sunday that German Chancellor Angela Merkel 's Chrisitian Democratic UnionLRB CDU RRB won North Rhine_Westphalia state election .
+won	18	CT+	CT+
+########
+6
+<EOP> .
+########
+7
+According to initial projections made by German local media ZDF and ARD , CDU secures 34.3 to 34.4 percent of the votes while the Social Democratic PartyLRB SPD RRB lag behind , getting 30.6 percent of the votes .
+########
+8
+<EOP> .
+########
+9
+Free Democratic Party LRB FDP RRB gets 11.9 to 12.2 percent and the right_wing Alternative for GermanyLRB AFD RRB receives 7.6 to 7.7 percent .
+########
+10
+The Greens follows with 6.0 percent and the Left Party with 5.0 percent .
+########
+11
+<EOP> .
+########
+12
+Sunday 's vote was the last state election before the federal election set for Sept 24 , and was widely seen as a vital pre_duel between Merkel 's CDU and ex_President of the European Parliament Martin Schulz 's SPD .
+########
+13
+<EOP> .
+########
+14
+The result could greatly boost the morale of CDU in the national election , since it has scored success in three state elections this year , Saarland , Schleswig_Holstein and North Rhine_Westphalia .
+could	2	ps_cue
+########
+15
+<EOP> .
+########
+16
+In the past several months , some opinion polls have constantly showed Schulz will have the edge over his major competitor Merkel in the coming federal election .
+will	13	ps_cue
+########
+17
+Some local media even dubbed it as `` Shulz effect , '' and speculated Schulz might substitute Merkel since she lost momentum due to the migrant crisis .
+might	15	ps_cue
+########
+18
+<EOP> .
+########
+19
+But the recent setbacks dimmed the halo of Schulz since he failed to transform his popularity into votes .
+failed	11	neg_cue
+########
+20
+<EOP> .
+########
+21
+SPD leader Schulz admitted a `` crashing defeat '' for his party , since his party lost 8.2 percent of the ballots compared to the 2012 election .
+########
+22
+<EOP> .
+########
+23
+German local media also called the result as `` political earthquake . ''
+########
+24
+<EOP> .
+########
+25
+North Rhine_Westphalia has been governed by a center_left coalition of the SPD and the Greens since 2010 , with the Social Democrat Hannelore Kraft serving as state premier .
+########
+26
+<EOP> .
+########
+27
+Kraft retreated from all her functions in SPD after the election .
+########
+28
+She said it 's sad the party lost so many districts and she `` takes personal responsibility for this defeat . ''
+########
+29
+<EOP> .
+########
+30
+North Rhine_Westphalia is the most populous among the German states with nearly 18 million residents accounting for 20 percent of Germany 's population .
+########
+31
+<EOP> .
+########

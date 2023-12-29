@@ -1,0 +1,85 @@
+Is there a strong and constructive US_China relationship
+0
+Strong , constructive US_China ties important to world : US top diplomat <EOP> .
+########
+1
+2017_10_01 14:30 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+<EOP> .
+########
+4
+<EOP> .
+########
+5
+State Councilor Yang Jiechi LRB R RRB meets with visiting US Secretary of State Rex Tillerson in Beijing , Sept 30 , 2017 .
+########
+6
+LRB Photo_Xinhua RRB <EOP> .
+########
+7
+<EOP> .
+########
+8
+<EOP> .
+########
+9
+WASHINGTON _ US Secretary of State Rex Tillerson said Saturday that a strong and constructive US_China relationship is important to the prosperity and stability of the world .
+relationship	16	CT+	CT+
+########
+10
+<EOP> .
+########
+11
+`` Now more than ever , a strong , constructive relationship between the United States and China is important for the prosperity and stability of our two countries as well as the world , '' he said in a press statement released by the US Department of State on the occasion of China 's National Day , which falls on Sunday .
+########
+12
+<EOP> .
+########
+13
+`` On behalf the United States , I would like to congratulate all of the Chinese people as you celebrate the 68th anniversary of the founding of the People 's Republic of China on October 1 , '' said the statement .
+would	8	ps_cue
+like	9	ps_cue
+########
+14
+<EOP> .
+########
+15
+`` We wish the people of China a joyous celebration , and peace and prosperity over the coming year , '' he added .
+########
+16
+<EOP> .
+########
+17
+The US top diplomat was in Beijing for a visit to prepare for US President Donald Trump 's state visit to China later this year .
+########
+18
+He met with Chinese President Xi Jinping and Chinese State Councilor Yang Jiechi and held talks with Chinese Foreign Minister Wang Yi .
+########
+19
+<EOP> .
+########
+20
+Xi said that China_US ties have been generally stable , and that Chinese and US teams should implement the consensuses reached by the two heads of state , grasp the direction of bilateral relationship , respect each other , and focus on cooperation while dealing with differences properly .
+should	16	ps_cue
+########
+21
+<EOP> .
+########
+22
+`` The common interests of our two countries far exceed our differences , and cooperation is the only correct choice , '' Xi told Tillerson .
+########
+23
+<EOP> .
+########
+24
+The Chinese president added that China attaches great importance to Trump 's visit , and that the teams on both sides should work closely to make the visit `` successful and special . ''
+attaches	6	CT+	CT+
+should	21	ps_cue
+########
+25
+<EOP> .
+########

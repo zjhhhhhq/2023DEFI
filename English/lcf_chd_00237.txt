@@ -1,0 +1,98 @@
+Does the fire sweep through the high_rise apartment block 
+0
+London residents demand answers in deadly high_rise blaze <EOP> .
+########
+1
+2017_06_15 09:11 <EOP> .
+########
+2
+null <EOP> .
+########
+3
+<EOP> .
+########
+4
+A firefighter directs a jet of water at a tower block severely damaged by a serious fire , in north Kensington , West London , Britain June 14 , 2017 .
+block	10	neg_cue
+########
+5
+LRB Photo_Agencies RRB <EOP> .
+########
+6
+LONDON -- With smoke still swirling around the charred remains of Grenfell Tower in west London , residents and community leaders demanded to know Wednesday how a ferocious fire could have swept through the high_rise apartment block with such speed that it killed at least 12 people .
+swept	31	PS+	PS+
+could	29	ps_cue
+block	36	neg_cue
+########
+7
+<EOP> .
+########
+8
+The anger was particularly strong since activists had warned just seven months ago that fire safety procedures were so lax that only a catastrophic blaze would bring the scrutiny needed to make the building safe .
+would	25	ps_cue
+########
+9
+<EOP> .
+########
+10
+Fire and police officials have not specified what went wrong , but extensive video footage shows the flames climbing the exterior of the building at a remarkable pace .
+climbing	18	CT+	PS+
+not	5	neg_cue
+########
+11
+<EOP> .
+########
+12
+`` I 've never seen a fire like that in my life , '' said Joe Ruane , the former deputy chief fire officer for US Air Force bases in Britain .
+never	3	neg_cue
+like	7	ps_cue
+########
+13
+`` I 've never seen that in a residential block . ''
+never	3	neg_cue
+block	9	neg_cue
+########
+14
+<EOP> .
+########
+15
+The 24_story public housing complex is owned by the local government council in the borough of Kensington and Chelsea and was completed in the 1970s .
+########
+16
+It is managed by the Kensington and Chelsea Tenant Management Organization , which spent 10 million pounds LRB $ 12.8 million RRB refurbishing the building over the last two years .
+########
+17
+<EOP> .
+########
+18
+The renovation project included installation of insulated exterior cladding , double_glazed windows and a communal heating system .
+########
+19
+Investigators need to look at what materials were used in the project and who approved their use , Ruane said .
+need	1	ps_cue
+########
+20
+But he said the speed with which the fire spread suggests that more than one fire protection safeguard failed .
+spread	9	CT+	PS+
+suggests	10	ps_cue
+failed	18	neg_cue
+########
+21
+<EOP> .
+########
+22
+`` It 's not just one thing , '' Ruane said .
+not	3	neg_cue
+########
+23
+`` It 's multiple issues . ''
+########
+24
+<EOP> .
+########
+25
+<EOP> .
+########
+26
+<EOP> .
+########

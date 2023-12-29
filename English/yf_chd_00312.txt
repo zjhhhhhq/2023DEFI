@@ -1,0 +1,120 @@
+Do Cuban scientists make sonic attacks on US diplomats
+0
+Cuban scientists deny sonic attacks on US diplomats <EOP> .
+attacks	4	CT-	CT-
+deny	2	neg_cue
+########
+1
+2017_10_27 09:11 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+<EOP> .
+########
+4
+Cuban Interior Ministry 's Colonel Ramiro Ramirez , who leads a team investigating US complaints of `` attacks '' on diplomats in Havana , speaks during an interview at the Hotel Nacional in Havana , Cuba , Oct 22 , 2017 .
+attacks	17	CT+	CT-
+########
+5
+LRB Photo_Agencies RRB <EOP> .
+########
+6
+HAVANA _ Two Cuban scientists have denied the accusations that Cuba targeted American diplomats and their families in Havana with sonic attacks , saying this was a pretext to harm relations .
+attacks	21	CT-	CT-
+denied	6	neg_cue
+########
+7
+<EOP> .
+########
+8
+`` What is being published by the media is full of falsehoods and ignorance from a physical perspective , '' Daniel Stolik Novygrod , professor at Havana University , was quoted as saying by the Juventud Rebelde daily on Thursday .
+########
+9
+<EOP> .
+########
+10
+He was backed up by Carlos Barcelo Perez , professor at the Institute of Hygiene , Epidemiology and Microbiology , who said such an attack is `` categorically impossible . ''
+impossible	28	ps_cue
+impossible	28	neg_cue
+########
+11
+<EOP> .
+########
+12
+Both experts concurred that the events could not have taken place in rooms of the Hotel Capri , where some of the attacks were reported , or in diplomatic residences , without being heard by the neighbors .
+attacks	22	CT+	CT-
+without	31	neg_ceu	CT-
+could	6	ps_cue
+not	7	neg_cue
+or	26	ps_cue
+without	31	neg_cue
+########
+13
+<EOP> .
+########
+14
+Stolik Novygrod explained that the frequency of such sonic attacks could not have been infrasonic , as these are lower than the human ear can detect and the victims claimed to have heard the sounds .
+attacks	9	PS-	CT-
+could	10	ps_cue
+not	11	neg_cue
+can	24	ps_cue
+########
+15
+Equally , they could not have been ultrasounds as these are used in medicine , without harming the hearing of those using them .
+could	3	ps_cue
+not	4	neg_cue
+without	15	neg_cue
+########
+16
+<EOP> .
+########
+17
+According to the US government , 24 diplomats and relatives suffered from sonic attacks , beginning in Nov 2016 and causing problems of hearing , balance , sight and even memory loss .
+attacks	13	CT+	CT-
+loss	31	neg_cue
+########
+18
+<EOP> .
+########
+19
+The two scientists said that infrasound and ultrasound frequencies alike can not be easily directed .
+can	10	ps_cue
+not	11	neg_cue
+########
+20
+They tend to spread in all directions , making it impossible to target them at a single individual in a room .
+tend	1	ps_cue
+impossible	10	ps_cue
+impossible	10	neg_cue
+########
+21
+<EOP> .
+########
+22
+`` There can be many hypotheses but the physical characteristics allow us to say it was not a sonic attack , '' said Stolik Novygrod .
+can	2	ps_cue
+not	16	neg_cue
+########
+23
+<EOP> .
+########
+24
+He suggested that one option could be the sonic weapon , known as the Long Range Acoustic Device LRB LRAD RRB , an acoustic device that can emit sounds over great distances , which has been used in the US to disperse protests , but an LRAD would have affected several entire buildings , and also could not be targeted so specifically .
+suggested	1	ps_cue
+could	5	ps_cue
+can	26	ps_cue
+would	47	ps_cue
+could	56	ps_cue
+not	57	neg_cue
+########
+25
+<EOP> .
+########
+26
+In early Oct , the US expelled 15 Cuban diplomats , after reducing its own diplomatic presence in Havana following the alleged sonic aggression .
+########
+27
+<EOP> .
+########

@@ -1,0 +1,73 @@
+Does UN have a special ministerial meeting 
+0
+Special meeting on Korea set at UN <EOP> .
+meeting	1	CT+	CT+
+########
+1
+2017_04_28 07:13 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+Foreign Minister Wang Yi will attend a UN Security Council special ministerial meeting on the Korean Peninsula nuclear issue , the Foreign Ministry said on Thursday .
+meeting	12	CT+	CT+
+will	4	ps_cue
+########
+4
+<EOP> .
+########
+5
+The meeting , chaired by US Secretary of State Rex Tillerson , is being held on Friday to discuss ways to maximize the impact of existing sanctions on Pyongyang and show resolve to respond to further provocations with appropriate new measures , a US State Department spokesman said at a briefing .
+meeting	1	CT+	CT+
+########
+6
+<EOP> .
+########
+7
+On Wednesday , the Trump administration said that after briefing senators on its policy toward Pyongyang , it aims to push the country into dismantling its nuclear and missile programs through tougher international sanctions and diplomatic pressure , and remained open to negotiations to bring that about .
+########
+8
+<EOP> .
+########
+9
+Chinese has taken note of the briefing and recent remarks by senior US officials , which project a message of hope that the situation on the peninsula can be resolved to peacefully through talks , Foreign Ministry spokesman Geng Shuang said on Thursday .
+hope	20	ps_cue
+can	27	ps_cue
+resolved	29	neg_cue
+########
+10
+<EOP> .
+########
+11
+`` We think the message is positive and should be affirmed , '' he said in a daily news conference in Beijing , hoping that all related parties could get the message .
+should	8	ps_cue
+hoping	23	ps_cue
+could	28	ps_cue
+########
+12
+<EOP> .
+########
+13
+Geng also said that since the US is a major party to the issue , `` We hope and welcome that Washington will assume the role and the responsibility that it should . ''
+hope	17	ps_cue
+will	22	ps_cue
+assume	23	ps_cue
+should	31	ps_cue
+########
+14
+<EOP> .
+########
+15
+Chinese Ambassador to the US Cui Tiankai said on Wednesday that China had a shared interest with the United States on the Korean Peninsula , where both want continued stability and progress toward denuclearization .
+########
+16
+<EOP> .
+########
+17
+`` The situation on the Korean Peninsula is a challenge to all of us － China , the US and Russia and others － and we should work together to seek a diplomatic solution to the issue , '' Cui said in an interview with CNN .
+should	26	ps_cue
+########
+18
+<EOP> .
+########

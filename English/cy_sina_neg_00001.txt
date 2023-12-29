@@ -1,0 +1,129 @@
+Did Buffon's last official game coincide with the failure to qualify for the World Cup
+0
+Italy will be absent from the World Cup finals for the first time in 60 years after a long night of frustration ended in an ocean of tears in Milan .
+will	1	ps_cue
+absent	3	neg_cue
+########
+1
+<EOP> .
+########
+2
+Trailing 1_0 from last Friday 's first leg in Stockholm , they were unable to break down a resolute Sweden who held out magnificently to earn themselves a place in the World Cup draw on Dec 1 .
+break	15	CT-	CT-
+unable	13	neg_cue
+########
+3
+<EOP> .
+########
+4
+There were emotional scenes at the end as the Swedes celebrated one of their greatest achievements in modern times .
+########
+5
+In stark contrast , the Italian players looked inconsolable , none more so than veteran goalkeeper Gianluigi Buffon , who will retire without the crowning moment of a World Cup swansong .
+none	10	neg_cue
+will	20	ps_cue
+without	22	neg_cue
+########
+6
+<EOP> .
+########
+7
+Buffon said : `` I 'm not sorry for myself but all of Italian football .
+not	6	neg_cue
+########
+8
+We failed at something which also means something on a social level .
+failed	1	CT+	CT-
+failed	1	neg_cue
+########
+9
+There 's regret at finishing like that . ''
+like	5	ps_cue
+########
+10
+<EOP> .
+########
+11
+Buffon , 39 , said : `` It 's a shame my last official game coincided with the failure to qualify for the World Cup .
+failure	18	CT+	CT-
+failure	18	neg_cue
+########
+12
+<EOP> .
+########
+13
+`` Blame is shared equally between everyone .
+########
+14
+There ca n't be scapegoats . ''
+n't	2	neg_cue
+########
+15
+<EOP> .
+########
+16
+Goalkeeper Buffon made 175 appearances for his country in a 20_year career _ lifting the World Cup in 2006 _ and believes the future could still be bright for the four_time world champions .
+could	24	ps_cue
+########
+17
+<EOP> .
+########
+18
+`` There is certainly a future for Italian football because we have pride , ability , determination and after bad tumbles , we always find a way to get back on our feet , '' he said .
+########
+19
+<EOP> .
+########
+20
+`` I do n't know what we missed , all I know is we 're out of the World Cup , it 's a unique disappointment and leaving this group of lads is painful , '' said defender Barzagli .
+n't	3	neg_cue
+disappointment	25	neg_cue
+########
+21
+<EOP> .
+########
+22
+`` The era of four or five veterans comes to a close , the one of the hungry young players coming through begins and that 's how it should be . ''
+or	5	ps_cue
+should	28	ps_cue
+########
+23
+<EOP> .
+########
+24
+Italy manager Giampiero Ventura _ under contract until 2020 _ did not speak to national television after the defeat but arrived at a news conference 90 minutes after full time .
+not	11	neg_cue
+########
+25
+<EOP> .
+########
+26
+`` I have not resigned because I have n't spoken to the president yet , '' Ventura , 69 , said .
+not	3	neg_cue
+n't	8	neg_cue
+yet	13	neg_cue
+########
+27
+<EOP> .
+########
+28
+`` I 'm sorry for being late , but every player I had the privilege of working with , I wanted to salute individually .
+wanted	20	ps_cue
+########
+29
+<EOP> .
+########
+30
+`` Resignation ?
+########
+31
+I have to evaluate an infinity of issues .
+evaluate	3	ps_cue
+########
+32
+We will meet with the federation and discuss it . ''
+will	1	ps_cue
+########
+33
+<EOP> .
+########

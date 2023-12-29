@@ -1,0 +1,161 @@
+Does Xi congratulate Moon on ROK election win 
+0
+Xi congratulates Moon on ROK election win <EOP> .
+congratulates	1	CT+	CT+
+########
+1
+2017_05_10 10:54 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+<EOP> .
+########
+4
+Moon Jae_in of the Liberal Minjoo Party waves during a celebration event in Seoul , South Korea , on May 9 , 2017 .
+May	19	ps_cue
+########
+5
+Liberal candidate Moon Jae_in of the Minjoo Party said Tuesday that South Korea 's presidential election is `` a great victory of great people '' after most of local media outlets viewed his victory as assured .
+########
+6
+LRB Photo_Xinhua RRB <EOP> .
+########
+7
+President Xi Jinping sent a congratulatory message to Moon Jae_in on Wednesday to congratulate him on winning the Republic of Korea 's presidential election .
+congratulatory	5	CT+	CT+
+########
+8
+<EOP> .
+########
+9
+In the message Xi pointed out that China and the ROK are important neighbors for each other .
+########
+10
+Bilateral relations have been comprehensively developed in the past 25 years since the establishment of diplomatic ties , with exchanges in all areas being enhanced , Xi said .
+########
+11
+<EOP> .
+########
+12
+The development of China_ROK relations has not only brought practical benefits for the people of both countries , but also made positive contributions to regional peace and stability , he said .
+not	6	neg_cue
+########
+13
+<EOP> .
+########
+14
+Xi stressed that he has always attached great importance to the ROK and China_ROK relations .
+########
+15
+China would like to make joint efforts with the ROK to maintain the achievements of bilateral ties , he said .
+would	1	ps_cue
+like	2	ps_cue
+########
+16
+<EOP> .
+########
+17
+The two countries should strengthen political trust , properly handle disagreements , enhance coordination and cooperation under the basis of mutual trust and respect , to push forward the healthy and stable development of China_ROK relations , Xi said .
+should	3	ps_cue
+forward	27	ps_cue
+forward	27	neg_cue
+########
+18
+<EOP> .
+########
+19
+Xi said he would like to make joint efforts with Moon to make the China_ROK relations better benefit the two countries and the people of both .
+would	3	ps_cue
+like	4	ps_cue
+########
+20
+<EOP> .
+########
+21
+anbaijie@chinadaily.com.cn <EOP> .
+########
+22
+<EOP> .
+########
+23
+South Korea 's president_elect Moon Jae_in and South Chungcheong governor An Hee_jung LRB R RRB celebrate with supporters at Gwanghwamun Square in Seoul , South Korea , May 10 , 2017 .
+May	27	ps_cue
+########
+24
+LRB Photo_Agencies RRB <EOP> .
+########
+25
+Moon Jae_in wins S Korean presidential election <EOP> .
+########
+26
+Liberal Moon Jae_in won the South Korean presidential by_election as he gained votes enough to confirm victory , vote count results showed Wednesday .
+########
+27
+<EOP> .
+########
+28
+With 91.3 percent of votes counted as of 3:07 a.m. local time LRB 1807 GMT Tuesday RRB , Moon garnered 40.5 percent , according to the national election commission .
+########
+29
+<EOP> .
+########
+30
+Hong Joon_pyo of the conservative Liberty Korea Party won 24.8 percent .
+########
+31
+Even if the remaining uncounted votes go to Hong , he will not defeat Moon .
+will	11	ps_cue
+not	12	neg_cue
+########
+32
+It confirmed Moon 's victory with certainty .
+########
+33
+<EOP> .
+########
+34
+Ahn Cheol_soo of the centrist People 's Party garnered 21.5 percent , trailed by Yoo Seong_min of the conservative Righteous Party with 6.7 percent .
+########
+35
+<EOP> .
+########
+36
+Sim Sang_jung of the minor liberal Justice Party had 6.0 percent support .
+########
+37
+<EOP> .
+########
+38
+Moon celebrated with jubilant supporters gathering at the Gwanghwamun square in central Seoul around midnight as his victory was assured by local media outlets in an early stage of vote count .
+########
+39
+<EOP> .
+########
+40
+In the televised speech , Moon told supporters that he will become a president for all the people from Wednesday , saying he will become a president of unity , caring about those who did not support him in the election .
+will	10	ps_cue
+will	23	ps_cue
+not	35	neg_cue
+########
+41
+<EOP> .
+########
+42
+Before the speech , he told reporters at his party 's building that he will achieve the two main goals of reform and unity people had wished for .
+will	14	ps_cue
+########
+43
+<EOP> .
+########
+44
+Four other major candidates made concessions to Moon , even before less than 10 percent of votes were counted .
+########
+45
+The concessions led local media outlets to predict an assured election of Moon .
+predict	7	ps_cue
+########
+46
+<EOP> .
+########

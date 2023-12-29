@@ -1,0 +1,129 @@
+Did Beijing urge all related parties to remain calm 
+0
+Beijing urges calm as DPRK missile launch raises tensions <EOP> .
+urges	1	CT+	CT+
+########
+1
+2017_05_23 06:55 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+Beijing urged all related parties to remain calm and restrained on Monday after Pyongyang conducted its latest missile test and called for efforts to solve the Korean Peninsula nuclear issue in a peaceful manner .
+urged	1	CT+	CT+
+########
+4
+<EOP> .
+########
+5
+`` We 've noticed related movement .
+########
+6
+... The situation on the Korean Peninsula is complicated and sensitive .
+########
+7
+We again urge all sides to avoid activities that provoke each other and intensify tensions and to pull the situation back to the right track of dialogue and consultation , '' Foreign Ministry spokeswoman Hua Chunying said .
+urge	2	CT+	CT+
+avoid	6	neg_cue
+########
+8
+<EOP> .
+########
+9
+The Democratic People 's Republic of Korea declared its medium_range Pukguksong_2 missile ready for deployment after Sunday 's test launch .
+ready	12	ps_cue
+########
+10
+<EOP> .
+########
+11
+DPRK leader Kim Jong_un ordered the launch and watched from an observation post , Korea Central News Agency reported on Monday .
+########
+12
+The test verified technical aspects of the weapon system and examined its `` adaptability under various battle conditions '' before it is deployed to military units , the report said .
+########
+13
+<EOP> .
+########
+14
+`` China 's position on the issue is very clear and consistent , '' Hua said in a daily news conference in Beijing .
+########
+15
+<EOP> .
+########
+16
+`` The United Nations Security Council resolutions have clear stipulations prohibiting the DPRK from using ballistic missiles , and China opposes the DPRK conducting its test against UNSC resolutions , '' she said .
+against	26	neg_cue
+########
+17
+<EOP> .
+########
+18
+The UN Security Council will hold an emergency meeting on Tuesday in response to the ballistic missile test .
+will	4	ps_cue
+########
+19
+<EOP> .
+########
+20
+When asked whether there will be further sanctions on Pyongyang , Hua said the discussions or activities taken by the UN Security Council should be conducive to the important consensuses reached by the international community .
+whether	2	ps_cue
+will	4	ps_cue
+or	15	ps_cue
+should	23	ps_cue
+########
+21
+<EOP> .
+########
+22
+`` The international community at least has three points of consensus on the Korean Peninsula nuclear issue .
+########
+23
+That is , the objective of denuclearization ; fully and strictly implement past resolutions of the UN Security Council ; and support in a peaceful manner resolving the peninsula 's nuclear issue , '' she said .
+########
+24
+<EOP> .
+########
+25
+6 Japanese held <EOP> .
+########
+26
+Responding to questions about the reported detention of six Japanese citizens on accusations of harming national interests , the spokeswoman said on Monday that the six are under investigation on suspicion of violating Chinese laws .
+suspicion	30	ps_cue
+########
+27
+<EOP> .
+########
+28
+`` As far as I know , the Chinese authorities , indeed , in accordance with the law , conducted investigations of six Japanese suspected of engaging in illegal activities in China .
+suspected	24	ps_cue
+########
+29
+China has promptly reported the issue to Japan 's consulate authorities in China , '' she said .
+########
+30
+<EOP> .
+########
+31
+According to a news report in Japanese media , the six people were detained by Chinese authorities in Shandong and Hainan provinces in March .
+########
+32
+<EOP> .
+########
+33
+The Japanese citizens could face allegations of espionage because there are naval facilities in the two provinces , the Nikkei news service said , quoting anonymous sources from China and Japan .
+could	3	ps_cue
+########
+34
+<EOP> .
+########
+35
+<EOP> .
+########
+36
+<EOP> .
+########
+37
+<EOP> .
+########

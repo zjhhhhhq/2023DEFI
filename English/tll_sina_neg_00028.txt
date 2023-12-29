@@ -1,0 +1,38 @@
+Is there ban on the harvesting of organs from executed prisoners for transplant
+0
+China 's ban on the harvesting of organs from executed prisoners for transplant will not cause the shortage of donated organs , an expert said on Wednesday .
+harvesting	5	CT-	CT-
+ban	2	neg_cue
+will	13	ps_cue
+not	14	neg_cue
+########
+1
+Huang Jiefu , head of the country 's human organ donation and transplant committee , made the remarks at a press conference on the sidelines of the annual session of the National Committee of the Chinese People 's Political Consultative Conference LRB CPPCC RRB in Beijing .
+########
+2
+<EOP> .
+########
+3
+Voluntary donation from Chinese citizens has become the major source of organs for transplatation , accounting for 80 percent of the total donated organs in 2014 , Huang added .
+########
+4
+<EOP> .
+########
+5
+Statistics show that nearly 1,000 body parts were donated by about 380 citizens in the first two months this year , an increase of 50 percent compared to the same period in 2014 .
+########
+6
+<EOP> .
+########
+7
+China announced to ban the harvesting of transplant organs from executed prisoners on January 1 , 2015 , demanding all hospitals stop using organs from death_row prisoners .
+harvesting	5	CT-	CT-
+ban	3	neg_cue
+stop	21	neg_cue
+########
+8
+<EOP> .
+########
+9
+Vocabulary <EOP> .
+########

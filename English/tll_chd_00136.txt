@@ -1,0 +1,96 @@
+Do scientists call for the regulation of medical plant use
+0
+Scientists call for the regulation of medical plant use <EOP> .
+call	1	CT+	CT+
+########
+1
+2017_05_19 00:26 <EOP> .
+########
+2
+China Daily UK <EOP> .
+########
+3
+A scientific report produced in the United Kingdom , which reveals at least 28,187 plant species as having medicinal uses , is urging the better regulation of the confusing array of names linked to such flora .
+urging	22	CT+	CT+
+########
+4
+<EOP> .
+########
+5
+The Royal Botanic Gardens second State of the World `` s Plants report , which was compiled by 128 scientists from 12 countries , contains not only data on medicinal plants but also information about climate change , plant health , and the effects of wildfires .
+not	25	neg_cue
+########
+6
+<EOP> .
+########
+7
+The report by the botanic gardens , which is also known as Kew Gardens , highlights the fact that fewer than 16 percent LRB 4,478 RRB of species used in plant_based medicines had been cited in medicinal regulatory publications .
+########
+8
+It also noted that there are currently 15 alternative names for each medicinal species , something that causes confusion and adds to risks .
+########
+9
+<EOP> .
+########
+10
+While many countries publish `` pharmacopoeias '' -- official publications that provide precise descriptions of medicines -- the texts only cover a small percentage of the long list of traditional plant_based medicines .
+########
+11
+<EOP> .
+########
+12
+In China , between 10,000 and 11,250 plant species have been documented as having medicinal uses , but only 563 have been cited in the Chinese pharmacopoeia .
+########
+13
+<EOP> .
+########
+14
+Monique Simmonds , deputy director of science at Kew , said : `` What Kew is trying to do with traditional medicine is to provide information for scientists as well as the trade , to help identify the material and put that resource online that will assist with the quality control and public safety . ''
+will	45	ps_cue
+########
+15
+<EOP> .
+########
+16
+Experts also stressed the importance of correct labeling because it is `` frequently misleading '' such as in the case of the trade name `` ginseng '' .
+########
+17
+`` Ginseng '' refers to 15 different species of plant , each with its own chemistry and therapeutic properties .
+########
+18
+<EOP> .
+########
+19
+The accidental substitution by a Belgian clinic of one Chinese medicinal herb LRB fang ji RRB with another that shares the name , led to more than 100 patients requiring kidney dialysis for the remainder of their lives .
+########
+20
+<EOP> .
+########
+21
+`` Our research is more about understanding and putting in place what is required for this type of material to be sold , '' Simmonds said .
+########
+22
+`` And also safety issues , because if there is another case like the one in Belgium , it could possibly lead to the ban of traditional Chinese medicines . ''
+like	12	ps_cue
+could	19	ps_cue
+possibly	20	ps_cue
+ban	24	neg_cue
+########
+23
+<EOP> .
+########
+24
+The report suggested resources be used to bring forward information similar to Kew `` s Medicinal Plant Names service .
+suggested	2	ps_cue
+forward	8	ps_cue
+forward	8	neg_cue
+########
+25
+<EOP> .
+########
+26
+In December 2016 , Beijing announced its aim to integrate Traditional Chinese Medicine into China `` s healthcare system by 2020 , `` recognizing improved scientific understanding of plants and their value in treating chronic conditions '' .
+########
+27
+<EOP> .
+########

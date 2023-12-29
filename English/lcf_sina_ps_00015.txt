@@ -1,0 +1,80 @@
+Can wearers of skinny jeans squat 
+0
+Attention wearers of skinny jeans : do n't squat -- at least not for long .
+squat	8	CT-	CT-
+n't	7	neg_cue
+not	12	neg_cue
+########
+1
+<EOP> .
+########
+2
+Doctors in Australia report that a 35_year_old woman was hospitalized for four days after experiencing muscle damage , swelling , and nerve blockages in her legs after squatting for several hours while wearing tight_fitting denims .
+########
+3
+<EOP> .
+########
+4
+`` We were surprised that this patient had such severe damage to her nerves and muscles , '' said Dr. Thomas Kimber of the Royal Adelaide Hospital in Australia , in an email .
+########
+5
+<EOP> .
+########
+6
+The patient , who was not identified , spent most of the previous day helping someone move , squatting for long periods while emptying cupboards .
+not	5	neg_cue
+########
+7
+Clad in skinny jeans , the woman said they felt increasingly tight and her feet were numb as she walked home , making her trip and fall .
+########
+8
+Unable to get up , she spent several hours stranded outside before getting to the hospital .
+########
+9
+Kimber and colleagues published a report about the case online Monday in the Journal of Neurology , Neurosurgery and Psychiatry .
+########
+10
+<EOP> .
+########
+11
+Kimber said tight jeans have previously been reported to cause nerve lesions in the groin but not the kind of nerve problems in the lower leg and severe muscle damage they saw .
+not	16	neg_cue
+########
+12
+He said squatting compressed the nerves in the lower leg , reducing the blood supply to the calf muscles and that the skinny jeans worsened the problem .
+########
+13
+<EOP> .
+########
+14
+After being treated for four days -- and having her jeans cut off -- the woman still had some weakness in her legs but walked out of the hospital and later recovered fully .
+weakness	19	neg_cue
+########
+15
+Kimber does n't know if the woman still wears skinny jeans but warned her against the dangers of squatting in them .
+squatting	18	CT+	CT-
+n't	2	neg_cue
+against	14	neg_cue
+########
+16
+<EOP> .
+########
+17
+`` I think it 's the non_stretchy nature of jeans that might be the problem , '' Kimber said , noting that tight pants with more elasticity would n't be as dangerous since they would n't squeeze nerves and muscles .
+might	11	ps_cue
+would	27	ps_cue
+n't	28	neg_cue
+would	34	ps_cue
+n't	35	neg_cue
+########
+18
+He does n't wear skinny jeans himself , but not because of the medical risks : `` I 'm too old to get away with them ! ''
+n't	2	neg_cue
+not	9	neg_cue
+########
+19
+<EOP> .
+########
+20
+Vocabulary <EOP> .
+########

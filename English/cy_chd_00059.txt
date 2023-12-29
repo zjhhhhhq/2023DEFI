@@ -1,0 +1,98 @@
+Were the gloves purchased for $ 956,000 by a buyer who wished to remain anonymous
+0
+Ali , Liston gloves , Shoeless Joe photo fetch $ 1.1 M in NYC <EOP> .
+########
+1
+2015_02_22 12:14 <EOP> .
+########
+2
+Agencies <EOP> .
+########
+3
+<EOP> .
+########
+4
+In this May 25 , 1965 file photo , challenger Sonny Liston , right , lands a body blow to heavyweight champion Muhammad Ali in Lewiston , Maine .
+May	2	ps_cue
+########
+5
+LRB Photo_IC RRB <EOP> .
+########
+6
+Both pairs of gloves from the May 25 , 1965 , bout in Lewiston , Maine <EOP> .
+May	6	ps_cue
+########
+7
+_ <EOP> .
+########
+8
+won by Ali with a first_round knockout from what some saw as a `` phantom punch '' <EOP> .
+########
+9
+_ <EOP> .
+########
+10
+were seized by George Russo , the boxing commissioner for Maine .
+########
+11
+The gloves remained in the Russo family until a California collector purchased them several years ago before putting them up for auction .
+purchased	11	CT+	CT+
+########
+12
+<EOP> .
+########
+13
+Dallas_based Heritage Auctions , which handled the sale in New York City , said the gloves were purchased for $ 956,000 by a buyer who wished to remain anonymous .
+purchased	17	CT+	CT+
+########
+14
+<EOP> .
+########
+15
+The photo of Jackson , who is mostly remembered for being banned from baseball for his role in the 1919 World Series scandal and later being depicted in the movie `` Field of Dreams , '' brought in $ 179,000 .
+banned	11	neg_cue
+########
+16
+It sold to an anonymous collector .
+########
+17
+<EOP> .
+########
+18
+Jackson was illiterate and rarely signed anything but paychecks and legal documents , making his autograph among the rarest in sports .
+########
+19
+<EOP> .
+########
+20
+Footage of the Ali_Liston fight does not make it clear whether Ali 's quick right hand actually connected , and many fans booed .
+not	6	neg_cue
+whether	10	ps_cue
+########
+21
+Even the most famous photos of the fight show an enraged Ali standing over Liston as he lay on the canvas ; Ali is gesturing and yelling at Liston to get up and fight .
+########
+22
+<EOP> .
+########
+23
+The Lewiston rematch was the first bout in which Ali stepped into the ring as Muhammad Ali after converting to Islam .
+########
+24
+He was still Cassius Clay a year earlier when he won the championship from Liston in Miami .
+########
+25
+His glove from that bout sold last year at Heritage Auctions for $ 836,500 .
+########
+26
+<EOP> .
+########
+27
+Ali signed both pairs of gloves when he came to Lewiston in 1995 to celebrate the fight 's 30th anniversary .
+########
+28
+Liston died in 1970 .
+########
+29
+<EOP> .
+########

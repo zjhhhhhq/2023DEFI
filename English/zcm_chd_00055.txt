@@ -1,0 +1,198 @@
+Does the world cut extreme poverty and child deaths in half
+0
+Gates Foundation persists in fight vs. ills of the world <EOP> .
+########
+1
+2017_09_14 10:59 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+The world has cut extreme poverty and child deaths in half and reduced HIV and maternal deaths by nearly half , but more needs to be done .
+cut	3	CT+	CT+
+needs	23	ps_cue
+########
+4
+<EOP> .
+########
+5
+That is the message from <EOP> .
+########
+6
+Goalkeepers : The Stories Behind the Data <EOP> .
+########
+7
+, the inaugural annual report released by the Bill and Melinda Gates Foundation on Wednesday .
+########
+8
+<EOP> .
+########
+9
+The Goalkeepers report will be issued every year through 2030 , to coincide with the annual United Nations General Assembly in New York .
+will	3	ps_cue
+########
+10
+<EOP> .
+########
+11
+The report , co_authored and edited by Bill and Melinda Gates , was produced in partnership with the Institute for Health Metrics and Evaluation at the University of Washington .
+########
+12
+<EOP> .
+########
+13
+It tracks 18 data points from the UN Sustainable Development Goals , including child and maternal deaths , stunting , access to contraceptives , HIV , malaria , extreme poverty , financial inclusion and sanitation .
+########
+14
+<EOP> .
+########
+15
+The report highlights past progress against these most devastating issues affecting poor countries .
+against	5	neg_cue
+########
+16
+<EOP> .
+########
+17
+For example , more than 100 million children under age 5 have been saved since 1990 , due in large part to better newborn care practices and vaccines , according to the report .
+########
+18
+The rate of death has fallen from 85 deaths per 1,000 live births in 1990 to just 38 in 2016 .
+fallen	5	CT+	CT+
+########
+19
+<EOP> .
+########
+20
+It also shows a steady decline in poverty since 1990 , driven by China and India , from 35 percent in 1990 to 9 percent in 2016 .
+decline	5	CT+	CT+
+########
+21
+The World Bank defines international poverty as living on less than $ 1.90 per day .
+defines	3	neg_cue
+########
+22
+<EOP> .
+########
+23
+`` We 're trying to document the incredible progress , including on key things like poverty and different disease areas , '' Bill Gates said in a telephone media briefing .
+like	14	ps_cue
+########
+24
+<EOP> .
+########
+25
+`` And we 're trying to look forward and see what the possibilities are , the possibilities to continue that progress , or , if the right things are n't done in some of these cases , not only to have the progress stop , but also in some cases go backwards . ''
+forward	7	ps_cue
+forward	7	neg_cue
+or	22	ps_cue
+n't	29	neg_cue
+not	37	neg_cue
+stop	43	neg_cue
+########
+26
+<EOP> .
+########
+27
+The report highlights projections in charts and explores three potential 2030 scenarios for each indicator .
+potential	9	ps_cue
+########
+28
+<EOP> .
+########
+29
+The first is what could happen if the current path is taken without significant changes to approaches or spending levels .
+could	4	ps_cue
+without	12	neg_cue
+or	17	ps_cue
+########
+30
+<EOP> .
+########
+31
+The other two scenarios look at a better and worse future : what could happen with strong leadership , innovation and investment and what could happen if attention and funding waned .
+could	13	ps_cue
+could	24	ps_cue
+########
+32
+<EOP> .
+########
+33
+One example given is in HIV LRB human immunodeficiency virus RRB : a 10 percent cut in global donor funding for HIV treatment could result in more than 5 million more deaths by 2030 .
+could	23	ps_cue
+########
+34
+<EOP> .
+########
+35
+Bill and Melinda Gates expressed their concern in the report that shifting priorities , instability and potential budget cuts could lead the world to turn away from its commitments , jeopardizing the positive trajectory needed to end extreme poverty and wipe out diseases by 2030 .
+concern	6	ps_cue
+potential	16	ps_cue
+could	19	ps_cue
+########
+36
+<EOP> .
+########
+37
+The report pinpoints the leaders , approaches and innovations that made a difference .
+########
+38
+<EOP> .
+########
+39
+`` Whether it 's HIV or malaria or maternal health , the generosity is very important , '' Bill said .
+or	5	ps_cue
+or	7	ps_cue
+########
+40
+<EOP> .
+########
+41
+`` In areas like HIV and malaria , drug resistance can come along , and that would mean that even the tools available today would become less effective , '' he explained .
+like	3	ps_cue
+can	10	ps_cue
+would	16	ps_cue
+would	24	ps_cue
+########
+42
+`` And so one area that we always highlight is that we have to keep investing in the innovation . ''
+########
+43
+<EOP> .
+########
+44
+Gates uses vaccine coverage and AIDS as key examples .
+########
+45
+Because the world has stepped up with an incredible level of generosity to reduce the cost of the drugs and distribute them widely , AIDS_related deaths have fallen by almost half since their peak in 2005 .
+########
+46
+<EOP> .
+########
+47
+Part of the Goalkeepers ' goal is to have a yearly checkpoint for progress and setbacks .
+########
+48
+<EOP> .
+########
+49
+Gates said he is optimistic about the future `` because I get to live with this data , and you know , go out and see these examples '' .
+########
+50
+<EOP> .
+########
+51
+`` It would be valuable if we could share that outlook .
+would	2	ps_cue
+could	7	ps_cue
+########
+52
+And get that to be better understood , '' he said .
+########
+53
+<EOP> .
+########
+54
+wanglinyan@chinadailyusa.com <EOP> .
+########

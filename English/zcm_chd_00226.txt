@@ -1,0 +1,56 @@
+Will 3,000 more people speed up the removal of videos showing murder , suicide and other violent acts
+0
+Facebook tries to fix violent video issue with new employees <EOP> .
+########
+1
+2017_05_05 07:28 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+SAN FRANCISCO _ Facebook Inc will hire 3,000 more people over the next year to speed up the removal of videos showing murder , suicide and other violent acts , in its most dramatic move yet to combat the biggest threat to its valuable public image .
+removal	18	CT+	CT+
+will	5	ps_cue
+yet	35	neg_cue
+########
+4
+<EOP> .
+########
+5
+The hiring spree , announced by Chief Executive Mark Zuckerberg on Wednesday , comes after users were shocked by two video posts last month showing killings in Thailand and the United States .
+########
+6
+<EOP> .
+########
+7
+The move is an acknowledgment by Facebook that it needs more than its recent focus on automated software to identify and remove such material .
+remove	21	CT+	CT+
+needs	9	ps_cue
+########
+8
+<EOP> .
+########
+9
+`` Given the importance of this , how quickly live video is growing , we wanted to make sure that we double down on this and make sure that we provide as safe of an experience for the community as we can , '' Zuckerberg told investors after the company 's earnings late on Wednesday .
+wanted	15	ps_cue
+can	41	ps_cue
+########
+10
+<EOP> .
+########
+11
+The problem has become more pressing since the introduction last year of Facebook Live , a service that allows any of Facebook 's 1.9 billion monthly users to broadcast video , which has been marred by some violent scenes .
+########
+12
+<EOP> .
+########
+13
+Some violence on Facebook is inevitable given its size , researchers say , but the company has been attacked , most recently by British lawmakers , for its slow response .
+########
+14
+<EOP> .
+########
+15
+Reuters <EOP> .
+########

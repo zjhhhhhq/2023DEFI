@@ -1,0 +1,139 @@
+Did Global energy consumption grow slowly again in 2016
+0
+China key to slower growth in energy use , carbon emissions <EOP> .
+slower	3	CT+	CT+
+########
+1
+2017_06_16 09:11 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+China played a critical role in the slower growth of global energy demand and consumption as well as the nearly flat growth of carbon emissions in 2016 , according to the latest BP world energy report .
+slower	7	CT+	CT+
+########
+4
+<EOP> .
+########
+5
+The report says that a relentless drive to improve energy efficiency is causing global energy consumption overall to decelerate .
+########
+6
+The energy mix is shifting toward cleaner , lower carbon fuels , driven by environmental needs and technological advances .
+needs	15	ps_cue
+########
+7
+<EOP> .
+########
+8
+Global energy consumption grew slowly again in 2016 _ the third consecutive year in which demand has grown by 1 percent or less _ much weaker than the rates of growth over the previous 10 years or so , according to the report titled <EOP> .
+slowly	4	CT+	CT+
+or	21	ps_cue
+or	36	ps_cue
+########
+9
+2017 BP Statistical Review of World Energy <EOP> .
+########
+10
+.
+########
+11
+<EOP> .
+########
+12
+The weak growth in energy demand , combined with a continuing shift toward lower_carbon fuels , meant global carbon emissions from energy consumption were estimated to have been essentially flat in 2016 for a third consecutive year _ a substantial improvement relative to past trends , the report says .
+weak	1	CT+	CT+
+########
+13
+<EOP> .
+########
+14
+`` From a global level , much of this improvement can be traced back to the pronounced changes in the pace and pattern of economic growth and energy consumption within China , '' BP Group CEO Bob Budley said in the report .
+can	10	ps_cue
+########
+15
+<EOP> .
+########
+16
+Energy consumption in China grew by just 1.3 percent in 2016 .
+########
+17
+Its growth during 2015 and 2016 was the lowest over a two_year period since 1997_98 , according to the report .
+########
+18
+China , however , remained the world 's largest growth market for energy for a 16th consecutive year .
+########
+19
+<EOP> .
+########
+20
+Spencer Dale , BP Group chief economist , praised effective Chinese government policy launched in 2016 to reduce coal production .
+########
+21
+<EOP> .
+########
+22
+`` For those of you interested in the Chinese policy , it 's magnificent , '' he said on Thursday at the Atlantic Council in Washington .
+########
+23
+<EOP> .
+########
+24
+`` It 's really fascinating to think about how it was designed .
+########
+25
+The impact of these measures was really stark , '' Dale said .
+########
+26
+<EOP> .
+########
+27
+China was the key driver of the growth of global renewable energy last year , accounting for more than 40 percent of the growth in renewable power , more than the entire OECD put together .
+########
+28
+China also overtook the US as the largest producer of renewable power .
+########
+29
+<EOP> .
+########
+30
+Dale believes China is the key to understanding the flat growth of global carbon emissions and whether that trend is structural or just temporary .
+whether	16	ps_cue
+or	21	ps_cue
+########
+31
+<EOP> .
+########
+32
+Some structural changes happening in China include slower economic growth , a change in the structure of economic growth away from energy_intensive industrial sectors toward the consumer and service sector , and a shift in the fuel mix away from coal toward more renewable energy , nuclear power and natural gas , according to Dale .
+########
+33
+<EOP> .
+########
+34
+`` Those trends are structural trends and are likely to persist , '' he said .
+likely	8	ps_cue
+########
+35
+<EOP> .
+########
+36
+He also pointed out that the fall of China 's energy demand was also due to the weakness reflected in the iron , steel and cement industries , which together account for a quarter of China 's energy demand .
+weakness	17	neg_cue
+########
+37
+<EOP> .
+########
+38
+Dale , who was executive director for financial stability at the Bank of England before joining BP in 2014 , expressed how much this is going to structural and how much it is going to be temporary adjustment is still hard to tell .
+########
+39
+<EOP> .
+########
+40
+chenweihua@chinadailyusa.com <EOP> .
+########
+41
+<EOP> .
+########

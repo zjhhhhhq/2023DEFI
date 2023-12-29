@@ -1,0 +1,104 @@
+Will the White House confirmed Anthony Scaramucci be leaving his role as White House communications director
+0
+Scaramucci out as White House communications director <EOP> .
+########
+1
+2017_08_01 09:02 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+<EOP> .
+########
+4
+New White house Communications Director Anthony Scaramucci LRB R RRB , flanked by White House Press Secretary Sarah Sanders , blows a kiss to reporters after addressing the daily briefing at the White House in Washington , US July 21 , 2017 .
+########
+5
+LRB Photo_Agencies RRB <EOP> .
+########
+6
+WASHINGTON _ The White House confirmed Anthony Scaramucci will be leaving his role as White House communications director on Monday , after multiple US media reported his removal from the position .
+leaving	10	CT+	CT+
+will	8	ps_cue
+########
+7
+<EOP> .
+########
+8
+The announcement comes shortly after John Kelly , former secretary of homeland security , was sworn in as US President Donald Trump 's new chief of staff , amid a series of White House staff shake_ups .
+########
+9
+<EOP> .
+########
+10
+The White House said Scaramucci felt it was best to give Kelly `` a clean slate '' and the ability to build his own team .
+########
+11
+<EOP> .
+########
+12
+The 53_year_old New York financier was brought onto the West Wing staff by Trump on July 21 .
+########
+13
+<EOP> .
+########
+14
+However , his brief 11_day tenure had been already marked by the departure of former White House Press Secretary Sean Spicer , who resigned to protest against Scaramucci 's arrival , and a public feud the New Yorker had with Reince Priebus , Kelly 's predecessor .
+against	26	neg_cue
+########
+15
+<EOP> .
+########
+16
+Within days of his controversial appointment , Scaramucci started accusing Priebus of leaking damaging information about him to the media , and launched later a vulgar tirade against Priebus and chief White House strategist Steve Bannon .
+against	27	neg_cue
+########
+17
+<EOP> .
+########
+18
+Caught in the feud , Priebus confirmed his resignation after Trump announced Kelly 's appointment on Friday as the former Republican National Committee chair reportedly had already lost Trump 's confidence in his ability to keep the White House in order and push forward the GOP legislative agenda .
+resignation	8	CT+	CT+
+forward	43	ps_cue
+forward	43	neg_cue
+########
+19
+<EOP> .
+########
+20
+But Trump refused to admit a chaotic scene by tweeting `` NO WH chaos ! ''
+refused	2	neg_cue
+########
+21
+, only hours before the announcement of Scaramucci 's removal .
+########
+22
+<EOP> .
+########
+23
+It is not clear whether it was Trump or Kelly who made the decision but White House Press Secretary Sarah Huckabee Sanders said in a press conference Monday afternoon that Trump believes that Scaramucci 's off_color remarks were `` inappropriate . ''
+not	2	neg_cue
+whether	4	ps_cue
+or	8	ps_cue
+########
+24
+<EOP> .
+########
+25
+Sanders said Kelly will have `` full authority to carry out businesses he sees fit '' to bring `` new structure , discipline and strength to the White House , '' adding that Scaramucci `` does not have a role at this time in the Trump administration . ''
+will	3	ps_cue
+not	36	neg_cue
+########
+26
+<EOP> .
+########
+27
+Reports said Kelly , on the very first day he takes helms of the White House , wanted Scaramucci removed from the role as communications director because the retired four_star Marine Corps general did not think Scaramucci was disciplined and had burned his credibility .
+removed	19	CT+	CT+
+wanted	17	ps_cue
+not	34	neg_cue
+########
+28
+<EOP> .
+########

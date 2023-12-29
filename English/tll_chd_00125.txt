@@ -1,0 +1,58 @@
+Does blooming exhibit at London 's Chelsea Flower Show 
+0
+Blooming exhibits at London 's Chelsea Flower Show <EOP> .
+exhibits	1	CT+	CT+
+########
+1
+2017_05_23 16:29 <EOP> .
+########
+2
+null <EOP> .
+########
+3
+<EOP> .
+########
+4
+<EOP> .
+########
+5
+<EOP> .
+########
+6
+Marcel `` Le Corgi '' perches his paws on a display at the Royal Horticultural Society 's Chelsea Flower show in London , Britain , May 22 , 2017 .
+display	10	CT+	CT+
+May	25	ps_cue
+########
+7
+<EOP> .
+########
+8
+LRB Photo_Agencies RRB <EOP> .
+########
+9
+LONDON _ London comes into full bloom this week for the annual Chelsea Flower Show , with floral displays and edgy designs expected to attract thousands of gardening fans .
+displays	18	CT+	CT+
+expected	22	ps_cue
+########
+10
+<EOP> .
+########
+11
+The May 24_28 event , held on the grounds of the Royal Hospital Chelsea , this year also features a display of thousands of crocheted poppies , an acoustic garden as well as a floral arch to mark the 90th birthday of Britain 's Queen Elizabeth .
+May	1	ps_cue
+########
+12
+<EOP> .
+########
+13
+<EOP> .
+########
+14
+<EOP> .
+########
+15
+<EOP> .
+########
+16
+<EOP> .
+########

@@ -1,0 +1,32 @@
+Was another man linked to Manchester attack arrested by police
+0
+Another man linked to Manchester attack arrested by police <EOP> .
+arrested	6	CT+	CT+
+########
+1
+2017_05_29 06:36 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+LONDON __ British police confirmed on Sunday that they have arrested a man in Gorton , Manchester , on suspicion of terrorism offences in connection with the Manchester bombing attack .
+arrested	10	CT+	CT+
+suspicion	19	ps_cue
+########
+4
+<EOP> .
+########
+5
+The 19_year_old man was arrested during searches carried out by officers at addresses in the city , according to a police statement .
+arrested	4	CT+	CT+
+########
+6
+<EOP> .
+########
+7
+15 people in total have been arrested in connection with the investigation , and 13 of them remain in custody for questioning , police said .
+########
+8
+<EOP> .
+########

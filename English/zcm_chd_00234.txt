@@ -1,0 +1,99 @@
+Will Terry Branstad `` positively  influence '' the US_China relationship 
+0
+Trump nominee for China ambassador pledges to ` positively influence ' US_China relationship <EOP> .
+########
+1
+2017_05_03 09:49 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+Iowa Governor Terry Branstad LRB Front RRB testifies before the US Senate Foreign Relations Committee on a hearing considering him to be US Ambassador to China on Capitol Hill in Washington DC , the United States , on May 2 , 2017 .
+May	38	ps_cue
+########
+4
+US President Donald Trump 's pick for Ambassador to China , Terry Branstad , said on Tuesday that if confirmed , he would work to `` positively influence '' the US_China relationship .
+would	22	ps_cue
+########
+5
+LRB Photo_Xinhua RRB <EOP> .
+########
+6
+WASHINGTON _ US President Donald Trump 's pick for Ambassador to China , Terry Branstad , said on Tuesday that if confirmed , he would work to `` positively influence '' the US_China relationship .
+influence	29	CT+	CT+
+would	24	ps_cue
+########
+7
+<EOP> .
+########
+8
+`` As Governor of Iowa , I saw first_hand the importance of a positive and healthy trade relationship between our two countries , '' Branstad said here at his confirmation hearing .
+########
+9
+<EOP> .
+########
+10
+If confirmed , he hoped to work towards the goal of positively influencing the US_China relationship , he added .
+influencing	12	CT+	CT+
+hoped	4	ps_cue
+########
+11
+<EOP> .
+########
+12
+As the governor of a US state whose economy is mainly driven by agriculture industry , Branstad noted that almost one out of every two rows of Iowa soybeans is sent to China , as well as 33.5 million US dollars in pork in 2016 .
+########
+13
+<EOP> .
+########
+14
+However , the importance of trade between the United States and China extends well beyond agriculture , he said .
+########
+15
+<EOP> .
+########
+16
+`` Aviation products , manufactured goods , chemicals , electronics , and many other products and services are exported to China daily and help support and sustain the American economy , '' he told US lawmakers .
+########
+17
+<EOP> .
+########
+18
+Calling US_China relationship `` multi_faceted , '' Branstad also noted that the two countries must work together on major security issues , including the denuclearization on the Korean Peninsula and cybersecurity .
+########
+19
+<EOP> .
+########
+20
+Branstad also said that he looked forward to `` connecting with the Chinese people and continuing a vibrant exchange of culture and ideas . ''
+forward	6	ps_cue
+forward	6	neg_cue
+########
+21
+<EOP> .
+########
+22
+Branstad , 70 , is the longest_serving governor in the United States , who also has long nurtured a close relationship with China and has visited China multiple times .
+########
+23
+<EOP> .
+########
+24
+He served as the governor of Iowa in 1983_1999 , and again since 2011 .
+########
+25
+He was nominated by Trump to be the next US ambassador to China in December 2016 .
+########
+26
+<EOP> .
+########
+27
+<EOP> .
+########
+28
+<EOP> .
+########
+29
+<EOP> .
+########

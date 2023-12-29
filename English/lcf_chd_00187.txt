@@ -1,0 +1,134 @@
+Did any official site claim responsibility
+0
+Barcelona in lockdown as police search for terrorists <EOP> .
+########
+1
+2017_08_18 02:19 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+<EOP> .
+########
+4
+A still image from video shows a police cordon on a street in Barcelona , Spain following a van crash , Aug 17 , 2017 .
+########
+5
+LRB Photo_Agencies RRB <EOP> .
+########
+6
+A manhunt was underway after a van ploughed into Barcelona 's busiest tourist street , Las Ramblas , in what police are calling a terrorist attack .
+########
+7
+<EOP> .
+########
+8
+Catalan police say they have arrested one man linked to the Barcelona van attack but were continuing to search for other suspects .
+########
+9
+<EOP> .
+########
+10
+The van drove for around 500 metres before it came to a stop .
+stop	12	neg_cue
+########
+11
+Police were searching for at least one person .
+########
+12
+<EOP> .
+########
+13
+The police said that 13 people were killed and at least 50 injured , 10 of whom were in a serious condition .
+########
+14
+They also confirmed that it was a terrorist attack .
+########
+15
+<EOP> .
+########
+16
+Hundreds of people were stuck in shops , bars and homes as police searched the area amid conflicting reports of hostages , shoot outs and secondary vehicles .
+########
+17
+<EOP> .
+########
+18
+Las Ramblas is a wide boulevard with a central walkway as well as two pavements at the side of the road .
+########
+19
+It is full of terrace cafes , restaurants and hotels .
+########
+20
+<EOP> .
+########
+21
+A spokesman for the first minister of Barcelona , Artur Mas , tweeted an image of Catalan flag superimposed with a black ribbon and the slogan : `` We are stronger and we will win because our values are stronger and are winners .
+will	33	ps_cue
+########
+22
+Stay strong Barcelona , visca Catalunya ! ''
+########
+23
+<EOP> .
+########
+24
+UK Prime Minister Theresa May , French President Emmanuel Macron and <EOP> .
+May	4	ps_cue
+########
+25
+President of the European Council Donald Tusk <EOP> .
+########
+26
+offered their sympathy and support to the people of Barcelona .
+########
+27
+<EOP> .
+########
+28
+No group has claimed responsibility so far .
+claimed	3	CT-	CT-
+No	0	neg_cue
+########
+29
+Websites connected to ISIS celebrated the Barcelona attack but no official site claimed responsibility .
+claimed	12	CT-	CT-
+no	9	neg_cue
+########
+30
+<EOP> .
+########
+31
+The latest crash follows terrorist attacks with vehicles in France , Germany and the UK .
+########
+32
+<EOP> .
+########
+33
+In London in June , a speeding van hit pedestrians on London Bridge before assailants attacked people in cafes and restaurants in Borough Market , killing 8 people .
+########
+34
+<EOP> .
+########
+35
+In March , a lone attacker ploughed a car into pedestrians on Westminster Bridge in London , killing four and injuring over 50 , before crashing into the fence surrounding the Houses of Parliament and stabbing a police officer to death before being shot and killed by police .
+########
+36
+<EOP> .
+########
+37
+In December , a Tunisian man drove a stolen truck through a crowded Christmas market in Berlin , killing 11 people .
+########
+38
+The terrorist had previously killed the truck driver .
+########
+39
+<EOP> .
+########
+40
+Also last year , in a similar attack in Nice , in the south of France , on July 14 , 2016 , a Tunisian_born French citizen killed 84 people by driving a rented truck into a crowd of revelers celebrating Bastille Day , France 's national day .
+########
+41
+<EOP> .
+########

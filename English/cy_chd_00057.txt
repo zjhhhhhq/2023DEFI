@@ -1,0 +1,107 @@
+Did teacher , boy die in a shooting at North Park Elementary School
+0
+Teacher , boy die when husband opens fire in California class <EOP> .
+########
+1
+2017_04_11 10:09 <EOP> .
+########
+2
+null <EOP> .
+########
+3
+A student who was evacuated after a shooting at North Park Elementary School is embraced after groups of them were reunited with parents waiting at a high school in San Bernardino , California , U.S. April 10 , 2017 .
+shooting	7	CT+	CT+
+########
+4
+LRB Photo_Agencies RRB <EOP> .
+########
+5
+SAN BERNARDINO -- A man walked into his estranged wife 's elementary school classroom in San Bernardino and opened fire without saying a word , killing her and an 8_year_old student before shooting himself in a murder_suicide that spread panic across a city still recovering emotionally from a terror attack just 15 months ago .
+shooting	32	CT+	CT+
+without	20	neg_cue
+########
+6
+<EOP> .
+########
+7
+A 9_year_old student also was critically wounded .
+########
+8
+He and the boy who died were behind their special_education teacher , Karen Elaine Smith , 53 , the target of the man she had married months earlier , police said .
+########
+9
+<EOP> .
+########
+10
+The shooting left hundreds of distraught parents waiting for hours to reunite with their children .
+shooting	1	CT+	CT+
+########
+11
+<EOP> .
+########
+12
+Staffers knew Cedric Anderson , who had been estranged from his wife for about a month , and he got into the school by saying he had to drop something off for Smith , officials said .
+########
+13
+<EOP> .
+########
+14
+`` No one has come forward to say they saw this coming , '' police Chief Jarrod Burguan told reporters .
+No	1	neg_cue
+forward	5	ps_cue
+forward	5	neg_cue
+########
+15
+<EOP> .
+########
+16
+Anderson had a history of weapons , domestic violence and possible drug charges that predated the short marriage , authorities said .
+possible	10	ps_cue
+########
+17
+<EOP> .
+########
+18
+He frequently wrote social media posts about his wife over the past month .
+########
+19
+On what appeared to be his Facebook page , Anderson said he `` loved being married to Karen Smith_Anderson ! ''
+appeared	2	ps_cue
+########
+20
+and posted a photo of the two of them on March 4 in what he described as a date night .
+########
+21
+He posted several photos of his wedding to Smith early this year and their honeymoon in Sedona , Arizona .
+########
+22
+<EOP> .
+########
+23
+Smith 's mother , Irma Sykes , said her daughter had been friends with Anderson for about four years before they got married , but separated from him after about a month because she saw `` the real Cedric . ''
+########
+24
+She did not elaborate .
+not	2	neg_cue
+########
+25
+Sykes told the Los Angeles Times her daughter was a mother of four who had been a teacher for 10 years .
+########
+26
+<EOP> .
+########
+27
+Fifteen students ranging from first to fourth grade were in the special_education classroom at North Park Elementary School , along with two adult aides and Smith , when Anderson emptied a large_caliber revolver and reloaded .
+########
+28
+Then , he turned the gun on himself .
+########
+29
+<EOP> .
+########
+30
+Marissa Perez , age 9 , was in the classroom hiding under a table .
+########
+31
+<EOP> .
+########

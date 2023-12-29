@@ -1,0 +1,132 @@
+Does Yeti evidence come from bears , dog
+0
+Abominable news : Yeti evidence came from bears , dog <EOP> .
+Yeti	3	CT+	CT+
+########
+1
+2017_12_02 06:54 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+<EOP> .
+########
+4
+A tour bus driver watches as an actor dressed as a ` Yeti ' walks on his bus during a promotional event for Travel Channel 's `` Expedition Unknown : Hunt for the Yeti '' in Manhattan , New York City , US , October 4 , 2016 .
+Yeti	12	CT+	CT+
+Yeti	33	CT+	CT+
+########
+5
+LRB Photo_Agencies RRB <EOP> .
+########
+6
+WASHINGTON _ For fans of the yeti , newly published genetic research on purported specimens of the legendary apelike beast said to dwell in the Himalayan region might be too much to bear _ literally .
+yeti	6	CT+	CT+
+might	27	ps_cue
+########
+7
+<EOP> .
+########
+8
+Scientists have said that genetic analysis of nine bone , tooth , skin , hair and fecal samples from museum and private collections attributed to the yeti , also called the Abominable Snowman , found that eight came from Asian black bears , Himalayan brown bears or Tibetan brown bears .
+yeti	26	CT+	CT+
+or	46	ps_cue
+########
+9
+One came from a dog .
+########
+10
+<EOP> .
+########
+11
+`` This strongly suggests that the yeti legend has a root in biological facts and that is has to do with bears that are living in the region today , '' said biologist Charlotte Lindqvist of the University at Buffalo in New York and Nanyang Technological University , Singapore , who led the study published in the scientific journal Proceedings of the Royal Society B. <EOP> .
+yeti	6	CT+	CT+
+suggests	3	ps_cue
+########
+12
+Lindqvist called the study the most rigorous analysis to date of purported yeti specimens .
+yeti	12	CT+	CT+
+########
+13
+<EOP> .
+########
+14
+The researchers sequenced mitochondrial DNA , genetic material in structures within cells passed down from mothers , of purported yeti samples from China 's Tibet autonomous region , India and Nepal as well as from black , brown and polar bear populations .
+yeti	19	CT+	CT+
+########
+15
+<EOP> .
+########
+16
+The yeti is a creature of folklore in the Himalayan region that has become a part of Western popular culture .
+yeti	1	CT+	CT+
+########
+17
+It is separate from North America 's Sasquatch folklore .
+########
+18
+<EOP> .
+########
+19
+`` I initially became involved in this study when I was contacted about a previous study that found two purported yeti samples to match genetically with an ancient , 120,000 _ year_old polar bear that I was doing research on , '' Lindqvist said .
+########
+20
+<EOP> .
+########
+21
+`` But the data was very limited , and it made me suspicious about the speculation that the yeti legend represented some strange , hybrid bear roaming the Himalaya Mountains .
+yeti	18	CT+	CT+
+suspicious	12	ps_cue
+speculation	15	ps_cue
+########
+22
+<EOP> .
+########
+23
+`` So , I agreed to follow up on this study with a more rigorous approach based on more genetic data from more purported yeti samples . ''
+yeti	24	CT+	CT+
+########
+24
+<EOP> .
+########
+25
+Lindqvist said purported yeti samples came from several places , including the Messner Mountain Museum in Italy , and were gathered by British independent television production company Icon Films .
+yeti	3	CT+	CT+
+########
+26
+<EOP> .
+########
+27
+While no actual yeti was identified , the DNA research shed light on bear populations in the region .
+yeti	3	CT-	CT+
+no	1	neg_cue
+########
+28
+<EOP> .
+########
+29
+The brown bears roaming the high altitudes of the Tibetan Plateau and those in the western Himalayan mountains appear to belong to two separate populations separated from each other for thousands of years , despite their relative geographic proximity , Lindqvist said .
+appear	18	ps_cue
+########
+30
+<EOP> .
+########
+31
+Reuters _ Afp <EOP> .
+########
+32
+<EOP> .
+########
+33
+<EOP> .
+########
+34
+<EOP> .
+########
+35
+<EOP> .
+########
+36
+<EOP> .
+########

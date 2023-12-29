@@ -1,0 +1,70 @@
+Does China provide 8,750 tons of food through bilateral channels
+0
+China to provide S Sudan with financial , food aid amid famine : envoy <EOP> .
+########
+1
+2017_04_26 13:53 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+Given the severity of famine facing South Sudan , China has also decided to provide 8,750 tons of food through bilateral channels to assist the country , said Wu Haitao , China 's deputy permanent representative to the UN at a Security Council meeting .
+provide	14	CT+	CT+
+########
+4
+<EOP> .
+########
+5
+Since July last year , the security , economic and humanitarian situation has worsened markedly and no part of the country is immune from conflict , David Shearer , special representative of UN Secretary_General in South Sudan briefed the council earlier .
+no	16	neg_cue
+########
+6
+<EOP> .
+########
+7
+After hearing Shearer 's briefing , Wu said that `` the political settlement is the only way out for the issue of South Sudan . ''
+########
+8
+<EOP> .
+########
+9
+He called on the international community to contribute to efforts for all parties in South Sudan to abandon military means , cease hostilities and immediately get back to the track of political settlement .
+########
+10
+<EOP> .
+########
+11
+Wu also said `` it is important for the Security Council to send out more positive and enthusiastic messages . ''
+########
+12
+<EOP> .
+########
+13
+He said the council must encourage all parties in South Sudan to actively engage in the dialogue process to stay committed to peace , stability , and development .
+########
+14
+<EOP> .
+########
+15
+`` The international community must provide timely and effective assistance , to assist South Sudanese people to overcome their current difficulties , '' he added .
+provide	5	CT+	CT+
+########
+16
+<EOP> .
+########
+17
+South Sudan has been shattered by a civil war that broke out in December 2013 .
+########
+18
+A peace deal signed in August 2015 led to the formation of a transitional unity government in April but was again devastated by fresh violence in July 2016 .
+########
+19
+<EOP> .
+########
+20
+Tens of thousands of South Sudanese have been killed , with more than 2 million displaced and another 4.6 million left severely food insecure since December 2013 .
+########
+21
+<EOP> .
+########

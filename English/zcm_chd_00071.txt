@@ -1,0 +1,169 @@
+Will Argentina 's commerce and relations with China further benefit from the growing Chinese domestic market
+0
+Envoy : China 's growth helps Argentina <EOP> .
+helps	5	ps_cue
+########
+1
+2017_09_07 09:04 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+<EOP> .
+########
+4
+Argentina expects its commerce and relations with China to further benefit from the growing Chinese domestic market as well as the nation 's increasing role on the global stage , Buenos Aires ' top envoy to Beijing said .
+benefit	10	PS+	CT+
+expects	1	ps_cue
+########
+5
+<EOP> .
+########
+6
+`` I really think that in the last 30 years , the process of opening and reform in China has no comparison with any other process in world history , '' Diego Ramiro Guelar , Argentina 's ambassador to China , told China Daily .
+no	20	neg_cue
+########
+7
+<EOP> .
+########
+8
+Guelar said he is interested in how the country 's leadership will consolidate the domestic market at the 19th National Congress of the Communist Party of China in October .
+will	11	ps_cue
+########
+9
+<EOP> .
+########
+10
+`` Many people , inside and outside China , are not aware that imports are growing twice as fast as exports ... because the huge middle class demands more products from overseas , '' he said .
+not	10	neg_cue
+########
+11
+That , he added , is very good for countries like Argentina that are increasing exports .
+good	7	CT+	CT+
+like	10	ps_cue
+########
+12
+<EOP> .
+########
+13
+In the first six months of this year , two_way trade between China and Argentina reached $ 5.25 billion , with Argentina 's exports to China , mainly soy products , crude oil and leather , accounting for $ 1.37 billion .
+########
+14
+<EOP> .
+########
+15
+<EOP> .
+########
+16
+<EOP> .
+########
+17
+This year marks the 45th anniversary of the establishment of diplomatic relations between China and Argentina .
+########
+18
+But trade between the countries started much earlier .
+########
+19
+<EOP> .
+########
+20
+China imported large amounts of wheat from Argentina in the 1960s .
+########
+21
+`` That was the beginning of our relationship , '' Guelar said .
+########
+22
+<EOP> .
+########
+23
+It was announced late last month that China will further open the beef market and reopen its soy oil market to Argentina , a major producer of agricultural products , he added .
+will	8	ps_cue
+########
+24
+<EOP> .
+########
+25
+Argentina is renewing the country 's railroad network `` basically through cooperation with China '' .
+########
+26
+<EOP> .
+########
+27
+Guelar said he will concentrate on further boosting the relationship , especially in terms of cultural exchanges and tourism , during the two years that he has left at his post in China .
+will	3	ps_cue
+########
+28
+<EOP> .
+########
+29
+He hopes more than 100,000 Chinese people will visit Argentina in the next couple of years .
+hopes	1	ps_cue
+will	7	ps_cue
+########
+30
+<EOP> .
+########
+31
+Progress , peace and win_win relations are the three words Guelar used to summarize China 's current situation .
+########
+32
+<EOP> .
+########
+33
+`` The well_being of China is not at the expense of the development of third countries or partners in any way , '' he said .
+not	6	neg_cue
+or	16	ps_cue
+########
+34
+`` This is original .
+########
+35
+It 's never happened in world history , and is very positive for all the members of the planet . ''
+never	2	neg_cue
+########
+36
+<EOP> .
+########
+37
+He also said Argentina agreed with China that the nuclear issue on the Korean Peninsula should be solved through peaceful negotiations and not through conflict .
+should	15	ps_cue
+not	22	neg_cue
+########
+38
+<EOP> .
+########
+39
+`` China is the first superpower in the world that has peaceful proposals . ''
+########
+40
+<EOP> .
+########
+41
+According to Guelar , China 's presidency of the G20 in 2016 , the Belt and Road Forum in May and the BRICS Summit in Xiamen `` are all different aspects of this new role of China as a world leader '' .
+May	19	ps_cue
+########
+42
+<EOP> .
+########
+43
+`` What China has achieved , especially during the last five years , is extraordinarily positive , '' he added .
+########
+44
+<EOP> .
+########
+45
+Zhou Jin contributed to the story .
+########
+46
+<EOP> .
+########
+47
+mojingxi@chinadaily.com.cn <EOP> .
+########
+48
+<EOP> .
+########
+49
+LRB China Daily 09_07_2017 page3 RRB <EOP> .
+########

@@ -1,0 +1,198 @@
+Did the talks to form a new government collapse 
+0
+Uncertain future for Germany <EOP> .
+########
+1
+2017_11_21 11:28 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+<EOP> .
+########
+4
+Merkel seeks to reassure voters after failed talks threaten 4th term <EOP> .
+talks	7	CT-	CT-
+failed	6	neg_cue
+seeks	1	ps_cue
+########
+5
+BERLIN _ German Chancellor Angela Merkel was left battling for political survival on Monday after high_stakes talks to form a new government collapsed , plunging the country into a crisis that could trigger fresh elections .
+talks	16	CT+	CT-
+could	31	ps_cue
+########
+6
+<EOP> .
+########
+7
+Europe 's biggest economy now faces weeks , if not months , of paralysis with a lame_duck government that is unlikely to take bold policy action .
+not	9	neg_cue
+unlikely	20	ps_cue
+unlikely	20	neg_cue
+########
+8
+<EOP> .
+########
+9
+And with no other viable coalition in sight , Germany may be forced to hold new elections that risk being as inconclusive as September 's polls .
+no	2	neg_cue
+may	10	ps_cue
+########
+10
+<EOP> .
+########
+11
+Merkel had been forced to seek an alliance with an unlikely group of parties after the ballot left her without a majority .
+unlikely	10	ps_cue
+unlikely	10	neg_cue
+without	19	neg_cue
+########
+12
+<EOP> .
+########
+13
+But following more than a month of grueling negotiations , the leader of the pro_business FDP , Christian Lindner , walked out of talks , saying there was no `` basis of trust '' to forge a government with Merkel 's conservative alliance CDU_CSU and ecologist Greens .
+talks	23	CT+	CT-
+no	28	neg_cue
+########
+14
+<EOP> .
+########
+15
+`` It is better not to govern than to govern badly , '' he said , adding that the parties did not share `` a common vision on modernizing '' Germany .
+not	4	neg_cue
+not	21	neg_cue
+########
+16
+<EOP> .
+########
+17
+Voicing regret for the FDP 's decision , Merkel vowed to steer Germany through the crisis .
+########
+18
+<EOP> .
+########
+19
+`` As chancellor , ... I will do everything to ensure that this country comes out well through this difficult time , '' she said .
+will	6	ps_cue
+########
+20
+<EOP> .
+########
+21
+The Greens ' leaders also deplored the collapse of talks , saying they had believed a deal could be done despite the differences .
+talks	9	CT+	CT-
+believed	14	ps_cue
+could	17	ps_cue
+########
+22
+<EOP> .
+########
+23
+The euro fell following the news , although analysts said the longer_term implications for the currency were not yet clear .
+not	17	neg_cue
+yet	18	neg_cue
+########
+24
+<EOP> .
+########
+25
+` Failure in the air ' <EOP> .
+########
+26
+The negotiations , which turned increasingly acrimonious , had stumbled on a series of issues including immigration policy .
+########
+27
+<EOP> .
+########
+28
+Merkel 's liberal refugee policy that let in more than a million asylum_seekers since 2015 had also pushed some voters to the far_right AfD , which in September campaigned on an anti_immigration platform .
+########
+29
+<EOP> .
+########
+30
+The parties also differed on environmental issues , with the ecologists wanting to phase out dirty coal and combustion_engine cars , while the conservatives and FDP emphasized the need to protect industry and jobs .
+need	28	ps_cue
+########
+31
+<EOP> .
+########
+32
+Party chiefs had initially set a deadline of 6 pm on Sunday , but that passed without a breakthrough _ after already missing a previous target on Thursday .
+without	16	neg_cue
+missing	22	neg_cue
+########
+33
+<EOP> .
+########
+34
+But signs that talks were going badly began emerging and the Bild daily newspaper said on its website that `` failure is in the air '' as the parties dug in their heels on key sticking points .
+talks	3	CT+	CT-
+failure	20	neg_cue
+########
+35
+<EOP> .
+########
+36
+Chancellor in danger <EOP> .
+########
+37
+Merkel could now try to convince the Social Democratic Party , which has been the junior coalition partner in her government since 2013 , to return to the fold .
+could	1	ps_cue
+########
+38
+<EOP> .
+########
+39
+But after suffering a humiliating loss at the polls , the party 's top brass has repeatedly said the SDP 's place was now in the opposition .
+loss	5	neg_cue
+opposition	26	neg_cue
+########
+40
+<EOP> .
+########
+41
+Merkel , who has been in power for 12 years , could also lead a minority government although she had signaled that she was not in favor of such instability .
+could	11	ps_cue
+not	24	neg_cue
+########
+42
+<EOP> .
+########
+43
+Germany could therefore likely be forced to hold new elections .
+could	1	ps_cue
+likely	3	ps_cue
+########
+44
+<EOP> .
+########
+45
+But that is not without peril for Merkel , who would face questions from within her party on whether she is still the best candidate to lead them into a new electoral campaign .
+not	3	neg_cue
+without	4	neg_cue
+would	10	ps_cue
+whether	18	ps_cue
+########
+46
+<EOP> .
+########
+47
+Bild said on Sunday that a failure to forge a tie_up _ dubbed a `` Jamaica coalition '' because the parties ' colors match those of the Jamaican flag _ puts `` her chancellorship in danger '' .
+failure	6	neg_cue
+########
+48
+<EOP> .
+########
+49
+A poll by Welt online also found that 61.4 percent of people surveyed said a collapse of talks would mean an end to Merkel as chancellor .
+would	18	ps_cue
+########
+50
+Only 31.5 percent thought otherwise .
+########
+51
+<EOP> .
+########

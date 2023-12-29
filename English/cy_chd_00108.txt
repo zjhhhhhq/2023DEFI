@@ -1,0 +1,73 @@
+Did a typhoon batter the Philippines with floods and landslides
+0
+Vietnam braces for typhoon as Philippine toll rises to 230 dead <EOP> .
+########
+1
+2017_12_25 14:30 <EOP> .
+########
+2
+null <EOP> .
+########
+3
+HANOI_MANILA _ Authorities in Vietnam prepared to move a million people from low_lying areas along the south coast on Monday as a typhoon approached after it battered the Philippines with floods and landslides that killed more than 230 people .
+battered	26	CT+	CT+
+########
+4
+<EOP> .
+########
+5
+Typhoon Tembin is expected to slam into Vietnam late on Monday after bringing misery to the Philippines just before Christmas .
+expected	3	ps_cue
+########
+6
+<EOP> .
+########
+7
+Vietnam 's disaster prevention committee said 74,000 people had been moved to safety from vulnerable areas , while authorities in 15 provinces and cities were prepared to move more than 1 million .
+########
+8
+<EOP> .
+########
+9
+The government ordered that oil rigs and vessels be protected and it warned that about 62,000 fishing boats should not venture out to sea .
+should	18	ps_cue
+not	19	neg_cue
+########
+10
+<EOP> .
+########
+11
+`` Vietnam must ensure the safety of its oil rigs and vessels .
+########
+12
+If necessary , close the oil rigs and evacuate workers , '' Prime Minister Nguyen Xuan Phuc was quoted as saying on a government website .
+########
+13
+<EOP> .
+########
+14
+Schools were ordered to close in the southern commercial hub of Ho Chi Minh City on Monday , a working day in Vietnam .
+########
+15
+<EOP> .
+########
+16
+Vietnam , like the Philippines , is regularly battered by typhoons that form over the warm waters of the Pacific and barrel westwards into land .
+battered	8	CT+	CT+
+like	2	ps_cue
+########
+17
+<EOP> .
+########
+18
+Tembin will be the 16th major storm to hit Vietnam this year .
+will	1	ps_cue
+########
+19
+The storms and other disasters have left 390 people dead or missing , according to official figures .
+or	10	ps_cue
+missing	11	neg_cue
+########
+20
+<EOP> .
+########

@@ -1,0 +1,110 @@
+Does Xi send condolences over storm
+0
+Xi sends condolences over storm <EOP> .
+condolences	2	CT+	CT+
+########
+1
+2017_12_27 09:22 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+President Xi Jinping has extended condolences to his Philippine counterpart Rodrigo Duterte after a severe tropical storm ravaged the southern Philippines , Foreign Ministry spokeswoman Hua Chunying said on Tuesday .
+condolences	5	CT+	CT+
+########
+4
+<EOP> .
+########
+5
+`` China is willing to provide all the assistance we can for the Philippines ' disaster relief work , and we believe that people in the storm_hit areas can overcome difficulties and rebuild their hometown under the leadership of the Philippine government , '' Hua said in Beijing .
+willing	3	ps_cue
+can	10	ps_cue
+can	28	ps_cue
+########
+6
+<EOP> .
+########
+7
+Tropical Storm Tembin started lashing parts of the island of Mindanao on Friday , triggering massive floods and mudslides in the region which left more than 160 people dead .
+########
+8
+<EOP> .
+########
+9
+On Tuesday , the powerful storm was downgraded to a tropical depression and failed to make landfall in Vietnam .
+failed	13	neg_cue
+########
+10
+<EOP> .
+########
+11
+Hundreds of thousands of people in Vietnam 's Mekong Delta had been evacuated as the region braced for the arrival of Tembin .
+########
+12
+<EOP> .
+########
+13
+Weather forecasters had expected the delta 's southern tip to be in Tembin 's path , and said heavy rain and strong winds starting on Monday night could cause serious damage in the vulnerable region , where facilities are not built to cope with such severe weather .
+expected	3	ps_cue
+could	27	ps_cue
+not	39	neg_cue
+########
+14
+<EOP> .
+########
+15
+By Tuesday morning , the storm was downgraded and forecasters said it would not make landfall .
+would	12	ps_cue
+not	13	neg_cue
+########
+16
+<EOP> .
+########
+17
+The storm was expected to dissipate over the Gulf of Thailand later .
+expected	3	ps_cue
+########
+18
+<EOP> .
+########
+19
+Over the weekend , Tembin unleashed landslides and flash floods that killed at least 164 people and left 171 others missing in the Philippines , according to Romina Marasigan of the government 's main disaster_response agency .
+missing	20	neg_cue
+########
+20
+<EOP> .
+########
+21
+Initial reports from officials in different provinces placed the overall death toll at more than 230 , but Marasigan warned of double counting amid the confusion in the storm 's aftermath and said the numbers needed to be verified .
+########
+22
+<EOP> .
+########
+23
+More than 97,000 people remained in 261 evacuation centers across the southern Philippines on Monday , while nearly 85,000 others were displaced and staying elsewhere , the National Disaster Risk Reduction and Management Council said .
+########
+24
+<EOP> .
+########
+25
+The hardest_hit areas were Lanao del Norte and Lanao del Sur provinces and the Zamboanga Peninsula .
+########
+26
+Tembin hit the Philippines as a tropical storm but strengthened into a typhoon before blowing out of the country on Sunday into the South China Sea toward Vietnam .
+########
+27
+<EOP> .
+########
+28
+Tembin was among a series of disasters to hit the predominantly Roman Catholic Philippines at the peak of Christmas preparations .
+########
+29
+<EOP> .
+########
+30
+AP and Xinhua contributed to this story .
+########
+31
+<EOP> .
+########

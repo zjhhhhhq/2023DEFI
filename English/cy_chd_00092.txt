@@ -1,0 +1,92 @@
+Does president aim to boost Japan ties
+0
+Through parties , president aims to boost Japan ties <EOP> .
+boost	6	CT+	CT+
+########
+1
+2017_12_29 09:13 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+President Xi Jinping has urged Beijing and Tokyo to boost exchanges among their ruling parties , deepen communication and cooperation and play a leading role in improving ties .
+boost	9	CT+	CT+
+########
+4
+<EOP> .
+########
+5
+Xi , also general secretary of the Communist Party of China Central Committee , called for the exchanges while meeting on Thursday in Beijing with visiting senior members of Japan 's ruling coalition , formed by the Liberal Democratic Party and its junior partner Komeito party .
+########
+6
+<EOP> .
+########
+7
+Toshihiro Nikai , secretary_general of the Liberal Democrats , and Yoshihisa Inoue , secretary_general of Komeito , led the Japanese delegation .
+########
+8
+<EOP> .
+########
+9
+They were in China attending the seventh meeting of the China_Japan ruling parties exchange in Fujian province on Monday and Tuesday .
+########
+10
+<EOP> .
+########
+11
+The meeting was established in 2006 .
+########
+12
+Xi spoke highly of its role in promoting ties .
+########
+13
+<EOP> .
+########
+14
+Xi also praised the two visiting secretary generals ' long_term dedication to boosting exchanges among ruling parties of the two countries .
+boosting	12	CT+	CT+
+########
+15
+<EOP> .
+########
+16
+Nikai and Inoue voiced the Japanese ruling parties ' readiness to reinforce cooperation with the CPC and make greater contributions to advancing China_Japan ties .
+########
+17
+<EOP> .
+########
+18
+Song Tao , head of the International Department of the CPC Central Committee , said the meeting on Thursday in Beijing shows the great importance Xi has attached to China_Japan ties as well as to exchanges among the ruling parties .
+########
+19
+<EOP> .
+########
+20
+The recent seventh meeting of the China_Japan exchange mechanism was the largest of its kind and yielded fruitful outcomes , said Song , the CPC 's senior official in charge of party_to_party exchanges .
+########
+21
+It fully tapped the ruling parties ' role in offering political navigation , Song said .
+########
+22
+<EOP> .
+########
+23
+According to Song , the ruling parties ' meeting made in_depth exchanges of views on topics such as safeguarding the political basis for the bilateral ties , properly managing and controlling differences , improving pragmatic cooperation as well as advancing cooperation regarding the Belt and Road Initiative .
+########
+24
+<EOP> .
+########
+25
+Song said Japan 's ruling parties are encouraged to work with China to consistently strengthen political mutual trust , expand exchanges and cooperation and translate consensus reached by leaders of the two countries into actions to ensure a steady improvement in the relationship , Song added .
+encouraged	7	ps_cue
+########
+26
+<EOP> .
+########
+27
+zhangyunbi@chinadaily.com.cn <EOP> .
+########
+28
+<EOP> .
+########

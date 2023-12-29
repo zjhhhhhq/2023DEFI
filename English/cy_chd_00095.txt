@@ -1,0 +1,105 @@
+Does Xi have the vision for a responsible country
+0
+Yearender : Xi 's vision for a responsible country <EOP> .
+responsible	7	CT+	CT+
+########
+1
+2017_12_29 17:24 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+BEIJING __ The largest carbon market across the globe opened this week in China , the latest in a series of concrete measures the world 's largest developing country has launched in the battle against climate change .
+against	34	neg_cue
+########
+4
+<EOP> .
+########
+5
+The new program epitomizes China 's strong sense of responsibility as a major country in the world , and embodies the philosophy Chinese President Xi Jinping articulated at the beginning of the year in the snow_capped Alpine town of Davos , Switzerland .
+responsibility	9	CT+	CT+
+########
+6
+<EOP> .
+########
+7
+In his landmark keynote speech at the World Economic Forum LRB WEF RRB , Xi shared his vision on how to steer the world economy out of difficulty through concerted effort and urged members of the international community to take on the responsibility of the times .
+responsibility	42	CT+	CT+
+########
+8
+<EOP> .
+########
+9
+Xi 's inspiring words , as WEF Chairman Klaus Schwab said , have brought `` sunshine '' at a time of uncertainty and volatility .
+########
+10
+<EOP> .
+########
+11
+RESPONSIBILITY CRISIS <EOP> .
+########
+12
+History does not lack crucial moments that call for responsible action from the world 's major countries .
+not	2	neg_cue
+lack	3	neg_cue
+########
+13
+<EOP> .
+########
+14
+In the political sense , the modern world was shaped by Western powers through centuries of brutal and destructive wars as well as struggles for hegemony .
+########
+15
+Oftentimes , they would pursue their selfish interests in the guise of the `` general good . ''
+would	3	ps_cue
+########
+16
+<EOP> .
+########
+17
+Edward Hallett Carr , a British political scientist and historian , wrote in his classic book on international relations , `` The Twenty Years ' Crisis , '' that `` this kind of hypocrisy is a special and characteristic peculiarity of the Anglo_Saxon mind . ''
+########
+18
+<EOP> .
+########
+19
+A telling example in recent history is the Iraq War .
+########
+20
+To guarantee its strategic presence in the region , the United States went to war in Iraq based on just one piece of fabricated intelligence and a false promise to liberate the country from tyranny .
+########
+21
+<EOP> .
+########
+22
+Today , 14 years after the start of the war , Iraq still suffers crises on multiple fronts , and the peace prospects in the wider Middle East could not be darker .
+could	28	ps_cue
+not	29	neg_cue
+########
+23
+<EOP> .
+########
+24
+The past year has also witnessed how a `` go_it_alone '' superpower can haunt the rest of the international community .
+can	12	ps_cue
+########
+25
+In less than a year in office , US President Donald Trump has cut Washington loose from one key international treaty after another .
+########
+26
+<EOP> .
+########
+27
+Chanting the `` America First '' slogan , he has accused many __ if not all __ of his country 's trading partners of taking advantage of the United States , and threatened to renegotiate for what he calls `` fairer '' deals .
+not	14	neg_cue
+########
+28
+<EOP> .
+########
+29
+Such a doctrine of unilateralism has given rise to widespread worries at a time when multilateralism is needed to accommodate the deeply intertwined interests of all nations .
+########
+30
+<EOP> .
+########

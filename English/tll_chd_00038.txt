@@ -1,0 +1,125 @@
+Does Chinese envoy urge UK 's young business leaders to boost Belt and Road
+0
+Chinese envoy urges UK 's young business leaders to boost Belt and Road <EOP> .
+urges	2	CT+	CT+
+########
+1
+2017_06_05 17:07 <EOP> .
+########
+2
+China Daily UK <EOP> .
+########
+3
+Liu Xiaoming , China 's ambassador to the United Kingdom , is urging Britain 's young business leaders to become champions of the Belt and Road Initiative .
+urging	12	CT+	CT+
+########
+4
+<EOP> .
+########
+5
+Speaking at the Young Icebreakers Ninth Anniversary dinner in London on Friday , Liu said the Belt and Road Initiative was an `` international consensus '' and `` a new platform and a new highlight of China_UK cooperation '' .
+########
+6
+<EOP> .
+########
+7
+He noted that `` the significance of the initiative is sometimes not fully understood '' in Britain and explained that he has regularly written articles and given speeches on the subject in a bid to answer questions and clear up misunderstandings .
+not	11	neg_cue
+########
+8
+<EOP> .
+########
+9
+`` I want the British public to understand the Belt and Road Initiative , and join in to support this initiative , '' said the ambassador .
+########
+10
+<EOP> .
+########
+11
+Liu said he hoped his speech would encourage the largely young British_Chinese entrepreneurs and executives who are members of the Young Icebreakers to join him in spreading the word about the Belt and Road Initiative .
+encourage	7	PS+	CT+
+hoped	3	ps_cue
+would	6	ps_cue
+########
+12
+<EOP> .
+########
+13
+`` In building the Belt and Road , '' he said .
+########
+14
+`` The UK and China have every reason to join hands .
+########
+15
+The UK has experience , knowledge and creativity .
+########
+16
+China has a unique growth model , technology and market capability .
+########
+17
+This would be the East meeting the West in a perfect match of our respective strengths . ''
+would	1	ps_cue
+########
+18
+<EOP> .
+########
+19
+Liu also highlighted the achievements made at the Belt and Road Forum for International Cooperation , which was held in Beijing last month and which attracted a huge turnout of world leaders .
+########
+20
+<EOP> .
+########
+21
+`` I want to use the acronym of the Belt and Road Forum_BRF － to describe the progress : B for blueprint , R for resonance , and F for fruit , '' he said .
+########
+22
+`` First , the Belt and Road Forum drew a blueprint for cooperation .
+########
+23
+It was a forward_looking summit .
+########
+24
+Second , the Belt and Road Forum created resonance among participants .
+########
+25
+It was a consensus_building summit . ''
+########
+26
+<EOP> .
+########
+27
+And thirdly , Li added , the forum in Beijing was a summit with fruitful outcomes that all could share .
+could	18	ps_cue
+########
+28
+<EOP> .
+########
+29
+Many business leaders at the annual diner shared Liu 's vision for developing UK_China relations .
+########
+30
+<EOP> .
+########
+31
+Gerry Grimstone , chairman of Standard Life and deputy chairman of Barclays , said : `` Belt and Road is a great gift from China to the world because , when the initiative is successful , it will open up trade opportunities right across the world and Britain would surely benefit from that . ''
+will	37	ps_cue
+opportunities	41	ps_cue
+would	48	ps_cue
+########
+32
+<EOP> .
+########
+33
+David Stringer_Lamarre , managing director of Fortis Consulting London , highlighted the strengths and relationships between China and the UK that will allow `` proper discourse '' , so all parties can be part of a win_win relationship .
+will	21	ps_cue
+can	31	ps_cue
+########
+34
+<EOP> .
+########
+35
+The Young Icebreakers is a network of young British and Chinese business figures that aims to boost ties between China and the UK , to share ideas , and boost awareness .
+########
+36
+<EOP> .
+########

@@ -1,0 +1,101 @@
+Does Cuba end week of Castro events 
+0
+Cuba ends week of Castro events <EOP> .
+Cuba	0	CT+	CT+
+########
+1
+2017_11_27 09:42 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+HAVANA _ Cuba marked the first anniversary of the death of revolutionary leader Fidel Castro on Saturday , with political and cultural events , as part of the weeklong commemoration across the Caribbean island country he led for 48 years .
+Cuba	2	CT+	CT+
+########
+4
+<EOP> .
+########
+5
+At the University of Havana , where Fidel Castro `` became revolutionary '' , according to his own words , thousands of people attended a public gathering chaired by the First Vice President Miguel Diaz_Canel and Jose Machado , second secretary of the Communist Party of Cuba .
+Cuba	46	CT+	CT+
+########
+6
+<EOP> .
+########
+7
+The speakers and attendees recalled with songs and poems the exemplary life and work of the man who defied the dictatorship of former strongman Fulgencio Batista and later the enmity of 10 United States administrations .
+########
+8
+<EOP> .
+########
+9
+`` Where is Fidel ? ''
+########
+10
+yelled the speakers , before being replied `` Here ! ''
+########
+11
+by the crowd carrying portraits of Fidel and the legendary Argentine_Cuban commander Ernesto `` Che '' Guevara , among other historic revolutionary fighters and the national flag .
+########
+12
+<EOP> .
+########
+13
+The songs and speeches were accompanied by videos and photos on big screens showing relevant moments of Castro 's life linked to the history of the socialist revolution he initiated and led for almost half a century .
+########
+14
+<EOP> .
+########
+15
+`` I came to pay my tribute to the unforgettable leader who guided us to achieve independence and sovereignty .
+########
+16
+I am too young and I did not live the previous decades when he kept active in the country , but I have learned from my parents a lot about his life , '' said Dalila Nunez , a 19_year_old student at the Sports University .
+not	7	neg_cue
+########
+17
+<EOP> .
+########
+18
+Since the victory of the revolution and throughout the past five decades , Castro promoted and led the struggle for the consolidation of the revolutionary process in the Caribbean nation and its progress toward building a socialist society with its own characteristics .
+########
+19
+<EOP> .
+########
+20
+`` Fidel marked my life and the lives of millions of Cubans , '' said Roberto Fernandez , a retiree from the armed forces .
+########
+21
+<EOP> .
+########
+22
+`` It is impossible to narrate the history of Cuba and the world in the second half of the 20th century without mentioning him .
+Cuba	9	PS-	CT+
+impossible	3	ps_cue
+impossible	3	neg_cue
+without	21	neg_cue
+########
+23
+Undoubtedly , he was one of the most significant figures in the last century , with his influences going far beyond Cuba . ''
+Cuba	21	CT+	CT+
+########
+24
+<EOP> .
+########
+25
+A series of political and cultural events in honor of the first anniversary of Castro 's death have been held since the beginning of this week in the country 's main cities .
+########
+26
+<EOP> .
+########
+27
+On Sunday , there was a pilgrimage to Castro 's resting place in the necropolis at the Santa Ifigenia cemetery in Santiago de Cuba .
+Cuba	23	CT+	CT+
+########
+28
+<EOP> .
+########
+29
+Xinhua <EOP> .
+########

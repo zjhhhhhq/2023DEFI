@@ -1,0 +1,263 @@
+Does South Korea redefine beauty
+0
+70_year_old YouTube hit redefining beauty in South Korea <EOP> .
+beauty	4	CT+	CT+
+########
+1
+2017_07_14 17:18 <EOP> .
+########
+2
+null <EOP> .
+########
+3
+Park Makrye 's videos are all about showing off her wrinkles and her elderly life in the raw .
+########
+4
+Young South Koreans find her so funny and adorable that big companies like Samsung Electronics and Lotte are banking on her popularity .
+like	12	ps_cue
+########
+5
+<EOP> .
+########
+6
+Despite her new life as a celebrity , she still gets up before dawn to run her diner .
+########
+7
+<EOP> .
+########
+8
+Serving kimchi while clad in a dotted pink top and short skirt with a kitchen hygiene hat on her head , Park is n't exactly the most stylish beauty icon .
+beauty	28	CT+	CT+
+n't	23	neg_cue
+########
+9
+<EOP> .
+########
+10
+Yet , South Koreans love watching her give make_up tutorials , reunite with an old friend or try pasta for the first time in her life in her `` Grandma 's Diary '' YouTube videos `` She 's real .
+love	4	ps_cue
+or	16	ps_cue
+########
+11
+She 's not fake , '' said Lee Injae , a 31_year_old living in Seoul .
+not	2	neg_cue
+########
+12
+`` It 's refreshing to see the world through the eyes of a grandmother .
+########
+13
+`` Before YouTube , Park says , her life was `` dead like rotten bean sprouts . ''
+like	12	ps_cue
+########
+14
+`` We used to think , ` Since I 'm over 70 , my life is over , ' '' Park said in an interview with The Associated Press , sitting in the living room that she turns into her YouTube studio by taping a broad piece of paper on the wall .
+########
+15
+<EOP> .
+########
+16
+`` But as I started doing this , I realized life starts at 71 years old , '' she said , adding an extra year as is the custom in Korea and many other Asian countries .
+########
+17
+<EOP> .
+########
+18
+Park 's stardom defies the conventional expectations of the elderly in South Korea , often portrayed in mass media as suffering from poverty or as angry patriots protesting for conservative values .
+or	23	ps_cue
+########
+19
+South Korea has the highest elderly poverty rate among developed countries .
+########
+20
+The country has been struggling to provide better social safety nets or jobs to the elderly populations even when fewer young generations support their aging parents as they are getting less and less attached to the Confucian traditions of revering the aged .
+or	11	ps_cue
+########
+21
+<EOP> .
+########
+22
+Encouraged by a granddaughter to start making videos as a way to stave off dementia , Park is living it up .
+########
+23
+She 's posed for a women 's monthly magazine spread , hosted a home shopping show for retail giant Lotte and will be appearing next week as a model in a YouTube commercial for Samsung 's TV .
+will	21	ps_cue
+########
+24
+<EOP> .
+########
+25
+Her fans travel from across the country to eat at her diner where one can get filled with a rice and vegetable meal for just $ 5 in a remote part of Yongin , a city 34 kilometers LRB 21 miles RRB south of Seoul with no easy public transport access .
+can	14	ps_cue
+no	46	neg_cue
+########
+26
+<EOP> .
+########
+27
+Kim Yura , Park 's 27_year_old granddaughter , stopped working as an acting instructor to travel with her grandmother after a doctor told the family she had a high risk of getting Alzheimer 's disease like her three elder sisters .
+stopped	8	neg_cue
+like	35	ps_cue
+########
+28
+Kim took her grandmother to Australia , as a treat after more than 40 years of raising children and running a restaurant .
+########
+29
+<EOP> .
+########
+30
+A video of the grandmother_granddaughter duo visiting Cairns , Australia in January shows Park describing her first time diving in the ocean and her sprinting to a swimming pool like a kid .
+like	29	ps_cue
+########
+31
+It was a big hit among young South Koreans : less than six months later , Park has about 400,000 followers on YouTube and Instagram .
+########
+32
+<EOP> .
+########
+33
+Since then , everything has `` flipped like a pancake , '' Park quips .
+like	7	ps_cue
+########
+34
+<EOP> .
+########
+35
+`` I learned then that my grandmother was just like us .
+like	9	ps_cue
+########
+36
+She likes to travel , eat tasty food and take pretty photos , '' said Kim , who films and edits the videos .
+########
+37
+<EOP> .
+########
+38
+`` I 'm her fan too .
+########
+39
+She is such a cool person .
+########
+40
+`` Her fans love Park 's unfiltered comments in her local dialect , such as a remark about Korean soap operas -- `` those things get pregnant days and nights .
+love	3	ps_cue
+########
+41
+`` Park 's unabashed willingness to share her story and emotions , and her lack of shame over her poor education , appeal to young South Koreans .
+lack	14	neg_cue
+########
+42
+<EOP> .
+########
+43
+`` The reason she is so popular is that she talks candidly without pretension about things that women feel uncomfortable about , '' said Lee Taek Gwang , a professor of culture studies at Kyunghee University .
+without	12	neg_cue
+########
+44
+`` She talks about topics that we do n't dare to talk about , especially on women 's issues .
+n't	8	neg_cue
+########
+45
+`` About cosmetic companies ' promises to make women younger and prettier , Park scoffs , `` You just have to be born again .
+########
+46
+`` Offering make_up tips to help people look a decade younger , she warns teenage viewers , `` You guys should n't do this or you 'll look like infants .
+should	20	ps_cue
+n't	21	neg_cue
+or	24	ps_cue
+like	28	ps_cue
+########
+47
+`` On YouTube and Instagram Park and her granddaughter document adventures such as kayaking on the Han River in Seoul and doing a magazine shoot .
+########
+48
+The duo recently went to Japan 's Tottori prefecture .
+########
+49
+<EOP> .
+########
+50
+Park , whose father refused to send her to school because she was a girl , is having the time of her life .
+refused	4	neg_cue
+########
+51
+<EOP> .
+########
+52
+As a teenager , she cut firewood in the mountains , walking hours to haul it home .
+########
+53
+A neighbor gave her brief lessons in reading and writing .
+gave	2	neg_cue
+########
+54
+She does not know how to spell most words .
+not	2	neg_cue
+########
+55
+<EOP> .
+########
+56
+`` My mom and dad did n't teach me even though we were not poor because they wanted to put me to work , '' she said .
+n't	6	neg_cue
+not	13	neg_cue
+wanted	17	ps_cue
+########
+57
+`` As I do YouTube now , I feel sorry that I have n't been educated .
+n't	13	neg_cue
+########
+58
+`` Still , nothing deters Park from writing , even if her Instagram posts are almost illegible and need `` interpretation , '' she laughs .
+nothing	3	neg_cue
+need	18	ps_cue
+########
+59
+<EOP> .
+########
+60
+Her fans have dubbed her unique way of expressing herself , with no spaces between words and respellings like `` shampangyi '' for champagne , as the `` Makrye font . ''
+no	12	neg_cue
+like	18	ps_cue
+########
+61
+They compete to guess what they mean .
+########
+62
+<EOP> .
+########
+63
+Even though Park 's family was relatively well off , she was left on her own when her husband ran up debts and abandoned her and their three young children .
+########
+64
+She woke up every morning at four to run a restaurant , returning after nine at night .
+########
+65
+She repaid the debts and raised the kids on her own at a time when many single mothers were forced to put their babies up for adoption and received little to no government assistance .
+little	29	neg_cue
+no	31	neg_cue
+########
+66
+<EOP> .
+########
+67
+All three children finished high school , and Kim , her granddaughter , was the first in the family to attend college .
+########
+68
+<EOP> .
+########
+69
+Asked how long she would run her diner , Park replies in a second .
+would	4	ps_cue
+########
+70
+<EOP> .
+########
+71
+`` Until I die . ''
+########
+72
+<EOP> .
+########
+73
+AP <EOP> .
+########

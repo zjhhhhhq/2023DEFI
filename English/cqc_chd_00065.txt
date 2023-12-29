@@ -1,0 +1,114 @@
+Does Beijing call for more restraint on Korean Peninsula 
+0
+Beijing calls for more restraint on Korean Peninsula <EOP> .
+calls	1	CT+	CT+
+########
+1
+2017_07_05 06:47 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+<EOP> .
+########
+4
+Foreign Ministry spokesperson Geng Shuang .
+########
+5
+LRB Photo_fmprc .
+########
+6
+gov.cn RRB <EOP> .
+########
+7
+Ministry urges DPRK not to take any actions that violate UN resolutions <EOP> .
+urges	1	CT+	CT+
+not	3	neg_cue
+########
+8
+Beijing called for all related parties to exercise restraint and urged Pyongyang to stop actions that violate United Nations Security Council resolutions after the Democratic People 's Republic of Korea declared the success of an international ballistic missile launch on Tuesday .
+stop	13	neg_cue
+########
+9
+<EOP> .
+########
+10
+The DPRK lauded the launch of the ICBM as a historic event in boosting its defense capabilities to counter the threats of the United States , Korean Central Television reported in a special program .
+########
+11
+<EOP> .
+########
+12
+DPRK leader Kim Jong_un signed the order to carryout the test_firing of the ICBM Hwasong_14 on Monday and personally conducted the launch , `` declaring before the world its shining success '' , it said .
+########
+13
+<EOP> .
+########
+14
+`` We 've noticed related reports , and we are collecting information about the launch and closely following the developing situation , '' Foreign Ministry spokesman Geng Shuang told a daily news conference in Beijing .
+########
+15
+<EOP> .
+########
+16
+Under UN Security Council resolutions , Pyongyang is banned from testing any ballistic missile technology , Geng said , and China is opposed to any DPRK launch activity that is against the resolutions .
+banned	8	neg_cue
+opposed	22	neg_cue
+against	30	neg_cue
+########
+17
+<EOP> .
+########
+18
+`` We urge the DPRK not to take any more actions that violate UNSC resolutions and to create necessary conditions for the resumption of talks and negotiations , '' he said .
+urge	2	CT+	CT+
+not	5	neg_cue
+########
+19
+<EOP> .
+########
+20
+Geng also expressed hope that all related parties will keep calm and restrained , de_escalate the tension on the Korean Peninsula , and pull the issue back to the right track of peaceful talks as soon as possible .
+hope	3	ps_cue
+will	8	ps_cue
+possible	37	ps_cue
+########
+21
+<EOP> .
+########
+22
+In another development , China 's UN Ambassador Liu Jieyi warned on Monday that further escalation of already high tensions with the DPRK risks getting out of control .
+########
+23
+<EOP> .
+########
+24
+China took over the UN Security Council presidency in July .
+########
+25
+<EOP> .
+########
+26
+Liu reiterated the Chinese `` suspension for suspension '' proposal package － suspension of nuclear and ballistic testing on the part of the DPRK , and suspension of military exercises on the part of the US and the Republic of Korea .
+########
+27
+<EOP> .
+########
+28
+`` This is a feasible proposal because it accommodates all of the major parts that confront the region , '' Liu said .
+########
+29
+`` We do hope that the other parties will be more forthcoming on accepting and supporting these proposals . ''
+hope	3	ps_cue
+will	8	ps_cue
+########
+30
+<EOP> .
+########
+31
+Xinhua contributed to this story .
+########
+32
+<EOP> .
+########

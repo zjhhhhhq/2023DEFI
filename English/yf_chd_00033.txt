@@ -1,0 +1,153 @@
+Will US Republican Senator Orrin Hatch seek re_election in November
+0
+Hatch to step down , Romney ; could run for seat <EOP> .
+could	7	ps_cue
+########
+1
+2018_01_03 11:37 <EOP> .
+########
+2
+China Daily USA <EOP> .
+########
+3
+US Republican Senator Orrin Hatch said on Tuesday he will not seek re_election in November , opening the door to a potential Senate bid by Mitt Romney , the 2012 Republican presidential candidate and one of the party 's harshest critics of US President Donald Trump .
+seek	11	CT-	PS+
+not	10	neg_cue
+will	9	ps_cue
+potential	21	ps_cue
+########
+4
+<EOP> .
+########
+5
+`` Every good fighter knows when to hang up the gloves .
+########
+6
+And for me , that time is soon approaching , '' Hatch said in a video posted on Twitter .
+########
+7
+`` That 's why after much prayer and discussion with family and friends , I 've decided to retire at the end of this term . ''
+retire	18	CT+	PS+
+########
+8
+<EOP> .
+########
+9
+Hatch , 83 , of Utah , is the most senior Republican in the US Senate , having first been elected in 1976 .
+########
+10
+He is chairman of the tax_writing Senate Finance Committee .
+########
+11
+Trump has credited him with helping shepherd a massive tax overhaul through Congress last month .
+########
+12
+<EOP> .
+########
+13
+Also on Tuesday , US Senator Al Franken of Minnesota officially resigned from the Senate .
+########
+14
+The announcement came nearly a month after the Democrat announced his plans to leave Congress after sexual misconduct allegations that began in November .
+leave	13	PS+	PS+
+plans	11	ps_cue
+########
+15
+<EOP> .
+########
+16
+Hatch steps down amid speculation that Romney , the former Massachusetts governor who ran against Democratic President Barack Obama in 2012 , would run for his Senate seat .
+steps	1	CT+	PS+
+speculation	4	ps_cue
+against	14	neg_cue
+would	22	ps_cue
+########
+17
+Romney , who is a Mormon , has close ties to Utah , a state with a majority_Mormon population .
+########
+18
+<EOP> .
+########
+19
+In a statement on Twitter , Romney praised Hatch for his service but he did not say if he would enter the race .
+not	15	neg_cue
+would	19	ps_cue
+########
+20
+<EOP> .
+########
+21
+A close Romney adviser , speaking on condition of anonymity , said Hatch 's decision increased the odds that Romney would consider jumping in , saying that Romney would likely decide relatively soon whether to seek the Senate seat in the Republican_leaning state .
+would	20	ps_cue
+consider	21	ps_cue
+would	28	ps_cue
+likely	29	ps_cue
+whether	33	ps_cue
+########
+22
+<EOP> .
+########
+23
+If he does decide to mount a campaign , Romney , who gained national prominence as head of the 2002 Salt Lake City Olympics , would be the front_runner , said Republican strategist Joe Brettell .
+would	25	ps_cue
+########
+24
+<EOP> .
+########
+25
+`` Romney 's name ID , fund_raising network and business acumen will immediately vault him to the top of the Senate GOP list , '' Brettell said .
+will	11	ps_cue
+########
+26
+`` The question is whether he can happily weather a body currently known more for partisan rancor than the Mr. Fixit role he 's played all his life . ''
+question	2	ps_cue
+whether	4	ps_cue
+can	6	ps_cue
+########
+27
+<EOP> .
+########
+28
+Trump said last month he wanted Hatch to run for another six_year Senate term in 2018 , in a slap at Romney , who was one of Trump 's harshest Republican critics during the 2016 presidential campaign .
+wanted	5	ps_cue
+########
+29
+<EOP> .
+########
+30
+`` The president , certainly , has the greatest and deepest amount of respect for Senator Hatch and his over four decades of experience in the Senate , '' White House spokeswoman Sarah Sanders told reporters on Tuesday .
+########
+31
+`` The president certainly praises his service and is very sad to see Senator Hatch leave . ''
+########
+32
+<EOP> .
+########
+33
+In Minnesota , Franken 's departure set the stage for current Lieutenant Governor Tina Smith to be sworn in on Wednesday to take over his seat .
+########
+34
+<EOP> .
+########
+35
+Minnesota Governor Mark Dayton picked his second_in_command last month to replace Franken .
+########
+36
+Smith is also a Democrat and plans to run for the seat in a special election in November .
+plans	6	ps_cue
+########
+37
+<EOP> .
+########
+38
+Franken joined the Senate in 2009 after winning a months_long recount .
+########
+39
+<EOP> .
+########
+40
+Reuters _ AP <EOP> .
+########
+41
+<EOP> .
+########

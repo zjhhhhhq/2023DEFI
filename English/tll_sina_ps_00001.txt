@@ -1,0 +1,172 @@
+Do chillies help us lose weight
+0
+It 's long been thought that chillies can help us lose weight .
+help	8	PS+	PS+
+can	7	ps_cue
+########
+1
+<EOP> .
+########
+2
+Now , new research has proved the fiery food can aid weight loss by speeding upmetabolism .
+aid	10	PS+	PS+
+can	9	ps_cue
+loss	12	neg_cue
+########
+3
+<EOP> .
+########
+4
+A study found capsaicin _ the ingredient that gives chilli peppers their heat _ could help burn off fat in the body .
+help	15	PS+	PS+
+could	14	ps_cue
+########
+5
+<EOP> .
+########
+6
+The temptation to eat fatty foods is often so strong that , for many , they ca n't resist eating fatty or sugary foods even if they are trying to cut down on calories .
+n't	17	neg_cue
+or	21	ps_cue
+########
+7
+<EOP> .
+########
+8
+Now , researchers believe capsaicin could provide a solution to this problem ; speeding up the metabolism without the need to restrict the diet .
+could	5	ps_cue
+without	17	neg_cue
+need	19	ps_cue
+########
+9
+<EOP> .
+########
+10
+University of Wyoming researchers found capsaicin may stimulate the body to burn energy and create heat LRB a process known as thermogenesis RRB _ burning off calories in the process .
+may	6	ps_cue
+########
+11
+<EOP> .
+########
+12
+It does this by activating receptors in the body which set off the process of energy burning .
+########
+13
+<EOP> .
+########
+14
+These receptors are found in white and brown fat cells .
+########
+15
+<EOP> .
+########
+16
+In the body , white fat cells soak up calories and store them as fat _ the dreaded type visible in pot bellies , love handles and wobbly thighs that is the enemy of dieters .
+love	24	ps_cue
+########
+17
+<EOP> .
+########
+18
+It is known as ` bad ' fat for this reason .
+########
+19
+<EOP> .
+########
+20
+Brown fat , found in small amounts on the shoulders and neck , actually burns fat to heat the body _ and is therefore known as ` good ' fat .
+########
+21
+<EOP> .
+########
+22
+The researchers found that capsaicin in the diet was able to stimulate a receptor called potential vanilloid 1 LRB TRPV1 RRB channel protein .
+potential	15	ps_cue
+########
+23
+<EOP> .
+########
+24
+Activating this receptor suppresses obesity associated with a high_fat diet , the researchers found .
+########
+25
+<EOP> .
+########
+26
+They believe this is because it induces ` bad ' white fat cells to become energy_burning ` good ' brown fat cells .
+########
+27
+<EOP> .
+########
+28
+The researchers carried out the study on one group of wild mice , and another group of mice who had been genetically engineered to lack the TRPV1 Receptor .
+lack	24	neg_cue
+########
+29
+<EOP> .
+########
+30
+They fed both mice a high fat diet , 0.01 per cent was made up of capsaicin .
+########
+31
+<EOP> .
+########
+32
+Capsaicin prevented the weight gain associated with eating a high fat diet in the wild mice , but not the mice that lacked TRPV1 .
+prevented	1	neg_cue
+not	18	neg_cue
+########
+33
+<EOP> .
+########
+34
+It did this without having any effect on how much food or water the mice consumed .
+without	3	neg_cue
+or	11	ps_cue
+########
+35
+<EOP> .
+########
+36
+` It did significantly increase the metabolic activity and energy expenditure in wild type mice fed a high_fat diet , but not for mice that genetically lack TRPV1 , ' researcher Vivek Krishnan , of University of Wyoming 's School of Pharmacy said .
+not	21	neg_cue
+lack	26	neg_cue
+########
+37
+<EOP> .
+########
+38
+This is because the fiery ingredient induces ` bad ' white fat to become ` good ' , energy_burning brown fat and also stimulates the body to create heat , he added .
+########
+39
+<EOP> .
+########
+40
+These steps burn off calories and counteract obesity .
+########
+41
+<EOP> .
+########
+42
+This may help to prevent and manage obesity and other related health complications such as Type 2 diabetes , high blood pressure , and cardiovascular diseases , the researchers said .
+may	1	ps_cue
+prevent	4	neg_cue
+########
+43
+<EOP> .
+########
+44
+However , they added this effect has not yet been demonstrated in carefully_controlled clinical trials .
+not	7	neg_cue
+yet	8	neg_cue
+########
+45
+<EOP> .
+########
+46
+Next , the researchers want to further understand the mechanism by which capsaicin prevents obesity , and carry out more trials to further prove that it can help manage weight .
+can	26	ps_cue
+########
+47
+<EOP> .
+########

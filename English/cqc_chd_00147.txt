@@ -1,0 +1,69 @@
+Did DPRK fire another ballistic missile 
+0
+DPRK confirms test firing another ballistic missile <EOP> .
+firing	3	CT+	CT+
+########
+1
+2017_05_30 06:48 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+PYONGYANG __ The Democratic People 's Republic of Korea LRB DPRK RRB Tuesday confirmed it successfully test fired another ballistic missile on Monday , the third in one month , according to official Korean Central News Agency LRB KCNA RRB .
+fired	17	CT+	CT+
+########
+4
+<EOP> .
+########
+5
+The report said the missile was a medium_range rocket launched from a mobile pad vehicle `` through a precision control guidance system . ''
+launched	9	CT+	CT+
+########
+6
+<EOP> .
+########
+7
+DPRK supreme leader Kim Jong_un guided the test fire , said the report .
+fire	8	CT+	CT+
+########
+8
+<EOP> .
+########
+9
+The test_fire was aimed at `` verifying the technological indices of the new_type precision guided ballistic rocket capable of making ultra_precision strike on the enemies ' objects at any area , '' according to the report .
+objects	26	neg_cue
+########
+10
+<EOP> .
+########
+11
+A new caterpillar pad vehicle carrying the missile was also tested this time in the launch after it joined a military parade last month for the first time .
+tested	10	CT+	CT+
+########
+12
+<EOP> .
+########
+13
+`` The ballistic rocket flew toward the east sky where the day broke and correctly hit a planned target point with deviation of seven meters after flying over the middle shooting range , '' said the KCNA .
+planned	17	ps_cue
+########
+14
+<EOP> .
+########
+15
+The Republic of Korea and US media reports said the missile was a `` Scud '' missile , capable of hitting targets 500 km away and it fell into the Sea of Japan after flying six minutes .
+########
+16
+<EOP> .
+########
+17
+DPRK successfully test fired a long , medium_range ballistic missile capable of hitting targets 4,500 km away for the first time two weeks ago .
+########
+18
+Another medium_range ballistic missile was also test fired with success last week .
+fired	7	CT+	CT+
+########
+19
+<EOP> .
+########

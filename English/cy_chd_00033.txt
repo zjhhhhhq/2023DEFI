@@ -1,0 +1,130 @@
+Are US_Russia relations at an all_time low
+0
+Trump says US_Russia relations `` may be at an all_time low '' <EOP> .
+low	10	CT+	CT+
+may	5	ps_cue
+########
+1
+2017_04_13 09:07 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+US President Donald Trump listens during a joint news conference with NATO Secretary General Jens Stoltenberg hold in the East Room at the White House in Washington , US , April 12 , 2017 .
+########
+4
+LRB Photo_Agencies RRB <EOP> .
+########
+5
+WASHINGTON _ The US is `` not getting along with Russia at all '' and the relations between the two countries `` may be at an all_time low '' , US President Donald Trump said Wednesday .
+low	27	CT+	CT+
+not	6	neg_cue
+may	22	ps_cue
+########
+6
+<EOP> .
+########
+7
+Trump made the remark at a joint press conference with visiting NATO Secretary General Jens Stoltenberg at the White House .
+########
+8
+It came shortly after US Secretary of State Rex Tillerson said in Moscow that the US and Russia have reached a `` low point '' in relations .
+low	22	CT+	CT+
+########
+9
+<EOP> .
+########
+10
+The Russian government has condemned the missile strikes by the United States on a Syrian airbase last Thursday , calling Washington 's move `` aggression against a sovereign state in violation of international law . ''
+condemned	4	neg_cue
+against	25	neg_cue
+########
+11
+<EOP> .
+########
+12
+At Wednesday 's press conference , Trump defended his decision to launch 59 missiles at the Syrian airbase in response to the alleged chemical attack the US has said the Syrian government should be to blame .
+should	32	ps_cue
+########
+13
+<EOP> .
+########
+14
+`` It ca n't be a worst sight .
+n't	3	neg_cue
+########
+15
+And it should n't be allowed .
+should	2	ps_cue
+n't	3	neg_cue
+########
+16
+That 's a butcher , '' Trump said .
+########
+17
+`` So , I felt we had to do something about it .
+########
+18
+I have absolutely no doubt we did the right thing .
+no	3	neg_cue
+########
+19
+And it was very , very successfully done . ''
+########
+20
+<EOP> .
+########
+21
+Asked about Russia 's prior knowledge about Syrian government 's alleged use of chemical weapons , Trump said it 's `` possible '' , but `` unlikely '' that Russia had known in advance of Syria 's plan to launch a chemical weapons attack on its own citizens .
+possible	21	ps_cue
+unlikely	26	ps_cue
+unlikely	26	neg_cue
+plan	37	ps_cue
+########
+22
+<EOP> .
+########
+23
+`` I know they 're doing investigations into that right now .
+########
+24
+I would like to think that they did n't know , but certainly they could have .
+would	1	ps_cue
+like	2	ps_cue
+n't	8	neg_cue
+could	14	ps_cue
+########
+25
+They were there .
+########
+26
+So we 'll find out , '' Trump said .
+########
+27
+<EOP> .
+########
+28
+Stoltenberg said within the NATO alliance , the U.S. military action on Syria has been met with understanding .
+########
+29
+<EOP> .
+########
+30
+`` Any use of chemical weapons is unacceptable , can not go unanswered and those responsible must be held accountable , '' the NATO chief said .
+unacceptable	7	neg_cue
+can	9	ps_cue
+not	10	neg_cue
+########
+31
+<EOP> .
+########
+32
+<EOP> .
+########
+33
+<EOP> .
+########
+34
+<EOP> .
+########

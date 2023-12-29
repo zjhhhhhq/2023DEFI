@@ -1,0 +1,76 @@
+Does Brazil get first female prosecutor_general 
+0
+Brazil gets first female prosecutor_general <EOP> .
+gets	1	CT+	CT+
+########
+1
+2017_09_19 09:32 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+<EOP> .
+########
+4
+Brazilian President Michel Temer LRB L RRB applauds the country 's new Attorney General Raquel Dodge , during her inauguration , in Brasilia on Sept 18 , 2017 .
+########
+5
+LRB Photo_VCG RRB <EOP> .
+########
+6
+BRASILIA _ For the first time in Brazil 's history , a female took over prosecutor_general 's post on Monday , replacing Rodrigo Janot , who held the position for four years .
+took	13	CT+	CT+
+########
+7
+<EOP> .
+########
+8
+In a ceremony in Brasilia with the presence of President Michel Temer and Supreme Court LRB STF RRB President Carmen Lucia , Raquel Dodge was sworn in as the new prosecutor_general .
+########
+9
+<EOP> .
+########
+10
+In her inauguration speech , Dodge vowed to `` defend democracy , watch over the common good and the environment , and guarantee that nobody is above the law . ''
+########
+11
+<EOP> .
+########
+12
+The 55_year_old is taking over at a difficult time .
+taking	3	CT+	CT+
+########
+13
+She will have the mission of continuing Operation Lava Jato LRB Car Wash RRB , the investigation into the Petrobras corruption ring , which saw over 100 politicians charged in recent years .
+will	1	ps_cue
+########
+14
+<EOP> .
+########
+15
+Dodge was named to the post by Temer but the president was charged by Janot for a second time last week for obstruction of justice and illicit association .
+########
+16
+<EOP> .
+########
+17
+The first charge was made earlier this year for corruption but it was shelved by the Chamber of Deputies .
+########
+18
+<EOP> .
+########
+19
+<EOP> .
+########
+20
+<EOP> .
+########
+21
+Therefore , the public will keenly watch how Dodge continues the investigations against Temer and members of his ruling party .
+will	4	ps_cue
+against	12	neg_cue
+########
+22
+<EOP> .
+########

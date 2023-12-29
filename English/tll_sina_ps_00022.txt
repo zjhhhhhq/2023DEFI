@@ -1,0 +1,70 @@
+Will Hillary Clinton run for the White House in 2016
+0
+Hillary Clinton has fed speculation that she might run for the White House in 2016 by telling an audience in Canada that she would like to see a woman president in the United States in her lifetime .
+run	8	PS+	PS+
+speculation	4	ps_cue
+might	7	ps_cue
+would	23	ps_cue
+like	24	ps_cue
+########
+1
+<EOP> .
+########
+2
+`` Let me say this , hypothetically speaking , I really do hope that we have a woman president in my lifetime , '' Mrs Clinton told a private audience in Toronto .
+hypothetically	6	ps_cue
+hope	12	ps_cue
+########
+3
+<EOP> .
+########
+4
+`` And whether it 's next time or the next time after that , it really depends on women stepping up andsubjecting themselves to the political process , which is very difficult . ''
+whether	2	ps_cue
+or	7	ps_cue
+########
+5
+<EOP> .
+########
+6
+Mrs Clinton , a Democrat who was secretary of state under President Barack Obama , a former senator from New York and is the wife of former President Bill Clinton , is said to be undecided whether to seek the presidency in 2016 .
+seek	38	PS+	PS+
+whether	36	ps_cue
+########
+7
+<EOP> .
+########
+8
+Many Democrats and Republicans in the United States are expecting her to run , although the 65_year_old Mrs Clinton has said she needed to rest after four years as a globe_trotting secretary of state .
+expecting	9	ps_cue
+########
+9
+<EOP> .
+########
+10
+Polls have indicated she is far and away the most popular potential Democratic candidate for 2016 , and that most Americans would prefer her to several possible Republican contenders .
+potential	11	ps_cue
+would	21	ps_cue
+possible	26	ps_cue
+########
+11
+<EOP> .
+########
+12
+Mrs Clinton picked up an endorsement on Tuesday from Missouri Senator Claire McCaskill , who announced she is supporting a group encouraging Mrs Clinton to run for the White House .
+########
+13
+<EOP> .
+########
+14
+Last week Clinton started her official Twitter account , describing herself as , among other things , a `` wife , mom , lawyer , women andkids advocate . ''
+########
+15
+<EOP> .
+########
+16
+She alluded to her future as `` TBD '' _ to be determined .
+########
+17
+<EOP> .
+########

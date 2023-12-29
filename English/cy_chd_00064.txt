@@ -1,0 +1,77 @@
+Does Brazilian government 's approval rating fall to 10 pct 
+0
+Brazilian government 's approval rating falls to 10 pct <EOP> .
+falls	5	CT+	CT+
+########
+1
+2017_04_01 09:55 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+Brazil 's President Michel Temer gestures during a ceremony at the Planalto Palace in Brasilia , Brazil , March 7 , 2017 .
+########
+4
+LRB Photo_Agencies RRB <EOP> .
+########
+5
+BRASILIA _ The approval rating for the government of Brazil 's President Michel Temer has fallen to just 10 percent , with 55 percent actively disapproving of its management , a new poll by the Ibope polling company showed on Friday .
+fallen	15	CT+	CT+
+########
+6
+<EOP> .
+########
+7
+It is a downturn from December 's poll , which found a 13 percent approval rating and a 46 percent disapproval level .
+downturn	3	CT+	CT+
+########
+8
+<EOP> .
+########
+9
+Temer 's personal approval rating stood at 20 percent , with 73 percent disapproving of him and 7 percent not answering .
+not	19	neg_cue
+########
+10
+Just 17 percent of respondents said they trusted the president .
+########
+11
+<EOP> .
+########
+12
+In comparison to the government of his predecessor , Dilma Rousseff , 18 percent said Temer 's administration was better , 41 percent said Rousseff 's tenure had been superior and 38 percent found them the same .
+########
+13
+<EOP> .
+########
+14
+Temer succeeded Rousseff last year , provisionally in May and definitively in August , when she was impeached by the Senate for fiscal irregularities .
+May	8	ps_cue
+########
+15
+<EOP> .
+########
+16
+Among those who dislike Temer 's government , 26 percent gave their main reason as his proposed social security reform , 9 percent spoke about the Operation Lava Jato LRB Car Wash RRB anti_corruption investigation , and 5 percent said it was due to corruption in the government .
+gave	10	neg_cue
+proposed	16	ps_cue
+########
+17
+<EOP> .
+########
+18
+The poll was carried out by Ibope between March 16 and 19 , interviewing 2,000 people in 126 municipalities nationwide , with a margin of error of 2 percent .
+########
+19
+<EOP> .
+########
+20
+<EOP> .
+########
+21
+<EOP> .
+########
+22
+<EOP> .
+########

@@ -1,0 +1,104 @@
+Does Guangzhou Symphony Orchestra make UK debut to mark 60th anniversary
+0
+Guangzhou Symphony Orchestra makes UK debut to mark 60th anniversary <EOP> .
+debut	5	CT+	CT+
+########
+1
+2017_05_15 22:09 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+One of China 's most prestigious music ensembles , the Guangzhou Symphony Orchestra , has performed in Britain for the first time as part of its 60th anniversary celebrations .
+performed	15	CT+	CT+
+########
+4
+<EOP> .
+########
+5
+The three_day United Kingdom tour began at London 's Cadogan Hall under the guidance of music director Yu Long , who is also the artistic director and chief conductor of the China Philharmonic Orchestra , and music director of the Shanghai Symphony .
+########
+6
+<EOP> .
+########
+7
+Maestro Yu conducts the orchestra 's music , which brings together an East_meets_West theme .
+########
+8
+<EOP> .
+########
+9
+Audiences were treated to works that the orchestra commissioned from two leading contemporary Chinese composers , alongside 20th century classics by Britten and Stravinsky .
+########
+10
+<EOP> .
+########
+11
+The ensembles ' Manchester performance was conducted by Jing Huan , the orchestra 's resident conductor .
+########
+12
+<EOP> .
+########
+13
+Chen Qing , president of Guangzhou Symphony Orchestra , said : `` After 60 years , the orchestra has arrived at a stage where we want to celebrate our success and that is why we have planned performances across Europe and also in the UK for the first time . ''
+performances	37	PS+	CT+
+planned	36	ps_cue
+########
+14
+<EOP> .
+########
+15
+Chen expects the group to take more of its music around the world in the future .
+expects	1	ps_cue
+########
+16
+<EOP> .
+########
+17
+`` Guangzhou Symphony is still very young compared to the long history of Western orchestras , but , over the last 20 years , Chinese symphony has developed hugely and has grown rapidly with its performances and the range of audience , '' Chen said .
+########
+18
+<EOP> .
+########
+19
+He believes that orchestras and concerts act as a bridge between East and West , using the language of classical music to communicate with the world .
+########
+20
+<EOP> .
+########
+21
+The orchestra president added : `` Chinese orchestras have reached the same level and standards as Western ones , the only difference is we have an Eastern influence , which allows us to tell Chinese stories in the form of a Western symphony . ''
+########
+22
+<EOP> .
+########
+23
+The soloists , Shanghai_born cellist Wang Jian and Jia Lei , who plays thesheng , a traditional bamboo woodwind instrument , also performed with the Guangzhou Symphony .
+########
+24
+<EOP> .
+########
+25
+Wang Jian said : `` Classical music has really taken off in China and if you go to any music conservatories around the world , including London and other first_class music conservatories , you would see a big percentage of Chinese students .
+would	34	ps_cue
+########
+26
+In fact , Chinese players are in many of the world 's greatest orchestras . ''
+########
+27
+<EOP> .
+########
+28
+The Guangzhou Symphony Orchestra 's UK tour was also part of the 45th anniversary of ministerial_level diplomatic relations between the UK and China .
+########
+29
+<EOP> .
+########
+30
+The tour will conclude in Birmingham on Tuesday .
+will	2	ps_cue
+########
+31
+<EOP> .
+########

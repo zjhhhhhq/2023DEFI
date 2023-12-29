@@ -1,0 +1,88 @@
+Does Cuba reject new US policy
+0
+Cuba rejects new US policy , expresses readiness for further dialogue <EOP> .
+policy	4	CT-	CT-
+rejects	1	neg_cue
+########
+1
+2017_06_17 13:30 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+HAVANA __ Cuba 's government rejected on Friday the newly announced US policy towards Cuba , but said it is open to continue dialogue with Washington on issues of mutual interest .
+policy	12	CT-	CT-
+rejected	5	neg_cue
+########
+4
+<EOP> .
+########
+5
+`` Any strategy aimed at changing the political , economic and social system in Cuba , whether it aims to achieve it through pressure or imposition , or by using more subtle methods , is doomed to fail , '' the Cuban government said in a statement published in the state daily Granma .
+strategy	2	CT-	CT-
+fail	37	neg_cue
+whether	16	ps_cue
+or	24	ps_cue
+or	27	ps_cue
+########
+6
+<EOP> .
+########
+7
+US President Donald Trump earlier in the day announced he was `` canceling '' the rapprochement with Cuba spearheaded by his predecessor Barack Obama .
+########
+8
+<EOP> .
+########
+9
+Trump 's announcement `` reverses the advances made in the past two years since Dec. 17 , 2014 , when presidents Raul Castro and Obama revealed their decision to restore diplomatic relations and begin the process of normalizing bilateral ties , '' said the statement .
+########
+10
+<EOP> .
+########
+11
+Trump announced a return to restrictions on travel and trade , and `` justified that policy with alleged concerns over the human rights situation in Cuba and the need to rigorously apply '' the trade embargo and blockade against the island , which Obama had relaxed , it said , adding `` once again the US government is resorting to the coercive measures of the past . ''
+need	28	ps_cue
+against	38	neg_cue
+########
+12
+<EOP> .
+########
+13
+`` Cuba rejects the manipulation with political purposes and the double standard concerning the issue of human rights , '' said the statement .
+rejects	2	neg_cue
+########
+14
+<EOP> .
+########
+15
+The Cuban government has defended the people 's right to universal health and education services , among other social achievements , it said .
+########
+16
+<EOP> .
+########
+17
+Saying it will issue a deeper analysis of the scope and implications of the about_face on foreign policy at a later date , the government added it `` denounces the new measures to toughen the blockade , which are doomed to fail , as has been repeatedly shown in the past , and will not succeed in their goal to weaken the Revolution . ''
+will	2	ps_cue
+denounces	28	neg_cue
+fail	41	neg_cue
+will	53	ps_cue
+not	54	neg_cue
+########
+18
+<EOP> .
+########
+19
+However , the Cuban government also made it clear that it is willing to continue `` respectful dialogue '' and cooperation with Washington on issues of mutual interest .
+willing	12	ps_cue
+########
+20
+<EOP> .
+########
+21
+It vowed to take `` any necessary risk '' and continue the construction of a `` sovereign , independent , socialist , democratic , prosperous and sustainable nation . ''
+########
+22
+<EOP> .
+########

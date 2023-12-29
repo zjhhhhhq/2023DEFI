@@ -1,0 +1,112 @@
+Is the UN 's world heritage body Unesco withdrawing its membership of the organization 
+0
+The United States has formally notified the UN 's world heritage body Unesco that it is withdrawing its membership of the organization citing `` continuing anti_Israel bias '' .
+withdrawing	16	CT+	CT+
+########
+1
+<EOP> .
+########
+2
+The announcement by the Trump administration was followed a few hours later by news that Israel was also planning to quit the financially struggling cultural and educational agency .
+planning	18	ps_cue
+quit	20	neg_cue
+########
+3
+<EOP> .
+########
+4
+On October 12 , 2017 , the Department of State notified UNESCO Director_General Irina Bokova of the U.S. decision to withdraw from the organization and to seek to establish a permanent observer mission to UNESCO .
+withdraw	20	CT+	CT+
+withdraw	20	neg_cue
+########
+5
+This decision was not taken lightly , and reflects U.S. concerns with mounting arrears at UNESCO , the need for fundamental reform in the organization , and continuing anti_Israel bias at UNESCO .
+not	3	neg_cue
+need	18	ps_cue
+########
+6
+<EOP> .
+########
+7
+The United States indicated to the Director General its desire to remain engaged with UNESCO as a non_member observer state in order to contribute U.S. views , perspectives and expertise on some of the important issues undertaken by the organization , including the protection of world heritage , advocating for press freedoms , and promoting scientific collaboration and education .
+########
+8
+<EOP> .
+########
+9
+Pursuant to Article IILRB 6 RRB of the UNESCO Constitution , U.S. withdrawal will take effect on December 31 , 2018 .
+will	13	ps_cue
+########
+10
+The United States will remain a full member of UNESCO until that time .
+will	3	ps_cue
+########
+11
+<EOP> .
+########
+12
+`` This is not just about World Heritage , '' she said , describing the withdrawal as `` a loss to both the organization and the US '' .
+not	3	neg_cue
+loss	19	neg_cue
+########
+13
+<EOP> .
+########
+14
+`` At the time when conflicts continue to tear apart societies across the world , it is deeply regrettable for the United States to withdraw from the United Nations agency promoting education for peace and protecting culture under attack.This is a loss to the United Nations family .
+withdraw	24	CT+	CT+
+withdraw	24	neg_cue
+loss	41	neg_cue
+########
+15
+This is a loss for multilateralism . ''
+loss	3	neg_cue
+########
+16
+<EOP> .
+########
+17
+November 1945 : Unesco founded by 37 countries in the immediate aftermath of World War II , its purpose `` to contribute to peace and security by promoting collaboration among nations through education , science and culture '' .
+########
+18
+<EOP> .
+########
+19
+1974 : Congress suspends US contribution after Unesco criticizes Israel and recognizes the Palestinian Liberation Organization LRB PLO RRB _ but later rejoins .
+########
+20
+<EOP> .
+########
+21
+1984 : Under President Ronald Reagan , US withdraws from Unesco , saying the agency is politically left_wing and financially irresponsible .
+########
+22
+<EOP> .
+########
+23
+1985 : UK withdraws , rejoining under change of government in 1997 .
+########
+24
+<EOP> .
+########
+25
+2003 : US rejoins under George W Bush .
+########
+26
+<EOP> .
+########
+27
+2011 : US withdraws funding in protest at Palestinian membership of the agency ; arrears begin to accumulate .
+########
+28
+<EOP> .
+########
+29
+2017 : US announces it will withdraw entirely ; Israel says it will follow suit .
+will	5	ps_cue
+withdraw	6	neg_cue
+will	12	ps_cue
+########
+30
+<EOP> .
+########

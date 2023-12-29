@@ -1,0 +1,137 @@
+Did the attack kill at least eight people and injuring a dozen others
+0
+New York attacker leaves trail of death <EOP> .
+########
+1
+2017_11_02 06:11 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+<EOP> .
+########
+4
+<EOP> .
+########
+5
+<EOP> .
+########
+6
+An injured woman is aided by first responders after a terrorist attack on Tuesday in New York City .
+attack	11	CT+	CT+
+########
+7
+BRENDAN McDERMID _ REUTERS <EOP> .
+########
+8
+A man driving a rented pickup truck barreled down a popular New York City bike path on Tuesday afternoon , killing at least eight people and injuring more than a dozen others in what authorities said was a terrorist attack .
+attack	39	CT+	CT+
+########
+9
+<EOP> .
+########
+10
+Of the slain , six were pronounced dead at the scene and two others at a nearby hospital , New York Police Commissioner James O'Neill said .
+########
+11
+<EOP> .
+########
+12
+`` We condemn the incident and express sympathy and condolences to the injured and families of the victims , '' Foreign Ministry spokeswoman Hua Chunying said on Wednesday .
+incident	4	CT+	CT+
+########
+13
+`` Terrorism is the common enemy of all people .
+########
+14
+China is opposed to terrorism of any form and calls for the international community to enhance anti_terrorism cooperation , '' she said at a daily news conference .
+opposed	2	neg_cue
+########
+15
+<EOP> .
+########
+16
+The Foreign Ministry and China 's Consulate General in New York considered the incident to be very serious , Hua said , and the consulate general launched an emergency response to verify the details .
+incident	13	CT+	CT+
+considered	11	ps_cue
+########
+17
+<EOP> .
+########
+18
+`` We have n't received reports about any death or injury of Chinese citizens , '' she said .
+n't	3	neg_cue
+or	9	ps_cue
+########
+19
+`` We will continue to keep an eye on the incident and provide timely assistance to any Chinese citizens who might be involved . ''
+incident	10	CT+	CT+
+will	2	ps_cue
+might	20	ps_cue
+########
+20
+<EOP> .
+########
+21
+New York City Fire Commissioner Daniel Nigro said 11 survivors with injuries that were serious but not life_threatening were taken to hospitals .
+not	16	neg_cue
+########
+22
+After hitting people on the bike path , the suspect crashed into a small school bus .
+suspect	9	ps_cue
+########
+23
+Two children and two adults on the bus were among the 11 seriously injured who were hospitalized .
+########
+24
+<EOP> .
+########
+25
+The suspect emerged from his truck after hitting the bus and waved a paintball gun in one hand and a pellet gun in the other .
+suspect	1	ps_cue
+########
+26
+<EOP> .
+########
+27
+He was shot in the abdomen by an on_duty city police officer and taken to Bellevue Hospital .
+########
+28
+<EOP> .
+########
+29
+Two law enforcement officials identified the attacker as Sayfullo Saipov , 29 .
+########
+30
+Saipov entered the United States seven years ago from Uzbekistan , abc7news.com reported .
+########
+31
+<EOP> .
+########
+32
+The website said that in addition to an address in Tampa , Florida , Saipov lived in Ohio and most recently in New Jersey .
+########
+33
+<EOP> .
+########
+34
+At around 3:05 pm , the suspect drove along the bike path for about 14 blocks before slamming into the school bus .
+suspect	6	ps_cue
+blocks	15	neg_cue
+########
+35
+The pavement was strewn with mangled bicycles and bodies that soon were covered with sheets .
+########
+36
+<EOP> .
+########
+37
+Zhang Ruinan , Zhou Jin , AP and Reuters contributed to this story .
+########
+38
+<EOP> .
+########
+39
+Contact the writers at williamhennely@chinadailyusa.com <EOP> .
+########

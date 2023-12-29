@@ -1,0 +1,103 @@
+Is a colossal aircraft capable of launching satellite_toting rockets into space closer to testing
+0
+Colossal rocket_launching plane rolls toward testing <EOP> .
+########
+1
+2017_06_02 07:19 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+<EOP> .
+########
+4
+SAN FRANCISCO _ A colossal aircraft capable of launching satellite_toting rockets into space is closer to testing , having been rolled out of a hangar in the desert , its creators said on Wednesday .
+testing	16	CT+	CT+
+########
+5
+<EOP> .
+########
+6
+The project , backed by billionaire Microsoft co_founder Paul Allen , has been proceeding for about six years and was on track for its first launch demonstration as early as 2019 , Stratolaunch Systems Corporation chief executive Jean Floyd said in a blog post .
+########
+7
+<EOP> .
+########
+8
+`` This marks a historic step in our work to achieve Paul G. Allen 's vision of normalizing access to low Earth orbit , '' Floyd said .
+########
+9
+<EOP> .
+########
+10
+`` This is a first_of_its_kind aircraft , so we 're going to be diligent throughout testing . ''
+########
+11
+<EOP> .
+########
+12
+In the weeks and months ahead , Stratolaunch _ touted as the biggest airliner ever built _ will be testing fuel systems , engines and more on the ground at its air and space port in the Mojave Desert , according to Floyd .
+testing	19	CT+	CT+
+will	17	ps_cue
+########
+13
+<EOP> .
+########
+14
+Support structures were removed from the plane during the past few weeks , allowing it to rest on its 28 wheels for the first time .
+########
+15
+<EOP> .
+########
+16
+The Stratolaunch aircraft weighed in at 226,796 kilograms and has the world 's largest plane wingspan , measuring 117 meters , according to the company .
+########
+17
+<EOP> .
+########
+18
+The aircraft is 73 meters from nose to end , and it is 15 meters from the ground to the tip of its vertical tail .
+########
+19
+<EOP> .
+########
+20
+When the ambitious venture was launched some six years ago by philanthropist Allen , partners in the project vowed it would revolutionize orbital travel in the post_space shuttle era .
+would	20	ps_cue
+########
+21
+<EOP> .
+########
+22
+Using huge passenger jet engines , it would tote a rocket and be able to launch payloads , satellites and someday humans into low_Earth orbit , Allen said at the time .
+would	7	ps_cue
+########
+23
+<EOP> .
+########
+24
+Allen vowed that the project would result in greater flexibility than ground_based rocket launches and better cost effectiveness for cargo and human missions to space .
+would	5	ps_cue
+########
+25
+<EOP> .
+########
+26
+Private space travel is also among the big visions of tech industry star Elon Musk , founder of the SpaceX company as well as electric car company Tesla .
+########
+27
+<EOP> .
+########
+28
+SpaceX is poised to blast off its next delivery of food , supplies and science experiments to astronauts living at the International Space Station on Thursday .
+########
+29
+<EOP> .
+########
+30
+Agence France_presse <EOP> .
+########
+31
+<EOP> .
+########

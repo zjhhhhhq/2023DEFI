@@ -1,0 +1,71 @@
+Will French media republish Macron campaign 's leaked documents
+0
+French media warned not to republish Macron campaign 's leaked documents <EOP> .
+republish	5	CT-	CT-
+not	3	neg_cue
+########
+1
+2017_05_06 19:15 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+PARIS _ The French electoral commission , which supervises the country 's presidential race , on Saturday warned local media not to republish data and information hacked from centrist candidate Emmanuel Macron 's campaign staff .
+republish	22	CT-	CT-
+not	20	neg_cue
+########
+4
+<EOP> .
+########
+5
+In a statement , the commission asked media not to report the content of the leaked documents on their websites , stressing that publishing false information would be punished under criminal law .
+not	8	neg_cue
+would	26	ps_cue
+########
+6
+<EOP> .
+########
+7
+Late on Friday , Macron 's campaign team said it had been the victim of a `` massive and coordinated hacking attack , '' leading to the diffusion of `` various internal information '' on social media .
+########
+8
+<EOP> .
+########
+9
+The leaked documents only showed the normal functioning of a presidential campaign , it added .
+########
+10
+<EOP> .
+########
+11
+However , the files posted online mixed authentic documents with fake ones to sow `` doubt and misinformation , '' according to Macron 's En Marche !
+########
+12
+LRB On the Move !
+########
+13
+RRB party .
+########
+14
+<EOP> .
+########
+15
+The alleged hacking of the leading political party in the presidential race came on the eve of the election 's run_off on Sunday .
+########
+16
+<EOP> .
+########
+17
+Pollsters predict Macron to beat far_right rival Marine Le Pen with large margin .
+predict	1	ps_cue
+########
+18
+<EOP> .
+########
+19
+In February , Macron 's staff said their campaign had been the target of cyber attacks targeting databases and e_mail servers .
+########
+20
+<EOP> .
+########

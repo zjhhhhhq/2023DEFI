@@ -1,0 +1,98 @@
+Do China and EU launch work on industry park 
+0
+China_EU launch work on industry park plan in Shenzhen <EOP> .
+park	5	PS+	PS+
+plan	6	ps_cue
+########
+1
+2017_12_09 06:43 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+China and the European Union have begun joint work on an industry park in Shenzhen , Guangdong province , to boost their cooperation in the marine economy .
+########
+4
+<EOP> .
+########
+5
+Land reclamation for the China_EU Blue Industry Park is underway in Baoan district and is to be done around 2020 .
+Park	7	CT+	PS+
+########
+6
+By 2025 , it will be fully operational , according to the Shenzhen Urban Planning and Design Institute , which designed the 1_square_kilometer park .
+will	4	ps_cue
+########
+7
+<EOP> .
+########
+8
+The plan was announced at the 2017 China_EU Blue Industry Cooperation Forum that opened in Shenzhen on Friday and will conclude on Saturday .
+plan	1	ps_cue
+will	19	ps_cue
+########
+9
+Hosted by China 's State Oceanic Administration , the event is the first of its kind between China and EU , attracting nearly 300 Chinese officials , experts and company executives as well as more than 60 EU representatives .
+########
+10
+<EOP> .
+########
+11
+The park is intended to facilitate international cooperation in marine industries and improve scientific and technological research on marine resources , said Zhang Zhanhai , head of the administration 's Strategic Planning and Marine Economy Department .
+park	1	CT+	PS+
+intended	3	ps_cue
+########
+12
+The program was initiated by the Shenzhen government and has been endorsed by his administration and the EU 's Directorate_General for Maritime Affairs and Fisheries .
+########
+13
+<EOP> .
+########
+14
+`` The European side will spread information on the park among European enterprises and research entities involved in marine industries and will also recommend suitable partners to the park , '' he said on the sidelines of the forum .
+park	9	CT+	PS+
+will	4	ps_cue
+will	21	ps_cue
+########
+15
+`` We hope it will attract companies with high_value products or advanced technologies . ''
+hope	2	ps_cue
+will	4	ps_cue
+or	10	ps_cue
+########
+16
+<EOP> .
+########
+17
+Plans call for the demonstration program to take advantage of Europe 's expertise in high_end intelligent marine equipment and Shen <EOP> .
+########
+18
+zhen 's high_tech manufacturing capacity to develop deep_sea submersibles , seabed robots and marine mineral exploitation devices for the international market .
+########
+19
+It will also combine their know_how in new marine energy , marine ecological protection and databases to strengthen their capability and competitiveness in the global market .
+will	1	ps_cue
+########
+20
+<EOP> .
+########
+21
+Wang Hong , director of the State Oceanic Administration , said China and the EU have been making joint efforts in governance , science and technology , environmental protection and disaster prevention and relief in marine sectors .
+########
+22
+They have made a lot of progress in these fields , he added .
+########
+23
+<EOP> .
+########
+24
+It was decided at the 19th China_EU Summit held in Brussels in June that the two sides would strive to build a China_EU Blue Partnership .
+would	17	ps_cue
+########
+25
+<EOP> .
+########
+26
+<EOP> .
+########

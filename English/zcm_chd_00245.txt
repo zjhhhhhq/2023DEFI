@@ -1,0 +1,184 @@
+Do more and more Chinese family travelers taste the flavor of old Los Angeles at a legendary farmers market 
+0
+Chinese tourists discover real America <EOP> .
+########
+1
+2017_04_26 11:02 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+<EOP> .
+########
+4
+Chinese visitors get a taste of old Los Angeles at the Original Farmers Market .
+########
+5
+LRB Provided to China Daily RRB <EOP> .
+########
+6
+Try a locally flavored meal , get your shoes shined , mail a postcard or just grab some groceries .
+or	14	ps_cue
+########
+7
+More and more Chinese family travelers are opting to taste the flavor of old Los Angeles at a legendary farmers market .
+taste	9	PS+	PS+
+opting	7	ps_cue
+########
+8
+<EOP> .
+########
+9
+`` They are increasingly open to explore real stories of American people , '' said Lexie Wei , a Los Angeles_based tourism consultant .
+########
+10
+`` Chinese tourists ' interest and tastes have improved .
+########
+11
+They want stories . ''
+########
+12
+<EOP> .
+########
+13
+Wei 's recent WeChat blog on the Original Farmers Market , an old farmers market in Los Angeles city , has generated more than 60,000 views in just a few weeks .
+########
+14
+<EOP> .
+########
+15
+An article introducing the market 's history and stories behind its shops and restaurants turned out to be a hit with the Chinese audience .
+########
+16
+<EOP> .
+########
+17
+`` It 's not just an average farmers market .
+not	3	neg_cue
+########
+18
+It has a rich history .
+########
+19
+It is a microcosm of the American culture , and represents the vicissitudes of Los Angeles and even the history of Chinese immigration , '' said Wei .
+########
+20
+<EOP> .
+########
+21
+Established in 1934 , the open_air market has more than 100 different shops , restaurants and grocers .
+########
+22
+It evolved from a traditional farmers market , where farmers sold their vegetables and produce to local customers , to a tourist destination .
+########
+23
+Two Chinese restaurants have been there for decades .
+########
+24
+<EOP> .
+########
+25
+`` The market is a unique place with a lot of history and charm .
+########
+26
+It 's a cultural landmark in Los Angeles , '' said Maritza Cerrato , marketing and tourism specialist with the Original Farmers Market .
+########
+27
+<EOP> .
+########
+28
+`` Ninety percent of the shops are family owned and operated .
+########
+29
+You can meet the owners , and in many shops you can see multi_generations of families working side_by_side , '' said Cerrato .
+can	1	ps_cue
+can	11	ps_cue
+########
+30
+`` Local people come here and sit at the same table every day , read newspapers and talk about the news with their friends .
+########
+31
+This is a place for visitors and locals to meet . ''
+########
+32
+<EOP> .
+########
+33
+Meeting local people and learning stories of human interest are the top reasons the farmers market is gaining popularity among Chinese travelers .
+########
+34
+<EOP> .
+########
+35
+`` There is a sandwich shop run by the original owner in his 90s , a toy store operated by a veteran and an Asian restaurant run by an American couple who had lived in Singapore for many years , '' said Wei .
+########
+36
+<EOP> .
+########
+37
+The US tour operators need to dig deep and present these stories to Chinese visitors , because in the future travelers aged 25 to 35 will make up the majority of the overseas Chinese tourists and they tend to focus on the cultural experience , said Wei .
+focus	39	PS+	PS+
+tend	37	ps_cue
+need	4	ps_cue
+will	25	ps_cue
+########
+38
+<EOP> .
+########
+39
+`` A combination of nature , stories and urban development will mostly resonate with Chinese visitors , '' she said .
+will	10	ps_cue
+########
+40
+<EOP> .
+########
+41
+The Original Farmers Market started noticing the increase in Chinese visitors a year ago .
+########
+42
+<EOP> .
+########
+43
+`` We have been proactively reaching out to the Chinese travel market and welcoming Chinese visitors for a number of years , '' said Cerrato .
+########
+44
+<EOP> .
+########
+45
+The market is a `` China Ready '' program designation , which means they offer Chinese_language brochures , a Chinese_version website and accept UnionPay , a popular bank card in China .
+########
+46
+<EOP> .
+########
+47
+Not top market yet , China is definitely a fast growing market , with 20 to 30 percent of international tourists Chinese , according to Cerrato .
+Not	0	neg_cue
+yet	3	neg_cue
+########
+48
+<EOP> .
+########
+49
+In January the market celebrated the Chinese Lunar New Year with Chinese cuisine and traditional performances for the first time .
+########
+50
+<EOP> .
+########
+51
+A hand_crafted steel rooster sculpture made by the market 's own craftsmen was displayed at the Farmers Market Plaza next to the iconic Clock Tower to celebrate the Year of Rooster .
+########
+52
+The 430_pound , 5_foot_tall sculpture will be a permanent display .
+will	5	ps_cue
+########
+53
+<EOP> .
+########
+54
+`` It was so much fun and we will do it again next year to welcome more Chinese , '' said Cerrato .
+will	8	ps_cue
+########
+55
+<EOP> .
+########

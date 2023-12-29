@@ -1,0 +1,110 @@
+Will China_Thailand high_speed railway be operational in early 2023
+0
+China_Thailand high_speed railway to be operational in early 2023 : Thai minister <EOP> .
+operational	5	CT+	CT+
+########
+1
+2017_12_23 16:29 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+BANGKOK _ A Thai minister said the China_Thailand railway , the kingdom 's first high_speed railway , would greatly contribute to the development of Thailand 's landlocked northeast and the first phase of the project is expected to be operational in late 2022 or early 2023 .
+operational	39	CT+	CT+
+would	17	ps_cue
+expected	36	ps_cue
+or	43	ps_cue
+########
+4
+<EOP> .
+########
+5
+The project , under the Belt and Road Initiative , ushers in a new era of high_speed railway in Thailand , Transport Minister Arkhom Termpittayapaisith told Xinhua , adding that the railway , passing mostly landlocked northeastern Thailand , the kingdom 's poorest region , will contribute to the industrial and tourism development there .
+will	45	ps_cue
+########
+6
+<EOP> .
+########
+7
+Thailand and China jointly inaugurated the construction of the first phase of China_Thailand high_speed railway , which links Bangkok and northeastern province of Nakhon Ratchasima at the province 's Pak Chong district , on Thursday .
+########
+8
+<EOP> .
+########
+9
+Of the first phase , the first 3.5 _ km section is located between two railway stations _ Klang Dong and Pang Asok _ in Nakhon Ratchasima .
+########
+10
+The second section of 11 km , the third of 119.5 km and the fourth of 119 km are to open for bidding later .
+########
+11
+<EOP> .
+########
+12
+The 253_km first phase , together with the planned 355_km second phase from Nakhon Ratchasima to Nong Khai Pronvince on the Thai_Lao border , would connect with the China_Laos railway to form an artery railway linking Thailand , Laos and China in the future .
+planned	8	ps_cue
+would	24	ps_cue
+########
+13
+<EOP> .
+########
+14
+The minister said there would be six stations along the Bangkok_Nakhon Ratchasima high_speed railway , or the the first phase , among them Pak Chong station would be very likely one station for the railroad .
+would	4	ps_cue
+or	15	ps_cue
+would	26	ps_cue
+likely	29	ps_cue
+########
+15
+<EOP> .
+########
+16
+`` If we complete the Pak Chong station , foreign tourists can travel from Bangkok to Pak Chong in an hour to enjoy Khao Yai National Park , '' Arkhom said .
+can	11	ps_cue
+########
+17
+<EOP> .
+########
+18
+`` We expect tourism would bloom when the high_speed railway is completed , '' he emphasized that tourism may be the most efficient way to improve local people 's lives .
+expect	2	ps_cue
+would	4	ps_cue
+may	18	ps_cue
+########
+19
+<EOP> .
+########
+20
+The minister also said the high_speed train will bring investments to the region which has one_third of the country 's population and lands , but only accounts for one_tenth of Thailand 's total GDP .
+will	7	ps_cue
+########
+21
+<EOP> .
+########
+22
+Arkhom believed that the high_speed railway is a great opportunity for northeastern Thailand as he expected it would contribute to poverty reduction in the region , exactly like what high_speed railways did in China .
+believed	1	ps_cue
+expected	15	ps_cue
+would	17	ps_cue
+like	27	ps_cue
+########
+23
+<EOP> .
+########
+24
+He also mentioned that his ministry would complete the bidding process for the first phase in 2018 , which is expected to be operational in late 2022 or early 2023 .
+would	6	ps_cue
+expected	20	ps_cue
+or	27	ps_cue
+########
+25
+<EOP> .
+########
+26
+As for the second phase , he said that his ministry is going to submit it for cabinet approval next year and will try to complete the railway in 2023 as well to connect it with the China_Laos railway in time .
+will	22	ps_cue
+########
+27
+<EOP> .
+########

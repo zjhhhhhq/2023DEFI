@@ -1,0 +1,99 @@
+Is UK an important partner in the Belt and Road Initiative
+0
+UK viewed as a Belt and Road Initiative partner <EOP> .
+partner	8	CT+	CT+
+########
+1
+2017_10_17 17:02 <EOP> .
+########
+2
+China Daily UK <EOP> .
+########
+3
+The United Kingdom is an important partner in the Belt and Road Initiative , a senior Chinese official said in London on Monday .
+partner	6	CT+	CT+
+########
+4
+<EOP> .
+########
+5
+Zhu Qin , minister and deputy head of mission at China 's embassy in the UK , said the Belt and Road Initiative , which seeks to create inclusive global growth through infrastructure connectivity , `` has become a new highlight of the China_UK ` golden era ' and will continue to be so '' .
+seeks	25	ps_cue
+will	49	ps_cue
+########
+6
+<EOP> .
+########
+7
+Zhu made the remarks at the Royal Institute of International Affairs at Chatham House , where he addressed an audience of academics , financial industry experts , and journalists .
+########
+8
+<EOP> .
+########
+9
+He said the two countries should reinforce policy coordination to further strengthen Belt and Road collaboration , and especially increase cooperation in financial services , infrastructure , science and technology , and people_to_people exchanges .
+coordination	8	CT+	CT+
+should	5	ps_cue
+########
+10
+<EOP> .
+########
+11
+Zhu added that the Belt and Road vision offers a timely solution to boost world development .
+########
+12
+<EOP> .
+########
+13
+`` The Belt and Road is an initiative that focuses on the fundamental issues of development .
+########
+14
+It aims LRB to achieve RRB more inclusive globalization that benefits more people , '' he said .
+########
+15
+`` We want to integrate China 's developments with the developments of other countries around the region and this is the benefit of win_win collaboration of China and abroad . ''
+########
+16
+<EOP> .
+########
+17
+Initially proposed by President Xi Jinping in 2013 , the Belt and Road Initiative seeks to foster economic growth by boosting trade and investment links between Europe , Asia , and Africa .
+proposed	1	ps_cue
+seeks	14	ps_cue
+########
+18
+<EOP> .
+########
+19
+The British government has keenly endorsed the initiative .
+########
+20
+Chancellor Philip Hammond said at the Belt and Road Forum in Beijing in May that `` Britain , lying at the western end of the Belt and Road , is a natural partner in this endeavor '' .
+partner	32	CT+	CT+
+May	13	ps_cue
+########
+21
+The summit was attended by representatives from more than 130 countries and territories , as well as at least 80 international organizations .
+########
+22
+<EOP> .
+########
+23
+Last month , the City of London led the establishment of the Belt and Road Investor Alliance in Beijing , which was supported by both the Chinese and British governments .
+########
+24
+The alliance will lead the development of guidelines for Belt and Road projects , enabling the improved management of environmental risks , and making projects more attractive to investors .
+will	2	ps_cue
+########
+25
+<EOP> .
+########
+26
+Many of the UK 's private_sector organizations are already developing products and solutions linked to the Belt and Road vision .
+########
+27
+For example , London_based ICBC Standard Bank launched two indexes that pull data from 65 countries within the area covered by the Belt and Road Initiative , so transparent and quantifiable information is available .
+########
+28
+<EOP> .
+########

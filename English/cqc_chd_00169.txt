@@ -1,0 +1,62 @@
+Does South Korea and the United States hold a summit meeting
+0
+South Korea , US to hold summit meeting in late June <EOP> .
+summit	6	CT+	CT+
+########
+1
+2017_05_16 15:58 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+SEOUL _ South Korea and the United States have agreed to hold a summit meeting in Washington in late June , the presidential Blue House said Tuesday .
+summit	13	CT+	CT+
+########
+4
+<EOP> .
+########
+5
+Senior presidential press secretary Yoon Young_chan told a press briefing that the summit between South Korean President Moon Jae_in and US President Donald Trump will be held in late June in the US capital .
+summit	12	CT+	CT+
+will	24	ps_cue
+########
+6
+<EOP> .
+########
+7
+Detailed schedule and agenda for the summit will be discussed later through diplomatic channels , Yoon said .
+summit	6	CT+	CT+
+will	7	ps_cue
+########
+8
+<EOP> .
+########
+9
+The agreement on the summit was reached at a meeting between Matt Pottinger , a senior director for East Asia at the National Security Council of the White House and Chung Eui_yong , a former South Korean ambassador to Geneva who now leads Moon 's security and diplomatic task force .
+summit	4	CT+	CT+
+########
+10
+<EOP> .
+########
+11
+Pottinger who was leading a US delegation arrived here Monday evening .
+########
+12
+He paid a courtesy call to President Moon and delivered Trump 's congratulations to Moon , according to the Blue House .
+########
+13
+<EOP> .
+########
+14
+He is the first senior White House official visiting South Korea since President Moon was inaugurated last week .
+########
+15
+<EOP> .
+########
+16
+The Blue House said South Korea and the United States agreed to seek a `` bold and practical '' measure for a denuclearized Korean Peninsula .
+########
+17
+<EOP> .
+########

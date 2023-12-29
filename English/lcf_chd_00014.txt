@@ -1,0 +1,160 @@
+Is there anyone distressed by the incident
+0
+UK minister named as ` sex pest ' scandal hits Westminster <EOP> .
+########
+1
+2017_11_02 15:23 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+<EOP> .
+########
+4
+LONDON _ British Defense Secretary Michael Fallon was the latest British politician on Wednesday to be named in a sexual harassment scandal that has erupted in the Houses of Parliament .
+########
+5
+<EOP> .
+########
+6
+Prime Minister Theresa May has called for urgent action after a catalog of complaints of inappropriate behavior by MPs and ministers toward women .
+May	3	ps_cue
+########
+7
+<EOP> .
+########
+8
+International Trade Minister Mark Garnier is already being investigated after it was revealed he asked his secretary to go to a shop in London 's `` sex '' quarter of Soho to buy two sex toys .
+########
+9
+<EOP> .
+########
+10
+Fallon 's name has now been drawn into the debate after national newspapers told how he had touched the knee of a well_known female broadcaster and columnist .
+########
+11
+<EOP> .
+########
+12
+<EOP> .
+########
+13
+<EOP> .
+########
+14
+The `` victim '' of that incident , Julia Hartley_Brewer , responded on social media , saying : `` This ` incident ' happened in 2002 .
+########
+15
+No one was remotely upset or distressed by it .
+distressed	6	CT-	CT-
+No	0	neg_cue
+or	5	ps_cue
+########
+16
+My knees remain intact . ''
+########
+17
+<EOP> .
+########
+18
+Hartley_Brewer said she did not consider herself a victim after the incident which happened over dinner at a Conservative Party conference .
+victim	8	CT-	CT-
+not	4	neg_cue
+consider	5	ps_cue
+########
+19
+<EOP> .
+########
+20
+The journalist said of the incident : `` After the minister kept putting his hand on my knee , I calmly and politely explained to him that , if he did it again , I would punch him in the face .
+would	35	ps_cue
+########
+21
+He withdrew his hand and that was the end of the matter . ''
+end	8	CT+	CT-
+########
+22
+<EOP> .
+########
+23
+But the tabloid Sun made Fallon the subject of its front page splash story on Tuesday , with the headline _ `` Fallon : I felt radio host 's knee '' .
+########
+24
+The papers sub_heading read : `` Shock confession as sex pest dossier implicates six cabinet members '' .
+########
+25
+<EOP> .
+########
+26
+A spokesman for Fallon said he had apologized when it happened in 2002 , adding : `` He apologized when the incident happened 15 years ago and both Julia and he now considered the matter closed . ''
+considered	32	ps_cue
+########
+27
+<EOP> .
+########
+28
+But the harassment debate , dubbed `` Pestminster '' by the newspaper , has continued to dominate the world of politics .
+########
+29
+<EOP> .
+########
+30
+The London_based Times reports that government ministers face being fired in `` sex pest crackdown '' .
+########
+31
+<EOP> .
+########
+32
+In a debate in the House of Commons on Monday , Speaker John Bercow said there must be zero_tolerance toward harassment and bullying on the Palace of Westminster estate .
+########
+33
+<EOP> .
+########
+34
+` Dirty dossier ' <EOP> .
+########
+35
+<EOP> .
+########
+36
+The Leader of the House of Commons , Andrea Leadsom , has called for action over the issue within days rather than weeks .
+rather	20	neg_cue
+########
+37
+<EOP> .
+########
+38
+In its online platform on Tuesday , the Daily Telegraph claims a Conservative Minister and an MP have been accused of paying women to be silent in a so_called `` dirty dossier '' being shared by party staff .
+########
+39
+<EOP> .
+########
+40
+The newspaper said the new disclosures come amid a growing sexual harassment scandal at Westminster , with some 40 Conservative MPs being named in the `` dossier '' .
+########
+41
+In the list obtained by The Telegraph , seven Cabinet ministers , eight former ministers and 15 other members of the Government are named .
+########
+42
+<EOP> .
+########
+43
+The Telegraph said of the MPs named in the list , 25 are alleged to have behaved inappropriately .
+########
+44
+Thirteen MPs are named over consensual relationships or personal sexual preferences , while two others are alleged to have made women pregnant .
+or	7	ps_cue
+########
+45
+<EOP> .
+########
+46
+Xinhua <EOP> .
+########
+47
+<EOP> .
+########
+48
+LRB China Daily 11_02_2017 page12 RRB <EOP> .
+########

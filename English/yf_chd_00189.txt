@@ -1,0 +1,72 @@
+Does China reduce capital city 's air pollution
+0
+UN official hails Chinese efforts to reduce capital city 's air pollution <EOP> .
+hails	2	CT+	CT+
+########
+1
+2017_12_03 11:44 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+Helena Valdes , a leading expert in sustainable development and climate change with the UN Environmental Programme , told Xinhua in Nairobi that China has shown great political will and decisiveness in tackling air pollution .
+shown	25	CT+	CT+
+will	28	ps_cue
+########
+4
+<EOP> .
+########
+5
+`` Air pollution is something that many cities in the world struggle with , but are unable to solve but China has made commendable efforts to reduce drastically the amount of pollutants emitted into the atmosphere in Beijing , '' Valdes said during one of the side events of the UN Science Policy Business Forum on the Environment .
+made	22	CT+	CT+
+unable	16	neg_cue
+########
+6
+<EOP> .
+########
+7
+Valdes said that when China identified through scientific studies the extent of air pollution in Beijing , the Chinese capital city , it launched an ambitious program to begin cleaning the air of the city .
+launched	23	CT+	CT+
+########
+8
+<EOP> .
+########
+9
+She said that the World Health Organization is currently monitoring the air quality of many cities including Beijing and what is clear is that the Asian city has made tremendous progress in reducing the level of pollution .
+########
+10
+<EOP> .
+########
+11
+According to the UN , China has achieved success due to implementation of policies and measures that promote use of green energy sources as well as holding people accountable for delivering on the set targets .
+########
+12
+<EOP> .
+########
+13
+She noted that heavy industries were relocated from Beijing while residents were encouraged to use renewable sources of energy .
+encouraged	12	ps_cue
+########
+14
+<EOP> .
+########
+15
+Valdes , also head of the secretariat of the Climate and Clean Air Coalition LRB CCAC RRB , said that African nations can borrow critical lessons from China 's success .
+can	22	ps_cue
+########
+16
+<EOP> .
+########
+17
+She noted that the Asian nation has used a number of incentives to promote the expansion of green industries .
+########
+18
+<EOP> .
+########
+19
+`` There are a number of development banks that offer financial products to encourage entrepreneurs to engage in the green economy industries , '' he added .
+########
+20
+<EOP> .
+########

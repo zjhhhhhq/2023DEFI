@@ -1,0 +1,103 @@
+Was an acquisition bid by an unidentified Chinese automaker
+0
+Chinese company offers to buy Fiat Chrysler : Report <EOP> .
+########
+1
+2017_08_15 01:49 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+Fiat Chrysler Automobiles NV , bailed out by US taxpayers during the financial crisis , recently rejected an acquisition bid by an unidentified Chinese automaker , according to Automotive News .
+bid	19	CT-	CT-
+rejected	16	neg_cue
+########
+4
+<EOP> .
+########
+5
+The Chinese automaker made at least one offer this month to buy Fiat Chrysler at a small premium over its market value , Automotive News reported on Monday .
+########
+6
+The offer was rejected for not being enough , the industry publication said .
+offer	1	CT-	CT-
+rejected	3	neg_cue
+not	5	neg_cue
+########
+7
+<EOP> .
+########
+8
+Automotive News also saidthat that other Chinese auto companies could be considering a bid for the maker of the Jeep , Ram , Chrysler and Dodge brands .
+could	9	ps_cue
+########
+9
+<EOP> .
+########
+10
+A Fiat Chrysler spokeswoman on Monday declined to comment on the report , according to the Detroit Free Press .
+declined	6	neg_cue
+########
+11
+<EOP> .
+########
+12
+The US government began a bailout of the American auto industry in 2008 under President George W. Bush with $ 25 billion in aid to General Motors Co , Chrysler and their lending units .
+########
+13
+Then President Barack Obama added about $ 55 billion to the total .
+########
+14
+<EOP> .
+########
+15
+Fiat , based in Italy , picked up 58.5 percent of Chrysler in 2009 amid the bailout and in 2014 assumed full ownership of Chrysler .
+########
+16
+<EOP> .
+########
+17
+In January John Murphy , an auto analyst with Bank of America Merrill Lynch , raised the possibility of Fiat Chrysler being purchased by a Chinese automaker in the next three to five years _ maybe with help from the Chinese government .
+possibility	17	ps_cue
+maybe	35	ps_cue
+########
+18
+<EOP> .
+########
+19
+Murphy said Fiat Chrysler could resolve its debt issues by partnering with a company including a Chinese automaker looking to enter the US market , the Detroit News reported .
+could	4	ps_cue
+########
+20
+He said a Chinese auto company would also have to put a lot of capital into Fiat Chrysler .
+would	6	ps_cue
+########
+21
+<EOP> .
+########
+22
+Fiat Chrysler CEO Sergio Marchionne has been open to industry consolidation to cut expenses and attract investment in the capital_intensive global auto business .
+########
+23
+<EOP> .
+########
+24
+Chinese automakers have reportedly been interested in entering the competitive US market .
+########
+25
+In January Guangzhou Automobile Group or GAC , said it would open a research and development LRB RandD RRB center in Silicon Valley in California .
+or	5	ps_cue
+would	10	ps_cue
+########
+26
+<EOP> .
+########
+27
+`` We would like to be in the US market and the RandD center is a good start , '' said Liang Weibiao , GAC vice_president .
+would	2	ps_cue
+like	3	ps_cue
+########
+28
+<EOP> .
+########

@@ -1,0 +1,230 @@
+Do people 's mental facilities change with age
+0
+Notes on aging for the New Year , keeping your noodle sharp <EOP> .
+########
+1
+2017_12_29 16:31 <EOP> .
+########
+2
+China Daily USA <EOP> .
+########
+3
+In 2015 , 9.5 percent of the population of China was aged 65 or older .
+or	13	ps_cue
+########
+4
+The UN projects this percentage to rise to 27.5 by 2050 , roughly 329 million souls .
+########
+5
+<EOP> .
+########
+6
+The number of Americans over the age of 65 is projected to more than double in the next 40 years , increasing from 40.2 million in 2010 to 88.5 million in 2050 .
+projected	10	ps_cue
+########
+7
+<EOP> .
+########
+8
+It 's well known and accepted that people 's mental facilities change with age .
+change	11	CT+	CT+
+########
+9
+Gerontologists in both countries are racing to understand the normal and abnormal changes in cognitive function that come with going gray .
+understand	7	CT+	CT+
+########
+10
+<EOP> .
+########
+11
+Studying older people can be tricky for scientists for two reasons : They may either be too ill to participate or they may be too well , too active and not have the time or interest .
+can	3	ps_cue
+may	13	ps_cue
+either	14	ps_cue
+or	20	ps_cue
+may	22	ps_cue
+not	30	neg_cue
+or	34	ps_cue
+########
+12
+<EOP> .
+########
+13
+Cognitive function decline can also be affected by culture , lifestyle , education and a host of other variables .
+can	3	ps_cue
+########
+14
+<EOP> .
+########
+15
+Also , the onset of dementia is sneaky and can often be misdiagnosed .
+can	9	ps_cue
+########
+16
+Insidious is the medical term .
+########
+17
+Changes in memory are the most common complaints among older adults .
+are	3	CT+	CT+
+########
+18
+<EOP> .
+########
+19
+There are several types of memory : the conscious recall of facts and events , including language usage and autobiographical events at specific times and places , and then subconscious memory , like singing a Christmas carol or riding a bike .
+like	32	ps_cue
+or	37	ps_cue
+########
+20
+<EOP> .
+########
+21
+No two people age the same .
+No	0	neg_cue
+########
+22
+Part of that is genetic ; studies suggest that DNA accounts for about 60 percent of the differences in cases .
+suggest	7	ps_cue
+########
+23
+Other factors include illness or disabilities .
+or	4	ps_cue
+########
+24
+<EOP> .
+########
+25
+But what causes the other differences could hold a key .
+could	6	ps_cue
+########
+26
+What are some people doing that others are not doing and could be ?
+not	8	neg_cue
+could	11	ps_cue
+########
+27
+<EOP> .
+########
+28
+Activities associated with high cognitive functioning in older adults are broken into three groups : <EOP> .
+########
+29
+Intellectually challenging things like puzzles , discussion groups , reading , surfing the web , playing bridge or board games or a musical instrument or doing complex jobs .
+like	3	ps_cue
+or	17	ps_cue
+or	20	ps_cue
+or	24	ps_cue
+########
+30
+<EOP> .
+########
+31
+Physical activity like exercise , dancing and gardening .
+like	2	ps_cue
+########
+32
+<EOP> .
+########
+33
+And thirdly , social engagement , such as travel , going to shows and concerts and socializing with family and friends .
+########
+34
+<EOP> .
+########
+35
+A recent study of older Chinese_American adults published in the Dec 22 edition of Gerontology reported that social relationships and networking may indeed be a key to cognitive health in older adults .
+may	21	ps_cue
+########
+36
+<EOP> .
+########
+37
+The study used data from the Population Study of Chinese Elderly LRB PINE RRB , which started in 2011 and has interviewed more than 3,000 Chinese older adults living in the greater Chicago area .
+########
+38
+<EOP> .
+########
+39
+Age_related cognitive impairment affects 17 percent to 34 percent of older adults who live in communities , the study said .
+########
+40
+<EOP> .
+########
+41
+It also cited the growing concern about older adults and their cognitive health as they age and the growing interest in learning how to improve cognitive performance in later life .
+concern	5	ps_cue
+########
+42
+<EOP> .
+########
+43
+According to the study , a social network has multiple dimensions , including the quantity , structure and quality of social relationships .
+########
+44
+<EOP> .
+########
+45
+Drs Xinqi Dong and Mengting Li of the Rush University Medical Center 's Institute for Healthy Aging found that certain factors like more members in a social network , higher frequency of contact , more kinds of relations LRB family , friend and co_worker RRB , and higher emotional closeness facilitates cognitive function in Chinese older immigrants .
+like	21	ps_cue
+########
+46
+<EOP> .
+########
+47
+They also found those social network factors may have different impacts on different types of memory .
+may	7	ps_cue
+########
+48
+<EOP> .
+########
+49
+`` Social relationships play a significant role in cognitive function in later life , '' they write .
+########
+50
+`` Building age_friendly communities may enable older adults to actively participate in community activities to build more connections and facilitate cognitive function .
+may	4	ps_cue
+########
+51
+<EOP> .
+########
+52
+`` With respect to Chinese older immigrants , health_care professionals should be aware of the impact of social network changes on their cognitive function , and take a culturally relevant approach to help them rebuild and strengthen their social relationships in the US . ''
+should	10	ps_cue
+########
+53
+<EOP> .
+########
+54
+`` Research shows social behavior has effects on individuals ' health .
+########
+55
+Social behaviors are more modifiable compared to genetic factors , '' Dong said in a statement .
+########
+56
+`` We may help maintain or improve seniors ' cognitive function through strengthening their social relations . ''
+may	2	ps_cue
+or	5	ps_cue
+########
+57
+<EOP> .
+########
+58
+With a new year around the corner , there 's no time like the present .
+no	10	neg_cue
+like	12	ps_cue
+########
+59
+<EOP> .
+########
+60
+As one demographer at the Chinese Academy of Social Sciences told The Atlantic , `` The old people of tomorrow are already here . ''
+########
+61
+<EOP> .
+########
+62
+Contact the writer at chrisdavis@chinadailyusa.com .
+########
+63
+<EOP> .
+########

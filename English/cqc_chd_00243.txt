@@ -1,0 +1,117 @@
+Who will be winner if war breaks out on Korean Peninsula
+0
+No winners if war breaks out on Korean Peninsula : China <EOP> .
+winners	1	CT-	CT-
+No	0	neg_cue
+########
+1
+2017_04_14 19:40 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+`` We urge all parties to refrain from inflammatory or threatening statements or deeds to prevent irreversible damage to the situation on the Korean Peninsula , '' Wang said when meeting with the press following talks with French Foreign Minister Jean_Marc Ayrault .
+or	9	ps_cue
+or	12	ps_cue
+prevent	15	neg_cue
+########
+4
+<EOP> .
+########
+5
+`` There has been heightened tension between the United States , the Republic of Korea LRB ROK RRB and the Democratic People 's Republic of Korea LRB DPRK RRB .
+########
+6
+This precarious situation deserves our attention and concern , '' Wang said .
+concern	7	ps_cue
+########
+7
+<EOP> .
+########
+8
+China has always opposed any rhetoric or actions that could escalate tensions and , as history has shown us , dialogue has proved to be the only solution , he said .
+opposed	3	neg_cue
+or	6	ps_cue
+could	9	ps_cue
+########
+9
+<EOP> .
+########
+10
+`` On the Korean Peninsula issue , it is not the one who espouses hasher rhetoric or raises a bigger fist that will win , '' Wang said .
+win	23	CT-	CT-
+not	9	neg_cue
+or	16	ps_cue
+will	22	ps_cue
+########
+11
+<EOP> .
+########
+12
+`` If war breaks out on the Korean Peninsula , multiple parties will lose and no one will win , '' Wang stressed .
+will	12	ps_cue
+no	15	neg_cue
+will	17	ps_cue
+########
+13
+<EOP> .
+########
+14
+The foreign minister underscored that the calls for the resumption of dialogue and negotiation are the very opportunities that China has worked hard to find and should all parties grasp them .
+opportunities	17	ps_cue
+should	26	ps_cue
+########
+15
+<EOP> .
+########
+16
+China is willing to present a feasible and detailed plan about the `` dual_track approach '' and `` suspension for suspension '' and is open to all helpful advice , Wang said .
+willing	2	ps_cue
+plan	9	ps_cue
+########
+17
+<EOP> .
+########
+18
+`` The resumption of talks can be flexible .
+can	5	ps_cue
+########
+19
+China supports all kinds of dialogue , regardless of if it is formal or informal , about denuclearization or peace mechanism , or involves two , three or four parties , '' he said .
+or	13	ps_cue
+or	18	ps_cue
+or	22	ps_cue
+or	27	ps_cue
+########
+20
+<EOP> .
+########
+21
+China has proposed a `` dual_track approach '' to denuclearize the Peninsula and establish a peace mechanism as well as `` suspension for suspension '' , which would defuse the looming crisis there .
+proposed	2	ps_cue
+would	27	ps_cue
+########
+22
+<EOP> .
+########
+23
+`` As a first step , the DPRK may suspend its nuclear and missile activities in exchange for the suspension of large_scale U.S. _ ROK military exercises , '' Wang said at a press conference last month .
+may	8	ps_cue
+suspend	9	neg_cue
+########
+24
+<EOP> .
+########
+25
+The United States has sent the USS Carl Vinson aircraft carrier group to waters near the Korean Peninsula in what it called a `` reaction to provocations '' from recent missile tests .
+########
+26
+<EOP> .
+########
+27
+Asked to comment on media reports that the DPRK is prepared to test launch more missiles , Foreign Ministry spokesperson Geng Shuang said China was following the developments and that UN resolutions demand the DPRK abandon all the nuclear programs .
+########
+28
+<EOP> .
+########

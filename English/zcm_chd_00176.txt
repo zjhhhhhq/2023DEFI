@@ -1,0 +1,93 @@
+Does the international community need to consider the national conditions and needs of mine_affected countries
+0
+Envoy calls for concerted effort on landmines <EOP> .
+########
+1
+2017_06_15 09:22 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+A senior Chinese envoy called for more international assistance and cooperation on mine action to reduce the threat from landmines and other explosive devices .
+########
+4
+<EOP> .
+########
+5
+Wu Haitao , deputy permanent representative of China to the UN , made the remarks on Tuesday at a United Nations Security Council briefing on a comprehensive approach to mine action and explosive_hazard threat mitigation .
+########
+6
+<EOP> .
+########
+7
+To address humanitarian concerns over explosive devices such as landmines , Wu said the international community needs to consider the national conditions and needs of mine_affected countries .
+consider	18	PS+	PS+
+needs	16	ps_cue
+consider	18	ps_cue
+needs	23	ps_cue
+########
+8
+<EOP> .
+########
+9
+Differences in security environments and military capabilities should be respected , and de_mining efforts should be geared toward countries ' self_reliance as opposed to external assistance , he said .
+respected	9	PS+	PS+
+should	7	ps_cue
+should	14	ps_cue
+opposed	22	neg_cue
+########
+10
+<EOP> .
+########
+11
+China has put great importance to humanitarian concerns stemming from the use of improvised explosive devices by non_State actors .
+########
+12
+Wu mentioned President Xi Jinping 's announcement at the 70th General Assembly that China would launch 10 mine_clearing assistance programs .
+would	14	ps_cue
+########
+13
+<EOP> .
+########
+14
+Speakers agreed that mine action is not limited to removing remnants of war and needs to become part of a toolkit to help communities and countries recover and pursue sustainable peace .
+not	6	neg_cue
+needs	14	ps_cue
+########
+15
+<EOP> .
+########
+16
+UN has its Mine Action Service and Mine Action Gateway directly on demining efforts and sustainable peace .
+########
+17
+<EOP> .
+########
+18
+According to Bolivia 's ambassador to the UN Sacha Sergio Llorenty Soliz , negotiations are under way on a draft council resolution that would emphasize the importance of mine action for peacekeeping , peace and security .
+would	23	ps_cue
+########
+19
+<EOP> .
+########
+20
+Tekeda Alemu , Ethiopia 's ambassador to the UN , said the draft resolution would send a strong signal on the need to mitigate the threat posed by landmines and other explosive devices .
+would	14	ps_cue
+need	21	ps_cue
+########
+21
+<EOP> .
+########
+22
+He said his country has suffered from the impact of landmines and other explosive devices for decades , and attached great importance to mitigating their effects .
+########
+23
+<EOP> .
+########
+24
+<EOP> .
+########
+25
+<EOP> .
+########

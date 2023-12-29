@@ -1,0 +1,47 @@
+Are 116 killed , over 800 injured in traffic accidents on Myanmar 's highway in 2017
+0
+116 killed , over 800 injured in traffic accidents on Myanmar 's highway in 2017 <EOP> .
+accidents	8	CT+	CT+
+########
+1
+2018_01_02 15:52 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+YANGON __ A total of 116 people have been killed , 863 injured in traffic accidents on Myanmar 's Yangon_Mandalay highway in 2017 , the official Global New Light of Myanmar reported Tuesday .
+accidents	15	CT+	CT+
+########
+4
+<EOP> .
+########
+5
+A total of 555 traffic accidents cases occurred on the country 's busiest highway last year , due to the reckless , drowsy driving , road slip , over speeding and other reasons , <EOP> .
+accidents	5	CT+	CT+
+########
+6
+There were 744 traffic accidents killing 170 people with 1,304 others injured in 2016 .
+accidents	4	CT+	CT+
+########
+7
+<EOP> .
+########
+8
+Aiming to enhance better traffic safety along the highway , Myanmar has increased the number of road safety police , opening 16 police stations along the road since 2012 .
+########
+9
+<EOP> .
+########
+10
+The authorities has been repairing the damaged parts of the highway to enhance road conditions .
+########
+11
+<EOP> .
+########
+12
+The 587 kilometer_long highway , connecting the country 's commercial city Yangon and the second largest city Mandalay was opened to reduce the travel time between the two cities in December 2010 .
+########
+13
+<EOP> .
+########

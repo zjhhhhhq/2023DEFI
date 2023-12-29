@@ -1,0 +1,131 @@
+Does Beijing manipulate its currency boosts ties
+0
+Trade with US to rise as strain eases <EOP> .
+########
+1
+2017_04_14 05:46 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+Trump statement that Beijing does not manipulate its currency boosts ties <EOP> .
+manipulate	6	CT-	CT-
+not	5	neg_cue
+########
+4
+China is willing to push forward the development of more balanced economic and trade ties with the United States , the Foreign Ministry said on Thursday in response to US President Donald Trump 's decision to not label China as a currency manipulator .
+label	37	CT-	CT-
+not	36	neg_cue
+willing	2	ps_cue
+forward	5	ps_cue
+forward	5	neg_cue
+########
+5
+<EOP> .
+########
+6
+`` We have no intention to stimulate exports by devaluing the currency , and there is no basis for a continuous devaluation of the renminbi , '' ministry spokesman Lu Kang said at a regular news conference .
+no	3	neg_cue
+no	16	neg_cue
+########
+7
+<EOP> .
+########
+8
+At the first meeting of President Xi Jinping and Trump in Florida last week , the two leaders had a `` long and deep discussion '' on the economic and trade issue .
+########
+9
+They reached an important consensus on making joint efforts to expand cooperation in all areas and properly handle disagreements , Lu said .
+########
+10
+<EOP> .
+########
+11
+`` China , of course , is not a currency manipulator -- that is an objective fact , '' Lu said , adding that China would continue to press ahead with reforms of the procedure used to determine the RMB exchange rate .
+manipulator	10	CT-	CT-
+not	7	neg_cue
+would	25	ps_cue
+########
+12
+<EOP> .
+########
+13
+Lu was responding to Trump 's recent statement that his administration would not label China a currency manipulator and his complaint that the US dollar was too strong .
+label	13	CT-	CT-
+not	12	neg_cue
+would	11	ps_cue
+########
+14
+<EOP> .
+########
+15
+In an interview with The Wall Street Journal on Wednesday , Trump said `` they LRB the Chinese RRB are not currency manipulators '' .
+manipulators	22	CT-	CT-
+not	20	neg_cue
+########
+16
+<EOP> .
+########
+17
+During his election campaign , Trump had accused China of manipulating its currency to unfairly gain from exports , but many economists have argued that the RMB has remained in equilibrium in recent years .
+########
+18
+<EOP> .
+########
+19
+In 2015 , the International Monetary Fund said the RMB was not undervalued .
+not	11	neg_cue
+########
+20
+<EOP> .
+########
+21
+Huang Songping , spokesman for the General Administration of Customs , responded to Trump 's remarks , saying on Thursday that China and the US have set a 100_day conversation process to discuss the bilateral trade issue .
+########
+22
+<EOP> .
+########
+23
+The two countries have become each other 's largest trade partner , which has benefited the people of both , he said , adding that trade between the two nations increased by 21.3 percent in the first quarter of this year .
+########
+24
+<EOP> .
+########
+25
+The enhanced communication between China and the United States is conducive to the healthy development of bilateral trade and investment , he said .
+########
+26
+<EOP> .
+########
+27
+Ruan Zongze , executive vice_president of the China Institute of International Studies , said Trump 's remarks on the currency issue are positive .
+########
+28
+<EOP> .
+########
+29
+`` The meeting between Xi and Trump in Florida has mapped out the blueprint for Sino_US relations , and the two countries will have more dialogues and more cooperation in the next step , '' he said .
+will	22	ps_cue
+########
+30
+<EOP> .
+########
+31
+Su Jian , an economics professor at Peking University , said Trump 's remarks showed that China and the US have reached consensus on the currency issue , given that China does n't want the RMB to devaluate , while the US does n't want a strong dollar .
+n't	32	neg_cue
+n't	43	neg_cue
+########
+32
+<EOP> .
+########
+33
+The previous devaluation trend of RMB is ending , he said , adding that the RMB exchange rate is likely to maintain stable in the coming months .
+likely	19	ps_cue
+########
+34
+<EOP> .
+########
+35
+Wang Yanfei contributed to the story <EOP> .
+########

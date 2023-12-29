@@ -1,0 +1,187 @@
+Do nations ' young hold keys to exchange
+0
+Nations ' young hold keys to exchange : Liu <EOP> .
+exchange	6	CT+	CT+
+########
+1
+2017_09_29 12:33 <EOP> .
+########
+2
+China Daily USA <EOP> .
+########
+3
+<EOP> .
+########
+4
+At the heart of people_to_people exchange are young people , Vice_Premier Liu Yandong said on Thursday .
+########
+5
+<EOP> .
+########
+6
+Liu spoke at the US_China Social and Cultural Dialogue LRB SCD RRB at George Washington University , an event that highlighted people_to_people and cultural exchanges between China and the United States .
+########
+7
+<EOP> .
+########
+8
+`` The people_to_people exchange is a career that faces the public and the future .
+########
+9
+It has the special effect of building the bridges between hearts and minds , '' Liu said .
+########
+10
+<EOP> .
+########
+11
+Liu said that young people have been the pioneering power in such exchanges .
+########
+12
+`` I hope the young people can build a global vision , embrace a global perspective and face the future , '' she said .
+hope	2	ps_cue
+can	6	ps_cue
+########
+13
+`` I hope the young people in the two countries hold up the spirit of innovation , inspire each other and build the dream hand in hand . ''
+hope	2	ps_cue
+########
+14
+<EOP> .
+########
+15
+Liu said she hopes that young people `` can enhance the emotional ties , promote mutual understanding and deepen the friendships '' .
+enhance	9	CT+	CT+
+promote	14	CT+	CT+
+hopes	3	ps_cue
+can	8	ps_cue
+########
+16
+<EOP> .
+########
+17
+US Secretary of Transportation Elaine Chao and Secretary of Education Betsy DeVos joined Liu to watch a panel discussion co_moderated by Yang Lan , co_founder and chairman of the Sun Media Group , and Bruce Dickson , director of the Sigur Center for Asian Studies at George Washington University .
+########
+18
+<EOP> .
+########
+19
+`` Since the 1970s , one of the drivers spurring the opening up between the US and China has been entrepreneurship , '' Chao said .
+########
+20
+<EOP> .
+########
+21
+Chao announced a new program for young Chinese and American entrepreneurs , the US_China Youth Forum on Entrepreneurship , Innovation and Economic Opportunities , which will take place in Guangzhou from Dec 5_8 .
+will	25	ps_cue
+########
+22
+<EOP> .
+########
+23
+Co_sponsored by the US Department of State and the All_China Youth Federation , this forum will bring together 100 entrepreneurs from the US and China .
+will	15	ps_cue
+########
+24
+`` It will provide an opportunity for young innovators from both countries to share insights and ideas and to further private sector cooperation and communication between our two countries , '' Chao said .
+will	2	ps_cue
+########
+25
+<EOP> .
+########
+26
+Educational exchanges are another pillar of people_to_people exchange between the two countries .
+########
+27
+<EOP> .
+########
+28
+The number of Chinese students traveling to the US to study has grown exponentially .
+grown	12	CT+	CT+
+########
+29
+So far , there are about 1.42 million Chinese students who have studied in the US , according to Liu .
+########
+30
+<EOP> .
+########
+31
+`` Students studying in America also contribute significantly to our economy , '' DeVos said .
+########
+32
+`` According to the Department of Commerce , international students bring nearly $ 36 billion annually to the US economy . ''
+########
+33
+<EOP> .
+########
+34
+There are more than 14,000 American students studying in China annually .
+########
+35
+<EOP> .
+########
+36
+Liu announced that China will launch a program to provide scholarship to 10,000 American young people for them to study in China for a short term .
+will	4	ps_cue
+########
+37
+`` I really encourage our next generation , the kids , to have fun in China , during the wintertime or summertime .
+encourage	3	CT+	CT+
+or	20	ps_cue
+########
+38
+Come to China , '' said pianist Lang Lang .
+########
+39
+<EOP> .
+########
+40
+leshuodong@chinadailyusa.com <EOP> .
+########
+41
+<EOP> .
+########
+42
+<EOP> .
+########
+43
+<EOP> .
+########
+44
+Top : Chinese Vice_Premier Liu Yandong joins Chinese students for `` selfi e '' photos at George Washington University on Thursday .
+########
+45
+<EOP> .
+########
+46
+Dong Leshuo _ China Daily <EOP> .
+########
+47
+Below : Liu greets Yao Ming , one of China 's most famous professional basketball players , who played for the Houston Rockets .
+########
+48
+<EOP> .
+########
+49
+Dong Leshuo _ China Daily <EOP> .
+########
+50
+Left : Liu LRB center RRB , poses for photos with US Secretary of Transportation Elaine Chao LRB second from left RRB , Secretary of Education Betsy DeVos LRB second from right RRB , Lang Lang LRB left RRB , and Bruce Dickson LRB right RRB , director of the Sigur Center for Asian Studies <EOP> .
+########
+51
+at George Washington University , at a public event of the fi rst US_China Social and Cultural Dialogue at the George Washington University on Thursday .
+########
+52
+<EOP> .
+########
+53
+Zhao Huanxin _ China Daily <EOP> .
+########
+54
+<EOP> .
+########
+55
+<EOP> .
+########
+56
+LRB China Daily USA 09_29_2017 page2 RRB <EOP> .
+########

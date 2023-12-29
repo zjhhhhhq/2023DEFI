@@ -1,0 +1,106 @@
+Did the United States on Friday order more than half of the staff at the US embassy in Havana to leave
+0
+US cuts embassy staff in Cuba , issues travel warning : reports <EOP> .
+########
+1
+2017_09_30 09:18 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+WASHINGTON _ The United States on Friday ordered more than half of the staff at the US embassy in Havana to leave and warned against travels to Cuba , following mysterious `` incidents '' that caused health problems for American diplomats , US media reported .
+ordered	7	CT+	CT+
+against	24	neg_cue
+########
+4
+<EOP> .
+########
+5
+The US embassy in Havana will continue to operate with a reduced staff .
+operate	8	CT+	CT+
+will	5	ps_cue
+########
+6
+It will stop processing visas indefinitely , according to US media reports .
+will	1	ps_cue
+stop	2	neg_cue
+########
+7
+<EOP> .
+########
+8
+The move came after US authorities confirmed last month that at least 21 Americans working at the embassy in Havana had suffered physical debilitations .
+confirmed	6	CT+	CT+
+########
+9
+<EOP> .
+########
+10
+No details of the injuries have been released , but media reports said the affected Americans incurred severe hearing loss and at least one victim suffered some `` brain damage '' .
+No	0	neg_cue
+loss	19	neg_cue
+########
+11
+<EOP> .
+########
+12
+The move will deal a blow to the delicate ties between the US and Cuba .
+will	2	ps_cue
+########
+13
+The former Cold War rivals resumed their diplomatic relations in July 2015 after more than five decades of hostility .
+########
+14
+<EOP> .
+########
+15
+US President Donald Trump in July announced new restrictions on US leisure travel to Cuba and US business with Cuban military , in a move to cancel what he called his predecessor Barack Obama 's `` one_sided deal '' with Cuba .
+########
+16
+<EOP> .
+########
+17
+On Tuesday , US Secretary of State Rex Tillerson met with Cuban Foreign Minister Bruno Rodriguez to discuss the incidents .
+########
+18
+It was the highest_level diplomatic contact between the two countries since Trump became US president in January .
+########
+19
+<EOP> .
+########
+20
+US State Department spokesperson Heather Nauert said the two top diplomats had a `` firm and frank '' discussion of US concerns for its employees .
+########
+21
+<EOP> .
+########
+22
+`` The secretary conveyed the gravity of the situation and underscored the Cuban authorities ' obligations to protect embassy staff and their families under the Vienna Convention , '' she said .
+########
+23
+<EOP> .
+########
+24
+The United States expelled two Cuban diplomats in late May over the incidents .
+expelled	3	CT+	CT+
+May	9	ps_cue
+########
+25
+Cuba said it was investigating the incidents .
+########
+26
+<EOP> .
+########
+27
+`` Cuba has never , nor would it ever , allow the Cuban territory to be used for any action against accredited diplomatic agents or their families , '' the Cuban Foreign Ministry said in a statement .
+accredited	21	CT-	CT+
+never	3	neg_cue
+nor	5	neg_cue
+would	6	ps_cue
+against	20	neg_cue
+or	24	ps_cue
+########
+28
+<EOP> .
+########

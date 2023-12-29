@@ -1,0 +1,101 @@
+Do New Yorkers get taste of Chengdu food 
+0
+New Yorkers get taste of Chengdu food , opera <EOP> .
+get	2	CT+	CT+
+########
+1
+2017_12_07 05:45 <EOP> .
+########
+2
+China Daily USA <EOP> .
+########
+3
+The opening ceremony of the Chengdu Tourism Center LRB New York RRB kicked off at New Legend in Manhattan on Tuesday with Sichuan food and opera , detailed presentations of Chengdu 's famous tourist attractions and its iconic pandas _ providing a glimpse of the city from a variety of angles .
+kicked	12	CT+	CT+
+########
+4
+<EOP> .
+########
+5
+`` Subnational , grassroots_level collaboration may prevail upon the leaders of China and the US to collaborate better than they have been , because the people of both counties are fascinated by each other 's history and culture and want to get closer to each other , '' said David Paterson , former governor of New York , who attended the event .
+may	5	ps_cue
+########
+6
+<EOP> .
+########
+7
+Paterson said he has been to Chengdu twice , in 2013 and 2014 , and `` Chengdu is a fascinating city , it seems to have a spirit of culture , intellectualism , art , and the kind of sophisticated lifestyle you might see right here in Soho , Manhattan . ''
+seems	23	ps_cue
+might	42	ps_cue
+########
+8
+<EOP> .
+########
+9
+`` Chengdu is becoming a national center city in China ; national center city means you have to have international exposures , '' said Jeannie Yip , director of the experience center and president of CGGroup Management Consulting on Wall Street .
+########
+10
+<EOP> .
+########
+11
+Yip said New York is the most international city , and Chengdu is also an immigrant city like New York .
+like	17	ps_cue
+########
+12
+`` There are many similarities the two cities share , '' she added .
+########
+13
+<EOP> .
+########
+14
+`` Chengdu is doing business with New York , especially through travel and tourism , '' Yip said .
+########
+15
+<EOP> .
+########
+16
+She said she hoped the experience center helps New Yorkers learn more about Chengdu , not only just through pandas , but through food , culture , and the arts _ and eventually get to know Chengdu by going there in person .
+helps	7	PS+	CT+
+hoped	3	ps_cue
+helps	7	ps_cue
+not	15	neg_cue
+########
+17
+<EOP> .
+########
+18
+`` We need more collaborations between the two cities ; New York City is always an open environment that opens to people from different cultures and nations , '' said Fox News anchor Kelly Wright , who also attended the ceremony .
+need	2	ps_cue
+########
+19
+<EOP> .
+########
+20
+`` Having this affiliation with Chengdu is extremely important because it goes to the core and the heart of how to build a better relationship between our two nations , '' Wright said .
+########
+21
+<EOP> .
+########
+22
+`` It 's crucial to promote China at the subnational level because China is very big and diverse _ each city has its own culture , history , and characteristics , '' said Huang He , a professor at Yeshiva University .
+########
+23
+`` We should not only promote China as a whole _ but also different cities _ with their various features to Americans to provide them with a better understanding of Chinese culture . ''
+should	2	ps_cue
+not	3	neg_cue
+########
+24
+<EOP> .
+########
+25
+Hosted by the Chengdu Tourism Bureau , Chengdu Culture and Tourism Group , Wall Street CG Group and New Legend restaurant , the event also featured a performance by Chinese opera master Liao Zuhua , who demonstrated a Sichuan Opera face_changing show .
+########
+26
+<EOP> .
+########
+27
+ruinanzhang@chinadailyusa.com <EOP> .
+########
+28
+<EOP> .
+########

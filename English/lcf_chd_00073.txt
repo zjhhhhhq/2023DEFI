@@ -1,0 +1,150 @@
+Does the publishing house arrange a seminar to discuss the theme
+0
+Chinese publishers bring titles to Frankfurt <EOP> .
+########
+1
+2017_10_13 06:13 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+<EOP> .
+########
+4
+From left : Du Chuangui , general manager of Guangdong_based Southern Publishing and Media Co Ltd ; Helga Zepp_LaRouche , president of Schiller Institute in Germany ; Bernard Dewit , chairman of the Belgian_Chinese Chamber of Commerce ; and Xiao Fenghua , president of Guangdong People 's Publishing House pose at the Frankfurt book fair on Wednesday after attending a seminar on the Belt and Road Initiative .
+########
+5
+LRB Photo by Fu Jing_chinadaily .
+########
+6
+com.cn RRB <EOP> .
+########
+7
+Up to 70 Chinese publishing houses have brought more than 2,000 titles to the five_day Frankfurt book fair , which was kicked off by German Chancellor Angela Merkel and French President Emmanuel Macron on Tuesday night .
+########
+8
+<EOP> .
+########
+9
+The books exhibited by Chinese publishers have focused mainly on those introductory publications on the Communist Party of China , which will hold its 19th Congress on Oct 18 , and on China 's latest social and economic developments .
+will	21	ps_cue
+########
+10
+In the China publication exhibition areas , dozens of activities on copyright transfers , book launches and seminars on various topics have been arranged .
+seminars	17	CT+	CT+
+########
+11
+<EOP> .
+########
+12
+Famous writer Jia Pingwa 's work <EOP> .
+########
+13
+The Lantern Bearer <EOP> .
+########
+14
+, a novel on the transformation of a Chinese rural village , by a grassroots woman officer , was published on Wednesday .
+########
+15
+Guangdong People 's Publishing House also launched <EOP> .
+########
+16
+A New <EOP> .
+########
+17
+<EOP> .
+########
+18
+Code for Common Peace and Prosperity <EOP> .
+########
+19
+, which has explained how China and the EU could deepen cooperation through the Belt and Road Initiative .
+could	9	ps_cue
+########
+20
+<EOP> .
+########
+21
+Romano Prodi , a former European Commission president and Italian prime minister , has highly recommended the book .
+recommended	15	ps_cue
+########
+22
+On the book 's back cover , he is quoted as saying : `` The thought_provoking book has testified that the initiative , proposed by President Xi Jinping in 2013 , is a both economic and political project , which could help achieve common peace and prosperity across the massive land of Eurasia . ''
+proposed	23	ps_cue
+could	40	ps_cue
+########
+23
+<EOP> .
+########
+24
+Prodi continued : `` This is our shared dream and destiny . ''
+########
+25
+<EOP> .
+########
+26
+When launching the book , the publishing house arranged a seminar to discuss the theme that the initiative could offer new engines for China and the European Union to develop bilateral relations in the coming years .
+seminar	10	CT+	CT+
+could	18	ps_cue
+########
+27
+<EOP> .
+########
+28
+`` On the occasion of the fourth anniversary of President Xi 's coming up with the Belt and Road Initiative , we found it extremely important to launch this book and further discuss how China and the EU could tap the potential to boost connectivity , '' said Du Chuangui , general manager of Southern Publishing and Media Co Ltd in Guangdong .
+could	38	ps_cue
+potential	41	ps_cue
+########
+29
+<EOP> .
+########
+30
+Bernard Dewit , chairman of the Belgian_Chinese Chamber of Commerce , said it is of great importance to discuss the Belt and Road Initiative , which could offer people in different sectors ample development opportunities .
+discuss	18	CT+	CT+
+could	26	ps_cue
+opportunities	34	ps_cue
+########
+31
+<EOP> .
+########
+32
+`` For example , many chances need to be explored by Europeans in cultural and publishing sectors to set up contacts with their Chinese counterparts , '' said Dewit , whose organization is based in Brussels .
+need	6	ps_cue
+########
+33
+<EOP> .
+########
+34
+But Dewit said the European side , especially those from European Union headquarters , should invest more time and energy to seek synergies with the Chinese side to explore the opportunities under the Belt and Road Initiative .
+should	14	ps_cue
+opportunities	30	ps_cue
+########
+35
+<EOP> .
+########
+36
+`` I hope , with the incentives and momentum offered by the initiative , both sides could sign the bilateral investment treaty in the coming five years , '' Dewit said .
+hope	2	ps_cue
+could	16	ps_cue
+########
+37
+<EOP> .
+########
+38
+Helga Zepp_LaRouche , president of the Schiller Institute in Germany said the Belt and Road Initiative is the most important global public good for the common development of humanity , but the Western media have not realized its significance fully .
+not	35	neg_cue
+########
+39
+<EOP> .
+########
+40
+`` This initiative is already changing the world in terms of its magnitude of infrastructure construction , '' Zeppa_LaRouche said .
+########
+41
+`` It has already ignited the hopes and dreams for other developing countries . ''
+hopes	6	ps_cue
+########
+42
+<EOP> .
+########

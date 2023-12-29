@@ -1,0 +1,89 @@
+Do women suffer eating disorders
+0
+Women with attractive husbands are more likely to develop an eating disorder .
+develop	8	PS+	PS+
+likely	6	ps_cue
+########
+1
+<EOP> .
+########
+2
+Research from Florida State University shows wives who crash_diet to slim down are often driven to do so if they feel their husband is better_looking than them .
+########
+3
+<EOP> .
+########
+4
+They found men were rarely motivated to do the same , regardless of how attractive they considered their wife to be .
+considered	16	ps_cue
+########
+5
+<EOP> .
+########
+6
+Experts say the research is key to improving resources for women who suffer eating disorders , and could be useful information for couples to keep in mind for their relationship .
+suffer	12	CT+	PS+
+could	17	ps_cue
+########
+7
+<EOP> . '
+########
+8
+If we understand how women 's relationships affect their decision to diet and the social predictors for developing unhealthy eating behaviors , then we will be better able to help them , ' said lead author , doctoral student Tania Reynolds .
+will	24	ps_cue
+########
+9
+<EOP> . '
+########
+10
+The results reveal that having a physically attractive husband may have negative consequences for wives , especially if those wives are not particularly attractive . '
+may	9	ps_cue
+negative	11	neg_cue
+not	21	neg_cue
+########
+11
+<EOP> .
+########
+12
+Reynolds added that research shows women tend to overperceive just how thin their partners want them to be and , as a result , may inappropriately pursue dieting and a thin body .
+tend	6	ps_cue
+may	24	ps_cue
+########
+13
+<EOP> . '
+########
+14
+One way to help these women is for partners to be very reaffirming , reminding them , `` You 're beautiful .
+########
+15
+I love you at any weight or body type , '' ' Reynolds said .
+love	1	ps_cue
+or	6	ps_cue
+########
+16
+<EOP> . '
+########
+17
+Or perhaps focusing on the ways they are a good romantic partner outside of attractiveness and emphasizing those strengths : `` I really value you because you 're a kind , smart and supportive partner . '' '
+perhaps	1	ps_cue
+########
+18
+<EOP> .
+########
+19
+That extra motivation to diet did not exist among women judged more attractive than their husbands .
+not	6	neg_cue
+########
+20
+As for men , their motivation to diet was low regardless of their wives ' attractiveness or their own .
+or	16	ps_cue
+########
+21
+<EOP> .
+########
+22
+The study , published in the journal Body Image , offers productive insights about relationships .
+########
+23
+<EOP> .
+########

@@ -1,0 +1,89 @@
+Do ` Prison Break ' stars Dominic Purcell and Wentworth Miller feature in a remake of the popular television series 
+0
+Fox may bring back Prison Break in a new limited series <EOP> .
+may	1	ps_cue
+########
+1
+If latest reports turn out to be true , ` Prison Break ' stars Dominic Purcell and Wentworth Miller may feature in a remake of the popular television series by FOX .
+feature	20	PS+	PS+
+may	19	ps_cue
+########
+2
+<EOP> .
+########
+3
+Latin Post reports that the limited television show will have a standalone storyline and comprise only 12 episodes .
+will	8	ps_cue
+########
+4
+<EOP> .
+########
+5
+According to Deadline , while the network has yet to provide any detail regarding the upcoming show or corroborate whether or not Purcell and Miller will actually be featuring in it , it has been learned that the two actors are very keen to be a part of the purported ` Prison Break ' reboot .
+featuring	28	PS+	PS+
+yet	8	neg_cue
+or	17	ps_cue
+whether	19	ps_cue
+or	20	ps_cue
+not	21	neg_cue
+will	25	ps_cue
+########
+6
+<EOP> .
+########
+7
+The report says that currently the actors are a part of ` The Flash ' and ` Legends of Tomorrow , ' both hit TV shows .
+########
+8
+It appears based on their performances in these television series , they will have their work schedules pretty much in_sync .
+appears	1	ps_cue
+will	12	ps_cue
+########
+9
+Miller portrays the character of Captain Cold , while Purcell was cast for the role of Heat Wave , both them villains in their own right .
+########
+10
+<EOP> .
+########
+11
+Apart from Purcell and Miller , even Paul Scheuring , who created ` Prison Break ' and was the show runner of the fleeting ABC series , ` Zero Hour , ' is also waiting for the reboot , alongside executive producers Dawn Parouse and Marty Adelstein , who were also a part of the original series .
+########
+12
+<EOP> .
+########
+13
+If truth be told , Scheuring supposedly already has a storyline in mind .
+########
+14
+Naturally , as the title suggests , there will be yet another prison escape _ one that will focus on the Scofield brothers yet again .
+suggests	5	ps_cue
+will	8	ps_cue
+yet	10	neg_cue
+will	17	ps_cue
+yet	23	neg_cue
+########
+15
+Deadline reports that this time , Lincoln may possibly be the one who will scale mountains only to help his younger brother Michael break out of prison .
+may	7	ps_cue
+possibly	8	ps_cue
+will	13	ps_cue
+########
+16
+In addition , there may also be a third lead character .
+may	4	ps_cue
+########
+17
+<EOP> .
+########
+18
+As expected , the network has kept more specific details under wraps .
+expected	1	ps_cue
+########
+19
+However , fans will be thrilled to know that the castmembers of the original show will be reprising their roles in cameoappearances in the ` Prison Break ' reboot .
+will	3	ps_cue
+will	15	ps_cue
+########
+20
+<EOP> .
+########

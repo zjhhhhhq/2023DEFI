@@ -1,0 +1,72 @@
+Does Greek parliament ratify austerity bill ahead of Eurogroup meeting
+0
+Greek parliament ratifies austerity bill ahead of Eurogroup meeting <EOP> .
+ratifies	2	CT+	CT+
+########
+1
+2017_05_19 09:18 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+<EOP> .
+########
+4
+Greek Prime Minister Alexis Tsipras and Finance Minister Euclid Tsakalotos reacts during a parliamentary session before a vote on the latest round of austerity Greece has agreed with its lenders , in Athens , Greece , May 18 , 2017 .
+May	36	ps_cue
+########
+5
+LRB Photo_Agencies RRB <EOP> .
+########
+6
+ATHENS _ Greek parliament on Thursday approved an austerity bill for new pension cuts and tax hikes through 2020 , ahead of Monday 's Eurogroup meeting in Brussels to continue vital loan payouts and start talks on debt relief .
+approved	6	CT+	CT+
+########
+7
+<EOP> .
+########
+8
+The legislation , which has sparked fierce reactions by opposition parties and trade unions , passed with the 153 votes in favor of all MPs of the two_partite ruling coalition , while 128 lawmakers voted against .
+opposition	9	neg_cue
+against	35	neg_cue
+########
+9
+<EOP> .
+########
+10
+A total of 281 legislators participated in the roll call vote held Thursday night and 19 were absent .
+absent	17	neg_cue
+########
+11
+<EOP> .
+########
+12
+The bill introduces a fresh round of austerity measures proposed by the Greek government in a bid to close the pending bailout review and secure further aid by international lenders .
+proposed	9	ps_cue
+########
+13
+<EOP> .
+########
+14
+During a speech before the plenary shortly before the vote , Prime Minister Alexis Tsipras said that Greece will exit the memorandum programs in 2018 .
+will	18	ps_cue
+########
+15
+<EOP> .
+########
+16
+`` The review closes and after seven years we head towards a comprehensive agreement , to lead Greece out of the memorandum programs .
+########
+17
+We have finally reached a positive agenda both for the country and the society , '' said Tsipras .
+########
+18
+<EOP> .
+########
+19
+The vote in parliament followed a long string of protests organized by umbrella trade unions of public and private sector employees , and other professionals outside the parliament building in Athens and major cities nationwide .
+########
+20
+<EOP> .
+########

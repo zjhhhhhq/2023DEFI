@@ -1,0 +1,171 @@
+Are claims about Russian involvement in US elections untrue
+0
+Putin dismisses US claims of meddling <EOP> .
+########
+1
+2017_06_06 07:12 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+Russian President Vladimir Putin talks with NBC in St. Petersburg on Saturday .
+########
+4
+Alexei Druzhinin _ Kremlin Via Ap <EOP> .
+########
+5
+Russian president denies he has ` any relationship ' with counterpart Trump <EOP> .
+denies	2	neg_cue
+########
+6
+WASHINGTON _ Russian President Vladimir Putin said claims about Russian involvement in US elections are untrue , adding that the United States actively interferes with elections in other countries .
+involvement	10	CT-	CT-
+untrue	15	neg_cue
+########
+7
+<EOP> .
+########
+8
+And he is dismissing as `` a load of nonsense '' the idea that Russia has damaging information on US President Donald Trump .
+########
+9
+<EOP> .
+########
+10
+`` I never met with him .
+never	2	neg_cue
+########
+11
+We have a lot of Americans who visit us , '' Putin said in an interview with NBC 's Sunday Night with Megyn Kelly .
+########
+12
+He added : `` Do you think we 're gathering compromising information on all of them right now or something ?
+or	18	ps_cue
+########
+13
+Have you all lost your senses ? ''
+########
+14
+<EOP> .
+########
+15
+US intelligence agencies have concluded that Russia meddled in the presidential election to hurt the bid of Democrat Hillary Clinton .
+########
+16
+Trump himself has been dogged by questions about any business dealings with Russia he said he has none as well as reports of a Russian dossier of damaging personal information .
+none	17	neg_cue
+########
+17
+<EOP> .
+########
+18
+`` Well , this is just another load of nonsense , '' Putin said .
+########
+19
+`` Where would we get this information from ?
+would	2	ps_cue
+########
+20
+Why , did we have some special relationship with him ?
+########
+21
+We did n't have any relationship at all . ''
+n't	2	neg_cue
+########
+22
+<EOP> .
+########
+23
+Putin again denied any Russian involvement in the US presidential election and any knowledge of Russian contacts with the Trump campaign .
+involvement	5	CT-	CT-
+denied	2	neg_cue
+########
+24
+A special counsel appointed by the Justice Department and congressional committees are investigating .
+########
+25
+<EOP> .
+########
+26
+Former FBI director James Comey , whom Trump fired after allegedly asking him to drop an investigation into former national security adviser Michael Flynn and his Russian contacts , is scheduled to testify on Thursday before the Senate 's intelligence committee .
+scheduled	30	ps_cue
+########
+27
+<EOP> .
+########
+28
+In the NBC interview , Putin was asked about reports of Trump adviser and son_in_law Jared Kushner 's attempt to set up a secret communications channel with Russia .
+########
+29
+Putin said he knew nothing about it and that he had not discussed with Ambassador Sergey Kislyak any meeting with Kushner .
+nothing	4	neg_cue
+not	11	neg_cue
+########
+30
+<EOP> .
+########
+31
+`` Had there been anything significant he would have reported it to the minister .
+would	7	ps_cue
+########
+32
+The minister would have reported it to me , '' Putin said .
+would	2	ps_cue
+########
+33
+`` There were n't even any reports .
+n't	3	neg_cue
+########
+34
+There 's nothing to even talk about .
+nothing	2	neg_cue
+########
+35
+There was n't even any kind of specific discussion about sanctions or anything else .
+n't	2	neg_cue
+or	11	ps_cue
+########
+36
+For me , this is just amazing .
+########
+37
+You created a sensation out of nothing . ''
+nothing	6	neg_cue
+########
+38
+<EOP> .
+########
+39
+Putin suggested that skilled hackers anywhere , including the US , could shift the blame for hacking onto Russia .
+suggested	1	ps_cue
+could	11	ps_cue
+########
+40
+He also alleged that Washington actively interferes with electoral campaigns of other countries .
+########
+41
+<EOP> .
+########
+42
+`` Put your finger anywhere on a map of the world , and everywhere you will hear complaints that American officials are interfering in internal electoral processes , '' he said .
+will	15	ps_cue
+########
+43
+<EOP> .
+########
+44
+As far as the findings of US intelligence agencies , Putin said , `` They have been misled . ''
+########
+45
+<EOP> .
+########
+46
+AP _ Reuters <EOP> .
+########
+47
+<EOP> .
+########
+48
+<EOP> .
+########

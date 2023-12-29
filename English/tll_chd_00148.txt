@@ -1,0 +1,158 @@
+Will fuel_powered cars be manufactured after 2024 ' says report
+0
+Fuel_powered cars ` will not be manufactured after 2024 ' says report <EOP> .
+manufactured	6	CT-	CT-
+will	3	ps_cue
+not	4	neg_cue
+########
+1
+2017_05_16 00:59 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+Cars powered by fossil fuels will no longer be made after 2024 as self_driving electrical vehicles become vastly cheaper to use , according to a report by a Californian think tank .
+made	9	CT-	CT-
+will	5	ps_cue
+no	6	neg_cue
+########
+4
+<EOP> .
+########
+5
+The death of the internal combustion engine will be accelerated by a new model of car use in which fleets of self_driving vehicles are available for all to use , making car ownership uneconomic , the study said .
+will	7	ps_cue
+########
+6
+<EOP> .
+########
+7
+The report by Tony Seba , an economist at Stanford University , finds that forecasts of a slow move from fuel_powered vehicles to electric vehicles envisage drivers continuing to own cars .
+forecasts	14	ps_cue
+########
+8
+He argues that the introduction of driverless technology will be driven by companies such as Uber and DiDi , which will invest massively in creating a fleet of vehicles that are so cheap and convenient to use that car ownership will become a thing of the past .
+will	8	ps_cue
+will	20	ps_cue
+will	40	ps_cue
+########
+9
+<EOP> .
+########
+10
+Seba said the world is on the cusp of one of the fastest , deepest , most consequential disruptions of transportation in history .
+########
+11
+`` By 2030 , within 10 years of regulatory approval of autonomous vehicles , 95 percent of US passenger miles travelled will be served by on_demand autonomous electric vehicles owned by fleets , not individuals , in a new business model we call ` transportas_a_service .
+will	21	ps_cue
+not	33	neg_cue
+########
+12
+''' <EOP> .
+########
+13
+The report , co_authored by James Arbib , estimates that the costs at the moment of disruption when transport as a service is available will be : <EOP> .
+will	24	ps_cue
+########
+14
+• Driving a paid_off fuel car : 34 cents per mile <EOP> .
+########
+15
+Buying a new fuel car : 65 cents per mile <EOP> .
+########
+16
+• Buying a new electric vehicle : 62 cents per mile <EOP> .
+########
+17
+• Using transport as a service : 16 cents per mile <EOP> .
+########
+18
+The saving of using a transport as a service car against buying a new fuel car will be $ 5,600 .
+against	10	neg_cue
+will	16	ps_cue
+########
+19
+<EOP> .
+########
+20
+The new mode of car use will have massive repercussions on society and the economy .
+will	6	ps_cue
+########
+21
+The savings will provide a boost to consumer spending in the US of $ 1trillion and the efficiency gains will increase GDP by an extra $ 1 trillion .
+will	2	ps_cue
+will	19	ps_cue
+########
+22
+<EOP> .
+########
+23
+The better designed and better driven autonomous electric cars will mean that the number of cars in the US will fall from 247 million to 44 million .
+will	9	ps_cue
+will	19	ps_cue
+########
+24
+Around 100 million fuel cars will be abandoned .
+will	5	ps_cue
+########
+25
+<EOP> .
+########
+26
+The car industry , including insurers , dealers and maintenance , will face destruction unless they adapt to the new mode of transportation .
+will	11	ps_cue
+########
+27
+<EOP> .
+########
+28
+Demand for oil will peak at 100 million barrels per day and fall to 70 million barrels in 2030 .
+will	3	ps_cue
+########
+29
+Prices will stabilize at $ 25.4 per barrel which will make major oil fields and pipelines uneconomic .
+will	1	ps_cue
+will	9	ps_cue
+########
+30
+Oil prices could collapse as early as 2021 , the report said .
+could	2	ps_cue
+########
+31
+<EOP> .
+########
+32
+The speed of change seems staggering but Tesla 's Autopilot system has already been tested more than 2.1 billion kilometres and the company estimates that all its vehicles will be capable of autonomy by the end of this year .
+seems	4	ps_cue
+will	28	ps_cue
+########
+33
+Chinese company Baidu is also working on operating systems for autonomous driving .
+########
+34
+<EOP> .
+########
+35
+The world is already preparing for the change .
+########
+36
+The Guangzhou Automobile Group , has started building a new factory for the production of electric cars production and autonomous vehicles and will have a capacity of 200,000 cars a year .
+will	22	ps_cue
+########
+37
+Many other companies are doing the same .
+########
+38
+<EOP> .
+########
+39
+The Chinese government aims to have five million battery_electric and plug_in hybrid electric cars on the road by 2020 , while producing one million vehicles per year .
+########
+40
+But if Seba 's report is accurate , the numbers could be far greater .
+could	10	ps_cue
+########
+41
+<EOP> .
+########

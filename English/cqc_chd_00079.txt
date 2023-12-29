@@ -1,0 +1,60 @@
+Does DPRK urge South Korea
+0
+DPRK urges South Korea to start dialogue without making nuke issue as precondition <EOP> .
+urges	1	CT+	CT+
+without	7	neg_cue
+########
+1
+2017_06_24 20:28 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+PYONGYANG __ The Democratic People 's Republic of Korea LRB DPRK RRB has urged the Republic of Korea LRB ROK RRB to start dialogue without making Pyongyang stopping its nuclear and missile programs as a precondition .
+urged	13	CT+	CT+
+without	24	neg_cue
+stopping	27	neg_cue
+########
+4
+<EOP> .
+########
+5
+The Consultative Council for National Reconciliation made the appeal on Friday , the Korean Central News Agency reported Saturday .
+########
+6
+<EOP> .
+########
+7
+`` Are you ready to come out for a dialogue with the DPRK , without raising ` the north 's nuclear issue ? ' ''
+ready	3	ps_cue
+without	14	neg_cue
+########
+8
+said the DPRK official organ in charge of dealing with inter_Korean relations .
+########
+9
+<EOP> .
+########
+10
+`` ROK authorities do not hesitate to reveal their scheme for sanctions against and pressure on the DPRK , finding fault with its legitimate step for bolstering the nuclear force for self_defense , '' it said .
+not	4	neg_cue
+against	12	neg_cue
+########
+11
+<EOP> .
+########
+12
+Other demands for working on national reconciliation include stopping military exercises with the United States , ending collaborations with foreign countries on inter_Korean issues , rejecting UN sanctions and releasing a dozen DPRK women allegedly kidnapped by the ROK intelligence services , said the council .
+stopping	8	neg_cue
+########
+13
+<EOP> .
+########
+14
+ROK President Moon Jae_in has said that he would start dialogue with Pyongyang if the latter stops its nuclear and missile programs .
+would	8	ps_cue
+########
+15
+<EOP> .
+########

@@ -1,0 +1,75 @@
+Do China and Japan have deepening cooperation 
+0
+China , Japan finance ministers agree on deepening cooperation at sixth dialogue <EOP> .
+cooperation	8	CT+	CT+
+########
+1
+2017_05_07 10:33 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+<EOP> .
+########
+4
+China 's Finance Minister Xiao Jie LRB R RRB shakes hands with his Japanese counterpart Taro Aso during the sixth China_Japan bilateral finance dialogue in Yokohama , Japan , May 6 , 2017 .
+May	29	ps_cue
+########
+5
+LRB Photo_Xinhua RRB <EOP> .
+########
+6
+YOKOHAMA , Japan _ The finance ministers of China and Japan exchanged views on deepening cooperation at the Sixth China_Japan Finance Dialogue here on Saturday .
+cooperation	15	CT+	CT+
+########
+7
+<EOP> .
+########
+8
+Xiao Jie , China 's minister of finance , and Taro Aso , Japan 's deputy prime minister and minister of finance , co_chaired the dialogue , with senior officials from finance ministries and central banks of both countries attending .
+########
+9
+<EOP> .
+########
+10
+The two finance ministers agreed that the dialogue is of important significance to both sides , as it contributes to deepening exchange of macroeconomic situations and policy measures and helps strengthen financial cooperation between the two countries .
+cooperation	32	CT+	CT+
+contributes	18	ps_cue
+helps	29	ps_cue
+########
+11
+<EOP> .
+########
+12
+Both sides recognized the necessity of promoting economic restructuring through enhancing communication on macroeconomic policies and agreed to maintain consultation on major international economic and financial issues .
+########
+13
+<EOP> .
+########
+14
+The two sides also emphasized the need to further deepen pragmatic cooperation in financial field to support the collaboration between the two countries in economic , trade and investment fields .
+cooperation	11	CT+	CT+
+need	6	ps_cue
+########
+15
+<EOP> .
+########
+16
+Both sides welcomed the successful close of the ASEAN +3 Finance Ministers ' and Central Bank Governors ' Meeting and the China_Japan_South Korea Trilateral Finance Ministers ' and Central Bank Governors ' Meeting , which were held just before the dialogue .
+########
+17
+<EOP> .
+########
+18
+The two ministers also agreed to hold the Seventh China_Japan Finance Dialogue in China next year .
+########
+19
+<EOP> .
+########
+20
+Both sides agreed to launch a joint research on issues of mutual interests and report the outcomes to the dialogue .
+########
+21
+<EOP> .
+########

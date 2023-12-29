@@ -1,0 +1,90 @@
+Does Haitian government find proper development path
+0
+China hopes Haitian government finds proper development path <EOP> .
+development	6	CT+	CT+
+hopes	1	ps_cue
+########
+1
+2017_04_12 15:56 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+`` We hope the new government in Haiti identify as soon as possible a development path that fits its national situation , accelerate infrastructure , agriculture , tourism and other major sectors of development with a view to eradicating poverty , creating more jobs , improving people 's livelihoods , '' among others , said Liu Jieyi , China 's permanent representative to the UN at a Security Council meeting on Haiti .
+development	14	CT+	CT+
+hope	2	ps_cue
+possible	12	ps_cue
+########
+4
+<EOP> .
+########
+5
+Sandra Honore , Special Representative and Head of the United Nations Stabilization Mission in Haiti LRB MINUSTAH RRB , briefed the Council on developments in the country from October 2016 .
+developments	23	CT+	CT+
+########
+6
+Since then , she said , Haiti has made significant progress in consolidating democracy and maintaining security and stability with the inauguration of Jovenel Moise as President on Feb. 7 , marking the restoration of constitutional order .
+########
+7
+<EOP> .
+########
+8
+`` China hopes all parties in Haiti jointly maintain this positive momentum and contribute to the overall stability and development of the country , '' said the Chinese envoy .
+development	19	CT+	CT+
+hopes	2	ps_cue
+########
+9
+<EOP> .
+########
+10
+Liu expressed hope that the international community , including countries in the region , will continue to contribute to improving conditions in Haiti , help build a stronger national police force , and support the government 's effort to maintain stability .
+hope	2	ps_cue
+will	14	ps_cue
+########
+11
+<EOP> .
+########
+12
+`` At the same time , we hope that the international community will provide more assistance to help hurricane stricken areas in Haiti to build , '' he said .
+hope	7	ps_cue
+will	12	ps_cue
+########
+13
+<EOP> .
+########
+14
+In her briefing , Honore noted that the island 's police force continues to show an increased ability to combat crime and maintain public order .
+########
+15
+Areas for improvement include strengthening internal management and oversight and increasing the police_to_population ratio .
+########
+16
+<EOP> .
+########
+17
+She said a six_month extension of MINUSTAH , set to expire on April 15 , would encompass the creation of a new mission , which would unfold against the backdrop of a significantly improved political situation .
+would	15	ps_cue
+would	25	ps_cue
+against	27	neg_cue
+########
+18
+It would also occur at a time when there was a crucial window of opportunity to address the root causes of the political crisis that had preceded the elections .
+would	1	ps_cue
+########
+19
+<EOP> .
+########
+20
+The Chinese ambassador commended the move , saying that `` this is a recognition of the Haitian government 's ability to maintain stability . ''
+########
+21
+<EOP> .
+########
+22
+`` China supports the recommendation by this Security Council and the Secretary General and hopes MINUSTAH withdraws in an orderly manner , while ensuring stability in Haiti , '' he said .
+hopes	14	ps_cue
+########
+23
+<EOP> .
+########

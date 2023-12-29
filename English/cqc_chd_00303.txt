@@ -1,0 +1,109 @@
+Did the Consulate General of Sweden in Shanghai hold a pop_up exhibition 
+0
+A touch of Swedish flair on Tmall <EOP> .
+########
+1
+2017_11_06 12:10 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+<EOP> .
+########
+4
+The exhibition by the Consulate General of Sweden in Shanghai showcases premium Swedish products at the K11 art mall in Shanghai .
+exhibition	1	CT+	CT+
+########
+5
+Photo provided to chinadaily.com <EOP> .
+########
+6
+<EOP> .
+########
+7
+<EOP> .
+########
+8
+The Consulate General of Sweden in Shanghai held a pop_up exhibition from Nov 4 to 5 in the city to showcase premium Swedish products ahead of the Nov 11 Single 's Day shopping festival created by Chinese e_commerce giant Alibaba .
+exhibition	10	CT+	CT+
+########
+9
+<EOP> .
+########
+10
+Located at the main atrium of the K11 art mall in Shanghai , the exhibition featured a broad range of products , including toys , home appliances , watches , headphones and organic diapers .
+exhibition	14	CT+	CT+
+########
+11
+Customers were able to purchase the products on Tmall , one of Alibaba 's e_commerce platforms , by scanning the QR codes on the price tags .
+########
+12
+Most of the products came with discounts .
+########
+13
+<EOP> .
+########
+14
+`` We are really excited about this experience as it gives our consumers in China the chance to experience some Swedish brands that are mainly sold online , '' said Sebastian Magnusson , vice_consul and head of commercial affairs , culture and education at the Consulate General of Sweden .
+########
+15
+<EOP> .
+########
+16
+`` Also , the customers here today are young and trendy people and they correspond with the target demographic customers of the life_style brands here today , '' he added .
+########
+17
+<EOP> .
+########
+18
+Magnusson said this pop_up exhibition could also help path the way for more Swedish goods to enter the Chinese market in the future .
+exhibition	4	CT+	CT+
+could	5	ps_cue
+########
+19
+<EOP> .
+########
+20
+Following the meeting between Swedish Prime Minister Stefan Lofven and the founder and executive chairman of Alibaba , Jack Ma , in Hangzhou earlier this year , more Swedish brands have been introduced to Tmall .
+########
+21
+<EOP> .
+########
+22
+Kaimen , a dedicated platform for Swedish products on Tmall , was also launched in June .
+########
+23
+There were just over 10 brands available during the launch and Alibaba said there are now plans to grow the number to 40 by the end of this year .
+plans	16	ps_cue
+########
+24
+<EOP> .
+########
+25
+`` The total e_commerce turnover of Swedish brands in China , including those on Tmall , JD.com , Amazon.com and other online stores , has grown more than 40 percent from eight years ago .
+########
+26
+We are very confident about achieving further growth in the Chinese market , '' said Johan Wikander , partner of Johan and Johan , a Swedish_owned company that helped to launch Kaimen .
+########
+27
+<EOP> .
+########
+28
+Sherry Xie , the online sales manager of Kaimen , noted that consumers in China today no longer view price as the top priority when buying products , but instead look out for quality , design , safety and sustainability .
+no	16	neg_cue
+instead	29	neg_cue
+########
+29
+<EOP> .
+########
+30
+`` Swedish brands are best known for having such traits and we will continue to offer our customers the best , '' said Xie .
+will	12	ps_cue
+########
+31
+<EOP> .
+########
+32
+caochen@chinadaily.com <EOP> .
+########

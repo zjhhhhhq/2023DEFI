@@ -1,0 +1,85 @@
+Were US Navy leaders urged to do better amid deadly ship collisions
+0
+US Navy leaders urged to do better amid deadly ship collisions <EOP> .
+urged	3	CT+	CT+
+########
+1
+2017_09_20 10:05 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+<EOP> .
+########
+4
+US Navy Secretary Richard Spencer LRB C RRB testifies during a hearing on recent US Navy incidents before Senate Armed Services Committee on Capitol in Washington D.C. , the United States , Sept 19 , 2017 .
+########
+5
+LRB Photo_Xinhua RRB <EOP> .
+########
+6
+WASHINGTON _ Top leaders of the US Navy were urged to do better on Tuesday as they appeared before a Senate hearing over a series of deadly ship collisions involving the Pacific fleet .
+appeared	17	ps_cue
+########
+7
+<EOP> .
+########
+8
+`` We must also call you to task and demand answers .
+########
+9
+As leaders of our Navy , you must do better , '' Senator John McCain , head of the Senate Armed Services Committee , told Navy Secretary Richard Spencer and Chief of Naval Operations Admiral John Richardson .
+########
+10
+<EOP> .
+########
+11
+The hearing was held in the wake of several Navy ship collisions , including one in August in which USS John S. McCain , a guided_missile destroyer , collided with an oil and chemical tanker near Singapore , leaving 10 US sailors dead and five injured .
+########
+12
+<EOP> .
+########
+13
+The highly_publicized incident came after seven sailors were killed when the USS Fitzgerald , also a guided_missile destroyer , and a container ship collided off the coast of Japan in June , along with two other non_deadly collisions involving the Navy vessels also this year .
+########
+14
+<EOP> .
+########
+15
+McCain said those incidents are `` preventable '' but now it will cost an estimate of 600 million US dollars for repairs .
+will	11	ps_cue
+estimate	14	ps_cue
+########
+16
+<EOP> .
+########
+17
+`` It is simply unacceptable for US Navy ships to run aground or collide with other ships , '' the Republican senator said .
+unacceptable	4	neg_cue
+or	12	ps_cue
+########
+18
+`` To have four such incidents in the span of seven months is truly alarming . ''
+########
+19
+<EOP> .
+########
+20
+Richardson told the hearing that the Navy was conducting reviews and probes , while blaming the incidents on `` the corrosive confluence of high operational tempo , inadequate budgets and budget uncertainty . ''
+conducting	8	CT+	CT+
+########
+21
+<EOP> .
+########
+22
+`` But make no mistake , sir , while these factors do exert a negative force on the challenges we face , at the core , this issue is about leadership , especially command , '' Richardson said .
+no	3	neg_cue
+negative	14	neg_cue
+########
+23
+<EOP> .
+########
+24
+<EOP> .
+########

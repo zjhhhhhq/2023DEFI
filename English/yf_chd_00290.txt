@@ -1,0 +1,157 @@
+Does Wu Man introduce her instrument to Western audiences
+0
+Pipa player Wu Man looks West <EOP> .
+########
+1
+2017_11_05 05:16 <EOP> .
+########
+2
+China Daily USA <EOP> .
+########
+3
+<EOP> .
+########
+4
+<EOP> .
+########
+5
+Wu Man rehearses with NCPA Orchestra and conductor Lü Jia before performing at the Chicago Symphony Center.PHOTOS BY JIAN PING _ FOR CHINA DAILY <EOP> .
+########
+6
+Wu Man , a Grammy_nominated pipa player from China , is as passionate about her instrument and music as she is about introducing them to Western audiences .
+instrument	15	CT+	CT+
+########
+7
+<EOP> .
+########
+8
+`` I 've been living in the US for almost 30 years , '' said Wu , who received her training at the Central Conservatory of Music in Beijing .
+########
+9
+`` I 'd like to share Chinese music with the rest of the world . ''
+like	3	ps_cue
+########
+10
+<EOP> .
+########
+11
+She has spared no effort in achieving her goal .
+no	3	neg_cue
+########
+12
+<EOP> .
+########
+13
+Wu took up the challenge of introducing the traditional Chinese musical instrument to the West when she came to the US in 1990 , leaving her established fame behind and starting all over by first enrolling in English language classes .
+########
+14
+<EOP> .
+########
+15
+She played her pipa at whatever venue that would give her a chance .
+would	8	ps_cue
+########
+16
+<EOP> .
+########
+17
+She was living in New Haven , CT when she first arrived .
+########
+18
+Over the weekends , she 'd take the train to New York City to perform with other Chinese musicians .
+########
+19
+<EOP> .
+########
+20
+Most Americans had never been exposed to pipa back then , said Wu .
+never	3	neg_cue
+########
+21
+The beginning was bumpy , but she persisted , with an unwavering determination to keep at her traditional instrument and bring it to the world stage .
+instrument	18	CT+	CT+
+########
+22
+<EOP> .
+########
+23
+Her talent was `` discovered '' by an agent in New York , who , after some hesitation , decided to represent her .
+########
+24
+<EOP> .
+########
+25
+She has since made history as a traditional Chinese instrumentalist on many fronts : the first to play with a Western symphony orchestra as a featured soloist , the first to play at the White House , and the first to receive Musical America 's 2013 Instrumentalist of the Year , a prestigious award given for the first time to a player of a non_Western instrument .
+########
+26
+<EOP> .
+########
+27
+She has succeeded in introducing her instrument to mainstream platforms by touring with various symphony orchestras and chamber ensembles in the US and Europe and giving numerous lectures at schools and music institutions .
+instrument	6	CT+	CT+
+########
+28
+<EOP> .
+########
+29
+In a 2017 radio program called <EOP> .
+########
+30
+Passage to the Middle Kingdom <EOP> .
+########
+31
+that introduces various traditional Chinese musical instruments to listeners in North America , Wu presented the pipa as an instrument that `` has many personalities . ''
+########
+32
+<EOP> .
+########
+33
+`` I 'm lucky , '' Wu said .
+########
+34
+`` I play an instrument that is beautiful , elegant , meditative and dramatic . ''
+instrument	4	CT+	CT+
+########
+35
+<EOP> .
+########
+36
+Her skills in both playing the pipa and conveying emotion to her audiences are palpable .
+########
+37
+<EOP> .
+########
+38
+At a recent concert with the China Performing Center for the Arts Orchestra LRB NCPA RRB at the Chicago Symphony Center , Wu played Lou Harrison 's Pipa Concerto with String Orchestra to a sold_out audience .
+########
+39
+The piece was commissioned by Lincoln Center for Wu Man in 1997 .
+########
+40
+<EOP> .
+########
+41
+`` Harrison was 80 when he composed it , '' said Wu .
+########
+42
+`` He 'd fax me the pages he had written and asked me to play . ''
+########
+43
+<EOP> .
+########
+44
+Harrison told Wu that he had to use his own language to do the composition .
+########
+45
+<EOP> .
+########
+46
+`` Harrison opened another door for this instrument , '' said Wu .
+########
+47
+`` It has an Asian flavor , but it is obviously beautiful California , full of sunshine , just like Harrison himself . ''
+like	19	ps_cue
+########
+48
+<EOP> .
+########

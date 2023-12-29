@@ -1,0 +1,58 @@
+Does Trump vow to reinforce ties
+0
+Trump thanks China , vows to reinforce ties <EOP> .
+ties	7	CT+	CT+
+########
+1
+2017_11_09 17:37 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+United States President Donald Trump has several times voiced appreciation in response to China 's great hospitality in hosting his state visit to the country , and pledged efforts in reinforcing US ties with China when addressing journalists alongside President Xi Jinping Thursday .
+ties	32	CT+	CT+
+########
+4
+<EOP> .
+########
+5
+`` Melania and I are honored to visit your country , with its ancient history , dynamic people and thriving culture , '' Trump said .
+########
+6
+<EOP> .
+########
+7
+Trump also expressed appreciation to Xi and his wife Peng Liyuan for the tour given to the visiting couple Wednesday of `` the very majestic Forbidden City '' .
+########
+8
+<EOP> .
+########
+9
+`` I want to thank you ... for your gracious hospitality , '' Trump said .
+########
+10
+<EOP> .
+########
+11
+The two presidents had held talks and met with business leaders from both countries before facing the media at the Great Hall of the People in central Beijing .
+########
+12
+<EOP> .
+########
+13
+`` In the coming months and years , I look forward to building an even stronger relationship between our two countries _ China and the United States of America _ and even closer friendships and relationships between the people of our two countries , '' Trump told reporters .
+relationship	16	CT+	CT+
+relationships	35	CT+	CT+
+forward	10	ps_cue
+forward	10	neg_cue
+########
+14
+<EOP> .
+########
+15
+Trump arrived in Beijing Wednesday for a three_day state visit to China .
+########
+16
+<EOP> .
+########

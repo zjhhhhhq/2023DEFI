@@ -1,0 +1,96 @@
+Is cat overeating while it is watching 
+0
+Next time you reach for that Krispy Kreme , think twice .
+########
+1
+If your cat is watching , she may be prone to overeating as well .
+overeating	11	PS+	PS+
+may	7	ps_cue
+########
+2
+<EOP> .
+########
+3
+What is your cat 's IQ ?
+########
+4
+<EOP> .
+########
+5
+In a new study from the University of Messina , it turns out that cats who live intimately with their owners LRB indoor cats that live in a small space RRB `` mirror '' the lives of their caregivers .
+########
+6
+They sleep at the same time , eat at the same time , and can even become more or less social depending on the behavior of their owners .
+can	14	ps_cue
+or	18	ps_cue
+########
+7
+<EOP> .
+########
+8
+`` Cats are intelligent animals with a long memory , '' Jane Brunt , veterinarian and the executive director of the CATalyst Council , told Discovery News .
+########
+9
+`` They watch and learn from us , LRB noting RRB the patterns of our actions , as evidenced by knowing where their food is kept and what time to expect to be fed , how to open the cupboard door that 's been improperly closed , and where their feeding and toileting areas are . ''
+expect	30	ps_cue
+########
+10
+<EOP> .
+########
+11
+Because cats mimic our habits , if you spend a lot of time raiding the fridge , your cat will return to its food bowl for that midnight snack , too .
+will	19	ps_cue
+########
+12
+According to the study , this explains why `` human and cat obesity rates often seem to match . ''
+seem	15	ps_cue
+########
+13
+So , if you felt guilty about leaving your precious kitty at home while you go to work , now you can feel even worse : You are making your cat fat !
+fat	31	CT+	PS+
+can	21	ps_cue
+########
+14
+<EOP> .
+########
+15
+There 's no word if drinking green tea and making sure you go to Yoga will benefit your cat , but based on the study , it sounds like sticking to a healthy eating and sleeping schedule is best for both of you .
+no	2	neg_cue
+will	15	ps_cue
+like	28	ps_cue
+########
+16
+<EOP> .
+########
+17
+There 's a lot we can learn from our feline friends in return .
+can	5	ps_cue
+########
+18
+`` When they sit on our lap softly purring with rhythmic breathing and half_closed eyes , the sense of serenity and calm that comes over us is like a private lesson in inner peace and meditation , '' Brant said .
+like	27	ps_cue
+########
+19
+Sure .
+########
+20
+But cats do n't have to sit in rush hour traffic for an hour a day or worry about their in_laws .
+n't	3	neg_cue
+or	16	ps_cue
+########
+21
+They 're probably pretty good at remaining calm .
+probably	2	ps_cue
+########
+22
+<EOP> .
+########
+23
+So , according to science , even though we assumed that cats were aloof jerks all these years , it turns out they are in fact learning from us and looking up to us .
+########
+24
+Scary , huh ?
+########
+25
+<EOP> .
+########

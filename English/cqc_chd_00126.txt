@@ -1,0 +1,101 @@
+Does Xi visit to Kazakhstan
+0
+Sino_Kazakh ties ` set example ' <EOP> .
+########
+1
+2017_06_08 05:09 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+<EOP> .
+########
+4
+President Xi Jinping LRB L front RRB is welcomed by Kazakhstan First Deputy Prime Minister Askar Mamin upon his arrival in Astana , Kazakhstan , June 7 , 2017 .
+arrival	19	CT+	CT+
+########
+5
+LRB Photo_Xinhua RRB <EOP> .
+########
+6
+Xi begins state visit to partner in Belt and Road <EOP> .
+visit	3	CT+	CT+
+########
+7
+China and Kazakhstan will tap their great potential for cooperation , including jointly building the Belt and Road , President Xi Jinping wrote in a signed article on Wednesday .
+will	3	ps_cue
+potential	7	ps_cue
+########
+8
+<EOP> .
+########
+9
+The president arrived in Astana , capital of Kazakhstan on Wednesday .
+########
+10
+In a statement issued upon arrival , he said , `` The Sino_Kazakh relationship has set an example of a friendly neighborhood , equal treatment and mutual benefits for the international community . ''
+arrival	5	CT+	CT+
+########
+11
+<EOP> .
+########
+12
+The two countries have strengthened political trust , pushed forward pragmatic cooperation in all areas steadily , and enhanced coordination in global and regional affairs in the past 25 years since the establishment of diplomatic relations , Xi said .
+forward	9	ps_cue
+forward	9	neg_cue
+########
+13
+<EOP> .
+########
+14
+The four_day visit to Kazakhstan is Xi 's third trip to the Central Asian country .
+visit	2	CT+	CT+
+########
+15
+During the stay he will also attend the Shanghai Cooperation Organization annual summit and the opening ceremony of the Astana Expo 2017 .
+will	4	ps_cue
+########
+16
+<EOP> .
+########
+17
+Xi extended sincere greetings and best wishes to the Kazakh people .
+########
+18
+Xi also mentioned his frequent meetings in recent years with his Kazakh counterpart , Nursultan Nazarbayev , saying that the two presidents have developed good working relations as well as a personal friendship .
+########
+19
+<EOP> .
+########
+20
+In the article published in the Kazakh newspaper Kazakhstanskaya Pravda on Wednesday , Xi said China will promote cooperation with Kazakhstan in jointly building the Belt and Road .
+will	16	ps_cue
+########
+21
+<EOP> .
+########
+22
+It was during his first visit to Kazakhstan back in 2013 that Xi proposed the Silk Road Economic Belt Initiative .
+visit	5	CT+	CT+
+proposed	13	ps_cue
+########
+23
+Four years later , the idea that took root then has become a global public benefit .
+########
+24
+<EOP> .
+########
+25
+`` The general direction of the two countries ' national development was determined during President Xi 's visit to Kazakhstan in 2013 , namely , the joint building of the Silk Road Economic Belt , '' Chinese Ambassador to Kazakhstan Zhang Hanhui said .
+########
+26
+<EOP> .
+########
+27
+Sun Zhuangzhi , secretary_general of the SCO Research Center under the Chinese Academy of Social Sciences , said enhancing cooperation between the two countries as part of the Belt and Road Initiative will serve as a convincing model for other parties .
+will	32	ps_cue
+########
+28
+<EOP> .
+########

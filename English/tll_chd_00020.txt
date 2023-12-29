@@ -1,0 +1,99 @@
+Will Britain deport foreign terror suspects
+0
+British PM pledges tough action on terrorism <EOP> .
+########
+1
+2017_06_07 09:50 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+Britain 's Prime Minister Theresa May delivers a speech during an election campaign visit to Langton Rugby Club in Stoke_on_Trent , June 6 , 2017 .
+May	5	ps_cue
+########
+4
+LRB Photo_Agencies RRB <EOP> .
+########
+5
+May outlined her proposals at an election rally in Slough on what was the penultimate day of canvassing in the British general election campaign .
+May	0	ps_cue
+########
+6
+<EOP> .
+########
+7
+With Britain still reeling from two attacks in London and one in Manchester , May seemed determined to show voters she will respond to the terror threat if she wins the election Thursday .
+May	14	ps_cue
+seemed	15	ps_cue
+will	21	ps_cue
+########
+8
+<EOP> .
+########
+9
+May said she would look at making it easier for Britain to deport foreign terror suspects .
+deport	12	CT+	CT+
+May	0	ps_cue
+would	3	ps_cue
+########
+10
+<EOP> .
+########
+11
+But controversially , she also outlined increased controls on extremists who the security services think may present a threat to public safety , but where there is not enough evidence to prosecute them .
+may	15	ps_cue
+not	27	neg_cue
+########
+12
+<EOP> .
+########
+13
+Following the London Bridge attack on Saturday , May said she aimed to get tough on terror with her `` enough is enough '' speech .
+May	8	ps_cue
+########
+14
+<EOP> .
+########
+15
+In Slough Tuesday she said her plans would mean longer prison sentences for people convicted of terrorist offences , and making it easier for the authorities to deport foreign terror suspects to their own countries .
+deport	27	CT+	CT+
+plans	6	ps_cue
+would	7	ps_cue
+########
+16
+<EOP> .
+########
+17
+May added : `` And I mean doing more to restrict the freedom and the movements of terrorist suspects when we have enough evidence to know they present a threat , but not enough evidence to prosecute them in full in court .
+May	0	ps_cue
+not	32	neg_cue
+########
+18
+And if human rights laws stop us from doing it , we will change those laws so we can do it . ''
+stop	5	neg_cue
+will	12	ps_cue
+can	18	ps_cue
+########
+19
+<EOP> .
+########
+20
+The Guardian newspaper commented Tuesday night that May 's proposed measures appear to be an attempt at strengthening terrorism prevention and investigation measures rather than a complete return to control orders introduced by the last Labour government which were repeatedly struck down by judges in the British courts .
+May	7	ps_cue
+proposed	9	ps_cue
+appear	11	ps_cue
+rather	23	neg_cue
+########
+21
+<EOP> .
+########
+22
+The Guardian said May 's measures could involve further curfews , restrictions on association with other known extremists , controls on where they can travel and limits on access to communication devices .
+May	3	ps_cue
+could	6	ps_cue
+can	23	ps_cue
+########
+23
+<EOP> .
+########

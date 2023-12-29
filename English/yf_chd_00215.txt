@@ -1,0 +1,194 @@
+Does Trump administration oust Secretary of State Rex Tillerson
+0
+Tillerson ouster rumors denied <EOP> .
+Tillerson	0	CT+	CT+
+denied	3	neg_cue
+########
+1
+2017_12_02 06:54 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+US media speculation heats up over US secretary of state 's status <EOP> .
+speculation	2	ps_cue
+########
+4
+WASHINGTON _ The White House on Thursday rejected widespread reports about a plan initiated by the Trump administration to oust Secretary of State Rex Tillerson , saying there will be no personnel changes .
+Tillerson	24	CT+	CT+
+rejected	7	neg_cue
+plan	12	ps_cue
+will	28	ps_cue
+no	30	neg_cue
+########
+5
+<EOP> .
+########
+6
+`` There are no personnel announcements at this time .
+no	3	neg_cue
+########
+7
+Secretary Tillerson continues to lead the State Department , '' said a statement from White House press secretary Sarah Huckabee Sanders .
+Tillerson	1	CT+	CT+
+########
+8
+<EOP> .
+########
+9
+Sanders ' remarks came after multiple major US news outlets reported earlier that the White House is planning to remove the current head of the State Department .
+planning	17	ps_cue
+########
+10
+<EOP> .
+########
+11
+Tillerson 's relationship with President Donald Trump `` has been strained '' and perhaps he will be replaced `` within the next several weeks '' , reported The New York Times , citing senior administration officials .
+Tillerson	0	CT+	CT+
+perhaps	13	ps_cue
+will	15	ps_cue
+########
+12
+<EOP> .
+########
+13
+Incumbent CIA Director Mike Pompeo , a former three_term Congressman and a sturdy supporter of Trump , is said to be Tillerson 's successor .
+Tillerson	21	CT+	CT+
+########
+14
+<EOP> .
+########
+15
+Trump , when asked if he wanted Tillerson to stay on the job on Thursday morning , made a simple reply .
+if	4	Uu	CT+
+Tillerson	7	CT+	CT+
+wanted	6	ps_cue
+########
+16
+<EOP> .
+########
+17
+`` Rex is here , '' he said , seemingly dodging the question .
+seemingly	9	ps_cue
+question	12	ps_cue
+########
+18
+<EOP> .
+########
+19
+It was not the first time the Trump_Tillerson relationship has been scrutinized .
+not	2	neg_cue
+########
+20
+<EOP> .
+########
+21
+In October , when asked if he still had confidence in Tillerson , Trump replied : `` Yes . ''
+Tillerson	11	CT+	CT+
+########
+22
+<EOP> .
+########
+23
+At Thursday 's daily media briefing , Sanders , further rebutting the reports , said when Trump loses confidence in someone , `` they will no longer serve in the capacity that they 're in '' .
+will	24	ps_cue
+no	25	neg_cue
+########
+24
+<EOP> .
+########
+25
+Trump and Tillerson are `` going to work together to close out what we 've seen to be an incredible year '' , Sanders said .
+Tillerson	2	CT+	CT+
+########
+26
+<EOP> .
+########
+27
+The US State Department also ridiculed the reports on Thursday .
+########
+28
+<EOP> .
+########
+29
+White House chief of staff John Kelly had called the department , saying `` those reports are not true '' , said State Department spokesperson Heather Nauert .
+not	17	neg_cue
+########
+30
+<EOP> .
+########
+31
+However , Nauert also hinted that Tillerson , former CEO of Exxon Mobile , a US multinational oil and gas corporation , seemed to feel uncomfortable about Washington which `` can be a tough game of politics '' .
+Tillerson	6	CT+	CT+
+seemed	22	ps_cue
+can	30	ps_cue
+########
+32
+<EOP> .
+########
+33
+`` He LRB Tillerson RRB does n't always understand and accept exactly how Washington works with anonymous sources , things of that nature .
+Tillerson	3	CT+	CT+
+n't	6	neg_cue
+########
+34
+That 's not who he is , that 's not the world that he comes from , '' said the spokesperson .
+not	2	neg_cue
+not	9	neg_cue
+########
+35
+<EOP> .
+########
+36
+Defense Secretary Jim Mattis , Tillerson 's closest ally in the administration , brushed off the report .
+Tillerson	5	CT+	CT+
+########
+37
+`` There 's nothing to it , '' he said in response to a reporter 's query .
+nothing	3	neg_cue
+########
+38
+<EOP> .
+########
+39
+Tillerson , 65 , from Texas , was a civil engineer who joined the energy company in 1975 and rose to serve as CEO from 2006_16 .
+Tillerson	0	CT+	CT+
+########
+40
+<EOP> .
+########
+41
+Months after he was sworn in as state secretary , Tillerson launched a `` redesign '' project , which , along with staff cutting and budget trimming , drew severe criticism from bipartisan lawmakers who worried those steps might cause a brain drain in the US foreign service corps .
+Tillerson	10	CT+	CT+
+criticism	30	neg_cue
+might	38	ps_cue
+########
+42
+<EOP> .
+########
+43
+According to the State Department , Tillerson is sticking to his schedule as state secretary , which will take him to Europe on a five_day trip next week .
+Tillerson	6	CT+	CT+
+will	17	ps_cue
+########
+44
+<EOP> .
+########
+45
+During the tour , Tillerson will visit Brussels , Vienna and France , meeting NATO leaders and foreign ministers of the European Union members to discuss US_EU cooperation on major global issues .
+Tillerson	4	CT+	CT+
+will	5	ps_cue
+########
+46
+<EOP> .
+########
+47
+Xinhua _ Ap <EOP> .
+########
+48
+<EOP> .
+########
+49
+<EOP> .
+########

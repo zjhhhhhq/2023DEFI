@@ -1,0 +1,76 @@
+Does US veto UN Security Council draft resolution on Jerusalem status 
+0
+US vetoes UN Security Council draft resolution on Jerusalem status <EOP> .
+vetoes	1	CT+	CT+
+########
+1
+2017_12_19 09:42 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+UNITED NATIONS _ The United States on Monday vetoed a Security Council draft resolution on the status of Jerusalem .
+vetoed	8	CT+	CT+
+########
+4
+<EOP> .
+########
+5
+All other 14 members of the Security Council voted in favor of the Egyptian_drafted text .
+########
+6
+But as the United States , which is a permanent member of the Security Council , has veto power , the draft resolution failed to be adopted .
+has	16	CT+	CT+
+failed	23	neg_cue
+########
+7
+<EOP> .
+########
+8
+Before the vote , Egyptian ambassador to the United Nations Amr Abdellatif Aboulatta explained that the draft resolution seeks to ensure that any attempts to alter the characteristics or demographic composition of the Old City of Jerusalem have no effect and are null and void , and must be rescinded .
+seeks	18	ps_cue
+or	28	ps_cue
+no	38	neg_cue
+########
+9
+<EOP> .
+########
+10
+The draft resolution also calls on all parties not to establish diplomatic missions in Jerusalem , he said .
+not	8	neg_cue
+########
+11
+<EOP> .
+########
+12
+In explaining the veto , US ambassador to the United Nations Nikki Haley said it was the first US veto in the Security Council in more than six years .
+said	13	CT+	CT+
+########
+13
+<EOP> .
+########
+14
+`` We do it with no joy , but we do it with no reluctance , '' she told the council .
+no	5	neg_cue
+no	13	neg_cue
+########
+15
+<EOP> .
+########
+16
+She argued that her country has a sovereign right to determine where or whether to establish its embassy in a country .
+or	12	ps_cue
+whether	13	ps_cue
+########
+17
+<EOP> .
+########
+18
+Representatives of other countries in the council hold that Israel has no sovereignty over the whole of Jerusalem and that Jerusalem is a final_status issue that should be solved by the Israelis and Palestinians through negotiations .
+no	11	neg_cue
+should	26	ps_cue
+########
+19
+<EOP> .
+########

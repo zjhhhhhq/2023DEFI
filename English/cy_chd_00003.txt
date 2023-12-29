@@ -1,0 +1,100 @@
+Do Russia, US hold talks on Syria, terrorism
+0
+Russia , US hold talks on Syria , terrorism <EOP> .
+talks	4	CT+	CT+
+########
+1
+2017_04_14 07:18 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+Russian Foreign Minister Sergey Lavrov LRB right RRB and US Secretary of State Rex Tillerson arrive at a news conference after their talks in Moscow on Wednesday .
+talks	22	CT+	CT+
+########
+4
+Russian President Vladimir Putin met earlier with Tillerson .
+########
+5
+Alexander Nemenov _ Afp <EOP> .
+########
+6
+<EOP> .
+########
+7
+<EOP> .
+########
+8
+<EOP> .
+########
+9
+<EOP> .
+########
+10
+MOSCOW _ Russia and the United States agreed on Wednesday to keep fighting international terrorism and continue discussions on resolving the Syrian conflict despite turbulent relations and a string of pending disputes between the two countries .
+########
+11
+<EOP> .
+########
+12
+Russian Foreign Minister Sergey Lavrov said talks between Russian President Vladimir Putin and US Secretary of State Rex Tillerson were fruitful .
+talks	6	CT+	CT+
+########
+13
+He said he and Tillerson also had a two_hour meeting and added the discussions showed good prospects for future joint work .
+########
+14
+<EOP> .
+########
+15
+`` It has been a long day .
+########
+16
+... The talks were comprehensive , frank and covered the whole spectrum of issues , which are key to our bilateral relations and interaction on the international affairs , '' Lavrov said .
+talks	2	CT+	CT+
+########
+17
+<EOP> .
+########
+18
+According to Lavrov , both sides reaffirmed their determination for the uncompromising fight against international terrorism .
+against	13	neg_cue
+########
+19
+He said discussions also focused on the situations hot spots such as Syria , Yemen , Libya and Afghanistan , as well as possible cooperation in addressing those issues .
+discussions	2	CT+	CT+
+possible	23	ps_cue
+########
+20
+<EOP> .
+########
+21
+`` With all the existing problems , both objective and artificially created ones , we still have quite a few prospects for joint work , '' he said .
+########
+22
+Russia is open to discussions with the US , `` and not only to dialogues but also to joint actions '' .
+not	11	neg_cue
+########
+23
+<EOP> .
+########
+24
+Tensions between Moscow and Washington deteriorated after the US launched a missile strike on a Syrian military airfield on April 6 , which it said was a response to a chemical weapons attack two days earlier in Khan Sheikhoun , purportedly at the hands of the Syrian military .
+########
+25
+<EOP> .
+########
+26
+Foreign Minister Wang Yi urged all parties on Thursday , especially the US and Russia , to strengthen communication and avoid confrontation over Syria .
+avoid	20	neg_cue
+########
+27
+<EOP> .
+########
+28
+He said political settlement is the only viable way to resolve the Syrian issue and called for the international community to continue support for the United Nations to play the lead role .
+########
+29
+<EOP> .
+########

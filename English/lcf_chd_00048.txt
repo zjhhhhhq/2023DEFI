@@ -1,0 +1,176 @@
+Does fossil reveal how first trees ripped themselves apart to grow
+0
+Fossil find in China reveals how first trees ripped themselves apart to grow <EOP> .
+reveals	4	CT+	CT+
+########
+1
+2017_10_25 00:21 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+<EOP> .
+########
+4
+Dr Chris Berry with a fossilized tree trunk found in the Gilboa fossil forest , New York .
+########
+5
+LRB Photo provided to chinadaily.com.cn RRB <EOP> .
+########
+6
+A `` stunning '' fossil find in northwest China by a team of British and Chinese paleontologists has revealed the bizarre and unique anatomy of the world 's first trees .
+revealed	18	CT+	CT+
+########
+7
+<EOP> .
+########
+8
+The exceptionally well_preserved discovery in an arid plain in Xinjiang Uygur autonomous region revealed that the Earth 's first trees _ known as Cladoxylopsidas _ had more complex physiology than any modern varieties .
+revealed	13	CT+	CT+
+########
+9
+<EOP> .
+########
+10
+The findings were published in the United States journal Proceedings of the National Academy of Sciences , and co_authored by paleontologists Chris Berry , from Cardiff University in the UK , and Xu Honghe of the Chinese Academy of Sciences .
+########
+11
+<EOP> .
+########
+12
+The fossilized trees grew more than 370 million years ago in the mid_Devonian period , when the seas teemed with fish and the land was populated by plants and crawling creatures , such as mites , scorpions and early insects .
+########
+13
+<EOP> .
+########
+14
+The fossils reveal an interconnected web of woody strands within the trunk of the Cladoxylopsidas that is much more intricate than that of trees growing today .
+reveal	2	CT+	CT+
+########
+15
+<EOP> .
+########
+16
+`` There is no other tree that I know of in the history of the Earth that has ever done anything as complicated as this , '' Berry said .
+no	3	neg_cue
+########
+17
+`` This raises a provoking question : why are the very oldest trees the most complicated ? ''
+question	5	ps_cue
+########
+18
+<EOP> .
+########
+19
+The woody strands , known as xylem , are responsible for conducting water from a tree 's roots to its branches and leaves .
+########
+20
+<EOP> .
+########
+21
+In most modern trees , xylem forms a single cylinder to which new growth is added in rings year by year just under the bark .
+########
+22
+<EOP> .
+########
+23
+The fossils show the first trees had their xylem dispersed in strands in the outer five centimeters of the tree trunk only , while the middle of the trunk was completely hollow .
+########
+24
+<EOP> .
+########
+25
+The narrow strands were interconnected to each other like a finely tuned network of water pipes .
+like	8	ps_cue
+########
+26
+<EOP> .
+########
+27
+`` The tree simultaneously ripped its skeleton apart and collapsed under its own weight while staying alive and growing upwards and outwards to become the dominant plant of its day , '' Berry said .
+########
+28
+<EOP> .
+########
+29
+The Chinese Academy 's Xu discovered the first fossil in 2012 and the second , larger and better_preserved fossil in 2015 .
+########
+30
+He went back to the site a year later with an excavation team to unearth the one_ton relic .
+########
+31
+<EOP> .
+########
+32
+Berry said : `` I 've been working on fossil trees of this age for 20 years .
+########
+33
+These two fossils are the most stunning I 've seen . ''
+########
+34
+<EOP> .
+########
+35
+Previously discovered fossils had hinted at the complex anatomy of the Cladoxylopsidas , though none were in good enough condition to provide definitive evidence .
+none	14	neg_cue
+########
+36
+<EOP> .
+########
+37
+The trees in prehistoric China had fossilized in ideal circumstances , with silica from volcanic particles precipitating inside the plant cells , locking them in time .
+########
+38
+<EOP> .
+########
+39
+Cladoxylopsidas did not have leaves .
+not	2	neg_cue
+########
+40
+<EOP> .
+########
+41
+Berry said it 's not yet confirmed how they photosynthesized adding that the trees ' unique structure maybe the result of how the smaller plants from which they evolved functioned , as well as a lack of competition in the environment from large , leafy trees .
+not	4	neg_cue
+yet	5	neg_cue
+maybe	17	ps_cue
+lack	35	neg_cue
+########
+42
+<EOP> .
+########
+43
+`` They turned into big plants with no constraints , '' he said .
+no	7	neg_cue
+########
+44
+`` There were no big trees with leaves around to shade them out or compete with them for nutrients and resources .
+no	3	neg_cue
+or	13	ps_cue
+########
+45
+They were successful for 30 million years _ they were good in their day . ''
+########
+46
+<EOP> .
+########
+47
+<EOP> .
+########
+48
+An artist 's impression of a fossil forest .
+########
+49
+<EOP> .
+########
+50
+LRB Photo provided to chinadaily.com.cn RRB <EOP> .
+########
+51
+<EOP> .
+########
+52
+<EOP> .
+########

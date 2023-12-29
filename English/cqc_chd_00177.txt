@@ -1,0 +1,120 @@
+Do DNA tests identify victim of ferry sinking 
+0
+DNA tests identify victim of ferry sinking <EOP> .
+identify	2	CT+	CT+
+########
+1
+2017_05_18 07:31 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+<EOP> .
+########
+4
+Workers search for bone fragments from the wreckage of the salvaged ferry Sewol at a port in Mokpo , South Korea , on Wednesday .
+########
+5
+Lee Sanghack _ Yonhap Via Associated Press <EOP> .
+########
+6
+<EOP> .
+########
+7
+<EOP> .
+########
+8
+SEOUL _ DNA testing on a bone found in waters where a sunken ferry was recently raised has identified one of the nine missing passengers from the 2014 disaster that killed more than 300 people , South Korean officials said on Wednesday .
+found	7	CT+	CT+
+identified	18	CT+	CT+
+missing	23	neg_cue
+########
+9
+<EOP> .
+########
+10
+Testing confirmed that the bone found on May 5 was from the remains of teacher Koh Chang_seok , said the Ministry of Oceans and Fisheries .
+May	7	ps_cue
+########
+11
+Most of the victims were students on a high school trip .
+########
+12
+<EOP> .
+########
+13
+A total of 304 people died when the ferry Sewol sank on April 16 , 2014 , touching off an outpouring of national grief and soul searching in the country about long_ignored public safety and regulatory failures .
+########
+14
+Public outrage over what was widely seen as a botched rescue effort by the government contributed to the ouster of former president Park Geun_hye , who was removed from office and arrested in March over broad corruption charges .
+########
+15
+<EOP> .
+########
+16
+Divers recovered 295 bodies from the ship 's wreckage and nearby seas before the government stopped underwater searches after seven months .
+stopped	15	neg_cue
+########
+17
+<EOP> .
+########
+18
+Finding the remains of the missing victims would bring a measure of closure to one of South Korea 's deadliest disasters .
+missing	5	neg_cue
+would	7	ps_cue
+########
+19
+In March , salvage workers completed a herculean effort to raise the 6,800 _ ton ferry from waters off the country 's southwest coast and tow it to port in Mokpo , where investigators continue to search the wreckage .
+raise	10	ps_cue
+########
+20
+In recent days , they reported the discovery of suspected human bones that they put up for DNA testing .
+discovery	7	CT+	CT+
+suspected	9	ps_cue
+########
+21
+<EOP> .
+########
+22
+The Ministry of Oceans and Fisheries said Koh 's bone was not found in the wreckage , but by divers who were searching waters where the ferry was raised from .
+not	11	neg_cue
+########
+23
+Koh 's wife , Yoo Baek_hyeong , emotionally reacted in March after the ferry was raised and put on a transport vessel for what became a weeklong journey to Mokpo .
+########
+24
+<EOP> .
+########
+25
+`` He was in the dark and frightening deep seas for three years , but he 's now going to Mokpo , '' Yoo said then .
+########
+26
+`` I want to find even just a piece of his hair .
+########
+27
+He would have been wearing his wedding ring .
+would	1	ps_cue
+########
+28
+... I want to find all of those things . ''
+########
+29
+<EOP> .
+########
+30
+The ferry 's captain survived and is serving a life sentence after a court found him guilty of committing homicide through `` willful negligence '' because he fled the ship without issuing an evacuation order .
+without	30	neg_cue
+########
+31
+<EOP> .
+########
+32
+Accusations that Park was out of contact for several hours on the day of the sinking were included in the impeachment bill lawmakers passed in December .
+########
+33
+<EOP> .
+########
+34
+Ap _ Xinhua <EOP> .
+########

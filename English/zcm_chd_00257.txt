@@ -1,0 +1,137 @@
+Did scientists and their supporters protest against what organizers described as an `` alarming '' anti_science trend
+0
+Thousands gather for science rally <EOP> .
+########
+1
+2017_04_24 07:44 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+Protesters take part in the March for Science in Washington , US , on Saturday .
+########
+4
+Similar events were held in other US cities and across the world.Yin Bogu _ Xinhua <EOP> .
+########
+5
+Protesters bemoan US funding cuts and call for action on climate change <EOP> .
+########
+6
+WASHINGTON _ Tens of thousands of scientists and their supporters took to the streets in Washington and around the world on Saturday to protest against what organizers described as an `` alarming '' anti_science trend .
+protest	23	CT+	CT+
+against	24	neg_cue
+########
+7
+<EOP> .
+########
+8
+The main March for Science event was held in the United States capital , where thousands of scientists , engineers , teachers , students , parents and children defied pouring rain to gather at the National Mall to hear high_profile speakers who declared science under attack and called on politicians to respect facts .
+########
+9
+<EOP> .
+########
+10
+`` We are marching today to remind people everywhere our lawmakers especially of the significance of science for our health and prosperity , '' said Bill Nye , a popular US science educator and CEO of the Planetary Society who served as honorary co_chair of the event .
+########
+11
+<EOP> .
+########
+12
+`` Today , we have a great many lawmakers , not just here but around the world , deliberately ignoring and actively suppressing science , '' Nye added .
+not	10	neg_cue
+########
+13
+`` Their inclination is misguided and in no one 's best interest . ''
+no	7	neg_cue
+########
+14
+<EOP> .
+########
+15
+Out in the crowd , worries were expressed in the signs and banners that read : `` Science , not silence , '' `` Oceans are rising , and so are we , '' `` Fund Science _ Fun Future , '' `` Policy without science is a Biohazard , '' `` Science is not a partisan issue , it is the foundation of our society , '' `` Science is NOT an opinion . ''
+not	19	neg_cue
+without	44	neg_cue
+not	54	neg_cue
+NOT	71	neg_cue
+########
+16
+<EOP> .
+########
+17
+`` I 'm here because I want to make sure climate change is a major focus of policy in the near history of our government , '' said Emily Wiggans , who came with her family .
+########
+18
+<EOP> .
+########
+19
+`` I think we really need to focus on a present danger as a national security threat and do more with climate scientists and put more funding into climate scientists and science . ''
+need	5	ps_cue
+########
+20
+<EOP> .
+########
+21
+While the events were non_partisan according to organizers , many marchers were in effect protesting US President Donald Trump 's proposal to sharply cut federal science and research budgets and his administration 's skepticism about climate change and the need to slow global warming .
+protesting	14	CT+	CT+
+need	39	ps_cue
+########
+22
+<EOP> .
+########
+23
+The marches put a new twist on the traditional Earth Day activities , the aim of which was to reaffirm `` the vital role science plays in our democracy , '' according to the march 's website .
+########
+24
+<EOP> .
+########
+25
+Festivities at one of the largest events on Washington 's National Mall included scientific `` teach_ins '' and musical performances .
+########
+26
+<EOP> .
+########
+27
+`` It 's important to show this administration that we care about facts , '' said Chris Taylor , 24 , who was part of an early crowd of about 15,000 who gathered on Washington 's Mall for teach_ins on topics like climate change , water quality and sustainable food .
+like	41	ps_cue
+########
+28
+<EOP> .
+########
+29
+In an earlier statement , Trump insisted that his administration is committed to protecting the environment `` without harming America 's working families . ''
+without	17	neg_cue
+########
+30
+<EOP> .
+########
+31
+`` That is why my administration is reducing unnecessary burdens on American workers and American companies , '' he said .
+########
+32
+`` Rigorous science is critical to my administration 's efforts to achieve the twin goals of economic growth and environmental protection ... LRB but RRB we should remember that rigorous science depends not on ideology , but on a spirit of honest inquiry and robust debate . ''
+should	26	ps_cue
+not	32	neg_cue
+########
+33
+<EOP> .
+########
+34
+In the past , Trump has said climate change was a hoax that was stifling policies to foster economic growth .
+########
+35
+<EOP> .
+########
+36
+His administration is considering withdrawing from the Paris Agreement , a global accord aimed at reducing global emissions of carbon dioxide and other greenhouse gases .
+########
+37
+<EOP> .
+########
+38
+Trump 's proposed 2018 budget calls for deep spending cuts by government science agencies , including a 31 percent reduction for the Environmental Protection Agency .
+proposed	2	ps_cue
+########
+39
+<EOP> .
+########

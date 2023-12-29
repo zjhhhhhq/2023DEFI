@@ -1,0 +1,66 @@
+Does British veteran set new record as world 's oldest skydiver
+0
+British veteran , aged 101 , sets new record as world 's oldest skydiver <EOP> .
+sets	6	CT+	CT+
+########
+1
+2017_05_16 16:57 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+LONDON _ At the age of 101 years and 38 days , Verdun Hayes became the world 's oldest skydiver Sunday .
+became	14	CT+	CT+
+########
+4
+<EOP> .
+########
+5
+The veteran of the D_Day landings during the World War II , hogged the limelight after completing his tandem jump above the English county of Devon .
+########
+6
+He leapt from the plane when it reached a height of 4,572 meters , freefalling for a while before the parachute opened .
+########
+7
+<EOP> .
+########
+8
+Speaking as he touched down , the former lance corporal in the Royal Signals shouted a cheerful `` hooray '' and said he was feeling `` absolutely over the moon '' after completing the challenge .
+########
+9
+<EOP> .
+########
+10
+He has beaten the previous record held by Canadian Armand Gendreau who in 2013 completed a skydive aged 101 and three days .
+########
+11
+<EOP> .
+########
+12
+Hayes was already aged 100 when he made his first skydive , an ambition he had nurtured since he was aged 90 .
+########
+13
+His late wife insisted he keep his feet firmly on the ground .
+########
+14
+<EOP> .
+########
+15
+Hayes , who lives in Croyde , Devon , served in the British military during WWII and was presented with a Legion d'honneur for his heroic actions in Holland , Belgium , Germany and France .
+########
+16
+<EOP> .
+########
+17
+Four generations of his family enjoyed skydive .
+########
+18
+Also completing a skydive Sunday was Hayes ' son Bryan aged 74 , grandson Roger aged 50 and great grandson Stan aged 16 .
+########
+19
+They were raising money for the Royal British Legion .
+########
+20
+<EOP> .
+########

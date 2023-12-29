@@ -1,0 +1,68 @@
+Did UN ` deeply concern ' over mounting tension over Korean Peninsula
+0
+UN ` deeply concerned ' over mounting tension over Korean Peninsula <EOP> .
+concerned	3	CT+	CT+
+########
+1
+2017_04_18 09:31 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+<EOP> .
+########
+4
+The Democratic People 's Republic of Korea LRB DPRK RRB ambassador to the United Nations Kim In Ryong speaks during a press conference at the United Nations headquarters in New York on April 17 , 2017 .
+########
+5
+LRB Photo_Xinhua RRB <EOP> .
+########
+6
+Reaction to the launch on Saturday of a test missile by the Democratic People 's Republic of Korea LRB DPRK RRB came only minutes after Pyongyang 's UN Ambassador Kim In Ryong told reporters at UN Headquarters in New York on Monday that `` if the US dares opt for a military action , crying out for ` preemptive attack ' and ` removal of the headquarters , ' the DPRK is ready to react to any mode of war desired by the US '' <EOP> .
+ready	72	ps_cue
+########
+7
+Over the Weekend , US Vice President Mike Pence , visiting Seoul , warned Pyongyang , `` the era of strategic patience is over . ''
+########
+8
+<EOP> .
+########
+9
+`` We are obviously deeply concerned about the rising tensions that we 've seen in the Korean Peninsula , '' said spokesman Stephane Dujarric .
+concerned	5	CT+	CT+
+########
+10
+`` We call on all to redouble their diplomatic efforts .
+########
+11
+The latest launch that we saw over the weekend from the DPRK was troubling . ''
+########
+12
+<EOP> .
+########
+13
+`` We call on the DPRK to take all the steps necessary to de_escalate the situation and return to dialogue on denuclearization , '' Dujarric said .
+########
+14
+<EOP> .
+########
+15
+`` All Security Council resolutions must be fully implemented and we note that the Security Council has consistently stated its commitment to peaceful , diplomatic and political solution , '' he added .
+########
+16
+<EOP> .
+########
+17
+The Security Council has passed more than 20 resolutions imposing ever_tightening sanctions on the DPRK because of its nuclear and missile programs .
+########
+18
+<EOP> .
+########
+19
+Pyongyang maintains its nuclear development program , and development of missiles to carry nuclear weapons , is because of threats from the United States and South Korea and says it does not recognize the UN resolutions .
+not	31	neg_cue
+########
+20
+<EOP> .
+########

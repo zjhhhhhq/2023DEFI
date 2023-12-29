@@ -1,0 +1,87 @@
+Are Turnbull and Trump best friends in regional issues
+0
+Turnbull , Trump ` do n't have to be best friends ' in New York meeting : Aussie FM <EOP> .
+friends	10	CT-	CT-
+n't	5	neg_cue
+########
+1
+2017_05_04 11:06 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+CANBERRA _ Australian Foreign Minister Julie Bishop said on Tuesday that Prime Minister Malcolm Turnbull and US President Donald Trump `` do n't have to be best friends '' when discussing regional issues in New York .
+friends	27	CT-	CT-
+n't	22	neg_cue
+########
+4
+<EOP> .
+########
+5
+Speaking at Australian Broadcasting Corporation LRB ABC RRB on Thursday morning , Bishop said January 's infamous phone call between the two leaders which Trump described as his `` worst of the day '' after Turnbull informed the president of a deal for the United States to take Australian refugees .
+########
+6
+<EOP> .
+########
+7
+She said the leaders did not necessarily need to get along in order to strengthen ties between the two nations but it was likely that they would have `` a lot in common '' .
+along	10	CT-	CT-
+not	5	neg_cue
+need	7	ps_cue
+likely	23	ps_cue
+would	26	ps_cue
+########
+8
+<EOP> .
+########
+9
+`` They do n't have to be best friends , but of course they will be gracious toward each other , '' Bishop said ahead of Turnbull 's arrival in New York on Thursday .
+n't	3	neg_cue
+will	14	ps_cue
+########
+10
+<EOP> .
+########
+11
+`` LRB But RRB I have no doubt that the prime minister and President Trump will find a lot in common , I 'm sure they 'll get along well . ''
+no	6	neg_cue
+will	15	ps_cue
+########
+12
+<EOP> .
+########
+13
+The phone call made worldwide press earlier in the year but Bishop said the US president was merely expressing his opinion about the deal which was struck with the previous Obama administration .
+########
+14
+<EOP> .
+########
+15
+`` It was a new administration .
+########
+16
+Briefings were coming from across the administration and there was a moment when the president expressed less than admiration for an agreement that the previous administration has entered into , '' Bishop said .
+########
+17
+<EOP> .
+########
+18
+Turnbull is set to meet with the U.S. president on the decks of the USS Intrepid , a World War II_era aircraft carrier , which is now used as a floating museum as part of the 75th year commemorations of the Battle of the Coral Sea .
+########
+19
+<EOP> .
+########
+20
+`` The historic setting of the prime minister 's meeting with President Trump is also very important , '' Bishop said .
+########
+21
+<EOP> .
+########
+22
+Before leaving Australia for New York on Wednesday , Turnbull said the two leaders would be discussing a `` wide range of security and economic issues '' .
+would	14	ps_cue
+########
+23
+<EOP> .
+########

@@ -1,0 +1,116 @@
+Do experts guarantee the residents ' safety
+0
+5,000 people evacuated from housing estate in London over fire risk fears <EOP> .
+########
+1
+2017_06_24 08:29 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+A resident and a cat are evacuated from the Taplow Tower residential block as a precautionary measure following concerns over the type of cladding used on the outside of the building on the Chalcots Estate in north London , Britain , June 23 , 2017 .
+block	12	neg_cue
+########
+4
+LRB Photo_Agencies RRB <EOP> .
+########
+5
+LONDON _ A massive social housing scheme in London housing 5,000 people was evacuated Friday night after safety fears following the Grenfell Tower fire disaster .
+########
+6
+<EOP> .
+########
+7
+Council chiefs took the emergency decision to move families out of 800 apartments in five high rise blocks on the Chalcot Estate in Camden .
+blocks	17	neg_cue
+########
+8
+<EOP> .
+########
+9
+It was the major reaction after London Metropolitan Police said cladding and insulation material used in Grenfell Tower had failed fire safety checks .
+failed	19	neg_cue
+########
+10
+<EOP> .
+########
+11
+Materials used on the tower blocks on the Chalcot estate had been tested , with experts saying safety could not be guaranteed .
+guaranteed	21	CT-	CT-
+not	19	neg_cue
+blocks	5	neg_cue
+could	18	ps_cue
+########
+12
+<EOP> .
+########
+13
+Temporary accommodation was being found for families in an operation that started Friday night .
+########
+14
+It is expected work to make the blocks safe will take up to a month .
+expected	2	ps_cue
+blocks	7	neg_cue
+will	9	ps_cue
+########
+15
+<EOP> .
+########
+16
+Initially Camden Council took the decision to evacuate just one of the towers , but within an hour there was a change of plan and it was decided the whole estate would be evacuated immediately .
+plan	23	ps_cue
+would	31	ps_cue
+########
+17
+<EOP> .
+########
+18
+The move came after some experts had predicted the biggest ever mass evacuation of civilians since World War II with fears that thousands of buildings may have cladding materials similar to those used in the Grenfell Tower tragedy .
+predicted	7	ps_cue
+may	25	ps_cue
+########
+19
+<EOP> .
+########
+20
+The evacuation exercise in Camden was ordered by the leader of the council Georgia Gould .
+########
+21
+<EOP> .
+########
+22
+The council initially announced that only one tower , Taplow , which contains 161 households , would be evacuated , but Gould then took the decision to evacuate the whole estate .
+would	16	ps_cue
+########
+23
+<EOP> .
+########
+24
+Gould said an inspection was ordered and fire safety experts informed Gould that they could not guarantee the residents ' safety .
+guarantee	16	CT-	CT-
+not	15	neg_cue
+could	14	ps_cue
+########
+25
+The inspection found that the cladding and insulation did not satisfy its independent laboratory testing .
+not	9	neg_cue
+########
+26
+<EOP> .
+########
+27
+Residents were being directed to go to Swiss Cottage library to get information about the measures being taken .
+########
+28
+<EOP> .
+########
+29
+Police have said homicide charges may follow in an investigation into the cause of the Grenfell Tower fire in which 79 people died or were missing and presumed dead .
+may	5	ps_cue
+or	23	ps_cue
+missing	25	neg_cue
+########
+30
+<EOP> .
+########

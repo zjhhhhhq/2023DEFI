@@ -1,0 +1,84 @@
+Did the lone_wolf attacker attacker buy a gun
+0
+Michigan airport attacker failed to buy a gun : FBI <EOP> .
+failed	3	neg_cue
+########
+1
+2017_06_23 09:38 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+CHICAGO _ The lone_wolf attacker attacker who stabbed a police officer at a Michigan airport tried unsuccessfully to buy a gun , according to FBI investigation .
+buy	18	CT-	CT-
+unsuccessfully	16	neg_cue
+########
+4
+<EOP> .
+########
+5
+David Gelios , the Detroit_based FBI officer who is in charge of the attack , told a news conference on Thursday that Amor Ftouhi , a dual citizen of Canada and Tunisia , attempted but failed to buy a gun after he entered the United States legally on June 16 .
+buy	37	CT-	CT-
+failed	35	neg_cue
+########
+6
+<EOP> .
+########
+7
+Ftouhi came to the Bishop International Airport in Flint , some 80 km northwest of Detroit on Wednesday morning and stabbed a police officer on duty in the neck .
+########
+8
+<EOP> .
+########
+9
+He yelled `` Allahu Akbar , '' or `` Allah is the greatest '' in English before he made the attack with a 30_centimeter knife .
+or	7	ps_cue
+########
+10
+He also said something like `` you have killed people in Syria , Iraq and Afghanistan '' and `` we are all going to die , '' according to initial accounts from eye witnesses .
+like	4	ps_cue
+########
+11
+<EOP> .
+########
+12
+The injured officer is said to be recovering after surgery .
+########
+13
+<EOP> .
+########
+14
+Gelios said so far they found no personal connection between the attacker and Flint , suggesting that he chose the airport probably because it is an international one .
+no	6	neg_cue
+probably	21	ps_cue
+########
+15
+<EOP> .
+########
+16
+The FBI is now investigating the attack as a possible act of terrorism , in coordination of the Canadian authorities , but it seems to be a lone_wolf attack .
+possible	9	ps_cue
+seems	23	ps_cue
+########
+17
+<EOP> .
+########
+18
+`` We have no information to suspect the attack was part of a wider plot or suspect he was aided or had associates , '' said Gelios .
+no	3	neg_cue
+suspect	6	ps_cue
+or	15	ps_cue
+suspect	16	ps_cue
+or	20	ps_cue
+########
+19
+<EOP> .
+########
+20
+Ftouhi made a brief appearance in a US District Court in Flint on Wednesday and was ordered to be held without bail , waiting for his second hearing next week .
+without	20	neg_cue
+########
+21
+<EOP> .
+########

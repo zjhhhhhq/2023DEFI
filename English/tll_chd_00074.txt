@@ -1,0 +1,106 @@
+Is Britain ranked as the most recommended destination for higher education
+0
+International students sing the UK 's praises <EOP> .
+########
+1
+2017_06_01 17:30 <EOP> .
+########
+2
+China Daily UK <EOP> .
+########
+3
+International students studying at universities in the United Kingdom have ranked Britain as their most recommended destination for higher education .
+ranked	10	CT+	CT+
+recommended	15	ps_cue
+########
+4
+<EOP> .
+########
+5
+According to a report by the advocacy organization Universities UK International , undergraduate and postgraduate students from overseas highlighted Britain as their top destination , in terms of support services and overall living experience .
+highlighted	18	CT+	CT+
+########
+6
+<EOP> .
+########
+7
+International students also described the UK as `` a good place to be '' .
+described	3	CT+	CT+
+########
+8
+<EOP> .
+########
+9
+The Chinese mainland came out in the survey as the main place from which the UK 's foreign students originated , with 91,125 attending schools in Britain .
+########
+10
+Chinese mainland students outnumbered students from Malaysia , the country with the second_largest cohort , by five_to_one .
+########
+11
+<EOP> .
+########
+12
+Students from the Chinese Special Administrative Region of Hong Kong , and those from the United States and India were the other areas sending large numbers of students to the UK .
+########
+13
+<EOP> .
+########
+14
+The report noted that overseas students bring `` great benefits to the UK , such as enhancing the experience of domestic students , developing the UK 's international networks and reputation , and boosting national and local economies '' .
+########
+15
+<EOP> .
+########
+16
+Spending by international students and their visitors , both on campus and of , generates 25.8 billion pounds LRB $ 33.06 billion RRB a year for the British economy , while supporting 206,600 jobs .
+########
+17
+<EOP> .
+########
+18
+Although the US comes out as the overall top destination among overseas students , the UK remains the second_most popular study destination in the world .
+########
+19
+<EOP> .
+########
+20
+Some 438,000 students were enrolled in UK higher education institutions in the last academic year , which was 12.5 percent of the world 's total population of overseas students .
+########
+21
+<EOP> .
+########
+22
+During the past decade , there has been a 28 percent increase in the number of foreign students choosing to study in Britain .
+########
+23
+<EOP> .
+########
+24
+The top subject international students chose to study was business and administration , which attracted almost twice the number of students that signed up for the second_favorite subject ; engineering and technology .
+########
+25
+They were followed by social studies and subjects allied to medicine .
+########
+26
+<EOP> .
+########
+27
+Vivienne Stern , Universities UK International director , said : `` The UK 's world_leading universities are becoming increasingly global in nature .
+########
+28
+This amplifies their success and contribution to the UK economy and society .
+########
+29
+The extensive international networks and experience of our university staff and students will be especially valuable as the UK leaves the European Union and establishes new relationships around the world . ''
+will	12	ps_cue
+########
+30
+<EOP> .
+########
+31
+But the report did warn British universities not to become complacent because countries including Australia , France , and Germany have been catching up in terms of their numbers of international students .
+not	7	neg_cue
+########
+32
+<EOP> .
+########

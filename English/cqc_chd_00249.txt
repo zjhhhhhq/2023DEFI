@@ -1,0 +1,79 @@
+Did Russia deny opposition leader the right to participate in the presidential election
+0
+Russia bans opposition leader from running for presidency in 2018 <EOP> .
+running	5	CT-	CT-
+bans	1	neg_cue
+opposition	2	neg_cue
+########
+1
+2017_12_26 09:23 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+MOSCOW _ The Russian Central Election Commission LRB CEC RRB on Monday denied opposition leader Alexei Navalny the right to participate in the 2018 presidential election due to his criminal conviction .
+participate	20	CT+	CT-
+denied	12	neg_cue
+opposition	13	neg_cue
+########
+4
+<EOP> .
+########
+5
+Under Russian legislation , if someone is found guilty of a crime , he or she will not be eligible to bid for the presidency , CEC head Ella Pamfilova said in a video of the commission 's meeting published on Navalny 's personal website .
+or	14	ps_cue
+will	16	ps_cue
+not	17	neg_cue
+########
+6
+<EOP> .
+########
+7
+Russian media reports confirmed the election ban on the 41_year_old lawyer , citing CEC member Boris Ebzeyev .
+ban	6	neg_cue
+########
+8
+<EOP> .
+########
+9
+`` We declare an electoral strike , '' Navalny said in a separate video on his website , calling his supporters throughout the country to persuade people to boycott the election and organize monitoring at the polling stations to prevent falsification .
+election	30	CT+	CT-
+prevent	39	neg_cue
+########
+10
+<EOP> .
+########
+11
+In February , a Russian court found Navalny guilty of embezzlement at a timber company and gave him a five_year suspended sentence .
+gave	16	neg_cue
+suspended	20	neg_cue
+########
+12
+<EOP> .
+########
+13
+But he said he was innocent and the sentence was politically motivated and aimed at preventing him from continuing his political activities .
+########
+14
+<EOP> .
+########
+15
+Navalny , the founder of an anti_corruption foundation , often publicly criticized the Kremlin and announced his intention late last year to run for the presidency in 2018 .
+criticized	11	neg_cue
+########
+16
+<EOP> .
+########
+17
+Russia will hold its presidential election on March 18 next year .
+election	5	CT+	CT-
+will	1	ps_cue
+########
+18
+Several politicians , including President Vladimir Putin , said they will take part in the once_in_six_years race .
+will	10	ps_cue
+########
+19
+<EOP> .
+########

@@ -1,0 +1,218 @@
+Does the government minister quit politics 
+0
+A Government minister has quit politics claiming he can not live in London on his salary and expenses of nearly ￡ 120,000 .
+minister	2	CT-	CT-
+quit	4	neg_cue
+claiming	6	ps_cue
+can	8	ps_cue
+not	9	neg_cue
+########
+1
+<EOP> .
+########
+2
+Mark Simmonds said he was quitting as a Foreign Office minister and was standing down as an MP because he was unwilling to carry on staying in hotels while his family were hundreds of miles away in Lincolnshire .
+Simmonds	1	CT-	CT-
+quitting	5	neg_cue
+########
+3
+<EOP> .
+########
+4
+Mr Simmonds is the second minister to quit the department in less than a week , after Baroness Warsi quit over the Government 's policy towards Gaza .
+Simmonds	1	CT-	CT-
+quit	7	neg_cue
+quit	19	neg_cue
+########
+5
+<EOP> .
+########
+6
+Labour said the double resignation had left the Foreign Office rudderless just as humanitarian catastrophes were unfolding in Gaza and Iraq .
+########
+7
+<EOP> .
+########
+8
+The former Africa minister said he was leaving the Foreign Office and standing down as an MP because the `` intolerable '' pressure on his family life .
+########
+9
+He is being replaced by James Duddridge , a former Government whip .
+########
+10
+<EOP> .
+########
+11
+The unexpected resignation surprised many in Westminster coming months after Mr Simmonds had told his constituents in Boston and Skegness that he would stand for re_election .
+unexpected	1	ps_cue
+would	22	ps_cue
+########
+12
+However , the minister insisted there was `` nothing sinister '' behind the announcement .
+nothing	8	neg_cue
+########
+13
+<EOP> .
+########
+14
+Mr Simmonds actually agreed to quit with David Cameron at last month 's Cabinet reshuffle .
+Simmonds	1	CT-	CT-
+quit	5	neg_cue
+########
+15
+However it was delayed until Monday to allow him to chair a United Nations meeting on the Congo in New York last week .
+delayed	3	neg_cue
+########
+16
+<EOP> .
+########
+17
+There were claims that Mr Simmonds had resigned fearing a tough fight from the UK Independence Party at May 's election , despite a 12,000 majority in 2010 , although this was firmly denied by Mr Simmonds .
+May	18	ps_cue
+denied	33	neg_cue
+########
+18
+<EOP> .
+########
+19
+Mr Simmonds is paid ￡ 89,435 a year as a minister and MP and is entitled to ￡ 27,875 a year to rent and pay for a flat with him and his family .
+########
+20
+<EOP> .
+########
+21
+However he said this did not `` stretch '' far enough and so he stayed in hotels during the week when he was in London .
+not	5	neg_cue
+########
+22
+His wife is also paid up to ￡ 25,000 a year to act as his office manager .
+########
+23
+<EOP> .
+########
+24
+In an interview with The Telegraph he said : `` I have to stay in a different hotel room every week and any parent would hate that _ and I do .
+would	24	ps_cue
+########
+25
+<EOP> .
+########
+26
+`` The accommodation allowance needs to provide for families _ and it does n't .
+needs	4	ps_cue
+n't	13	neg_cue
+########
+27
+When my children are on holiday they ca n't come and stay with me in London _ I ca n't see them . ''
+n't	8	neg_cue
+n't	19	neg_cue
+########
+28
+<EOP> .
+########
+29
+`` It has a really negative impact on the quality of life .
+negative	5	neg_cue
+########
+30
+I am not the only one who feels like this , but I am the only one at the moment who is doing anything about it . ''
+not	2	neg_cue
+like	8	ps_cue
+########
+31
+<EOP> .
+########
+32
+He said the new expenses system _ which was reformed after the 2009 scandal which was exposed by the Telegraph _ was putting people off from becoming MPs .
+########
+33
+<EOP> .
+########
+34
+He said : `` The pendulum has swung too far back the other way .
+########
+35
+It is almost impossible for an MP and a government minister with children to have a normal family life and that can only be a deterrent to people wanting to come into Parliament . ''
+impossible	3	ps_cue
+impossible	3	neg_cue
+can	21	ps_cue
+########
+36
+<EOP> .
+########
+37
+Half as many people were applying to be MPs today compared in 2001 , he said , adding that `` the negative impact on family life is a significant part of that '' .
+negative	21	neg_cue
+########
+38
+<EOP> .
+########
+39
+He added : `` If you want to attract normal people into Parliament to reflect the views of the population you have to got to put in place the support mechanisms to deliver that .
+########
+40
+I do n't believe those support mechanisms are in place and that is why I am going . ''
+n't	2	neg_cue
+########
+41
+<EOP> .
+########
+42
+Mr Simmonds later told the BBC he was standing down over the fear that he would not see his three children , who are aged 15 , 13 and 12 , grow up .
+would	15	ps_cue
+not	16	neg_cue
+########
+43
+<EOP> .
+########
+44
+He said : `` My children are growing up , my eldest daughter will be 21 by the time the 2020 election comes by and I do n't want her to turn around and say ` I never saw my father , my daddy in that time ' . ''
+will	13	ps_cue
+n't	27	neg_cue
+never	37	neg_cue
+########
+45
+<EOP> .
+########
+46
+He added that the thought of staying in a hotel every night , particularly when his children were on holidays , `` just fills me with dread and horror '' .
+########
+47
+<EOP> .
+########
+48
+Mr Simmonds said he was not willing to live in the `` outer reaches of London '' where rents were more affordable .
+not	5	neg_cue
+willing	6	ps_cue
+########
+49
+<EOP> .
+########
+50
+Mr Simmonds ' claims that the allowances were not enough to support a family life were denied by the Parliamentary expenses watchdog , which last December recommended an 11 per cent pay rise for MPs after May 's general election .
+not	8	neg_cue
+denied	16	neg_cue
+recommended	26	ps_cue
+May	36	ps_cue
+########
+51
+<EOP> .
+########
+52
+A spokesman for the Independent Parliamentary Standards Authority said : `` Ipsa is awake to the impact on family life for MPs who have to live in two locations _ in London and the constituency .
+########
+53
+That is why we provide more support to MPs with family or caring responsibilities . ''
+or	11	ps_cue
+########
+54
+<EOP> .
+########
+55
+An MP with three children like Mr Simmonds would be able to claim ￡ 27,875 a year `` allowing them to rent a flat big enough to accommodate their children '' , he said .
+like	5	ps_cue
+would	8	ps_cue
+########
+56
+<EOP> .
+########

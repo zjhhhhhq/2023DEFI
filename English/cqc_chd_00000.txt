@@ -1,0 +1,109 @@
+Has China urged the US
+0
+China issues stern rebuke over flight <EOP> .
+rebuke	3	CT+	CT+
+########
+1
+2017_07_26 06:37 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+Surveillance aircraft intercepted by 2 J_10 fighter jets over East China Sea <EOP> .
+########
+4
+China urged the United States to immediately stop its `` unsafe , unprofessional and unfriendly dangerous military activity '' after a US Navy surveillance plane flew in airspace over the East China Sea on Sunday .
+stop	7	CT+	CT+
+stop	7	neg_cue
+########
+5
+<EOP> .
+########
+6
+`` China 's Air Force dealt with it in accordance with laws and regulations .
+########
+7
+The Chinese pilots ' maneuvers are legal , necessary and professional , '' Defense Ministry spokesman Ren Guoqiang said in a statement on Tuesday .
+########
+8
+<EOP> .
+########
+9
+According to media reports , Pentagon spokesman Captain Jeff Davis said on Monday that two Chinese J_10 fighter jets intercepted a US EP_3 plane over the East China Sea during the weekend , with one jet coming within about 90 meters of the US aircraft .
+########
+10
+<EOP> .
+########
+11
+Reuters cited a US official as saying that the Chinese jet was armed and the interception took place 80 nautical miles , or about 148 km , from Qingdao , Shandong province .
+or	22	ps_cue
+########
+12
+<EOP> .
+########
+13
+Ren said the US military aircraft 's surveillance activities threatened China 's national security , damaged both countries ' military security and posed a danger to the safety of both the Chinese and US pilots .
+########
+14
+<EOP> .
+########
+15
+`` These actions are the root cause of the security issue between China and the US , both in the air and at sea , '' he said , `` The US should immediately cease such kinds of unsafe , unprofessional and unfriendly , dangerous military activity . ''
+should	32	ps_cue
+########
+16
+<EOP> .
+########
+17
+Foreign Ministry spokesman Lu Kang also said on Tuesday that US warships and warplanes over a period of time have carried out long_term and frequent surveillance activities near China 's coast .
+said	6	CT+	CT+
+########
+18
+<EOP> .
+########
+19
+`` Such activities seriously threaten China 's maritime and air security .
+########
+20
+We urge the US to immediately stop such surveillance activity and prevent such incidents from happening again , '' he told reporters at a daily news conference .
+stop	6	neg_cue
+prevent	11	neg_cue
+########
+21
+<EOP> .
+########
+22
+Lu also said China has been devoted to safeguarding flight order and security at sea as they apply to international laws and related rules .
+########
+23
+<EOP> .
+########
+24
+`` We are also actively working to establish military mutual trust with other countries in order to appropriately manage and control disputes , '' he added .
+########
+25
+<EOP> .
+########
+26
+On May 17 , a US WC_135 Constant Phoenix reconnaissance aircraft carried out operations in airspace over the Yellow Sea and Chinese aircraft acted to identify and investigate in accordance with the law .
+May	1	ps_cue
+########
+27
+<EOP> .
+########
+28
+Major General Ma Gang , a professor at the PLA National Defense University , said the `` countless '' surveillance activities in recent years reflect that some people in the US can not take a correct view of China 's development , especially in terms of military power .
+can	31	ps_cue
+not	32	neg_cue
+########
+29
+<EOP> .
+########
+30
+`` China has to take just and professional actions when warnings do not work anymore , '' he said .
+not	12	neg_cue
+########
+31
+<EOP> .
+########

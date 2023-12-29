@@ -1,0 +1,124 @@
+Is South China Sea issue developing in a positive way
+0
+South China Sea issue grows ` positive ' <EOP> .
+positive	6	CT+	CT+
+########
+1
+2017_05_03 07:33 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+<EOP> .
+########
+4
+The situation in the South China Sea issue has cooled down and the issue `` is developing in a positive way '' , the Foreign Ministry said on Tuesday .
+positive	19	CT+	CT+
+########
+5
+<EOP> .
+########
+6
+`` China has noticed expressions in the summit chairman 's statement about the South China Sea , '' ministry spokesman Geng Shuang said of a chairman 's statement issued by the Association of Southeast Asian Nations summit in Manila on Sunday .
+########
+7
+<EOP> .
+########
+8
+`` At present , thanks to joint efforts of regional countries , the temperatures of the South China Sea situation have gone down , things have eased up and the situation is developing in a positive way . ''
+positive	35	CT+	CT+
+########
+9
+<EOP> .
+########
+10
+The statement of the 10_country bloc spoke of `` the improving cooperation between ASEAN and China '' , and did not include references to `` tensions '' .
+not	20	neg_cue
+########
+11
+<EOP> .
+########
+12
+An ASEAN diplomat told Reuters that the statement was a genuine representation of the atmosphere of the Manila meetings .
+########
+13
+<EOP> .
+########
+14
+`` We respected the Philippines ' views and cooperated , '' the diplomat said .
+########
+15
+`` It clearly reflected how the issue was discussed . ''
+########
+16
+The Philippines holds the rotating ASEAN chairmanship this year .
+########
+17
+<EOP> .
+########
+18
+In another gesture reflecting warming ties , Philippine President Rodrigo Duterte visited three Chinese warships on Monday that would berth in his hometown of Davao city on the southern island of Mindanao .
+would	18	ps_cue
+########
+19
+<EOP> .
+########
+20
+`` This is part of confidence_building and goodwill and to show we are friends , and that is why I welcome them , '' he said .
+########
+21
+<EOP> .
+########
+22
+Duterte also repeated on Monday that he had agreed to hold joint China_Philippine military exercises .
+########
+23
+<EOP> .
+########
+24
+Geng said on Tuesday at the news briefing that Beijing welcomes Duterte 's visit to the warships , `` which reflects increasing mutual political trust between the two sides '' .
+########
+25
+<EOP> .
+########
+26
+He said the nations ' ties have `` improved comprehensively '' since last year and brought tangible benefits to the people .
+########
+27
+<EOP> .
+########
+28
+`` This fully confirmed that friendly cooperation is the right choice that is in line with fundamental interests of the two countries and the two peoples . ''
+########
+29
+<EOP> .
+########
+30
+Wang Baofu , a military strategist at the National Defence University of the People 's Liberation Army , said the Chinese warships visited the Philippines at the invitation of Duterte .
+########
+31
+<EOP> .
+########
+32
+`` The visit of the warships , under such a situation ... is very significant and has drawn close attention from countries in the region , '' Wang said in an analysis issued on the Defense Ministry 's website .
+########
+33
+<EOP> .
+########
+34
+`` It is not a symbolic move , but an important step for the two sides to build up military and strategic mutual trust . ''
+not	3	neg_cue
+########
+35
+<EOP> .
+########
+36
+lixiaokun@chinadaily.com.cn <EOP> .
+########
+37
+<EOP> .
+########
+38
+LRB China Daily 05_03_2017 page3 RRB <EOP> .
+########

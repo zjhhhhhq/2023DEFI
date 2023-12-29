@@ -1,0 +1,86 @@
+Does a material save parents thousands of pounds every time their child has a growth spurt
+0
+Ryan Yasin , 24 , has engineered a material which would allow garments to grow up to six sizes _ saving parents thousands of pounds every time their child has a growth spurt .
+saving	20	CT+	CT+
+would	10	ps_cue
+########
+1
+<EOP> .
+########
+2
+After buying his young nephew clothes labeled for his age , and discovering that the baby had already grown too big for them , Mr Yasin realized how frustrating clothes_buying was for parents .
+########
+3
+<EOP> .
+########
+4
+Through his engineering degree , he was aware of structures in certain fabrics which can become wider and longer when pulled , unlike normal material such as a rubber band which gets thinner .
+can	14	ps_cue
+########
+5
+<EOP> .
+########
+6
+He managed to capture this property 's effects through pleating the material and heating it to seal it _ making his prototype clothing washproof , waterproof and even ` crumb proof ' .
+########
+7
+<EOP> .
+########
+8
+The garment _ which is due to be released on to the market shortly _ currently promises to fit any child from the age of six to 36 months .
+########
+9
+<EOP> .
+########
+10
+Mr Yasin 's efforts awarded him the national James Dyson Award , the design prize inspired by Sir James Dyson , the British inventor .
+########
+11
+<EOP> .
+########
+12
+Children grow seven sizes in their first two years , and on an average , British parents spend over # 2,000 on clothing before their child reaches the age of three .
+########
+13
+<EOP> .
+########
+14
+As well as saving parents cost and hassle , Mr Yasin said he was concerned about the consequences of mass production of garments on the environment , with 30,000 tonnes of household clothing being binned in the last year alone .
+saving	3	CT+	CT+
+########
+15
+<EOP> .
+########
+16
+As such , the clothing , which is currently an outerwear garment , is fully recyclable as well as allowing for a range of colors and patterns .
+########
+17
+<EOP> .
+########
+18
+The clothing design is in the final stages of prototyping and will soon be on the production line .
+will	11	ps_cue
+########
+19
+<EOP> .
+########
+20
+Mr Yasin says the clothing would be ` competitively priced ' and save parents money in the long run , costing tens or hundreds , not thousands of pounds .
+would	5	ps_cue
+or	22	ps_cue
+not	25	neg_cue
+########
+21
+<EOP> .
+########
+22
+He now wants to expand the range for clothing for various ages of children .
+wants	2	ps_cue
+########
+23
+For example , one garment for a child from the age of two to five years _ or six months to three years .
+or	17	ps_cue
+########
+24
+<EOP> .
+########

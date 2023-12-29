@@ -1,0 +1,169 @@
+Does White House accuse Russia of Syria chemical attack ` cover up '
+0
+White House accuses Russia of Syria chemical attack ` cover up ' <EOP> .
+up	10	CT+	CT+
+########
+1
+2017_04_12 10:00 <EOP> .
+########
+2
+null <EOP> .
+########
+3
+<EOP> .
+########
+4
+White House Press Secretary Sean Spicer speaks during a press briefing at the White House in Washington , US , April 11 , 2017 .
+########
+5
+LRB Photo_Agencies RRB <EOP> .
+########
+6
+Trump , who has faced criticism for lacking a broader strategy to deal with the Syria crisis , insisted he has no plans to `` go into '' the war_torn country .
+criticism	5	neg_cue
+no	21	neg_cue
+plans	22	ps_cue
+########
+7
+<EOP> .
+########
+8
+Senior White House officials , briefing reporters on condition of anonymity , said Assad 's government carried out the April 4 sarin nerve gas attack on civilians in Syria 's Idlib province , killing 87 people including many children , to put pressure on rebels making advances in the area .
+########
+9
+<EOP> .
+########
+10
+Russia has defended the Syrian leader against US allegations that his forces carried out the attack , saying there is no evidence .
+against	6	neg_cue
+no	20	neg_cue
+########
+11
+Russia has blamed Syrian rebels .
+########
+12
+<EOP> .
+########
+13
+`` It 's clear that the Russians are trying to cover up what happened there , '' one White House official said .
+up	11	CT+	CT+
+########
+14
+<EOP> .
+########
+15
+White House spokesman Sean Spicer later told reporters that the facts backed up the US version of events .
+########
+16
+`` Russia is on an island when it comes to its support of Syria or its lack of , frankly , acknowledgment of what happened , '' he told reporters .
+or	14	ps_cue
+lack	16	neg_cue
+########
+17
+<EOP> .
+########
+18
+But at the same briefing Spicer drew criticism after he sought to underscore the ghastliness of the gas attack by saying , `` You had someone as despicable as Hitler who did n't even sink to using chemical weapons . ''
+criticism	7	neg_cue
+n't	32	neg_cue
+########
+19
+Nazi Germany used gas chambers to kill millions of Jews during the Holocaust .
+########
+20
+<EOP> .
+########
+21
+Spicer later apologized and said he should not have made the comparison .
+should	6	ps_cue
+not	7	neg_cue
+########
+22
+`` It was a mistake .
+########
+23
+I should n't have done it and I wo n't do it again , '' Spicer told CNN in an interview .
+should	1	ps_cue
+n't	2	neg_cue
+n't	9	neg_cue
+########
+24
+`` It was inappropriate and insensitive . ''
+########
+25
+<EOP> .
+########
+26
+The White House officials said Russia has frequently offered multiple , conflicting accounts of Syrian government aggression including the incident in the village of Khan Sheikhoun to sow doubt within the international community .
+########
+27
+<EOP> .
+########
+28
+The United States launched 59 cruise missiles at a Syrian airfield on Thursday to retaliate after the attack .
+########
+29
+The strikes thrust the administration of President Donald Trump , who came to power in January calling for warmer ties with Russia , into confrontation with Moscow .
+########
+30
+<EOP> .
+########
+31
+Trump 's ambassador to the United Nations , Nikki Haley , said on Tuesday she thought Russia knew about the chemical attack inadvance .
+########
+32
+`` They did n't look shocked .
+n't	3	neg_cue
+########
+33
+They did n't look surprised .
+n't	2	neg_cue
+########
+34
+<EOP> .
+########
+35
+They were so quick to defend .
+########
+36
+And then the evidence comes out , and we see exactly what it is and we know exactly what the environment was .
+########
+37
+Then you realize , '' she said on CNN .
+########
+38
+<EOP> .
+########
+39
+US intelligence indicates that the chemical agent in the attack was delivered by Syrian Su_22 aircraft that took off from the Shayrat airfield , according to a White House report given to reporters .
+########
+40
+<EOP> .
+########
+41
+In a four_page document , the White House sought to rebut many of Moscow 's claims about the circumstances of the attack .
+########
+42
+<EOP> .
+########
+43
+It said the Syrian planes were in the vicinity of Khan Sheikhoun about 20 minutes before the attack and left shortly afterward .
+########
+44
+<EOP> .
+########
+45
+`` Additionally , our information indicates personnel historically associated with Syria 's chemical weapons program were at Shayrat airfield in late March making preparations for an upcoming attack in northern Syria , and they were present at the airfield on the day of the attack , '' the report said .
+########
+46
+<EOP> .
+########
+47
+Washington wants Russia to stop supporting Assad , who has been fighting a six_year_long civil war against mostly Sunni Muslim rebels , also with the backing of Shi'ite Muslim Iran .
+wants	1	ps_cue
+stop	4	neg_cue
+against	16	neg_cue
+########
+48
+<EOP> .
+########

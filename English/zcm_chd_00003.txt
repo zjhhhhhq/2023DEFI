@@ -1,0 +1,40 @@
+Does US Secretary of State Tillerson deny rumor of resignation
+0
+US Secretary of State Tillerson denies rumor of resignation <EOP> .
+resignation	8	CT-	CT-
+denies	5	neg_cue
+########
+1
+2017_10_05 19:08 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+WASHINGTON _ US Secretary of State Rex Tillerson on Wednesday denied rumors that he had criticized US President Donald Trump in private and considered resigning during the summer .
+resigning	24	CT-	CT-
+denied	10	neg_cue
+criticized	15	neg_cue
+considered	23	ps_cue
+########
+4
+<EOP> .
+########
+5
+<EOP> .
+########
+6
+<EOP> .
+########
+7
+<EOP> .
+########
+8
+US Secretary of State Rex Tillerson waves at the 13th Annual Grand Challenges Meeting co_hosted by the Bill and Melinda Gates Foundation in Washington , US , October 4 2017 .
+########
+9
+<EOP> .
+########
+10
+LRB Photo_Agencies RRB <EOP> .
+########

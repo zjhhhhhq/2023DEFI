@@ -1,0 +1,65 @@
+Does US department of transportation investigate airlines ' forceful removal
+0
+US department of transportation says to investigate airlines ' forceful removal <EOP> .
+removal	10	CT+	CT+
+########
+1
+2017_04_11 14:37 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+WASHINGTON _ The US Department of Transportation LRB DOT RRB said Monday evening that it would probe the incident in which the United Airlines had one of its passengers forcefully removed .
+removed	30	CT+	CT+
+would	15	ps_cue
+########
+4
+<EOP> .
+########
+5
+`` The DOT remains committed to protecting the rights of consumers and is reviewing the involuntary denied boarding of passengerLRB s RRB from United Express flight 3411 to determine whether the airline complied with the oversales rule , '' it said in a statement .
+denied	16	neg_cue
+whether	29	ps_cue
+########
+6
+<EOP> .
+########
+7
+The response came after a horrific incident took place at Chicago O'hare International Airport on Sunday , when a passenger of Asian descent with bloodied face was literally dragged off a plane by airport police .
+dragged	28	CT+	CT+
+########
+8
+<EOP> .
+########
+9
+United Airlines said that due to oversale of tickets , four passengers need to leave the plane , and when an monetary incentive of 800 US dollars lured no volunteers , flight attendants said they used computers to `` randomly '' choose four unlucky passengers .
+need	12	ps_cue
+no	28	neg_cue
+########
+10
+<EOP> .
+########
+11
+Three passengers complied with the airlines ' demand but the fourth , a 59_year_old doctor who said he needed to reach a patient , refused to disembark .
+refused	24	neg_cue
+########
+12
+<EOP> .
+########
+13
+Airport police were then summoned and wrestled the man out of his seat .
+########
+14
+The man 's mouth was hit in the process and bled heavily .
+########
+15
+<EOP> .
+########
+16
+`` While it is legal for airlines to involuntarily bump passengers from an oversold flight when there are not enough volunteers , it is the airline 's responsibility to determine its own fair boarding priorities , '' the DOT said in the statement .
+not	18	neg_cue
+########
+17
+<EOP> .
+########

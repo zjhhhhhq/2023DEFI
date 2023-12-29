@@ -1,0 +1,148 @@
+Was there a garden on display last week
+0
+Silk Road inspired garden shines <EOP> .
+########
+1
+2017_05_29 18:42 <EOP> .
+########
+2
+China Daily UK <EOP> .
+########
+3
+A garden on display last week at Chelsea Flower Show that was sponsored by the Chengdu Tourism Administration won a silvergilt medal from judges .
+display	3	CT+	CT+
+########
+4
+<EOP> .
+########
+5
+<EOP> .
+########
+6
+<EOP> .
+########
+7
+<EOP> .
+########
+8
+The vibrant hues of the Silk Road , Chengdu , display at the Chelsea Flower Show last week attracted a lot of attention , and the praise of the competition 's judges .
+display	10	CT+	CT+
+########
+9
+<EOP> .
+########
+10
+CHEN AOSHUANG_CHINA DAILY <EOP> .
+########
+11
+<EOP> .
+########
+12
+The show garden , named Silk Road , Chengdu , impressed at gardening 's Oscars , which ended on Saturday .
+########
+13
+The show attracts close to 160,000 visitors each year .
+########
+14
+By participating , the city government of Chengdu hoped to attract attention to Sichuan province and boost the region 's tourism industry .
+hoped	8	ps_cue
+########
+15
+<EOP> .
+########
+16
+Chengdu is the capital of Sichuan province , an area that is home to the giant panda and a great range of important plants .
+########
+17
+It was also a gateway along the Silk Road trading route .
+########
+18
+<EOP> .
+########
+19
+Inspired by the rich history and culture of Chengdu , designers Laurie Chetwood and Patrick Collins created a space to symbolize the historical link between East and West .
+########
+20
+<EOP> .
+########
+21
+A series of triangular fins growing bigger toward the center and deepening in color , from white to fire_red , evoked the mountains surrounding the city .
+########
+22
+Between these fins stood rhododendrons , primulas , poppies and other plants that originate in China .
+########
+23
+<EOP> .
+########
+24
+Covering an area of 660 square meters , the Silk Road garden was one of the biggest at the show .
+########
+25
+<EOP> .
+########
+26
+It stood on arguably the most challenging triangular site at the Chelsea Flower Show , an area that could be viewed from all sides , meaning nothing could be hidden at the back .
+could	18	ps_cue
+nothing	26	neg_cue
+could	27	ps_cue
+########
+27
+<EOP> .
+########
+28
+A standout feature of the garden was the use of firered colors .
+########
+29
+Usually , the color is difficult to match with green vegetation .
+########
+30
+<EOP> .
+########
+31
+`` I chose red because it signals happiness in Chinese culture , '' Cheetwood said .
+########
+32
+`` We were afraid of the color contrast , but we employed red_flowering rhododendrons to echo the theme .
+########
+33
+And , after all , it looks good . ''
+########
+34
+<EOP> .
+########
+35
+The Silk Road_inspired garden was a hit with visitors .
+########
+36
+Kelly , a garden_lover from Manchester said the vibrant colors stood out and she loved it .
+########
+37
+However , Kelly 's mother , who described herself as a bit old_fashioned , said the garden had too much color .
+########
+38
+<EOP> .
+########
+39
+The garden will be relocated to Chengdu , where it will become part of an ambitious project called Flower_Shrouded Chengdu that will see 20 large gardens created in suburban Chengdu .
+will	2	ps_cue
+will	10	ps_cue
+will	21	ps_cue
+########
+40
+<EOP> .
+########
+41
+The writer is a freelancer who contributed this story to China Daily .
+########
+42
+<EOP> .
+########
+43
+<EOP> .
+########
+44
+<EOP> .
+########
+45
+<EOP> .
+########

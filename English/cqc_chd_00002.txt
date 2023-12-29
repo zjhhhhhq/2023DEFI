@@ -1,0 +1,81 @@
+Did Kovind swear in as new Indian president
+0
+Kovind sworn in as new Indian president <EOP> .
+sworn	1	CT+	CT+
+########
+1
+2017_07_26 09:28 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+<EOP> .
+########
+4
+<EOP> .
+########
+5
+<EOP> .
+########
+6
+Indian newly elected President Ram Nath Kovind arrives at Presidential Palace after his sworn_in ceremony in New Delhi , July 25 , 2017 .
+########
+7
+LRB Photo_Xinhua RRB <EOP> .
+########
+8
+<EOP> .
+########
+9
+NEW DELHI _ Ram Nath Kovind was sworn in as India 's 14th president on Tuesday .
+sworn	7	CT+	CT+
+########
+10
+<EOP> .
+########
+11
+Kovind was administered the oath of office by Chief Justice of India J.S. Khehar at a grand ceremony in parliament , attended by Vice President Hamid Ansari , Prime Minister Narendra Modi , opposition Congress party chief Sonia Gandhi and lawmakers of both the Houses .
+opposition	33	neg_cue
+########
+12
+<EOP> .
+########
+13
+`` I will stand by and represent all 1.25 billion fellow Indians .
+will	2	ps_cue
+########
+14
+I understand the massive responsibility that this is , '' President Kovind said in his inaugural address .
+########
+15
+<EOP> .
+########
+16
+President Kovind , who took over from his predecessor Pranab Mukherjee , also took to social media as he tweeted : `` Honored to be sworn in as the 14th President of India ; would be carrying out my responsibilities with all humility . ''
+sworn	25	CT+	CT+
+would	34	ps_cue
+########
+17
+<EOP> .
+########
+18
+The former governor of the eastern state of Bihar was elected as Indian president last week as the ruling National Democratic Alliance 's contender , winning the election by a huge margin against opposition nominee Meira Kumar , a former parliament speaker .
+against	32	neg_cue
+opposition	33	neg_cue
+########
+19
+<EOP> .
+########
+20
+The 71_year_old became India 's second Dalit President after President K.R. Narayanan , who served from 1997 to 2002 .
+########
+21
+<EOP> .
+########
+22
+Indian president is the ceremonial head of state , who plays decisive roles only in case of a hung parliament after general elections .
+########
+23
+<EOP> .
+########

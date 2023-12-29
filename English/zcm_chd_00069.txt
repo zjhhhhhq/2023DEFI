@@ -1,0 +1,106 @@
+Will the two countries work together
+0
+Diplomats promise ` results ' for Trump 's China visit <EOP> .
+########
+1
+2017_09_13 11:57 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+<EOP> .
+########
+4
+President Xi Jinping , right , meets with US President Donald Trump during the G20 summit in Hamburg , Germany , on July 8 , 2017 .
+########
+5
+LRB Photo_Xinhua RRB <EOP> .
+########
+6
+The top diplomats of Beijing and Washington vowed that the two countries will work together to ensure US President Donald Trump 's first visit to China yields `` fruitful results '' , according to a statement delivered by the Chinese Foreign Ministry on Tuesday .
+work	13	CT+	CT+
+will	12	ps_cue
+########
+7
+<EOP> .
+########
+8
+In his meeting with US Secretary of State Rex Tillerson in Washington on Tuesday , China 's State Councilor Yang Jiechi said Beijing is ready to work with Washington to push Trump 's state visit to China , scheduled for `` within this year '' , to attain positive outcomes .
+work	26	CT+	CT+
+ready	24	ps_cue
+scheduled	38	ps_cue
+########
+9
+<EOP> .
+########
+10
+Trump is likely to visit China in November , when he also is set to attend the US_ASEAN summit and the East Asia summit in the Philippines , as well as the Asia_Pacific Economic Cooperation meeting in Vietnam , Reuters reported early on Tuesday , citing an unidentified US official .
+likely	2	ps_cue
+########
+11
+<EOP> .
+########
+12
+The report also said Tillerson and Yang were expected to discuss the details of the president 's China trip at their meeting .
+expected	8	ps_cue
+########
+13
+<EOP> .
+########
+14
+A statement issued after the meeting by the Foreign Ministry did not reveal further details but quoted Tillerson as saying Trump is very much looking forward to the state visit and to plan with President Xi Jinping the future development of the Sino_US relationship .
+not	11	neg_cue
+forward	25	ps_cue
+forward	25	neg_cue
+plan	32	ps_cue
+########
+15
+<EOP> .
+########
+16
+Tillerson also said that following the inaugural high_level dialogue on diplomacy and security , which took place in Washington in June , and the high_level dialogue on the economy in July , the US is ready to work with China on the first high_level dialogue on social and cultural issues and the dialogue on law enforcement and cybersecurity .
+work	37	CT+	CT+
+ready	35	ps_cue
+########
+17
+<EOP> .
+########
+18
+The US is ready to ramp up exchanges and coordination on international and regional issues , and make Trump 's visit to China productive , Tillerson said , the statement said .
+ready	3	ps_cue
+########
+19
+<EOP> .
+########
+20
+The four dialogues are part of the four_pronged high_level dialogue mechanisms set up by the presidents during their meeting at Mar_a_Lago in Florida in April .
+########
+21
+<EOP> .
+########
+22
+Yang said that maintaining the good momentum of China_US relations is in the interests of both countries and with the common aspirations of the international community .
+maintaining	3	CT+	CT+
+########
+23
+<EOP> .
+########
+24
+He said the two countries should build on the consensus reached by the two presidents and promote a healthy and stable development of the bilateral relationship .
+build	6	CT+	CT+
+should	5	ps_cue
+########
+25
+<EOP> .
+########
+26
+Also , the two sides should strengthen exchanges at high and various levels , expand mutually beneficial cooperation on various areas , respect each other 's core interests and major concerns , and manage and control their differences in a constructive fashion , Yang said .
+should	5	ps_cue
+########
+27
+<EOP> .
+########
+28
+huanxinzhao@chinadailyusa.com <EOP> .
+########

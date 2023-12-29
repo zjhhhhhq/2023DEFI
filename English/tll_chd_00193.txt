@@ -1,0 +1,106 @@
+Will British businesses collaborate with partners in China 's Jiangsu province
+0
+Innovative British firms urged to partner Jiangsu businesses <EOP> .
+########
+1
+2017_04_11 17:44 <EOP> .
+########
+2
+China Daily UK <EOP> .
+########
+3
+Innovate UK is calling on British businesses to come up with projects in which they can collaborate with partners in China 's Jiangsu province .
+collaborate	16	PS+	PS+
+can	15	ps_cue
+########
+4
+<EOP> .
+########
+5
+The British government body , which is sponsored by the Department for Business , Energy and Industrial Strategy , and Jiangsu Science and Technology department , will fund the competition , with Innovate UK allocating up to 5 million pounds LRB $ 6 million RRB to fund innovation projects .
+will	26	ps_cue
+########
+6
+<EOP> .
+########
+7
+The program is based on a memorandum of understanding for Cooperation in Regional Technology and Innovation that was signed in 2014 .
+########
+8
+<EOP> .
+########
+9
+Jiangsu Science and Technology Department will provide funding for partners from that province .
+will	5	ps_cue
+########
+10
+<EOP> .
+########
+11
+Organizers hope the competition will encourage business_led innovation that will stimulate growth in Jiangsu province , and in the UK .
+hope	1	ps_cue
+will	4	ps_cue
+will	9	ps_cue
+########
+12
+<EOP> .
+########
+13
+Companies taking part will need to show clear benefits from collaboration with partners in the other geographic area .
+collaboration	10	CT+	PS+
+will	3	ps_cue
+need	4	ps_cue
+########
+14
+<EOP> .
+########
+15
+Jiangsu has been described as one of the provinces in China with the most abundant scientific resources and innovation activities .
+########
+16
+<EOP> .
+########
+17
+Innovate UK , which has helped British innovators launch , build , and grow successful businesses , noted that all projects should lead to a significant return on investment , and have a clear impact on business growth .
+should	21	ps_cue
+########
+18
+<EOP> .
+########
+19
+Themes for the competition include industrial research and experimental development .
+########
+20
+<EOP> .
+########
+21
+Innovate UK is also looking for projects that will address challenges faced by infrastructure owners , cities , and users through innovation in infrastructure systems .
+will	8	ps_cue
+########
+22
+<EOP> .
+########
+23
+Businesses wanting a slice of the investment will also need to show the use of transformational or disruptive innovation in the creation of new products , processes or services drawn from any technology , engineer or industrial area .
+will	7	ps_cue
+need	9	ps_cue
+or	16	ps_cue
+or	27	ps_cue
+or	35	ps_cue
+########
+24
+<EOP> .
+########
+25
+The British government body plans to fund between 10 and 15 projects in these areas for up to 24 months .
+plans	4	ps_cue
+########
+26
+<EOP> .
+########
+27
+Deadline for the competition is June 21 .
+########
+28
+<EOP> .
+########

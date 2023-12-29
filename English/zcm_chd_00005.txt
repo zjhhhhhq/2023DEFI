@@ -1,0 +1,107 @@
+Does Brazilian Congress approve electoral reform in time for 2018 elections 
+0
+Brazilian Congress approves electoral reform in time for 2018 elections <EOP> .
+reform	4	CT+	CT+
+########
+1
+2017_10_06 15:13 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+RIO DE JANEIRO __ The Brazilian Congress managed to approve a complex and controversial electoral reform Thursday in time for the measures to be in effect for the 2018 general elections .
+########
+4
+<EOP> .
+########
+5
+In order to be effective for the elections next year , in which Brazilians will choose a new president , state governors , as well as senators and federal and state representatives , the reform rules need to be signed into law until exactly one year before the election , thus President Michel Temer is expected to sign them by Saturday .
+will	14	ps_cue
+need	36	ps_cue
+expected	55	ps_cue
+########
+6
+<EOP> .
+########
+7
+The new regulations will change several key aspects of the electoral system in Brazil .
+will	3	ps_cue
+########
+8
+<EOP> .
+########
+9
+One of the most controversial reform rules concerns hate speech and fake news .
+########
+10
+The new law demands the suspension of all publications denounced for promoting hate speech or spreading fake news from social networks and smartphone apps , which is a move to curb the practice of fake profiles slandering candidates .
+or	14	ps_cue
+########
+11
+<EOP> .
+########
+12
+However , the information will have to be suspended after a simple denouncement .
+will	4	ps_cue
+suspended	8	neg_cue
+########
+13
+Several congressmen argued that the text violates freedom of expression , for it does not require that the information is proved to be fake or slander before the suspension .
+violates	6	CT-	CT+
+not	14	neg_cue
+or	24	ps_cue
+########
+14
+<EOP> .
+########
+15
+In other words , followers of a candidate would only need to denounce the posts defending a rival candidate to be deemed as fake news , and the pieces would be suspended without any sort of checking .
+would	8	ps_cue
+need	10	ps_cue
+denounce	12	neg_cue
+would	29	ps_cue
+suspended	31	neg_cue
+without	32	neg_cue
+########
+16
+<EOP> .
+########
+17
+Press associations and other entities are pressuring Temer to veto this particular article , saying it constitutes censorship and is , therefore , unconstitutional .
+veto	9	CT-	CT+
+########
+18
+<EOP> .
+########
+19
+The Congress also approved the creation of an electoral fund , which will provide public funds for the election .
+will	12	ps_cue
+########
+20
+Corporate funding had already been forbidden in 2015 .
+########
+21
+Donations from citizens were limited to the tenfold amount of the minimum wage , and campaign spending was also limited .
+########
+22
+<EOP> .
+########
+23
+In addition , rules concerning parties ' advertisement time on television and radio will be changed .
+will	13	ps_cue
+########
+24
+A barrier clause will restrict advertisement time for parties which fail to achieve minimum requirements : either to have 1.5 percent of votes in at least nine states or to elect representatives in nine states .
+will	3	ps_cue
+fail	10	neg_cue
+either	16	ps_cue
+or	28	ps_cue
+########
+25
+The requirements will gradually increase until 2030 .
+will	2	ps_cue
+########
+26
+<EOP> .
+########

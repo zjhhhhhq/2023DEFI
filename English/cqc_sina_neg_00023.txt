@@ -1,0 +1,347 @@
+Is playing video games good for us
+0
+Are you addicted to computer games ?
+########
+1
+Do you stay up all night playing them ?
+########
+2
+There 's no doubt that the excitement and sophistication of games these days makes them hard to put down .
+games	10	CT-	CT-
+no	2	neg_cue
+########
+3
+But should we worry about their effects on our health ?
+should	1	ps_cue
+########
+4
+<EOP> .
+########
+5
+We are spoilt for choice when it comes to gaming : You can role play _ creating your own fantasy characters and stories , giving you a chance to step out of everyday life into an imaginary world .
+gaming	9	CT+	CT-
+can	12	ps_cue
+########
+6
+And there are shooting games where you can let out your anger and frustration in violent situations where you kill people with guns .
+games	4	CT+	CT-
+can	7	ps_cue
+########
+7
+<EOP> .
+########
+8
+Can these kinds of games really be fun and can being absorbed in virtual reality be good for us ?
+can	9	ps_cue
+########
+9
+Popular games like Grand Theft Auto have been blamed for everything from falling results at school to provoking acts of extreme violence .
+games	1	CT+	CT-
+like	2	ps_cue
+########
+10
+Internet safety advisor , Alan MacKenzie , thinks `` many people understandably will just think that a game is just a game and not realising the explicit content that 's in there '' .
+will	12	ps_cue
+not	23	neg_cue
+########
+11
+He gives an example of the violence and sexualisation of women which he says is `` wholly inappropriate for anybody , never mind children . ''
+never	21	neg_cue
+########
+12
+<EOP> .
+########
+13
+Others will argue that gaming is a harmless form of entertainment .
+will	1	ps_cue
+########
+14
+There is evidence that playing video games could actually be good for us .
+could	7	ps_cue
+########
+15
+Some games are educational and using games consoles can help children learn good dexterity .
+games	1	CT+	CT-
+can	8	ps_cue
+########
+16
+Studies have also shown that the skills used in playing games can cause growth in certain areas of the brain , the ability to think in 3D and even improve our eyesight .
+can	11	ps_cue
+########
+17
+<EOP> .
+########
+18
+Video gamers are also no longer just solitary creatures .
+gamers	1	CT+	CT-
+no	4	neg_cue
+########
+19
+For some , gaming is having a positive effect on their social lives with games like Halo and World of Warcraft often being played in groups .
+like	15	ps_cue
+########
+20
+When your group works together to win the game , your sense of achievement is higher than when winning by yourself .
+########
+21
+So it seems today , gaming is n't just for geeks and if used in moderation we can all take part .
+seems	2	ps_cue
+n't	7	neg_cue
+can	17	ps_cue
+########
+22
+What video games do you play and how do they make you feel ?
+########
+23
+<EOP> .
+########
+24
+1 .
+########
+25
+What game , named in the article , did some people blame for making people violent ?
+########
+26
+<EOP> .
+########
+27
+2 .
+########
+28
+True or false ?
+or	1	ps_cue
+########
+29
+The sexualisation of women is only inappropriate for children .
+########
+30
+<EOP> .
+########
+31
+3 .
+########
+32
+What word used in the article means ` facts or information that help to show something is true ' .
+or	9	ps_cue
+########
+33
+<EOP> .
+########
+34
+4 .
+########
+35
+Name one positive effect using video games can have on you .
+can	7	ps_cue
+########
+36
+<EOP> .
+########
+37
+5 .
+########
+38
+Can games like Halo usually be played on your own ?
+like	2	ps_cue
+########
+39
+<EOP> .
+########
+40
+1 .
+########
+41
+Mary has put on a lot of weight because of her ________ to chocolate .
+########
+42
+<EOP> .
+########
+43
+addition addiction addixion addicted <EOP> .
+########
+44
+2 .
+########
+45
+The government 's plan to get everyone to recycle all their rubbish is complete ________ , it will never happen !
+plan	3	ps_cue
+will	17	ps_cue
+never	18	neg_cue
+########
+46
+<EOP> .
+########
+47
+fantasy imaginary explicit harmless <EOP> .
+########
+48
+3 .
+########
+49
+________ technology has helped us to see how the village looked in Roman times .
+########
+50
+<EOP> .
+########
+51
+real virtuality virtually real virtual reality really virtuous <EOP> .
+########
+52
+4 .
+########
+53
+Children who grow up using mobile phones and gaming consoles are changing the shape and ________ of their fingers and thumbs .
+########
+54
+<EOP> .
+########
+55
+solitary dexterity reality addiction <EOP> .
+########
+56
+5 .
+########
+57
+Passing my first piano exam has given me a real sense of ________ .
+########
+58
+<EOP> .
+########
+59
+effort humour sophistication achievement <EOP> .
+########
+60
+1 .
+########
+61
+What game , named in the article , did some people blame for making people violent ?
+########
+62
+<EOP> .
+########
+63
+Grand Theft Auto .
+########
+64
+<EOP> .
+########
+65
+2 .
+########
+66
+True or false ?
+or	1	ps_cue
+########
+67
+The sexualisation of women is only inappropriate for children .
+########
+68
+<EOP> .
+########
+69
+False .
+########
+70
+Alan MacKenzie said sexualisation of women is wholly inappropriate for anybody , never mind children .
+never	12	neg_cue
+########
+71
+<EOP> .
+########
+72
+3 .
+########
+73
+What word used in the article means ` facts or information that help to show something is true ' .
+or	9	ps_cue
+########
+74
+<EOP> .
+########
+75
+Evidence .
+########
+76
+<EOP> .
+########
+77
+4 .
+########
+78
+Name one positive effect using video games can have on you .
+can	7	ps_cue
+########
+79
+<EOP> .
+########
+80
+The ability to think in 3D , improving your eyesight , improving your social life .
+########
+81
+<EOP> .
+########
+82
+5 .
+########
+83
+Can games like Halo usually be played on your own ?
+like	2	ps_cue
+########
+84
+<EOP> .
+########
+85
+No , it is often played in groups .
+No	0	neg_cue
+########
+86
+<EOP> .
+########
+87
+1 .
+########
+88
+Mary has put on a lot of weight because of her addiction to chocolate .
+########
+89
+<EOP> .
+########
+90
+2 .
+########
+91
+The government 's plan to get everyone to recycle all their rubbish is complete fantasy , it will never happen !
+plan	3	ps_cue
+will	17	ps_cue
+never	18	neg_cue
+########
+92
+<EOP> .
+########
+93
+3 .
+########
+94
+Virtual reality technology has helped us to see how the village looked in Roman times .
+########
+95
+<EOP> .
+########
+96
+4 .
+########
+97
+Children who grow up using mobile phones and gaming consoles are changing the shape and dexterity of their fingers and thumbs .
+########
+98
+<EOP> .
+########
+99
+5 .
+########
+100
+Passing my first piano exam has given me a real sense of achievement .
+########
+101
+<EOP> .
+########

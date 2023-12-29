@@ -1,0 +1,96 @@
+Does Britain 's first openly transgender candidate stand for election 
+0
+Britain 's first openly transgender candidate stands for election <EOP> .
+stands	6	CT+	CT+
+########
+1
+2017_06_08 22:05 <EOP> .
+########
+2
+null <EOP> .
+########
+3
+<EOP> .
+########
+4
+<EOP> .
+########
+5
+<EOP> .
+########
+6
+Sophie Cook , the Labour Party candidate for East Worthing and Shoreham , and the first transgender candidate ever to stand for Parliament , arrives to vote in Hove , Britain June 8 , 2017 .
+stand	20	CT+	CT+
+########
+7
+<EOP> .
+########
+8
+LRB Photo_Agencies RRB <EOP> .
+########
+9
+LONDON _ Britain 's first openly transgender candidate was standing for election for the opposition Labour party on Thursday , seeking to unseat the Conservative lawmaker who has held the English south coast seat of East Worthing and Shoreham for two decades .
+standing	9	CT+	CT+
+opposition	14	neg_cue
+seeking	20	ps_cue
+########
+10
+<EOP> .
+########
+11
+Sophie Cook , 50 , said Labour party leader Jeremy Corbyn had been a long_standing supporter of lesbian , gay , bisexual and transgender LRB LGBT RRB rights .
+########
+12
+<EOP> .
+########
+13
+`` Standing as a candidate in this election seems like a natural progression in my lifelong quest for LGBT rights , '' she wrote in an article on the inews website this week .
+Standing	1	CT+	CT+
+seems	8	ps_cue
+like	9	ps_cue
+########
+14
+<EOP> .
+########
+15
+Conservative Prime Minister Theresa May called the snap general election seven weeks ago in a bid to strengthen her hand in Britain 's divorce negotiations with the European Union .
+May	4	ps_cue
+########
+16
+Her party is expected to increase its parliamentary majority .
+expected	3	ps_cue
+########
+17
+<EOP> .
+########
+18
+A former Royal Air Force engineer , Cook came out as transgender while working as a soccer photographer in 2015 .
+########
+19
+The mother of three is now a television presenter and LGBT rights advocate .
+########
+20
+<EOP> .
+########
+21
+Britain has several openly gay members of parliament but has never had an openly transgender lawmaker .
+never	10	neg_cue
+########
+22
+LGBT people obtained broad legal protection from discrimination under UK law in 2010 .
+########
+23
+<EOP> .
+########
+24
+Reuters <EOP> .
+########
+25
+<EOP> .
+########
+26
+<EOP> .
+########
+27
+<EOP> .
+########

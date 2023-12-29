@@ -1,0 +1,56 @@
+Will US President Donald Trump speak by phone with Russian President Vladimir Putin on Tuesday
+0
+Trump , Putin to speak on Tuesday : White House <EOP> .
+########
+1
+2017_05_02 10:39 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+WASHINGTON _ The White House said on Monday US President Donald Trump will speak by phone with Russian President Vladimir Putin on Tuesday , their first call since Washington and Moscow wrangled over a US strike on Syrian government last month .
+speak	13	CT+	CT+
+will	12	ps_cue
+########
+4
+<EOP> .
+########
+5
+According to the daily schedule of Trump released by the White House , the call will be made on Tuesday at 12:30 pm EDT LRB 1630 GMT RRB .
+call	14	CT+	CT+
+will	15	ps_cue
+########
+6
+<EOP> .
+########
+7
+Trump on April 6 ordered a targeted missile strike at a Syrian military airfield in response to a chemical weapons attack in the rebel_held Syrian town of Khan Sheikhoun allegedly launched by the Syrian government .
+########
+8
+<EOP> .
+########
+9
+After the US strike , Syrian state TV called the assault an `` aggression '' and both Russia and Syria had denied that the Syrian government launched the chemical weapons attack .
+denied	21	neg_cue
+########
+10
+<EOP> .
+########
+11
+The Russian government also condemned the US strike against the Syrian government as `` aggression against a sovereign state in violation of international law . ''
+condemned	4	neg_cue
+against	8	neg_cue
+against	15	neg_cue
+########
+12
+<EOP> .
+########
+13
+After the incident , Trump told reporters last month that the United States is `` not getting along with Russia at all '' and the relations between the two countries `` may be at an all_time low .
+not	15	neg_cue
+may	31	ps_cue
+########
+14
+<EOP> .
+########

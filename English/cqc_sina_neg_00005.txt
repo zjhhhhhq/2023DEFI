@@ -1,0 +1,84 @@
+Did the customers pursue a lawsuit accusing the Starbucks Corp
+0
+A federal judge said two Starbucks customers may pursue a lawsuit accusing the coffee chain of cheating patrons by underfilling lattes .
+accusing	11	PS+	PS+
+may	7	ps_cue
+########
+1
+<EOP> .
+########
+2
+In a decision on Friday , U.S. District Judge Thelton Henderson in San Francisco said the California plaintiffs may seek damages from Starbucks Corp in their proposed nationwide class action , including for fraud and false advertising .
+plaintiffs	17	PS+	PS+
+may	18	ps_cue
+proposed	26	ps_cue
+########
+3
+<EOP> .
+########
+4
+Starbucks was accused of overcharging customers by systematically serving lattes that are 25 percent too small , based on a recipe it adopted in 2009 to save money on milk .
+accused	2	CT+	PS+
+########
+5
+<EOP> .
+########
+6
+The plaintiffs , Siera Strumlauf of San Francisco and Benjamin Robles of Carlsbad , said Starbucks requires baristas to use pitchers for heating milk with etched `` fill to '' lines that are too low , and to leave 1_4 inch of free space in drink cups .
+########
+7
+<EOP> .
+########
+8
+They said this shorts customers because Starbucks ' cups for tall , grande and venti lattes hold exactly 12 , 16 and 20 ounces .
+########
+9
+<EOP> .
+########
+10
+`` This is not a case where the alleged deception is simply implausible as a matter of law , '' Henderson wrote .
+not	3	neg_cue
+########
+11
+`` The court finds it probable that a significant portion of the latte_consuming public could believe that a ' Grande ' contains 16 ounces of fluid . ''
+probable	5	ps_cue
+could	14	ps_cue
+########
+12
+<EOP> .
+########
+13
+Henderson did not rule on the case 's merits .
+not	2	neg_cue
+########
+14
+He dismissed three of the plaintiffs ' eight claims against Seattle_based Starbucks , as well as their request for injunctive relief .
+plaintiffs	5	CT+	PS+
+against	9	neg_cue
+########
+15
+<EOP> .
+########
+16
+Starbucks spokesman Reggie Borges on Monday said the company believes the lawsuit is without merit and is prepared to defend itself against the remaining claims .
+without	13	neg_cue
+against	21	neg_cue
+########
+17
+<EOP> .
+########
+18
+He also said that if a customer is not satisfied with how a beverage is prepared , `` we will gladly remake it . ''
+not	8	neg_cue
+will	19	ps_cue
+########
+19
+<EOP> .
+########
+20
+Lawyers for the plaintiffs did not immediately respond on Monday to requests for comment .
+not	5	neg_cue
+########
+21
+<EOP> .
+########

@@ -1,0 +1,108 @@
+Did the United Nations Security Council on Wednesday adopt a draft resolution 
+0
+UN resolution on Syria falls short <EOP> .
+########
+1
+2017_04_13 11:09 <EOP> .
+########
+2
+China Daily USA <EOP> .
+########
+3
+Russia votes against motion on alleged attack ; China abstains <EOP> .
+against	2	neg_cue
+########
+4
+The United Nations Security Council on Wednesday failed to adopt a draft resolution on the alleged chemical weapons attack in Syria 's northwestern province of Idlib as Russia vetoed it .
+adopt	9	CT-	CT-
+vetoed	28	CT+	CT-
+failed	7	neg_cue
+########
+5
+<EOP> .
+########
+6
+Russia and Bolivia vetoed the draft resolution tabled by France , the UK and the US .
+vetoed	3	CT+	CT-
+########
+7
+Ten of the 15 Security Council members voted in favor of it .
+########
+8
+China , Ethiopia and Kazakhstan abstained .
+########
+9
+<EOP> .
+########
+10
+The draft resolution asked Syria to provide immediate and unfettered access to and the right to inspect any and all sites .
+########
+11
+It also requested the UN secretary_general report on the issue every 30 days pursuant to resolution 2118 LRB 2013 RRB , in which the council had decided that Syria would not use , develop , produce , acquire , stockpile or retain chemical weapons .
+would	29	ps_cue
+not	30	neg_cue
+or	40	ps_cue
+########
+12
+<EOP> .
+########
+13
+On April 6 , two US naval vessels deployed in the eastern Mediterranean Sea launched 59 cruise missiles against the Shayrat airbase in Syria in what Washington asserted was a response to a chemical weapons attack on civilians in Idlib province on April 4 , which killed more than 80 people .
+against	18	neg_cue
+########
+14
+The Syria government denied possession of or any use of chemical weapons and of all weapons of mass destruction .
+denied	3	neg_cue
+or	6	ps_cue
+########
+15
+<EOP> .
+########
+16
+Vladimir Safronkov , Russia 's deputy representative to the UN , said before the vote that the draft failed to serve a useful purpose .
+failed	18	neg_cue
+########
+17
+He requested to conduct an independent investigation immediately on the incident in the town of Khan Shaykhun and the Shairat airbase .
+########
+18
+<EOP> .
+########
+19
+Liu Jieyi , China 's ambassador to the UN , said : `` China opposes the use of chemical weapons by any state , organization and individual under any circumstances . ''
+########
+20
+<EOP> .
+########
+21
+China supports the UN and the Organization for the Prohibition of Chemical Weapons LRB OPCW RRB to conduct a comprehensive , objective and fair investigation in the alleged chemical attack and to hold the perpetrators accountable based on solid evidence that can stand the test of history and facts , Liu said .
+can	41	ps_cue
+########
+22
+<EOP> .
+########
+23
+Liu said China supports the draft resolution 's text condemning the use of chemical weapons and demanding an investigation .
+########
+24
+<EOP> .
+########
+25
+`` Regretfully , in spite of efforts by China and other Security Council members , we could n't reach agreement on the draft , '' Liu said , calling for all parties to remain committed to a political solution to the Syria issue .
+could	16	ps_cue
+n't	17	neg_cue
+########
+26
+<EOP> .
+########
+27
+Nikki Haley , US ambassador to the UN , said after the vote that with the veto , Russia said `` no '' to a text that would have promoted peace in Syria .
+no	21	neg_cue
+would	27	ps_cue
+########
+28
+<EOP> .
+########
+29
+wanglinyan@chinadailyusa.com <EOP> .
+########

@@ -1,0 +1,83 @@
+Did Moon Jae_in swear in as new S Korean president
+0
+Moon Jae_in sworn in as new S Korean president , makes appointments <EOP> .
+sworn	2	CT+	CT+
+########
+1
+2017_05_10 14:39 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+Moon Jae_in of the liberal Minjoo Party speaks during a celebration event in Seoul , South Korea , on May 9 , 2017 .
+May	19	ps_cue
+########
+4
+LRB Photo_Xinhua RRB <EOP> .
+########
+5
+SEOUL _ Moon Jae_in was sworn in as new South Korean president on Wednesday and soon after an inaugural ceremony , he appointed new prime minister , intelligence agency chief , presidential chief of staff and chief of the presidential security .
+sworn	5	CT+	CT+
+########
+6
+<EOP> .
+########
+7
+The inaugural ceremony was held at a main hall of the parliamentary building , just hours after the election results were confirmed by the national election commission .
+########
+8
+Moon won a landslide victory in the country 's presidential race .
+########
+9
+<EOP> .
+########
+10
+Right after the confirmation , his presidential power came into force as he has no usual transition period for the impeachment of his predecessor .
+no	14	neg_cue
+########
+11
+<EOP> .
+########
+12
+In a televised inaugural speech , Moon said he will be on the move for peace on the Korean Peninsula , vowing to visit Pyongyang , capital of the Democratic People 's Republic of Korea LRB DPRK RRB , under right conditions .
+will	9	ps_cue
+########
+13
+<EOP> .
+########
+14
+The new leader vowed to sincerely consult with the United States and China to resolve the issue on the US Terminal High Altitude Area Defense LRB THAAD RRB missile defense system .
+vowed	3	CT+	CT+
+########
+15
+<EOP> .
+########
+16
+Part of the US missile interception system has been transported to the THAAD deployment site in the country 's southeastern region , causing strong protests from anti_THAAD activists and residents .
+########
+17
+<EOP> .
+########
+18
+Moon argued for a parliamentary ratification and public consensus for the THAAD installation that can influence the South Korean society from the diplomatic , security and economic perspectives .
+can	14	ps_cue
+########
+19
+<EOP> .
+########
+20
+Following the brief inauguration ceremony , Moon went on a motorcade from the National Assembly building to the presidential Blue House .
+########
+21
+<EOP> .
+########
+22
+<EOP> .
+########
+23
+<EOP> .
+########
+24
+<EOP> .
+########

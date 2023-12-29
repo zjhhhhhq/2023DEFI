@@ -1,0 +1,51 @@
+Are 127 people killed in landslide
+0
+Colombian Red Cross says 127 people killed in landslide <EOP> .
+killed	6	CT+	CT+
+########
+1
+2017_04_02 06:53 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+BOGOTA _ Colombian Red Cross confirmed on Saturday that at least 127 people were killed in a landslide in Mocoa , capital of Putumayo department in southern Colombia .
+killed	14	CT+	CT+
+########
+4
+<EOP> .
+########
+5
+The tragedy occurred on Friday night when heavy rains caused rivers to overflow , devastating several neighborhoods in the provincial capital of Mocoa .
+########
+6
+<EOP> .
+########
+7
+Colombian President Juan Manuel Santos arrived in Mocoa on Saturday morning and ordered immediate assistance to all the affected population .
+########
+8
+<EOP> .
+########
+9
+He said he would send several aircrafts to deliver humanitarian aid for those affected in Mocoa , a city located in the middle of the jungle of the Amazon region .
+would	3	ps_cue
+########
+10
+<EOP> .
+########
+11
+Santos said earlier that at least 112 people were killed in the landslide in Mocoa .
+killed	9	CT+	CT+
+########
+12
+<EOP> .
+########
+13
+The country 's fire department said earlier on Saturday that 102 people were killed and 185 wounded in the landslide .
+killed	13	CT+	CT+
+########
+14
+<EOP> .
+########

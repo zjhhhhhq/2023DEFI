@@ -1,0 +1,54 @@
+Does US resume full visa services in Turkey
+0
+US to resume full visa services in Turkey <EOP> .
+########
+1
+2017_12_29 10:44 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+WASHINGTON __ The US State Department said on Thursday that it will fully resume its visa services in Turkey , a move further releasing strained bilateral ties over diplomatic disputes between the two NATO allies .
+resume	13	CT+	CT+
+will	11	ps_cue
+########
+4
+<EOP> .
+########
+5
+The United States `` is confident that the security posture has improved sufficiently to allow for the full resumption of visa services in Turkey , '' said the US State Department in a statement , citing Ankara 's assurances on no more detain or arrest of local employees of the US mission for `` performing their official duties . ''
+allow	14	CT+	CT+
+no	40	neg_cue
+or	43	ps_cue
+########
+6
+<EOP> .
+########
+7
+On Thursday , the Turkish embassy in Washington has reportedly announced that it had also lifted its visa restrictions for US citizens .
+########
+8
+<EOP> .
+########
+9
+In October , the US embassy announced the suspension of non_immigrant visa services to Turkish nationals following the arrest of a local employee at the US Consulate in Istanbul on terror charges and over alleged links to followers of Fethullah Gulen , a US_based preacher blamed by Ankara for orchestrating a failed coup attempt in July .
+failed	51	neg_cue
+########
+10
+<EOP> .
+########
+11
+The US decision prompted a tit_for_tat response from Ankara , which stopped issuing visas to the US nationals , leaving bilateral relations to an all_time low .
+stopped	11	neg_cue
+########
+12
+<EOP> .
+########
+13
+In early November , the US Embassy began to process visa applications on a limited basis , followed by similar action from the Turkish missions in the United States .
+process	9	CT+	CT+
+########
+14
+<EOP> .
+########

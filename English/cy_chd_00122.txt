@@ -1,0 +1,109 @@
+Do World economies head for a shake up
+0
+World economies head for a shake up <EOP> .
+economies	1	CT+	CT+
+########
+1
+2017_12_27 16:20 <EOP> .
+########
+2
+China Daily USA <EOP> .
+########
+3
+The growing importance of Asia 's major economies will continue in 2018 and beyond , according to a league table that sees the region dominating in terms of size in just over a decade .
+will	8	ps_cue
+########
+4
+<EOP> .
+########
+5
+The report by the Centre for Economics and Business Research in London sees India leapfrogging the UK and France next year to become the world 's fifth_biggest economy in dollar terms .
+economy	27	CT+	CT+
+########
+6
+It will advance to third place by 2027 , moving ahead of Germany .
+will	1	ps_cue
+########
+7
+<EOP> .
+########
+8
+In 2032 , three of the four largest economies will be Asian _ China , India and Japan _ and , by that time , China will also have overtaken the US to hold the No. 1 spot .
+economies	8	CT+	CT+
+will	9	ps_cue
+will	26	ps_cue
+########
+9
+India 's advance wo n't stop there , according to the CEBR , which sees it taking the top place in the second half of the century .
+n't	4	neg_cue
+stop	5	neg_cue
+########
+10
+<EOP> .
+########
+11
+Also by 2032 , South Korea and Indonesia will have entered the top 10 , supplanting Group of Seven nations Italy and Canada .
+will	8	ps_cue
+########
+12
+<EOP> .
+########
+13
+In October 2014 , the International Monetary Fund said that China had overtaken the US as the world 's largest economy when it is measured by purchasing power parity .
+economy	20	CT+	CT+
+########
+14
+The PPP measurement is based on the rationale that prices of goods are not the same in individual countries .
+not	13	neg_cue
+########
+15
+<EOP> .
+########
+16
+Many in China have downplayed the news , arguing that China is way behind the US and many countries in per capita GDP .
+########
+17
+<EOP> .
+########
+18
+According to data by the US Central Intelligence Agency , China ranked 106th in the world in 2016 in its per capita GDP of $ 15,400 under the PPP measurement , just ahead of Brazil but behind countries like Thailand , Costa Rica , the Dominican Republic , the Maldives and Palau .
+like	38	ps_cue
+########
+19
+<EOP> .
+########
+20
+A July survey by Pew Research across 38 nations showed that 42 percent say the US is the world 's largest economy , while 32 percent name China .
+economy	21	CT+	CT+
+########
+21
+<EOP> .
+########
+22
+Across all of the countries surveyed in Latin America , as well as most in Asia and sub_Saharan Africa , public perceptions tend to believe the US is the top economy .
+tend	22	ps_cue
+########
+23
+And by a 51 percent_to_35 percent margin , Americans name their own country rather than China .
+rather	13	neg_cue
+########
+24
+<EOP> .
+########
+25
+But in seven of the 10 European Union nations in the study , China is considered the leading economic power .
+economic	18	CT+	CT+
+considered	15	ps_cue
+########
+26
+And China leads the US by a two_to_one margin in Australia .
+########
+27
+<EOP> .
+########
+28
+Bloomberg _ China Daily <EOP> .
+########
+29
+<EOP> .
+########

@@ -1,0 +1,132 @@
+Do China and UK team up to train new nuclear engineers 
+0
+China and UK team up to train new nuclear engineers <EOP> .
+train	6	CT+	CT+
+########
+1
+2017_11_02 01:36 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+<EOP> .
+########
+4
+Construction work is carried out at the UK 's Hinkley Point C power station , which has one third investment from China General Nuclear Power Group .
+########
+5
+LRB Photo_chinadaily .
+########
+6
+com.cn RRB <EOP> .
+########
+7
+Britain 's University of Sheffield and China 's Tsinghua University announced on Wednesday they have jointly created a master 's degree course in nuclear engineering and management , something that will help ensure the supply of suitably qualified graduates for bilateral nuclear projects .
+qualified	37	CT+	CT+
+will	30	ps_cue
+########
+8
+<EOP> .
+########
+9
+This program is the first China_international joint masters in nuclear engineering and management , and leverages on both universities ' respective expertise in the nuclear technology sector .
+########
+10
+<EOP> .
+########
+11
+The first intake of students , who will start their classes at Tsinghua University in Beijing in September , will comprise 80 students from China and 30 from overseas .
+will	7	ps_cue
+will	19	ps_cue
+########
+12
+The two_year master 's program is taught in English .
+########
+13
+<EOP> .
+########
+14
+The University of Sheffield is heading efforts to market this program outside China , and in addition it is offering 10 scholarships to woo international students to join the program .
+########
+15
+<EOP> .
+########
+16
+China General Nuclear Power Group , China National Nuclear Corporation , and the State Nuclear Power Technology Company will all partner on the master 's degree program by providing students with internship opportunities .
+will	18	ps_cue
+opportunities	32	ps_cue
+########
+17
+<EOP> .
+########
+18
+One aim of the program is to help young engineers from the United Kingdom become familiar with the Chinese nuclear industry and its technology , especially so they can contribute to projects such as Hinkley Point and Bradwell .
+help	7	CT+	CT+
+can	28	ps_cue
+########
+19
+<EOP> .
+########
+20
+CGN , and France 's EDF are jointly investing in three nuclear power stations in the UK : Hinkley Point C , Sizewell C , and Bradwell B .
+########
+21
+The projects represent China 's first investments in the nuclear industry within a mature economy .
+########
+22
+<EOP> .
+########
+23
+CGN has submitted China 's nuclear reactor design , HPR1000 , to the UK 's nuclear regulator in search of its approval .
+########
+24
+If the plans are cleared for use , the Chinese_designed reactor will be built at Bradwell B. <EOP> .
+plans	2	ps_cue
+will	11	ps_cue
+########
+25
+Meanwhile , CGN has made a bid to buy an equity stake in another UK plant , Toshiba 's NuGeneration , which is also known as NuGen .
+########
+26
+<EOP> .
+########
+27
+All of the developments will require considerable research and development work to ensure effective China_UK collaboration and the successful localization of Chinese technology and expertise in the UK .
+will	4	ps_cue
+########
+28
+Cultivating the requisite knowledge and skills is seen as an important part of this localization work .
+########
+29
+<EOP> .
+########
+30
+`` Part of the aim of the joint program with Tsinghua is to get young UK engineers familiar with Chinese methods and ways of working , and vice versa , '' said Andrew Storer , chief executive officer of the Nuclear Advanced Manufacturing Research Centre , the UK government_backed center at the University of Sheffield .
+get	13	CT+	CT+
+########
+31
+`` It 's all part of the preparation for Hinkley Point C , and especially for Bradwell .
+########
+32
+It 'll be even more beneficial if CGN does acquire NuGen and HPR1000 reactors are built . ''
+########
+33
+<EOP> .
+########
+34
+The Nuclear Advanced Manufacturing Research Centre has been working with CGN on its potential acquisition of NuGen .
+potential	13	ps_cue
+########
+35
+<EOP> .
+########
+36
+<EOP> .
+########
+37
+<EOP> .
+########
+38
+<EOP> .
+########

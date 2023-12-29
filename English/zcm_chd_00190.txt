@@ -1,0 +1,142 @@
+Will the experiment test the effects of space environments on DNA
+0
+US firm sends supplies to space station <EOP> .
+########
+1
+2017_06_05 10:40 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+US space firm SpaceX on Saturday launched supplies to the International Space Station , including an experiment from a Chinese university that will test the effects of space environments on DNA .
+test	23	CT+	CT+
+will	22	ps_cue
+########
+4
+<EOP> .
+########
+5
+The SpaceX Dragon cargo spacecraft lifted off on the company 's Falcon 9 rocket at 5:07 pm EDT LRB 2107 GMT RRB from the Kennedy Space Center in Florida .
+########
+6
+About 10 minutes later , the rocket 's first stage achieved a successful landing at SpaceX 's Landing Zone 1 , just south of the launch site at Cape Canaveral Air Force Station .
+########
+7
+<EOP> .
+########
+8
+On this trip , the Dragon will deliver almost 6,000 pounds LRB 2,700 kilograms RRB of supplies , including solar panels , tools for Earth observation and equipment to study neutron stars .
+will	6	ps_cue
+########
+9
+<EOP> .
+########
+10
+In the cargo is a 3.5 _ kilogram device from the Beijing Institute of Technology LRB BIT RRB that seeks to tell how a person 's DNA code is affected by microgravity in space .
+tell	21	CT+	CT+
+seeks	19	ps_cue
+########
+11
+<EOP> .
+########
+12
+It 's one of the more than 40 scientific experiments that will happen at the station .
+will	11	ps_cue
+########
+13
+<EOP> .
+########
+14
+The Chinese experiment will see how extended time in space affects an individual 's immune system DNA code .
+see	4	CT+	CT+
+will	3	ps_cue
+########
+15
+The experiment will be conducted over two weeks .
+will	2	ps_cue
+########
+16
+<EOP> .
+########
+17
+NanoRacks , a Houston_based company that provides commercial hardware and services on the ISS , will provide the BIT the power and connection aboard the Falcon 9 to carry out the experiment .
+will	15	ps_cue
+########
+18
+<EOP> .
+########
+19
+NanoRacks signed an agreement with the institute in 2015 to help deliver its experiment to the American side of the station and a berth on NanoRacks ' laboratory facilities in space .
+########
+20
+After the experiment is done , the payload will be returned to a BIT team in Florida .
+will	8	ps_cue
+########
+21
+<EOP> .
+########
+22
+The agreement was seen as a symbolic move , as it was the first collaboration between China and the US on a space project after a US law that banned any scientific activity between NASA and China , called the Wolf Amendment .
+banned	29	neg_cue
+########
+23
+<EOP> .
+########
+24
+NanoRacks CEO Jeff Manber said at the time of the agreement that the deal was a `` purely commercial '' one and was approved by NASA .
+########
+25
+The Obama administration had informed NanoRacks at the time that the experiment was in compliance with the amendment .
+########
+26
+<EOP> .
+########
+27
+The experiment does not involve any hardware or technology flows to China , and NanoRacks has said that the experiment has intrinsic scientific value .
+not	3	neg_cue
+or	7	ps_cue
+########
+28
+The BIT regularly publishes in Western scientific journals .
+########
+29
+<EOP> .
+########
+30
+`` We have a lot to learn from them , and they have a lot to learn from us , so we think that it 's an opportunity to show that on the educational side we can do this , '' said Mary Murphy , senior internal payloads manager of NanoRacks , who will oversee the experiment before it launches .
+can	36	ps_cue
+will	53	ps_cue
+########
+31
+<EOP> .
+########
+32
+`` The Beijing Institute of Technology is great , given how much research they 've done , how much they 've published , and how well_known they are throughout the world , '' she said .
+########
+33
+`` That made this a really great first step , and we hope it 'll be successful , and if it is , we hope we 'll have more folks interested in this type of work in the future .
+hope	12	ps_cue
+hope	24	ps_cue
+########
+34
+We think it 's a great opportunity . ''
+########
+35
+<EOP> .
+########
+36
+SpaceX is an American aerospace manufacturing company founded by tech billionaire Elon Musk .
+########
+37
+It was the first private company to send a spacecraft to the ISS and is contracted with NASA .
+########
+38
+<EOP> .
+########
+39
+amyhe@chinadailyusa.com <EOP> .
+########
+40
+<EOP> .
+########

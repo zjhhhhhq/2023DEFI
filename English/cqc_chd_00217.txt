@@ -1,0 +1,102 @@
+Does Myanmar strive for national reconciliation
+0
+Myanmar still strives for national reconciliation <EOP> .
+reconciliation	5	CT+	CT+
+########
+1
+2017_05_02 07:19 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+<EOP> .
+########
+4
+YANGON _ Myanmar has vowed to continue to strive for national reconciliation and peace , setting May 24 to hold the second meeting of the 21st Century Panglong Peace Conference in Nay Pyi Taw for five days , a dialogue open to all ethnic armed groups .
+reconciliation	11	CT+	CT+
+May	16	ps_cue
+########
+5
+<EOP> .
+########
+6
+It was designated at the Joint Implementation Coordination Meeting in the capital recently , and was attended by State Counselor Aung San Suu Kyi , Deputy Commander_in_Chief of the Defense Services Vice Senior_General Soe Win , leaders of eight signatory armed groups to the Nationwide Ceasefire Accord .
+########
+7
+<EOP> .
+########
+8
+The government and eight cease_fire signatory armed groups agreed on eight points with their continued peace process which include exploration of basic policy accepted by all sides and holding of national level political dialogue with groups that have not yet been inclusive and drawing of standard of operating producer .
+not	38	neg_cue
+yet	39	neg_cue
+########
+9
+<EOP> .
+########
+10
+The JICM agreed to make coordination on undertakings during the transition period from the date of signing the NCA to reaching a union agreement .
+########
+11
+<EOP> .
+########
+12
+<EOP> .
+########
+13
+<EOP> .
+########
+14
+Other agreed points include tasking the JICM to demarcate the controversial cease_fire area between the government forces and the Restoration Council of Shan State_Shan State Army_South and striving to bring non_ceasfire signatory groups to join the NCA .
+########
+15
+<EOP> .
+########
+16
+Meanwhile , Myanmar has been holding national region_oriented and race_oriented political dialogue in regions and states across the nation since January .
+########
+17
+The latest national level political dialogue took place in Taunggyi , Myanmar 's Shan state_South , in April .
+########
+18
+<EOP> .
+########
+19
+Representatives from the self_administered regions and zones submitted a total of 70 papers respectively related with politics , economy , land issues and natural resources and environmental conservation which were read during the dialogue involving the government , armed groups and political parties as well as the civil societies .
+########
+20
+<EOP> .
+########
+21
+The outcome of all regional dialogues will be submitted to the upcoming second meeting of the Panglong Peace Conference expected to gather about 700 representatives .
+will	6	ps_cue
+expected	19	ps_cue
+########
+22
+<EOP> .
+########
+23
+Myanmar 's previous U Thein Sein 's government and eight armed groups signed the NCA on Oct 15 , 2015 , and the first meeting of the 21st Century Panglong Conference was held in Nay Pyi Taw in August 2016 , four months after the new government led by the National League for Democracy took office .
+########
+24
+<EOP> .
+########
+25
+The first meeting of the Panglong Conference agreed to find solutions through coordination and discussions towards the goal of achieving peace .
+########
+26
+That conference called for prompt implementation of peace without delay and coordination of diversified stances and opinions expressed in the event .
+without	8	neg_cue
+########
+27
+<EOP> .
+########
+28
+Xinhua <EOP> .
+########
+29
+<EOP> .
+########
+30
+LRB China Daily 05_02_2017 page11 RRB <EOP> .
+########

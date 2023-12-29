@@ -1,0 +1,99 @@
+Is LRB wordplay RRB part and parcel of Chinese heritage
+0
+From online discussions to adverts , Chinese culture is full of puns .
+########
+1
+But the country 's print and broadcast watchdog has ruled that there is nothing funny about them .
+them	16	CT-	CT-
+nothing	13	neg_cue
+########
+2
+<EOP> .
+########
+3
+It has banned wordplay on the grounds that it breaches the law on standard spoken and written Chinese , makes promoting cultural heritage harder and may mislead the public _ especially children .
+wordplay	3	CT-	CT-
+banned	2	neg_cue
+may	25	ps_cue
+########
+4
+<EOP> .
+########
+5
+The casual alteration of idioms risks nothing less than `` cultural and linguistic chaos '' , it warns .
+nothing	6	neg_cue
+########
+6
+<EOP> .
+########
+7
+Chinese is perfectly suited to puns because it has so many homophones .
+########
+8
+Popular sayings and even customs , as well as jokes , rely on wordpla .
+########
+9
+<EOP> .
+########
+10
+But the order from the State Administration for Press , Publication , Radio , Film and Television says : `` Radio and television authorities at all levels must tighten up their regulations and crack down on the irregular and inaccurate use of the Chinese language , especially the misuse of idioms . ''
+########
+11
+<EOP> .
+########
+12
+Programmes and adverts should strictly comply with the standard spelling and use of characters , words , phrases and idioms _ and avoid changing the characters , phrasing and meanings , the order said .
+should	3	ps_cue
+avoid	22	neg_cue
+########
+13
+<EOP> .
+########
+14
+`` Idioms are one of the great features of the Chinese language and contain profound cultural heritage and historical resources and great aesthetic , ideological and moral values , '' it added .
+########
+15
+<EOP> .
+########
+16
+`` That 's the most ridiculous part of this : LRB wordplay RRB is so much part and parcel of Chinese heritage , '' said David Moser , academic director for CET Chinese studies at Beijing Capital Normal University .
+wordplay	11	CT+	CT-
+########
+17
+<EOP> .
+########
+18
+When couples marry , people will give them dates and peanuts _ a reference to the wish Zaosheng guizi or `` May you soon give birth to a son '' .
+will	5	ps_cue
+or	19	ps_cue
+May	21	ps_cue
+########
+19
+The word for dates is also zao and peanuts are huasheng .
+########
+20
+<EOP> .
+########
+21
+The notice cites complaints from viewers , but the examples it gives appear utterly innocuous .
+appear	12	ps_cue
+########
+22
+In a tourism promotion campaign , tweaking the characters used in the phrase jin shan jin mei _ perfection _ has turned it into a slogan translated as `` Shanxi , a land of splendours '' .
+########
+23
+In another case , replacing a single character in ke bu rong huan has turned `` brook no delay '' into `` coughing must not linger '' for a medicine advert .
+no	17	neg_cue
+not	24	neg_cue
+########
+24
+<EOP> .
+########
+25
+`` It could just be a small group of people , or even one person , who are conservative , humourless , priggish and arbitrarily purist , so that everyone has to fall in line , '' said Moser .
+could	2	ps_cue
+or	11	ps_cue
+########
+26
+<EOP> .
+########

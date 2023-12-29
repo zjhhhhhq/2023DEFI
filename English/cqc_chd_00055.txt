@@ -1,0 +1,71 @@
+Will Abe push for reform before end of the year
+0
+Abe may push for reform before end of the year <EOP> .
+push	2	PS+	PS+
+may	1	ps_cue
+########
+1
+2017_06_26 07:02 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+<EOP> .
+########
+4
+TOKYO _ Prime Minister Shinzo Abe wants to accelerate plans to amend Japan 's pacifist constitution , saying he expects to submit a proposed revision to lawmakers before the end of the year , media reported on Sunday .
+wants	6	ps_cue
+plans	9	ps_cue
+expects	19	ps_cue
+proposed	23	ps_cue
+########
+5
+<EOP> .
+########
+6
+Abe said in a speech in Kobe city on Saturday he planned to submit a proposal for the first amendment of Japan 's post_World War II constitution during an extraordinary session of parliament that will be convened later this year , Japan 's main daily newspapers reported .
+proposal	15	CT+	PS+
+planned	11	ps_cue
+will	34	ps_cue
+########
+7
+<EOP> .
+########
+8
+Abe has proposed amending the constitution 's war_renouncing Article 9 by 2020 to officially recognize Japan 's Self_Defense Forces as its military .
+proposed	2	CT+	PS+
+proposed	2	ps_cue
+########
+9
+<EOP> .
+########
+10
+Such a change could draw fire from China and South Korea , where bitter memories of Japan 's past military aggression persist .
+could	3	ps_cue
+########
+11
+They would likely see the change as a step toward the re_emergence of Japan as a military power .
+would	1	ps_cue
+likely	2	ps_cue
+########
+12
+<EOP> .
+########
+13
+Abe would need to win the support of two_thirds of members of both houses of parliament and a majority of votes in a referendum .
+would	1	ps_cue
+need	2	ps_cue
+########
+14
+<EOP> .
+########
+15
+Reuters <EOP> .
+########
+16
+<EOP> .
+########
+17
+LRB China Daily 06_26_2017 page11 RRB <EOP> .
+########

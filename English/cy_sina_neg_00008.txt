@@ -1,0 +1,156 @@
+Do a number of young people wear long johns
+0
+Cold air is coming .
+########
+1
+Most cities in China are expected to see a sharp decline in temperature .
+expected	5	ps_cue
+########
+2
+Beijing has endured rainfall and a drop in temperature recently .
+########
+3
+Many residents have wrapped themselves up with warm winter clothes .
+########
+4
+<EOP> .
+########
+5
+Speaking of which , it is about the time every mother pulls out long johns from the closet to make their children wear it .
+########
+6
+<EOP> .
+########
+7
+For many people , long johns have been something for grandparents -- or rather , they are a fashion disaster .
+or	12	ps_cue
+rather	13	neg_cue
+########
+8
+<EOP> .
+########
+9
+In 2008 , Su Mang , chief editor of <EOP> .
+########
+10
+Bazaar <EOP> .
+########
+11
+magazine , indicated that wearing long johns compromised fashion .
+########
+12
+`` I never allow people around me to wear long johns , '' Su said in a talk show with TV anchor Chen Luyu .
+wear	8	CT-	CT-
+never	2	neg_cue
+########
+13
+<EOP> .
+########
+14
+As with Su , many young women do n't wear thermal underwear even on cold rainy days .
+wear	9	CT-	CT-
+n't	8	neg_cue
+########
+15
+It is reported that despite the dropping temperature , there are a number of young people who do n't wear long johns and they never will .
+wear	19	CT-	CT-
+n't	18	neg_cue
+never	24	neg_cue
+will	25	ps_cue
+########
+16
+<EOP> .
+########
+17
+The temperature drop is projected to continue .
+projected	4	ps_cue
+########
+18
+Whether you wear long johns or not , health should be a top priority .
+or	5	ps_cue
+not	6	neg_cue
+should	9	ps_cue
+########
+19
+<EOP> .
+########
+20
+Hot pot <EOP> .
+########
+21
+Hot pot is the best choice to keep warm in this cold weather , gathering friends and family members in front of a steaming chafing dish .
+########
+22
+All the ingredients stewing in the pot are selected based on personal taste .
+########
+23
+<EOP> .
+########
+24
+Styles of hot pot can be divided into two types : Chongqing hot pot and the northern traditional brass pot .
+can	4	ps_cue
+########
+25
+In Beijing , as an example , the Donglaishun Restaurant is a famous brand for the old_style hot pot , which requires a brass pot and charcoal fire to cook .
+########
+26
+<EOP> .
+########
+27
+The chief characteristic of Chongqing hot pot is a numbing , spicy flavor .
+########
+28
+If you have a cold , Chongqing hot pot is highly recommended to cure it .
+recommended	11	ps_cue
+########
+29
+With its garlic and oil remedy , Chongqing hot pot could make you sweaty and clean your sinuses .
+could	10	ps_cue
+########
+30
+<EOP> .
+########
+31
+Moreover , if you indulge in Korean dramas , the Korean kimchi hot pot could also be a good choice .
+could	14	ps_cue
+########
+32
+The cheese , ramen and rice cake boiling in sweet chilli kimchee soup can be addictive .
+can	13	ps_cue
+########
+33
+<EOP> .
+########
+34
+Warm drinks <EOP> .
+########
+35
+Whether a soothing hot tea , a mug of hot cocoa , or a cup of fruit wine , there 's nothing like a warm drink to heat you from the inside out .
+or	12	ps_cue
+nothing	21	neg_cue
+like	22	ps_cue
+########
+36
+No matter what your beverage of choice may be , time stands still when you grab a cup of whatever it is and just let yourself sit and enjoy the presence of others .
+No	0	neg_cue
+may	7	ps_cue
+########
+37
+<EOP> .
+########
+38
+Outdoor activities <EOP> .
+########
+39
+Autumn is a perfect season , with a comfortable temperature for people to do some outdoor events .
+########
+40
+Go hiking up the mountain or biking down the city .
+or	5	ps_cue
+########
+41
+Just give yourself a break to enjoy the nature .
+########
+42
+<EOP> .
+########

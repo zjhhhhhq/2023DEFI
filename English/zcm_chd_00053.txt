@@ -1,0 +1,92 @@
+Does Mexico quake bury schoolchildren
+0
+Mexico quake buries schoolchildren <EOP> .
+buries	2	CT+	CT+
+########
+1
+2017_09_21 05:25 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+<EOP> .
+########
+4
+Rescuers hold a firefighteras he cuts away debris from a flattened building during a search for survivors on Tuesday after a powerful earthquake hit south_central Mexico .
+########
+5
+YURI CORTEZ _ AFP <EOP> .
+########
+6
+MEXICO CITY _ Desperate rescue workers scrabbled through rubble on Wednesday in a floodlit search for dozens of children feared buried under the rubble of a Mexico City school , one of hundreds of buildings wrecked by the country 's most lethal earthquake in a generation .
+########
+7
+<EOP> .
+########
+8
+The magnitude_7 .1 quake killed at least 225 people , nearly half of them in the capital , 32 years to the day after a devastating 1985 earthquake and less than two weeks after a powerful tremor killed nearly 100 people in Mexico 's south .
+########
+9
+<EOP> .
+########
+10
+China has extended deep condolences to the victims and expressed heartfelt sympathy to their bereaved families , the Mexican government and people in affected areas , Foreign Ministry spokesman Lu Kang said on Wednesday .
+########
+11
+`` China has paid attention to the earthquake and the heavy casualties it has caused , '' Lu said , adding that `` China believes that the Mexican people can overcome the disaster and rebuild their lives '' .
+can	29	ps_cue
+########
+12
+<EOP> .
+########
+13
+Lu said that some Taiwan compatriots have been trapped in Mexico and one was injured .
+########
+14
+`` The Chinese Foreign Ministry and local Chinese embassy will continue to pay attention to the disaster and offer help to Chinese citizens . ''
+will	9	ps_cue
+########
+15
+<EOP> .
+########
+16
+Amid the twisted concrete and steel ruin of the Enrique Rebsamen school , soldiers and firefighters found 22 children and two adults dead , while another 30 children and 12 adults remained missing , President Enrique Pena Nieto said .
+found	16	CT+	CT+
+missing	32	neg_cue
+########
+17
+Bulldozers moved rubble under the buzz and glare of floodlights powered by generators , as parents of students at the school clung to hope their children had survived .
+hope	23	ps_cue
+########
+18
+<EOP> .
+########
+19
+`` They keep pulling kids out , but we know nothing of my daughter , '' said 32_year_old Adriana D'Fargo , her eyes red after hours waiting for news of her 7_year_old .
+nothing	10	neg_cue
+########
+20
+<EOP> .
+########
+21
+Parts of colonial_era churches crumbled in the state of Puebla , where the US Geological Survey located the quake 's epicenter , about 160 kilometers southwest of the capital , at a depth of 51 km .
+########
+22
+<EOP> .
+########
+23
+REUTERS _ XINHUA _ AP <EOP> .
+########
+24
+<EOP> .
+########
+25
+<EOP> .
+########
+26
+<EOP> .
+########
+27
+<EOP> .
+########

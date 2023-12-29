@@ -1,0 +1,182 @@
+Does Suicide victim video spark anger in Japan
+0
+Suicide victim video sparks anger in Japan <EOP> .
+anger	4	CT+	CT+
+########
+1
+2018_01_04 14:57 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+TOKYO _ Japanese social media reacted with a storm of outrage to a video by YouTube star Logan Paul showing a suicide victim in a forest near Mount Fuji , as anger spread over the now_deleted video on Wednesday .
+anger	31	CT+	CT+
+########
+4
+<EOP> .
+########
+5
+Angry comments flooded Twitter after Paul , who gained notoriety on social media and has a popular video blog or `` vlog '' , apologized for the footage , which was reportedly viewed 6 million times .
+or	19	ps_cue
+########
+6
+<EOP> .
+########
+7
+The video shows the 23_year_old discovering a body in Aokigahara , a dense woodland at the foot of Mount Fuji known as `` the Japanese Suicide Forest '' , in a country that has long struggled with some of the highest suicide rates in the developed world .
+########
+8
+<EOP> .
+########
+9
+As news of the video and apology was reported in Japan on Wednesday , social media erupted with indignation over the film , which showed a man who had hanged himself .
+########
+10
+<EOP> .
+########
+11
+`` It is insane to show to the world the body of someone who died after being depressed .
+########
+12
+Shame on you , '' said one Twitter user @j_rivoluzione .
+########
+13
+<EOP> .
+########
+14
+Others objected to Paul 's appearance in a novelty hat , while outtakes showing the US internet celebrity laughing and joking about the incident also stirred anger .
+anger	26	CT+	CT+
+########
+15
+<EOP> .
+########
+16
+`` It 's good to raise awareness , but you can do it without filming a person who committed suicide , '' @spiffymiffy1 said .
+raise	5	ps_cue
+can	10	ps_cue
+without	13	neg_cue
+########
+17
+<EOP> .
+########
+18
+`` It looks like he did it for self_satisfaction .
+like	3	ps_cue
+########
+19
+Suicide and depression are serious issues .
+########
+20
+There 's nothing funny about them . ''
+nothing	2	neg_cue
+########
+21
+<EOP> .
+########
+22
+Others said Paul 's actions were irresponsible , with teenagers and tweens making up his subscriber base of 15 million .
+########
+23
+<EOP> .
+########
+24
+In his apology , Paul said he had posted the video in a mistaken effort to draw attention to the problem of depression and suicide .
+########
+25
+<EOP> .
+########
+26
+`` It 's easy to get caught up in the moment without fully weighing the possible ramifications , '' he said in a statement .
+without	11	neg_cue
+possible	15	ps_cue
+########
+27
+<EOP> .
+########
+28
+`` I thought I could make a positive ripple on the internet , not cause a monsoon of negativity '' , he said , in comments that sparked derision and anger .
+anger	30	CT+	CT+
+could	4	ps_cue
+not	13	neg_cue
+########
+29
+<EOP> .
+########
+30
+Actress Anna Akana was among many in the US and elsewhere to hit out at Paul .
+########
+31
+<EOP> .
+########
+32
+`` When my brother found my sister 's body , he screamed with horror <EOP> .
+########
+33
+& <EOP> .
+########
+34
+confusion <EOP> .
+########
+35
+& <EOP> .
+########
+36
+grief <EOP> .
+########
+37
+& <EOP> .
+########
+38
+tried to save her , '' she said .
+########
+39
+`` You do not walk into a suicide forest with a camera and claim mental health awareness . ''
+not	3	neg_cue
+########
+40
+<EOP> .
+########
+41
+Japan has the highest suicide rate of any G7 industrialized nation , with more than 20,000 suicides each year .
+########
+42
+<EOP> .
+########
+43
+Aokigahara , located 100 kilometers west of Tokyo , has become so notorious as a spot for desperate people to kill themselves that authorities have put up signs among the trees urging people with self_destructive thoughts to contact a suicide prevention group .
+########
+44
+<EOP> .
+########
+45
+`` Life is a precious thing .
+########
+46
+... Think again about your parents , siblings and children , '' the signs say .
+########
+47
+<EOP> .
+########
+48
+Local officials have also organized daily patrols to prevent suicides from taking place .
+prevent	8	neg_cue
+########
+49
+<EOP> .
+########
+50
+The suicide rate in Yamanashi prefecture , where the forest is located , was the worst in Japan for eight years until 2014 .
+########
+51
+<EOP> .
+########
+52
+Suicides in Japan have fallen since their peak of 34,427 in 2003 , with 21,897 taking their own lives in 2016 .
+########
+53
+<EOP> .
+########
+54
+Agence France _ presse <EOP> .
+########

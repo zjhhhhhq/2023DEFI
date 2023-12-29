@@ -1,0 +1,98 @@
+Will Trump come back to Paris accord
+0
+Macron expects Trump to come back to Paris accord , perhaps in ` coming months ' <EOP> .
+come	4	PS+	PS+
+expects	1	ps_cue
+perhaps	10	ps_cue
+########
+1
+2017_07_17 09:53 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+<EOP> .
+########
+4
+French President Emmanuel Macron LRB L RRB shakes hands with US President Donald Trump at the Elysees Palace in Paris , France , on July 13 , 2017 .
+########
+5
+US President Donald Trump arrived in Paris on Thursday morning in a diplomatic move to soften divergence with France over climate change and trade liberalization by seeking common ground on security and fight against terrorism .
+arrived	4	CT+	PS+
+seeking	26	ps_cue
+against	33	neg_cue
+########
+6
+LRB Photo_Xinhua RRB <EOP> .
+########
+7
+PARIS _ French President Emmanuel Macron said Sunday he hoped his American counterpart Donald Trump would reverse his decision to withdraw the United States from the Paris climate accord .
+hoped	9	ps_cue
+would	15	ps_cue
+withdraw	20	neg_cue
+########
+8
+<EOP> .
+########
+9
+`` Donald Trump listened to me , he understood the meaning of my approach , including the link between global warming and terrorism .
+########
+10
+He told me that he would try to find a solution in the coming months , '' Macron said .
+would	5	ps_cue
+########
+11
+<EOP> .
+########
+12
+`` We spoke in detail about the things that could make him come back to the Paris accord , '' he told the weekly Le Journal du Dimanche .
+could	9	ps_cue
+########
+13
+<EOP> .
+########
+14
+`` It is important to maintain the dialogue so that the United States can eventually reintegrate the field of action against global warming and play the game of multilateralism , '' said Macron , who pleaded for continued talks with Washington despite divergence over the climate issue .
+can	13	ps_cue
+against	20	neg_cue
+########
+15
+<EOP> .
+########
+16
+During his first visit to Paris , Trump on Thursday hinted at a possible change in his position over the Paris climate accord from which he pulled out weeks ago .
+possible	13	ps_cue
+########
+17
+<EOP> .
+########
+18
+`` Something could happen with respect to the Paris accord , let 's see what happens , '' he said .
+could	2	ps_cue
+########
+19
+<EOP> .
+########
+20
+`` We will talk about that over the coming period of time and if it happens , that will be wonderful , and if it does n't , that 'll be okay too , '' he added .
+will	2	ps_cue
+will	18	ps_cue
+n't	26	neg_cue
+########
+21
+<EOP> .
+########
+22
+Agreed by 195 member economies which attended the 2015 United Nations Climate Change Conference LRB COP21 RRB in Paris , the accord aims to cut greenhouse gas emissions in a way to keep the rise in the average temperature no higher than 2 degrees Celsius above pre_industrial levels .
+no	39	neg_cue
+########
+23
+<EOP> .
+########
+24
+<EOP> .
+########
+25
+<EOP> .
+########

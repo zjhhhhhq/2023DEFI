@@ -1,0 +1,239 @@
+Is the Bump all part of the game
+0
+When it comes to flying , the Bump is all part of the game <EOP> .
+Bump	7	CT+	CT+
+########
+1
+2017_04_12 10:59 <EOP> .
+########
+2
+China Daily USA <EOP> .
+########
+3
+Last year , US commercial air carriers bumped 40,000 passengers , and that ` snot counting the ones who volunteered to give up their seats .
+########
+4
+United abruptly changed 3,765 travelers ' plans with the involuntary bump , with 62,895 bailing out by choice , NBC Boston reports .
+plans	6	ps_cue
+########
+5
+<EOP> .
+########
+6
+Read the fine print on any ticket and you 'll see that when you board a commercial airliner , you are completely at the mercy of the airline 's decision about who flies and who does n't .
+n't	36	neg_cue
+########
+7
+<EOP> .
+########
+8
+The US Department of Transportation ca n't make airlines change that policy , but it can make them offer stymied passengers compensation packages .
+n't	6	neg_cue
+can	15	ps_cue
+########
+9
+<EOP> .
+########
+10
+Roughly the rules are as follows : If the airline can get you on another flight to your destination within an hour , they do n't have to pay you anything .
+can	10	ps_cue
+n't	25	neg_cue
+########
+11
+<EOP> .
+########
+12
+If they ca n't get you on an airplane within an hour of the flight , then they have to pay you 200 percent of your original fare up to $ 675 .
+n't	3	neg_cue
+########
+13
+<EOP> .
+########
+14
+If they ca n't make the two_hour window , they must offer 400 percent of the fare LRB up to $ 1,350 RRB .
+n't	3	neg_cue
+########
+15
+<EOP> .
+########
+16
+In an op_ed on CNN 's website , aviation lawyer Thatcher A. Stone says that when he and his then 13_year_old daughter were bumped from a flight heading to a Colorado ski vacation in 2004 , he lost his hotel deposit and did n't get their checked_in luggage for four days .
+bumped	23	CT+	CT+
+n't	43	neg_cue
+########
+17
+<EOP> .
+########
+18
+He sued and won LRB $ 3,100 RRB because the airline had not paid him the right amount and had failed to give him any written statement detailing his rights , as airlines are required to do by law .
+not	12	neg_cue
+failed	20	neg_cue
+########
+19
+<EOP> .
+########
+20
+An airlines spokesman at the time issued a statement .
+########
+21
+`` We are sorry when this happens , but the Department of Transportation allows overbooking of flights because so many airline customers book flights and then do not show up without previously canceling . ''
+not	27	neg_cue
+without	30	neg_cue
+########
+22
+<EOP> .
+########
+23
+Stone admits that United mishandled the removal of an uncooperative passenger in Chicago on Sunday , but he also reminds all air travelers about the realities of a service so many of us take for granted .
+########
+24
+<EOP> .
+########
+25
+Ever since 9_11 , flight crews have been understandably strict about passengers following the rules , Stone says .
+########
+26
+They need you to cooperate .
+need	1	ps_cue
+########
+27
+<EOP> .
+########
+28
+`` If you become unruly , they can throw you off in an instant .
+can	7	ps_cue
+########
+29
+Without recourse , '' Stone writes .
+Without	0	neg_cue
+########
+30
+`` If you refuse to follow a crew member 's instruction , they can throw you off and send you to jail . ''
+refuse	3	neg_cue
+can	13	ps_cue
+########
+31
+<EOP> .
+########
+32
+Forbes travel writer Laura Begley Bloom has run several stories about people who make a profession out of getting bumped by airlines , scoffing at herself .
+bumped	19	CT+	CT+
+########
+33
+Until recently .
+########
+34
+<EOP> .
+########
+35
+She was trying to get to Florida from New York with her husband and daughter through last weekend 's horrendous weather .
+########
+36
+After hours of delays , Delta started offering incentives .
+########
+37
+When the offers got up to $ 900 Macy 's gift cards per ticket , her husband approached the gate to negotiate .
+########
+38
+<EOP> .
+########
+39
+He offered $ 1,500 per ticket .
+########
+40
+Delta countered with $ 1,350 and they headed home with $ 4,050 .
+########
+41
+When they went to check in for the next day 's flight , Delta was already asking for volunteers to give up their seats , again .
+########
+42
+She turned to her husband and said : `` Cha_ching ! ''
+########
+43
+<EOP> .
+########
+44
+They went to the airport and accepted $ 1,300 per seat , with grateful passengers and attendants thanking them .
+########
+45
+Delta even threw in $ 15 each for lunch , $ 50 for round_trip taxi fare LRB they live 10 minutes from the airport RRB and assurances they would get confirmed seats for the next day .
+would	28	ps_cue
+########
+46
+When that did n't happen , they cancelled their trip altogether for a full refund and $ 1,000 each in compensation .
+n't	3	neg_cue
+########
+47
+<EOP> .
+########
+48
+The family walked away with $ 11,000 all told and the writer has softened her attitude toward people who exploit bumping for profit .
+########
+49
+<EOP> .
+########
+50
+I was on a flight once across the Atlantic at a time when cigarette smoking had recently been banned on all flights , in all sections LRB hard to believe now there was a time when smoking was allowed anywhere on board RRB .
+banned	18	neg_cue
+########
+51
+After the airplane was well out over the ocean , a well_dressed gent sitting nearby , lit up .
+########
+52
+<EOP> .
+########
+53
+A stewardess was on him immediately .
+########
+54
+Sir , smoking is not allowed .
+not	4	neg_cue
+########
+55
+I must insist ... The man , who spoke with a French accent , brushed her off , pointing to the ashtrays in the arm rests .
+########
+56
+`` What are these for then ?
+########
+57
+Boaf ! ''
+########
+58
+<EOP> .
+########
+59
+The flight attendant was joined by others , all of whom very insistently tried to make the man put out his smoke .
+########
+60
+He would have none of it , ignored them and kept puffing away , with a completely self_righteous attitude .
+would	1	ps_cue
+none	3	neg_cue
+########
+61
+<EOP> .
+########
+62
+A few minutes later , the captain , a tall , military looking fellow , appeared in the cabin .
+appeared	15	ps_cue
+########
+63
+He leaned close and spoke in the man 's ear very calmly and quietly .
+########
+64
+<EOP> .
+########
+65
+The man visibly stiffened , put out his cigarette and sat erect and polite the rest of the flight .
+########
+66
+I always wondered what it was the captain said to that guy .
+########
+67
+Whatever it was , it worked .
+########
+68
+<EOP> .
+########
+69
+Contact the writer at chrisdavis@chinadailyusa.com <EOP> .
+########

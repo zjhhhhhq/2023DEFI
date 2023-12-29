@@ -1,0 +1,86 @@
+Does NASA build its ` souped_up ' Mars rover mission
+0
+NASA builds its ` souped_up ' Mars rover mission <EOP> .
+builds	1	CT+	CT+
+########
+1
+2017_11_29 15:42 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+LOS ANGELES _ US National Aeronautics and Space Administration LRB NASA RRB announced Tuesday that its next mission to Mars in 2020 will boast a souped_up rover vehicle to seek signs of ancient microbial life on the inhospitable red planet .
+announced	12	CT+	CT+
+will	22	ps_cue
+########
+4
+<EOP> .
+########
+5
+The new vehicle , which resembles its predecessor the 2012 Curiosity Rover , would launch in July or August 2020 , according to NASA 's Jet Propulsion Laboratory LRB JPL RRB , which manages the mission for the agency .
+launch	14	CT+	CT+
+would	13	ps_cue
+or	17	ps_cue
+########
+6
+<EOP> .
+########
+7
+Despite the similarities , the new vehicle has different goals .
+########
+8
+It will seek signs of ancient life by studying the terrain in the now uninhabitable areas of Mars .
+will	1	ps_cue
+########
+9
+The surface of Mars once was teeming with flowing rivers and lakes more than 3.5 billion years ago .
+########
+10
+<EOP> .
+########
+11
+The mission will also undertake a marathon_like sample hunt , in which the rover team will try to drill 20_40 rock cores for their possible future return to Earth .
+will	2	ps_cue
+will	15	ps_cue
+possible	24	ps_cue
+########
+12
+<EOP> .
+########
+13
+To achieve these new goals , the vehicle is developed as a souped_up machine , equipped with seven new instruments , re_designed wheels , and upgraded hardware including color cameras , a zoom lens and a laser which can vaporize rocks or soil to analyze their chemical_components .
+can	38	ps_cue
+or	41	ps_cue
+########
+14
+<EOP> .
+########
+15
+A suite of cutting_edge scientific instruments in the new machine will seek out bio_signatures on a microbial scale , according to the JPL .
+will	10	ps_cue
+########
+16
+<EOP> .
+########
+17
+An X_ray spectrometer will target spots as small as a grain of table salt , while an ultraviolet laser will detect the `` glow '' from excited rings of carbon atoms .
+will	3	ps_cue
+will	19	ps_cue
+########
+18
+<EOP> .
+########
+19
+A ground_penetrating radar will be the first instrument to look under the surface of Mars , mapping layers of rock , water and ice up to 10 meters deep , depending on the material .
+will	3	ps_cue
+########
+20
+<EOP> .
+########
+21
+The JPL is also developing a crucial new landing technology called terrain_relative navigation , which `` enables us to go to sites that were ruled too risky for Curiosity to explore and shave miles off its journey , '' said JPL researcher Al Chen .
+########
+22
+<EOP> .
+########

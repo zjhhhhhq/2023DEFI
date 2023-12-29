@@ -1,0 +1,126 @@
+Do stranded Chinese tourists begin journey home 
+0
+Stranded Chinese tourists begin journey home <EOP> .
+home	5	CT+	CT+
+########
+1
+2017_09_28 07:16 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+<EOP> .
+########
+4
+Chinese tourists who have been stuck at Domodedovo International Airport in Moscow since Saturday after a local airline went bankrupt are finally returning home , according to the Chinese embassy in Russia .
+returning	22	CT+	CT+
+########
+5
+<EOP> .
+########
+6
+Jiang Wei , counselor in the consular office of the embassy , said the Russian Foreign Ministry and tourism authority were contacted when the incident happened , and the Russian government arranged to send the Chinese tourists back home as soon as possible .
+back	37	PS+	CT+
+possible	42	ps_cue
+########
+7
+<EOP> .
+########
+8
+About 290 Chinese tourists have been flown home so far , the embassy said .
+home	7	CT+	CT+
+########
+9
+<EOP> .
+########
+10
+Tens of thousands of passengers who planned flights with VIM_AVIA were stranded during the weekend after the carrier , Russia 's 10th largest , on Tuesday announced it was filing for bankruptcy .
+planned	6	ps_cue
+########
+11
+<EOP> .
+########
+12
+The private company has canceled dozens of flights over the last few days , including all of its charter flights .
+########
+13
+<EOP> .
+########
+14
+Overall , about 200,000 passengers were expected to be affected , and 43,000 passengers are believed to be stranded , including 500 Chinese tourists in Russia and more than 300 in Belgium .
+expected	6	ps_cue
+believed	15	ps_cue
+########
+15
+<EOP> .
+########
+16
+<EOP> .
+########
+17
+<EOP> .
+########
+18
+No sleep for 30 hours <EOP> .
+No	0	neg_cue
+########
+19
+<EOP> .
+########
+20
+A tourist surnamed Li told China Central Television that she and her fellow passengers had n't slept for almost 30 hours .
+n't	15	neg_cue
+########
+21
+<EOP> .
+########
+22
+`` We could n't check into a hotel near the airport because our durations of stay expired last night , so we have to stay in the airport and wait for news , '' she said .
+could	2	ps_cue
+n't	3	neg_cue
+########
+23
+<EOP> .
+########
+24
+Jiang said the embassy had resolved the duration of stay issue with Russian Foreign Ministry .
+resolved	5	neg_cue
+########
+25
+<EOP> .
+########
+26
+`` We have started to send Chinese tourists who were trapped in Russia back to China , group by group , and those who are waiting for flights are able to live in a hotel as the Russian government has given them extra time , '' she said .
+back	13	CT+	CT+
+########
+27
+<EOP> .
+########
+28
+Besides Moscow , about 360 Chinese tourists have been stranded in the airport in Liege , Belgium .
+########
+29
+<EOP> .
+########
+30
+Christian Delcourt , the airport spokesman , said those tourists were due to take a flight on Monday morning .
+########
+31
+<EOP> .
+########
+32
+`` About 180 tourists from China have already checked into hotels , but half of them are still waiting in the airport , '' he said .
+########
+33
+<EOP> .
+########
+34
+renqi@chinadaily.com.cn <EOP> .
+########
+35
+<EOP> .
+########
+36
+LRB China Daily 09_28_2017 page11 RRB <EOP> .
+########

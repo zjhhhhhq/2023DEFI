@@ -1,0 +1,134 @@
+Did Mexicans pack churches on Sunday to pray for the victims of the country 's deadliest quake
+0
+Mexicans turn to church as earthquake death toll hits 320 <EOP> .
+########
+1
+2017_09_25 10:44 <EOP> .
+########
+2
+null <EOP> .
+########
+3
+<EOP> .
+########
+4
+A girl hugs a Mexican marine officer as she offers hugs to people near the site of a collapsed building after an earthquake , in Mexico City , Mexico September 23 , 2017 .
+########
+5
+LRB Photo_Agencies RRB <EOP> .
+########
+6
+MEXICO CITY _ Mexicans packed churches on Sunday to pray for the victims of the country 's deadliest quake in 32 years as rescue teams searched against the odds for any survivors trapped under rubble since Tuesday 's tremor shook Mexico City and nearby states .
+pray	9	CT+	CT+
+against	26	neg_cue
+########
+7
+<EOP> .
+########
+8
+As another aftershock jolted southwestern Mexico on Sunday , the death toll from Tuesday 's 7.1 magnitude earthquake climbed to 320 people .
+########
+9
+With thousands of buildings damaged , survivors slept on the street outside their homes and estimates of the cost of the earthquake ran as high as $ 8 billion .
+########
+10
+<EOP> .
+########
+11
+Many have been traumatized by the second major quake to strike Mexico City in their lifetime after a devastating 1985 tremor killed an estimated 10,000 people .
+########
+12
+<EOP> .
+########
+13
+In the Basilica of Our Lady of Guadalupe , the national shrine of the majority Roman Catholic country , thousands of people gathered to pray .
+########
+14
+<EOP> .
+########
+15
+`` I came to ask God for strength for those who lost loved ones and for the Virgin to watch over us and keep us safe , '' said 69_year_old Maria Gema Ortiz .
+########
+16
+`` Thanks to all those who came from other countries to help .
+########
+17
+Thanks to all and long live Mexico ! ''
+########
+18
+<EOP> .
+########
+19
+Makeshift places of worship have popped up next to the crumbling cement and mangled steel of collapsed buildings in the deeply religious country .
+########
+20
+<EOP> .
+########
+21
+In upscale Roma , one of the hardest_hit neighborhoods of the capital , a priest led mass for nearly two dozen people under a blue tarp while a nun handed out small cards with an image of the Virgin of Guadalupe , who according to the Catholic faith first appeared to an Aztec convert in 1531 .
+appeared	49	ps_cue
+########
+22
+<EOP> .
+########
+23
+More than 44,000 public schools in six states were due to reopen on Monday , but only 103 of the 4,000 public schools in Mexico City would open so as not to impede rescue and relief efforts .
+would	26	ps_cue
+not	30	neg_cue
+########
+24
+<EOP> .
+########
+25
+In addition , the National Autonomous University of Mexico , with 350,000 students at campuses in and around Mexico City , will resume classes on Monday .
+will	21	ps_cue
+########
+26
+<EOP> .
+########
+27
+Like many Mexicans , 36_year_old Claudia Avila was determined to return to some semblance of normality .
+########
+28
+<EOP> .
+########
+29
+`` We are afraid , but life must go on , '' said Avila , whose sons are 9 and 16 .
+########
+30
+`` Tomorrow I will take my children back to school .
+will	3	ps_cue
+########
+31
+They know that if something happens , they must protect themselves .
+########
+32
+It has been a rude awakening . ''
+########
+33
+<EOP> .
+########
+34
+Rescuers narrowed their search to a handful of buildings in the sprawling metropolitan area of 20 million people , using advanced audio equipment to detect signs of life beneath tonnes of rubble , with help from teams from as far afield as Israel and Japan .
+########
+35
+<EOP> .
+########
+36
+`` The search and rescue in Mexico City continues as a priority , with cooperation from national and international groups , '' tweeted Miguel Angel Mancera , Mexico City 's mayor .
+########
+37
+<EOP> .
+########
+38
+The search for survivors continued in a ruined office building in the Roma neighborhood and in a five_story apartment building in historic Tlalpan .
+########
+39
+<EOP> .
+########
+40
+Authorities called off efforts in the upper_middle class Linda Vista zone after pulling 10 bodies from the rubble , while work at the Tlalpan building was briefly halted on Saturday by a magnitude 6.2 aftershock .
+########
+41
+<EOP> .
+########

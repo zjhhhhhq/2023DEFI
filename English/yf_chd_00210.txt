@@ -1,0 +1,121 @@
+Does RYB 's American depositary shares fall
+0
+RYB 's revenue up , but shares still falling <EOP> .
+########
+1
+2017_12_01 11:11 <EOP> .
+########
+2
+China Daily USA <EOP> .
+########
+3
+Shares of RYB Education , Inc , the China_based company enmeshed in allegations of child abuse at one of its kindergartens in Beijing , fell almost 13 percent on Thursday as the company reported third_quarter revenue rose almost 40 percent over the same period last year .
+fell	24	CT+	CT+
+########
+4
+<EOP> .
+########
+5
+RYB 's American depositary shares declined by $ 2.63 , or 12.94 percent , to close at $ 17.70 on the New York Stock Exchange .
+declined	5	CT+	CT+
+declined	5	neg_cue
+or	10	ps_cue
+########
+6
+<EOP> .
+########
+7
+RYB _ which stands for Red , Yellow and Blue _ said third_quarter revenue was $ 37.4 million , compared with $ 26.9 million for the third quarter of 2016 .
+########
+8
+The company did not give a revenue comparison to the second quarter .
+not	3	neg_cue
+########
+9
+For the first nine months of 2017 , RYB said revenue was $ 101.7 million , compared with $ 76.1 million for the first nine months of 2016 .
+########
+10
+<EOP> .
+########
+11
+Shares had dropped on Wednesday after the company disclosed that there were parent complaints about other RYB_branded kindergartens , and class_action lawsuits were announced in the US against the company .
+dropped	2	CT+	CT+
+against	27	neg_cue
+########
+12
+The lawsuits seek to recover damages for alleged violations of US securities laws .
+########
+13
+<EOP> .
+########
+14
+One of the law firms filing a class action suit is New York_based Liu , Zheng , Chen and Hoffman .
+########
+15
+<EOP> .
+########
+16
+Louis Lu , a partner in the firm , told China Daily , `` We just want to let the court here to do its part , to decide whether the company has been following US law .
+whether	29	ps_cue
+########
+17
+If the company broke securities law , it should be held liable . '
+should	8	ps_cue
+########
+18
+<EOP> .
+########
+19
+`` We just want to protect shareholder interests , '' he added .
+########
+20
+<EOP> .
+########
+21
+He said he could not disclose how many people have signed onto the firm 's class action suit .
+could	3	ps_cue
+not	4	neg_cue
+########
+22
+<EOP> .
+########
+23
+On Tuesday , Chinese police said they had detained a teacher suspected of using knitting needles to discipline children in the Beijing kindergarten , though they added that some other claims of child abuse were unfounded .
+suspected	11	ps_cue
+########
+24
+<EOP> .
+########
+25
+The allegations and a police investigation announced on Nov 23 created an online furor in China , generating more than 76 million mentions of `` RYB '' on Tencent Holdings Ltd 's WeChat messaging service .
+########
+26
+<EOP> .
+########
+27
+RYB 's shares lost nearly 40 percent the next day before recovering some losses earlier this week .
+lost	3	CT+	CT+
+########
+28
+The plunge almost wiped out most of the 44 percent rise in the company 's stock since its initial public offering in September .
+########
+29
+<EOP> .
+########
+30
+In its earnings report , the company said that as of Sept 30 , 2017 , the number of students enrolled at RYB directly operated kindergartens was 21,413 and the number of franchise play_and_learn centers and kindergartens in operation were 910 and 209 , respectively .
+########
+31
+<EOP> .
+########
+32
+It did not provide numbers of enrolled students or franchise operations for the second quarter .
+not	2	neg_cue
+or	8	ps_cue
+########
+33
+<EOP> .
+########
+34
+paulwelitzkin@chinadailyusa.com <EOP> .
+########

@@ -1,0 +1,58 @@
+Will new ROK president visit DPRK under right conditions 
+0
+New ROK president says to visit DPRK under right conditions <EOP> .
+visit	5	CT+	CT+
+########
+1
+2017_05_10 11:59 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+SEOUL __ President Moon Jae_in of the Republic of Korea LRB ROK RRB said Wednesday he will visit Pyongyang , capital of the Democratic People 's Republic of Korea LRB DPRK RRB , under right conditions .
+visit	17	CT+	CT+
+will	16	ps_cue
+########
+4
+<EOP> .
+########
+5
+Moon was sworn in as the country 's new president at a main hall of the parliamentary building , just hours after winning a landslide victory in the five_way presidential race .
+########
+6
+<EOP> .
+########
+7
+His presidential power came into force right after his election victory was confirmed by the election commission as he has no usual transition period for the impeachment of his predecessor .
+no	20	neg_cue
+########
+8
+<EOP> .
+########
+9
+In a televised inaugural speech , Moon said he will be on the move for peace on the Korean Peninsula , vowing to visit Pyongyang if conditions are created .
+will	9	ps_cue
+########
+10
+<EOP> .
+########
+11
+The new leader also vowed to sincerely consult with the United States and China to resolve the issue on the US Terminal High Altitude Area Defense LRB THAAD RRB missile defense system .
+########
+12
+<EOP> .
+########
+13
+Part of the US missile interception system was transported in the middle of the night to the THAAD deployment site in the country 's southeastern region , causing strong protests from anti_THAAD activists and residents .
+########
+14
+<EOP> .
+########
+15
+Moon argued for a parliamentary ratification and public consensus for the THAAD installation that can influence the South Korean society from the diplomatic , security and economic perspectives .
+can	14	ps_cue
+########
+16
+<EOP> .
+########

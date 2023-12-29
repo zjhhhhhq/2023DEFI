@@ -1,0 +1,69 @@
+Does first snowfall this season come to New York
+0
+First snowfall this season comes to New York <EOP> .
+comes	4	CT+	CT+
+########
+1
+2017_12_10 09:21 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+NEW YORK _ The first snowfall of the season arrived in New York on Saturday morning , and is expected to continue until early Sunday morning .
+arrived	9	CT+	CT+
+expected	19	ps_cue
+########
+4
+<EOP> .
+########
+5
+According to a winter weather advisory issued by the National Weather Service , total accumulations of four to six inches of snow are expected in New York city , Westchester county , and portions of northeast New Jersey and southwestern Connecticut , with locally higher amounts possible .
+expected	23	PS+	CT+
+expected	23	ps_cue
+possible	46	ps_cue
+########
+6
+<EOP> .
+########
+7
+Residents in the area are advised to prepare for slippery road conditions and reduced visibilities at times .
+########
+8
+<EOP> .
+########
+9
+To ensure public safety , New York City Department of Sanitation has sent out 700 spreaders citywide salting highways and streets and pre_positioned 1250 plows across five boroughs .
+########
+10
+<EOP> .
+########
+11
+New Yorkers seem to be enjoying the first snowy day this winter season as many posted pictures on Twitter .
+seem	2	ps_cue
+########
+12
+<EOP> .
+########
+13
+Rockefeller Center and Central Park are two of the most tweeted places on Saturday .
+########
+14
+The giant Christmas tree at Rockefeller Center looks more magical in the snow and the snow_covered Central Park is tranquil and timeless .
+########
+15
+<EOP> .
+########
+16
+The New York Public Library posted a photo of Patience and Fortitude , a pair of marble lions that stand before the majestic Beaux_Arts building at Fifth Avenue and 42nd Street in Manhattan , saying `` Patience and Fortitude are little chilly today . ''
+little	40	neg_cue
+########
+17
+<EOP> .
+########
+18
+Others have been tweeting and retweeting a post featuring a photo of two giant feet built by snow and a comment saying `` woke up to two feet of snow . ''
+########
+19
+<EOP> .
+########

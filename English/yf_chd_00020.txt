@@ -1,0 +1,117 @@
+Does book upend Trump 's tax victory lap
+0
+Book upends Trump 's tax victory lap <EOP> .
+upends	1	CT+	CT+
+########
+1
+2018_01_05 15:47 <EOP> .
+########
+2
+China Daily USA <EOP> .
+########
+3
+US President Donald Trump entered 2018 with momentum : the massive tax cut he signed just after Christmas , he hoped , would give his legislative priorities a lift early in the new year .
+give	23	CT+	CT+
+hoped	20	ps_cue
+would	22	ps_cue
+########
+4
+<EOP> .
+########
+5
+But all of that energy vanished after publication of excerpts from a bombshell book detailing dysfunction , backstabbing and chaos in his White House and Trump 's ensuing rupture with his former chief strategist , Steve Bannon .
+########
+6
+<EOP> .
+########
+7
+`` What 's surprising is that it 's now on paper and Steve Bannon wielded the knife _ and this early in the term , '' said Representative Charlie Dent , a seven_term Republican who is n't seeking re_election to his competitive Pennsylvania seat .
+n't	36	neg_cue
+seeking	37	ps_cue
+########
+8
+`` It seems that the people around the president feel no particular loyalty to him , and the president is not particularly loyal to them . ''
+seems	2	ps_cue
+no	10	neg_cue
+not	20	neg_cue
+########
+9
+<EOP> .
+########
+10
+The turnabout imperils a new phase of Trump 's agenda that the White House hoped would include an overhaul of welfare programs , a massive infrastructure initiative and construction of his signature border wall .
+hoped	14	ps_cue
+would	15	ps_cue
+########
+11
+<EOP> .
+########
+12
+He 's also weakened just as he enters talks with Democratic leaders on government spending for the remainder of the fiscal year .
+########
+13
+<EOP> .
+########
+14
+The president and his top aides were riding high at the end of 2017 .
+########
+15
+In addition to the tax legislation , he enjoyed strong economic indicators and a sense that his second chief of staff , John Kelly , had finally imposed a semblance of discipline in the West Wing .
+enjoyed	8	CT+	CT+
+########
+16
+<EOP> .
+########
+17
+That confidence was ripped away after news organizations obtained copies of author Michael Wolff 's book Fire and Fury this week .
+########
+18
+The book , which Wolff tweeted will be published ahead of schedule on Friday , features vivid anecdotes depicting Trump as paranoid , inept and ignorant and his aides as self_interested , opportunistic and skeptical of their boss 's ability to govern and even his fitness for office .
+features	15	CT+	CT+
+will	6	ps_cue
+########
+19
+<EOP> .
+########
+20
+Charles Harder , Trump 's personal lawyer , in a legal notice provided to Reuters , warned of possible claims including libel against Wolff and publisher Henry Holt <EOP> .
+possible	18	ps_cue
+against	22	neg_cue
+########
+21
+& <EOP> .
+########
+22
+Co and threatened to try to block publication of the book .
+block	6	neg_cue
+########
+23
+Harder also told Reuters that `` legal action is imminent '' against Bannon .
+against	11	neg_cue
+########
+24
+<EOP> .
+########
+25
+Wolff 's publisher said in a statement that an attorney for Trump had sent a cease_and_desist letter demanding it stop distribution of the book .
+stop	19	neg_cue
+########
+26
+`` We see Fire and Fury as an extraordinary contribution to our national discourse , and are proceeding with the publication of the book , '' said Patricia Eisemann , a spokeswoman for the publisher .
+########
+27
+<EOP> .
+########
+28
+Concern over a flippant and provocative tweet Trump issued Tuesday evening comparing nuclear button sizes with leader of the Democratic People 's Republic of Korea Kim Jong_Un deepened on Wednesday as official Washington read Wolff 's reporting , in which the president 's advisers describe him as having little grasp of policy .
+little	48	neg_cue
+########
+29
+<EOP> .
+########
+30
+Bloomberg _ China Daily _ Reuters <EOP> .
+########
+31
+<EOP> .
+########

@@ -1,0 +1,124 @@
+Will WH Group Ltd diversify its product line by possibly buying beef and chicken companies
+0
+WH Group scouts for beef , chicken assets <EOP> .
+########
+1
+2017_06_12 10:23 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+<EOP> .
+########
+4
+A file photo shows a worker arranges fresh meat at a supermarket in Nantong , Jiangsu province .
+########
+5
+LRB Photo_VCG RRB <EOP> .
+########
+6
+<EOP> .
+########
+7
+WH Group Ltd , the world 's largest pork producer after acquiring US_based Smithfield Foods in 2013 for $ 4.7 billion , is ready to diversify its product line by possibly buying beef and chicken companies .
+diversify	25	CT+	CT+
+ready	23	ps_cue
+possibly	30	ps_cue
+########
+8
+<EOP> .
+########
+9
+`` We are currently the largest player in pork globally , and as a food company , we will continue to expand our business scope and diversify animal protein exposure further .
+diversify	26	CT+	CT+
+will	18	ps_cue
+########
+10
+LRB It 's RRB important to note that we do have businesses in poultry and we are already producing and selling some packaged beef products , '' Luis Chein , investor relations chief for WH Group , formerly known as Shuanghui International , said in an email .
+########
+11
+<EOP> .
+########
+12
+Reuters reported on June 9 that Smithfield Chief Executive Ken Sullivan told it that he is interested in diversifying into other meats to broaden the company 's product portfolio , although no deals are imminent .
+diversifying	18	CT+	CT+
+no	31	neg_cue
+########
+13
+WH Group is looking for targets in beef and poultry in Europe and the US , Reuters reported , citing Chein .
+########
+14
+<EOP> .
+########
+15
+Ted Schroeder , professor of agricultural economics at Kansas State University , said there is recognition that having products in beef , chicken and pork can diversify risk as well as increase overall brand equity .
+can	25	ps_cue
+########
+16
+<EOP> .
+########
+17
+`` Risk reduction results because when beef for example is not profitable , pork or poultry may be doing much better and vice_versa .
+not	10	neg_cue
+or	14	ps_cue
+may	16	ps_cue
+########
+18
+From a brand equity perspective , having the capability to offer product across the meat space increases visibility and can add to LRB the RRB brand image.In addition , significant economies of scope are present in meat processing and merchandising making it more cost effective to combine species , '' he wrote in an email .
+can	19	ps_cue
+########
+19
+<EOP> .
+########
+20
+Schroeder said the main pitfalls of adding beef and chicken to an existing pork company are that these are very capital intensive industries that are immensely competitive .
+########
+21
+<EOP> .
+########
+22
+`` We constantly see structural realignments , mergers , buying , and selling occurring in these industries because of the velocity of change occurring in the associated markets , in business goals , and in leadership vision .
+########
+23
+Capitalization often expects high returns , and volatility inherent in the meat industry can make these somewhat risky ventures especially if the time horizon of the company leadership is constrained , '' said Schroeder .
+expects	2	ps_cue
+can	13	ps_cue
+########
+24
+<EOP> .
+########
+25
+Expanding into beef and poultry would fashion Smithfield into an entity that is similar to competitors Tyson Foods Inc in the US and Brazil 's BRF SA , and JBS SA , which each process beef , chicken and pork .
+would	5	ps_cue
+########
+26
+<EOP> .
+########
+27
+Last year , Chein told the South China Morning Post that his company 's debts will have dropped to a more comfortable level by the end of 2017 .
+will	15	ps_cue
+########
+28
+<EOP> .
+########
+29
+Prospects for the US beef industry improved after China said it would allow US beef exports to the mainland again next month after banning most shipments following an incidence of mad cow disease in 2003 .
+would	11	ps_cue
+banning	23	neg_cue
+########
+30
+<EOP> .
+########
+31
+paulwelitzkin@chinadailyusa.com <EOP> .
+########
+32
+<EOP> .
+########
+33
+<EOP> .
+########
+34
+<EOP> .
+########

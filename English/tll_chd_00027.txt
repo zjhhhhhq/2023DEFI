@@ -1,0 +1,85 @@
+Does terminally ill cancer patient conquer Qomolangma
+0
+Terminally ill cancer patient conquers Qomolangma <EOP> .
+conquers	4	CT+	CT+
+########
+1
+2017_06_08 07:31 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+Ian Toothill , a terminally ill cancer patient who has been given only months to live , climbed the world 's highest mountain Qomolangma , also known as Mount Everest in the West .
+climbed	17	CT+	CT+
+########
+4
+<EOP> .
+########
+5
+He reached the summit on Monday and tweeted `` Nothing to see here , just some cancer dude ... on the summit of Mount Everest . ''
+########
+6
+<EOP> .
+########
+7
+Toothill , a personal trainer , raised more than $ 40,000 for the Macmillan Foundation , which provides nursing care and assistance for cancer patients in the United Kingdom .
+########
+8
+<EOP> .
+########
+9
+He 's climbed in the Himalayas before he was diagnosed with bowel cancer in 2015 ; he was told he 'd beaten it but it reappeared .
+########
+10
+<EOP> .
+########
+11
+On his website , Toothill said : `` For those who suffer daily with cancer , I climb for you .
+########
+12
+For those who ca n't face the day and struggle with the nights , stay strong , and know this : You are never out of the fight , there is always a way . ''
+n't	4	neg_cue
+never	23	neg_cue
+########
+13
+<EOP> .
+########
+14
+Toothill is a Sheffield Wednesday soccer team fan but a friend told him he would donate $ 1,300 to his fundraising efforts if he planted a flag on the summit from the club 's main rivals , Sheffield United , which he did .
+would	14	ps_cue
+########
+15
+<EOP> .
+########
+16
+He reached the summit via the North Col route .
+########
+17
+<EOP> .
+########
+18
+He said he believed he was the first cancer patient to climb Qomolangma , and tweeted pictures of himself on the summit planting the Sheffield United flag .
+climb	11	CT+	CT+
+believed	3	ps_cue
+########
+19
+<EOP> .
+########
+20
+Toothill was accompanied part of the way by Leslie Binn , from the UK town of Rotherham , who abandoned his own attempt on the summit in June last year when he stopped to save the life of a fellow climber .
+stopped	32	neg_cue
+########
+21
+<EOP> .
+########
+22
+Before the climb , Toothill told BBC Radio Sheffield : `` I 'm determined to prove anything is possible . ''
+possible	18	ps_cue
+########
+23
+<EOP> .
+########
+24
+chris@mail.chinadailyuk.com <EOP> .
+########

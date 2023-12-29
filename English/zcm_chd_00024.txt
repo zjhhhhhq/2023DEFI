@@ -1,0 +1,162 @@
+Does Trump expand travel restrictions on DPRK , Venezuela , Chad
+0
+Trump expands travel restrictions on DPRK , Venezuela , Chad <EOP> .
+expands	1	CT+	CT+
+########
+1
+2017_09_25 09:52 <EOP> .
+########
+2
+null <EOP> .
+########
+3
+<EOP> .
+########
+4
+US President Donald Trump responds to reporter 's questions on his return to the White House , Washington , DC , US , from a week at the UN General Assembly and the weekend at his Bedminster New Jersey Golf Club , Sept 24 , 2017 .
+########
+5
+LRB Photo_Agencies RRB <EOP> .
+########
+6
+WASHINGTON _ Citizens of eight countries will face new restrictions on entry to the US under a proclamation signed by US President Donald Trump on Sunday .
+will	6	ps_cue
+########
+7
+<EOP> .
+########
+8
+The new rules , which will impact the citizens of the Democratic People 's Republic of Korea LRB DPRK RRB , Chad , Iran , Libya , Somalia , Syria , Venezuela and Yemen , will go into effect on Oct 18 .
+effect	38	CT+	CT+
+will	5	ps_cue
+will	35	ps_cue
+########
+9
+<EOP> .
+########
+10
+The restrictions range from full travel bans on nationals from countries like Syria to more targeted restrictions .
+bans	6	neg_cue
+like	11	ps_cue
+########
+11
+A suspension of non_immigrant visas to citizens for Venezuela , for instance , applies only to senior government officials and their immediate families .
+########
+12
+<EOP> .
+########
+13
+The announcement comes the same day as Trump 's temporary ban on visitors from six Muslim_majority countries is set to expire , 90 days after it went into effect .
+ban	10	neg_cue
+########
+14
+That ban had barred citizens of Iran , Libya , Somalia , Sudan , Syria and Yemen who lack a `` credible claim of a bona fide relationship with a person or entity in the United States '' from entering the US .
+ban	1	neg_cue
+lack	18	neg_cue
+or	31	ps_cue
+########
+15
+<EOP> .
+########
+16
+`` As President , I must act to protect the security and interests of the United States and its people , '' reads the proclamation .
+########
+17
+<EOP> .
+########
+18
+Officials stressed that valid visas would not be revoked as a result of the proclamation .
+would	5	ps_cue
+not	6	neg_cue
+########
+19
+The order also permits , but does not guarantee , case_by_case waivers .
+not	7	neg_cue
+########
+20
+<EOP> .
+########
+21
+The restrictions are targeted at countries that Department of Homeland Security officials say refuse to share information with the US or have n't taken necessary security precautions .
+refuse	13	neg_cue
+or	20	ps_cue
+n't	22	neg_cue
+########
+22
+<EOP> .
+########
+23
+`` The acting secretary has recommended actions that are tough and that are tailored , including restrictions and enhanced screening for certain countries , '' said Miles Taylor , counselor to acting Homeland Security Secretary Elaine Duke , said Friday .
+recommended	5	ps_cue
+########
+24
+<EOP> .
+########
+25
+Unlike Trump 's first travel ban , which sparked chaos at airports across the country and a flurry of legal challenges , officials said they had been working for months on the new rules , in collaboration with various agencies and in conversation with foreign governments .
+ban	5	neg_cue
+########
+26
+<EOP> .
+########
+27
+The restrictions are based on a new baseline developed by DHS that includes factors such as whether countries issue electronic passports with biometric information and share information about travelers ' terror_related and criminal histories .
+whether	16	ps_cue
+########
+28
+The US then shared those benchmarks with every country in the world and gave them 50 days to comply .
+gave	13	neg_cue
+########
+29
+<EOP> .
+########
+30
+The eight countries are those that refused or were unable to comply .
+refused	6	neg_cue
+or	7	ps_cue
+unable	9	neg_cue
+########
+31
+<EOP> .
+########
+32
+Trump last week called for a `` tougher '' travel ban after a bomb partially exploded on a London subway .
+ban	10	neg_cue
+########
+33
+<EOP> .
+########
+34
+`` The travel ban into the United States should be far larger , tougher and more specific_but stupidly , that would not be politically correct ! ''
+ban	3	neg_cue
+should	8	ps_cue
+would	20	ps_cue
+not	21	neg_cue
+########
+35
+he tweeted .
+########
+36
+<EOP> .
+########
+37
+Critics have accused Trump of overstepping his authority and violating the US Constitution 's protections against religious bias .
+against	15	neg_cue
+########
+38
+Trump had called for a `` total and complete shutdown of Muslims entering the United States '' during his campaign .
+########
+39
+<EOP> .
+########
+40
+The new policy could complicate the Supreme Court 's review of the order , which is scheduled for argument next month .
+could	3	ps_cue
+scheduled	16	ps_cue
+########
+41
+<EOP> .
+########
+42
+AP <EOP> .
+########

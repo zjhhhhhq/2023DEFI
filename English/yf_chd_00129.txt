@@ -1,0 +1,262 @@
+Does San Francisco mourn death of Mayor Ed Lee 
+0
+San Francisco mourns death of Mayor Ed Lee <EOP> .
+mourns	2	CT+	CT+
+########
+1
+2017_12_13 16:38 <EOP> .
+########
+2
+China Daily USA <EOP> .
+########
+3
+Flags at San Francisco 's City Hall flew at half staff on Tuesday as the city mourned the sudden death of Ed Lee , its first Chinese_American mayor .
+mourned	16	CT+	CT+
+########
+4
+<EOP> .
+########
+5
+Lee , 65 , died at 1:11 am on Tuesdayat Zuckerberg San Francisco General Hospital , according to his office.Local news accounts said he had suffered a heart attack while grocery shopping , but his office did not immediately give a cause of death .
+not	37	neg_cue
+########
+6
+<EOP> .
+########
+7
+Lee was in critical condition when he arrived at the hospital by ambulance shortly after 10 p.m. on Monday , according to Dr Susan P. Ehrlich , the hospital 's chief executive .
+########
+8
+`` We attempted life_saving measures for several hours .
+########
+9
+We expect the medical examiner to determine the cause of death . ''
+expect	1	ps_cue
+########
+10
+Lee 's family asked that further medical details not be released , she said .
+not	8	neg_cue
+########
+11
+<EOP> .
+########
+12
+He was surrounded by his family , including his wife Anita and his two daughters , Brianna and Tania , as well as many political leaders when he died , according to Lee 's office .
+########
+13
+<EOP> .
+########
+14
+In accordance with the City Charter , Board of Supervisors President London Breed became acting mayor of the city of more than 850,000 people .
+########
+15
+She is a native San Franciscan who was raised by her grandmother in a housing project .
+########
+16
+Breedis San Francisco 's first female black mayor .
+########
+17
+<EOP> .
+########
+18
+Condolences from around the nation and beyond commemorated Lee for his contributions to advance San Francisco as the world 's hub for innovation and technology , and his continuous efforts advocating for the city 's low_income and underserved populations .
+########
+19
+<EOP> .
+########
+20
+He became San Francisco 's 43rd mayor in 2011 and was re_elected in 2015 .
+########
+21
+The son of immigrants from China , his election was a milestone for Chinese Americans , many of whose ancestors came from China to America as laborers in the 1800s and were mistreated and suffered decades of discrimination , including the Chinese Exclusion Act of 1882 which stopped Chinese immigration for nearly a century .
+stopped	47	neg_cue
+########
+22
+It was repealed on December 17 , 1943 .
+########
+23
+<EOP> .
+########
+24
+`` Mayor Lee served San Francisco and all San Franciscans most of his life and he won the admiration of all .
+########
+25
+He was the symbol and model for Asian Americans who aspire to public services in this country , '' said Committee of 100 Northern California Regional Chair Ken Fong .
+########
+26
+<EOP> .
+########
+27
+`` My hometown is Taishan in Guangdong .
+########
+28
+I can speak Taishan dialect , '' Leehad said in an interview with China Daily .
+can	1	ps_cue
+########
+29
+`` I visited my hometown often . ''
+########
+30
+<EOP> .
+########
+31
+As mayor , he led many business and trade delegations to China to facilitate collaborations in fields of high_tech , smart city and environmental protection .
+########
+32
+His most recent trip to China was in October when Lee visited Shanghai , a longtime sister city of San Francisco .
+########
+33
+<EOP> .
+########
+34
+The Chinese Consulate General in San Francisco said in a statement , `` As the first Chinese_American Mayor of San Francisco , Mayor Ed Lee made tremendous contributions to friendly exchanges and mutually beneficial cooperation between San Francisco and China .
+########
+35
+He will be remembered as a great mayor and an advocate and practitioner of US_China friendship . ''
+remembered	3	CT+	CT+
+will	1	ps_cue
+########
+36
+<EOP> .
+########
+37
+Lee `` will forever be remembered as a human rights hero in the hearts of San Franciscans , '' said a statement issued by the Comfort Women Justice Coalition LRB CWJC RRB , a diverse coalition of community_based groups and individuals established in August 2015 .
+remembered	5	CT+	CT+
+will	2	ps_cue
+########
+38
+Its mission is to memorialize `` Comfort Women '' in San Francisco and to educate the public about Japanese military sexual slavery and human trafficking system during World War II .
+########
+39
+<EOP> .
+########
+40
+`` Mayor Ed Lee was a man with a big heart .
+########
+41
+He stood for those who did n't have the voice to speak for themselves .
+n't	6	neg_cue
+########
+42
+He met with our beloved Grandma Yongsoo Lee , the survivor of the Japanese military sexual slavery , where he shared compassion , friendship and laughter with her , '' the statement said .
+########
+43
+<EOP> .
+########
+44
+Recently , Lee signed the City Resolution to make the `` Comfort Women Column of Strength '' , a monument CWJC has dedicated to erecting at the St. Mary 's Square Annex on September 22 to remember victims of World War II `` Comfort Women '' , the City 's own `` Comfort Women '' Memorial .
+########
+45
+Lee did so despite the threat from his counterpart in Osaka , Japan , of ending the 60_year_old sister city relationship with San Francisco .
+########
+46
+<EOP> .
+########
+47
+Lee presided over one of the most explosive periods of growth in the city 's history .
+########
+48
+He brought employers back to the city , and played an instrumental role in attracting tech companies to San Francisco and convincing them to stay .
+########
+49
+<EOP> .
+########
+50
+US House Minority Leader Nancy Pelosi , who represents San Francisco in Congress , praised Lee as `` a true gentleman of great warmth , positivity and kindness . ''
+########
+51
+<EOP> .
+########
+52
+`` I do n't know San Francisco without Ed Lee , '' former mayor Willie Brown said .
+n't	3	neg_cue
+without	7	neg_cue
+########
+53
+Lee served as head of purchasing during Brown 's tenure as mayorfrom 1996 to early 2004 .
+########
+54
+<EOP> .
+########
+55
+US Senator Dianne Feinstein , who became mayor of the city following the assassination of Mayor George Moscone in 1978 , called it a `` very sad day '' for the city and for all those who knew Lee .
+########
+56
+<EOP> .
+########
+57
+US Senator Kamala Harris , who served as San Francisco district attorney said that Lee 's was a fierce advocate for civil rights and worked tirelessly for workers ' rights `` and his leadership will be missed . ''
+will	34	ps_cue
+########
+58
+<EOP> .
+########
+59
+Governor Jerry Brown called Lee `` a true champion for working people . ''
+########
+60
+<EOP> .
+########
+61
+Lieutenant Governor Gavin Newsom , a former San Francisco mayor who appointed Lee as his replacement in 2011 when he resigned to become California 's lieutenant governor in January 2011 , said that `` San Francisco has lost a selfless leader , a dedicated servant to the public , and a tireless bearer of equality 's torch . ''
+########
+62
+<EOP> .
+########
+63
+Edwin Mah Lee was born to parents who came to the United States from the Chinese province of Guangdong and settled in Seattle .
+########
+64
+He was the fifth of six children .
+########
+65
+His father worked in local restaurants and his mother did odd jobs around Seattle .
+########
+66
+When he was 15 , Lee 's father died of a heart attack , and Lee worked in restaurants to help support his family .
+########
+67
+<EOP> .
+########
+68
+He graduated from Bowdoin College in Maine in 1974 and earned a law degree at the University of California at Berkeley , where he also became interested in politics .
+########
+69
+<EOP> .
+########
+70
+At his first swearing_in , in 2011 , he commented on his rise from being a housing advocate to virtually unknown civil servant to city leader .
+unknown	20	ps_cue
+########
+71
+`` Decades ago , I was about as anti_establishment as one could be , '' he said .
+could	11	ps_cue
+########
+72
+`` But today , like you , I 'm trying to make the establishment work for all San Franciscans . ''
+like	4	ps_cue
+########
+73
+<EOP> .
+########
+74
+Lee was passionate about immigrant rights .
+########
+75
+In January , he insisted that San Francisco would remain a sanctuary city `` now , tomorrow , forever . ''
+would	8	ps_cue
+########
+76
+<EOP> .
+########
+77
+In an interview with The New York Times last year , Lee said he had been drawn to San Francisco for its diversity and tolerance .
+########
+78
+`` The main attraction was a kind of feeling that freedom of expression and maybe a person of a different ethnic background could be welcomed and succeed , '' he said .
+maybe	14	ps_cue
+could	22	ps_cue
+########
+79
+<EOP> .
+########

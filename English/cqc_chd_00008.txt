@@ -1,0 +1,93 @@
+Does Pakistan 's top court disqualify PM Nawaz Shari
+0
+Pakistan 's top court disqualifies PM Nawaz Shari <EOP> .
+disqualifies	4	CT+	CT+
+########
+1
+2017_07_28 16:17 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+<EOP> .
+########
+4
+Pakistan Prime Minister Nawaz Sharif speaks during a joint news conference in Kabul , Afghanistan , May 12 , 2015 .
+May	16	ps_cue
+########
+5
+LRB Photo_Agencies RRB <EOP> .
+########
+6
+ISLAMABAD __ Pakistan 's top court on Friday disqualified Prime Minister Nawaz Sharif over corruption charges .
+disqualified	8	CT+	CT+
+########
+7
+<EOP> .
+########
+8
+A five_member larger bench of Supreme Court in an unanimous decision also ordered the country 's anti_corruption body to formally register corruption case against the prime minister in six weeks and decide the case within six months .
+against	23	neg_cue
+########
+9
+<EOP> .
+########
+10
+The court also disqualified the country 's Finance Minister Ishaq Dar , as well as Safdar , the husband of the PM 's daughter Maryam Nawaz , according to the order .
+disqualified	3	CT+	CT+
+########
+11
+Safdar is a member of the parliament .
+########
+12
+<EOP> .
+########
+13
+The apex court advised the president to take steps for the election of a new prime minister .
+########
+14
+<EOP> .
+########
+15
+The court ordered the Election Commission of Pakistan to issue a notification and de_notify the prime minister from the seat of the National Assembly , the lower house of the parliament .
+########
+16
+<EOP> .
+########
+17
+The Supreme Court ruled that the prime minister has failed to reveal his assets and that he is no more a trusted man under the provisions in the country 's constitution .
+failed	9	neg_cue
+no	18	neg_cue
+########
+18
+<EOP> .
+########
+19
+Attorney General Ashtar Ausaf , the government lawyer , told reporters that the court has disqualified Sharif forever .
+########
+20
+He said there is no law to appeal against this verdict .
+no	4	neg_cue
+against	8	neg_cue
+########
+21
+<EOP> .
+########
+22
+The court also ordered the National Accountability Bureau to register cases against the PM 's sons _ Hassan Nawaz and Hussain Nawaz , daughter Maryam Nawaz and son_in_law Safdar .
+against	11	neg_cue
+########
+23
+<EOP> .
+########
+24
+Information Minister Maryam Aurangzeb described the verdict as `` unfortunate '' and said Nawaz Sharif will remain leader of the PML_N party .
+will	15	ps_cue
+########
+25
+She said the gov ' t legal team is reviewing all aspects of the verdict .
+########
+26
+<EOP> .
+########

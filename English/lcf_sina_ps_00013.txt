@@ -1,0 +1,118 @@
+Do jobs of new graduates require degrees
+0
+A third of new graduates get jobs which do n't require degrees <EOP> .
+require	10	CT-	CT-
+n't	9	neg_cue
+########
+1
+One in three new graduates are doing jobs that do not require degrees such as working in call centres , waiting on tables and stacking shelves , statistics show .
+require	11	CT-	CT-
+not	10	neg_cue
+########
+2
+<EOP> .
+########
+3
+Thirty_two per cent _ over 60,000 _ were in ` non_professional jobs ' in areas including secretarial , sales , customer service and skilled trades six months after graduating last year .
+########
+4
+<EOP> .
+########
+5
+And the number taking particularly menial posts _ collecting garbage , washing windows , sorting mail and cleaning buildings _ has doubled in seven years .
+########
+6
+<EOP> .
+########
+7
+The figures from the Higher Education Statistics Agency will alarm students , who now face an average debt of more than <EOP> .
+will	8	ps_cue
+########
+8
+30,000 on graduation following the tripling in tuition fees to <EOP> .
+########
+9
+9,000 _ a_year .
+########
+10
+<EOP> .
+########
+11
+Out of a total of 257,395 full_time first degree university_leavers from 2013_14 , 75 per cent were in employment six months after graduating .
+########
+12
+<EOP> .
+########
+13
+Fourteen per cent had embarked in further study , and seven per cent _ 16,730 _ were unemployed .
+########
+14
+<EOP> .
+########
+15
+Among the employed graduates in the UK , 60,140 were in ` non_professional jobs ' including administrative , caring , leisure and sales occupations .
+########
+16
+<EOP> .
+########
+17
+Some 840 graduates were working as ` process , plant and machine operatives ' and 2,315 in ` skilled trades ' such as plumbing and tiling .
+########
+18
+<EOP> .
+########
+19
+Another 10,855 _ 5.8 per cent of those in employment _ were in ` elementary occupations ' .
+########
+20
+<EOP> .
+########
+21
+These include mail sorters , bar staff , waiters and waitresses , street vendors , caretakers , shoe cleaners , hotel porters , door_to_door and telephone sales people , vending machine money collectors and meter readers .
+########
+22
+<EOP> .
+########
+23
+Among this group , 2,380 had graduated from creative arts and design courses , 1,085 from business and administrative studies , and 1,065 had social studies degrees .
+########
+24
+<EOP> .
+########
+25
+By contrast , only 5,460 or four per cent of students had ended up in these menial ` elementary occupations ' six months after graduating in 2007 .
+or	5	ps_cue
+########
+26
+<EOP> .
+########
+27
+In 2013_14 , 68 per cent of employed graduates were in ` professional ' jobs such as working as managers , directors , senor officials and in technical occupations .
+########
+28
+<EOP> .
+########
+29
+A report warned last year that the growing number of workers who are over_qualified for their role is largely the result of a huge expansion in university education .
+########
+30
+<EOP> .
+########
+31
+The centre_left think_tank the Institute for Public Policy research LRB IPPR RRB said ` the number of high_skilled jobs has not kept pace with the rate at which workers are becoming more highly qualified ' .
+not	20	neg_cue
+########
+32
+<EOP> .
+########
+33
+School_leavers would be better prepared for the job market by doing an apprenticeship instead of racking up huge debts at university , the report claimed .
+would	1	ps_cue
+instead	13	neg_cue
+########
+34
+<EOP> .
+########
+35
+Vocabulary <EOP> .
+########

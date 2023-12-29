@@ -1,0 +1,101 @@
+Is Britain 's May on course to lose majority in British parliament 
+0
+Britain 's May on course to lose majority in British parliament : exit poll <EOP> .
+lose	6	CT+	CT+
+May	2	ps_cue
+########
+1
+2017_06_09 09:10 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+<EOP> .
+########
+4
+File photo taken on April 18 , 2017 shows British Prime Minister Theresa May speaking to media outside 10 Downing Street as she calls a snap general election in London , Britain .
+May	13	ps_cue
+########
+5
+LRB Photo_Xinhua RRB <EOP> .
+########
+6
+LONDON _ British Prime Minister Theresa May is on course to lose her overall majority in the British general election , according to an exit poll released as soon as voting finished Thursday night .
+lose	11	CT+	CT+
+May	6	ps_cue
+########
+7
+<EOP> .
+########
+8
+The poll , commissioned by Britain 's main broadcasters , showed May 's Conservatives would have 314 seats , losing 17 seats and the overall majority she had before the election .
+losing	19	CT+	CT+
+May	11	ps_cue
+would	14	ps_cue
+########
+9
+She needs to win at least 326 seats to claim an overall majority in the House of Commons .
+needs	1	ps_cue
+########
+10
+<EOP> .
+########
+11
+May 's main rivals , Labour , would have 266 seats , according to the exit poll , which gave the first clue about the likely outcome of the snap general election called just a few weeks ago by May .
+May	0	ps_cue
+would	7	ps_cue
+gave	19	neg_cue
+likely	25	ps_cue
+May	39	ps_cue
+########
+12
+<EOP> .
+########
+13
+The minority Liberal Democrats would gain six seats to reach 14 , the Scottish Nationalists will lose a third of their seats , getting 34 , and the Greens would hold on to their single seat in Westminster .
+would	4	ps_cue
+will	15	ps_cue
+would	29	ps_cue
+########
+14
+<EOP> .
+########
+15
+It will be early hours Friday before the result is confirmed , but similar exit polls carried out at the previous two general elections in Britain came very close to predicting the results correctly .
+will	1	ps_cue
+########
+16
+<EOP> .
+########
+17
+In the 2015 general election , which came after five years of a general election between the Conservatives and the Liberal Democrats , few polls predicted a majority win for then prime minister David Cameron .
+predicted	25	ps_cue
+########
+18
+<EOP> .
+########
+19
+The poll predicted not only would Cameron win , but also that his coalition partners since 2010 , the Liberal Democrats would be massacred .
+predicted	2	ps_cue
+not	3	neg_cue
+would	5	ps_cue
+would	21	ps_cue
+########
+20
+<EOP> .
+########
+21
+The 2015 exit poll predicted nine seats for the Lib Dems , and in the event they ended up with eight , losing around 50 MPs .
+predicted	4	ps_cue
+########
+22
+<EOP> .
+########
+23
+Counting of millions of votes started soon after ballot boxes were delivered to counting stations , with the first declarations likely before midnight .
+likely	20	ps_cue
+########
+24
+<EOP> .
+########

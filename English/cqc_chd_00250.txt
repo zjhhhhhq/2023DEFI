@@ -1,0 +1,130 @@
+Do world leaders shrink from controversial subjects
+0
+Christmas messages speak of challenges facing the world <EOP> .
+########
+1
+2017_12_27 02:43 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+World leaders did not shrink from controversial or difficult subjects in their Christmas messages this year .
+shrink	4	CT-	CT-
+not	3	neg_cue
+or	7	ps_cue
+########
+4
+<EOP> .
+########
+5
+The British monarch Queen Elizabeth highlighted a series of tragedies that hit the United Kingdom and the British Commonwealth this year , while Pope Francis warned of the `` winds of war '' and the suffering of the world 's poor .
+########
+6
+Justin Welby , the leader of the Anglican Church , attacked `` tyrannical and populist '' world leaders .
+########
+7
+<EOP> .
+########
+8
+Elizabeth said she was thinking of the victims of a series of terrorist attacks that hit the UK .
+########
+9
+In March , a man killed five people in Westminster .
+########
+10
+In May , a man blew himself up and killed 22 at a pop concert in Manchester .
+May	1	ps_cue
+########
+11
+And the next month , three men killed eight people near London Bridge using a vehicle and knives .
+########
+12
+<EOP> .
+########
+13
+The queen said the affected cities showed their strong character in the face of adversity .
+########
+14
+<EOP> .
+########
+15
+`` This Christmas , I think of London and Manchester , whose powerful identities shone through over the past 12 months in the face of appalling attacks , '' she said .
+########
+16
+`` In Manchester , those targeted included children who had gone to see their favorite singer .
+########
+17
+A few days after the bombing , I had the privilege of meeting some of the young survivors and their parents .
+########
+18
+I describe that hospital visit as a ` privilege ' because the patients I met were an example to us all , showing extraordinary bravery and resilience . ''
+########
+19
+<EOP> .
+########
+20
+She recalled the impact of hurricanes in the Caribbean , and the fire in a London tower block that killed 71 people in June .
+block	17	neg_cue
+########
+21
+<EOP> .
+########
+22
+`` Our thoughts and prayers are with all those who died and those who lost so much ; and we are indebted to members of the emergency services who risked their own lives , this past year , saving others , '' she said .
+########
+23
+<EOP> .
+########
+24
+Pope Francis rooted his message in the story of Jesus Christ and his birth in Bethlehem and said his spirit lives on in those suffering economic or political hardship .
+or	26	ps_cue
+########
+25
+<EOP> .
+########
+26
+`` We see Jesus in the children of the Middle East who continue to suffer because of growing tensions between Israelis and Palestinians , '' he said while calling for a political solution to provide a state for Palestinians alongside the state of Israel .
+########
+27
+<EOP> .
+########
+28
+The pope listed conflicts in the Middle East , Africa and South America and spoke about the potential for conflict on the Korean peninsula .
+potential	17	ps_cue
+########
+29
+<EOP> .
+########
+30
+`` Let us pray that confrontation may be overcome on the Korean peninsula and that mutual trust may increase in the interest of the world as a whole , '' he said , while highlighting the plight of the unemployed and children forced into labor or military service .
+may	6	ps_cue
+may	17	ps_cue
+or	45	ps_cue
+########
+31
+<EOP> .
+########
+32
+`` We see Jesus in the children of unemployed parents who struggle to offer their children a secure and peaceful future , '' he said .
+########
+33
+`` And in those whose childhood has been robbed and who , from a very young age , have been forced to work or to be enrolled as soldiers by unscrupulous mercenaries . ''
+or	23	ps_cue
+########
+34
+<EOP> .
+########
+35
+Welby , the Archbishop of Canterbury , warned of the dangers of populist leaders , possibly in reference to United States President Donald Trump .
+possibly	15	ps_cue
+########
+36
+<EOP> .
+########
+37
+`` In 2017 , we have seen around the world tyrannical leaders that enslave their peoples , populist leaders that deceive them , corrupt leaders that rob them , even simply democratic , well_intentioned leaders of many parties and countries who are normal , fallible human beings , '' he said .
+########
+38
+<EOP> .
+########

@@ -1,0 +1,124 @@
+Does WWII exhibit bring POW ordeals to life 
+0
+WWII exhibit brings POW ordeals to life <EOP> .
+exhibit	1	CT+	CT+
+########
+1
+2017_11_23 07:19 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+<EOP> .
+########
+4
+<EOP> .
+########
+5
+Jerry Chen , a member of the famed Flying Tigers , attends the opening ceremony on Tuesday of an exhibition in San Francisco on Japan 's notorious Mukden POW camp for Allied prisoners in what is modern_day Shenyang , China .
+exhibition	19	CT+	CT+
+########
+6
+LIU DAN_CHINA NEWS SERVICE <EOP> .
+########
+7
+The Bataan Death March is well known in the United States , but what happened to those who survived it is not .
+not	21	neg_cue
+########
+8
+<EOP> .
+########
+9
+A traveling exhibition in San Francisco tells the lesser known story of how Allied prisoners of war ended up in one of the Japanese Army 's most notorious prisoner of war camps , in Mukden LRB today 's Shenyang RRB , China , their darkest days there and their tenacious struggle against Japanese oppression .
+exhibition	2	CT+	CT+
+against	51	neg_cue
+########
+10
+<EOP> .
+########
+11
+The exhibition , Forgotten Camp , offers a glimpse into the hardships endured by more than 2,000 Allied prisoners , 1,200 of them from the United States , at the Shenyang World War II Allied POW Camp , from 1942 to 1945 .
+exhibition	1	CT+	CT+
+########
+12
+<EOP> .
+########
+13
+On view through Dec 5 at the WWII Pacific War Memorial Hall , the exhibition assembles 250 historic photographs and 42 artifact replicas from the permanent collection of the Shenyang WWII Allied Prisoners Camp Site Museum .
+exhibition	14	CT+	CT+
+########
+14
+<EOP> .
+########
+15
+The camp held prisoners from six countries － the US , UK , Canada , France , Australia and the Netherlands － but the US had the largest number of prisoners and the largest death toll .
+########
+16
+<EOP> .
+########
+17
+`` More than 200 young and vibrant American soldiers were n't able to live to the moment of victory .
+n't	10	neg_cue
+########
+18
+Their names were inscribed on a memorial wall of the museum , '' Fan Lihong , curator of the exhibition and director of the Site Museum , told guests at the opening ceremony on Tuesday .
+exhibition	19	CT+	CT+
+########
+19
+<EOP> .
+########
+20
+`` Every inch of the soil at the camp was soaked by the prisoners ' blood , sweat , hope and struggle .
+hope	19	ps_cue
+########
+21
+This history should not be forgotten , '' she said .
+should	2	ps_cue
+not	3	neg_cue
+########
+22
+<EOP> .
+########
+23
+Yet this camp and its story went unremembered for half a century until scholars uncovered it in 2003 .
+########
+24
+A historic site and museum today , it is the best preserved of the more than 200 POW camps established by Japanese forces in the Asia_Pacific Theater during the war .
+########
+25
+<EOP> .
+########
+26
+It stands as testimony to Japan 's violation of international conventions on humane treatment and forced use of POW labor and to the misery and suffering Allied prisoners endured , she said .
+########
+27
+<EOP> .
+########
+28
+The prisoners were treated with relentless brutality .
+########
+29
+In the freezing winter , frostbite was not uncommon .
+not	7	neg_cue
+########
+30
+Food and medical supplies were scarce .
+########
+31
+They were forced to hike five miles a day to work in a factory that manufactured weapons and parts for Japanese aircraft .
+########
+32
+<EOP> .
+########
+33
+`` While we have the opportunity to look back and revisit that part of history , there are lessons to be learned and spirits to be carried on , '' said Chinese Consul General in San Francisco Luo Linquan .
+########
+34
+`` Even in the dark days of harsh living conditions , inhuman torture , ubiquitous hunger and pervasive disease , the allied POWs did n't give up hope . ''
+n't	24	neg_cue
+hope	27	ps_cue
+########
+35
+<EOP> .
+########

@@ -1,0 +1,327 @@
+Does Xi lead condolences as Manchester terror attack kills 22 , injures 59
+0
+Xi leads condolences as Manchester terror attack kills 22 , injures 59 <EOP> .
+leads	1	CT+	CT+
+########
+1
+2017_05_24 00:57 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+President Xi Jinping led condolences from world leaders when he contacted Queen Elizabeth II on Tuesday after the deadly explosion in Manchester that killed 22 , in addition to the suicide bomber , and injured 59 .
+led	3	CT+	CT+
+########
+4
+<EOP> .
+########
+5
+<EOP> .
+########
+6
+<EOP> .
+########
+7
+Flowers as a tribute for victims of Monday 's suicide bombing at Manchester Arena in the English city of Manchester are seen in front of the British embassy in Berlin , Germany May 23 , 2017 .
+May	32	ps_cue
+########
+8
+<EOP> .
+########
+9
+LRB Photo_Agencies RRB <EOP> .
+########
+10
+Xi expressed deep sadness over those who lost their lives and offered his sympathy to the relatives of people who were killed or injured .
+expressed	1	CT+	CT+
+or	22	ps_cue
+########
+11
+<EOP> .
+########
+12
+At this difficult moment , the Chinese people firmly stand by the British people , Xi said .
+########
+13
+<EOP> .
+########
+14
+Premier Li Keqiang also sent a message of condolence to British Prime Minister Theresa May on Tuesday .
+May	14	ps_cue
+########
+15
+<EOP> .
+########
+16
+May described the attack as Britain 's worst_ever terror attack .
+May	0	ps_cue
+########
+17
+The bomber died in the attack .
+########
+18
+Police said they had arrested a 23_year_old man in Manchester in connection with the bombing but gave no further details .
+gave	16	neg_cue
+no	17	neg_cue
+########
+19
+<EOP> .
+########
+20
+The suicide bomber , named by police as 22_year_old Salman Abedi , born in Manchester , triggered an improvised explosive device in the midst of a crowd of young pop fans and their parents at Manchester Arena , in the center of the city , as United States pop star Ariana Grande finished a sell_out show attended by many teenagers .
+########
+21
+<EOP> .
+########
+22
+Manchester medical staff said 12 children under the age of 16 were among the 59 injured .
+########
+23
+The dead included an 8_year_old girl , Saffie Rose Roussos , a pupil at Tarleton Primary School , in Lancashire .
+########
+24
+<EOP> .
+########
+25
+Greater Manchester Police Chief Constable Ian Hopkinson told reporters : `` We believe it was one man , acting alone , who used an improvised explosive device .
+########
+26
+We believe he is amongst the dead . ''
+########
+27
+<EOP> .
+########
+28
+Queen Elizabeth II sent her `` deepest sympathy '' to Manchester bombing victims , adding that the whole nation had been `` shocked '' .
+########
+29
+The queen and members of the royal family observed a minute 's silence at Buckingham Palace in memory of the 22 lives lost .
+########
+30
+<EOP> .
+########
+31
+On Tuesday evening , thousands attended a vigil for the victims in Albert Square , in front of Manchester 's imposing Victorian town hall building .
+########
+32
+Other vigils were being planned across the country .
+planned	4	ps_cue
+########
+33
+<EOP> .
+########
+34
+May chaired a meeting of COBRA , the country 's emergency committee , and later told reporters : `` This attack stands out for its appalling , sickening cowardice .
+May	0	ps_cue
+########
+35
+We struggle to understand the warped and twisted mind that would bring carnage to young children .
+would	10	ps_cue
+########
+36
+Terrorists will never win _ our country and our way of life will always prevail . ''
+will	1	ps_cue
+never	2	neg_cue
+will	12	ps_cue
+########
+37
+<EOP> .
+########
+38
+In London , police authorities said additional armed officers would be on the streets of the capital as a precaution .
+would	9	ps_cue
+########
+39
+<EOP> .
+########
+40
+In Manchester , hospitals swung into mass_casualty mode as medical staff from surrounding areas volunteered to help .
+########
+41
+Paramedics at the scene also treated a number of walking wounded , police said .
+########
+42
+<EOP> .
+########
+43
+UK Home Secretary Amber Rudd issued a statement saying : `` This was a barbaric attack , deliberating targeting some of the most vulnerable in our society _ young people and children out at a pop concert .
+########
+44
+<EOP> .
+########
+45
+`` The public should remain alert , but not alarmed .
+should	3	ps_cue
+not	8	neg_cue
+########
+46
+The great city of Manchester has been affected by terrorism before .
+########
+47
+Its spirit was not bowed ; its community continues . ''
+not	3	neg_cue
+########
+48
+<EOP> .
+########
+49
+Eyewitnesses in Manchester spoke of bodies strewn on the ground , covered in blood .
+########
+50
+<EOP> .
+########
+51
+Islamic State claimed responsibility for the bombing , describing the perpetrator as a `` soldier of the caliphate '' , but there was no evidence there was any direct link or prior knowledge among the terror group about the attack or the attacker .
+no	23	neg_cue
+or	30	ps_cue
+or	40	ps_cue
+########
+52
+<EOP> .
+########
+53
+May and fellow politicians agreed to suspend general election campaigning ahead of the June 8 vote .
+May	0	ps_cue
+suspend	6	neg_cue
+########
+54
+<EOP> .
+########
+55
+The UK 's official terror status level , as laid down by the intelligence services , is `` severe '' , which means an attack is highly likely .
+likely	27	ps_cue
+########
+56
+The highest level is `` critical '' , indicating an attack is expected .
+expected	12	ps_cue
+########
+57
+<EOP> .
+########
+58
+Andy Burnham , the recently elected mayor of Greater Manchester , said it was `` an act of evil .
+########
+59
+It has been a very dark night .
+########
+60
+Manchester people will come together .
+will	2	ps_cue
+########
+61
+We will not let this divide us '' .
+will	1	ps_cue
+not	2	neg_cue
+########
+62
+<EOP> .
+########
+63
+The BBC said a number of people and local hotels had offered temporary accommodation to concert goers , and taxi drivers were offering free transportation .
+########
+64
+<EOP> .
+########
+65
+Manchester Arena can hold up to 18,000 people .
+can	2	ps_cue
+########
+66
+It is regularly used to stage concerts and Grande , a 23_year_old reality TV star , is part_way through a UK tour .
+########
+67
+Her management said she was not injured in the blast , which came just after she finished her last song .
+not	5	neg_cue
+########
+68
+She sent out a message on Twitter to say she was `` broken '' by the blast and the deaths .
+########
+69
+<EOP> .
+########
+70
+`` I have no words , '' she said .
+no	3	neg_cue
+########
+71
+<EOP> .
+########
+72
+Her fans are mainly young teens and pre_teen girls .
+########
+73
+<EOP> .
+########
+74
+Pictures on social media and news websites showed young girls , some wrapped in blankets , others bloodied and bandaged , being helped by emergency medical teams .
+########
+75
+<EOP> .
+########
+76
+Police closed off central Manchester and the main railway station , Manchester Victoria , which is right next to the arena , was closed and train services suspended .
+suspended	27	neg_cue
+########
+77
+<EOP> .
+########
+78
+Twenty_year_old Jess , who was at the concert with her sister , Hannah , 17 , described to Manchester Evening News the moment she heard the huge explosion .
+########
+79
+<EOP> .
+########
+80
+`` We had just come through the main doors near the McDonalds and we 'd stopped just a few meters away , '' she said .
+stopped	15	neg_cue
+########
+81
+`` I just heard this blast and knew straight away what it was .
+########
+82
+My sister was on the floor face_down .
+########
+83
+She had been thrown down , a few people had .
+########
+84
+I do n't know how I was n't . ''
+n't	2	neg_cue
+n't	7	neg_cue
+########
+85
+<EOP> .
+########
+86
+Gary Walker , from Leeds , was with his wife in the foyer , waiting to pick up his two daughters who were at the concert .
+########
+87
+<EOP> .
+########
+88
+He told BBC Radio 5 Live : `` I was waiting for the kids to come out .
+########
+89
+We heard the last song , and quite a few people were flooding out and then , suddenly , there was a massive flash and then a bang and smoke .
+########
+90
+I felt a bit of pain in my foot and my leg .
+########
+91
+My wife said ` I need to lie down ' .
+need	5	ps_cue
+########
+92
+I lay her down , she 'd got a stomach wound and possibly a broken leg .
+possibly	12	ps_cue
+########
+93
+I was about three meters from the actual explosion . ''
+########
+94
+<EOP> .
+########
+95
+Zhang Yunbi in Beijing contributed to the story <EOP> .
+########

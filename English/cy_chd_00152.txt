@@ -1,0 +1,62 @@
+Will BRICS ' solutions on aging ` benefit world economy ' 
+0
+BRICS ' solutions on aging ` will benefit world economy ' <EOP> .
+benefit	7	PS+	PS+
+will	6	ps_cue
+########
+1
+2017_12_06 18:41 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+Collaboration among BRICS nations on the issue of aging could help boost global economic development and social welfare , according to a senior Chinese official .
+help	10	PS+	PS+
+could	9	ps_cue
+########
+4
+<EOP> .
+########
+5
+Wang Jianjun , the director of China 's National Committee on Aging , said all members of the bloc -- Brazil , Russia , India , China and South Africa -- share a common problem .
+########
+6
+<EOP> .
+########
+7
+`` They each have a huge and fast_growing aging population , '' he said .
+########
+8
+`` This means they must strike a balance between aging and economic development .
+########
+9
+Successfully doing so will benefit economic development and social welfare , among the BRICS and beyond . ''
+benefit	4	PS+	PS+
+will	3	ps_cue
+########
+10
+<EOP> .
+########
+11
+He was speaking at the first BRICS Meeting on Aging , which opened in Beijing on Wednesday .
+########
+12
+The event , attended by 100 representatives for the five countries , is themed `` Building Consensus for Concerted Responses '' .
+########
+13
+<EOP> .
+########
+14
+Wang , who said China has the world 's largest aging population , urged BRICS nations to standardize and institutionalize cooperation on aging , and take each other 's policies for reference .
+########
+15
+<EOP> .
+########
+16
+Countries should also improve exchanges in skills , technologies and standards to boost development of public services and industries related to aging , he added .
+should	1	ps_cue
+########
+17
+<EOP> .
+########

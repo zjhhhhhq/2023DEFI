@@ -1,0 +1,138 @@
+Will almost three quarters of Canadian companies in China expand their operations 
+0
+Canadian companies seek growth in China : survey <EOP> .
+########
+1
+2017_04_27 11:17 <EOP> .
+########
+2
+null <EOP> .
+########
+3
+Almost three quarters of Canadian companies in China plan to expand their operations there , according to a report released this week in Toronto .
+expand	10	PS+	PS+
+plan	8	ps_cue
+########
+4
+<EOP> .
+########
+5
+China is becoming an increasingly attractive market , at least for the Canada companies that responded to the survey .
+########
+6
+In particular , almost three quarters of respondents to the Canada China Business Survey indicated they plan to expand their operations in China , 49 percent indicating the planned expansions as substantial , and 24 percent as slight .
+expand	18	PS+	PS+
+plan	16	ps_cue
+planned	28	ps_cue
+########
+7
+<EOP> .
+########
+8
+The report released by the Canada China Business Council and Rotman School of Management surveyed a cross_section of Canadian companies doing or considering doing business in China , as well as Chinese companies with the same intentions in Canada during 2016 .
+or	21	ps_cue
+########
+9
+<EOP> .
+########
+10
+The modes of expansion are varied .
+########
+11
+Forty_eight percent of the respondents indicated that their plan is to increase their business activities in their current location or in other cities ; 38 percent are seeking a joint venture partner ; and 26 percent are seeking Chinese investment .
+increase	11	PS+	PS+
+plan	8	ps_cue
+or	19	ps_cue
+seeking	27	ps_cue
+seeking	37	ps_cue
+########
+12
+<EOP> .
+########
+13
+The survey 's results also show increased favorability toward a potential Canada_China free trade agreement LRB FTA RRB , compared with 2012 .
+potential	10	ps_cue
+########
+14
+Respondents view a potential Canada_China FTA that would be negotiated in the next five years as having a positive impact on their companies ' business .
+potential	3	ps_cue
+would	7	ps_cue
+########
+15
+<EOP> .
+########
+16
+FTA support was found among companies operating in the professional , scientific and technical services sector .
+########
+17
+Respondents stated that Canada should be open to greater trade and investment opportunities with China , given the importance of the Chinese market to the global economy .
+should	4	ps_cue
+opportunities	12	ps_cue
+########
+18
+<EOP> .
+########
+19
+A number of survey respondents indicated that an FTA would give Canada the opportunity to catch up with Australia and New Zealand , which have FTAs with China .
+would	9	ps_cue
+########
+20
+<EOP> .
+########
+21
+An FTA with China will ensure that Canadian goods would not be excluded from the Chinese market due to the application of arbitrary and discriminatory technical rules and standards .
+will	4	ps_cue
+would	9	ps_cue
+not	10	neg_cue
+########
+22
+It also would help protect the rights of Canadian businesses in China , with commitments to treat them the same as domestic Chinese businesses .
+would	2	ps_cue
+########
+23
+<EOP> .
+########
+24
+The survey 's executive summary also shows that China 's Belt and Road Initiative is an opportunity for Canadian business .
+########
+25
+<EOP> .
+########
+26
+The initiative would see transportation and shipping infrastructure put in place linking China to South , Southeast and Central Asia , and all the way to Europe .
+would	2	ps_cue
+########
+27
+Models of international business show that such efforts , if successful , would reduce the costs significantly of doing business along this corridor and thus stimulate trade , investment and other kinds of business activity .
+would	12	ps_cue
+########
+28
+<EOP> .
+########
+29
+Despite the fact that Canada is not on the Belt and Road path , 44 percent of respondents see opportunities for their firm to participate in the initiative .
+not	6	neg_cue
+opportunities	19	ps_cue
+########
+30
+That links positively to the `` third country collaboration '' priority established by Premier Li Keqiang and Prime Minister Justin Trudeau during their official visits in 2016 .
+########
+31
+<EOP> .
+########
+32
+China is now Canada 's second_largest trading partner , and it is becoming increasingly important in terms of bilateral foreign direct investment .
+########
+33
+However , many obstacles to doing business remain in the respective markets .
+########
+34
+<EOP> .
+########
+35
+As such , governments on both sides of this relationship should work to reduce government regulations and barriers that inhibit both profitability and business growth , the report 's executive summary concluded .
+should	10	ps_cue
+########
+36
+<EOP> .
+########

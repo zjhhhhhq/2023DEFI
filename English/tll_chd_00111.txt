@@ -1,0 +1,105 @@
+Does Queen Elizabeth II visit young victims of Manchester bombing
+0
+Queen Elizabeth II visits young victims of Manchester bombing <EOP> .
+visits	3	CT+	CT+
+########
+1
+2017_05_26 08:52 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+<EOP> .
+########
+4
+Queen Elizabeth II LRB R RRB visits the Royal Manchester Children 's Hospital to meet victims of the Manchester Arena attack , in Manchester , Britain , May 25 , 2017 .
+meet	14	CT+	CT+
+May	27	ps_cue
+########
+5
+LRB Photo_Xinhua RRB <EOP> .
+########
+6
+LONDON __ Queen Elizabeth II arrived in Manchester Thursday to visit children and young people injured in Monday 's terror bombing at the Manchester Arena .
+visit	10	CT+	CT+
+########
+7
+<EOP> .
+########
+8
+As well as meeting casualties recovering and being treated for their injuries at the Royal Manchester Children 's Hospital , the Queen spoke to doctors and nurses who worked throughout the night and the following days saving the lives of the injured .
+########
+9
+<EOP> .
+########
+10
+Among the patients who the Queen spoke with was 15_year_old Millie Robson from County Durham in northeast England .
+########
+11
+Her mom Marie sat at her bedside as they chatted with the Royal visitor .
+########
+12
+The hospital is treating 14 injured children , with five of them described as critically ill .
+########
+13
+<EOP> .
+########
+14
+Her visit came as NHS England reported that the number of people who have received in_patient hospital treatment as a result of injuries sustained in Monday 's attack has reached 116 .
+visit	1	CT+	CT+
+########
+15
+<EOP> .
+########
+16
+An NHS spokesman said 23 of the injured are currently in critical care suffering from serious injuries .
+########
+17
+<EOP> .
+########
+18
+The Queen 's arrival came shortly after more than 1,000 people gathered in the city 's St Ann 's Square during a nationwide one_minute silence .
+########
+19
+The crowd , many with tears streaming down their faces , stood alongside city leaders as a tribute to the dead and injured .
+########
+20
+<EOP> .
+########
+21
+At the end of the tribute they broke into applause and sang `` Do n't Look Back In Anger , '' the song performed by Manchester rock band Oasis and written by band member Noel Gallagher .
+n't	14	neg_cue
+########
+22
+<EOP> .
+########
+23
+In London , British Prime Minister Theresa May chaired a meeting of the emergency Cobra committee and said later that the threat level will remain at `` critical '' in Britain , indicating a possible imminent attack .
+May	7	ps_cue
+will	23	ps_cue
+possible	34	ps_cue
+########
+24
+<EOP> .
+########
+25
+May said eight suspects remained in custody as part of the investigation by Greater Manchester Police .
+May	0	ps_cue
+########
+26
+<EOP> .
+########
+27
+A woman arrested at an apartment block in the city has been released .
+block	6	neg_cue
+########
+28
+All of those being held at police stations in Manchester are male .
+########
+29
+The eight include two men arrested by counter terror police on Thursday morning , one in Manchester and another at an undisclosed location .
+########
+30
+<EOP> .
+########

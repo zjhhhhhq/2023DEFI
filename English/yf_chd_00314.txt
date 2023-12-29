@@ -1,0 +1,104 @@
+Does Brazilian parliamentary commission reject charges against Temer
+0
+Brazilian parliamentary commission rejects charges against Temer <EOP> .
+charges	4	CT-	CT-
+against	5	neg_cue
+rejects	3	neg_cue
+########
+1
+2017_10_19 08:36 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+<EOP> .
+########
+4
+Brazil 's President Michel Temer speaks during press statement at the Planalto Palace in Brasilia , Brazil , September 28 , 2017 .
+########
+5
+LRB Photo_Agencies RRB <EOP> .
+########
+6
+BRASILIA _ The Commission of Constitution and Justice LRB CCJ RRB of Brazil 's Chmaber of Deputies approved on Wednesday , by 39 votes to 26 , a report that recommends the Chamber reject new charges against President Michel Temer for obstruction of justice and criminal association .
+charges	35	CT-	CT-
+reject	33	neg_cue
+against	36	neg_cue
+########
+7
+<EOP> .
+########
+8
+The recommendation also stated the charges of criminal association against the government 's chief of staff , Eliseu Padilha , and the secretary_general of the presidency , Moreira Franco , be rejected .
+charges	5	CT+	CT-
+against	9	neg_cue
+rejected	31	neg_cue
+########
+9
+<EOP> .
+########
+10
+The report , favorable to Temer and his ministers , was written by deputy Bonifacio de Andrada , who stated that there was no sufficient evidence to continue the process .
+no	23	neg_cue
+########
+11
+<EOP> .
+########
+12
+Temer has been charged with obstruction of justice by the prosecutor_general after confessions by executives of meatpacking giant , JBS , and Lucio Funaro , a financial operator close to the ruling PMDB party .
+########
+13
+<EOP> .
+########
+14
+They stated that JBS executives paid bribes to buy Funaro 's silence concerning corruption within the government , with Temer 's approval .
+########
+15
+<EOP> .
+########
+16
+The president is also accused of leading a criminal association , wherein leaders of the PMDB ran a broad corruption and bribery scheme .
+########
+17
+<EOP> .
+########
+18
+Padilha and Franco are accused of being behind this ring which allegedly received millions of dollars in bribes from private companies in exchange for public contracts .
+########
+19
+<EOP> .
+########
+20
+However , the charges will only proceed to a trial at the Supreme Court , if it receives the approval of two_thirds of the Chamber of Deputies , or 342 deputies out of 513 .
+charges	3	CT+	CT-
+will	4	ps_cue
+or	28	ps_cue
+########
+21
+Should this majority be met , Temer will step down from the presidency for 180 days , during which time an impeachment trial will be held .
+will	7	ps_cue
+will	23	ps_cue
+########
+22
+<EOP> .
+########
+23
+The expectation is that the Chamber will hold a vote next week .
+expectation	1	ps_cue
+will	6	ps_cue
+########
+24
+Temer already survived one vote in the Chamber in August , when deputies rejected a charge for passive corruption against him .
+rejected	13	neg_cue
+against	19	neg_cue
+########
+25
+<EOP> .
+########
+26
+<EOP> .
+########
+27
+<EOP> .
+########

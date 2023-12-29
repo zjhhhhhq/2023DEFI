@@ -1,0 +1,75 @@
+Do Brazil and Argentina team up to attract Chinese tourists
+0
+Brazil and Argentina team up to attract Chinese tourists <EOP> .
+team	3	CT+	CT+
+########
+1
+2017_11_09 08:56 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+RIO DE JANEIRO _ Brazil and Argentina are preparing a joint tourism promotion program in China to attract more visitors from the Asian giant , official sources announced Wednesday .
+preparing	8	CT+	CT+
+########
+4
+<EOP> .
+########
+5
+The president of the Brazilian tourism institute , Embratur , Vinicius Lummertz , and the Argentinean tourism minister , Gustavo Santos , met in London on Wednesday during the World Travel Market in London .
+########
+6
+<EOP> .
+########
+7
+They decided to carry out a joint promotion tour in the Chinese cities of Beijing , Shanghai and Guangzhou among others , Embratur said in a statement .
+decided	1	CT+	CT+
+########
+8
+<EOP> .
+########
+9
+The governments of Brazil and Argentina have been trying to reach an agreement for two years on a joint tourism promotion effort in China .
+trying	8	CT+	CT+
+########
+10
+<EOP> .
+########
+11
+`` The Chinese market is very large and is growing .
+########
+12
+We have the problem of distance , but the joint initiative makes everything easier , with lower costs and simplified logistics .
+########
+13
+From the start , we and Argentina have considered that , since Asian and American travellers to Europe visit two or more countries , why not offer the same in South America , '' commented Lummertz .
+considered	8	ps_cue
+or	20	ps_cue
+not	25	neg_cue
+########
+14
+<EOP> .
+########
+15
+Santos added that `` while they have the Great Wall , one of the wonders of the world , we have the Iguazu Waterfalls , another marvel .
+########
+16
+We are brothers through this and we need to bring our people together , and promote all this more '' .
+need	7	ps_cue
+########
+17
+<EOP> .
+########
+18
+Santos also asked the Brazilian government to adopt `` a more flexible policy in terms of the visa demands for China tourists '' .
+########
+19
+<EOP> .
+########
+20
+Embratur said that China accounts for more international travellers than any other country , with 130 million Chinese citizens travelling abroad last year , but with only around 60,000 visiting Brazil .
+########
+21
+<EOP> .
+########

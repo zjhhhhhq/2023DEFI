@@ -1,0 +1,59 @@
+Is there terrorist attack in Rafah , Egypt
+0
+UN Security Council condemns terrorist attack in Rafah , Egypt <EOP> .
+attack	5	CT-	CT-
+condemns	3	neg_cue
+########
+1
+2017_07_08 14:35 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+UNITED NATIONS __ The United Nations LRB UN RRB Security Council on Friday condemned the terrorist attack at a checkpoint in Rafah , Egypt , which killed at least 10 Egyptian soldiers and injured more .
+attack	16	CT-	CT-
+condemned	13	neg_cue
+########
+4
+<EOP> .
+########
+5
+The members of the Security Council condemned `` in the strongest terms the heinous and cowardly terrorist attack '' that took place earlier in the day , according to a statement by the UN body .
+attack	17	CT-	CT-
+condemned	6	neg_cue
+########
+6
+<EOP> .
+########
+7
+`` They expressed their deepest sympathy and condolences to the families of the victims and to the Government of Egypt , and they wished a speedy and full recovery to those who were injured , '' the statement said .
+########
+8
+<EOP> .
+########
+9
+They reaffirmed that `` terrorism in all its forms and manifestations constitutes one of the most serious threats to international peace and security . ''
+########
+10
+<EOP> .
+########
+11
+They also urged all members of the international community to cooperate actively with Egypt and all other relevant authorities to track down the perpetrators , organizers , financiers and sponsors of terrorist acts .
+########
+12
+<EOP> .
+########
+13
+Earlier , an Egyptian security source told Xinhua that at least 10 Egyptian soldiers were killed and twenty others injured in two car explosions and a later shooting at an army checkpoint in North Sinai 's city of Rafah .
+########
+14
+<EOP> .
+########
+15
+The country 's military spokesman said Friday that some 40 militants have been killed , and six vehicles used by the terrorists have been destroyed following the attack at the Rafah checkpoint .
+attack	27	CT+	CT-
+########
+16
+<EOP> .
+########

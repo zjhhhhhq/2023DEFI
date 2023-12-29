@@ -1,0 +1,115 @@
+Will a couple divorce if the wife falls ill
+0
+Promising at the altar to have and to hold your loved one , in sickness and in health , may seem like a straightforward pledge .
+may	19	ps_cue
+seem	20	ps_cue
+like	21	ps_cue
+########
+1
+<EOP> .
+########
+2
+But for men , some elements of the vow can prove easier to keep than others .
+can	9	ps_cue
+########
+3
+<EOP> .
+########
+4
+A study shows that a couple is more likely to divorce if the wife falls ill .
+divorce	10	PS+	PS+
+likely	8	ps_cue
+########
+5
+The researchers said their results indicate that some men simply can not cope with a poorly spouse .
+indicate	5	ps_cue
+can	10	ps_cue
+not	11	neg_cue
+########
+6
+<EOP> .
+########
+7
+After tracking 2,700 couples in the US from 1992 to 2010 , the American team found that divorce levels were roughly the same between healthy couples and those in which the husband suffered sickness .
+########
+8
+<EOP> .
+########
+9
+But when disease hit the wife , the likelihood of divorce rose .
+divorce	10	PS+	PS+
+likelihood	8	ps_cue
+########
+10
+<EOP> .
+########
+11
+Every two years the researchers interviewed the couples and asked whether either of them had been ill since their last session .
+whether	10	ps_cue
+either	11	ps_cue
+########
+12
+Over the 18 years , 859 marriages ended in divorce , 32 per cent of the sample group .
+########
+13
+<EOP> .
+########
+14
+For 24 per cent of the couples , tragedy struck when one spouse died , and 44 per cent were still going strong by the time the study ended .
+########
+15
+But among the 965 couples in which the woman got sick , the rate of divorce was 6 per cent higher .
+########
+16
+<EOP> .
+########
+17
+Lead author Amelia Karraker , assistant professor in family studies at Iowa State University , said illness can add stress to a marriage because men may not be as attuned to taking on a caregiver role as women .
+can	17	ps_cue
+may	25	ps_cue
+not	26	neg_cue
+########
+18
+` There is a difference between feeling too sick to make dinner and needing someone to actually feed you , ' she said .
+########
+19
+<EOP> .
+########
+20
+` That 's something that can really change the dynamics within a marriage .
+can	5	ps_cue
+########
+21
+If your spouse is too sick to work , we know that financial strain is a major predictor of divorce . '
+########
+22
+<EOP> .
+########
+23
+Miss Karraker said wives may also become dissatisfied with their husbands ' ability to look after them .
+may	4	ps_cue
+########
+24
+She added : ` Life or death experiences may cause people to re_evaluate what is important in their lives .
+or	5	ps_cue
+may	8	ps_cue
+########
+25
+<EOP> .
+########
+26
+` It could be that women are saying , `` You 're doing a bad job of caring for me or I was n't happy with the relationship to begin with , and I 'd rather be alone than in a bad marriage .
+could	2	ps_cue
+or	20	ps_cue
+n't	23	neg_cue
+rather	35	neg_cue
+########
+27
+''' <EOP> .
+########
+28
+The research was published in the Journal of Health and Social Behaviour .
+########
+29
+<EOP> .
+########

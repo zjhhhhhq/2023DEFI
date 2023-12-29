@@ -1,0 +1,124 @@
+Does Premier Li Keqiang attend the 12th China_EU Business Summit
+0
+Li : China on rise as land of opportunity <EOP> .
+########
+1
+2017_06_03 07:21 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+Premier tells summit in Brussels of an improved business environment <EOP> .
+########
+4
+<EOP> .
+########
+5
+Young people show their support as Premier Li Keqiang attends the 12th China_EU Business Summit on Friday at the Egmont Palace in Brussels , Belgium .
+attends	9	CT+	CT+
+########
+6
+LRB Photo by Francois Lenoir_Reuters RRB <EOP> .
+########
+7
+China remains a promising land for foreign businesses and steps are being taken to make it even more magnetic for European and other investors , Premier Li Keqiang said on Friday as he addressed the 12th China_EU Business Summit in Brussels .
+addressed	33	CT+	CT+
+########
+8
+<EOP> .
+########
+9
+Additional administrative approval procedures will be cut to make sure both foreign and domestic investors are treated equally , Li told business leaders from China and Europe at the summit .
+will	4	ps_cue
+########
+10
+<EOP> .
+########
+11
+It is hoped that executives realize that China 's world ranking for business environment is on the rise , the product of consistent effort to improve its corporate climate , Li said .
+hoped	2	ps_cue
+########
+12
+<EOP> .
+########
+13
+The premier spoke of increased business opportunities even as the European Union has been China 's largest trading partner for years , and China is the second largest trading partner of the EU .
+opportunities	6	ps_cue
+########
+14
+<EOP> .
+########
+15
+The two partners are continuing to negotiate the China_EU Bilateral Investment Treaty .
+########
+16
+Assistant Minister of Commerce Li Chenggang said recently that the negotiation is `` being advanced in a steady manner '' .
+########
+17
+<EOP> .
+########
+18
+The premier also expressed optimism for further progress on the investment treaty during his EU visit .
+########
+19
+<EOP> .
+########
+20
+Li Keqiang told the gathering that capable Chinese enterprises are being encouraged to invest in Europe .
+encouraged	11	ps_cue
+########
+21
+<EOP> .
+########
+22
+The premier said the benefits of globalization for China , European nations and all parts of the world have been seen by all .
+########
+23
+<EOP> .
+########
+24
+In order to tackle the downsides , however , countries should work together to perfect the global governance system and make globalization better benefit all countries and peoples , he said .
+should	10	ps_cue
+########
+25
+<EOP> .
+########
+26
+Free trade leads to the opening of doors , fair competition and more options for consumers worldwide , he said .
+########
+27
+<EOP> .
+########
+28
+But Li Keqiang said it is difficult for any two countries to have completely balanced trade at all times , and attempting to make that happen could affect the process of free trade .
+could	26	ps_cue
+########
+29
+<EOP> .
+########
+30
+Countries need to maintain a cool head when discussing how to evaluate free trade and how to implement fair trade , he said .
+need	1	ps_cue
+evaluate	11	ps_cue
+########
+31
+<EOP> .
+########
+32
+The premier said China has been upholding the principle of multilateralism and thus living up to the rules of the World Trade Organization .
+########
+33
+<EOP> .
+########
+34
+It is hoped that businesses from both China and Europe will follow the rules , he added .
+hoped	2	ps_cue
+will	10	ps_cue
+########
+35
+<EOP> .
+########
+36
+Contact the writers at zhangyunbi@chinadaily.com.cn <EOP> .
+########

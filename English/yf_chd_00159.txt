@@ -1,0 +1,107 @@
+Does Ontario premier conclude her third visit to China in Shenzhen
+0
+Ontario premier looks to leverage China visit into jobs <EOP> .
+visit	6	CT+	CT+
+########
+1
+2017_12_08 04:24 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+Ontario Premier Kathleen Wynne concluded her third visit to China in Shenzhen , producing new agreements that she said will create jobs , fuel economic growth and enhance research collaboration .
+visit	7	CT+	CT+
+will	19	ps_cue
+########
+4
+<EOP> .
+########
+5
+On Dec 1 , the premier met with representatives of BYD , the world 's largest electric_vehicle manufacturer , at the company 's headquarters .
+########
+6
+<EOP> .
+########
+7
+BYD is planning a major expansion into the Ontario market with its zero_emissions commercial and transit vehicles , including auto assembly and finishing operations .
+planning	2	ps_cue
+########
+8
+<EOP> .
+########
+9
+The premier also visited the headquarters of Huawei , a major Chinese telecommunications company that employs more than 700 people in Ontario .
+########
+10
+Huawei is partnering with Seneca College to deliver training programs in Huawei Enterprise products and solutions designed for Canadians .
+########
+11
+<EOP> .
+########
+12
+After a signing ceremony announcing more than $ 11 million in new investments with the potential to create jobs in Ontario , the premier delivered a keynote speech on the importance of Ontario 's economic and innovation partnerships with China .
+potential	15	ps_cue
+########
+13
+<EOP> .
+########
+14
+`` At a time of global change and uncertainty , seeking new opportunities for growth , diversifying trade and strengthening international partnerships are vital to Ontario 's economy .
+seeking	10	ps_cue
+opportunities	12	ps_cue
+########
+15
+That 's why missions like this one are so important , '' she said .
+like	4	ps_cue
+########
+16
+<EOP> .
+########
+17
+`` Connecting Ontario companies with the global market and setting the stage for collaboration is good for their businesses and good for Ontario .
+########
+18
+The partnerships forged on this mission and my previous two missions to China are proof of how much we can achieve when we work together , '' Wynne said .
+can	19	ps_cue
+########
+19
+<EOP> .
+########
+20
+The premier also met with representatives of the world 's largest genomics organization , the Beijing Genomics Institute LRB BGI RRB , to discuss the company 's collaboration with the Lunenfeld_Tanenbaum Research Institute , part of Ontario 's Sinai Health System , on the development of a genomics_based diagnostic test for the early identification of women at risk for delivering premature babies and other pregnancy complications .
+########
+21
+<EOP> .
+########
+22
+While meeting Shenzhen Mayor Chen Rugui , the two sides discussed opportunities for Ontario and Shenzhen to work together in postsecondary education , water management and technology .
+opportunities	11	ps_cue
+########
+23
+<EOP> .
+########
+24
+Leading the Ontario business and academic delegates , the premier made stops in Beijing , Nanjing , Chongqing and Shenzhen , yielding nearly $ 1.9 billion in new agreements with China .
+########
+25
+<EOP> .
+########
+26
+`` China is an important and long_term partner for Ontario in trade development , investment attraction and collaboration in science and technology , '' said Michael Chan , minister of international trade , who joined the premier 's trip to China .
+trip	38	CT+	CT+
+########
+27
+<EOP> .
+########
+28
+`` The successful signings from this mission reinforce Ontario 's position as a top trading economy that will help create more jobs and economic opportunities across our province , '' he said .
+will	17	ps_cue
+opportunities	24	ps_cue
+########
+29
+<EOP> .
+########
+30
+renali@chinadailyusa.com <EOP> .
+########

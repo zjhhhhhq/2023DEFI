@@ -1,0 +1,94 @@
+Does Trump signs executive order to ramp up trade enforcement
+0
+Trump signs executive orders to ramp up trade enforcement <EOP> .
+orders	3	CT+	CT+
+########
+1
+2017_04_01 14:15 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+US President Donald Trump attends a meeting at the White House in Washington , US , March 31 , 2017 .
+########
+4
+LRB Photo_Agencies RRB <EOP> .
+########
+5
+WASHINGTON _ US President Donald Trump on Friday signed two executive orders in order to ramp up trade enforcement .
+orders	11	CT+	CT+
+########
+6
+<EOP> .
+########
+7
+In one of them , Trump required the commerce secretary and the US trade representative to prepare a report within 90 days , assessing the practices of US trading partners contributing to the 500 billion US dollars trade deficit the United States had in 2016 on a country_by_country and product_by_product basis .
+########
+8
+<EOP> .
+########
+9
+Commerce Secretary Wilbur Ross told local media that the report will form the basis for further actions by the Trump administration to tackle bilateral trade imbalances .
+will	10	ps_cue
+########
+10
+<EOP> .
+########
+11
+He said that the results of the report could lead the administration to find solutions about how to reduce trade deficits by increasing US exports .
+could	8	ps_cue
+########
+12
+<EOP> .
+########
+13
+The second order aims to improve collection of anti_dumping and countervailing duties .
+order	2	CT+	CT+
+########
+14
+It said that , as of May 2015 , about 2.3 billion dollars in anti_dumping and countervailing duties owed to the US government remained uncollected .
+May	6	ps_cue
+########
+15
+<EOP> .
+########
+16
+The order also directs the Department of Homeland Security to better combat violations of U.S. trade and customs laws and enable enhanced seizure of counterfeit and pirated goods .
+order	1	CT+	CT+
+########
+17
+<EOP> .
+########
+18
+The Trump administration 's approach to tackling bilateral trade imbalances has received widespread criticism from economists .
+criticism	13	neg_cue
+########
+19
+<EOP> .
+########
+20
+Gary Hufbauer , a trade expert with the Peterson Institute for International Economics , said that the United States runs an overall trade deficit with the rest of the world because the combined net savings of the U.S. households , businesses and government sectors are negative , and the dollar is persistently overvalued in foreign exchange markets .
+negative	45	neg_cue
+########
+21
+<EOP> .
+########
+22
+Hufbauer considered Trump administration 's approach to the bilateral trade balance as a display of mercantilist doctrines , adding that a trade balance makes little economic sense as a guide to trade policy in the 21st century , nor as a focal point for shrinking the US trade deficit .
+considered	1	ps_cue
+little	24	neg_cue
+nor	38	neg_cue
+########
+23
+<EOP> .
+########
+24
+<EOP> .
+########
+25
+<EOP> .
+########
+26
+<EOP> .
+########

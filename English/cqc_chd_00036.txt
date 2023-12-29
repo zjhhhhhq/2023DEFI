@@ -1,0 +1,104 @@
+Will China join South Korea 
+0
+Xi says China ready to join S. Korea in restoring healthy development of ties <EOP> .
+join	5	CT+	CT+
+ready	3	ps_cue
+########
+1
+2017_07_06 18:51 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+<EOP> .
+########
+4
+President Xi Jinping LRB R RRB meets with his South Korean counterpart Moon Jae_in in Berlin , Germany , July 6 , 2017 .
+meets	6	CT+	CT+
+########
+5
+LRB Photo_Xinhua RRB <EOP> .
+########
+6
+BERLIN _ Visiting Chinese President Xi Jinping said here Thursday that China would like to join South Korea in bringing bilateral ties back to the track of healthy development .
+join	15	CT+	CT+
+would	12	ps_cue
+like	13	ps_cue
+########
+7
+<EOP> .
+########
+8
+He made the remarks while meeting with his South Korean counterpart Moon Jae_in ahead of a G20 summit in the northern German port city of Hamburg .
+counterpart	10	CT+	CT+
+########
+9
+<EOP> .
+########
+10
+China and South Korea , two geographically close nations , share interconnected cultures and notable complementary advantages , Xi said , adding that the two sides have realized a leapfrog development in their relations since the establishment of diplomatic ties 25 years ago , which has benefited the two peoples greatly and contributed to regional peace , stability and prosperity .
+########
+11
+<EOP> .
+########
+12
+`` For a period of time , China_South Korea relations have been facing difficulties , and we do not want to see that , '' he said .
+not	18	neg_cue
+########
+13
+<EOP> .
+########
+14
+It is the common responsibility of the two sides to maintain and develop bilateral ties , he noted .
+########
+15
+<EOP> .
+########
+16
+Xi also urged Seoul to take seriously China 's rightful concerns and handle relevant issues properly so as to clear the obstacles for the development of bilateral ties .
+########
+17
+<EOP> .
+########
+18
+For his part , Moon said South Korea highly values its relationship with China , adding that the two countries have a long history of exchanges , share broad common interests , and have become important partners for cooperation .
+relationship	11	CT+	CT+
+########
+19
+<EOP> .
+########
+20
+He also said that since taking office , he has engaged in active interactions with China , noting that Seoul seeks to join Beijing in stepping up bilateral exchanges and cooperation at various levels and in various areas , so as to shape a strategic partnership for the two countries .
+engaged	10	CT+	CT+
+seeks	20	ps_cue
+########
+21
+<EOP> .
+########
+22
+Moon said that he I fully understands China 's relevant concerns and intends to have in_depth communication with the Chinese side , '' he added .
+########
+23
+<EOP> .
+########
+24
+Speaking of the situation in the Korean Peninsula , the Chinese leader said China supports the new South Korean government 's efforts to restart contact and dialogue with the Democratic People 's Republic of Korea .
+########
+25
+<EOP> .
+########
+26
+China is committed to denuclearizing the Korean Peninsula , promoting peace and stability there , and settling the problem through dialogues and consultations , he said .
+########
+27
+<EOP> .
+########
+28
+In response , Moon said his country agrees that the issue should be fixed via dialogues and consultations , adding that he is ready to work closely with China to realize denuclearization on the peninsula and to safeguard regional peace and stability .
+should	11	ps_cue
+ready	23	ps_cue
+########
+29
+<EOP> .
+########

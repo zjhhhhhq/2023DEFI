@@ -1,0 +1,131 @@
+Does Japan step up military spending
+0
+Alarm as Japan steps up military spending <EOP> .
+spending	6	CT+	CT+
+########
+1
+2017_12_23 14:48 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+Japan 's military spending will rise 1.3 percent to a record 5.2 trillion yen LRB $ 46 billion RRB , under a defense budget approved by the Cabinet on Friday .
+spending	3	CT+	CT+
+will	4	ps_cue
+########
+4
+<EOP> .
+########
+5
+The budget for the year starting in April means Japan 's military spending has kept rising for six consecutive years .
+spending	12	CT+	CT+
+########
+6
+Such spending has grown about 10 percent since Japan 's Prime Minister Shinzo Abe took office in 2012 , Bloomberg said .
+spending	1	CT+	CT+
+########
+7
+<EOP> .
+########
+8
+Zhang Xiaolei , associate researcher at the Institute of Japanese Studies of the Chinese Academy of Social Sciences , said rises in military spending were a constant feature of Abe 's rule .
+spending	23	CT+	CT+
+########
+9
+<EOP> .
+########
+10
+As Tokyo approved three documents for defense in 2013 , each of which required vast outlays , Zhang said he expects the country 's military spending to continue rising .
+spending	25	CT+	CT+
+expects	20	ps_cue
+########
+11
+<EOP> .
+########
+12
+`` We ca n't exclude the possibility that Japan may introduce the Terminal High Altitude Area Defense , as Seoul did , '' Zhang said .
+n't	3	neg_cue
+exclude	4	neg_cue
+possibility	6	ps_cue
+may	9	ps_cue
+########
+13
+`` Japan always uses the nuclear issue relating to the Democratic People 's Republic of Korea as a reason to amend its own defense policy .
+########
+14
+<EOP> .
+########
+15
+`` Existing weapons and equipment have surpassed Japan 's real national defense needs .
+needs	12	ps_cue
+########
+16
+Its Aegis Ashore is not a pure defense system and does n't target a certain country , but the whole Asia_Pacific region . ''
+not	4	neg_cue
+n't	11	neg_cue
+########
+17
+<EOP> .
+########
+18
+Japan 's Cabinet also approved a 235 billion yen extra defense budget for the current fiscal year , of which about 62 billion yen will be spent on missile defense .
+will	24	ps_cue
+########
+19
+<EOP> .
+########
+20
+A third layer of ballistic_missile defense and Japan 's first long_range missiles are on Tokyo 's shopping list .
+########
+21
+<EOP> .
+########
+22
+The government secured 2.16 billion yen to buy Norway 's Joint Strike Missile with a range of about 500 kilometers .
+########
+23
+It also decided to spend 30 million yen for research on introducing Lockheed Martin Corp 's Joint Air_to_Surface Standoff Missile and Long Range Anti_Ship Missile , each of which has a range of 900 km , Kyodo News said .
+########
+24
+<EOP> .
+########
+25
+The missiles potentially have the range to reach the DPRK 's missile launchers or other targets when fired from fighter jets flying near Japan , a controversial capability for the country , whose war_renouncing Constitution places restrictions on its defense forces , Kyodo said .
+potentially	2	ps_cue
+or	13	ps_cue
+########
+26
+<EOP> .
+########
+27
+About 730 million yen was set aside to prepare for the introduction of the US land_based Aegis missile defense system , which will add to the existing missile shield involving Aegis destroyers equipped with Standard Missile_3 interceptors and the Patriot Advanced Capability_3 interceptors deployed on the ground , it said .
+will	22	ps_cue
+########
+28
+<EOP> .
+########
+29
+The newspaper Mainichi Shimbun reported that Japan 's Defense Ministry has selected a few candidate sites for the deployment of Aegis Ashore systems .
+########
+30
+<EOP> .
+########
+31
+Asahi Shimbun said acquiring the long_range missiles was the first major step toward building up the country 's offensive capability to attack enemy missile bases , exceeding the bounds of Japan 's defense_only policy .
+########
+32
+<EOP> .
+########
+33
+The United States has escalated its arms exports to its allies , Asahi Shimbun said , and there is no guarantee that once Japan oversteps the bounds of its defense_only policy , Washington will not relent in its push for Japan to buy more costly weapons .
+no	19	neg_cue
+will	33	ps_cue
+not	34	neg_cue
+########
+34
+<EOP> .
+########
+35
+Contact the writer at caihong@chinadaily.com.cn <EOP> .
+########

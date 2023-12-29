@@ -1,0 +1,119 @@
+Is there any conclusion made from the study
+0
+The chubby , inert pet dog has become a familiar household sight in richer countries .
+########
+1
+And yet there lies a possible boon to the out_of_shape among us .
+yet	1	neg_cue
+possible	5	ps_cue
+########
+2
+A recent study suggests that being told one 's pet is dangerously overweight might provide the impetus that gets an owner moving .
+study	2	PS+	PS+
+suggests	3	ps_cue
+might	13	ps_cue
+########
+3
+<EOP> .
+########
+4
+It might seem that having a pet dog would result in considerable physical activity , and that 's true , broadly speaking .
+It	0	PS+	PS+
+might	1	ps_cue
+seem	2	ps_cue
+would	8	ps_cue
+########
+5
+A 2013 review of studies related to dog ownership concluded that as a group , dog owners spend almost an hour more per week walking than people without dogs .
+without	27	neg_cue
+########
+6
+Even so , a survey from 2008 conducted in Australia found that nearly a quarter of all dog owners reported never walking their pets .
+never	20	neg_cue
+########
+7
+This population of dog owners , studies show , actually engage in less physical activity each week than people without a dog .
+without	19	neg_cue
+########
+8
+<EOP> .
+########
+9
+A majority of dog owners , of course , are deeply attached to their pets , whether they walk them or not .
+whether	16	ps_cue
+or	20	ps_cue
+not	21	neg_cue
+########
+10
+That bond prompted a group of scientists , veterinarians and physicians at the Uniformed Services University of Health Sciences , in Bethesda , Md. , and other institutions to consider whether people might be willing to undertake a health_and_fitness regimen targeted at their dog , even if they had little enthusiasm for such a program for themselves .
+consider	29	ps_cue
+whether	30	ps_cue
+might	32	ps_cue
+willing	34	ps_cue
+little	49	neg_cue
+########
+11
+<EOP> .
+########
+12
+The researchers recruited 32 dog owners who visited a veterinary clinic in Maryland .
+########
+13
+Their dogs varied widely in age , breed and size , but all were overweight or obese and , by and large , sedentary .
+or	15	ps_cue
+########
+14
+So , too , were most of their owners LRB although the only criterion for their participation was that their dogs be rotund RRB .
+########
+15
+Half the volunteers were told by a veterinarian to watch their dog 's nutrition and monitor its health .
+########
+16
+The rest were told that their dog was overweight and needed more exercise .
+########
+17
+These owners were given specific exercise prescriptions , which generally advised walking the dog for at least 30 minutes every day .
+########
+18
+<EOP> .
+########
+19
+Three months later , the volunteers and their dogs were re_evaluated .
+########
+20
+Both owners and pets in the dog_walking group had lost weight .
+########
+21
+But more interesting , those who had been told only that their pets were worryingly heavy also began exercising their pets and themselves .
+########
+22
+They reported walking far more often than they did before they got health warnings for their dogs , and both they and their pets were thinner .
+########
+23
+<EOP> .
+########
+24
+The upshot , says Capt. Mark B. Stephens M.D. , a professor of family medicine at Uniformed Services University and a co_author of the study -- it was published in September in the journal Anthrozo?s -- is that `` love and concern for a dog can be a powerful motivation for exercise . ''
+study	24	CT+	PS+
+love	39	ps_cue
+concern	41	ps_cue
+can	45	ps_cue
+########
+25
+Which is not to say , he adds , that people should adopt a dog as a kind of fitness device .
+not	2	neg_cue
+should	11	ps_cue
+########
+26
+Unlike a treadmill , Marley can not be abandoned in the basement when you tire of working out .
+can	5	ps_cue
+not	6	neg_cue
+########
+27
+On the other hand , no device will ever be so happy to see you lace up your walking shoes .
+no	5	neg_cue
+will	7	ps_cue
+########
+28
+<EOP> .
+########

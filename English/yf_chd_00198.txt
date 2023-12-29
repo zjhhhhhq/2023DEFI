@@ -1,0 +1,130 @@
+Does US quit talks on global migration pact over sovereignty clash 
+0
+US quits talks on global migration pact over sovereignty clash <EOP> .
+quits	1	CT+	CT+
+########
+1
+2017_12_04 02:30 <EOP> .
+########
+2
+null <EOP> .
+########
+3
+<EOP> .
+########
+4
+US Ambassador to the United Nations Nikki Haley .
+########
+5
+LRB File photo_Agencies RRB <EOP> .
+########
+6
+UNITED NATIONS _ The United States has quit negotiations on a voluntary pact to deal with migration because the global approach to the issue was `` simply not compatible with US sovereignty , '' said US Ambassador to the United Nations Nikki Haley .
+quit	7	CT+	CT+
+quit	7	neg_cue
+not	27	neg_cue
+########
+7
+<EOP> .
+########
+8
+In a statement released late on Saturday , the US mission to the UN noted that President Donald Trump made the decision .
+########
+9
+<EOP> .
+########
+10
+`` No country has done more than the United States , and our generosity will continue , '' said Haley , whose parents are immigrants from India .
+No	1	neg_cue
+will	14	ps_cue
+########
+11
+`` But our decisions on immigration policies must always be made by Americans and Americans alone . ''
+########
+12
+<EOP> .
+########
+13
+`` We will decide how best to control our borders and who will be allowed to enter our country , '' she said .
+will	2	ps_cue
+will	12	ps_cue
+########
+14
+<EOP> .
+########
+15
+Trump campaigned last year on a promise to deport large numbers of immigrants and build a wall on the US border with Mexico to help tackle illegal immigration and crime in the United States .
+########
+16
+Since he took office in January , he has also moved to ban US entry by people from select Muslim countries .
+ban	12	neg_cue
+########
+17
+<EOP> .
+########
+18
+With a record 21.3 million refugees globally , the 193_member UN General Assembly adopted a political declaration in September last year in which they also agreed to spend two years negotiating the pact on safe , orderly and regular migration .
+########
+19
+<EOP> .
+########
+20
+Former US President Barack Obama 's administration backed the resolution , known as the New York Declaration , which also asked UN High Commissioner for Refugees Zeid Ra'ad al_Hussein to propose a global compact on refugees for adoption in 2018 .
+########
+21
+<EOP> .
+########
+22
+`` The global approach in the New York Declaration is simply not compatible with US sovereignty , '' Haley said .
+not	11	neg_cue
+########
+23
+<EOP> .
+########
+24
+UN Secretary_General Antonio Guterres regretted the US decision , his spokesman said on Sunday , but expressed hope the United States might re_engage in the talks .
+hope	17	ps_cue
+might	21	ps_cue
+########
+25
+<EOP> .
+########
+26
+`` The positive story of migration is clear : it needs to be better told .
+needs	10	ps_cue
+########
+27
+Equally , the challenges it throws up need to be tackled with more determination and greater international coordination , '' UN spokesman Farhan Haq said .
+need	7	ps_cue
+########
+28
+<EOP> .
+########
+29
+Three days of preparatory talks begin in Mexico on Monday ahead of the start of formal negotiations in February over the non_binding pact .
+########
+30
+<EOP> .
+########
+31
+Haley 's predecessor Samantha Power mocked the US move .
+########
+32
+<EOP> .
+########
+33
+`` How to further insult your Mexican neighbor , turn your back on humanity 's most desperate , and make America irrelevant on a hugely destabilizing global crisis in one easy step , '' she posted on Twitter .
+########
+34
+<EOP> .
+########
+35
+While former UN Deputy Secretary_General Jan Eliasson said on Twitter : `` On migration , national solutions logically do not exist ... Going it alone is a lose_lose proposition . ''
+not	19	neg_cue
+########
+36
+<EOP> .
+########
+37
+Agencies <EOP> .
+########

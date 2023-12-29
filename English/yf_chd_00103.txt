@@ -1,0 +1,77 @@
+Do China 's chances call good for Lasker Prize
+0
+China 's chances called good for Lasker Prize <EOP> .
+called	3	CT+	PS+
+########
+1
+2017_12_19 11:07 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+One of the most influential scientists in the United States says China might be about to see its second winner of the Lasker Prize , a top award whose recipients often go on to become Nobel laureates .
+be	13	PS+	PS+
+might	12	ps_cue
+########
+4
+<EOP> .
+########
+5
+Bruce Stillman , who sits on the 22_member prize jury , indicated in an exclusive interview that he thinks a top Beijing scientist in biomedical science will win the award in the near future .
+will	26	ps_cue
+########
+6
+<EOP> .
+########
+7
+He would not reveal a name , only that `` the scientist was trained in the US and became famous in the US and then moved back to China '' .
+would	1	ps_cue
+not	2	neg_cue
+########
+8
+<EOP> .
+########
+9
+Tu Youyou , the Chinese researcher and herbologist , won the Lasker in 2011 for her discovery of the anti_malarial medication artemisinin .
+########
+10
+She received the Nobel Prize in physiology or medicine four years later .
+or	7	ps_cue
+########
+11
+<EOP> .
+########
+12
+The Lasker has been awarded annually since 1945 to scientists making major contributions in medical science , and Stillman has been on the jury since 1998 .
+########
+13
+<EOP> .
+########
+14
+According to Nature , the international science journal , 87 percent of Lasker winners have gone on to win a Nobel .
+########
+15
+<EOP> .
+########
+16
+Stillman , who visited Beijing for a conference on Dec 4 , is director of the Cold Spring Harbor Laboratory in New York , a leading not_for_profit biomedical science research institution .
+########
+17
+<EOP> .
+########
+18
+China has a number of fantastic scientists , particularly in Beijing , he said , and all of them once held major positions in US research science institutes .
+########
+19
+<EOP> .
+########
+20
+He said China is likely to become an international science hub luring top scientists worldwide , like the postwar US .
+become	6	PS+	PS+
+likely	4	ps_cue
+like	16	ps_cue
+########
+21
+<EOP> .
+########

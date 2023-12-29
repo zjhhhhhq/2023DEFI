@@ -1,0 +1,42 @@
+Has the fire been put under control in London airport
+0
+Fire under control in London airport <EOP> .
+control	2	CT+	CT+
+########
+1
+2017_08_16 20:21 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+LONDON _ A fire has been put under control after an explosion took place at an aircraft hangar on the north side of London Southend Airport in Essex on Wednesday , fire fighters and rescue staff said here .
+control	8	CT+	CT+
+########
+4
+<EOP> .
+########
+5
+Normal operations are still going on at the airport , they said .
+########
+6
+<EOP> .
+########
+7
+Earlier on Wednesday , a column of black smoke was seen rising from the scene in the wake of the blast .
+########
+8
+No aircraft was at the hangar at the time , they said .
+No	0	neg_cue
+########
+9
+<EOP> .
+########
+10
+Local media reported the explosion happened near the airport , but gave no further details .
+gave	11	neg_cue
+no	12	neg_cue
+########
+11
+<EOP> .
+########

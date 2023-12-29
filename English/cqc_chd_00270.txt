@@ -1,0 +1,189 @@
+Is the Belt and Road Initiative one of the most important initiatives on the plant
+0
+Belt and Road Initiative 's ` new vision ' <EOP> .
+########
+1
+2017_11_26 15:41 <EOP> .
+########
+2
+China Daily Europe <EOP> .
+########
+3
+Combined result of technological trends is the possibility of a radically different infrastructure _ one that can be globally sustainable <EOP> .
+possibility	7	ps_cue
+can	16	ps_cue
+########
+4
+The Belt and Road Initiative is one of the most important initiatives on the planet right now .
+Road	3	PS+	PS+
+########
+5
+Not because of its economic and geographical magnitude , but because of its potential to create something new and much needed .
+potential	13	ps_cue
+Not	0	neg_cue
+########
+6
+The initiative has the potential to take a significant step toward a 21st_century sustainable network that connects all countries in a way that benefits everyone on more equal terms .
+potential	4	ps_cue
+########
+7
+<EOP> .
+########
+8
+In order for Belt and Road to be the first major infrastructure project to integrate a digital sustainability perspective for the 21st century , and actually deliver on the ground , global collaboration is needed .
+Road	5	CT+	PS+
+########
+9
+<EOP> .
+########
+10
+At China 's 19th National Congress of the Communist Party of China last month , the Belt and Road Initiative was included in the Party 's Constitution .
+########
+11
+There now can be no doubt about the long_term commitment on the Chinese side .
+can	2	ps_cue
+no	4	neg_cue
+########
+12
+Minor delays and setbacks are therefore less important , but partnerships that support the initiative 's ambitious agenda , especially the sustainability and digitalization agenda , are needed .
+########
+13
+Here , the European Union could play an important role , especially in central and eastern areas where significant investment will occur .
+could	5	ps_cue
+will	20	ps_cue
+########
+14
+<EOP> .
+########
+15
+At the Belt and Road Forum for International Cooperation in Beijing in May , President Xi Jinping summarized the sustainability and digitalization aspect of Belt and Road in the following way : <EOP> .
+Road	4	CT+	PS+
+May	12	ps_cue
+########
+16
+For sustainability , `` we should pursue the new vision of green development and a way of life and work that is green , low_carbon , circular and sustainable .
+should	5	ps_cue
+########
+17
+Efforts should be made to strengthen cooperation in ecological and environmental protection and build a sound ecosystem so as to realize the goals set by the LRB United Nations ' RRB 2030 Agenda for Sustainable Development . ''
+should	1	ps_cue
+########
+18
+<EOP> .
+########
+19
+For digitalization , he said , `` we should pursue innovation_driven development and intensify cooperation in frontier areas such as digital economy , artificial intelligence , nanotechnology and quantum computing , and advance the development of big data , cloud computing and smart cities so as to turn them into a digital silk road of the 21st century . ''
+should	8	ps_cue
+########
+20
+<EOP> .
+########
+21
+An infrastructure project with such an approach to sustainability and digitalization is very different from what we see today around the world , including in the EU and China .
+########
+22
+<EOP> .
+########
+23
+In the same way as we can not any longer only think of paper books in a world with e_books , or CDs in a world where it is possible to stream music , we can not think of roads , bridges and tunnels only as physical constructions .
+can	6	ps_cue
+not	7	neg_cue
+or	21	ps_cue
+possible	29	ps_cue
+can	35	ps_cue
+not	36	neg_cue
+########
+24
+We need to include all_new sustainable ways that can provide the service the old infrastructure used to provide .
+need	1	ps_cue
+can	8	ps_cue
+########
+25
+<EOP> .
+########
+26
+Today , people can have meetings virtually and work remotely , and we are just in the beginning of a revolution with additive manufacturing .
+can	3	ps_cue
+########
+27
+Rapid technological development in key areas allows goods and people to move in new ways , from drones to ultra_high_speed trains .
+########
+28
+The combined result of trends like these is the possibility of a radically different infrastructure , one that can be globally sustainable .
+like	5	ps_cue
+possibility	9	ps_cue
+can	18	ps_cue
+########
+29
+<EOP> .
+########
+30
+We must ask what goods must move physically , what can be produced more efficiently locally , what can be dematerialized , and what can use new smart means of transportation , in order to ensure global sustainability and fair economic development .
+can	10	ps_cue
+can	18	ps_cue
+can	24	ps_cue
+########
+31
+<EOP> .
+########
+32
+Further , the physical infrastructure must merge with the digital .
+########
+33
+A smart resource_efficient and fossil_free physical infrastructure can even be a net producer of renewable energy in many cases .
+can	7	ps_cue
+########
+34
+<EOP> .
+########
+35
+For international collaboration to happen , it is important that the vision and goals of the Belt and Road Initiative are communicated ; a dedicated webpage would be appropriate .
+would	26	ps_cue
+########
+36
+On this webpage , different aspects , including digitalization and sustainability , but also peace , prosperity and innovation , could be reported in close to real time .
+could	20	ps_cue
+########
+37
+This would allow interested stakeholders to help improve and access relevant information .
+would	1	ps_cue
+########
+38
+<EOP> .
+########
+39
+A global sustainability filter should also be developed and implemented in all strategic projects .
+should	4	ps_cue
+########
+40
+Such a filter would increase the probability that all infrastructure projects , not just Belt and Road projects , support a sustainable global economy in 2100 .
+would	3	ps_cue
+not	12	neg_cue
+########
+41
+This future world is likely to include at least 11 billion people , must emit no greenhouse gas emissions , and must be based on a sustainable and equitable use of natural resources .
+likely	4	ps_cue
+no	15	neg_cue
+########
+42
+<EOP> .
+########
+43
+If the Belt and Road Initiative contributes to such global sustainability , it will be a physical and digital road toward an ecological civilization .
+Road	4	CT+	PS+
+contributes	6	ps_cue
+will	13	ps_cue
+########
+44
+<EOP> .
+########
+45
+The author is founder of Sweden_based consultancy 21st Century Frontiers .
+########
+46
+The views do not necessarily reflect those of China Daily .
+not	3	neg_cue
+########
+47
+<EOP> .
+########

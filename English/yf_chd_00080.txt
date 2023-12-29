@@ -1,0 +1,171 @@
+Does Mexico eye market for avocados
+0
+Mexico eyes market for avocados <EOP> .
+avocados	4	CT+	CT+
+########
+1
+2017_12_25 09:11 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+China 's middle class has gained taste for green , protein_rich fruit <EOP> .
+########
+4
+MEXICO CITY _ From tequila to avocados , the state of Jalisco in central Mexico is seeing its exports to China increase , largely thanks to the Asian nation 's expanding middle class .
+avocados	6	CT+	CT+
+########
+5
+<EOP> .
+########
+6
+Still , exports of avocados to China are somewhere between the thoughts of some local officials and a development blueprint .
+avocados	4	CT+	CT+
+########
+7
+<EOP> .
+########
+8
+On Singles ' Day , the shopping festival on Nov 11 , consumers bought nearly a million avocados through Tmall , part of e_commerce giant Alibaba .
+avocados	17	CT+	CT+
+########
+9
+<EOP> .
+########
+10
+Such a scenario has led some Mexican officials to believe avocados _ the bright_green , protein_rich fruit that Chinese consumers have become fond of _ will be another export with notable potential for growth .
+avocados	10	CT+	CT+
+will	25	ps_cue
+potential	31	ps_cue
+########
+11
+<EOP> .
+########
+12
+Ignacio Gomez , a spokesman for Jalisco 's Association of Export Avocado Producers , said he is confident his state 's produce will be available to Chinese consumers soon .
+will	22	ps_cue
+########
+13
+<EOP> .
+########
+14
+Right now in Mexico , only Jalisco 's neighboring state of Michoacan ships avocados to China .
+avocados	13	CT+	CT+
+########
+15
+<EOP> .
+########
+16
+`` It is a market that is responding very well , and the trend indicates that in a few years China will be a very , very important market for Mexican avocados , '' Gomez said .
+avocados	31	CT+	CT+
+will	21	ps_cue
+########
+17
+<EOP> .
+########
+18
+Jalisco exports 80,000 metric tons of avocado to countries in Europe , Central and South America , and the Middle East , as well as Canada and Japan .
+avocado	6	CT+	CT+
+########
+19
+<EOP> .
+########
+20
+One of Mexico 's breadbasket states , Jalisco started exporting tequila to China five years ago .
+########
+21
+In June , the state made its first shipment of cranberries to the Far East , sending 420 cases .
+########
+22
+<EOP> .
+########
+23
+`` We have to continue to strengthen the relationship with China , which is exceptional , '' said Hector Padilla , secretary of rural development in Jalisco .
+########
+24
+<EOP> .
+########
+25
+`` It 's a market that is moving forward , that is growing , that is diversifying , and that we are cultivating so that volumes keep increasing . ''
+forward	8	ps_cue
+forward	8	neg_cue
+########
+26
+<EOP> .
+########
+27
+He said producers of Jalisco 's other well_known fruits , such as berries , mangoes and limes , also see China 's market as a great business booster .
+########
+28
+<EOP> .
+########
+29
+`` The space LRB for growth RRB in China is huge .
+########
+30
+They have enormous purchasing power that is growing year by year , '' Padilla said .
+########
+31
+It 's `` just a question of time '' before exports to China take off , he added .
+question	5	ps_cue
+########
+32
+<EOP> .
+########
+33
+`` We are barely in the initial stage of penetrating the Chinese market . ''
+barely	3	neg_cue
+########
+34
+<EOP> .
+########
+35
+Mexico benefited from China 's growing consumer demand this year , with its exports to the Asian giant increasing 28 percent , the highest rate among its trading partners , and far higher than the 9 percent growth in trade it saw with its neighbor to the north , the United States , according to the Inter_American Development Bank .
+########
+36
+<EOP> .
+########
+37
+Government data show trade exchanges between Mexico and China grew a whopping 185 percent from 2006 to 2016 , rising from $ 26 billion to $ 74 billion .
+########
+38
+<EOP> .
+########
+39
+Direct investment <EOP> .
+########
+40
+In recent years , Mexico has also received more than $ 74 million in foreign direct investment from China .
+########
+41
+<EOP> .
+########
+42
+Mexico 's produce sector is looking to diversify its exports given the climate of uncertainty affecting the two_decade North American Free Trade Agreement between Canada , the US and Mexico , which has come since US President Donald Trump took office .
+########
+43
+<EOP> .
+########
+44
+China 's Latin American purchases were the most dynamic this year , and centered on basic products that are seeing higher prices compared with previous years , according to economist Paolo Giordano , an IDB expert in trade and integration .
+########
+45
+<EOP> .
+########
+46
+After four years of negative growth , Latin America saw a 13 percent increase in exports in 2017 , driven in large part by increased demand from China , according to IDB .
+negative	4	neg_cue
+########
+47
+<EOP> .
+########
+48
+The region 's small and medium_sized businesses are also looking to break into Asian markets , especially China , said Alejandro Salcedo , head of the Mexican chapter of the Latin American Association of Micro , Small and Medium_Sized Businesses .
+########
+49
+<EOP> .
+########
+50
+Xinhua <EOP> .
+########

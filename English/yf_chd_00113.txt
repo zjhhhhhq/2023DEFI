@@ -1,0 +1,149 @@
+Does The Peacemaker from Nanking end end International Emmy Award_winning
+0
+Honoring the Nanjing peacemaker <EOP> .
+########
+1
+2017_12_16 00:49 <EOP> .
+########
+2
+China Daily USA <EOP> .
+########
+3
+`` The best way to honor a peacemaker is to be one . ''
+########
+4
+<EOP> .
+########
+5
+So ends a recent International Emmy Award_winning one_minute film called the The Peacemaker from Nanking .
+film	8	CT+	CT+
+########
+6
+<EOP> .
+########
+7
+Filmmaker Luo Yiyun , 26 , a Nanjing native and graduate student at Columbia University , produced and directed the film this year , which marks the 80th anniversary of the Nanjing Massacre .
+########
+8
+<EOP> .
+########
+9
+She said she made the film to honor US missionary Wilhelmina `` Minnie '' Vautrin , who protected countless women and children from rape and murder .
+film	5	CT+	CT+
+########
+10
+<EOP> .
+########
+11
+Luo 's grandmother was one of the Nanjing Massacre survivors saved by Vautrin , or `` Miss Hua '' , as she was called by locals .
+or	14	ps_cue
+########
+12
+<EOP> .
+########
+13
+When the Japanese Army invaded Nanjing in 1937 , Vautrin was the acting dean of Ginling Women 's College , which then served as a haven for refugees , harboring up to 10,000 women and children in buildings designed to accommodate 200 to 300 people .
+########
+14
+<EOP> .
+########
+15
+`` Vautrin 's sanctuary saved my grandma , 6 years old then , and many other lives during the rape of Nanjing , '' said Luo , whose grandmother told her the story of Vautrin when she was a child .
+########
+16
+<EOP> .
+########
+17
+`` On her way to the sanctuary , my grandma saw countless bodies by the roadside .
+########
+18
+One of them was still moving .
+########
+19
+It turned out to be a stray cat eating the human guts inside the body . ''
+########
+20
+<EOP> .
+########
+21
+`` That 's so cruel for a kid to see , '' said Luo , who graduated from the High School Affiliated with Nanjing Normal University , which is built on the grounds of the former Ginling Women 's College .
+cruel	4	neg_cue
+########
+22
+<EOP> .
+########
+23
+More than 300,000 Chinese were killed by Japanese invaders during a slaughter that lasted more than 40 days .
+########
+24
+Tens of thousands of women were raped .
+########
+25
+<EOP> .
+########
+26
+Vautrin risked her life challenging the Japanese authorities and protecting the civilians sheltered at her college with the proclamation : `` Whoever wants to go through this gate will have to do so over my dead body . ''
+wants	22	ps_cue
+will	28	ps_cue
+########
+27
+<EOP> .
+########
+28
+When Luo learned that the theme of the International Emmy 's 2017 JCS International Young Creatives Award was `` women peacemakers '' , she immediately thought of her childhood heroine Miss Hua .
+########
+29
+<EOP> .
+########
+30
+`` I grew up with the stories of people who fearlessly helped Nanjing refugees during WWII , '' Luo said .
+########
+31
+`` Miss Hua is the real woman peacemaker to me . ''
+########
+32
+<EOP> .
+########
+33
+Luo started to make the film in August using the most basic equipment _ a smartphone and a selfie stick .
+film	5	CT+	CT+
+########
+34
+She edited the film into 20 versions and showed them to her friends and classmates .
+film	3	CT+	CT+
+########
+35
+<EOP> .
+########
+36
+`` Some of my Chinese audience were not familiar with Miss Hua and some of my Western audience did n't even know about Nanjing , '' she said .
+not	7	neg_cue
+n't	19	neg_cue
+########
+37
+<EOP> .
+########
+38
+The Peacemaker from Nanking was finally selected from 200 films from all over the world and was among the final three that won awards presented at the 2017 International Emmy World Television Festival in November .
+Peacemaker	1	CT+	CT+
+########
+39
+<EOP> .
+########
+40
+`` When talking about WWII victims , people always think of the Holocaust and Jewish camps , because there are so many great films like Schindler 's List and The Boy in the Striped Pajamas , '' Luo said .
+like	24	ps_cue
+########
+41
+<EOP> .
+########
+42
+`` But we need more people to know about what happened in Nanjing . ''
+need	3	ps_cue
+########
+43
+<EOP> .
+########
+44
+judyzhu@chinadailyusa.com <EOP> .
+########

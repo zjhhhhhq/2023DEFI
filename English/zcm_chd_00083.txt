@@ -1,0 +1,116 @@
+Is Giant panda Mei Xiang pregnant
+0
+All eyes on panda : Is she pregnant ?
+pregnant	7	Uu	PS+
+########
+1
+<EOP> .
+########
+2
+2017_09_01 10:36 <EOP> .
+########
+3
+chinadaily.com.cn <EOP> .
+########
+4
+<EOP> .
+########
+5
+Giant panda Mei Xiang rests in her enclosure August 24 , 2016 at the National Zoo in Washington , DC .
+########
+6
+LRB Photo_VCG RRB <EOP> .
+########
+7
+The National Zoo will close its panda house on Friday to provide the best chance for a successful giant panda cub birth as 19_year_old giant panda Mei Xiang begins the last stage of her pregnancy LRB or pseudo_pregnancy , whichever the case may be RRB , the zoo announced on Thursday .
+will	3	ps_cue
+or	36	ps_cue
+may	42	ps_cue
+########
+8
+<EOP> .
+########
+9
+Visitors can still see the zoo 's male pandas , Tian Tian and Bei Bei , in their outdoor yards , weather permitting .
+can	1	ps_cue
+########
+10
+<EOP> .
+########
+11
+The indoor pavilion of the David M. Rubenstein Family Giant Panda Habitat , the official name of the panda house , has been closed since Aug 18 to keep things quiet for Mei Xiang .
+########
+12
+<EOP> .
+########
+13
+The zoo said Mei Xiang has been showing behavior commonly associated with pregnancy or pseudo_pregnancy .
+pregnancy	12	CT+	PS+
+or	13	ps_cue
+########
+14
+She was artificially inseminated on May 25 .
+May	5	ps_cue
+########
+15
+<EOP> .
+########
+16
+Mei Xiang , meaning `` beautiful fragrance '' in Chinese , has spent most of her time sleeping , building a nest in her den and eating less .
+########
+17
+<EOP> .
+########
+18
+On Aug 25 , the zoo said if Mei Xiang was pregnant , the panda team wants her to give birth indoors where they can quickly provide help if needed .
+wants	16	ps_cue
+can	24	ps_cue
+########
+19
+<EOP> .
+########
+20
+Veterinarians are continuing to track changes in her uterus with weekly ultrasounds , but it is likely still too early to see a fetus if Mei Xiang is pregnant .
+pregnant	28	Uu	PS+
+likely	16	ps_cue
+########
+21
+The only way to definitely determine if a panda is actually pregnant is to see a fetus on an ultrasound , according to the zoo .
+########
+22
+<EOP> .
+########
+23
+A newborn giant panda cub is tiny , blind and pink with sparse white hair .
+########
+24
+The average weight is 100 grams , or 3.5 ounces .
+or	7	ps_cue
+########
+25
+<EOP> .
+########
+26
+Mei Xiang , who weighs 230 pounds , was born on July 22 , 1998 at the China Conservation and Research Center for the Giant Pandas in Wolong , Sichuan province .
+########
+27
+<EOP> .
+########
+28
+She has given birth to six cubs at the National Zoo , all fathered by Tian Tian , a male panda who arrived at the National Zoo with Mei Xiang in 2000 .
+########
+29
+Only three of the cubs have survived : Tai Shan , a male , born on July 9 , 2005 and moved to China on Feb 4 , 2010 to join the breeding program under an agreement between China and the US ; Bao Bao , born on Aug 23 , 2013 and moved to China last February ; and Bei Bei , the current male cub at the zoo , who was born on Aug 22 , 2015 .
+########
+30
+<EOP> .
+########
+31
+The panda house had two birthday celebrations over the past 10 days when Bei Bei turned two on Aug 22 and Tian Tian turned 20 on Aug 27 .
+########
+32
+Both got panda_friendly frozen cakes made by the zoo staff .
+########
+33
+<EOP> .
+########

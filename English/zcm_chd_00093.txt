@@ -1,0 +1,70 @@
+Did China and Chile issue a joint declaration of cooperation in promoting sustainable development of energy
+0
+China , Chile to promote sustainable energy <EOP> .
+########
+1
+2017_08_29 21:06 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+China and Chile issued a joint declaration of cooperation in promoting sustainable development of energy and boosting cross_border power grid connectivity on Tuesday .
+promoting	10	CT+	CT+
+########
+4
+<EOP> .
+########
+5
+The move was to address the challenge of merging environmental and economic goals , according to the statement co_released by Chile 's Ministry of Energy and China_led Global Energy Interconnection Development and Cooperation Organization LRB GEIDCO RRB .
+########
+6
+<EOP> .
+########
+7
+In the declaration , the two sides agreed to share their know_how and technical capacity to conduct research on nationwide and cross_regional power grid networks .
+########
+8
+<EOP> .
+########
+9
+Liu Zhenya , chairman of both GEIDCO and the China Electricity Council , called on the two parties to strengthen the cooperation to make global energy interconnection a reality in Chile .
+########
+10
+`` The grid interconnection would help meet Chile 's domestic power demand , '' Liu said .
+help	5	CT+	CT+
+would	4	ps_cue
+########
+11
+<EOP> .
+########
+12
+Global energy interconnection is a vision to form a massive global electricity grid powered by renewable sources .
+########
+13
+<EOP> .
+########
+14
+It is a globally interconnected smart grid with ultra_high voltage grids as its backbone .
+########
+15
+It also serves as an infrastructure platform to develop , transmit and consume clean energy on a massive scale worldwide .
+########
+16
+<EOP> .
+########
+17
+In a speech , Chile 's former president Eduardo Frei Ruiz_Tagle , also the ambassador extraordinary and plenipotentiary for Asia , underscored the necessities of Sino_Chile collaboration in energy .
+########
+18
+<EOP> .
+########
+19
+He said electricity interconnection could not only promote the use of renewable energy , but also strengthen energy security and ensure energy diversity .
+promote	7	CT+	CT+
+could	4	ps_cue
+not	5	neg_cue
+########
+20
+<EOP> .
+########

@@ -1,0 +1,78 @@
+Will Russia hold its next presidential election 
+0
+Putin says to run in Russia 's 2018 presidential election <EOP> .
+########
+1
+2017_12_06 23:33 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+MOSCOW _ Russian President Vladimir Putin announced Wednesday that he would seek a new term in the presidential election next year .
+election	18	PS+	PS+
+would	10	ps_cue
+########
+4
+<EOP> .
+########
+5
+`` I will stand as a candidate for the post of president of the Russian Federation , '' Putin was quoted by RIA Novosti news agency as saying during a meeting with employees of a car_making plant in the city of Nizhny Novgorod .
+will	2	ps_cue
+########
+6
+<EOP> .
+########
+7
+Russia is scheduled to hold its next presidential election on March 18 , 2018 .
+election	8	CT+	PS+
+scheduled	2	ps_cue
+########
+8
+Putin is largely expected to win by a landslide .
+expected	3	ps_cue
+########
+9
+<EOP> .
+########
+10
+Putin was first elected as president of Russia in 2000 and re_electedS in 2004 .
+########
+11
+From 2008 to 2012 , he served as prime minister .
+########
+12
+In 2012 , he was elected president again .
+elected	5	CT+	PS+
+########
+13
+<EOP> .
+########
+14
+So far , several people have officially declared their intention to join the 2018 presidential race , including Vladimir Zhirinovsky , leader of the Liberal Democratic Party of Russia ; Grigory Yavlinsky , founder of the liberal Yabloko party ; and Maxim Suraikin , head of the Communists of Russia party .
+########
+15
+<EOP> .
+########
+16
+The list also includes TV presenter Ksenia Sobchak , businessman Sergei Polonsky , as well as singer and journalist Ekaterina Gordon .
+########
+17
+<EOP> .
+########
+18
+Opposition leader Alexei Navalny also expects to participate , but according to the Russian Central Electoral Commission , he can not do that because of his previous conviction .
+expects	5	ps_cue
+can	19	ps_cue
+not	20	neg_cue
+########
+19
+<EOP> .
+########
+20
+Gennady Zyuganov , leader of the Communist Party of the Russian Federation , is also expected to join the race .
+expected	15	ps_cue
+########
+21
+<EOP> .
+########

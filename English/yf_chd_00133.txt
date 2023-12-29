@@ -1,0 +1,169 @@
+Does Teen 's philanthropy project win president 's award
+0
+Teen 's philanthropy project wins president 's award <EOP> .
+wins	4	CT+	CT+
+########
+1
+2017_12_14 06:10 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+In the winter of 2014 , eighth_grader Ziyi Wang came across an article of micro lending in Bangladesh .
+########
+4
+He said to himself : Why not bring the idea to poor rural Chinese villages ?
+not	6	neg_cue
+########
+5
+<EOP> .
+########
+6
+Now a 16_year_old student at The King 's Academy in Sunnyvale , California , Wang said the article and a few trips to Bangladesh and Nepal sparked his interest in innovative community philanthropy .
+########
+7
+<EOP> .
+########
+8
+`` We were encouraged to donate money to needy people , but I was thinking if there 's some way to help them create economic value in a sustainable way , '' Wang said .
+encouraged	3	ps_cue
+########
+9
+<EOP> .
+########
+10
+In the winter of 2014 , Wang and four other students set up a group called `` Nano Seed '' to raise money for their philanthropic project .
+raise	21	ps_cue
+########
+11
+<EOP> .
+########
+12
+After research , they found a micro_lending project in Dagouyan village , Tongxin county , in China 's northwest Ningxia Hui autonomous region .
+found	4	CT+	CT+
+########
+13
+<EOP> .
+########
+14
+`` I ca n't forget the moment when we set our eyes on the village and the children there , '' recalled Wang .
+n't	3	neg_cue
+########
+15
+`` It 's already 2014 , but people still used kerosene stoves from decades ago .
+########
+16
+I never imagined the existence of such a poor village . ''
+never	1	neg_cue
+########
+17
+<EOP> .
+########
+18
+The group of students stayed for two weeks , studying the villagers ' livelihoods and interviewing residents about their needs .
+needs	19	ps_cue
+########
+19
+They first met with rejection , but later they won the support from a women 's organization and were accepted by the villagers , Wang said .
+########
+20
+<EOP> .
+########
+21
+`` We found most of the men went to work in cities , and the women left home had few opportunities to make extra money , except working in farmland , '' Wang said .
+opportunities	20	ps_cue
+except	26	neg_cue
+########
+22
+`` The average household income per month was less than 1,000 yuan LRB $ 151 RRB . ''
+########
+23
+<EOP> .
+########
+24
+The soil there is rich in selenium , which makes the village a perfect place to plant some Chinese herbs and produce beef and lamb , he said .
+########
+25
+<EOP> .
+########
+26
+To help the women start up profitable businesses , Nano Seed has donated almost $ 10,000 to the micro_lending project in the past three years .
+########
+27
+Wang has visited the village four times during summer or winter vacations to investigate new economic opportunities .
+or	9	ps_cue
+opportunities	16	ps_cue
+########
+28
+<EOP> .
+########
+29
+Last year , they helped the villagers launch online stores on Taobao , a major online shopping website in China , and WeChat , a popular social networking app , selling native products .
+########
+30
+<EOP> .
+########
+31
+His involvement in the philanthropic work has earned him the President 's Volunteer Service Award in the area of economic opportunity three years in a row from 2015 .
+earned	7	CT+	CT+
+########
+32
+<EOP> .
+########
+33
+The award was launched by the President 's Council on Service and Civic Participation in 2003 .
+launched	3	CT+	CT+
+########
+34
+It recognizes United States citizens and lawfully admitted permanent residents of the United States .
+########
+35
+<EOP> .
+########
+36
+`` I was raised in a wealthy family and lived in the affluent Bay Area .
+########
+37
+But I 'm not only a member of the family , but also a member of the society , '' said Wang .
+not	3	neg_cue
+########
+38
+`` I think it 's a privilege , not an honor , to be able to help those in need . ''
+not	8	neg_cue
+need	19	ps_cue
+########
+39
+<EOP> .
+########
+40
+The Nano Seed is growing from five members into a group of dozens of students from eight high schools .
+########
+41
+`` They reached us through their friends or friends ' friends .
+or	7	ps_cue
+########
+42
+We have new members almost each month , '' Wang said .
+########
+43
+<EOP> .
+########
+44
+There 's an increasing trend of overseas students LRB usually with a Chinese background RRB who come back to China to do volunteer service in backward regions , said Zhuang Zhi , founder and chairman of LoveZone Charity Foundation , in Suzhou , China .
+########
+45
+<EOP> .
+########
+46
+`` Some students find their passion for charity through the volunteer work , and some even make it their career after graduating from university , '' he said .
+########
+47
+`` I think China 's charity is promising with the participation of such students . ''
+########
+48
+<EOP> .
+########
+49
+liazhu@chinadailyusa.com <EOP> .
+########

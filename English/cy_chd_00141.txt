@@ -1,0 +1,48 @@
+Were 176 militants killed in month_long Afghan operations
+0
+176 militants killed in month_long Afghan operations <EOP> .
+operations	6	CT+	CT+
+########
+1
+2017_12_24 15:06 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+KUNDUZ , Afghanistan __ As many as 176 militants loyal to the Taliban group and Islamic State LRB IS RRB terrorist group were killed and 118 other wounded following Afghan forces counter_insurgent operations over the last one month in country 's northern provinces , authorities said Sunday .
+operations	32	CT+	CT+
+########
+4
+<EOP> .
+########
+5
+`` The Afghan National Defense and Security Forces LRB ANDSF RRB launched a series of operation in Faryab , Kunduz , Sari Pul and Baghlan provinces , leaving 176 insurgents dead and 118 other wounded , '' Nasratullah Jamshidi , a press officer of 209 Shaheen Army Corps based in the region , said on his Facebook .
+########
+6
+<EOP> .
+########
+7
+The ANDSF has also arrested 45 insurgents and seized heavy arms and ammunition during the month_long operations , said the official , who made no comment if the security forces sustained life loss .
+operations	16	CT+	CT+
+no	24	neg_cue
+loss	32	neg_cue
+########
+8
+<EOP> .
+########
+9
+The Afghan security forces have beefed up military operations against militants as the Taliban militants and IS fighters are attempting to take territory and consolidate their positions in the mountainous country .
+operations	8	CT+	CT+
+against	9	neg_cue
+########
+10
+<EOP> .
+########
+11
+Taliban militants and IS group fighting government forces in some parts of the northern provinces have yet to comment on the report .
+yet	16	neg_cue
+########
+12
+<EOP> .
+########

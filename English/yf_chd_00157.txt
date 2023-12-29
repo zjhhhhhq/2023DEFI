@@ -1,0 +1,252 @@
+Do US tax cuts raise trade deficit
+0
+US tax cuts could raise trade deficit : experts <EOP> .
+raise	4	CT+	CT+
+could	3	ps_cue
+raise	4	ps_cue
+########
+1
+2017_12_07 23:58 <EOP> .
+########
+2
+China Daily USA <EOP> .
+########
+3
+The pending tax_cut legislation in the US Congress could boost the economy , but it also could increase the US trade deficit with China and other countries , according to some economists .
+increase	17	CT+	CT+
+could	8	ps_cue
+could	16	ps_cue
+########
+4
+<EOP> .
+########
+5
+One goal of the tax cuts , in addition to simplifying the tax brackets for individuals , is to spur growth in the US economy and boost American companies by cutting the corporate income tax rate from 35 to 20 percent .
+########
+6
+<EOP> .
+########
+7
+The House of Representatives LRB on Nov 16 RRB and the Senate LRB on Dec 2 RRB have passed their own tax bills and will work out a final version , which will go to US President Donald Trump to sign into law .
+will	24	ps_cue
+will	32	ps_cue
+########
+8
+<EOP> .
+########
+9
+The tax cuts could increase the US trade deficit by at least $ 1 trillion over 10 years `` and possibly much more '' , by raising the US government budget deficit by the same amount , according to William Overholt , a senior fellow at Harvard 's Asia Center and former director of the RAND Corporation 's Center for Asia Pacific Policy .
+increase	4	CT+	CT+
+could	3	ps_cue
+possibly	20	ps_cue
+########
+10
+<EOP> .
+########
+11
+`` Much of the US trade deficit is with China , so unless something else like a trade war happens to affect the Sino_US deficit , this deficit will increase quite dramatically , '' he said .
+like	15	ps_cue
+will	28	ps_cue
+########
+12
+`` Interest groups in the US will blame this on China , but any serious economist will acknowledge that it results from the new tax system . ''
+will	6	ps_cue
+will	16	ps_cue
+########
+13
+<EOP> .
+########
+14
+The US trade deficit with China for 2017 through October stood at close to $ 309 billion , according to US Commerce Department data .
+########
+15
+China calculates the data differently and reports a significantly lower deficit between the two countries .
+########
+16
+<EOP> .
+########
+17
+`` On balance , the Republican tax plan will boost US economic activity and strengthen the value of the dollar , worsening the US trade deficit , '' said Sung Won Sohn , professor of economics at California State University , Channel Islands .
+plan	7	ps_cue
+will	8	ps_cue
+########
+18
+`` As for China , the LRB higher RRB US income effect will mean more imports from China . ''
+will	12	ps_cue
+########
+19
+<EOP> .
+########
+20
+On the investment side , `` to the extent that the dollar appreciates , investments in the US will become more expensive LRB for overseas investors RRB '' , said Sohn , however , `` with stronger economic growth , the US will be a more attractive destination for Chinese investors '' .
+will	18	ps_cue
+will	42	ps_cue
+########
+21
+<EOP> .
+########
+22
+Cornell University economist Steven Kyle also said that the tax cuts would strengthen the US dollar , which in turn would make it even more attractive for the US to import rather than export .
+would	11	ps_cue
+would	20	ps_cue
+rather	31	neg_cue
+########
+23
+<EOP> .
+########
+24
+Although , Kyle said , `` I do n't see the changes in trade being a massive change from what we were likely to see anyway , more of a strengthening of existing trends . ''
+n't	8	neg_cue
+likely	22	ps_cue
+########
+25
+<EOP> .
+########
+26
+The trade deficit will increase because of the stimulation to the US economy , which can increase personal consumption , resulting in more imports from China , according to Gary Hufbauer , a senior fellow at the Peterson Institute for International Economics .
+increase	4	CT+	CT+
+will	3	ps_cue
+can	15	ps_cue
+########
+27
+<EOP> .
+########
+28
+If the US corporate income tax rate of 20 percent goes into effect , it will be below the 25 percent rate in China , which also may encourage Chinese investment into the US , Hufbauer said .
+will	15	ps_cue
+may	27	ps_cue
+########
+29
+<EOP> .
+########
+30
+US corporations , however , by taking advantage of various deductions , paid an effective marginal tax rate of 18.6 percent in 2012 , according to The Washington Post , which cited a Congressional Budget Office report .
+########
+31
+<EOP> .
+########
+32
+In February , China amended its corporate income tax law for the first time in 10 years ; the corporate income tax rate , however , remained unchanged <EOP> .
+########
+33
+Overtime , there likely will be more Chinese businesses in the US , attracted by lower corporate tax rates , which will spur more competition in US industries , according to Wendy Liu , head of China equity research at Nomura Securities .
+likely	3	ps_cue
+will	4	ps_cue
+will	21	ps_cue
+########
+34
+<EOP> .
+########
+35
+`` Rising competition may help shake up some sleepy and complacent businesses in the US , '' Liu said .
+may	3	ps_cue
+########
+36
+<EOP> .
+########
+37
+However , the debt levels of US and Chinese corporations may play a role in how willing each country is to hoard or invest , according to Liu .
+may	10	ps_cue
+willing	16	ps_cue
+or	22	ps_cue
+########
+38
+<EOP> .
+########
+39
+Earlier this year , the Chinese government enacted stricter rules on capital outflows , slowing the pace of Chinese dealmaking in the US .
+########
+40
+Still , the value of Chinese foreign direct investment in the US stood at $ 136.5 billion through the third quarter , according to the Rhodium Group , which tracks such investments .
+########
+41
+<EOP> .
+########
+42
+Overholt said that tax cuts are one of the `` smaller forces '' affecting Chinese investment in the US and vice versa .
+########
+43
+<EOP> .
+########
+44
+The main reason China invests in the US is to acquire technology and distribution channels , while the objective of US investment in China is to access China 's vast domestic market and burgeoning middle class .
+########
+45
+None of those situations will be affected by the tax changes , Overholt said .
+will	4	ps_cue
+########
+46
+<EOP> .
+########
+47
+Hufbauer said no profits made in China will be significantly taxed going forward , except those subject to a new 20 percent excise tax in the House version of the bill .
+no	2	neg_cue
+will	7	ps_cue
+forward	12	ps_cue
+forward	12	neg_cue
+except	14	neg_cue
+########
+48
+He said thatwould negatively impact the income earned by overseas affiliates of US firms .
+########
+49
+<EOP> .
+########
+50
+`` This is not a small change , but a huge change and may affect some Chinese firms related to US firms , '' Hufbauer said .
+not	3	neg_cue
+may	13	ps_cue
+########
+51
+`` The excise tax provision may increase the tax burden on inputs shipped from China to related US firms .
+may	5	ps_cue
+########
+52
+Other things affect cost besides corporate income taxes , but at the margin , the US will be a more favorable location . ''
+will	16	ps_cue
+########
+53
+<EOP> .
+########
+54
+Both House and Senate bills also contain provisions to persuade American companies not to move profits from the US to tax havens such as Switzerland .
+not	12	neg_cue
+########
+55
+<EOP> .
+########
+56
+The measures seek to `` tax income that is very high relative to the amount of foreign subsidiary assets generating the income '' , Hufbauer said .
+########
+57
+<EOP> .
+########
+58
+These often are assets related to intellectual property , which account for most of the profit margin on a product .
+########
+59
+<EOP> .
+########
+60
+Hufbauer gave Apple 's iPhone as an example : Though the materials to make it may cost only $ 40 , it can sell for $ 1,000 .
+gave	1	neg_cue
+may	15	ps_cue
+can	22	ps_cue
+########
+61
+<EOP> .
+########
+62
+`` The US is trying to tax that high_return income in countries like Switzerland , companies ' favorite places to locate IP , because they do n't tax at high rates and have strong IP protection laws , '' Hufbauer said .
+like	12	ps_cue
+n't	26	neg_cue
+########
+63
+<EOP> .
+########
+64
+aaronhagstrom@chinadailyusa.com <EOP> .
+########
+65
+<EOP> .
+########

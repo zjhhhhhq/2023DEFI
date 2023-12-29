@@ -1,0 +1,125 @@
+Does New York 's law on dancing faces last waltz
+0
+New York 's law on dancing faces last waltz <EOP> .
+dancing	5	CT+	CT+
+########
+1
+2017_10_30 07:45 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+<EOP> .
+########
+4
+NEW YORK _ Dancing is technically illegal in thousands of bars , clubs and restaurants in the city that never sleeps , but New York campaigners are finally in sight of getting the law overturned .
+Dancing	3	CT+	CT+
+never	19	neg_cue
+########
+5
+<EOP> .
+########
+6
+The `` cabaret law , '' passed in 1926 , requires public spaces that sell food and drink to acquire near impossible_to_obtain permits to authorize dancing indoors .
+dancing	25	CT+	CT+
+########
+7
+<EOP> .
+########
+8
+Those without the permit can be fined .
+without	1	neg_cue
+can	4	ps_cue
+########
+9
+Repeat infractions risk bar owners losing their license to sell alcohol , which could in turn lead to bankruptcy .
+could	13	ps_cue
+########
+10
+<EOP> .
+########
+11
+Yet fewer than 100 of New York 's more than 22,000 bars , restaurants and clubs have the elusive permit , which is granted after mountains of Kafkaesque paperwork and jumping through prohibitively expensive hoops that Brooklyn Councilman Rafael Espinal said unfairly discriminate against small business owners .
+elusive	18	ps_cue
+against	43	neg_cue
+########
+12
+<EOP> .
+########
+13
+`` It 's just ridiculous , '' says the indignant 27_year_old Democrat in his basement office .
+########
+14
+He wants to repeal the law , which could be put to a vote in the New York City Council as early as December .
+wants	1	ps_cue
+could	8	ps_cue
+########
+15
+<EOP> .
+########
+16
+`` Let 's finally get this law off the books so that we can go after the real problem , whether it be noise , crime , unsafe conditions , '' he said .
+can	13	ps_cue
+whether	20	ps_cue
+########
+17
+`` Let 's not go after dancing . ''
+dancing	6	CT+	CT+
+not	3	neg_cue
+########
+18
+<EOP> .
+########
+19
+Espinal and pressure groups such as the Dance Liberation Network say the law has been used historically to crack down on neighborhoods with large minority populations such as African Americans , Latinos and the LGBT LRB lesbian , gay , bisexual and transgender RRB community .
+########
+20
+<EOP> .
+########
+21
+Passed initially to assert control during the time of Prohibition , some historians say its true goal was the closure of Harlem jazz bars in the 1930s , '40s and '50s to stop whites and blacks mixing .
+stop	32	neg_cue
+########
+22
+<EOP> .
+########
+23
+In the 1970s and '80s , it was used to close establishments frequented by the LGBT community as it fought for its rights .
+########
+24
+In the 1990s , mayor Rudy Giuliani used the law to get tough on clubs in his fight against crime .
+against	18	neg_cue
+########
+25
+<EOP> .
+########
+26
+Today , it is little used , but detractors say it is invoked as an excuse to shut down premises considered undesirable .
+little	4	neg_cue
+considered	20	ps_cue
+########
+27
+<EOP> .
+########
+28
+The campaign to scrap the cabaret law has won the support of New York Mayor Bill de Blasio , who also acquiesced to another of Espinal 's demands _ create a `` night life mayor '' .
+########
+29
+<EOP> .
+########
+30
+The search is now on for a liaison officer between city hall , residents and New York 's multibillion_dollar night life industry , in order to support a safe night life scene that supports 300,000 jobs and attracts tourists far and wide .
+########
+31
+<EOP> .
+########
+32
+Agence France_presse <EOP> .
+########
+33
+<EOP> .
+########
+34
+LRB China Daily 10_30_2017 page10 RRB <EOP> .
+########

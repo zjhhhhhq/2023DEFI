@@ -1,0 +1,88 @@
+Were 80 killed in Kabul blast 
+0
+At least 80 killed , over 350 wounded in Kabul blast <EOP> .
+killed	3	CT+	CT+
+########
+1
+2017_05_31 14:05 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+<EOP> .
+########
+4
+Smoke rises from the site of a blast in Kabul , Afghanistan May 31 , 2017 .
+May	12	ps_cue
+########
+5
+LRB Photo_Agencies RRB <EOP> .
+########
+6
+Latest : <EOP> .
+########
+7
+At least 80 killed , over 350 wounded in Kabul blast _ Afghan Public Health Ministry <EOP> .
+killed	3	CT+	CT+
+########
+8
+KABUL _ A powerful car bombing rocked a diplomatic district in the central part of Afghanistan 's capital of Kabul on Wednesday morning , leaving casualties and damage , sources and witnesses said .
+########
+9
+<EOP> .
+########
+10
+`` The blast occurred roughly at 08:25 am LRB local time RRB at 17th street of Wazir Akbar Khan locality .
+########
+11
+The huge explosion left tens of people killed and injured and damaged dozen vehicles running and nearby buildings , '' witness Ahmad Fahim told Xinhua .
+killed	7	CT+	CT+
+########
+12
+<EOP> .
+########
+13
+About 60 injured people were admitted to nearby hospitals after the blast , local TV channel Tolo News quoted health officials as saying .
+########
+14
+<EOP> .
+########
+15
+Local TV channels showed the damaged buildings and cars on the blast site .
+########
+16
+<EOP> .
+########
+17
+`` Among other office buildings located at the area are an intelligence agency office , a local TV channel , a mobile phone company as well as German Embassy building , '' the witness said .
+########
+18
+<EOP> .
+########
+19
+Security forces have cordoned off the area for precautionary measures .
+########
+20
+<EOP> .
+########
+21
+Several warning shots were also fired by the security forces .
+########
+22
+<EOP> .
+########
+23
+The blast caused a plume of grey smoke to rise above the scene .
+########
+24
+<EOP> .
+########
+25
+No group has claimed responsibility for the attack yet .
+No	0	neg_cue
+yet	8	neg_cue
+########
+26
+<EOP> .
+########

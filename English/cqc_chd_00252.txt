@@ -1,0 +1,129 @@
+Are there 4 arrested in England on suspicion of plotting attacks 
+0
+4 arrested in England on suspicion of plotting attacks <EOP> .
+attacks	8	PS+	PS+
+suspicion	5	ps_cue
+########
+1
+2017_12_21 10:16 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+British counter_terror police resumed searches of two properties on Wednesday following the arrest of four men on suspicion of planning acts of terrorism on Tuesday .
+terrorism	22	PS+	PS+
+suspicion	17	ps_cue
+planning	19	ps_cue
+########
+4
+<EOP> .
+########
+5
+The men have been detained on suspicion of being concerned in the commission , preparation or instigation of acts of terrorism under Section 41 of the Terrorism Act 2000 .
+suspicion	6	ps_cue
+or	15	ps_cue
+########
+6
+<EOP> .
+########
+7
+Police raided five properties in South Yorkshire and Derbyshire in England .
+########
+8
+<EOP> .
+########
+9
+A 31_year_old man was arrested after the bomb squad cordoned off a street in Chesterfield and nearby residents were evacuated from their homes as searches were carried out .
+########
+10
+<EOP> .
+########
+11
+Three other men aged 22 , 36 and 41 were detained in separate properties in the Burngreave and Meersbrook areas of Sheffield .
+########
+12
+<EOP> .
+########
+13
+An additional address in Stocksbridge in Sheffield was also searched in connection with the arrests .
+########
+14
+<EOP> .
+########
+15
+The four suspects were taken to a police station in West Yorkshire for questioning and remain in custody .
+########
+16
+<EOP> .
+########
+17
+Police said the arrests were `` intelligence_led and preplanned '' as part of an on_going joint operation by Counter Terrorism Policing North East and Britain 's domestic security agency MI5 .
+########
+18
+<EOP> .
+########
+19
+` Utmost concern ' <EOP> .
+concern	2	ps_cue
+########
+20
+Una Jennings , South Yorkshire Police Superintendent for the Sheffield area , said : `` We work very closely with our colleagues at the North East Counter Terrorism Unit and we will ensure we maintain these strong links in order to provide a high level of service and delivery to everyone in our community .
+will	31	ps_cue
+########
+21
+Public safety is our utmost concern . ''
+concern	5	ps_cue
+########
+22
+<EOP> .
+########
+23
+Police added in a statement , `` the public many have heard loud bangs at the time police entered the properties .
+########
+24
+We would like to reassure them that this was part of the method of entry to gain access '' .
+would	1	ps_cue
+like	2	ps_cue
+########
+25
+<EOP> .
+########
+26
+`` We of course understand that police activity of this nature can be unsettling .
+can	11	ps_cue
+########
+27
+However , please be reassured : the arrest we wanted to make has been made , '' Bill McWilliam , Derbyshire Constabulary assistant chief constable said .
+wanted	9	ps_cue
+########
+28
+<EOP> .
+########
+29
+`` Our advice remains to be vigilant , which is not different to our day_to_day advice in the current climate , but continue to go about your business as usual . ''
+not	10	neg_cue
+########
+30
+<EOP> .
+########
+31
+The UK threat level for terrorism remains at severe , meaning an attack is deemed highly likely .
+likely	16	ps_cue
+########
+32
+<EOP> .
+########
+33
+Britain has been hit with five attacks this year , in London and Manchester , and UK security officials said earlier this month that authorities have foiled nine terror plots since March .
+attacks	6	CT+	PS+
+########
+34
+<EOP> .
+########
+35
+boleung@mail.chinadailyuk.com <EOP> .
+########
+36
+<EOP> .
+########

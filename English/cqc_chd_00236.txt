@@ -1,0 +1,50 @@
+Does China voice grave concern over THAAD deployment
+0
+China voices grave concern over THAAD deployment <EOP> .
+concern	3	PS+	PS+
+concern	3	ps_cue
+########
+1
+2017_04_26 18:44 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+BEIJING _ China voiced its grave concern to Washington and Seoul Wednesday after parts of the THAAD anti_missile defence system were moved into the Republic of Korea LRB ROK RRB for deployment .
+concern	6	PS+	PS+
+concern	6	ps_cue
+########
+4
+<EOP> .
+########
+5
+China urged the United States and the ROK to withdraw the equipment and stop the deployment , said Foreign Ministry spokesperson Geng Shuang at the daily press briefing .
+withdraw	9	neg_cue
+stop	13	neg_cue
+########
+6
+<EOP> .
+########
+7
+Geng said , the deployment of THAAD anti_missile defence system will damage strategic balance in the region , worsen the tense situation on the Korean Peninsula , do no good for the denuclearization of the Korean Peninsula , and threaten regional peace and stability .
+will	10	ps_cue
+no	28	neg_cue
+########
+8
+<EOP> .
+########
+9
+The deployment goes against efforts made by all parties to settle the issues through discussion and severely sabotage China 's security and strategic interests , Geng said .
+against	3	neg_cue
+########
+10
+<EOP> .
+########
+11
+`` China will firmly take necessary actions to safeguard its own interests , '' Geng added .
+will	2	ps_cue
+########
+12
+<EOP> .
+########

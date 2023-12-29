@@ -1,0 +1,71 @@
+Does Iran break any promises
+0
+UN nuclear watchdog chief says Iran playing by the rules <EOP> .
+########
+1
+2017_09_12 15:09 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+<EOP> .
+########
+4
+IAEA head Yukiya Amano says Iran has not broken any promises and is playing by the rules set out in a nuclear accord signed with six world powers .
+broken	8	CT-	CT-
+not	7	neg_cue
+########
+5
+LRB Photo_Xinhua RRB <EOP> .
+########
+6
+<EOP> .
+########
+7
+<EOP> .
+########
+8
+TEHRAN _ The UN nuclear watchdog said Monday Iran was playing by the rules set out in a nuclear accord it signed with six world powers , Iran 's local media reported .
+########
+9
+<EOP> .
+########
+10
+Yukiya Amano , the head of the International Atomic Energy Agency LRB IAEA RRB , said Iran had not broken any promises and was not receiving special treatment .
+broken	19	CT-	CT-
+not	18	neg_cue
+not	24	neg_cue
+########
+11
+<EOP> .
+########
+12
+`` The nuclear_related commitments undertaken by Iran under the LRB deal RRB are being implemented , '' he said in the text of a speech to a quarterly meeting of the IAEA 's 35_member Board of Governors .
+########
+13
+<EOP> .
+########
+14
+Most sanctions on Iran were lifted 18 months ago under the deal and , despite overstepping a limit on its stocks of one chemical , it has adhered to the key limitations imposed on it .
+limit	17	neg_cue
+########
+15
+<EOP> .
+########
+16
+In April , Trump ordered a review of whether a suspension of sanctions on Iran related to the nuclear deal , negotiated under President Barack Obama , was in the US national security interest .
+whether	8	ps_cue
+########
+17
+He has called it `` the worst deal ever negotiated . ''
+########
+18
+<EOP> .
+########
+19
+Iran dismissed the US demand as `` merely a dream . ''
+########
+20
+<EOP> .
+########

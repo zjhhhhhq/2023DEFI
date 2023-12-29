@@ -1,0 +1,51 @@
+Will Myanmar set up own satellite system
+0
+Myanmar plans to set up own satellite system <EOP> .
+set	3	PS+	PS+
+plans	1	ps_cue
+########
+1
+2017_04_29 14:41 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+YANGON __ Myanmar is planning to set up a satellite system of its own and to form a steering committee for the purpose , the official Global New Light of Myanmar reported Saturday .
+set	6	PS+	PS+
+planning	4	ps_cue
+########
+4
+<EOP> .
+########
+5
+The steering committee , led by Vice President U Myint Swe , will be designated to set up a Myanmar Space Agency , if required , and work out guidelines for coordinating with the International Telecommunications Union LRB ITU RRB and other international organizations .
+set	16	CT+	PS+
+will	12	ps_cue
+########
+6
+<EOP> .
+########
+7
+The budget for implementing the system will be set in the 2018_2019 fiscal year .
+set	8	CT+	PS+
+will	6	ps_cue
+########
+8
+<EOP> .
+########
+9
+The satellites usage increased in Myanmar as banking , oil and gas , mining and education sectors need to rent satellites separately .
+need	17	ps_cue
+########
+10
+<EOP> .
+########
+11
+As satellite communication is a system that can be used inland , on water , and on islands , it can be used to provide communications service to islands and villages in Myanmar .
+can	7	ps_cue
+can	20	ps_cue
+########
+12
+<EOP> .
+########

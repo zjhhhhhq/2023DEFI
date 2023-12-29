@@ -1,0 +1,161 @@
+Are China and US ` zero_sum rivals '
+0
+China and US ` not zero_sum rivals ' <EOP> .
+rivals	6	CT-	CT-
+not	4	neg_cue
+########
+1
+2017_06_14 07:31 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+<EOP> .
+########
+4
+Cooperation is the only correct choice for the world 's two largest economies , whose relationship is forging ahead in the right direction , charted by their top leaders in the Mar_a_Lago meeting in April , a senior Chinese diplomat said on Monday .
+########
+5
+<EOP> .
+########
+6
+`` China_US relations are in essence mutually beneficial , and the areas that we need to work together on far outweigh what divides us , '' Chinese Consul General in Chicago Hong Lei said at a US_China Think Tank Symposium , which opened on Monday in Des Moines , capital of the US state of Iowa .
+need	14	ps_cue
+########
+7
+<EOP> .
+########
+8
+The symposium brought together more than 20 Chinese and US experts and scholars to exchange views on China_US relations following the Mar_a_Lago meeting , bilateral economic and trade cooperation , sub_national cooperation and the prospects of the relationship between the two countries .
+########
+9
+<EOP> .
+########
+10
+`` We are not zero_sum rivals , but mutually beneficial partners , '' Hong told the participants .
+rivals	5	CT-	CT-
+not	3	neg_cue
+########
+11
+`` Dialogue costs far less than confrontation . ''
+########
+12
+<EOP> .
+########
+13
+Over the past two months after the meeting in the Palm Beach resort in Florida , the two countries have had more `` direct and deeper '' communications in addressing the Korean Peninsula issue , said Cui Liru , former president of China Institutes of Contemporary International Relations .
+########
+14
+<EOP> .
+########
+15
+Also , Cui said he found both cooperation and competition among the two powers have increased in the Asia_Pacific region .
+########
+16
+The key is to effectively manage the competition for peaceful coexistence .
+########
+17
+<EOP> .
+########
+18
+Tao Wenzhao , a senior researcher at the Chinese Academy of Social Sciences , said at the symposium that he expected the Trump administration would reduce the possible influence of the Taiwan question on Sino_US relations .
+expected	20	ps_cue
+would	24	ps_cue
+possible	27	ps_cue
+question	32	ps_cue
+########
+19
+The new administration has reaffirmed its one_China policy .
+########
+20
+<EOP> .
+########
+21
+For example , though US Defense Secretary James Mattis said earlier this month that the US remained committed to providing Taiwan `` the defense articles necessary '' , President Donald Trump can decide when the arms sales will be conducted , and on what scale or how advanced the weapons are , Tao said .
+can	31	ps_cue
+will	37	ps_cue
+or	45	ps_cue
+########
+22
+<EOP> .
+########
+23
+Robert Daly , director of the Kissinger Institute on China and the United States at the Wilson Center , said the Mara_Lago meeting has given both nations a `` timeout '' , but it could be fragile and possibly disrupted in a number of ways .
+could	34	ps_cue
+possibly	38	ps_cue
+########
+24
+<EOP> .
+########
+25
+`` LRB There is a RRB Chinese phrase ` seeking common ground while shelving differences ' _ that is not enough .
+seeking	9	ps_cue
+not	19	neg_cue
+########
+26
+We can not just shelf differences , we must face them very squarely , '' Daly said .
+can	1	ps_cue
+not	2	neg_cue
+########
+27
+<EOP> .
+########
+28
+Zhao Qizheng , former minister of the State Council Information Office , said rapid development of Sino_US economic and trade cooperation is an epitome of Sino_US relations .
+########
+29
+It also helps build up a solid foundation for Sino_US cooperation in other fields .
+helps	2	ps_cue
+########
+30
+<EOP> .
+########
+31
+J. Stapleton Roy , former US ambassador to China , said the China_US relationship is also the testing ground for a number of vitally important issues , including the so_called Thucydides trap .
+########
+32
+<EOP> .
+########
+33
+`` First and foremost is the question of whether a rising power , such as China , inevitably gets into conflict with the established power , which in the present case is the United States , '' he said .
+question	6	ps_cue
+whether	8	ps_cue
+########
+34
+`` This is colloquially known as the Thucydides trap . ''
+########
+35
+<EOP> .
+########
+36
+He said China had rejected this concept , putting forward instead the concept of peaceful development .
+rejected	4	neg_cue
+forward	9	ps_cue
+forward	9	neg_cue
+instead	10	neg_cue
+########
+37
+<EOP> .
+########
+38
+`` This concept is also at the heart of President Xi Jinping 's proposal that China and the US should establish a new type of major power relationship marked by no confrontation , no conflict , mutual respect and win_win cooperation , '' he said at the symposium .
+should	19	ps_cue
+no	30	neg_cue
+no	33	neg_cue
+########
+39
+<EOP> .
+########
+40
+The symposium is jointly sponsored by the World Food Prize Foundation , Chinese Academy of Social Sciences and China Institutes of Contemporary International Relations .
+########
+41
+<EOP> .
+########
+42
+huanxinzhao@chinadailyusa.com <EOP> .
+########
+43
+<EOP> .
+########

@@ -1,0 +1,151 @@
+Does Houston lure Chinese tourists 
+0
+Texas courts growth in Asian visitors <EOP> .
+########
+1
+2017_11_28 07:50 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+<EOP> .
+########
+4
+Houston among cities stepping up efforts to lure Chinese tourists <EOP> .
+tourists	9	CT+	CT+
+########
+5
+HOUSTON , Texas _ He may have retired in 2011 , but Chinese basketball legend Yao Ming is still proving an influential figure .
+may	5	ps_cue
+########
+6
+This time , though , it 's not on the court but in the competitive field of tourism .
+not	7	neg_cue
+########
+7
+<EOP> .
+########
+8
+The former Houston Rockets center has played a huge role in attracting Asian tourists to the city .
+tourists	13	CT+	CT+
+########
+9
+In fact , more Chinese tourists have visited Texas this year than ever before and are soon expected to become the largest group of overseas visitors LRB not including Mexico and Canada RRB to the United States .
+tourists	5	CT+	CT+
+expected	17	ps_cue
+not	27	neg_cue
+########
+10
+<EOP> .
+########
+11
+And cities like Houston are trying to cash in , according to Attract China , a New York_based company that focuses on outbound Chinese tourism to North America .
+like	2	ps_cue
+########
+12
+<EOP> .
+########
+13
+David Becker , CEO of Attract China , said the contribution of Chinese visitors to the US economy is expected to hit $ 85 billion by 2021 .
+expected	19	ps_cue
+########
+14
+<EOP> .
+########
+15
+According to a report released in August by the US Commerce Department , 2.97 million Chinese tourists traveled to the US in 2016 , spending a total of $ 33 billion .
+tourists	16	CT+	CT+
+########
+16
+The figures are up 15 percent and 9 percent , respectively , from 2015 .
+########
+17
+<EOP> .
+########
+18
+The report showed that Chinese visitor arrivals ranked fifth , trailing Canada , Mexico , UK and Japan , and China ranked seventh in terms of total tourism_related spending in the US .
+########
+19
+<EOP> .
+########
+20
+Travel and tourism exports account for 61 percent of all US services exports to China , according to a report compiled by the National Travel and Tourism Office .
+########
+21
+<EOP> .
+########
+22
+Tourism was the largest service export for the US in 2016 , accounting for 33 percent of services exports and 11 percent of exports overall .
+########
+23
+<EOP> .
+########
+24
+With the Christmas holiday season in full swing on the Texas Gulf Coast , businesses are stepping up their efforts to attract customers from Asia .
+########
+25
+<EOP> .
+########
+26
+Local hotels , like the upscale St. Regis Houston , make a special effort to accommodate visitors , with signs written in Chinese characters and green tea in the rooms .
+like	3	ps_cue
+########
+27
+The hotel also provides a toothbrush , comb and razor blades because many hotels in China do provide toiletries for guests .
+########
+28
+<EOP> .
+########
+29
+Chinese tourists recently became the biggest international shoppers at The Galleria , Houston 's premiere upscale indoor mall , and stores are even hiring Mandarin_speaking sales staff to cater to them .
+tourists	1	CT+	CT+
+########
+30
+<EOP> .
+########
+31
+And at Moody Gardens in Galveston , a team from Harbin , the capital of the northeast Heilongjiang province , sculpted 138_kilogram blocks of ice into monkeys , butterflies and orchids to create an exhibit for holiday makers .
+blocks	22	neg_cue
+########
+32
+<EOP> .
+########
+33
+Meanwhile , an increasing number of tourists are taking to the seas on cruise ships , embarking on voyages to Mexico and the Caribbean , and beyond .
+tourists	6	CT+	CT+
+########
+34
+<EOP> .
+########
+35
+As a well_known port city in the US , Galveston plans several new vessels and schedules next year , including the addition of a second Royal Caribbean ship as well as the newest ship in the Carnival Cruise Line fleet .
+plans	10	ps_cue
+########
+36
+<EOP> .
+########
+37
+Cruise volume has grown substantially since 2014 , with Asian passengers representing a growing part of the mix .
+########
+38
+The Port of Galveston embarked 868,923 passengers in 2016 , an increase in embarkations of 35.4 percent over 2014 , according to port officials .
+########
+39
+<EOP> .
+########
+40
+`` Over the past few years , we 've seen increasing numbers from various demographics , '' said Will Wright , spokesman for Galveston Historical Foundation .
+########
+41
+`` Hispanic guests , as well as those from Asian countries , are steadily growing annually . ''
+########
+42
+<EOP> .
+########
+43
+Xinhua <EOP> .
+########
+44
+<EOP> .
+########

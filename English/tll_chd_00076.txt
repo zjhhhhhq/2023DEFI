@@ -1,0 +1,182 @@
+Does French prosecutor open inquiry into Macron minister
+0
+French prosecutor opens inquiry into Macron minister <EOP> .
+opens	2	CT+	CT+
+########
+1
+2017_06_01 19:38 <EOP> .
+########
+2
+null <EOP> .
+########
+3
+<EOP> .
+########
+4
+Newly appointed French Territorial cohesion Minister , Richard Ferrand , arrives May 18 , 2017 to attend the first cabinet meeting at the Elysee Palace in Paris , France .
+May	11	ps_cue
+########
+5
+Picture taken May 18 , 2017 .
+May	2	ps_cue
+########
+6
+LRB Photo_Agencies RRB <EOP> .
+########
+7
+PARIS _ A French public prosecutor on Thursday opened an investigation into the financial dealings of the head of Emmanuel Macron 's successful presidential campaign , throwing a new spotlight on sleaze in a fraught election year .
+opened	8	CT+	CT+
+########
+8
+<EOP> .
+########
+9
+The preliminary probe comes 10 days before a parliamentary vote where Macron hopes his new political party Republic On The Move LRB LREM RRB will win control of the National Assembly and consolidate his grip on power after his own election on May 7 .
+comes	3	CT+	CT+
+hopes	12	ps_cue
+will	24	ps_cue
+May	42	ps_cue
+########
+10
+<EOP> .
+########
+11
+Opinion polls so far show he is likely to achieve that aim , and that the affair surrounding Richard Ferrand , now a minister in the Macron government , is not impacting voting intentions .
+likely	7	ps_cue
+not	30	neg_cue
+########
+12
+<EOP> .
+########
+13
+However , two of Macron 's main opponents were hamstrung by corruption allegations during the bitter battle for the presidency .
+########
+14
+Macron 's government has put political probity front and center in his first two weeks in power , and was due later on Thursday to introduce a plan for new anti_graft legislation .
+plan	27	ps_cue
+########
+15
+<EOP> .
+########
+16
+A voter survey earlier this week showed most feel Ferrand should step down .
+should	10	ps_cue
+########
+17
+<EOP> .
+########
+18
+`` Is there a risk ?
+########
+19
+LRB for the parliamentary election result RRB The answer is yes , '' Jean_Paul Delevoye , the man in charge of choosing Macron 's party 's candidates for the parliamentary election , acknowledged to reporters at the European American Press club .
+########
+20
+But he added he was nevertheless confident of having a solid majority in parliament .
+########
+21
+<EOP> .
+########
+22
+Failure to secure a majority in the June 11 and 18 election could put Macron 's centrist , pro_business reform agenda at risk by forcing him into an uncomfortable alliance , most likely with mainstream conservative party The Republicans , which is still smarting from defeat in the presidentials .
+could	12	ps_cue
+likely	32	ps_cue
+########
+23
+<EOP> .
+########
+24
+In France , the opening of a preliminary inquiry does not imply guilt .
+not	10	neg_cue
+imply	11	ps_cue
+########
+25
+Prosecutors decide after such preliminary checks whether there are grounds for a full_scale probe or not .
+whether	6	ps_cue
+or	14	ps_cue
+not	15	neg_cue
+########
+26
+<EOP> .
+########
+27
+`` GOOD NEWS '' ?
+########
+28
+<EOP> .
+########
+29
+The government tried to put a brave face on the opening of the inquiry , with spokesman Christophe Castaner telling LCI television this was `` good news '' because the issue would now be handled by magistrates rather than by the press .
+would	31	ps_cue
+rather	37	neg_cue
+########
+30
+<EOP> .
+########
+31
+`` Nothing in the case '' points to Ferrand being guilty of anything , he added .
+########
+32
+<EOP> .
+########
+33
+The public prosecutor in the western city of Brest said he had decided to open the inquiry after a string of media reports about the business and financial dealings of Ferrand , minister for territorial planning and a former Socialist who became one of his key early backers .
+planning	35	ps_cue
+########
+34
+<EOP> .
+########
+35
+Media reports about Ferrand focus on his management of a medical insurance group in Brittany six years ago , notably a decision to rent office space from his partner .
+########
+36
+<EOP> .
+########
+37
+Another issue is his hiring of his son for four months as an assistant paid from parliamentary funds .
+########
+38
+<EOP> .
+########
+39
+Ferrand has denied wrongdoing , and while hiring family as parliamentary assistants is banned in some countries , it is not illegal in France .
+denied	2	neg_cue
+banned	13	neg_cue
+not	20	neg_cue
+########
+40
+<EOP> .
+########
+41
+Failed conservative presidential candidate Francois Fillon 's campaign was derailed by sleaze allegations and he is now under formal investigation , not because he paid members of his family from public funds , but because of allegations that his wife in particular did not do much actual work for the money .
+not	21	neg_cue
+not	43	neg_cue
+########
+42
+<EOP> .
+########
+43
+The proposed new legislation to clean up political practices is set to ban hiring of family by members of parliament .
+proposed	1	ps_cue
+ban	12	neg_cue
+########
+44
+<EOP> .
+########
+45
+Far_right leader Marine Le Pen , another failed presidential candidate , is also under investigation with regard to the hiring of party activists as assistants in the European parliament .
+failed	7	neg_cue
+########
+46
+<EOP> .
+########
+47
+Macron has not spoken publicly about the allegations surrounding Ferrand , but Castaner said on Wednesday the president had urged ministers to show solidarity with the man who was head of his presidential campaign team .
+not	2	neg_cue
+########
+48
+<EOP> .
+########
+49
+Reuters <EOP> .
+########

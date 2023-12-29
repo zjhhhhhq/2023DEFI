@@ -1,0 +1,107 @@
+Does the deal pose a challenge to the peace process 
+0
+Irish PM expresses concern over May 's proposed DUP deal <EOP> .
+concern	3	ps_cue
+May	5	ps_cue
+proposed	7	ps_cue
+########
+1
+2017_06_12 09:35 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+DUBLIN _ Irish Taoiseach LRB Prime Minister RRB Enda Kenny on Sunday expressed concern over a proposed deal between Theresa May 's Conservative Party and the Democratic Unionist Party LRB DUP RRB in Northern Ireland , saying that the deal could pose a challenge to the peace process .
+challenge	43	PS+	PS+
+could	40	ps_cue
+concern	13	ps_cue
+proposed	16	ps_cue
+May	20	ps_cue
+########
+4
+<EOP> .
+########
+5
+In a phone conversation with British Prime Minister May , Kenny discussed the outcome of the recent British general election with his British counterpart , and the British prime minister outlined the proposed supply and confidence arrangement between her party and the DUP , according to a statement from the Irish government .
+May	8	ps_cue
+proposed	32	ps_cue
+########
+6
+<EOP> .
+########
+7
+`` The taoiseach indicated his concern that nothing should happen to put the Good Friday Agreement at risk and the challenge that this agreement will bring , '' the government statement said .
+challenge	20	CT+	PS+
+concern	5	ps_cue
+nothing	7	neg_cue
+should	8	ps_cue
+will	24	ps_cue
+########
+8
+<EOP> .
+########
+9
+The Good Friday Agreement or Belfast Agreement , was a major political development in the Northern Ireland peace process of the 1990s .
+or	4	ps_cue
+########
+10
+The agreement is made up of two inter_related documents , both agreed in Belfast on Good Friday , April 10 , 1998 .
+########
+11
+<EOP> .
+########
+12
+On Saturday , a controversial working relationship between the British Conservatives and the North Ireland Democratic Unionist Party LRB DUP RRB was agreed in principle .
+########
+13
+The so_called supply and confidence deal , aimed at keeping Prime Minister May in power at 10 Downing Street , came under immediate attack .
+May	12	ps_cue
+########
+14
+<EOP> .
+########
+15
+The Conservatives won 318 seats , not enough for a majority in the Commons , but buoyed by the 10 DUP MPs .
+not	6	neg_cue
+########
+16
+It would give May a working majority .
+would	1	ps_cue
+May	3	ps_cue
+########
+17
+A confidence and supply deal falls short of a full coalition arrangement , but it means May would have enough votes to carry major issues in the Commons .
+May	16	ps_cue
+would	17	ps_cue
+########
+18
+<EOP> .
+########
+19
+The government statement said both leaders `` agreed that of immediate concern were efforts to establish an executive as soon as possible , with exploratory discussions with the Northern Ireland parties to take place tomorrow . ''
+concern	11	ps_cue
+possible	21	ps_cue
+########
+20
+<EOP> .
+########
+21
+According to the government statement , Kenny told May that there should be an early meeting between the British prime minister and his successor Leo Varadkar .
+May	8	ps_cue
+should	11	ps_cue
+########
+22
+<EOP> .
+########
+23
+On June 2 , Varadkar was elected as leader of the Fine Gael Party LRB United Ireland Party RRB , the country 's biggest political party .
+########
+24
+It is expected that he will be appointed as taoiseach next week following the approval of Dail Eireann , lower house of Irish parliament .
+expected	2	ps_cue
+will	5	ps_cue
+########
+25
+<EOP> .
+########

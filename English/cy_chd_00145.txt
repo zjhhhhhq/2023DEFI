@@ -1,0 +1,141 @@
+Did the Security Council approve a resolution
+0
+World demands DPRK denuclearization <EOP> .
+########
+1
+2017_12_25 09:02 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+UN Security Council unanimously backs new sanctions on Pyongyang <EOP> .
+########
+4
+The latest UN Security Council sanctions against the Democratic People 's Republic of Korea reflect the unanimous position of the international community in opposing Pyongyang 's development of nuclear weapons and ballistic missile capabilities , and in maintaining the international nonproliferation mechanism .
+against	6	neg_cue
+opposing	23	neg_cue
+########
+5
+<EOP> .
+########
+6
+That was the message from Wu Haitao , charge d'affaires of China 's permanent mission to the UN , on Friday , when the Security Council unanimously approved a resolution authorizing unprecedented tough new sanctions in response to the DPRK 's Nov 28 intercontinental ballistic missile test .
+resolution	29	CT+	CT+
+########
+7
+<EOP> .
+########
+8
+Wu said China urges the DPRK to take seriously the demands of the international community and refrain from any further tests .
+########
+9
+<EOP> .
+########
+10
+He reiterated China 's position that the nuclear issue on the Korean Peninsula can only be solved through dialogue and negotiations , and that the UN resolution should be implemented in a full and comprehensive fashion .
+resolution	26	CT+	CT+
+can	13	ps_cue
+should	27	ps_cue
+########
+11
+<EOP> .
+########
+12
+`` It is imperative to put an immediate end to rhetoric and actions that are detrimental to denuclearization and peace and stability on the peninsula , '' he said .
+########
+13
+<EOP> .
+########
+14
+`` The dangerous situation that carries the risk of spiraling out of control is not in the interests of any country . ''
+not	14	neg_cue
+########
+15
+<EOP> .
+########
+16
+UN Resolution 2397 asks nations to sharply lower limits on the DPRK 's refined oil imports , return home all DPRK overseas workers , and crack down on ships smuggling banned items , including coal and oil , to and from the country .
+banned	30	neg_cue
+########
+17
+<EOP> .
+########
+18
+On Sunday , the DPRK said the latest UN sanctions are an act of war and tantamount to a complete economic blockade .
+########
+19
+`` We define this ` sanctions resolution ' rigged up by the US and its followers as a grave infringement upon the sovereignty of our Republic , as an act of war violating peace and stability in the Korean Peninsula and the region , and we categorically reject the ` resolution ' , '' the DPRK Foreign Ministry said .
+resolution	6	CT+	CT+
+resolution	50	CT+	CT+
+reject	47	neg_cue
+########
+20
+<EOP> .
+########
+21
+In Beijing on Saturday , China 's Foreign Ministry spokeswoman Hua Chunying said China hoped all parties could implement related UN resolutions in a `` full and balanced manner '' .
+hoped	14	ps_cue
+could	17	ps_cue
+########
+22
+<EOP> .
+########
+23
+While proportionally toughening sanctions against the DPRK , the UN document stresses the importance of maintaining peace and stability in northeast Asia and expresses its commitment to a peaceful , diplomatic and political solution to the situation through dialogue , Hua said .
+against	4	neg_cue
+########
+24
+<EOP> .
+########
+25
+The resolution also says the restrictive measures should not hurt normal economic activities and cooperation or food and humanitarian assistance , she said .
+resolution	1	CT+	CT+
+should	7	ps_cue
+not	8	neg_cue
+or	15	ps_cue
+########
+26
+<EOP> .
+########
+27
+The resolution reaffirms support for the Six_Party Talks involving the DPRK , the Republic of Korea , China , Japan , Russia and the United States , and calls for resumption of the dialogues .
+resolution	1	CT+	CT+
+########
+28
+<EOP> .
+########
+29
+Hua said China called for all parties to actively consider its proposal of a `` dual_track approach '' , which seeks to advance denuclearization and establish a peace mechanism in parallel , and its `` suspension for suspension '' initiative , which calls on Pyongyang to pause its missile and nuclear activities , and calls on Washington to put its joint military drills with the ROK on hold .
+consider	9	ps_cue
+seeks	20	ps_cue
+########
+30
+<EOP> .
+########
+31
+Shortly after the Security Council vote on Friday , US President Donald Trump tweeted : `` The United Nations Security Council just voted 15_0 in favor of additional Sanctions on North Korea .
+########
+32
+The World wants Peace , not Death ! ''
+wants	2	ps_cue
+not	5	neg_cue
+########
+33
+<EOP> .
+########
+34
+Deputy Russian Ambassador Vladimir Safronkov demanded that the parties involved show openness to genuine and meaningful political dialogue , saying `` isolation and pressure must give way to dialogue and talks '' .
+########
+35
+<EOP> .
+########
+36
+Xinhua contributed to this story .
+########
+37
+<EOP> .
+########
+38
+huanxinzhao@chinadailyusa.com <EOP> .
+########

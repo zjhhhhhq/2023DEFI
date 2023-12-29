@@ -1,0 +1,123 @@
+Does Flynn plead guilty on Russia
+0
+Flynn pleads guilty on Russia , reportedly ready to testify against Trump <EOP> .
+pleads	1	CT+	CT+
+ready	7	ps_cue
+against	10	neg_cue
+########
+1
+2017_12_02 02:32 <EOP> .
+########
+2
+Agencies <EOP> .
+########
+3
+WASHINGTON _ Former US national security adviser Michael Flynn pleaded guilty on Friday to lying to the FBI about Russia , and ABC News said he was prepared to testify that before taking office President Donald Trump had directed him to make contact with Russians .
+pleaded	9	CT+	CT+
+########
+4
+<EOP> .
+########
+5
+Reuters could not immediately verify the ABC report , which cited a Flynn confidant .
+could	1	ps_cue
+not	2	neg_cue
+########
+6
+The news sent US stocks sharply lower .
+########
+7
+<EOP> .
+########
+8
+Flynn , a former top Trump campaign aide and a central figure in a federal investigation into Moscow 's alleged interference in the 2016 US presidential election , pleaded guilty under a plea deal on Friday to lying to the FBI .
+pleaded	28	CT+	CT+
+########
+9
+<EOP> .
+########
+10
+His decision to cooperate with the investigation led by Special Counsel Robert Mueller , marked a major escalation in a probe that has dogged Trump 's administration since the Republican president took office in January .
+########
+11
+<EOP> .
+########
+12
+ABC News cited a confidant as saying Flynn was ready to testify that Trump directed him to make contact with Russians , initially as a way to work together to fight the Islamic State group in Syria .
+ready	9	ps_cue
+########
+13
+<EOP> .
+########
+14
+It was not clear when Trump supposedly told Flynn to contact Russians and whether there would be anything illegal in requesting such contact .
+not	2	neg_cue
+whether	13	ps_cue
+would	15	ps_cue
+########
+15
+<EOP> .
+########
+16
+Flynn pleaded guilty to making false statements about contacts he had in December with Russia 's ambassador to the United States , Sergei Kislyak , during the transition period after Trump was elected and before he was sworn in .
+pleaded	1	CT+	CT+
+########
+17
+The charges carry a sentence of up to five years in prison .
+########
+18
+<EOP> .
+########
+19
+The White House said Flynn 's guilty plea implicated him alone .
+########
+20
+<EOP> .
+########
+21
+`` Nothing about the guilty plea or the charge implicates anyone other than Mr. Flynn , '' Ty Cobb , a White House attorney , said in a statement on Friday .
+or	6	ps_cue
+########
+22
+<EOP> .
+########
+23
+Flynn was forced out of his White House post in February for misleading Vice President Mike Pence about his conversations with the ambassador .
+########
+24
+<EOP> .
+########
+25
+`` The false statements involved mirror the false statements to White House officials which resulted in his resignation in February of this year , '' Cobb said , adding that the plea `` clears the way for a prompt and reasonable conclusion '' of Mueller 's probe .
+########
+26
+<EOP> .
+########
+27
+Moscow has denied a conclusion by US intelligence agencies that it meddled in the election campaign to try to sway the vote in Trump 's favor .
+denied	2	neg_cue
+########
+28
+Trump has denied any collusion by his campaign and has called Mueller 's probe a witch hunt .
+denied	2	neg_cue
+########
+29
+<EOP> .
+########
+30
+Flynn said on Friday his decision to plead guilty and to cooperate with the investigation was `` made in the best interests of my family and of our country . ''
+said	1	CT+	CT+
+########
+31
+<EOP> .
+########
+32
+In a statement issued by the law firm representing him , Flynn also said it was `` painful to endure '' the `` false accusations of ` treason ' and other outrageous acts '' over the past several months but that he recognized `` that the actions I acknowledged in court today were wrong . ''
+said	13	CT+	CT+
+########
+33
+<EOP> .
+########
+34
+LRB Reporting by Susan Heavey and Tim Ahmann ; Additional reporting by John Walcott and Nathan Layne ; Writing by Alistair Bell ; Editing by Frances Kerry RRB <EOP> .
+########

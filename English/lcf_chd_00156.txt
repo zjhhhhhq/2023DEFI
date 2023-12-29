@@ -1,0 +1,83 @@
+Does Chinese FM call for deeper practical cooperation with Britain 
+0
+Chinese FM calls for deeper practical cooperation with Britain <EOP> .
+cooperation	6	CT+	CT+
+########
+1
+2017_09_21 00:12 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+NEW YORK _ China 's Foreign Minister Wang Yi has called for further collaboration with the UK to strengthen the `` golden era '' of bilateral relations .
+collaboration	13	CT+	CT+
+########
+4
+<EOP> .
+########
+5
+China and Britain should continue to work together to maintain high_level contacts and deepen practical cooperation , Wang said on Tuesday during a meeting with his British counterpart Boris Johnson .
+cooperation	15	CT+	CT+
+should	3	ps_cue
+########
+6
+<EOP> .
+########
+7
+He said as 2017 marks the 45th anniversary of the establishment of ambassador_level diplomatic relations between China and Britain , Beijing appreciates the UK 's support for the Belt and Road Initiative .
+########
+8
+<EOP> .
+########
+9
+The two countries should work together to safeguard the multilateral trade system with the World Trade Organization at its core and send out positive signals of building an open global economy and opposing protectionism , he added .
+should	3	ps_cue
+opposing	32	neg_cue
+########
+10
+<EOP> .
+########
+11
+Wang also expressed the hope that Britain can create favorable conditions for Chinese investment .
+hope	4	ps_cue
+can	7	ps_cue
+########
+12
+<EOP> .
+########
+13
+Foreign Secretary Johnson said China is a major country with broad international influence .
+########
+14
+<EOP> .
+########
+15
+Britain and China hold common or similar views on a series of important international issues and have common interests in promoting free trade and maintaining market access , he said .
+or	5	ps_cue
+########
+16
+<EOP> .
+########
+17
+The UK attaches great importance to its relations with China and is willing to enhance high_level contacts , strengthen cooperation in various fields in order to carry forward the `` golden era '' relations , Johnson said .
+cooperation	19	CT+	CT+
+willing	12	ps_cue
+forward	27	ps_cue
+forward	27	neg_cue
+########
+18
+<EOP> .
+########
+19
+Wang and Johnson met in New York on the sidelines of the annual general debate of the United Nations General Assembly .
+########
+20
+<EOP> .
+########
+21
+The two sides also exchanged views on the situation on the Korean Peninsula and in Afghanistan .
+########
+22
+<EOP> .
+########

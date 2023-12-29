@@ -1,0 +1,117 @@
+Is Being perceived as attractive considered much of an impediment in today 's world
+0
+Being perceived as attractive is n't usually considered much of an impediment in today 's world .
+impediment	11	CT-	CT-
+n't	5	neg_cue
+considered	7	ps_cue
+########
+1
+Oh , sure , there 's the endless compliments and fawning adoration , but really , why complain ?
+########
+2
+<EOP> .
+########
+3
+Researchers have found one area that being pretty makes life a challenge _ securing yourself a boring , low paying job .
+challenge	11	CT+	CT-
+########
+4
+While we might scoff , discrimination is discrimination , and beautiful people can also find themselves signing up for entry level jobs at some point in their lives .
+might	2	ps_cue
+can	12	ps_cue
+########
+5
+<EOP> .
+########
+6
+For the most part good looks is a blessing .
+########
+7
+We treat pretty people more favorably in general , often vote for them more in elections , and pay them more in their professions .
+########
+8
+<EOP> .
+########
+9
+Our research suggests that attractive people may be discriminated against in selection for relatively less desirable jobs .
+suggests	2	ps_cue
+may	6	ps_cue
+against	9	neg_cue
+########
+10
+<EOP> .
+########
+11
+This stands in contrast to a large body of research that concluded that attractiveness , by and large , helps candidates in the selection process .
+helps	19	ps_cue
+########
+12
+<EOP> .
+########
+13
+Researchers carried out four experiments involving more than 750 participants , including university students and managers who make hiring decisions in the real world .
+########
+14
+<EOP> .
+########
+15
+Participants were shown profiles of two potential job candidates that included photos , one attractive and one unattractive .
+potential	6	ps_cue
+########
+16
+<EOP> .
+########
+17
+Participants were then asked a series of questions designed to measure their perceptions of the job candidates and whether they would hire these candidates for a less_than_desirable job .
+whether	18	ps_cue
+would	20	ps_cue
+########
+18
+<EOP> .
+########
+19
+The less desirable jobs included a warehouse worker , housekeeper , customer service representative and the more desirable jobs included things like a manager , project director , IT internship .
+like	21	ps_cue
+########
+20
+<EOP> .
+########
+21
+In all experiments where they were asked , participants were significantly less likely to hire the attractive candidate for the less desirable job and more likely to hire the attractive candidate for the <EOP> .
+likely	12	ps_cue
+likely	25	ps_cue
+########
+22
+Ms Lee said : ' In the selection decision for an undesirable job , decision makers were more likely to choose the unattractive individual over the attractive individual .
+likely	18	ps_cue
+########
+23
+We found this effect to occur even with hiring managers . '
+########
+24
+<EOP> .
+########
+25
+Co_author Dr Madan Pillutla said : ' It is interesting decision makers take into consideration others ' assumed aspirations in their decisions .
+consideration	14	ps_cue
+########
+26
+<EOP> . '
+########
+27
+Because participants thought that attractive individuals would want better outcomes , and therefore participants predicted that attractive individuals would be less satisfied , they reversed their discrimination pattern and favored unattractive candidates when selecting for a less desirable job . '
+would	6	ps_cue
+predicted	14	ps_cue
+would	18	ps_cue
+########
+28
+<EOP> .
+########
+29
+The research suggests the established view that attractive candidates are favored when applying for jobs might be limited to high_level jobs that were the predominant focus of past research .
+suggests	2	ps_cue
+might	15	ps_cue
+########
+30
+<EOP> .
+########

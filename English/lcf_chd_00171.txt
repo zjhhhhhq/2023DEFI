@@ -1,0 +1,97 @@
+Do Space partners push education ahead
+0
+Space partners push education ahead <EOP> .
+push	2	CT+	CT+
+########
+1
+2017_09_08 16:53 <EOP> .
+########
+2
+China Daily UK <EOP> .
+########
+3
+British and Chinese space scientists have signed a partnership agreement to promote and strengthen space education and cultural activities .
+promote	11	CT+	CT+
+########
+4
+<EOP> .
+########
+5
+A new joint virtual center will be created for space education , to serve as a platform for Sino_UK space collaboration .
+will	5	ps_cue
+########
+6
+<EOP> .
+########
+7
+The center will be led by the United Kingdom National Space Academy and the Consortium of Chinese Laboratories with the support of the China National Space Administration .
+will	2	ps_cue
+########
+8
+<EOP> .
+########
+9
+It is the result of a memorandum of understanding signed on Wednesday at the UK_China Space Workshop in Edinburgh .
+########
+10
+<EOP> .
+########
+11
+According to the UK academy , the center could be expanded to include participation from other space agencies and new programs or agencies in the developing world .
+could	8	ps_cue
+or	21	ps_cue
+########
+12
+<EOP> .
+########
+13
+The goal is to create a strong framework of education cooperation through a greater network of partners from research and education .
+########
+14
+It also aims to encourage collaboration between culture organizations , such as science museums .
+########
+15
+<EOP> .
+########
+16
+The two nations already cooperate under the UK_China Joint Laboratory Program in Space Science and Technology , established in 2007 .
+########
+17
+<EOP> .
+########
+18
+The virtual center venture follows the success of a series of intensive master classes as part of the joint program held in 2016 for hundreds of Chinese students and teachers selected from across the country .
+########
+19
+<EOP> .
+########
+20
+The UK National Space Academy and its Chinese partners also plan to develop new innovative education experiments which will fly on future Chinese unmanned and manned space missions .
+plan	10	ps_cue
+will	18	ps_cue
+########
+21
+<EOP> .
+########
+22
+Anu Ojha , director of the UK National Space Academy , said the center will give UK teachers , students and researchers a chance to work in partnership with one of the world 's most ambitious space programs .
+will	14	ps_cue
+########
+23
+<EOP> .
+########
+24
+Ojha said this will be done `` through student master classes and teacher programs held in China and the UK , through dedicated programs conducted at the heart of China 's space program , and through the opportunity for us to develop new teaching experiments that will be conducted on China 's planned space station . ''
+will	3	ps_cue
+will	46	ps_cue
+planned	52	ps_cue
+########
+25
+<EOP> .
+########
+26
+For the first stage of the partnership , the team aims to select 100 primary and middle schools in China , Britain , and countries in the region covered by the Belt and Road Initiative to carry out a trial run of the education program .
+########
+27
+<EOP> .
+########

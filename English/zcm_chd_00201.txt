@@ -1,0 +1,196 @@
+Will the United States withdraw from the landmark Paris Climate
+0
+Trump announces US is exiting Paris climate pact <EOP> .
+########
+1
+2017_06_02 04:23 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+<EOP> .
+########
+4
+US President Donald Trump announces his decision that the United States will withdraw from the landmark Paris Climate A <EOP> .
+withdraw	12	CT+	CT+
+will	11	ps_cue
+withdraw	12	neg_cue
+########
+5
+gree <EOP> .
+########
+6
+ment , in the Rose Garden of the White House in Washington , U.S. , June 1 .
+########
+7
+LRB Photo_Agencies RRB <EOP> .
+########
+8
+US President Donald Trump announced on Thursday afternoon that the United States will withdraw from the Paris climate accord , the global climate pact that was sanctioned by his predecessor and nearly 200 other world leaders .
+withdraw	13	CT+	CT+
+will	12	ps_cue
+withdraw	13	neg_cue
+########
+9
+<EOP> .
+########
+10
+The president confirmed America 's `` withdrawal '' in a nearly half_hour speech in the White House Rose Garden , fulfilling a top campaign pledge .
+withdrawal	6	CT+	CT+
+########
+11
+<EOP> .
+########
+12
+`` As of today , the United States will cease all implementation of the non_binding Paris accord and the draconian financial and economic burdens the agreement imposes on our country , '' Trump said .
+will	8	ps_cue
+########
+13
+<EOP> .
+########
+14
+The president said the 2015 accord had given other countries an unfair advantage over US industry and destroyed American jobs .
+########
+15
+<EOP> .
+########
+16
+`` So we 're getting out but we 'll start to negotiate and we will see if we can make a deal that 's fair .
+will	14	ps_cue
+can	18	ps_cue
+########
+17
+And if we can , that 's great .
+can	3	ps_cue
+########
+18
+And if we ca n't , that 's fine , '' he said .
+n't	4	neg_cue
+########
+19
+<EOP> .
+########
+20
+Former President Barack <EOP> .
+########
+21
+Obama <EOP> .
+########
+22
+criticized his successor for pulling out of pact , saying the Trump ad <EOP> .
+criticized	0	neg_cue
+########
+23
+mini <EOP> .
+########
+24
+stration is joining `` a small handful of nations that reject the future '' by withdrawing from the Paris agreement .
+withdrawing	15	CT-	CT+
+reject	10	neg_cue
+########
+25
+<EOP> .
+########
+26
+Under the Obama administration , the US had agreed to reduce emissions to 26 percent to 28 percent of 2005 levels by 2025 .
+########
+27
+<EOP> .
+########
+28
+`` Even in the absence of American leadership ; even as this administration joins a small handful of nations that reject the future ; I 'm confident that our states , cities , and businesses will step up and do even more to lead the way , and help protect for future generations the one planet we 've got , '' Obama said in a statement .
+absence	4	neg_cue
+reject	20	neg_cue
+will	35	ps_cue
+########
+29
+<EOP> .
+########
+30
+Chinese Premier <EOP> .
+########
+31
+Li Keqiang <EOP> .
+########
+32
+, while visiting Germany on Thursday , said combating <EOP> .
+########
+33
+climate change <EOP> .
+########
+34
+is a global consensus and China pledged to tackle climate change `` steadfastly '' .
+########
+35
+<EOP> .
+########
+36
+In a joint press conference with his German counterpart Angela Merkel in Berlin , Li said China will continue to work steadfastly to implement the commitment of the Paris climate deal and join han <EOP> .
+will	17	ps_cue
+########
+37
+ds <EOP> .
+########
+38
+with all parties to tackle climate change .
+########
+39
+<EOP> .
+########
+40
+Li , who is on a three_day official visit to <EOP> .
+########
+41
+Europe <EOP> .
+########
+42
+, said China , a large developing country , should shoulder its international responsibilities to jointly address the challenge of climate change with other countries .
+should	9	ps_cue
+########
+43
+<EOP> .
+########
+44
+`` With tremendous efforts , China will move towards the 2030 goal step_by_step steadfastly , '' Li said .
+will	6	ps_cue
+########
+45
+<EOP> .
+########
+46
+Chinese Foreign Ministry spokeswoman Hua Chunying also said on Thursday in <EOP> .
+########
+47
+Beijing <EOP> .
+########
+48
+that China will continue to fulfill its Paris pledges `` no matter what stances others take '' .
+will	2	ps_cue
+no	10	neg_cue
+########
+49
+<EOP> .
+########
+50
+Neither Li nor Hua mentioned the United States specifically .
+nor	2	neg_cue
+########
+51
+<EOP> .
+########
+52
+The Paris Agreement was sanctioned by 196 parties in Paris in 2015 and it went into effect in November last year .
+########
+53
+The pact sets a target of holding the global average rise in temperature below 2 degrees above pre_industrial levels , and preferably below 1.5 degrees .
+########
+54
+<EOP> .
+########
+55
+<EOP> .
+########
+56
+<EOP> .
+########

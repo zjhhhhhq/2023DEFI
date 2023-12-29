@@ -1,0 +1,197 @@
+Does May's party form a majority government
+0
+Britain 's general election : a gamble too far for Prime Minister May <EOP> .
+May	12	ps_cue
+########
+1
+2017_06_09 17:05 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+LONDON _ As British Prime Minister Theresa May gambled her political future on calling a snap general election seven weeks ago , results from Thursday 's election show that her party can not form a majority government .
+form	33	PS-	PS-
+May	7	ps_cue
+can	31	ps_cue
+not	32	neg_cue
+########
+4
+<EOP> .
+########
+5
+With 647 out of 650 seats declared , the Conservatives won 316 seats , but failed to hit the 326_seat threshhold for majority .
+hit	17	CT-	PS-
+failed	15	neg_cue
+########
+6
+Labour won 261 seats .
+########
+7
+<EOP> .
+########
+8
+If the Conservatives eventually have to forge a coalition government , which will bring more uncertainties to British politics , they can still rely on the support of Ulster Unionists party of Northern Ireland , which is projected to win eight seats .
+will	12	ps_cue
+can	21	ps_cue
+projected	37	ps_cue
+########
+9
+<EOP> .
+########
+10
+Experts said exit polls gave a strong indication that the election is a significant blow for May as losing the majority will inevitably reduce her authority in a future government .
+losing	18	CT+	PS-
+gave	4	neg_cue
+indication	7	ps_cue
+May	16	ps_cue
+will	21	ps_cue
+########
+11
+There are calls for her to step down .
+########
+12
+<EOP> .
+########
+13
+Patrick Dunleavy , professor of politics at the London School of Economics LRB LSE RRB said Friday morning he did n't anticipate the actual results of the election to be `` strikingly different '' from what the exit poll suggested , adding , however , it is unlikely that May will either resign or be deposed as Conservative party leader amid ongoing Brexit process .
+n't	20	neg_cue
+suggested	39	ps_cue
+unlikely	47	ps_cue
+unlikely	47	neg_cue
+May	49	ps_cue
+will	50	ps_cue
+either	51	ps_cue
+or	53	ps_cue
+########
+14
+<EOP> .
+########
+15
+If May does quit Number 10 Downing Street , her 11_month tenure as prime minister would be the shortest in Britain in almost a century .
+May	1	ps_cue
+quit	3	neg_cue
+would	15	ps_cue
+########
+16
+<EOP> .
+########
+17
+`` I would think it is very unlikely .
+would	2	ps_cue
+unlikely	7	ps_cue
+unlikely	7	neg_cue
+########
+18
+Most British prime ministers ' careers end in disaster , but this is very quick and I do n't think May is a give_up type of person , '' he said .
+n't	18	neg_cue
+May	20	ps_cue
+########
+19
+<EOP> .
+########
+20
+Tony Travers , another professor of politics at LSE , said the question now is how long May would last , and how long it will be until the next general election .
+question	12	ps_cue
+May	17	ps_cue
+would	18	ps_cue
+will	25	ps_cue
+########
+21
+No votes were scheduled until 2020 before May unexpectedly called a snap election .
+No	0	neg_cue
+scheduled	3	ps_cue
+May	7	ps_cue
+########
+22
+<EOP> .
+########
+23
+May 's original intention was to increase the 330_seat majority she inherited from predecessor David Cameron to gain a stronger mandate in fierce Brexit bargaining with the European Union .
+May	0	ps_cue
+########
+24
+<EOP> .
+########
+25
+Instead , the results of the election have seen the opposition Labour party gain strength , producing a `` hung parliament '' and making May a weaker prime minister .
+opposition	10	neg_cue
+May	24	ps_cue
+########
+26
+<EOP> .
+########
+27
+A hung parliament will make the process of Britain leaving the EU more unpredictable as negotiations can not be carried out single_handedly by the Conservatives but requires consultations with other parties .
+will	3	ps_cue
+can	16	ps_cue
+not	17	neg_cue
+########
+28
+<EOP> .
+########
+29
+The Conservatives will have to consult with Labour party in particular , which backs Brexit with a softer stance but as of now still lacks a detailed negotiating plan .
+will	2	ps_cue
+lacks	24	neg_cue
+plan	28	ps_cue
+########
+30
+<EOP> .
+########
+31
+Furthermore , since May will have less of a say in Brexit , experts suggest that she might even face opposition within her own party .
+May	3	ps_cue
+will	4	ps_cue
+suggest	14	ps_cue
+might	17	ps_cue
+opposition	20	neg_cue
+########
+32
+<EOP> .
+########
+33
+`` It 's a complex challenge for her to appear tough with the remaining authority she had , but she would find parts of her own party rebelling , '' Travers said .
+appear	9	ps_cue
+would	20	ps_cue
+########
+34
+<EOP> .
+########
+35
+Markets reacted immediately to the exit poll with the pound was down 1.6 percent to 1.27 US dollars , slightly gaining ground after sliding to as low as 1.26 dollars .
+########
+36
+<EOP> .
+########
+37
+Samuel Tombs , chief economist with Pantheon Macroeconomics , predicted a further fall of the sterling in the case of a hung parliament .
+predicted	9	ps_cue
+########
+38
+On Brexit , he expected a `` hard Brexit '' to be more possible .
+expected	4	ps_cue
+possible	13	ps_cue
+########
+39
+<EOP> .
+########
+40
+`` With Brexit negotiations expected to begin formally on June 19 , markets rightly will be worried that hardline Eurosceptics will retain leverage over the prime minister 's negotiating hand , increasing the risk of a very hard Brexit , '' he said .
+expected	4	ps_cue
+will	14	ps_cue
+will	20	ps_cue
+########
+41
+<EOP> .
+########
+42
+Tombs adds that the erosion of Conservative seats in the parliament will make it harder for the party to push forward its fiscal tightening plans , which , according to Tombs , include a rise in income taxes for high_income earners and reductions in state pensions .
+will	11	ps_cue
+forward	20	ps_cue
+forward	20	neg_cue
+plans	24	ps_cue
+########
+43
+<EOP> .
+########

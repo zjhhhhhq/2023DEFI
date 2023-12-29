@@ -1,0 +1,51 @@
+Does Pakistan commit to implementation of China_Pakistan Economic Corridor
+0
+Pakistan commits to implementation of China_Pakistan Economic Corridor <EOP> .
+commits	1	CT+	CT+
+########
+1
+2017_07_07 19:54 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+Pakistan is fully committed to the successful implementation of the China_Pakistan Economic Corridor , the flagship project of the Belt and Road Initiative , according to Pakistani Ambassador to China Masood Khalid .
+committed	3	CT+	CT+
+########
+4
+<EOP> .
+########
+5
+`` Pakistan is China 's all_weather strategic cooperative partner , and it will continue to work with China for greater prosperity of our region and to meet their common challenges through enhanced connectivity , '' he said when speaking at the Lanzhou Trade Fair in Lanzhou , capital city of Gansu province , on Thursday .
+will	12	ps_cue
+########
+6
+<EOP> .
+########
+7
+Khalid also attended the ambassador retreat of the Shanghai Cooperation Organization in Gansu , which ran from Tuesday to Friday .
+########
+8
+<EOP> .
+########
+9
+Khalid said Pakistan believed in cooperative and collective approaches to peace , stability and development .
+believed	3	ps_cue
+########
+10
+<EOP> .
+########
+11
+Pakistan became a full member of the Shanghai Cooperation Organization at the 17th Meeting of the Heads of State Council of SCO in Astana , Kazakhstan .
+########
+12
+<EOP> .
+########
+13
+Khalid said Gansu and Punjab enjoyed a sister_province relationship , and added both should build a cooperative partnership based on complementaries in various areas including agriculture , IT , renewable energy and mineral resources .
+should	13	ps_cue
+########
+14
+<EOP> .
+########

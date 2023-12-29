@@ -1,0 +1,146 @@
+Will Brigitte Macron become the cub's godmother after their birth
+0
+Special delivery _ Panda mama in France expecting twins any day <EOP> .
+expecting	7	ps_cue
+########
+1
+2017_08_03 07:11 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+<EOP> .
+########
+4
+Female panda Huan Huan sleeps inside her box during her potential gestation period at the Beauval Zoo in Saint_Aignan_sur_Cher , central France , on July 25 , 2017 .
+potential	10	ps_cue
+########
+5
+LRB Photo_VCG RRB <EOP> .
+########
+6
+Chinese panda Huan Huan , who is on loan to France , is expecting twin cubs , according to the zoo , which carried out a medical examination and revealed the results exclusively to China Daily on Tuesday .
+expecting	13	ps_cue
+########
+7
+<EOP> .
+########
+8
+A team of Chinese and French panda experts awaits the birth of France 's first baby pandas , which is expected later this week .
+expected	20	ps_cue
+########
+9
+<EOP> .
+########
+10
+France 's first lady is likely to be a `` godmother '' to the new arrivals .
+be	7	PS+	PS+
+likely	5	ps_cue
+########
+11
+<EOP> .
+########
+12
+The excitement follows the recent discovery that 9_year_old Huan Huan was pregnant following artificial insemination .
+########
+13
+She has been receiving intensive care from a team of experts at ZooParc de Beauval , which is about 200 kilometers from Paris in central France .
+########
+14
+<EOP> .
+########
+15
+`` It is very difficult to know exactly when the babies LRB cubs RRB will be born , '' said Delphine Delord , the zoo 's director .
+will	14	ps_cue
+########
+16
+`` My colleagues told me it will be on Friday or Saturday , but we are waiting .
+will	6	ps_cue
+or	10	ps_cue
+########
+17
+Maybe it will be a little bit earlier or later .
+will	2	ps_cue
+little	5	neg_cue
+or	8	ps_cue
+########
+18
+We still do not know exactly when . ''
+not	3	neg_cue
+########
+19
+<EOP> .
+########
+20
+Delord said one French expert and two from China are sleeping next to Huan Huan 's enclosure in preparation for the birth .
+########
+21
+<EOP> .
+########
+22
+The zoo has formed a team of at least 10 people to help with the birth , she said .
+########
+23
+<EOP> .
+########
+24
+She said Huan Huan is off her food and has begun to lose weight , something that is normal for a panda in the final days of a pregnancy .
+########
+25
+<EOP> .
+########
+26
+`` Now , she only eats bamboo , and sometimes apple , '' Delord said .
+########
+27
+<EOP> .
+########
+28
+She said her team has access to panda milk brought in from China .
+########
+29
+<EOP> .
+########
+30
+They do not yet know the gender of the cubs .
+not	2	neg_cue
+yet	3	neg_cue
+########
+31
+The zoo will follow tradition and wait for China to name them .
+will	2	ps_cue
+########
+32
+<EOP> .
+########
+33
+Delord confirmed that Brigitte Macron , France 's first lady , is expected to become the cubs ' `` godmother '' soon after their birth .
+become	14	PS+	PS+
+expected	12	ps_cue
+########
+34
+<EOP> .
+########
+35
+`` I feel very excited because these are the first babies of Huan Huan and the first pandas to be born in France .
+########
+36
+It is a very important birth .
+########
+37
+After the babies come , we will contact the first lady , '' Delord said .
+will	6	ps_cue
+########
+38
+<EOP> .
+########
+39
+Xiang Chen in Brussels contributed to this story .
+########
+40
+<EOP> .
+########
+41
+fujing@chinadaily.com.cn <EOP> .
+########

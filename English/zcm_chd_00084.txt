@@ -1,0 +1,112 @@
+Will US President Donald Trump 's approve for Lattice 's proposed $ 1.3 billion sale 
+0
+Lattice to seek Trump approval of China_backed takeover <EOP> .
+########
+1
+2017_09_02 05:44 <EOP> .
+########
+2
+REUTERS <EOP> .
+########
+3
+Lattice Semiconductor Corp will seek US President Donald Trump 's approval for its proposed $ 1.3 billion sale to China_backed Canyon Bridge Capital Partners , Lattice said on Friday , gambling that Trump will approve the tie_up against the advice of US national security officials .
+approve	34	PS+	PS+
+will	3	ps_cue
+proposed	13	ps_cue
+will	33	ps_cue
+against	37	neg_cue
+########
+4
+<EOP> .
+########
+5
+It will be the first such deal to hit Trump 's desk and only the fourth time in three decades that a deal was put in front of a president after the Committee on Foreign Investment in the United States LRB CFIUS RRB recommended against it .
+will	1	ps_cue
+recommended	43	ps_cue
+against	44	neg_cue
+########
+6
+CFIUS scrutinizes deals for potential national security threats .
+potential	4	ps_cue
+########
+7
+<EOP> .
+########
+8
+The move comes after Portland , Oregon_based Lattice and private equity fund Canyon Bridge , funded in part by China 's central government , spent eight months trying unsuccessfully to persuade CFIUS to clear the acquisition .
+unsuccessfully	28	neg_cue
+########
+9
+<EOP> .
+########
+10
+If Trump approves the transaction , it would be unprecedented .
+approves	2	Uu	PS+
+would	7	ps_cue
+########
+11
+US presidents , who have the final authority on such investments , have sided with the committee to block the past three deals .
+block	18	neg_cue
+########
+12
+As a result , most companies have been reluctant to ask a president to go against the consensus of the country 's national security establishment .
+against	15	neg_cue
+########
+13
+<EOP> .
+########
+14
+Critics of the deal , including some US lawmakers , worry the technology gained through the acquisition of Lattice could be used by China 's military , but the companies have argued it poses no such risk .
+could	19	ps_cue
+no	34	neg_cue
+########
+15
+<EOP> .
+########
+16
+`` Lattice remains of the view that the proposed transaction does not raise any national security concerns that can not be addressed by the comprehensive mitigation measures that Lattice and Canyon Bridge have proposed to implement , '' Lattice said in a filing with the US Securities and Exchange Commission .
+proposed	8	ps_cue
+not	11	neg_cue
+raise	12	ps_cue
+can	18	ps_cue
+not	19	neg_cue
+proposed	33	ps_cue
+########
+17
+<EOP> .
+########
+18
+Canyon Bridge supports Lattice 's decision and believes `` President Trump will recognize the benefits this investment will provide _ to keep and grow jobs in the US as well as expand Lattice 's product portfolio , '' it said in an emailed statement .
+will	11	ps_cue
+will	17	ps_cue
+########
+19
+<EOP> .
+########
+20
+The latest 75_day CFIUS review of the Lattice deal , the third since it was announced in November , ended this week with the panel informing Canyon Bridge and Lattice it would recommend that Trump block the acquisition if they take it to him for review .
+would	31	ps_cue
+block	35	neg_cue
+########
+21
+<EOP> .
+########
+22
+Lattice makes programmable chips known as field programmable gate arrays , which allow companies to put their own software on silicon chips for different uses .
+########
+23
+It does not sell chips to the U.S. military , but its two biggest rivals , Xilinx Inc and Intel Corp 's Altera , make chips used in military technology .
+not	2	neg_cue
+########
+24
+<EOP> .
+########
+25
+Canyon Bridge , based in Palo Alto , California , is a private equity fund whose major investor is China Reform Holdings Corp , an entity that invests money from China 's central government and it has indirect links to the country 's space program .
+########
+26
+<EOP> .
+########
+27
+REUTERS <EOP> .
+########

@@ -1,0 +1,145 @@
+Have all parties agreed to maintain under the framework of regional regulations
+0
+Guideline for conduct pact in the South China Sea OK 'd <EOP> .
+########
+1
+2017_05_19 06:56 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+Beijing , ASEAN affirm framework for behavior in South China Sea <EOP> .
+########
+4
+China and ASEAN countries on Thursday approved a draft framework of the South China Sea Code of Conduct , marking a milestone in peacefully resolving the South China Sea issue .
+########
+5
+<EOP> .
+########
+6
+The 14th Senior Officials ' Meeting on the Implementation of the Declaration on the Conduct of Parties in the South China Sea , held in Guiyang , capital of Guizhou province , approved the draft .
+########
+7
+<EOP> .
+########
+8
+All parties have agreed to manage and control their differences under the framework of regional regulations , the Foreign Ministry said in a news release .
+agreed	3	CT+	CT+
+########
+9
+<EOP> .
+########
+10
+China and ASEAN member states spoke highly of the significance of the approval of the code of conduct framework draft , saying it is `` an important interim achievement in the entire negotiation of the COC '' , according to the news release .
+########
+11
+<EOP> .
+########
+12
+The meeting was co_chaired by Vice_Foreign Minister Liu Zhenmin and Permanent Secretary of Singapore 's Foreign Ministry Chee Wee Kiong .
+########
+13
+<EOP> .
+########
+14
+<EOP> .
+########
+15
+File Photo of Yongxing Island , home to the government of Sansha , China 's southernmost city .
+########
+16
+LRB Photo_Xinhua RRB <EOP> .
+########
+17
+<EOP> .
+########
+18
+<EOP> .
+########
+19
+China and ASEAN countries signed the declaration in 2002 .
+########
+20
+They started to work on the COC in 2013 .
+########
+21
+<EOP> .
+########
+22
+Liu said at a news conference after the meeting that the framework takes care of the interests of all parties and has provided `` a flexible political environment '' for the next phase of consultation on the COC .
+########
+23
+<EOP> .
+########
+24
+All countries involved have agreed not to release the framework document , but to maintain it as an internal document at this time since the consultation will continue and they do not want any external interference , Liu said .
+agreed	4	CT+	CT+
+not	5	neg_cue
+will	26	ps_cue
+not	31	neg_cue
+########
+25
+<EOP> .
+########
+26
+`` Against the backdrop of economic globalization , China and ASEAN countries should continue making our regional rules to guide our own actions and protect our common interests , '' Liu said .
+should	12	ps_cue
+########
+27
+<EOP> .
+########
+28
+In Beijing , Foreign Ministry spokeswoman Hua Chunying said on Thursday that `` it is very inappropriate '' that the joint statement made by Japan and New Zealand this week involves the South China Sea .
+########
+29
+<EOP> .
+########
+30
+People have to question the real concern of Japan , which spares no effort in attempting to cause a flaring of so_called tensions that do not exist at all given the current situation , Hua said at a news conference .
+question	3	ps_cue
+concern	6	ps_cue
+no	12	neg_cue
+not	25	neg_cue
+########
+31
+<EOP> .
+########
+32
+Chee said at the joint conference with Liu Zhenmin that countries attending Thursday 's meeting are encouraged to see that the situation in the South China Sea has been stable .
+encouraged	16	ps_cue
+########
+33
+<EOP> .
+########
+34
+The high_level officials also approved on Thursday the results from a test run of a hotline for senior diplomats and a document related to establishing three technical committees .
+approved	4	CT+	CT+
+########
+35
+<EOP> .
+########
+36
+Sources with the Foreign Ministry said the three committees focus on navigation security and search and rescue technology cooperation , maritime scientific research and environmental protection , and fighting maritime cross_border crime .
+########
+37
+<EOP> .
+########
+38
+Ruan Zongze , vice_president of the China Institute of International Studies , said the approval of the COC draft framework means that discussion on measures to work through the South China Sea issue and expand marine cooperation is back on track .
+approval	14	CT+	CT+
+########
+39
+<EOP> .
+########
+40
+`` Although the COC wo n't directly solve the South China Sea issue , it will create favorable conditions for peace and stability there , and for future settlement of the problems . ''
+n't	5	neg_cue
+will	15	ps_cue
+########
+41
+<EOP> .
+########
+42
+Contact the writers at lixiaokun@chinadaily.com.cn <EOP> .
+########

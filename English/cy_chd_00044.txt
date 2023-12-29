@@ -1,0 +1,84 @@
+Do Canadian envoy settles into Beijing
+0
+Canadian envoy settles into Beijing <EOP> .
+settles	2	CT+	CT+
+########
+1
+2017_04_07 08:15 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+<EOP> .
+########
+4
+`` We want to do more , '' John McCallum , Canada 's new ambassador to China , told President Xi Jinping on behalf of Canadian Prime Minister Justin Trudeau when he presented his credentials on March 17 , no more than 24 hours after arriving in Beijing .
+arriving	45	CT+	CT+
+no	39	neg_cue
+########
+5
+<EOP> .
+########
+6
+`` More , more , more , '' McCallum repeated in Mandarin .
+########
+7
+<EOP> .
+########
+8
+`` That includes more trade , more investment , more tourists and more cooperation on environment , which is a very good area for us to work together , '' he said when meeting the media on Thursday .
+########
+9
+<EOP> .
+########
+10
+He also told Xi a little story in Mandarin about how his attachment to China can be explained by the three numbers 100 , 50 and 40 .
+little	5	neg_cue
+can	15	ps_cue
+########
+11
+<EOP> .
+########
+12
+`` My wife is 100 percent Chinese , my three sons are 50 percent Chinese , and the people of Markham where I come from in Canada , who elected me , are 40 percent Chinese , '' the ambassador said in English and Mandarin .
+########
+13
+<EOP> .
+########
+14
+McCallum said he has walked around Beijing a lot with his wife .
+########
+15
+<EOP> .
+########
+16
+`` My wife and I are both very excited to be in China today because I think there are huge opportunities for strengthening the ties between Canada and China , that is exactly what we want to do , '' he said .
+be	10	CT+	CT+
+opportunities	20	ps_cue
+########
+17
+<EOP> .
+########
+18
+In addition to Beijing , the new ambassador has already visited southwestern China and plans to visit Tianjin on Friday , and Shanghai and Hangzhou , Zhejiang province , next week .
+plans	14	ps_cue
+########
+19
+<EOP> .
+########
+20
+The 67_year_old will spend his birthday on Sunday on the train to Shanghai .
+will	2	ps_cue
+########
+21
+<EOP> .
+########
+22
+McCallum now spends six hours every week learning Mandarin because he hopes `` next time you will hear more Mandarin '' .
+hopes	11	ps_cue
+will	16	ps_cue
+########
+23
+<EOP> .
+########

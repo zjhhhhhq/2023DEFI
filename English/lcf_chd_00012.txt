@@ -1,0 +1,21 @@
+Does Medvedev start China visit
+0
+Medvedev starts China visit , talks with Chinese internet users <EOP> .
+visit	3	CT+	CT+
+########
+1
+2017_11_01 08:46 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+Premier Li Keqiang , right , meets with visiting Russian Prime Minister Dmitry Medvedev in Beijing , on Oct 31 , 2017 .
+########
+4
+Medvedev is on an official visit to China from Oct 31 to Nov 2 .
+visit	5	CT+	CT+
+########
+5
+LRB Photo_Xinhua RRB <EOP> .
+########

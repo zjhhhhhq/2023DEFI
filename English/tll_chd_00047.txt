@@ -1,0 +1,50 @@
+Does US withdraw from the Paris climate agreement
+0
+Merkel calls US withdrawal from Paris Agreement `` very regrettable '' <EOP> .
+withdrawal	3	CT+	CT+
+########
+1
+2017_06_02 19:45 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+BERLIN _ German Chancellor Angela Merkel said on Friday the US decision to withdraw from the Paris climate agreement was `` very regrettable . ''
+withdraw	13	CT+	CT+
+withdraw	13	neg_cue
+########
+4
+<EOP> .
+########
+5
+In a statement , Merkel said the Paris Agreement is essential to `` preserve our creation '' and that Germany will abide by its responsibilities .
+will	20	ps_cue
+########
+6
+<EOP> .
+########
+7
+The German chancellor said she is `` touched and encouraged '' by the states and businesses in the United States that `` will go together with us in this irreversible way . ''
+encouraged	9	ps_cue
+will	22	ps_cue
+########
+8
+<EOP> .
+########
+9
+Merkel pledged her country 's support to Fiji in November 's UN climate conference to be held in Germany 's Bonn , which is a further step to the implementation of the Paris Agreement .
+########
+10
+The conference will be presided over by Fiji .
+will	2	ps_cue
+########
+11
+<EOP> .
+########
+12
+Merkel called on all to `` stick to the way '' to be `` successful for the Mother Earth . ''
+########
+13
+<EOP> .
+########

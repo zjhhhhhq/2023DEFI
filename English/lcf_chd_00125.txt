@@ -1,0 +1,118 @@
+Has considerable progress been made on the issue
+0
+Latest Brexit talks mark ` considerable progress ' although in dribs and drabs <EOP> .
+progress	6	CT+	CT+
+########
+1
+2017_09_29 09:29 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+<EOP> .
+########
+4
+Britain 's Brexit Secretary David Davis LRB L RRB and European Union chief negotiator Michel Barnier attand a press conference at the end of the fourth round of Brexit talks at the EU Commission in Brussels , Belgium , Sept 28 , 2017 .
+########
+5
+LRB Photo_Xinhua RRB <EOP> .
+########
+6
+BRUSSELS __ The latest round of Brexit talks tried to work towards achieving concrete progress .
+########
+7
+Britain 's Brexit Secretary David Davis told reporters here on Thursday that `` considerable progress has been made in issues that matter . ''
+########
+8
+<EOP> .
+########
+9
+The talks , the fourth round so far , came on the heels of British Prime Minister Theresa May 's high_profile speech in the Italian city of Florence spelling out Britain 's plans to leave the EU .
+May	18	ps_cue
+plans	32	ps_cue
+########
+10
+<EOP> .
+########
+11
+In her speech last week , May proposed a two_year transition period after Britain left the EU in March 2019 .
+May	6	ps_cue
+proposed	7	ps_cue
+########
+12
+She also pledged that Britain would pay its `` fair share '' into the EU budget __ a hint that London would budge on the touchy issue of the Brexit `` divorce bill . ''
+would	5	ps_cue
+would	21	ps_cue
+########
+13
+<EOP> .
+########
+14
+EU chief negotiator Michel Barnier said Britain agreed to honor the withdrawal agreement , which `` gives the assurance to EU citizens that they will be able to invoke their rights , as defined by the withdrawal agreement , before UK courts . ''
+will	24	ps_cue
+########
+15
+<EOP> .
+########
+16
+`` We agreed to guarantee __ for the citizens concerned __ that the UK will apply EU law concepts in a manner that is consistent with EU law after Brexit , '' he stated .
+will	14	ps_cue
+########
+17
+<EOP> .
+########
+18
+However , that seemed to be the extent of progress achieved .
+progress	9	PS+	CT+
+seemed	3	ps_cue
+########
+19
+<EOP> .
+########
+20
+The two sides failed to agree over the role of the European Court of Justice LRB ECJ RRB , which Barnier called a `` stumbling block '' for the EU .
+failed	3	neg_cue
+block	25	neg_cue
+########
+21
+<EOP> .
+########
+22
+In her speech , May promised to quit the EU single market and seek a free trade agreement with the EU .
+May	4	ps_cue
+quit	7	neg_cue
+########
+23
+She also pledged to restrict access to Britain for EU citizens and end the jurisdiction of the European Court of Justice in Britain .
+########
+24
+The 12_point blueprint was dubbed a `` hard Brexit . ''
+########
+25
+<EOP> .
+########
+26
+But May 's Brexit plan has long been dubbed as `` cherry_picking '' in Brussels and Strasbourg , where the jurisdiction of the European Court of Justice in Britain is taken as `` indispensable . ''
+May	1	ps_cue
+plan	4	ps_cue
+########
+27
+<EOP> .
+########
+28
+Davis said both sides should be more imaginative on the issue .
+should	4	ps_cue
+########
+29
+<EOP> .
+########
+30
+`` The United Kingdom thinks that in some cases we must go beyond the strict requirements of current EU law in order to protect citizens .
+########
+31
+For example , we have offered the European Union guaranteed rights of return for settled EU citizens in the UK , in return for onward movement rights for our UK nationals who currently live within the EU27 , '' he said .
+########
+32
+<EOP> .
+########

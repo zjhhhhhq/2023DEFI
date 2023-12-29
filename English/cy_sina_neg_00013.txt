@@ -1,0 +1,96 @@
+Do women have to get permission from their male guardians to take driving lessons
+0
+The country 's US ambassador , Prince Khaled bin Salman , said it was `` an historic and big day '' and `` the right decision at the right time '' .
+########
+1
+<EOP> .
+########
+2
+He confirmed that women will not have to get permission from their male guardians to take driving lessons , and would be able to drive anywhere they liked .
+permission	9	CT-	CT-
+not	5	neg_cue
+will	4	ps_cue
+would	20	ps_cue
+########
+3
+<EOP> .
+########
+4
+The move was welcomed by the US state department , which called it `` a great step in the right direction '' .
+########
+5
+<EOP> .
+########
+6
+UN Secretary General Antonio Guterres echoed that sentiment .
+########
+7
+<EOP> .
+########
+8
+Under the current system , only men are allowed driving licenses and women who drive in public risk being arrested and fined .
+########
+9
+<EOP> .
+########
+10
+Because of the law , many families have had to employ private drivers to help transport female relatives .
+########
+11
+<EOP> .
+########
+12
+Saudi activist Loujain al_Hathloul , who was detained for 73 days in 2017 for flouting the ban , tweeted `` thank God '' following the announcement .
+ban	16	neg_cue
+########
+13
+<EOP> .
+########
+14
+Manal al_Sharif , an organizer of the Women2Drive campaign who has also been imprisoned for driving , said on Twitter that Saudi Arabia would `` never be the same again '' .
+imprisoned	13	CT-	CT-
+never	25	neg_cue
+would	23	ps_cue
+########
+15
+<EOP> .
+########
+16
+`` I 'm going to buy my dream car , a convertible Mustang , and it 's going to be black and yellow . ''
+########
+17
+<EOP> .
+########
+18
+This decree is huge for Saudi Arabia .
+########
+19
+For decades now , Saudi women , many of whom are extremely well_educated and ambitious , have been waiting for their chance to participate fully in their country 's economy .
+########
+20
+<EOP> .
+########
+21
+The reason it has taken so long is the long_standing opposition from religious conservatives , who have expressed views varying from `` they are too stupid to drive '' to `` it will lead to intolerable mingling of the sexes '' .
+opposition	10	neg_cue
+will	32	ps_cue
+########
+22
+<EOP> .
+########
+23
+For all this time families have had to stretch their budgets to the limit , as they have had to hire in imported chauffeurs from south and south_east Asia , house them , feed them and insure them .
+limit	13	neg_cue
+########
+24
+An estimated 800,000 imported chauffeurs currently ferry Saudi women around .
+########
+25
+<EOP> .
+########
+26
+Yet this decree is in line with a programme called Vision 2030 , promoted by Saudi Crown Prince Mohammed Bin Salman , to modernize Saudi society and bring it more into line with the rest of the world .
+########
+27
+<EOP> .
+########

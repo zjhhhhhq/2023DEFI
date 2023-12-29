@@ -1,0 +1,125 @@
+Does UK have a discussion of future ties in December
+0
+UK govt seeks to assure EU over bill <EOP> .
+seeks	2	ps_cue
+########
+1
+2017_10_24 07:46 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+<EOP> .
+########
+4
+LONDON _ Britain can only come up with a figure for a financial settlement with the European Union when Brexit has been agreed , trade minister Liam Fox said on Sunday , warning leaders not to believe London is bluffing over a no deal .
+can	3	ps_cue
+not	34	neg_cue
+no	42	neg_cue
+########
+5
+<EOP> .
+########
+6
+Prime Minister Theresa May won a reprieve last week in the talks to unravel more than 40 years of union , when EU leaders offered a signal that the negotiations could move on to a discussion of future ties in December .
+discussion	35	PS+	CT+
+could	30	ps_cue
+May	3	ps_cue
+########
+7
+<EOP> .
+########
+8
+But the British leader , weakened after losing her Conservatives ' majority in a June election and failing to reset her agenda at an ill_fated party conference , faces several hurdles at home before being able to force the talks forward .
+failing	17	neg_cue
+forward	40	ps_cue
+forward	40	neg_cue
+########
+9
+<EOP> .
+########
+10
+She must get legislation to sever ties with the EU through both houses of parliament , and , on Sunday , the opposition Labour Party said it would team up with Conservative rebels to try to force changes to the EU withdrawal bill .
+opposition	22	neg_cue
+would	27	ps_cue
+########
+11
+<EOP> .
+########
+12
+Fox , speaking on ITV television , said Britain would offer the other 27 EU members `` further assurance '' on its divorce before the next summit in December to unlock the talks to make way for a discussion of future trade ties .
+discussion	38	CT+	CT+
+would	9	ps_cue
+########
+13
+<EOP> .
+########
+14
+`` I do n't know what that number is but it 's very clear that we could only have that final number as part of a final agreement , we would want to know what the end state is , '' Fox said .
+n't	3	neg_cue
+could	16	ps_cue
+would	30	ps_cue
+########
+15
+<EOP> .
+########
+16
+`` Away from the hyperbole around the divorce bill there is actually a great deal of cooperation going on between us , '' he said , adding that the government would show the EU that `` we are moving in the right direction '' on the first phase of talks .
+talks	49	CT+	CT+
+would	30	ps_cue
+########
+17
+<EOP> .
+########
+18
+But he also said the EU should not believe that Britain was bluffing by saying it was preparing for a no deal , describing trading according to World Trade Organization rules as `` not exactly a nightmare scenario '' .
+should	6	ps_cue
+not	7	neg_cue
+no	20	neg_cue
+not	33	neg_cue
+########
+19
+<EOP> .
+########
+20
+May faces a delicate balancing act , not only in Brussels , where she must respond to the EU 's demands for more concrete pledges on the so_called divorce bill , but also at home , where some of her lawmakers want her to walk away from the talks .
+May	0	ps_cue
+not	7	neg_cue
+########
+21
+<EOP> .
+########
+22
+Upping the pressure on her , Labour 's Brexit spokesman Keir Starmer said the party would back Conservatives hoping to amend the EU withdrawal bill .
+would	15	ps_cue
+hoping	18	ps_cue
+########
+23
+<EOP> .
+########
+24
+Starmer said he wanted six changes to the bill , including parliament getting a final vote on any deal and a `` completely different approach '' to the use of the powers the government will have under the legislation , which will not be put before parliament until next month .
+wanted	3	ps_cue
+will	34	ps_cue
+will	41	ps_cue
+not	42	neg_cue
+########
+25
+<EOP> .
+########
+26
+`` I believe there is a consensus in parliament for these changes , '' he wrote in the Sunday Times newspaper .
+########
+27
+<EOP> .
+########
+28
+Reuters <EOP> .
+########
+29
+<EOP> .
+########
+30
+LRB China Daily 10_24_2017 page11 RRB <EOP> .
+########

@@ -1,0 +1,67 @@
+Was a Chinese citizen shot dead in Laos
+0
+Chinese citizen shot dead in Laos <EOP> .
+dead	3	CT+	CT+
+########
+1
+2017_06_19 08:20 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+VIENTIANE _ Chinese Embassy in Laos on Sunday issued a safety warning after a Chinese citizen was shot dead in Lao 's central Xaysomboun province .
+dead	18	CT+	CT+
+########
+4
+<EOP> .
+########
+5
+According to the embassy , a Chinese citizen was shot dead by unidentified persons on Friday in Xaysomboun province , some 130 km northeast of Lao capital Vientiane .
+dead	10	CT+	CT+
+########
+6
+<EOP> .
+########
+7
+The Lao side is currently investigating the incident , the embassy said .
+########
+8
+<EOP> .
+########
+9
+The Chinese embassy has asked the Lao side to break the case as soon as possible , punish the assailants while taking effective measures to ensure safety of Chinese citizens and institutions in Laos .
+possible	15	ps_cue
+########
+10
+<EOP> .
+########
+11
+In its safety warning , the embassy reminds Chinese citizens and institutions in Laos to further improve safety awareness and strengthen security precautions .
+########
+12
+In case of emergency , Chinese citizens should immediately report to Lao police , and contact the Chinese embassy and consulate in Laos , it said .
+should	7	ps_cue
+########
+13
+<EOP> .
+########
+14
+Previously on March 1 , 2016 , a Chinese company in the northern Luang Prabang province was attacked by an unidentified armed group , leaving one Chinese citizen dead and three others injured .
+########
+15
+<EOP> .
+########
+16
+On Jan. 24 , 2016 , an attack by an unidentified group in Xaysomboun province killed two Chinese people and injured one .
+killed	15	CT+	CT+
+########
+17
+<EOP> .
+########
+18
+The safety warning by Chinese Embassy in Laos is effective for six months until Dec. 18 , 2017 .
+########
+19
+<EOP> .
+########

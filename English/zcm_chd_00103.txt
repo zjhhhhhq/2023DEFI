@@ -1,0 +1,183 @@
+Will a group hold a `` Free Speech '' rally with right_wing speakers on Saturday
+0
+After Charlottesville , Boston aims to avert violence at ` Free Speech ' rally <EOP> .
+########
+1
+2017_08_20 00:12 <EOP> .
+########
+2
+Reuters <EOP> .
+########
+3
+A large crowd of people gathers ahead of the Boston Free Speech Rally in Boston , Massachusetts , U.S. , August 19 , 2017 .
+########
+4
+REUTERS_Stephanie Keith <EOP> .
+########
+5
+BOSTON LRB Reuters RRB _ Hundreds of police officers were positioned around a Boston park where a group plans to hold a `` Free Speech '' rally with right_wing speakers on Saturday , a week after a woman was killed at a Virginia white_supremacist protest .
+hold	20	PS+	PS+
+plans	18	ps_cue
+########
+6
+<EOP> .
+########
+7
+Thousands of counter_protesters who believe the event could become a platform for racist propaganda were gathering about 2 miles LRB 3.2 km RRB away with plans to march on the rally .
+march	27	PS+	PS+
+plans	25	ps_cue
+could	7	ps_cue
+########
+8
+<EOP> .
+########
+9
+Streets around Boston Common were lightly trafficked early on Saturday , while some 500 police officers placed barricades to prevent vehicles from entering the park , the nation 's oldest .
+prevent	19	neg_cue
+########
+10
+To keep the two groups separate , they also built a cordon around the site of the rally .
+########
+11
+<EOP> .
+########
+12
+Last weekend 's violent clashes in Charlottesville , Virginia , where one woman was killed in a car rampage after bloody street battles , ratcheted up racial tensions already inflamed by white supremacist groups marching more openly in rallies across the United States .
+########
+13
+<EOP> .
+########
+14
+White nationalists had converged in the Southern university city to defend a statue of Robert E. Lee , who led the pro_slavery Confederacy 's army during the Civil War , which ended in 1865 .
+########
+15
+<EOP> .
+########
+16
+A growing number of U.S. political leaders have called for the removal of statues honoring the Confederacy , with civil rights activists charging that they promote racism .
+########
+17
+Advocates of the statues contend they are a reminder of their heritage .
+########
+18
+<EOP> .
+########
+19
+Duke University removed a Lee statue from the entrance of a chapel on its Durham , North Carolina campus , officials said on Saturday .
+########
+20
+<EOP> .
+########
+21
+Organizers of Saturday 's rally in Boston have denounced the white supremacist message and violence of Charlottesville and said their event would be peaceful .
+would	21	ps_cue
+########
+22
+<EOP> .
+########
+23
+`` The point of this is to have political speech from across the spectrum , conservative , libertarian , centrist , '' said Chris Hood , an 18_year_old Boston resident who stood among a crowd of a few dozen people who planned to join the Free Speech rally .
+planned	41	ps_cue
+########
+24
+`` This is not about Nazis .
+not	3	neg_cue
+########
+25
+If there were Nazis here , I 'd be protesting against them . ''
+against	10	neg_cue
+########
+26
+<EOP> .
+########
+27
+Last weekend 's violence sparked the biggest domestic crisis yet for U.S. President Donald Trump , who provoked ire across the political spectrum for not immediately condemning white nationalists and for praising `` very fine people '' on both sides of the fight .
+yet	9	neg_cue
+not	24	neg_cue
+########
+28
+<EOP> .
+########
+29
+Beyond the Boston rally and counter_march , protests are also expected on Saturday in Texas , with the Houston chapter of Black Lives Matter holding a rally to remove a `` Spirit of the Confederacy '' monument from a park and civil rights activists in Dallas planning a rally against white supremacy .
+expected	10	ps_cue
+planning	46	ps_cue
+against	49	neg_cue
+########
+30
+<EOP> .
+########
+31
+Boston authorities also planned to put roadblocks in place to avert car attacks like the deadly one carried out in Charlottesville by a man said to have neo_Nazi sympathies against counter_protesters and a similar spate of attacks by Islamist extremists in Europe , most recently Barcelona .
+planned	3	ps_cue
+like	13	ps_cue
+against	29	neg_cue
+########
+32
+<EOP> .
+########
+33
+COUNTER_PROTESTERS REJECT PLEA <EOP> .
+########
+34
+Boston Mayor Marty Walsh had asked counter_protesters to avoid Boston Common , saying their presence would draw more attention to the far_right activists .
+avoid	8	neg_cue
+would	15	ps_cue
+########
+35
+He joined the crowd of thousands of counter_protesters assembling in Boston 's historically black Roxbury neighborhood early on Saturday .
+########
+36
+<EOP> .
+########
+37
+`` These signs and the message so far this morning is all about love and peace , '' Walsh told reporters .
+love	13	ps_cue
+########
+38
+`` That 's a good message . ''
+########
+39
+<EOP> .
+########
+40
+Monica Cannon , an organizer of the `` Fight White Supremacy '' march , said it was a necessary move .
+########
+41
+<EOP> .
+########
+42
+`` Ignoring a problem has never solved it , '' Cannon said in a phone interview .
+never	5	neg_cue
+########
+43
+`` We can not continue to ignore racism . ''
+can	2	ps_cue
+not	3	neg_cue
+########
+44
+<EOP> .
+########
+45
+The Free Speech rally 's scheduled speakers include Kyle Chapman , a California activist who was arrested at a Berkeley rally earlier this year that turned violent , and Joe Biggs , formerly of the right_wing conspiracy site Infowars .
+scheduled	5	ps_cue
+########
+46
+<EOP> .
+########
+47
+Ron Villareale , a 71_year_old military veteran , stood by on the Boston Common wearing a tricornered hat and other garb common in 18th_century colonial times .
+########
+48
+<EOP> .
+########
+49
+`` We have too many extremists in this country , '' Villareale said .
+########
+50
+`` If you do n't agree with someone , ignore them . ''
+n't	4	neg_cue
+########
+51
+<EOP> .
+########

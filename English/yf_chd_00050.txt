@@ -1,0 +1,67 @@
+Do snow storms leave people without power 
+0
+More than 36,000 without power after snow storms hit Canadian BC province <EOP> .
+without	3	neg_cue
+########
+1
+2017_12_31 16:04 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+OTTAWA _ Two snow storms in Canada 's western province of British Columbia have left more than 36,000 people without power until Saturday noon , according to local media reports .
+left	14	CT+	CT+
+without	19	neg_cue
+########
+4
+<EOP> .
+########
+5
+`` These storms have caused extensive damage to our electrical systems , '' a spokesperson of British Columbia Hydro said .
+########
+6
+`` Trees have actually been coated by a layer of ice , so that additional weight on the branches is actually causing them to break and fall on the power lines . ''
+########
+7
+<EOP> .
+########
+8
+The hardest_hit areas are in Abbotsford and Mission in the southern area of the province where two ice storms ravaged the areas Friday .
+########
+9
+The storms have affected nearly 120,000 residents .
+########
+10
+<EOP> .
+########
+11
+As of Saturday morning , 82,000 residents have had their power restored while more than 36,000 were still suffering `` without power . ''
+were	16	CT+	CT+
+without	20	neg_cue
+########
+12
+<EOP> .
+########
+13
+The spokesperson said more hydro crews have been brought in from other regions to work to help with the restoration of power .
+########
+14
+`` The progress has been unfortunately limited just due to the extremely challenging conditions . ''
+########
+15
+<EOP> .
+########
+16
+Police in the area urged residents to stay indoors until the weather changes .
+########
+17
+<EOP> .
+########
+18
+Canada was faced with an epic cold weather that had plunged the mercury to record_setting lows , with forecasts calling for daily highs in the _ 20 to _ 30 degrees Celsius range in major cities across the country , according to Environment Canada Thursday .
+forecasts	18	ps_cue
+########
+19
+<EOP> .
+########

@@ -1,0 +1,125 @@
+Is access to China 's bond market eased 
+0
+Easing access to China 's bond market <EOP> .
+access	1	CT+	CT+
+########
+1
+2017_04_13 11:09 <EOP> .
+########
+2
+China Daily USA <EOP> .
+########
+3
+A couple of companies are working together to open up access to China 's bond market .
+access	10	CT+	CT+
+########
+4
+<EOP> .
+########
+5
+At a seminar called Canada and China : Financial Connections Through RMB Markets in Toronto last Thursday , Xu Zhen , chairman of the board of Shanghai Clearing House LRB SHCH RRB , said SHCH will work with Canada 's TMX Group to expedite cross_border investments .
+will	35	ps_cue
+########
+6
+<EOP> .
+########
+7
+`` I come to Canada to tell the story of China 's bond market , and we hope to learn from international experiences so that we can integrate into the world capital market , '' Xu said .
+hope	17	ps_cue
+can	26	ps_cue
+########
+8
+<EOP> .
+########
+9
+According to Xu , Canadian and North American investors will be given easier access to China 's bond market by exploring ways to link securities registration and custody functions with TMX Group .
+access	13	CT+	CT+
+will	9	ps_cue
+########
+10
+<EOP> .
+########
+11
+In addition , the People 's Bank of China LRB PBOC RRB will further deregulate the bond market by improving legal , accounting , auditing , tax and credit_rating policies and strengthen communications with overseas investors .
+will	12	ps_cue
+########
+12
+<EOP> .
+########
+13
+`` The deregulation depends on how open China 's bond market is to the world , '' said Xu .
+########
+14
+`` But absolutely , we are open to the world . ''
+########
+15
+<EOP> .
+########
+16
+Supervised by China 's central bank , the state_owned clearinghouse and TMX announced the signing of a memorandum of understanding to establish a cooperative relationship to share information on each other 's businesses and explore opportunities for collaboration last year in Toronto .
+opportunities	35	ps_cue
+########
+17
+<EOP> .
+########
+18
+As China moves to make its $ 9 trillion domestic bond market more global , it has stepped up efforts to open up its bond market _ the world 's third largest _ to foreign investors in an effort to promote international use of the RMB .
+########
+19
+<EOP> .
+########
+20
+`` In the 1990s , when you talked about investment , most people would think you should invest in Western countries .
+would	13	ps_cue
+should	16	ps_cue
+########
+21
+But today you have more choices , '' said Huang Hong , vice_president , Bank of China 's Shanghai headquarters .
+########
+22
+`` With RMB 's globalization , I 'd suggest that why not look at China 's market ?
+suggest	8	ps_cue
+not	11	neg_cue
+########
+23
+Why not invest in RMB bonds ? ''
+not	1	neg_cue
+########
+24
+<EOP> .
+########
+25
+Financial cooperation between the two sides has grown stronger after the exchange of visits by Premier Li Keqiang and Canadian Prime Minister Justin Trudeau last September .
+########
+26
+Canada and China will upgrade their economic and financial strategic dialogue to the vice_premier level , which will start in the second quarter of 2017 .
+will	3	ps_cue
+will	17	ps_cue
+########
+27
+<EOP> .
+########
+28
+`` China is the second_largest trading partner of Canada .
+########
+29
+Many Canadian organizations have already issued RMB bonds in China capital market .
+########
+30
+I think holding RMB is now a good opportunity to make a valuable investment in China 's fast_growing market , '' Huang added .
+########
+31
+<EOP> .
+########
+32
+China 's economy has developed rapidly alongside its bond market .
+########
+33
+Last year , bonds issued in China totaled 36.1 trillion yuan LRB $ 5.2 trillion RRB , up 54.2 percent from a year earlier , according to data from the PBOC .
+########
+34
+<EOP> .
+########
+35
+renali@chinadailyusa.com <EOP> .
+########

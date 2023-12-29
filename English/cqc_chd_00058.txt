@@ -1,0 +1,43 @@
+Will China and Singapore enhance political trust
+0
+China , Singapore pledge to enhance ties <EOP> .
+enhance	5	CT+	CT+
+########
+1
+2017_06_29 21:30 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+BEIJING __ Chinese Vice_Premier Zhang Gaoli met with Singapore 's Deputy Prime Minister Tharman Shanmugaratnam Thursday , pledging to strengthen bilateral relations .
+strengthen	19	CT+	CT+
+########
+4
+<EOP> .
+########
+5
+China will work with Singapore to enhance political trust , cooperate under the Belt and Road Initiative , expand financial cooperation , and collaborate within multilateral frameworks , Zhang said .
+enhance	6	CT+	CT+
+will	1	ps_cue
+########
+6
+<EOP> .
+########
+7
+Zhang called on both countries to contribute to trade liberalization and economic globalization as the world economy faces uncertainties and challenges .
+########
+8
+<EOP> .
+########
+9
+Tharman congratulated China on the 20th anniversary of Hong Kong 's return to the motherland .
+########
+10
+He said Singapore will work with China under the Belt and Road Initiative to promote cooperation in connectivity and finance and partnerships with third parties .
+promote	14	CT+	CT+
+will	3	ps_cue
+########
+11
+<EOP> .
+########

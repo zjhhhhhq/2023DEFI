@@ -1,0 +1,81 @@
+Does China manipulate its currency
+0
+US Treasury says China does not manipulate its currency <EOP> .
+manipulate	6	CT-	CT-
+not	5	neg_cue
+########
+1
+2017_04_15 08:11 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+WASHINGTON __ US Treasury Department on Friday declared that no major trading partner of the US , including China , met the standard of manipulating its currency , while six economies were listed on its Monitoring List as their foreign exchange polices bear close monitoring .
+manipulating	24	CT-	CT-
+no	9	neg_cue
+########
+4
+<EOP> .
+########
+5
+In its Semi_Annual Report to Congress on International Economic and Exchange Rate Policies , the Treasury Department concluded that no major trading partner of the United States , including China , has manipulated their currencies over the past six months to keep them undervalued .
+manipulated	32	CT-	CT-
+no	19	neg_cue
+########
+6
+<EOP> .
+########
+7
+However , it put China , China 's Taiwan , Japan , South Korea , , Germany , and Switzerland on its Monitoring List , saying their foreign exchange policies bear close monitoring .
+########
+8
+<EOP> .
+########
+9
+The report said that China remained on the list because of its `` disproportionate share of the overall US trade deficit , '' despite that China 's current account surplus was only 1.8 percent of GDP in 2016 , sharply down from 2.8 percent of GDP in 2015 .
+########
+10
+<EOP> .
+########
+11
+US President Donald Trump this week said in an interview that China has n't been manipulating its currency for months , a sharp reversal from his campaign rhetoric .
+manipulating	15	CT-	CT-
+n't	13	neg_cue
+########
+12
+<EOP> .
+########
+13
+Many economists have argued that the Chinese currency , RMB , has been at equilibrium level in recent years .
+########
+14
+<EOP> .
+########
+15
+Over the last decade , China 's effective exchange rate has appreciated more than any other major currency , rising a total of more than 40 percent , said David Dollar , a senior fellow at the Brookings Institution .
+########
+16
+<EOP> .
+########
+17
+Brad Setser , an expert with Council on Foreign Relations , noted that the RMB exchange rate is now close to equilibrium .
+########
+18
+He expected that the RMB exchange rate would remain stable at current level with China 's current account surplus and its efforts to deal with capital outflows .
+expected	1	ps_cue
+would	7	ps_cue
+########
+19
+<EOP> .
+########
+20
+The International Monetary Fund declared the RMB as no longer undervalued in 2015 .
+no	8	neg_cue
+########
+21
+Under Obama administration , the Treasury Department also dropped its previous assessment that the RMB was `` significant undervalued '' .
+########
+22
+<EOP> .
+########

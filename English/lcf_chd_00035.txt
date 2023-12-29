@@ -1,0 +1,59 @@
+Will the Spanish government apply the article 155 
+0
+Spain to apply article 155 based on Catalan gov ` t 's disobedience : media <EOP> .
+apply	2	CT+	CT+
+########
+1
+2017_10_21 21:11 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+MADRID _ The Spanish government will apply the article 155 of the Spanish constitution based on the Catalan government disobedience , the Spanish news agency EFE reported on Saturday .
+apply	6	CT+	CT+
+will	5	ps_cue
+########
+4
+<EOP> .
+########
+5
+The Spanish government , whose cabinet meeting discusses the specific measures to implement according to the article , justified the decision based on `` rebel , systematic and conscious disobedience '' of the regional government of Catalonia , or Generalitat .
+or	38	ps_cue
+########
+6
+<EOP> .
+########
+7
+According to them , the Generalitat does not commit to the laws and their actions `` seriously '' affect the general interest of Spain .
+not	7	neg_cue
+########
+8
+<EOP> .
+########
+9
+After the extraordinary cabinet meeting , Spain 's Prime Minister Mariano Rajoy appeared in a press conference to explain the specific measures agreed that will be passed to the Senate for ratification .
+appeared	12	ps_cue
+will	24	ps_cue
+########
+10
+<EOP> .
+########
+11
+Rajoy said the president of the regional government of Catalonia , Carles Puigdemont , failed to clarify whether he had declared the independence of the region or not after a referendum declared illegal by Spain 's Constitutional Court .
+failed	14	neg_cue
+whether	17	ps_cue
+or	26	ps_cue
+not	27	neg_cue
+########
+12
+<EOP> .
+########
+13
+This would lead to the application of the article 155 of Spain 's constitution to bring pro_independence leaders into line .
+application	5	CT+	CT+
+would	1	ps_cue
+########
+14
+<EOP> .
+########

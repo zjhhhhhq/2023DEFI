@@ -1,0 +1,40 @@
+Will the FBI complete its investigation into alleged Russia interference in the 2016 election
+0
+White House encourages FBI to complete probe <EOP> .
+########
+1
+2017_05_11 04:25 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+The White House wants the FBI to complete its investigation into alleged Russia interference in the 2016 election .
+complete	7	PS+	PS+
+wants	3	ps_cue
+########
+4
+<EOP> .
+########
+5
+White House spokeswoman Sarah Huckabee Sanders said on Wednesday that `` we encourage them to complete the investigation '' so that it will be proven that `` there is no evidence of collusion between the Trump campaign and Russia .
+complete	15	PS+	PS+
+will	22	ps_cue
+no	29	neg_cue
+########
+6
+`` Sanders said the White House does not think appointing a special prosecutor is necessary .
+not	7	neg_cue
+########
+7
+<EOP> .
+########
+8
+US President Donald Trump fired FBI Director James Comey on Tuesday , amid an investigation into Russian ties to the Trump campaign and meddling in the 2016 election .
+########
+9
+<EOP> .
+########
+10
+AP <EOP> .
+########

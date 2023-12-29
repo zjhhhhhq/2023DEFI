@@ -1,0 +1,70 @@
+Will American citizens soon be banned from travelling to the Democratic People 's Republic of Korea LRB DPRK RRB
+0
+US to ban Americans from travelling to DPRK <EOP> .
+ban	2	neg_cue
+########
+1
+2017_07_23 09:27 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+<EOP> .
+########
+4
+Travelers wait in line at Los Angeles International Airport , the United States , June 30 , 2017 .
+########
+5
+LRB Photo_Xinhua RRB <EOP> .
+########
+6
+<EOP> .
+########
+7
+<EOP> .
+########
+8
+WASHINGTON _ The US State Department said on Friday that American citizens will soon be banned from travelling to the Democratic People 's Republic of Korea LRB DPRK RRB .
+banned	15	CT+	CT+
+will	12	ps_cue
+banned	15	neg_cue
+########
+9
+<EOP> .
+########
+10
+The ban on all US citizens ' use of a passport to travel to , through or in the DPRK resulted from `` mounting concerns over the serious risk of arrest and long_term detention '' of Americans there , said State Department spokesman Heather Nauert in a statement to Xinhua .
+ban	1	neg_cue
+or	16	ps_cue
+########
+11
+<EOP> .
+########
+12
+According to Nauert , the ban was expected to be formally declared next week and would take effect 30 days after the formal declaration .
+ban	5	PS+	CT+
+expected	7	ps_cue
+ban	5	neg_cue
+would	15	ps_cue
+########
+13
+<EOP> .
+########
+14
+For Americans seeking to travel to the DPRK for `` certain limited humanitarian or other purposes , '' they may apply to the State Department for a special validation passport , Nauert added .
+seeking	2	ps_cue
+or	13	ps_cue
+may	19	ps_cue
+########
+15
+<EOP> .
+########
+16
+Before the introduction of the travel ban , the State Department had for long strongly warned Americans against travelling to the DPRK .
+ban	6	neg_cue
+against	17	neg_cue
+########
+17
+<EOP> .
+########

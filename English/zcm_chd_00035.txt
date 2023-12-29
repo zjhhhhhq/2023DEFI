@@ -1,0 +1,66 @@
+Do Mexicans dig through collapsed buildings as quake kills 225
+0
+Mexicans dig through collapsed buildings as quake kills 225 <EOP> .
+dig	1	CT	CT+
+########
+1
+2017_09_21 08:15 <EOP> .
+########
+2
+null <EOP> .
+########
+3
+<EOP> .
+########
+4
+Mexican soldiers work at a collapsed building after an earthquake in Mexico City , Mexico , Sept 20 , 2017 .
+########
+5
+LRB Photo_Agencies RRB <EOP> .
+########
+6
+MEXICO CITY _ Rescuers said Wednesday they have found a surviving child in the ruins of a school that collapsed in Mexico 's magnitude 7.1 earthquake , one of many efforts across the city to save people trapped in under schools , homes and businesses toppled by a quake that killed at least 225 people .
+found	8	CT+	CT+
+########
+7
+<EOP> .
+########
+8
+Helmeted workers worked at the debris , sometimes calling for silence , as they tried to reach the girl at the Enrique Rebsamen school in southern Mexico City .
+########
+9
+<EOP> .
+########
+10
+Foro TV reported that rescuers spotted the child and shouted to her to move her hand if she could hear them , and she did .
+spotted	5	CT+	CT+
+could	18	ps_cue
+########
+11
+A search dog subsequently entered the wreckage and confirmed she was alive .
+########
+12
+<EOP> .
+########
+13
+Tuesday 's magnitude_7 .1 quake struck on the 32nd anniversary of the 1985 earthquake that killed thousands .
+########
+14
+Just hours before it hit , people around Mexico had held earthquake drills to mark the date .
+########
+15
+<EOP> .
+########
+16
+One of the most desperate rescue efforts was at the Rebsamen primary and secondary school , where a wing of the three_story building collapsed into a massive pancake of concrete slabs .
+########
+17
+Journalists saw rescuers pull at least two small bodies from the rubble , covered in sheets .
+pull	3	CT+	CT+
+########
+18
+<EOP> .
+########
+19
+AP <EOP> .
+########

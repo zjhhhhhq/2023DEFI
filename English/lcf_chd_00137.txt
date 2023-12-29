@@ -1,0 +1,167 @@
+Will Macron cooperate with China
+0
+Merkel win could pave the way <EOP> .
+could	2	ps_cue
+########
+1
+2017_09_25 04:22 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+<EOP> .
+########
+4
+<EOP> .
+########
+5
+<EOP> .
+########
+6
+German Chancellor and leader of the Christian Democratic Union Angela Merkel votes in the general election in Berlin , Germany , on Sunday .
+########
+7
+FABRIZIO BENSCH _ REUTERS <EOP> .
+########
+8
+Veteran politician says Europe needs to work with China on new solutions <EOP> .
+needs	4	ps_cue
+########
+9
+With Germans casting their ballots on Sunday to elect the country 's new government , veteran French politician Jean_Pierre Raffarin said Chancellor Angela Merkel 's expected victory will form a `` perfect duo '' with new French President Emmanuel Macron to deepen Europe 's strategic partnership with China .
+partnership	45	CT+	CT+
+expected	25	ps_cue
+will	27	ps_cue
+########
+10
+<EOP> .
+########
+11
+Merkel 's Christian Democratic Union and its Bavarian counterpart the Christian Social Union have been leading the opinion polls , though the final results of the federal parliamentary election were still unavailable by press time .
+########
+12
+<EOP> .
+########
+13
+Former European Parliament president Martin Schulz , the leader of the opposition Social Democratic Party , the oldest political party in Germany , has been Merkel 's main rival .
+opposition	11	neg_cue
+########
+14
+<EOP> .
+########
+15
+`` I think , she LRB Angela Merkel RRB will win and she is a very good friend of China .
+will	9	ps_cue
+########
+16
+She understands why China is important for us LRB Europe RRB , '' Raffarin , former prime minister of France , told China Daily in an exclusive interview in Paris prior to the Sunday election .
+########
+17
+<EOP> .
+########
+18
+`` Merkel will work in a perfect duo with Macron , who was elected as French president in May , to cooperate with China . ''
+cooperate	21	CT+	CT+
+will	2	ps_cue
+May	18	ps_cue
+########
+19
+<EOP> .
+########
+20
+If Merkel wins the fourth_term election , she will outlast nearly all the Western politicians as a state leader .
+will	8	ps_cue
+########
+21
+Since 2005 , she has visited China more than 10 times .
+########
+22
+<EOP> .
+########
+23
+Raffarin said Macron , who recently said he planned to visit China early next year , has also shown a great interest in deepening the traditional relationship with China .
+planned	8	ps_cue
+########
+24
+<EOP> .
+########
+25
+Special envoy <EOP> .
+########
+26
+Raffarin was sent to China as Macron 's special envoy in May to attend the Belt and Road Initiative Forum for International Cooperation .
+May	11	ps_cue
+########
+27
+<EOP> .
+########
+28
+He said Macron is keen on working with China to explore cooperation under the framework of the Belt and Road Initiative .
+cooperation	11	CT+	CT+
+########
+29
+<EOP> .
+########
+30
+In recent days , President Xi Jinping had telephone conversations with Merkel and Macron respectively amid the Democratic People 's Republic of Korea nuclear issue .
+########
+31
+<EOP> .
+########
+32
+`` We need China and of course , it 's because of business , but above all , it 's because of peace , '' said Raffarin .
+need	2	ps_cue
+########
+33
+<EOP> .
+########
+34
+`` The world is dangerous , and in the history of China , you have the thinking of a balanced world .
+########
+35
+And we need that for the peace of the planet . ''
+need	2	ps_cue
+########
+36
+<EOP> .
+########
+37
+Raffarin said Europe , aiming to be a responsible global player , needs to work with China to provide new solutions to global problems across the Eurasian continent , and so the leaders should form a better working and personal relationship .
+needs	12	ps_cue
+should	33	ps_cue
+########
+38
+<EOP> .
+########
+39
+Raffarin said Europe 's relationship with the United States has not been in good shape since President Donald Trump took office .
+not	10	neg_cue
+########
+40
+<EOP> .
+########
+41
+He urged Merkel and Macron to work together to rebuild Europe , which badly needs `` change and reform '' .
+needs	14	ps_cue
+########
+42
+But Raffarin warned that if Europe chooses to weaken relations with China , `` it will lose '' , while if Merkel wins the election , Europe will be in a far better position .
+will	15	ps_cue
+will	27	ps_cue
+########
+43
+<EOP> .
+########
+44
+`` If Merkel wins , we will have a stronger Europe and good partnership with China .
+partnership	13	Uu	CT+
+will	6	ps_cue
+########
+45
+And we need that , '' said Raffarin .
+need	2	ps_cue
+########
+46
+<EOP> .
+########

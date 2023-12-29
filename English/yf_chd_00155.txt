@@ -1,0 +1,92 @@
+Will more Christmas products be produced in the coming years 
+0
+China 's ` Christmas Village ' makes 60 % of world 's Christmas decorations <EOP> .
+########
+1
+2017_12_13 07:47 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+Nearly two_thirds of the world 's Christmas products are manufactured in East China 's Yiwu , an inland city in Zhejiang province located about one_hour 's bullet train ride south of Shanghai , ABC news reported .
+products	7	CT+	CT+
+########
+4
+<EOP> .
+########
+5
+At least 30 percent of their orders are from the United States and the rest are from Russia , Latin America and China 's domestic market , workers from Yiwu 's Christmas factories were quoted as saying by ABC News .
+########
+6
+<EOP> .
+########
+7
+Over 600 factories and workshops surrounding the small city with 1.2 million people have yielded $ 3 billion worth of Christmas products from September 2016 till this August , according to monthly records from Hangzhou Customs .
+products	21	CT+	CT+
+########
+8
+<EOP> .
+########
+9
+Christmas is not an official holiday in China , but more and more people have gotten into the holiday spirit .
+not	2	neg_cue
+########
+10
+And that means an increase in decorations shipped from Yiwu .
+########
+11
+<EOP> .
+########
+12
+`` My children really like Christmas __ it 's just like celebrating Chinese New Year , '' Huang Aijuan , the owner of a factory that produces artificial Christmas trees , told ABC News .
+like	4	ps_cue
+like	10	ps_cue
+########
+13
+<EOP> .
+########
+14
+Summer is the peak time to produce the year 's Christmas products __ including Christmas trees , Santa hats , metal balls and LED lights __ as trading needs to be done several months ahead of the Christmas season .
+products	11	CT+	CT+
+needs	28	ps_cue
+########
+15
+The first stop for traders is often the Yiwu International Trade Market .
+stop	2	neg_cue
+########
+16
+<EOP> .
+########
+17
+In the city center of Yiwu , the wholesale_only market covers 2 square miles , roughly the same size as 26 of the Macy 's Herald Square flagship store in New York City .
+########
+18
+The Christmas product subdivision is only a small portion among the 75,000 stalls .
+########
+19
+<EOP> .
+########
+20
+All the stalls selling commodities compete for the cheapest price by low cost and cheap labor .
+########
+21
+<EOP> .
+########
+22
+Most of the workers on the production chain are migrant laborers .
+########
+23
+They work 13 hours per day , seven days a week , earning about 198 RMB LRB about $ 30 RRB a day .
+########
+24
+<EOP> .
+########
+25
+With freight trains running from Yiwu directly to Madrid , London , Prague and , recently , Tehran , and Christmas events marching into China , more and more Christmas products will be produced in the coming years .
+products	30	CT+	CT+
+will	31	ps_cue
+########
+26
+<EOP> .
+########

@@ -1,0 +1,178 @@
+Will they meet at the Belt and Road Forum for International Cooperation
+0
+Prodi calls on world leaders to grasp burgeoning opportunities <EOP> .
+opportunities	8	ps_cue
+########
+1
+2017_05_12 07:29 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+<EOP> .
+########
+4
+Romano Prodi , a former two_time prime minister of Italy , said the Belt and Road Initiative will change the lives of half the global population in the coming decades .
+will	17	ps_cue
+########
+5
+<EOP> .
+########
+6
+He urged global leaders to grasp the opportunities the initiative will offer when they meet at the Belt and Road Forum for International Cooperation in Beijing at the weekend .
+meet	14	CT+	CT+
+opportunities	7	ps_cue
+will	10	ps_cue
+########
+7
+<EOP> .
+########
+8
+`` This is a very important meeting , which will signal a green light from Beijing that the countries that have agreed to participate in the initiative can get down to business , '' he said , speaking in an exclusive interview with China Daily in Rome .
+meeting	6	CT+	CT+
+will	9	ps_cue
+can	27	ps_cue
+########
+9
+<EOP> .
+########
+10
+<EOP> .
+########
+11
+<EOP> .
+########
+12
+Up to 30 world leaders will attend the forum to discuss the development of the initiative , which Prodi called `` a century_long project '' that will improve connectivity between Asia , Europe and Africa .
+attend	6	CT+	CT+
+will	5	ps_cue
+will	26	ps_cue
+########
+13
+<EOP> .
+########
+14
+Prodi , who was president of the European Commission from 1999 to 2004 , said the thing that has impressed him most is that the initiative will change the lives and fates of people in less_developed countries , especially in Asia .
+will	26	ps_cue
+########
+15
+<EOP> .
+########
+16
+He said the first and most visible consequence of implementing the initiative will be that many countries in Central Asia will cooperate with China in infrastructure development .
+will	12	ps_cue
+will	20	ps_cue
+########
+17
+<EOP> .
+########
+18
+`` This will not just be about constructing roads and railways , but also about changing the daily lives of people in those countries .
+will	2	ps_cue
+not	3	neg_cue
+########
+19
+I expect this to be a new page for those countries , '' he said .
+expect	1	ps_cue
+########
+20
+<EOP> .
+########
+21
+Now , after three years of publicity and promotion , European countries are `` competing to seek synergies '' with the Belt and Road Initiative , according to Prodi .
+########
+22
+<EOP> .
+########
+23
+Nevertheless , he warned against complacency : `` This will be a difficult project , which will last many , many decades .
+against	4	neg_cue
+will	9	ps_cue
+will	16	ps_cue
+########
+24
+The most important thing is to gain greater political will , endorsement and support from countries along the routes . ''
+will	9	ps_cue
+########
+25
+<EOP> .
+########
+26
+Progress and confidence <EOP> .
+########
+27
+<EOP> .
+########
+28
+However , he is confident that progress will be made , because the initiative has been widely accepted in recent years as a result of promotion by the Chinese government , businesspeople and think tanks .
+will	7	ps_cue
+########
+29
+<EOP> .
+########
+30
+`` After three years of preparation , the Beijing forum will be seen as a green light for larger_scale cooperation , '' said the 77_year_old , who has played his own part in promoting the initiative .
+will	10	ps_cue
+########
+31
+<EOP> .
+########
+32
+Prodi , who lectures at the University of Tianjin and at Peking University in Beijing , regularly shuttles between China and Italy .
+########
+33
+After returning to Italy after a week teaching in Beijing , he met with Paolo Gentiloni before the Italian prime minister headed to China to attend the forum .
+########
+34
+<EOP> .
+########
+35
+Although he declined to reveal details of their discussion , the former politician said Gentiloni , who was communications minister in Prodi 's cabinet from 2006 to 2008 , is a firm supporter of the Belt and Road Initiative .
+declined	2	neg_cue
+########
+36
+<EOP> .
+########
+37
+When President Xi Jinping visited Central and Southeast Asia in September and October 2013 , he raised the idea of jointly building the Silk Road Economic Belt and the 21st Century Maritime Silk Road , known together as the Belt and Road Initiative .
+########
+38
+<EOP> .
+########
+39
+Prodi said the project is a combination of vision and implementation by land and by sea : `` As a European and an Italian , I would say the bulk of goods will still flow via sea routes , and the role of the Mediterranean region is vital in implementing the initiative . ''
+would	26	ps_cue
+will	32	ps_cue
+########
+40
+<EOP> .
+########
+41
+He added that the initiative originated from the concept of the ancient Silk Road , whose European terminus was Italy , while the famous traveler Marco Polo , who brought China to Europe more than 700 years ago , came from Venice .
+########
+42
+<EOP> .
+########
+43
+`` So , I propose the next summit should be organized in Venice , which has a symbolic meaning in that President Xi 's initiative links the past with the future , '' he said .
+should	8	ps_cue
+########
+44
+<EOP> .
+########
+45
+<EOP> .
+########
+46
+<EOP> .
+########
+47
+<EOP> .
+########
+48
+<EOP> .
+########
+49
+LRB China Daily 05_12_2017 page6 RRB <EOP> .
+########

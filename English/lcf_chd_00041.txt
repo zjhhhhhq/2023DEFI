@@ -1,0 +1,165 @@
+Are the operas being performed until Wednesday
+0
+Peking Opera strikes a chord in the UK <EOP> .
+########
+1
+2017_10_23 16:32 <EOP> .
+########
+2
+China Daily UK <EOP> .
+########
+3
+<EOP> .
+########
+4
+A scene from A River All Red in London on Saturday .
+########
+5
+LRB Photo_China Daily RRB <EOP> .
+########
+6
+People describe Peking Opera in many ways .
+########
+7
+Some say it is a comprehensive art form that combines many elements , including singing , speaking , acting , and fighting .
+########
+8
+Others say it is a stage performance with fancy costumes and masks .
+########
+9
+And others see it as a symbol of China and a cultural link between the East and the West .
+########
+10
+<EOP> .
+########
+11
+Londoners now have the opportunity to experience it and define it for themselves .
+########
+12
+The China National Peking Opera Company , China 's most elite organization in the performance of Peking Opera , has returned to the British capital for a third time , bringing with it two masterpieces : A River All Red and The Phoenix Returns Home .
+########
+13
+The operas , which opened on Saturday at Sadler 's Wells Theatre , are being performed until Wednesday .
+performed	15	CT+	CT+
+########
+14
+<EOP> .
+########
+15
+A River All Red is based on the true story of general Yue Fei from the Song Dynasty LRB 960_1279 RRB .
+########
+16
+Yue is one of the most famed generals in China 's history and a legend of resolute loyalty to his country and allegiance to his people .
+########
+17
+<EOP> .
+########
+18
+The Phoenix Returns Home tells the humorous story of a senior court minister who retires and returns to his hometown with his two daughters .
+########
+19
+The elder daughter , Xueyan , is a plain and ordinary woman while the younger Xue'e is beautiful and elegant .
+########
+20
+The opera tells tales of love and mistaken identity .
+love	5	ps_cue
+########
+21
+<EOP> .
+########
+22
+Li Xin , a Chinese man living in London , said : `` The performance was really touching , I was n't expected the Peking Opera would actually express as much emotion as other modern operas .
+n't	21	neg_cue
+expected	22	ps_cue
+would	26	ps_cue
+########
+23
+The performance was exquisite . ''
+########
+24
+<EOP> .
+########
+25
+The productions are being presented in partnership with London_based Sinolink Productions , a company that promotes Chinese art , culture and performance to British audiences .
+presented	4	CT+	CT+
+########
+26
+<EOP> .
+########
+27
+`` Those selected are all_time classics of the authentic Beijing Opera , '' said Kevin Zhang , producer and director of SinoLink .
+########
+28
+`` It is delightful to see Beijing Opera 's fan base growing and we always want to see more next year . ''
+########
+29
+<EOP> .
+########
+30
+Zhang said the performances so far have received very positive feedback from audiences and the United Kingdom 's media .
+########
+31
+<EOP> .
+########
+32
+`` British audiences are quite open_minded and have a very good understanding of Beijing Opera '' , Zhang said .
+########
+33
+<EOP> .
+########
+34
+Yu Kuizhi , who led the cast of A River All Red and who is vice_president of the China National Peking Opera Company , said it was his third time performing in the UK .
+performing	30	CT+	CT+
+########
+35
+He said he has noticed an increasing interest in the art from among the public , and particularly among the young .
+########
+36
+<EOP> .
+########
+37
+`` Never underestimate Western audiences , '' Yu said .
+########
+38
+`` You may think that it would be hard for them to understand Beijing Opera but that 's not true .
+may	2	ps_cue
+would	6	ps_cue
+not	18	neg_cue
+########
+39
+Of course , we have different educational backgrounds and a different history and culture , but their level of art appreciation is no doubt world_class , especially the attention and awe they have for performers and the arts . ''
+no	22	neg_cue
+########
+40
+<EOP> .
+########
+41
+He said a lot of people have traveled to Beijing since 2015 to watch performances , after first seeing Peking Opera performed in the UK .
+########
+42
+<EOP> .
+########
+43
+Zhang Yangfei contributed to this story .
+########
+44
+<EOP> .
+########
+45
+<EOP> .
+########
+46
+Yu Kuizhi and Li Shengsu , the top performers of Peking Opera , lead the cast in A River All Red in London on Saturday .
+########
+47
+LRB Photo_China Daily RRB <EOP> .
+########
+48
+<EOP> .
+########
+49
+<EOP> .
+########
+50
+<EOP> .
+########

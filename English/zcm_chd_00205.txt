@@ -1,0 +1,177 @@
+Will a burial suit go on display in New York City
+0
+Han treasures bring kings to life <EOP> .
+########
+1
+2017_05_24 11:33 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+<EOP> .
+########
+4
+Willow Weilan Hai , China Institute Gallery director , introduces a jade burial suite at the exhibition <EOP> .
+########
+5
+Dream of the Kings : A Jade Suit for Eternity , Treasures of the Han Dynasty from Xuzhou <EOP> .
+########
+6
+.
+########
+7
+Hong Xiao _ China Daily <EOP> .
+########
+8
+A burial suit made of thousands of pieces of jade laced together with gold thread and designed to protect and glorify a king in his afterlife will go on display in New York city .
+display	29	CT+	CT+
+will	26	ps_cue
+########
+9
+The exhibition _ <EOP> .
+########
+10
+Dream of the Kings : A Jade Suit for Eternity , Treasures of the Han Dynasty from Xuzhou <EOP> .
+########
+11
+_ features more than 76 objects from royal tombs of the Western Han Dynasty LRB 206 BC _ 8 AD RRB and will be on display in the US for the first time from May 25 to Nov 12 at the China Institute Gallery .
+display	25	CT+	CT+
+objects	5	neg_cue
+will	22	ps_cue
+May	34	ps_cue
+########
+12
+Ranging from terracotta performers to carved stone animals , the objects are an extraordinary testimony to the customs and beliefs surrounding life and death during the Western Han _ one of China 's `` golden eras '' .
+objects	10	neg_cue
+########
+13
+<EOP> .
+########
+14
+In 201 BC , the first emperor of the Han Dynasty anointed his younger brother the first king of the Chu Kingdom , which was centered in Peng Cheng LRB Xuzhou today RRB , in southeast China 's Jiangsu province .
+########
+15
+<EOP> .
+########
+16
+Ruling under the emperor 's protection and given special exemption from imperial taxes , the elite of this realm enjoyed a lavish lifestyle .
+########
+17
+<EOP> .
+########
+18
+Twelve generations of kings lived , died and were buried in sumptuous tombs carved into the nearby rocky hills .
+########
+19
+<EOP> .
+########
+20
+Although many of the tombs were looted over the years , numerous treasures were discovered in later excavations telling the story of the Chu kings ' affluence , as well as their beliefs in immortality and the afterlife .
+########
+21
+<EOP> .
+########
+22
+The exhibition is divided into four sections : The King 's Guards , Dreams of Eternity , Rapt by Jade and Life in the Afterlife .
+########
+23
+<EOP> .
+########
+24
+Dreams of Eternity highlights one of the most stunning finds _ an elaborate jade burial suit , assembled from thousands of pieces of jade , the precious stone prized by the Chinese since the Neolithic times as an auspicious material that could ensure immortality .
+could	41	ps_cue
+########
+25
+<EOP> .
+########
+26
+The suit , which was excavated in 1994 in Peng Cheng , consists of 4,248 tiles , more than any other jade suit discovered to date .
+########
+27
+<EOP> .
+########
+28
+One of the earliest ever made LRB circa 175 BC RRB , it is bound with a rare gold thread , signifying the highest of ranks .
+rare	17	ps_cue
+########
+29
+<EOP> .
+########
+30
+According to excavated records from the tombs , only kings and queens of the Chu rated jade suits with gold thread for their afterlife garb .
+########
+31
+The material on display is known as Hetian Jade , one the rarest forms of the gemstone .
+########
+32
+`` People during the Han Dynasty regarded death as birth and longed for immortality , '' said Willow Weilan Hai , director of China Institute Gallery .
+########
+33
+<EOP> .
+########
+34
+`` To prepare for the afterlife , they constructed their tombs to be eternal residences .
+########
+35
+The exhibition is a rare window into the extraordinarily accomplished Han civilization through these remarkable objects of the highest artistry , '' said Hai .
+rare	4	ps_cue
+objects	15	neg_cue
+########
+36
+The exhibition has been in preparation for nearly ten years .
+########
+37
+`` We are most grateful to the Xuzhou Museum , '' said Hai .
+########
+38
+<EOP> .
+########
+39
+Established in 1959 , the Xuzhou Museum is known for its exceptional collection of Han dynasty artifacts .
+########
+40
+`` In Chinese history of thousands of years , Han is a glorious historical period , which started from Xuzhou , '' Hai said .
+########
+41
+`` Xuzhou is the birthplace of the first emperor of the Han Dynasty , and all the beautiful artworks in this exhibition are from his birthplace . ''
+########
+42
+<EOP> .
+########
+43
+`` The culture of the Han Dynasty has a far_reaching effect even on the world 's history , '' said Li Yinde , director emeritus of the Xuzhou Museum and curator of the exhibition .
+########
+44
+He said the Han Dynasty was experiencing something of a renaissance in 2017 .
+########
+45
+Two related exhibitions are on view concurrently in the US : <EOP> .
+########
+46
+Tomb Treasures : New Discoveries from China 's Han Dynasty <EOP> .
+########
+47
+at the Asian Art Museum in San Francisco from Feb 17 to May 28 , and <EOP> .
+May	12	ps_cue
+########
+48
+Age of Empires : Chinese Art of the Qin and Han Dynasties LRB 221 BC_AD 220 RRB <EOP> .
+########
+49
+at the Metropolitan Museum of Art in New York from April 3 to July 16 .
+########
+50
+<EOP> .
+########
+51
+The Dream of Kings exhibition will travel to the Nelson_Atkins Museum of Art in Kansas City , Missouri , in December and stay on display through April 2018 .
+display	24	CT+	CT+
+will	5	ps_cue
+########
+52
+<EOP> .
+########
+53
+xiaohong@chinadailyusa.com <EOP> .
+########

@@ -1,0 +1,105 @@
+Do China and the Chinese military strictly enforce relevant resolutions on the DPRK
+0
+Military discounts US , ROK news reports <EOP> .
+########
+1
+2017_12_29 09:17 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+The Chinese government and military have strictly followed United Nations resolutions on sanctions against the Democratic People 's Republic of Korea , a Defense Ministry spokesman said on Thursday .
+resolutions	10	CT+	CT+
+against	13	neg_cue
+########
+4
+<EOP> .
+########
+5
+Senior Colonel Ren Guoqiang was responding to media reports from the United States and the Republic of Korea claiming that the PLA Navy failed to keep Chinese and DPRK vessels from trading and transferring oil products about 30 times since October , as detected by US reconnaissance satellites .
+claiming	18	ps_cue
+failed	23	neg_cue
+########
+6
+<EOP> .
+########
+7
+`` China and the Chinese military have strictly enforced relevant resolutions adopted by the UN Security Council on the DPRK , '' he said , adding that the situation mentioned in the media is `` nonexistent '' .
+resolutions	10	CT+	CT+
+########
+8
+<EOP> .
+########
+9
+He said China 's stance on the Korean Peninsula is clear and has not changed .
+not	13	neg_cue
+########
+10
+`` We 're determined to uphold the denuclearization of the peninsula , maintain peace and insist on dialogue as the solution to the issue . ''
+########
+11
+<EOP> .
+########
+12
+When answering another question about the Korean Peninsula , Ren said that `` war and conflict can not be the solution to the peninsula 's issue `` and that `` it is in both China 's and the US ' interest to avoid conflict in the region '' .
+question	3	ps_cue
+can	16	ps_cue
+not	17	neg_cue
+avoid	42	neg_cue
+########
+13
+<EOP> .
+########
+14
+Foreign Ministry spokeswoman Hua Chunying also lashed out at the media reports on Wednesday , challenging journalists to come up with more concrete details in a series of questions .
+########
+15
+<EOP> .
+########
+16
+`` I would like to know whether the relevant media could specify which ship or ships were involved in the situation ?
+would	2	ps_cue
+like	3	ps_cue
+whether	6	ps_cue
+could	10	ps_cue
+or	14	ps_cue
+########
+17
+Are they on the sanctions list of the UN Security Council ?
+########
+18
+If not , what made them conclude that these ships violated the Security Council resolutions ? ''
+not	1	neg_cue
+########
+19
+Hua said .
+########
+20
+<EOP> .
+########
+21
+On Dec 22 , the UN passed a resolution slashing the DPRK 's import of gasoline , diesel , and other refined products by a total of 89 percent in response to recent missile tests .
+resolution	8	CT+	CT+
+########
+22
+The resolution also further reduced the cap of DPRK 's annual refined oil import from 2 million barrels to 500,000 barrels .
+resolution	1	CT+	CT+
+########
+23
+<EOP> .
+########
+24
+The latest resolution is an extension of the one passed in September , which set the 2 million barrel cap and asked member states to prohibit their people or companies from `` engaging in ship_to_ship transfers to or from DPRK_flagged vessels of any goods or items '' .
+resolution	2	CT+	CT+
+prohibit	25	neg_cue
+or	28	ps_cue
+or	37	ps_cue
+or	44	ps_cue
+########
+25
+<EOP> .
+########
+26
+zhangzhihao@chinadaily.com.cn <EOP> .
+########

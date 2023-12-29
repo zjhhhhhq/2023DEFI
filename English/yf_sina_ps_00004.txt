@@ -1,0 +1,147 @@
+Are imported products_multinational brands more popular in China
+0
+We found that the snack industry in China has been growing at a steady clip of roughly 15 % annual growth .
+########
+1
+It was worth more than 200 billion RMB in 2011 , and it 's forecast to be worth 480 billion by 2018 .
+forecast	14	ps_cue
+########
+2
+<EOP> .
+########
+3
+Is there any visible trend ?
+########
+4
+What are the reasons behind that ?
+########
+5
+What drive the growth ?
+########
+6
+<EOP> .
+########
+7
+Although growth is still significant , it has seen a steady decline in the past decade .
+########
+8
+Since 2004 , the growth rates for sweets and chocolates have declined to about 10 % currently , and similarly , instant noodles are down , although they still remain at roughly 20 % annual growth this year .
+declined	11	neg_cue
+########
+9
+Fruit juice and soft drinks have seen their growth rates halved in the last three years .
+########
+10
+So as you can see , though the snack industry is still strong , it is suffering from an overall downard trend .
+can	3	ps_cue
+########
+11
+As mainland Chinese consumers especially begin to have higher income and greater awareness of health issues , they are buying fewer prepared foods and snacks .
+########
+12
+Whereas five or ten years ago , instant noodles were a cheap source of nourishment , consumers now have more income to spend on better foods , and consume snacks mostly for instant satisfaction or energy .
+or	2	ps_cue
+or	34	ps_cue
+########
+13
+<EOP> .
+########
+14
+Research sugggests that in the below_40s demographic , 88.5 % of interviewees feel that snacks do n't offer any nutrition , and are particularly wary of those containing saturated fats and sugars .
+n't	16	neg_cue
+########
+15
+We can expect to see two main developments ; first of all , more local producers addressing the snack market , and secondly , more nutritious , low_fat and health_oriented snacks .
+can	1	ps_cue
+expect	2	ps_cue
+########
+16
+<EOP> .
+########
+17
+What kinds of snacks are more popular and who would buy more snacks ?
+would	9	ps_cue
+########
+18
+<EOP> .
+########
+19
+Generally , chocolates and potato chips are the most popular `` foreign '' snacks , while instant noodles remain very popular as well .
+########
+20
+The greatest consumer demographic are the 22_35s , especially the females , as they can both afford to buy their own snacks , and tend to have busy and work LRB or study RRB dominated lifestyles that do n't allow for much cooking .
+can	14	ps_cue
+tend	24	ps_cue
+or	31	ps_cue
+n't	38	neg_cue
+########
+21
+Teenagers and young children are also a very large consumer groups .
+########
+22
+<EOP> .
+########
+23
+Will imported products_multinational brands more popular in China ?
+brands	3	Uu	PS+
+########
+24
+<EOP> .
+########
+25
+Multinational brands dominate in China 's snack industry .
+brands	1	CT+	PS+
+########
+26
+The top 10 snack brands are Want_want , Kraft Foods , LIWAYWAY , DANONE , Wm Wrigley Jr Company , Dove , ORION , Xufuji and Jiashili .
+brands	4	CT+	PS+
+########
+27
+Of these brands , Wang_want and Xufuji are Taiwanese , accounting for 20 % market share .
+brands	2	CT+	PS+
+########
+28
+Kraft Foods , LIWAYWAY , DANONE , Wm Wrigley Jr Company , Dove , ORION occupy 50 % of the Chinese snack market together .
+########
+29
+Xufuji and Jiashili are domestic brands , and though they together account for 20 % , they are still in the minority .
+brands	5	CT+	PS+
+########
+30
+<EOP> .
+########
+31
+However , some domestic brands have the potential to increase their market share in the future .
+brands	4	PS+	PS+
+potential	7	ps_cue
+########
+32
+For example , Le Conte , Dali and Qinqin , as these brands know the needs of Chinese consumers better than foreign brands .
+brands	12	CT+	PS+
+brands	22	CT+	PS+
+needs	15	ps_cue
+########
+33
+<EOP> .
+########
+34
+What 's the position of China in Asia in this industry ?
+########
+35
+<EOP> .
+########
+36
+In 2013 , the growth rate of exports and imports of Chinese snacks increased significantly , with Brazil , ASEAN LRB Association of Southeast Asian Nations RRB and America acting as the three biggest foods trade partner .
+########
+37
+However , overall , China does n't have the same reach as Japanese snack producers , for example .
+n't	6	neg_cue
+########
+38
+Chocolate is the most popular snack in the Pacific area , and since chocolate is one area where China does not have a significant contribution to make to the market , it 'll be in other areas that China 's exporters could grow .
+not	20	neg_cue
+could	41	ps_cue
+########
+39
+<EOP> .
+########

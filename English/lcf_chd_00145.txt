@@ -1,0 +1,119 @@
+Does Mobike join scheme to get Britons on bikes
+0
+Mobike joins scheme to get Britons on bikes <EOP> .
+joins	1	CT+	CT+
+########
+1
+2017_09_26 10:34 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+<EOP> .
+########
+4
+Residents try out Mobike cycles in Manchester , June 29 , 2017 .
+########
+5
+The city was the first stop in Mobike 's foray into the European market .
+stop	5	neg_cue
+########
+6
+LRB Photo_Xinhua RRB <EOP> .
+########
+7
+China 's Mobike , the world 's largest bike_share platform , has entered a partnership deal with British Cycling in a bid to inspire two million people to get on a bike by 2020 .
+partnership	14	CT+	CT+
+########
+8
+<EOP> .
+########
+9
+To mark the collaboration , Beijing_based Mobike has unveiled Newcastle as its third United Kingdom city where it will roll out 1,000 of its grey and orange bicycles next month .
+collaboration	3	CT+	CT+
+will	18	ps_cue
+########
+10
+<EOP> .
+########
+11
+Mobike launched its dockless bike_share scheme in the UK earlier this year , in Manchester and in West London .
+########
+12
+<EOP> .
+########
+13
+As part of their collaboration , British Cycling and Mobike will engage with local communities and businesses to encourage greater bike use .
+collaboration	4	CT+	CT+
+will	10	ps_cue
+########
+14
+<EOP> .
+########
+15
+British Cycling will support Mobike in its aim to enter 15 British towns and cities during the next 12 months , allowing users a more active form of affordable travel .
+will	2	ps_cue
+########
+16
+<EOP> .
+########
+17
+`` Mobike will help us achieve our shared goal of getting people back on their bikes , '' said British Cycling 's Chief Executive Julie Harrington .
+will	2	ps_cue
+########
+18
+<EOP> .
+########
+19
+Steve Pyer , UK general manager for Mobike , said the company was looking forward to operating in Newcastle .
+forward	14	ps_cue
+forward	14	neg_cue
+########
+20
+<EOP> .
+########
+21
+`` We are once again launching in a city where there is a real commitment to get people on bikes , '' said Pyer .
+########
+22
+<EOP> .
+########
+23
+Mobike 's bicycles can be parked without the use of a dock .
+can	3	ps_cue
+without	6	neg_cue
+########
+24
+Bikes are unlocked by scanning a QR code with the Mobike app .
+########
+25
+New users pay a promotional deposit of 29 pounds LRB $ 38.50 RRB , and rides cost 50 pence for 30 minutes .
+########
+26
+<EOP> .
+########
+27
+`` This is an innovative and exciting scheme , which has a proven track record , '' said Arlene Ainsley , cabinet member for transport and air quality at Newcastle City Council .
+########
+28
+`` We need people to think about how they travel and , where possible , choose alternatives to the car .
+need	2	ps_cue
+possible	13	ps_cue
+########
+29
+<EOP> .
+########
+30
+`` We believe that the launch of Mobike in Newcastle will enable more people to make that choice . ''
+will	10	ps_cue
+########
+31
+<EOP> .
+########
+32
+angus@mail.chinadailyuk.com <EOP> .
+########
+33
+<EOP> .
+########

@@ -1,0 +1,65 @@
+Does Donald Trump regard China as a currency manipulator  
+0
+China welcomes Trump 's change of heart on currency <EOP> .
+########
+1
+2017_04_13 20:41 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+China is willing to develop more balanced economic and trade ties with the United States , a Foreign Ministry spokesman said on Thursday in response to US President Donald Trump 's saying he no longer regards China as a currency manipulator .
+regards	35	CT-	CT-
+no	33	neg_cue
+willing	2	ps_cue
+########
+4
+<EOP> .
+########
+5
+`` We have no intention to stimulate exports through devaluing the currency , and there is no basis for the continuous devaluation of LRB Chinese currency RRB renminbi , '' spokesman Lu Kang told a news conference .
+no	3	neg_cue
+no	16	neg_cue
+########
+6
+<EOP> .
+########
+7
+Lu said that during the first meeting between President Xi Jinping and Trump in Florida last week , the two leaders had a `` long and deep discussion '' on economic and trade issue .
+########
+8
+The two sides reached an important consensus on making joint efforts to expand cooperation in all areas and properly handle disagreements , he added .
+########
+9
+<EOP> .
+########
+10
+`` China is , of course , not a currency manipulator , which is an objective fact , '' Lu said , adding that China will continue to push forward the reform on the formulation mechanism of RMB exchange rate .
+not	7	neg_cue
+will	25	ps_cue
+forward	29	ps_cue
+forward	29	neg_cue
+########
+11
+<EOP> .
+########
+12
+Lu 's comments are in response to the recent remarks by Trump that his administration wo n't label China as a currency manipulator .
+label	17	CT-	CT-
+n't	16	neg_cue
+########
+13
+Trump also complained that the US dollar is too strong .
+########
+14
+<EOP> .
+########
+15
+In an interview with the Wall Street Journal on Wednesday , Trump said `` they LRB China RRB are not currency manipulators '' .
+manipulators	21	CT-	CT-
+not	19	neg_cue
+########
+16
+<EOP> .
+########

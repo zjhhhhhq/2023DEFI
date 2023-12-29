@@ -1,0 +1,93 @@
+Does Ireland restore water , power , communications after hurricane 
+0
+Ireland struggles to restore water , power , communications after hurricane <EOP> .
+restore	3	CT+	CT+
+########
+1
+2017_10_18 08:56 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+<EOP> .
+########
+4
+Winds batter the coast as storm Ophelia hits the County Clare town of Lahinch , Ireland Oct 16 , 2017 .
+########
+5
+LRB Photo_Agencies RRB <EOP> .
+########
+6
+DUBLIN _ Irish authorities were still battling Tuesday to restore power , water and communications services , one day after Hurricane Ophelia swept across the country .
+restore	9	CT+	CT+
+########
+7
+<EOP> .
+########
+8
+According to water and electricity companies , the number of customers currently without water is 66,000 , while 151,000 homes and businesses remain without power , after Ophelia hit the country , bringing down trees and power lines .
+without	12	neg_cue
+without	23	neg_cue
+########
+9
+<EOP> .
+########
+10
+They said they have several thousands of staff employees and contractors on the ground working on repairs , hoping to have most customers restored to service within three to four days .
+restored	23	CT+	CT+
+hoping	18	ps_cue
+########
+11
+<EOP> .
+########
+12
+Meanwhile , Eir , the largest telecommunications operator in the country , said about 150,000 customers are without broadband , telephone and mobile services as a result of Ophelia , adding that the hurricane had delivered widespread levels of damage to its infrastructure , including damage to poles and cables .
+without	17	neg_cue
+########
+13
+<EOP> .
+########
+14
+The telecom firm also said the country 's southwest and midlands areas are the worst affected and in particular County Cork , where 51,000 customers have no phone service .
+no	26	neg_cue
+########
+15
+<EOP> .
+########
+16
+Hundreds of council workers were also deployed across the country to clear roads and to assess the extent of any structural damage to public buildings .
+########
+17
+<EOP> .
+########
+18
+On Tuesday , all Irish Schools were closed for a second day , but most colleges and universities reopened .
+########
+19
+<EOP> .
+########
+20
+<EOP> .
+########
+21
+<EOP> .
+########
+22
+A day ago , three people died in storm_related incidents in Louth , Tipperary and Waterford counties as Ophelia swept in over the country with damaging gusts and heavy rainfall .
+########
+23
+<EOP> .
+########
+24
+Ophelia is the worst storm in Ireland in 50 years , according to Met Eireann , the Irish national meteorological service .
+########
+25
+<EOP> .
+########
+26
+Met Eireann upgraded the entire country to a status red wind alert over Hurricane Ophelia before the storm landed the country 's southwest coastal areas .
+########
+27
+<EOP> .
+########

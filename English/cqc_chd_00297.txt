@@ -1,0 +1,69 @@
+Does Spain seek detention order against former Catalan leaders 
+0
+Spain seeks detention order against former Catalan leaders <EOP> .
+seeks	1	CT+	CT+
+seeks	1	ps_cue
+against	4	neg_cue
+########
+1
+2017_11_02 23:21 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+MADRID __ Spanish state prosecutor asked judge on Thursday to issue European arrest warrant for sacked Catalan leader Carles Puigdemont and four other members of ousted Catalan regional government .
+asked	5	CT+	CT+
+########
+4
+<EOP> .
+########
+5
+The Spanish authorities has demanded Puigdemont , who has been in Brussels since last Friday , to return to Spain for questioning over the charges of rebellion , sedition and the misuse of public funds .
+demanded	4	CT+	CT+
+########
+6
+<EOP> .
+########
+7
+Eight former members of Puigdemont 's deposed government , including his former deputy Oriol Junqueras , appeared in Spain 's High Court in Madrid on Thursday , to answer questions from judge High Court Carmen Lamela .
+appeared	16	ps_cue
+########
+8
+<EOP> .
+########
+9
+Puigdemont and four more former ministers opted to remain in Brussels insisting they would not get a fair hearing in what was a `` political trial '' .
+would	13	ps_cue
+not	14	neg_cue
+########
+10
+<EOP> .
+########
+11
+Puigdemont 's lawyer Paul Bekeart told reporters that the climate in Spain was `` not good .
+not	14	neg_cue
+########
+12
+It is better to have some distance '' , but insisted that if asked , his client would `` cooperate with Spanish and Belgian justice '' .
+would	17	ps_cue
+########
+13
+<EOP> .
+########
+14
+However , Spanish prosecutors are against Puigdemont being allowed to testify by video_conference .
+against	5	neg_cue
+########
+15
+<EOP> .
+########
+16
+`` When someone does n't appear after being cited by a judge to testify , in Spain or any other EU country , normally an arrest warrant is issued , '' said Carlos Lesmes , Spain 's Supreme Court President .
+n't	4	neg_cue
+appear	5	ps_cue
+or	17	ps_cue
+########
+17
+<EOP> .
+########

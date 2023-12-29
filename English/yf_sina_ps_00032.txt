@@ -1,0 +1,109 @@
+Can entering a public lavatory in China be a horrifying experience
+0
+For the uninitiated , entering a public lavatory in China can be a horrifying experience .
+lavatory	7	PS+	PS+
+can	10	ps_cue
+########
+1
+<EOP> .
+########
+2
+In smaller cities , or the countryside , the sight of an open trench filled with excrement , coupled with a suffocating stench of sulphur and ammonia , is often enough to send even the bravest tourist whimpering back to their hotel .
+or	4	ps_cue
+########
+3
+<EOP> .
+########
+4
+In the 1990s , a third of all complaints to tourism officials in Beijing concerned the design , and odour , of public lavatories .
+lavatories	23	CT+	PS+
+########
+5
+<EOP> .
+########
+6
+China has battled stinky loos for at least 2,000 years .
+########
+7
+In the Kingdom of Wei LRB 220_265AD RRB , visitors to the palace bathrooms would find boxes of dates to stuff up their noses and ward off unpleasant odours .
+would	14	ps_cue
+########
+8
+<EOP> .
+########
+9
+However , both flushing lavatories and toilet paper were invented in China , although only initially for the use of the emperor .
+lavatories	4	CT+	PS+
+########
+10
+<EOP> .
+########
+11
+Today , however , Chinese scientists have claimed victory in their battle to improve public rest rooms , unveiling a bacterial spray that can , they say , almost eliminate the smell of putrefaction .
+can	23	ps_cue
+########
+12
+<EOP> .
+########
+13
+First , a set of six strains of bacteria work to break down the odorous compounds and then a perfume made from orange peel lightly scents the air .
+########
+14
+<EOP> .
+########
+15
+The `` smell_free lavatory '' study from the Chinese Academy of Science was declared the `` ultimate '' cure to an `` urgent '' national issue .
+lavatory	3	CT+	PS+
+########
+16
+<EOP> .
+########
+17
+`` Five scientists have worked on this from 2011 to the beginning of this year , '' said Dr Yan Zhiying , a bacteriologist with the academy 's Chengdu Institute of Biology , adding that they had spent ￡ 140,000 on the project .
+########
+18
+<EOP> .
+########
+19
+`` Some local government officials here visited a sewage plant and saw that the treatment technology had come from Japan .
+########
+20
+They wanted a home_grown solution so they asked us to work on it , '' he added .
+wanted	1	ps_cue
+########
+21
+<EOP> .
+########
+22
+`` We extracted bacteria from all type of excrement , human , pig , chicken and duck , and we tested our compounds one by one , '' he said .
+########
+23
+<EOP> .
+########
+24
+`` The smells coming out of public lavatories , or cesspits , or rubbish tips , are made up of more than 160 different compounds , '' he explained , adding that their bacteria , including a strain from the lactobacillus , saccharomycetes and actinomycetes families , can convert and absorb many of them .
+lavatories	7	CT+	PS+
+or	9	ps_cue
+or	12	ps_cue
+can	47	ps_cue
+########
+25
+<EOP> .
+########
+26
+He boasted that the Chinese formula , which costs around ￡ 5 per litre , has no side effects and can be used to fend off the stench of any type of biological decomposition .
+no	16	neg_cue
+can	20	ps_cue
+########
+27
+<EOP> .
+########
+28
+More recently , Beijing has waged a war to improve conditions in public lavatories , first introducing a star_rating and then , two years ago , drafting a rule that no more than two flies should be present in any of the city 's facilities at the same time .
+lavatories	13	CT+	PS+
+no	30	neg_cue
+should	35	ps_cue
+########
+29
+<EOP> .
+########

@@ -1,0 +1,185 @@
+Does China approach to education 
+0
+BRICS Ministers of Education issues Beijing Declaration of Education <EOP> .
+issues	4	CT+	CT+
+########
+1
+2017_07_05 18:35 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+5th Meeting of BRICS Ministers of Education <EOP> .
+########
+4
+Beijing , July 5 , 2017 <EOP> .
+########
+5
+BEIJING DECLARATION ON EDUCATION <EOP> .
+########
+6
+We , the BRICS Ministers of Education and assigned representatives of the Federative Republic of Brazil , the Russian Federation , the Republic of India , the People 's Republic of China , and the Republic of South Africa , <EOP> .
+########
+7
+Having met in Beijing , the People 's Republic of China on July 4th and 5th , 2017 to discuss education reforms , approaches to promoting equity in education and fostering quality education , strengthening BRICS collaboration in the field of education , and exchange of students and scholars and teaching faculty among BRICS Member States ; <EOP> .
+approaches	23	CT+	CT+
+########
+8
+Recalling Brasilia Declaration on March 2nd , 2015 , Moscow Declaration on November 18th , 2015 and New Delhi Declaration on September 30th , 2016 ; <EOP> .
+########
+9
+Committed to the UN Sustainable Development Goal 4 LRB SDG4 RRB_Education 2030 which aims to `` Ensure inclusive and equitable quality education and promote life_long learning opportunities for all '' that was set within The 2030 Agenda for Sustainable Development ; <EOP> .
+opportunities	26	ps_cue
+########
+10
+Recognizing the significance of collaboration in the field of education for enhancing the overall partnership among BRICS Member States and enhancing people to people exchanges to a higher level ; <EOP> .
+########
+11
+Realizing that the scale of education development in BRICS Member States is expanding rapidly , and that all Member States face common challenges in promoting educational equity , accessibility and in improving the quality of education ; <EOP> .
+########
+12
+Considering that higher education contributes to the development of high_level human resources and intellectual support for the economic and social development , studies of BRICS Member States will enhance the mutual understanding between each Member State ; and <EOP> .
+contributes	4	ps_cue
+will	27	ps_cue
+########
+13
+Recognizing that the mobility of faculty and students , and sharing of information among the Member States is of great importance for the implementation of the consensus arrived at the Meetings of BRICS Ministers of Education ; <EOP> .
+########
+14
+For ensuring coordinated and deeper cooperation among the Member States , hereby declare to : <EOP> .
+########
+15
+1 .
+########
+16
+Reiterate support for the BRICS Network University LRB NU RRB to collaborate in the fields of education , research and innovation .
+########
+17
+Encourage universities to participate in the BRICS University League .
+########
+18
+<EOP> .
+########
+19
+2 .
+########
+20
+Increase cultural cooperation through language education and multilingualism to promote mutual understanding of the history and culture of BRICS Member States .
+########
+21
+<EOP> .
+########
+22
+3 .
+########
+23
+Undertake initiatives to promote professionalization of academics in higher education through the BRICS Network University as a focus of future education development .
+########
+24
+<EOP> .
+########
+25
+4 .
+########
+26
+Encourage more teachers and educational administrators to learn from experiences of other countries in improving teacher quality and performance , and promoting the development of education through international exchanges .
+########
+27
+<EOP> .
+########
+28
+5 .
+########
+29
+Strengthen cooperation in the field of Technical and Vocational Education and Training LRB TVET RRB , share ideas and experiences in the development of vocational educators , and develop projects that are of common interests to BRICS Member States .
+########
+30
+<EOP> .
+########
+31
+6 .
+########
+32
+Recognize the importance of BRICS Think Tanks Council LRB BTTC RRB , BRICS Network University as well as other BRICS initiatives , and encourage the streamlining of mechanisms for their closer cooperation to ensure the alignment of their work .
+########
+33
+<EOP> .
+########
+34
+7 .
+########
+35
+Emphasize the importance of streamlining the cooperation among educational think tanks and education researchers , and welcome China 's invitation to host a conference to explore possible cooperation among the various entities in BRICS Member States .
+possible	26	ps_cue
+########
+36
+<EOP> .
+########
+37
+8 .
+########
+38
+Encourage the organization of `` youth winter_summer camps '' to reinforce communication and cultural exchanges among the young generation from BRICS Member States .
+########
+39
+<EOP> .
+########
+40
+9 .
+########
+41
+Encourage Member States to expand the number of scholarship opportunities to students across BRICS Member States .
+opportunities	9	ps_cue
+########
+42
+<EOP> .
+########
+43
+10 .
+########
+44
+Share the experiences and practices in achieving the SDG4_Education 2030 targets in order to foster a more favorable policy environment , adopt effective practices , andadvocate for globaleducationalpolicies that take into accountthe common concerns and priorities of the BRICS Member States .
+########
+45
+<EOP> .
+########
+46
+11 .
+########
+47
+Encourage the participation in the 3rd BRICS NU Annual Conference to be held in 2018 , in Cape Town , South Africa and in the BRICS Global Business and Innovation Conference to be held in September 2017 , in St. Petersburg , Russia .
+########
+48
+<EOP> .
+########
+49
+The Federative Republic of Brazil , the Russian Federation , the Republic of India , and the Republic of South Africa extend their appreciation to the government of the People 's Republic of China for hosting the 5thMeeting of BRICS Ministers of Education .
+########
+50
+<EOP> .
+########
+51
+The English version of this Declaration has been signed on July 5th , 2017 in Beijing , People 's Republic of China .
+########
+52
+The Declaration has been executed in five LRB 5 RRB original copies , each copy being equally authentic and valid .
+########
+53
+<EOP> .
+########
+54
+Federative Republic of Brazil <EOP> .
+########
+55
+Russian Federation <EOP> .
+########
+56
+Republic of India <EOP> .
+########
+57
+People 's Republic of China <EOP> .
+########
+58
+Republic of South Africa <EOP> .
+########

@@ -1,0 +1,108 @@
+Is China 's defence and military development targeted at any other country
+0
+China 's military progress dedicated to international peace and stability <EOP> .
+########
+1
+2017_07_28 23:49 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+<EOP> .
+########
+4
+Chinese Ambassador Liu Xiaoming at the reception marking the 90th anniversary of the People 's Liberation Army in London , on July 27 , 2017 .
+########
+5
+LRB Photo by Wang Bo_chinadaily .
+########
+6
+com.cn RRB <EOP> .
+########
+7
+China aims to build a defence force that matches China 's international standing , and its military force will never go beyond the scope of ensuring China 's own national security , a top Chinese diplomat said in London .
+will	18	ps_cue
+never	19	neg_cue
+########
+8
+<EOP> .
+########
+9
+Speaking at a reception to mark the 90th anniversary of People 's Liberation Amy in London , the Chinese Ambassador Liu Xiaoming said China aims to build its armed forces `` to provide a strong safeguard as China strives to realize the Chinese dream of national renewal and achieve the ` two centenary goals ' . ''
+########
+10
+<EOP> .
+########
+11
+The two centenaries are the 100th anniversary of the founding of the Chinese Communist Party in 2021 and the 100th anniversary of the establishment of the People 's Republic of China in 2049 .
+########
+12
+The goals are that by 2021 , China would be economically secure and by 2049 , it would be a `` strong , democratic , civilized , harmonious , and modern socialist country . ''
+would	8	ps_cue
+would	17	ps_cue
+########
+13
+<EOP> .
+########
+14
+The Nanchang Uprising in 1927 marked the beginning of the armed struggle for independence led by the Communist Party of China .
+########
+15
+It also marked the founding of the armed forces which later became the PLA .
+########
+16
+<EOP> .
+########
+17
+The PLA today consists of five different services , including the Army , the Navy , the Air Force , the Rocket Force , and the Strategic Support Force , which is now a modern military force with advanced weaponry and professional administration and operation .
+########
+18
+<EOP> .
+########
+19
+Looking ahead , Liu Xiaoming said China aims to ensure that the defence force meets the need of protecting China 's security and development interests and to further advance reform of China 's defence system and military force .
+need	16	ps_cue
+########
+20
+<EOP> .
+########
+21
+Liu quoted what Chinese President Xi Jinping recently said that `` China will do well only when the world does well , and vice versa , '' adding that China remains committed as ever to world peace and common development , and China 's military force remains a steadfast force to ensure world peace and stability .
+will	12	ps_cue
+########
+22
+<EOP> .
+########
+23
+Liu emphasized that China stays committed to the independent foreign policy of peace and China 's defence policy remains defensive in nature .
+########
+24
+<EOP> .
+########
+25
+In recent decades , China 's military expenditure accounted for 1.32 percent of GDP , which was far below the 2.4 percent world average , and China 's per capita military spending was only one eighteenth of the US and one ninth of the UK .
+########
+26
+<EOP> .
+########
+27
+Liu said China 's defence and military development is not targeted at any other country , posing no threat to others , and will never go beyond the scope of ensuring China 's own national security .
+targeted	10	CT-	CT-
+threat	18	CT-	CT-
+not	9	neg_cue
+no	17	neg_cue
+will	23	ps_cue
+never	24	neg_cue
+########
+28
+<EOP> .
+########
+29
+He insisted that China pursues a new security concept that focuses on common , comprehensive , cooperative and sustainable security , saying `` China believes that no country can base its security on the instability of other countries . ''
+no	26	neg_cue
+can	28	ps_cue
+########
+30
+<EOP> .
+########

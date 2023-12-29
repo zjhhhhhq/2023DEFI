@@ -1,0 +1,93 @@
+Will Washington unilaterally impose restrictions
+0
+Unilateral probe of China 's trade could hurt both Washington , Beijing <EOP> .
+could	6	ps_cue
+########
+1
+2017_08_19 14:34 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+WASHINGTON _ US Trade Representative LRB USTR RRB Robert Lighthizer on Friday formally launched a Section 301 investigation into alleged intellectual property practices by China under a rarely used 1974 trade law , triggering concerns that Washington may unilaterally impose restrictions that would eventually hurt both countries .
+impose	39	PS+	PS+
+may	37	ps_cue
+would	42	ps_cue
+########
+4
+<EOP> .
+########
+5
+`` The investigation will seek to determine whether acts , policies , and practices of the Government of China related to technology transfer , intellectual property , and innovation are unreasonable or discriminatory and burden or restrict US commerce , '' the USTR 's Office said in a statement .
+will	3	ps_cue
+whether	7	ps_cue
+or	31	ps_cue
+or	35	ps_cue
+########
+6
+<EOP> .
+########
+7
+The move comes after US President Donald Trump on Monday signed an executive memorandum directing Lighthizer to consider the possible initiation of an investigation , signaling his administration 's tough trade stance against China .
+consider	17	ps_cue
+possible	19	ps_cue
+against	32	neg_cue
+########
+8
+<EOP> .
+########
+9
+Section 301 , once heavily used in the 1980s and the early 1990s , allows the US president to unilaterally impose tariffs or other trade restrictions on foreign countries .
+impose	20	PS+	PS+
+or	22	ps_cue
+########
+10
+But the United States has rarely used the outdated trade tool since the World Trade Organization came into being in 1995 .
+########
+11
+<EOP> .
+########
+12
+`` The 301 toolkit was retired for good reason .
+########
+13
+Bringing it back in 2017 is likely to be more deeply problematic to more firms in more places than many might expect , '' said Deborah Elms , founder and executive director of the Asian Trade Centre based in Singapore .
+likely	6	ps_cue
+might	20	ps_cue
+expect	21	ps_cue
+########
+14
+<EOP> .
+########
+15
+`` It became no longer necessary really for the United States that they have to use that law , because now we have an effective dispute settlement system under the WTO , '' Chad Bown , a trade expert and senior fellow at the Washington D.C. _ based Peterson Institute for International Economics LRB PIIE RRB , told Xinhua in a recent interview .
+no	3	neg_cue
+########
+16
+<EOP> .
+########
+17
+Meanwhile , the global trading community had become increasingly concerned about the use of Section 301 as the US government `` acts as police force , prosecutor , jury and judge '' in the process , Bown argued .
+########
+18
+He recommended Washington and Beijing resolve trade disputes through the WTO .
+recommended	1	ps_cue
+########
+19
+<EOP> .
+########
+20
+If Lighthizer did decide to go ahead with the Section 301 investigation , the United States would first consult with China and the investigation process could take as long as a year , senior administration officials told reporters last week .
+would	16	ps_cue
+could	25	ps_cue
+########
+21
+<EOP> .
+########
+22
+Jeffrey Schott , another trade expert at the PIIE , told Xinhua that the purpose of the investigation is `` to find out what the facts are and to use the process of investigation to expand bilateral consultations with China '' so that there is a better understanding of each country 's practices .
+########
+23
+<EOP> .
+########

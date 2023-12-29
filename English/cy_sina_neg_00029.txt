@@ -1,0 +1,216 @@
+Do women carrying boys eat more 
+0
+Most of the folk wisdom that well_meaning older relatives offer up to expectant mothers can be easily ignored : Carrying the baby lower in the abdomen is n't a sign that it 's a boy , or a girl , or anything other than an indication your abdominal muscles have loosened up a bit .
+can	14	ps_cue
+n't	27	neg_cue
+or	36	ps_cue
+or	40	ps_cue
+indication	45	ps_cue
+########
+1
+<EOP> .
+########
+2
+Your cravings wo n't manifest themselves as birthmarks on the kid 's skin .
+n't	3	neg_cue
+########
+3
+Long walks wo n't induce labor .
+n't	3	neg_cue
+########
+4
+<EOP> .
+########
+5
+And no , the full moon has nothing to do with the timing of the birth .
+no	1	neg_cue
+nothing	7	neg_cue
+########
+6
+<EOP> .
+########
+7
+But in recent years , a handful of studies have found that some of the most outlandish old ideas concerning babies and pregnancy may have some scientific merit after all .
+may	23	ps_cue
+########
+8
+<EOP> .
+########
+9
+Here are a few that superstitious grandmothers everywhere can put in the win column .
+can	8	ps_cue
+########
+10
+<EOP> .
+########
+11
+A long , difficult labor means the baby 's a boy <EOP> .
+########
+12
+Researchers are n't quite sure why this one 's true , but nonetheless : In 2003 , a team of doctors analyzed more than 8,000 births at a single hospital in Ireland between 1997 and 2000 , excluding women who delivered prematurely or needed to induce labor .
+n't	2	neg_cue
+or	42	ps_cue
+########
+13
+When they crunched all the numbers , the difference between the sexes was small but noticeable .
+########
+14
+<EOP> .
+########
+15
+On average , labor for boy births lasted a little over six hours , while girl births took a little under six .
+little	9	neg_cue
+little	19	neg_cue
+########
+16
+Women delivering boys were also more likely to run into complications during delivery , requiring C_sections 6 percent of the time LRB compared to 4 percent for girls RRB and forceps in 8 percent of cases LRB as opposed to 6 percent RRB .
+delivering	1	CT+	CT+
+likely	6	ps_cue
+opposed	38	neg_cue
+########
+17
+<EOP> .
+########
+18
+Overall , 29 percent of boy deliveries ended up requiring some sort of extra intervention ; for girls , it was 24 percent .
+deliveries	6	CT+	CT+
+########
+19
+<EOP> .
+########
+20
+One possible reason for the discrepancy : Boys , on average , weigh three and a half ounces more at birth than girls do .
+possible	1	ps_cue
+########
+21
+And a small 2003 study found that women carrying boys also consume more calories during pregnancy , suggesting that male babies are a little more demanding even before delivery starts .
+little	23	neg_cue
+########
+22
+<EOP> .
+########
+23
+To have a girl , stay away from bananas <EOP> .
+########
+24
+It 's not just that women carrying boys will eat more ; eating more in the lead_up to pregnancy may also make it more likely that the baby is a boy .
+carrying	6	CT+	CT+
+not	2	neg_cue
+will	8	ps_cue
+may	19	ps_cue
+likely	24	ps_cue
+########
+25
+<EOP> .
+########
+26
+In 2008 , a study published in the journal Proceedings of the Royal Society asked 740 women who were pregnant for the first time to describe their diets over the year before they conceived , then divided them into three groups based on calorie intake .
+########
+27
+<EOP> .
+########
+28
+The women in the top third of the study , calorie_wise , had boys 56 percent of the time ; among the third that consumed the fewest calories , 55 percent had girls .
+########
+29
+<EOP> .
+########
+30
+Here 's where the old line about bananas __ that eating them before conception will up your chances of having a boy __ comes in .
+will	14	ps_cue
+########
+31
+The study authors found that sheer calorie intake was n't the only thing that made a difference ; specific nutrients did , too .
+n't	9	neg_cue
+########
+32
+<EOP> .
+########
+33
+Eating plenty of potassium LRB which bananas are chock_full of RRB was linked to boys , as were diets high in calcium and sodium .
+########
+34
+<EOP> .
+########
+35
+Though as the Guardian noted , overhauling your diet to influence the sex of a future kid can be a risky move , health_wise , spurring people to overload on some nutrients and to ignore others __ a safer idea may be to focus on eating healthily in general , and leaving the rest up to chance .
+can	17	ps_cue
+may	40	ps_cue
+########
+36
+<EOP> .
+########
+37
+Heartburn is a harbinger of a hairy baby <EOP> .
+########
+38
+Here 's a horrifying fact about babies : Sometime in the second trimester of pregnancy , they develop a coat of fine hair all over their bodies , called lanugo __ and sometime in the third trimester , they shed it and eat it .
+########
+39
+A baby 's first poop , in fact , is the digested remains of their own body hair .
+########
+40
+<EOP> .
+########
+41
+The hair on their heads , though , is another story .
+########
+42
+While all babies have lanugo in the womb , not all babies are born with anything up top __ and mothers looking to know ahead of time whether their kid will be fuzzy_headed or bald may be able to use their own heartburn as a clue .
+not	9	neg_cue
+whether	27	ps_cue
+will	30	ps_cue
+or	33	ps_cue
+may	35	ps_cue
+########
+43
+<EOP> .
+########
+44
+In 2006 , for a study in the journal Birth , a team of researchers from Johns Hopkins University followed 64 women throughout their pregnancies , 28 of whom reported moderate or severe heartburn .
+or	31	ps_cue
+########
+45
+<EOP> .
+########
+46
+Within that group , 23 women ended up having babies of average or above_average hairiness .
+or	12	ps_cue
+########
+47
+On the opposite end of the spectrum , of the 12 women who reported no heartburn at all , ten of them gave birth to kids who were less hairy than the average newborn .
+no	14	neg_cue
+gave	22	neg_cue
+########
+48
+<EOP> .
+########
+49
+But here 's a perfect example of correlation not equaling causation .
+not	8	neg_cue
+########
+50
+The heartburn was n't a result of the hair , or vice versa .
+n't	3	neg_cue
+or	10	ps_cue
+########
+51
+Rather , the study authors argued , both were caused by a third factor : pregnancy hormones .
+########
+52
+<EOP> .
+########
+53
+Specifically , the same hormones that contribute to hair growth in the womb have also been shown to relax the muscles that keep stomach acid contained in the stomach .
+########
+54
+<EOP> .
+########
+55
+So you can technically blame the baby for that fiery pain in your chest , but the link is n't quite as direct as the old wives ' tale implies .
+can	2	ps_cue
+n't	19	neg_cue
+########
+56
+<EOP> .
+########

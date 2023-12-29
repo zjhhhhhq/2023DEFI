@@ -1,0 +1,178 @@
+Does China make contribution in peacekeeping
+0
+China 's contribution to peacekeeping ` extremely important , ` says UN peacekeeping chief <EOP> .
+contribution	2	CT+	CT+
+########
+1
+2017_07_02 21:22 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+<EOP> .
+########
+4
+Chinese peacekeeping troops , the last detachment of the country 's first deployment of a full infantry battalion for a United Nations LRB UN RRB peacekeeping mission arrive at Juba International Airport on April 8 , 2015 .
+########
+5
+LRB Photo_VCG RRB <EOP> .
+########
+6
+`` As the second largest financial contributor , China 's contribution to peacekeeping is extremely important , '' Jean_Pierre Lacroix , the UN Under_Secretary_General LRB USG RRB for Peacekeeping Operations , told Xinhua in a recent exclusive interview .
+contribution	10	CT+	CT+
+########
+7
+<EOP> .
+########
+8
+Lacroix , who took over from the former Under_Secretary_General Herve Ladsous on April 1 and is in charge of the UN Department of Peacekeeping Operations , said that `` China is a very important troop contributor as well with about 2,500 peacekeepers deployed in a number of countries as in the Democratic Republic of Congo , South Sudan and Mali . ''
+contributor	35	CT+	CT+
+########
+9
+<EOP> .
+########
+10
+According to UN official statistics , China currently contributes 2,512 people to UN peacekeeping , including 155 police , 34 military experts and 2,323 troops .
+contributes	8	CT+	CT+
+contributes	8	ps_cue
+########
+11
+<EOP> .
+########
+12
+On average , China contributes more troops to UN peacekeeping missions than any other permanent member of the UN Security Council .
+contributes	4	CT+	CT+
+contributes	4	ps_cue
+########
+13
+The country dispatches high_value troops and has recently begun to provide combat troops , marking a significant change in its deployment profile , according to UN reports .
+########
+14
+<EOP> .
+########
+15
+`` What is remarkable is that the contributions of China are very high quality , '' said the USG , recalling his March visit to Juba of South Sudan , where he paid a visit with his predecessor Ladsous and `` saw the quality of China 's contributions directly . ''
+contributions	7	CT+	CT+
+########
+16
+<EOP> .
+########
+17
+`` I was deeply impressed by the quality of the Chinese contingent , qualified people and quality equipment __ this is very important , '' he noted .
+########
+18
+<EOP> .
+########
+19
+The bulk of UN peacekeeping operations funding is appropriated much like the general budget , but permanent members of the Security Council are required to pay a larger share , and all states are free to contribute additional funding , equipment , or other services to missions of their respective choices .
+like	10	ps_cue
+or	42	ps_cue
+########
+20
+<EOP> .
+########
+21
+The year 2015 was a landmark year in China 's rise as a global security provider .
+########
+22
+Not only did the Chinese leader commit 8,000 troops to the UN peacekeeping standby force_one fifth of the 40,000 total troops committed by 50 nations_China also pledged <EOP> .
+Not	0	neg_cue
+########
+23
+$ <EOP> .
+########
+24
+100 million to the African Union standby force and <EOP> .
+########
+25
+$ <EOP> .
+########
+26
+1 billion to establish the UN Peace and Development Trust Fund .
+########
+27
+<EOP> .
+########
+28
+The UN extremely appreciated the fact that China is committed to the PCRS or the Peacekeeping Capability Readiness System , said Lacroix .
+or	13	ps_cue
+########
+29
+<EOP> .
+########
+30
+`` We look forward that China will bring those contributions to a level of readiness that will enable us , if needed , to rapidly deploy Chinese units wherever they are needed , '' he said .
+contributions	9	CT+	CT+
+forward	3	ps_cue
+forward	3	neg_cue
+will	6	ps_cue
+will	16	ps_cue
+########
+31
+<EOP> .
+########
+32
+`` This is a very much appreciated effort , '' said the USG .
+########
+33
+<EOP> .
+########
+34
+`` I think that there is another area that China 's role is and will be very important .
+will	14	ps_cue
+########
+35
+It 's the area of helping the other actual troop contributor countries to improve the level LRB of Peacekeeping Capability Readiness System RRB , '' said UN peacekeeping chief .
+contributor	10	CT+	CT+
+########
+36
+<EOP> .
+########
+37
+The UN does not have its own military force ; it depends on contributions from Member States .
+contributions	13	CT+	CT+
+not	3	neg_cue
+########
+38
+As of March 31 , 2014 , 122 countries contributed military and police personnel to UN peacekeeping , according to UN statistics .
+########
+39
+<EOP> .
+########
+40
+To date , 54 UN peace operations have completed their mandates .
+########
+41
+<EOP> .
+########
+42
+UN Secretary_General Antonio Guterres on Thursday welcomed the closure of the United Nations Operations in Cote d'Ivoire LRB UNOCI RRB on June 30 , after having successfully achieved its mandate .
+########
+43
+<EOP> .
+########
+44
+`` He commends the significant contributions of all partners national , regional and international in the Ivoirian peace process , '' the UN chief said in a statement .
+########
+45
+<EOP> .
+########
+46
+A consensus has been reached among UN top management echelon that peacekeeping operations have evolved from simply monitoring ceasefires to protecting civilians , disarming ex_combatants , protecting human rights , promoting the rule of law , supporting free and fair elections , minimizing the risk of land_mines and much more .
+########
+47
+<EOP> .
+########
+48
+In all these areas , China is playing an increasingly import role , said Lacroix .
+########
+49
+<EOP> .
+########
+50
+<EOP> .
+########
+51
+<EOP> .
+########

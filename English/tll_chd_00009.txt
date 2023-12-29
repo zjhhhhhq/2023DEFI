@@ -1,0 +1,72 @@
+Does PM May fall short of majority
+0
+British election results : PM May falls short of majority <EOP> .
+falls	6	CT+	CT+
+May	5	ps_cue
+########
+1
+2017_06_09 12:48 <EOP> .
+########
+2
+null <EOP> .
+########
+3
+LONDON _ Prime Minister Theresa May faced calls to quit on Friday after her election gamble to win a stronger mandate backfired as she lost her parliamentary majority , throwing British politics into turmoil and potentially disrupting Brexit negotiations .
+lost	24	CT+	CT+
+May	5	ps_cue
+quit	9	neg_cue
+potentially	35	ps_cue
+########
+4
+<EOP> .
+########
+5
+Below is a running total for how many seats each party holds .
+########
+6
+May is unable to get the 326 seats her Conservative party needs for an outright majority .
+get	4	CT-	CT+
+unable	2	neg_cue
+May	0	ps_cue
+needs	11	ps_cue
+########
+7
+She needs 18 more seats , with only 17 more seats left to declare .
+needs	1	ps_cue
+########
+8
+<EOP> .
+########
+9
+Party Seats so far : <EOP> .
+########
+10
+Conservative 308 <EOP> .
+########
+11
+Labour 258 <EOP> .
+########
+12
+Lib Dems 12 <EOP> .
+########
+13
+SNP 34 <EOP> .
+########
+14
+Greens 0 <EOP> .
+########
+15
+UKIP 0 <EOP> .
+########
+16
+Other 21 <EOP> .
+########
+17
+Unreported 17 <EOP> .
+########
+18
+<EOP> .
+########
+19
+Agencies <EOP> .
+########

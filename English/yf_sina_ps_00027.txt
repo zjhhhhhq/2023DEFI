@@ -1,0 +1,194 @@
+Did Li play a leading role in Snow Flower and the Secret Fan 
+0
+Even though she was only on screen for 10 minutes , Li Bingbing 's appearance in the new Transformers movie has helped propel her career to a new level .
+########
+1
+<EOP> .
+########
+2
+The Chinese A_lister plays the CEO of a technology company in Transformers : Age of Extinction , which has grossed $ 300.4 million at the box office on the Chinese mainland in just four weeks , and $ 886 million worldwide .
+########
+3
+<EOP> .
+########
+4
+Li , 41 , has received international attention for her head_turning role as a sexy , powerful company executive in the blockbuster film .
+########
+5
+Those accolades helped her land contracts worth 80 million yuan LRB $ 12.9 million RRB to be the spokeswoman for two international companies and one domestic business .
+########
+6
+<EOP> .
+########
+7
+Li , a native ofHarbin , Heilongjiangprovince , may be best known overseas for her role in Transformers : Age of Extinction , but it was n't her first appearance on the international stage .
+role	15	PS+	PS+
+may	8	ps_cue
+n't	26	neg_cue
+########
+8
+<EOP> .
+########
+9
+She played a leading role in Snow Flower and the Secret Fan , produced by Wendi Deng in 2011 , and starred in the 2012 science_fiction action movie Resident Evil : Retribution .
+role	4	CT+	PS+
+########
+10
+<EOP> .
+########
+11
+She landed the role in Transformers while vacationing and studying English in theUnited Statesin 2012 , when her agent in the country invited her to audition for the film .
+role	3	CT+	PS+
+########
+12
+<EOP> .
+########
+13
+Li was initially unsure how it would look for an Asian woman to play a leading role in the action series .
+role	16	PS+	PS+
+unsure	3	ps_cue
+would	6	ps_cue
+########
+14
+However , she was drawn to the project after she saw the exquisite models of Optimus Prime and Bumblebee － two of the Transformers － in director Michael Bay 's studio .
+########
+15
+<EOP> .
+########
+16
+`` Bay is very nice , with an active mind .
+########
+17
+He talked about the Transformers with an expressive face , '' Li was quoted by theBeijingNews as saying .
+########
+18
+<EOP> .
+########
+19
+In the original script for Transformers , Li 's character was a man .
+########
+20
+But Bay told Li that he was willing to change the character to a female so she could play the role .
+role	20	PS+	PS+
+could	17	ps_cue
+willing	7	ps_cue
+########
+21
+<EOP> .
+########
+22
+Li Bingbing attends the New York premiere of Transformers : Age of Extinction at the Ziegfeld Theatre on June 25 .
+########
+23
+<EOP> .
+########
+24
+She spoke with Bay often about her character 's image while making the film .
+########
+25
+Li 's studio even gave her character a new name , Su Yueming , because the original one did n't sound believable for a Chinese female CEO .
+gave	4	neg_cue
+n't	19	neg_cue
+########
+26
+<EOP> .
+########
+27
+Li wanted Su to appear courageous and resolute , so she took her ideas to Bay , who asked one of his friends , an Asian makeup artist , to work with her .
+wanted	1	ps_cue
+appear	4	ps_cue
+########
+28
+They discussed every detail of her character 's appearance , from her eyebrows , eyelashes to the color of her lipstick .
+########
+29
+<EOP> .
+########
+30
+Li , a martial arts fan , performs kung fu in one of the movie 's scenes shot in Hong Kong .
+########
+31
+Bay also asked her to perform in a motorcycle － racing scene , after he found out she was comfortable behind the wheel .
+########
+32
+<EOP> .
+########
+33
+With appearances in international films such as Transformers , Chinese audiences have noticed that Li 's English has improved greatly .
+########
+34
+<EOP> .
+########
+35
+Like many other Chinese celebrities working inHollywood , the language barrier was her biggest hurdle , but Li was determined to improve her English .
+########
+36
+Her secret is never being embarrassed , regardless of whether she makes a mistake .
+never	3	neg_cue
+whether	9	ps_cue
+########
+37
+<EOP> .
+########
+38
+In the beginning , her vocabulary was limited , but she used all of the words she knew .
+########
+39
+If Li could n't understand what other people were saying , she studied harder .
+could	2	ps_cue
+n't	3	neg_cue
+########
+40
+<EOP> .
+########
+41
+In addition to improving her English while working overseas , Li says her experience in Hollywood has helped her grow as an actor .
+########
+42
+<EOP> .
+########
+43
+Li said working with talented people like Bay has taught her that it 's important to give your own opinions and suggestions to the director .
+like	6	ps_cue
+########
+44
+<EOP> .
+########
+45
+`` In a Hollywood blockbuster , you ca n't just listen to others all the time like a puppet , '' Li told the Beijing News .
+n't	8	neg_cue
+like	16	ps_cue
+########
+46
+<EOP> .
+########
+47
+Li , who is n't married , says she 's in no rush to leave her busy career and start a family .
+n't	4	neg_cue
+no	11	neg_cue
+########
+48
+<EOP> .
+########
+49
+`` I 'm not celibate .
+not	3	neg_cue
+########
+50
+It 's just that I have n't met my Mr Right .
+n't	6	neg_cue
+########
+51
+But getting married is not the final aim of my life , and I do n't want to be kidnapped by traditional values , '' Li told the Beijing News .
+not	4	neg_cue
+n't	15	neg_cue
+########
+52
+<EOP> .
+########
+53
+`` As long as I feel peaceful and unrestrained while getting along with myself , it 's OK . ''
+########
+54
+<EOP> .
+########

@@ -1,0 +1,183 @@
+Did Donald Trump Jr. violate US election law
+0
+Trump Jr. 's Russia emails could trigger probe under election law <EOP> .
+could	5	ps_cue
+########
+1
+2017_07_12 09:59 <EOP> .
+########
+2
+null <EOP> .
+########
+3
+<EOP> .
+########
+4
+Donald Trump Jr. stands onstage with his father Donald Trump after Trump 's debate against Hillary Clinton at Hofstra University in Hempstead , New York , Sept 26 , 2016 .
+against	14	neg_cue
+########
+5
+LRB Photo_Agencies RRB <EOP> .
+########
+6
+NEW YORK _ Donald Trump Jr. 's meeting with a woman he was told was a Russian government lawyer who had incriminating information about Democratic candidate Hillary Clinton that could help his father 's presidential campaign could lead investigators to probe whether he violated US election law , experts said .
+violated	43	Uu	Uu
+could	29	ps_cue
+could	36	ps_cue
+whether	41	ps_cue
+########
+7
+<EOP> .
+########
+8
+Trump Jr. met the woman , lawyer Natalia Veselnitskaya , on June 9 , 2016 , after an email exchange with an intermediary .
+########
+9
+<EOP> .
+########
+10
+The emails , tweeted by Trump Jr. on Tuesday , could provide material for Special Counsel Robert Mueller 's probe into possible collusion between the Trump campaign and Russia during the 2016 presidential election .
+could	10	ps_cue
+possible	21	ps_cue
+########
+11
+<EOP> .
+########
+12
+In one of the emails dated June 3 , 2016 , Trump Jr. wrote : `` If it 's what you say I love it . ''
+love	23	ps_cue
+########
+13
+He released the tweets after the New York Times said it planned to write about their contents and sought his comment .
+planned	11	ps_cue
+########
+14
+<EOP> .
+########
+15
+Trump Jr. said in his tweets that nothing came of the meeting .
+nothing	7	neg_cue
+########
+16
+Veselnitskaya told NBC News early on Tuesday she was not affiliated with the Russian government and had passed no information .
+not	9	neg_cue
+no	18	neg_cue
+########
+17
+<EOP> .
+########
+18
+`` In retrospect , I probably would have done things a little differently , '' Trump Jr. said in an interview on Fox News .
+probably	5	ps_cue
+would	6	ps_cue
+little	11	neg_cue
+########
+19
+`` For me , this was opposition research . ''
+opposition	6	neg_cue
+########
+20
+<EOP> .
+########
+21
+Collusion itself is not an actual crime under the US criminal code , so prosecutors would look to see if Trump Jr. 's conduct ran afoul of a specific law , legal experts said .
+not	3	neg_cue
+would	15	ps_cue
+########
+22
+<EOP> .
+########
+23
+Moscow has denied interference in the US election , and US President Donald Trump has said his campaign did not collude with Russia .
+collude	20	CT-	Uu
+denied	2	neg_cue
+not	19	neg_cue
+########
+24
+<EOP> .
+########
+25
+Alan Futerfas , Trump Jr. 's lawyer , did not respond to a request for comment .
+not	9	neg_cue
+########
+26
+A spokesman for Mueller declined to comment .
+declined	4	neg_cue
+########
+27
+<EOP> .
+########
+28
+FEDERAL ELECTION CAMPAIGN ACT <EOP> .
+########
+29
+One law that might come into play is the Federal Election Campaign Act , which makes it illegal for a foreign national to contribute to a US political campaign .
+might	3	ps_cue
+########
+30
+The campaign is also prohibited from soliciting such contributions .
+prohibited	4	neg_cue
+########
+31
+<EOP> .
+########
+32
+A contribution does not have to be monetary in nature , according to Paul S. Ryan , an attorney with watchdog group Common Cause .
+not	3	neg_cue
+########
+33
+He said incriminating information about Clinton could be considered a contribution under the act .
+could	6	ps_cue
+considered	8	ps_cue
+########
+34
+<EOP> .
+########
+35
+Ryan said Trump Jr. 's `` enthusiastic response '' to the offer for information and particularly his proposal in his email to have a follow_up call the next week constituted `` solicitation '' .
+########
+36
+<EOP> .
+########
+37
+`` That to me is an indication , a concession by Donald Trump Jr. that he wants and is requesting this information , '' Ryan said .
+indication	6	ps_cue
+wants	16	ps_cue
+########
+38
+<EOP> .
+########
+39
+Joshua Douglas , a professor at the University of Kentucky College of Law , said Trump Jr. 's emails made it `` more plausible '' that there could be a criminal case against him .
+could	27	ps_cue
+against	32	neg_cue
+########
+40
+<EOP> .
+########
+41
+James Gardner , an election law expert at the University of Buffalo Law School , said the election law was intended to target donations of cash or goods and services .
+intended	20	ps_cue
+or	26	ps_cue
+########
+42
+<EOP> .
+########
+43
+He said he did not believe Trump Jr. would have violated the law if he solicited damaging information about Clinton .
+violated	10	CT-	Uu
+not	4	neg_cue
+would	8	ps_cue
+########
+44
+<EOP> .
+########
+45
+<EOP> .
+########
+46
+<EOP> .
+########
+47
+Reuters <EOP> .
+########

@@ -1,0 +1,166 @@
+Will Britain set up fewer than 10 new regulators
+0
+Britain may need fewer than 10 new regulators post_Brexit <EOP> .
+need	2	PS+	PS+
+may	1	ps_cue
+need	2	ps_cue
+########
+1
+2017_07_19 23:31 <EOP> .
+########
+2
+Agencies <EOP> .
+########
+3
+<EOP> .
+########
+4
+A view of the Canary Wharf district with the Shard building LRB R RRB is seen in London , Britain July 7 , 2017 .
+########
+5
+LRB Photo_Agencies RRB <EOP> .
+########
+6
+LONDON _ Britain will probably set up fewer than 10 new regulators after leaving the European Union , a government source said on Wednesday , offering the first assessment of how officials will tackle one of the most business_sensitive Brexit issues .
+set	5	PS+	PS+
+probably	4	ps_cue
+will	3	ps_cue
+will	32	ps_cue
+########
+7
+<EOP> .
+########
+8
+Untangling decades of complex legal ties between Britain and the EU is seen as one of the most difficult technical challenges of enacting last year 's Brexit vote , and also one of the most crucial for the future of the world 's fifth largest economy .
+########
+9
+<EOP> .
+########
+10
+Uncertainty over the future of sector_by_sector regulation , much of which is currently handled at EU level , is a major concern for firms operating in dozens of industries such as banking , pharmaceuticals and aviation .
+concern	21	ps_cue
+########
+11
+<EOP> .
+########
+12
+Business lobbying group the Confederation of British Industry has previously suggested that 34 EU regulators will no longer have jurisdiction in Britain after Brexit .
+suggested	10	ps_cue
+will	15	ps_cue
+no	16	neg_cue
+########
+13
+<EOP> .
+########
+14
+The government set out how it plans to translate EU law into British law last week when it publish legislation known as the repeal bill .
+plans	6	ps_cue
+########
+15
+<EOP> .
+########
+16
+A government source said an assessment of which new regulators would be required under the repeal bill is expected to be a low number , and probably less than 10 .
+would	10	ps_cue
+expected	18	ps_cue
+probably	26	ps_cue
+########
+17
+<EOP> .
+########
+18
+A source close to British Prime Minister Theresa May also said the number would most likely be in single figures .
+May	8	ps_cue
+would	13	ps_cue
+likely	15	ps_cue
+########
+19
+<EOP> .
+########
+20
+The government source did not detail which industries might need a new regulator .
+not	4	neg_cue
+might	8	ps_cue
+need	9	ps_cue
+########
+21
+<EOP> .
+########
+22
+Some firms have already raised the possibility that they would choose to relocate to avoid the higher costs associated with regulatory uncertainty .
+possibility	6	ps_cue
+would	9	ps_cue
+avoid	14	neg_cue
+########
+23
+<EOP> .
+########
+24
+Specifically , firms worry whether domestic regulation regimes will allow them to access EU markets , whether British and EU rules will diverge over time , and if they will be asked to bear the cost of setting up new industry watchdogs .
+whether	4	ps_cue
+will	8	ps_cue
+whether	16	ps_cue
+will	21	ps_cue
+will	29	ps_cue
+########
+25
+<EOP> .
+########
+26
+`` Far from the Brexit bonfire of bureaucracy promised by Leave campaigners , new regulators with different rules from those in the EU could cause a real red_tape headache for British businesses , '' said James McGrory , Executive Director of Open Britain , a cross_party pro_EU campaigning group .
+could	23	ps_cue
+########
+27
+<EOP> .
+########
+28
+For example leaving the nearly 900_person European Medicines Agency , which is set to move from its current base in London , would mean Britain would need a standalone UK regulator to decide if drugs are fit for use .
+would	22	ps_cue
+would	25	ps_cue
+need	26	ps_cue
+########
+29
+<EOP> .
+########
+30
+Since companies must pay fees to have new drugs assessed and separate filings involve extra work , the cost of accessing a British market that accounts for only 2_3 percent of global sales would likely delay the introduction of new medicines into the UK .
+would	33	ps_cue
+likely	34	ps_cue
+########
+31
+<EOP> .
+########
+32
+`` Good regulators do not come cheap and ministers need to come clean about the cost to the taxpayer , who were promised a Brexit windfall for our public services like the NHS instead , '' McGrory said .
+not	4	neg_cue
+need	9	ps_cue
+like	30	ps_cue
+instead	33	neg_cue
+########
+33
+<EOP> .
+########
+34
+The low estimate for the number new watchdogs suggests officials are looking at ways to push regulatory functions onto existing domestic industry bodies .
+estimate	2	ps_cue
+suggests	8	ps_cue
+########
+35
+<EOP> .
+########
+36
+One alternative option would be to seek some form of associate membership of EU bodies .
+would	3	ps_cue
+########
+37
+<EOP> .
+########
+38
+But that would inflame eurosceptics in May 's party as it could pave the way for the European Court of Justice to remain the arbiter of disputes , and firms have expressed concerns about the cost of such an arrangement .
+would	2	ps_cue
+May	6	ps_cue
+could	11	ps_cue
+########
+39
+<EOP> .
+########

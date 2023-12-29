@@ -1,0 +1,85 @@
+Does Tillerson say US talking with DPRK ` without precondition ' 
+0
+Tillerson says US willing to talk with DPRK ` without precondition ' <EOP> .
+says	1	CT+	CT+
+willing	3	ps_cue
+without	9	neg_cue
+########
+1
+2017_12_13 09:31 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+WASHINGTON _ US Secretary of State Rex Tillerson said on Tuesday that Washington is willing to begin talks with the Democratic People 's Republic of Korea LRB DPRK RRB `` without pre_condition . ''
+said	8	CT+	CT+
+willing	14	ps_cue
+without	30	neg_cue
+########
+4
+<EOP> .
+########
+5
+`` We 're ready to have the first meeting without precondition , '' Tillerson told a policy forum at the Atlantic Council , a Washington_based think tank .
+ready	3	CT+	CT+
+ready	3	ps_cue
+without	9	neg_cue
+########
+6
+<EOP> .
+########
+7
+`` Let 's just meet , '' the top US diplomat told an audience of around 300 .
+########
+8
+`` We can talk about the weather if you want .
+talk	3	PS+	CT+
+can	2	ps_cue
+########
+9
+We can talk about whether it 's going to be a square table or a round table . ''
+talk	2	PS+	CT+
+can	1	ps_cue
+whether	4	ps_cue
+or	13	ps_cue
+########
+10
+<EOP> .
+########
+11
+`` Can we at least sit down and see each other face to face , and then we can begin to lay out a map , a road map , of what we might be willing to work towards , '' Tillerson said , changing the tough tone long being held by the Trump administration and suggesting some initial contacts to set the ground rules for further negotiations .
+can	18	ps_cue
+might	33	ps_cue
+willing	35	ps_cue
+########
+12
+<EOP> .
+########
+13
+Tillerson noted that a dialogue is possible whenever Pyongyang is ready .
+possible	6	ps_cue
+ready	10	ps_cue
+########
+14
+<EOP> .
+########
+15
+Tillerson 's remarks came two weeks after the DPRK successfully test_fired a newly developed Intercontinental Ballistic Missile , drawing strong condemnation from the international community .
+########
+16
+<EOP> .
+########
+17
+Washington and Pyongyang has been exchanging harsh rhetoric in the past months , with US President Donald Trump threatening to rain down `` fire and fury '' and `` totally destroy '' the country .
+########
+18
+<EOP> .
+########
+19
+Before Tillerson 's speech , the United States has insisted that negotiations should be based on the DPRK 's nuclear disarmament .
+should	12	ps_cue
+########
+20
+<EOP> .
+########

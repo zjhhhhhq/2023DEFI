@@ -1,0 +1,124 @@
+Do people react to alcohol
+0
+It 's the biggest study to ever document how people react to alcohol , mood_wise .
+react	10	CT+	CT+
+########
+1
+Researchers used data from almost 30,000 people who responded to the Global Drug Survey , a yearly international poll about drug and alcohol habits around the world .
+responded	8	CT+	CT+
+########
+2
+They found significant differences between different types of drinks .
+########
+3
+<EOP> .
+########
+4
+Strong spirits LRB like vodka , gin , or whiskey RRB made people feel energized LRB 58 % of people RRB , confident LRB 59 % RRB and sexy LRB 42 % RRB .
+like	3	ps_cue
+or	8	ps_cue
+########
+5
+But they also had a negative effect , tending to bring out aggression in some people .
+negative	5	neg_cue
+########
+6
+Negative feelings such as aggression LRB 30 % RRB , restlessness LRB 28 % RRB and tearfulness LRB 22 % RRB give significant cause for concern .
+concern	25	ps_cue
+########
+7
+Meanwhile , just 2.5 % of red wine drinkers reported feeling more aggressive .
+########
+8
+<EOP> .
+########
+9
+Red wine tended to make people sad in 17 % of cases , but more significantly , 53 % of red wine drinkers said it left them feeling more relaxed .
+########
+10
+A similar fraction of people LRB almost 50 % RRB reported this sentiment for beer .
+########
+11
+As it turns out , having a beer or a glass of wine does tend to make you feel more relaxed .
+or	8	ps_cue
+tend	14	ps_cue
+########
+12
+<EOP> .
+########
+13
+It 's not clear exactly why these things happen .
+not	2	neg_cue
+########
+14
+It may be due to the nature of the drink , such as different ingredients , alcohol content , and the amounts consumed .
+may	1	ps_cue
+########
+15
+However , it may be due to cultural aspects as well .
+may	3	ps_cue
+########
+16
+Basically , the setting in which people tend to drink red wine might be more relaxing , whereas the setting for spirits might be more active .
+tend	7	ps_cue
+might	12	ps_cue
+might	22	ps_cue
+########
+17
+<EOP> .
+########
+18
+`` Feeling positive emotions may in part be related to the promotion of positive experiences by advertising and the media .
+may	4	ps_cue
+########
+19
+Emotions experienced could also be related to when the alcohol is drunk , the levels of alcohol within each beverage type and the different compounds found in different drinks .
+could	2	ps_cue
+########
+20
+Understanding emotions associated with alcohol consumption is imperative to addressing alcohol misuse . ''
+########
+21
+<EOP> .
+########
+22
+Professor Mark Bellis , Public Health Wales ' director of policy , research and international development , says we should pay extra attention to spirits , which are associated with a rich history of violence .
+should	19	ps_cue
+########
+23
+<EOP> .
+########
+24
+`` Spirits are often consumed more quickly and have much higher concentrations of alcohol in them .
+########
+25
+This can result in a quicker stimulating effect as blood alcohol levels increase .
+can	1	ps_cue
+########
+26
+They may also be consumed in different social occasions so people may be drinking them deliberately to feel the drunken effect quickly while other types of drink are more likely to be consumed slowly or with food .
+may	1	ps_cue
+may	11	ps_cue
+likely	29	ps_cue
+or	34	ps_cue
+########
+27
+As people get the kick from escalating alcohol levels , the same increases reduce the brain 's ability to suppress impulsive feelings or to consider the consequences of acting on them . ''
+or	22	ps_cue
+consider	24	ps_cue
+########
+28
+<EOP> .
+########
+29
+The study was published in the <EOP> .
+########
+30
+British Medical Journal <EOP> .
+########
+31
+.
+########
+32
+<EOP> .
+########

@@ -1,0 +1,47 @@
+Is there loss of life in tropical storm in Philippines 
+0
+UN chief saddened by loss of life in tropical storm in Philippines <EOP> .
+loss	4	neg_cue
+########
+1
+2017_12_24 12:30 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+UNITED NATIONS __ UN Secretary_General Antonio Guterres is saddened by the loss of life and devastation caused by Tropical Storm Tembin in the Philippines , his spokesman said in a statement on Saturday .
+is	7	CT+	CT+
+loss	11	neg_cue
+########
+4
+<EOP> .
+########
+5
+Some 200 people have died and dozens more remain missing after Tropical Storm Tembin landed on the southern island of Mindanao on Friday .
+missing	9	neg_cue
+########
+6
+<EOP> .
+########
+7
+Guterres extended his deepest sympathies to the families of the victims and wished those injured a speedy recovery , said Stephane Dujarric .
+extended	1	CT+	CT+
+########
+8
+<EOP> .
+########
+9
+Guterres saluted the efforts of the national rescue and recovery teams as well as volunteers who are operating under difficult conditions , said the spokesman .
+saluted	1	CT+	CT+
+########
+10
+<EOP> .
+########
+11
+The United Nations stands ready to support local and national authorities , in addition to the support already being provided by humanitarian partners , the statement said .
+ready	4	ps_cue
+########
+12
+<EOP> .
+########

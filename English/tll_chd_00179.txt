@@ -1,0 +1,112 @@
+Will UK publishers print more translated literature from China
+0
+Calls for UK publishers to print more translated literature from China <EOP> .
+print	5	CT+	CT+
+########
+1
+2017_05_15 18:46 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+<EOP> .
+########
+4
+Literature lovers , publishers and distributors wan the UK book industry to bring in more translated and bilingual books from China .
+bring	12	CT+	CT+
+########
+5
+<EOP> .
+########
+6
+During a seminar at the China Context event in London 's Chinatown on Friday , leading experts , Sinolo_gists and academics explored ways to develop opportunities for literary exchanges between China and the UK .
+opportunities	25	ps_cue
+########
+7
+<EOP> .
+########
+8
+In 2013 , Britain licensed 574 titles from China , while the world 's second largest economy licensed 2,521 from the UK .
+########
+9
+<EOP> .
+########
+10
+Angus Phillips , director at Oxford International Center for Publishing Studies said : `` The ratio of Chinese exports and imports have shifted over the last few years but partly that has been China exporting into their own region in Asia .
+########
+11
+Certainly there has been more interest in the UK in taking Chinese copyrights but I think it is a niche market compared to some of the best sellers that are going from the west into China . ''
+########
+12
+<EOP> .
+########
+13
+He said more needs to be done to get people in the UK to read more Chinese literature trabslated into English .
+needs	3	ps_cue
+########
+14
+<EOP> .
+########
+15
+`` Translated literature remains at a very low percentage of only about 3 percent , '' Phillips added .
+########
+16
+<EOP> .
+########
+17
+To boost sales of Chinese literature , Phillips suggested growing the pool of translators and agents in Britain for this market and also more dialogue between industry experts from both countries .
+suggested	8	ps_cue
+########
+18
+<EOP> .
+########
+19
+The seminar was part the first Chinese book festival at the China Exchange , which celebrates the best of Chinese writers and writing during three days of activities .
+########
+20
+<EOP> .
+########
+21
+As China tries to raise its profile as a global publishing powerhouse the festival aims to not only engage and inspire audiences with the country 's rich literary tradition , but provide a platform for conversations that will shape the future of the industry .
+raise	4	ps_cue
+not	16	neg_cue
+will	37	ps_cue
+########
+22
+<EOP> .
+########
+23
+The book fair covered everything relating to China from history and biographies , to classical and con_temporary literation to Chinese learning materials and children 's books .
+########
+24
+<EOP> .
+########
+25
+Activities over the weekend included a creative writing panel discussion , open mic storytelling and poetry workshops .
+########
+26
+<EOP> .
+########
+27
+Helena Zhang , program and venue manager at China Exchange , said she hopes to run the festival as an annual event `` to enrich the culture diversity in the UK '' .
+hopes	13	ps_cue
+########
+28
+<EOP> .
+########
+29
+To contact reporter : boleung@mail.chinadailyuk.com <EOP> .
+########
+30
+Editor : Chris Peterson <EOP> .
+########
+31
+<EOP> .
+########
+32
+<EOP> .
+########
+33
+<EOP> .
+########

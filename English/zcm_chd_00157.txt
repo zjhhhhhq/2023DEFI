@@ -1,0 +1,96 @@
+Was Brazil 's President Michel Temer formally accused of corruption
+0
+Brazil 's prosecutor_general formally accuses President Temer of corruption <EOP> .
+########
+1
+2017_06_27 09:27 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+<EOP> .
+########
+4
+Brazilian President Michel Temer looks on during a credentials presentation ceremony for several new top diplomats at Planalto Palace in Brasilia , Brazil June 26 , 2017 .
+########
+5
+LRB Photo_Agencies RRB <EOP> .
+########
+6
+BRASILIA _ Brazil 's President Michel Temer was formally accused of corruption on Monday by prosecutor_general Rodrigo Janot to the Supreme Court LRB STF RRB .
+accused	9	CT+	CT+
+########
+7
+<EOP> .
+########
+8
+This accusation was made in a statement sent by Janot to the court to reinforce the need to jail Rodrigo Rocha Loures , a former lawmaker and close advisor to Temer .
+need	16	ps_cue
+########
+9
+<EOP> .
+########
+10
+Rocha Loures was jailed after being filmed receiving a suitcase containing 500,000 reais LRB about 150,000 US dollars RRB , which were allegedly a bribe for Temer coming from meatpacking company Group JandF boss Joesley Batista .
+jailed	3	CT+	CT+
+########
+11
+<EOP> .
+########
+12
+This document has raised expectations that Janot will formally charge Temer to the STF by a deadline on Tuesday .
+will	7	ps_cue
+########
+13
+<EOP> .
+########
+14
+`` Rodrigo Loures represented the interests of Michel LRB Temer RRB in the occasions when he met with representatives of Group JandF .
+########
+15
+Through him , Temer arranged to receive unfair advantages in exchange for favors in public affairs , '' wrote Janot .
+########
+16
+<EOP> .
+########
+17
+Janot also concludes that Rocha Loures and Temer clearly worked together to receive bribes .
+########
+18
+<EOP> .
+########
+19
+<EOP> .
+########
+20
+<EOP> .
+########
+21
+Temer has been under growing pressure since Batista turned over a tape to investigators , in which Temer can seemingly be heard approving bribes to public officials in exchange for their silence .
+can	18	ps_cue
+seemingly	19	ps_cue
+########
+22
+<EOP> .
+########
+23
+However , Temer on Monday said his government could n't be toppled by the accusation .
+could	8	ps_cue
+n't	9	neg_cue
+########
+24
+<EOP> .
+########
+25
+`` Nothing will destroy us .
+will	2	ps_cue
+########
+26
+Not me and not our ministers , '' Temer said during the ceremonial signing of a bill in the capital of Brasilia .
+Not	0	neg_cue
+not	3	neg_cue
+########
+27
+<EOP> .
+########

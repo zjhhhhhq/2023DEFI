@@ -1,0 +1,55 @@
+Do police inquire about the immigration status of anyone they detain
+0
+Texas state parliament passes ban on ` sanctuary cities ' <EOP> .
+ban	4	neg_cue
+########
+1
+2017_05_04 15:42 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+HOUSTON _ The Republican_controlled Senate of the US state of Texas passed on Wednesday a ban on so_called `` sanctuary cities '' to allow police to inquire about the immigration status of anyone they detain .
+inquire	26	CT+	CT+
+ban	15	neg_cue
+########
+4
+<EOP> .
+########
+5
+Despite opposition from the Democrats , the Senate passed the bill which was also approved last Thursday by the Texas House of Representatives .
+opposition	1	neg_cue
+########
+6
+<EOP> .
+########
+7
+Texas Governor Greg Abbot , a Republican , has pledged to sign the bill into law .
+########
+8
+<EOP> .
+########
+9
+The bill allows the Lone Star state to withhold funding from local governments for acting as sanctuary cities .
+########
+10
+<EOP> .
+########
+11
+It authorizes local police officers to question the immigration status of anyone they detain , no matter it is a criminal arrest or a traffic violation .
+question	6	CT+	CT+
+question	6	ps_cue
+no	15	neg_cue
+or	22	ps_cue
+########
+12
+<EOP> .
+########
+13
+It also allows for the removal from office any law enforcement official who does not cooperate with federal immigration officials .
+not	14	neg_cue
+########
+14
+<EOP> .
+########

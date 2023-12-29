@@ -1,0 +1,69 @@
+Do S. Korea , US conduct joint war games during 2018 Winter Olympics
+0
+S. Korea , US agree not to conduct joint war games during 2018 Winter Olympics <EOP> .
+conduct	7	CT-	CT-
+ot	5	neg_cue
+########
+1
+2018_01_04 23:37 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+SEOUL __ South Korean President Moon Jae_in and US President Donald Trump have agreed not to conduct the joint war games between Seoul and Washington during the South Korea_hosted Winter Olympic Games slated to kick off in February , Moon 's office said Thursday .
+conduct	16	CT-	CT-
+not	14	neg_cue
+########
+4
+<EOP> .
+########
+5
+Moon and Trump had a telephone conversation for about 30 minutes earlier in the day , discussing issues of mutual concern relating to a possible inter_Korean talks created by taking the opportunity for the 2018 PyeongChang Winter Olympic and Paralympic Games , according to the presidential Blue House .
+concern	20	ps_cue
+possible	24	ps_cue
+########
+6
+<EOP> .
+########
+7
+During the phone conversation , Moon and Trump agreed not to stage the South Korea_US joint military exercises , codenamed Key Resolve and Foal Eagle , during the PyeongChang Winter Olympics , according to the Blue House .
+stage	11	CT-	CT-
+not	9	neg_cue
+########
+8
+<EOP> .
+########
+9
+The two leaders agreed to make best efforts to hold a successful , safe PyeongChang Winter Olympic , Yoon Young_chan , senior press secretary for President Moon , said in a written briefing .
+########
+10
+<EOP> .
+########
+11
+The agreement came amid the rising signs of a thaw between the two Koreas , caused by the peace overture which top leader of the Democratic People 's Republic of Korea LRB DPRK RRB Kim Jong Un made in his New Year speech .
+########
+12
+<EOP> .
+########
+13
+During the phone dialogue , Moon said South Korea will closely cooperate with the United States while having inter_Korean talks , stressing that inter_Korean talks would certainly help create an atmosphere for dialogue between the Democratic People 's Republic of Korea LRB DPRK RRB and the United States to resolve the nuclear issue on the Korean Peninsula .
+will	9	ps_cue
+would	25	ps_cue
+########
+14
+<EOP> .
+########
+15
+Kim said in his New Year 's Day address that his country was willing to participate in the South Korea_hosted winter sports event and to talk with Seoul about the participation .
+willing	13	ps_cue
+########
+16
+<EOP> .
+########
+17
+On the following day , Seoul offered to Pyongyang holding a senior_level , inter_governmental dialogue on Jan 9 at the Peace House in the truce village of Panmunjom , which straddles the heavily guarded inter_Korean land border .
+########
+18
+<EOP> .
+########

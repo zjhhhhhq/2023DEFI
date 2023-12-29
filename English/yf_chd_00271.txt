@@ -1,0 +1,106 @@
+Do US Senate Republicans seek to delay corporate tax cut for a year 
+0
+US Senate Republicans seek to delay corporate tax cut for a year <EOP> .
+seek	3	CT+	CT+
+########
+1
+2017_11_10 09:03 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+<EOP> .
+########
+4
+Senate Majority Leader Chuck Schumer LRB L RRB and Senator Ron Wyden speak in reaction to the Republican tax plan at the US Capitol in Washington , US , Nov 9 , 2017 .
+plan	19	ps_cue
+########
+5
+LRB Photo_VCG RRB <EOP> .
+########
+6
+WASHINGTON _ Republicans in the US Senate on Thursday unveiled their own version of tax reform legislation , which would seek to delay the corporate tax cut for a year and curb other tax reductions .
+seek	20	CT+	CT+
+would	19	ps_cue
+########
+7
+<EOP> .
+########
+8
+The Senate Finance Committee , the tax_writing committee , on Thursday unveiled the details of the tax legislation to Republican senators during a closed_door meeting , according to multiple US media reports .
+########
+9
+<EOP> .
+########
+10
+The Senate measure would cut the corporate income tax rate to 20 percent from the current 35 percent , starting from 2019 , one year later than the House proposal released last week .
+cut	4	CT+	CT+
+would	3	ps_cue
+########
+11
+<EOP> .
+########
+12
+The Senate plan would also keep seven individual income tax brackets and eliminate all state and local tax deductions , while the House version would reduce the number of personal income tax brackets to four and allow taxpayers to deduct some property taxes .
+plan	2	ps_cue
+would	3	ps_cue
+would	24	ps_cue
+########
+13
+<EOP> .
+########
+14
+The differences reflected Senate Republicans ' greater efforts to satisfy the parameters set by the budget resolution approved by Congress , which would only allow the tax legislation to increase the federal deficit by 1.5 trillion US dollars over 10 years .
+would	22	ps_cue
+########
+15
+<EOP> .
+########
+16
+The Senate Finance Committee plans to consider the tax legislation next week and send it to the Senate floor for a vote after Thanksgiving .
+plans	4	ps_cue
+consider	6	ps_cue
+########
+17
+<EOP> .
+########
+18
+Meanwhile , the House Ways and Means Committee approved its tax bill on Thursday and would send it to the House floor for consideration as soon as next week .
+would	15	ps_cue
+consideration	23	ps_cue
+########
+19
+<EOP> .
+########
+20
+<EOP> .
+########
+21
+<EOP> .
+########
+22
+`` The House will pass its bill , the Senate will pass its bill and then we will get together and reconcile the differences , which is the legislative process .
+will	3	ps_cue
+will	10	ps_cue
+will	17	ps_cue
+########
+23
+And that 's how this process will continue , '' House Speaker Paul Ryan told reporters on Thursday .
+will	6	ps_cue
+########
+24
+<EOP> .
+########
+25
+It remains unknown whether the two chambers of Congress are able to bridge those differences .
+unknown	2	ps_cue
+whether	3	ps_cue
+########
+26
+The Trump administration and congressional Republican leaders are under pressure to deliver a major legislative victory on tax reform before next year 's congressional midterm elections , as they have failed to pass a bill to repeal and replace the controversial Obamacare earlier in the year .
+failed	30	neg_cue
+########
+27
+<EOP> .
+########

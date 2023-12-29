@@ -1,0 +1,99 @@
+Does Paris assailant 's motive remain unclear
+0
+Paris assailant identified , motive remains unclear <EOP> .
+remains	5	CT+	CT+
+unclear	6	ps_cue
+########
+1
+2017_06_07 06:21 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+<EOP> .
+########
+4
+French police stand at the scene of a shooting incident near the Notre Dame Cathedral in Paris , France , June 6 , 2017 .
+########
+5
+LRB Photo_Agencies RRB <EOP> .
+########
+6
+`` What we know at this stage that he is an Algerian student , '' Collomb told reporters , adding that authentication of an identity card found with the suspect was underway .
+suspect	29	ps_cue
+########
+7
+<EOP> .
+########
+8
+`` A person armed with a hammer began to hit a policeman .
+########
+9
+His colleague opened fired , allowing the attacked policeman not to be the victim of serious violence than that he has undergone , '' he said .
+not	9	neg_cue
+########
+10
+<EOP> .
+########
+11
+The suspect who was also armed with knives , shouted `` This is for Syria '' when he attacked the policeman and slightly injured him , according to the minister .
+suspect	1	ps_cue
+########
+12
+<EOP> .
+########
+13
+The man , wounded in the attack , was believed to act alone .
+believed	9	ps_cue
+########
+14
+His motives remain unknown , according to the minister .
+remain	2	CT+	CT+
+unknown	3	ps_cue
+########
+15
+<EOP> .
+########
+16
+Paris prosecutor 's anti_terrorism unit launched an investigation into the incident .
+########
+17
+<EOP> .
+########
+18
+`` In the coming days , Paris prosecutor will give precise circumstances of this aggression , '' he said .
+will	8	ps_cue
+########
+19
+<EOP> .
+########
+20
+`` We have gone from a sophisticated terrorism to terrorism where any tool can be used for aggressions , '' he added .
+can	13	ps_cue
+########
+21
+<EOP> .
+########
+22
+France remains in a state of emergency and on high alert over possible terrorist attacks due to its military intervention in Syria , Iraq and the Sahel region .
+possible	12	ps_cue
+########
+23
+<EOP> .
+########
+24
+France imposed emergency security rules in the wake of the 2015 attacks which killed 130 people .
+########
+25
+It also deployed 10,000 of gendarmes and police units to protect public places and sensitive sites .
+########
+26
+<EOP> .
+########
+27
+However , several more attacks have occurred since , with the bloodiest on Bastille Day last year in Nice where a man drove his truck into a crowd , killing 86 people .
+########
+28
+<EOP> .
+########

@@ -1,0 +1,59 @@
+Did DPRK denounce CIA director 's threat
+0
+DPRK denounces CIA director 's threat to remove its supreme leadership <EOP> .
+denounces	1	CT+	CT+
+denounces	1	neg_cue
+########
+1
+2017_07_25 19:14 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+PYONGYANG __ The Democratic People 's Republic of Korea LRB DPRK RRB Tuesday denounced the recent threat made by Mike Pompeo , director of the US Central Intelligence Agency LRB CIA RRB , to `` remove the supreme leadership '' of the DPRK .
+denounced	13	CT+	CT+
+########
+4
+<EOP> .
+########
+5
+`` It has now become clear that the ultimate aim of the Trump administration 's hostile policy towards the DPRK is the ` regime change ' in DPRK , '' the Korean Central News Agency quoted a spokesman of the DPRK Foreign Ministry as saying .
+########
+6
+<EOP> .
+########
+7
+The spokesman said Pompeo `` mentioned impertinently at a security forum hosted by a civilian organization about ` removal of the supreme leadership ' of DPRK . ''
+########
+8
+<EOP> .
+########
+9
+`` What is most dangerous about the North Korean LRB DPRK RRB nuclear issue is the character who holds the control over them , '' Pompeo said Thursday .
+########
+10
+<EOP> .
+########
+11
+He said both the US intelligence community and Department of Defense are figuring out the way to separate the weapons from someone who might well have intent to use them .
+might	23	ps_cue
+intent	26	ps_cue
+########
+12
+<EOP> .
+########
+13
+During a TV interview last week , Pompeo said the topic of the DPRK nuclear program was `` at the top '' of US President Donald Trump 's mind , and that he `` hardly ever escapes a day at the White House without the president asking me about North Korea LRB DPRK RRB and how it is that the United States is responding to that threat . ''
+hardly	34	neg_cue
+without	43	neg_cue
+########
+14
+<EOP> .
+########
+15
+Earlier this year , the DPRK said it foiled an attempt by the CIA to assassinate its top leader Kim Jong_un by sending agents into the country in collaboration with Seoul 's intelligence services .
+########
+16
+<EOP> .
+########

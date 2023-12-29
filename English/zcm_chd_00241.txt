@@ -1,0 +1,114 @@
+Will the same day government shut down without a budget deal
+0
+Trump heads into tough week with budget , health care battles <EOP> .
+########
+1
+2017_04_24 09:11 <EOP> .
+########
+2
+null <EOP> .
+########
+3
+US President Donald Trump looks up while hosting a House and Senate leadership lunch at the White House in Washington , US March 1 , 2017 .
+########
+4
+LRB Photo_Agencies RRB <EOP> .
+########
+5
+The symbolic 100_day mark for the administration is Saturday -- the same day government could shut down without a budget deal .
+shut	15	PS+	PS-
+could	14	ps_cue
+without	17	neg_cue
+########
+6
+Trump has announced a rally in Pennsylvania that day .
+########
+7
+<EOP> .
+########
+8
+Aides stressed on Sunday talk shows that funding a wall along the US_Mexican border and a vote on an effort to repeal and replace President Barack Obama 's health care law were priorities .
+repeal	21	PS+	PS-
+########
+9
+But they also expressed optimism that a shutdown could be avoided .
+could	8	ps_cue
+########
+10
+<EOP> .
+########
+11
+`` I do n't think anyone foresees or expects or would want a shutdown , '' said budget director Mick Mulvaney on `` Fox News Sunday .
+shutdown	13	CT-	PS-
+n't	3	neg_cue
+or	7	ps_cue
+expects	8	ps_cue
+or	9	ps_cue
+would	10	ps_cue
+########
+12
+`` Trump would like to revive a failed effort by House Republicans to replace the Affordable Care Act , or `` Obamacare . ''
+would	2	ps_cue
+like	3	ps_cue
+failed	7	neg_cue
+or	19	ps_cue
+########
+13
+He also hopes to use a $ 1 trillion catchall spending bill to salvage victories on his promised US_Mexico border wall , a multibillion_dollar down payment on a Pentagon buildup , and perhaps a crackdown on cities that refuse to cooperate with immigration enforcement by federal authorities .
+hopes	2	ps_cue
+perhaps	32	ps_cue
+refuse	38	neg_cue
+########
+14
+<EOP> .
+########
+15
+But so far , negotiations have proven difficult , with disputes over the border wall and health law subsidies to help low_income people afford health insurance .
+########
+16
+House members received little information from leaders on a conference call Saturday .
+little	3	neg_cue
+########
+17
+A one _ or two_week extension might be needed to prevent a shutdown .
+shutdown	12	CT-	PS-
+prevent	10	neg_cue
+or	3	ps_cue
+might	6	ps_cue
+########
+18
+<EOP> .
+########
+19
+White House chief of staff Reince Priebus said on NBC 's `` Meet the Press '' that he believes the spending bill will include `` something satisfactory '' to reflect Trump 's desire to build a wall .
+will	22	ps_cue
+########
+20
+The legislation would keep the government running through Sept. 30 , the end of the budget year .
+would	2	ps_cue
+########
+21
+<EOP> .
+########
+22
+`` We expect the priorities of the president to be reflected , '' Priebus said , citing ongoing talks with the House and the Senate .
+expect	2	ps_cue
+########
+23
+He added that `` it 'll be enough ... to move forward either with construction or the planning , enough for us to move forward through the end of September , to get going on the border wall and border security .
+forward	11	ps_cue
+forward	11	neg_cue
+either	12	ps_cue
+or	15	ps_cue
+planning	17	ps_cue
+forward	24	ps_cue
+forward	24	neg_cue
+########
+24
+`` House Democratic leader Nancy Pelosi of California described a border wall as `` immoral '' and `` expensive '' when asked if there was any scenario in which Democrats will agree to money for a wall to avoid a shutdown .
+will	30	ps_cue
+avoid	38	neg_cue
+########
+25
+<EOP> .
+########

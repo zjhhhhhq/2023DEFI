@@ -1,0 +1,55 @@
+Are cargo train trips made between China and Europe 
+0
+4,000 cargo train trips made between China , Europe <EOP> .
+made	4	CT+	CT+
+########
+1
+2017_06_08 18:19 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+NINGBO __ More than 4,000 cargo train trips have been made between Chinese and European cities since start of their operations six years ago , a railway corporation manager said Thursday .
+made	10	CT+	CT+
+########
+4
+<EOP> .
+########
+5
+Of the trips 99.7 percent were on time , Han Shurong , of China Railway Corp. , said at a meeting between China and countries of Central and Eastern Europe held in Ningbo , east China 's Zhejiang Province .
+########
+6
+<EOP> .
+########
+7
+The transported items included IT products , such as mobiles and computers , to clothes , cars and auto parts , food , wine , coffee beans , timber and machines , he said .
+########
+8
+<EOP> .
+########
+9
+`` Unlike in the past when most trains returned to China empty because of a lack of goods , over half of the trains came back loaded last year , '' he said .
+lack	15	neg_cue
+########
+10
+<EOP> .
+########
+11
+The rail network was launched in August 2011 with the opening of the Chongqing_Duisburg Line , which starts from the southwest China metropolis of Chongqing .
+########
+12
+The trains are currently operated between 28 Chinese cities and 29 cities in 11 European countries .
+########
+13
+<EOP> .
+########
+14
+<EOP> .
+########
+15
+<EOP> .
+########
+16
+<EOP> .
+########

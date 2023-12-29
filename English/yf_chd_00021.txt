@@ -1,0 +1,94 @@
+Does a company 's share price skyrocket
+0
+Shares of drug company BeiGene soar in US <EOP> .
+########
+1
+2018_01_05 16:03 <EOP> .
+########
+2
+China Daily USA <EOP> .
+########
+3
+The share price of Nasdaq_listed Chinese biopharmaceutical company BeiGene more than tripled in 2017 even though its products have not yet been put on the market , indicating investors ' strong interest in the company 's offerings .
+price	2	CT+	CT+
+not	19	neg_cue
+yet	20	neg_cue
+########
+4
+<EOP> .
+########
+5
+Even though it 's rare for a company 's share price to skyrocket when its products are yet to be offered , a report from the Motley Fool , a US investment analytics website , indicates there is still more potential for the stock to grow , supported by BeiGene 's fundamentals .
+price	10	PS-	CT+
+rare	4	ps_cue
+yet	17	neg_cue
+potential	40	ps_cue
+########
+6
+<EOP> .
+########
+7
+BeiGene is a commercial_stage , research_based biopharmaceutical company focused on molecularly targeted and immune_oncology cancer therapeutics .
+########
+8
+Its share price rose from some $ 30 to more than $ 96 in 2017 , with capitalization of about $ 4.4 billion .
+price	2	CT+	CT+
+########
+9
+<EOP> .
+########
+10
+The capital market `` is showing strong interest in innovative biopharmaceutical projects in China and abroad .
+########
+11
+For successful investment , long_term strategies and investors with great vision and patience are key '' , said a research report at Healthcare Executives , a professional healthcare journal .
+########
+12
+<EOP> .
+########
+13
+Besides BeiGene , several other Chinese biotech companies are also favored in global capital markets , such as cancer therapeutics biotech BeyondSpring and Zai Lab , a Shanghai_based biopharmaceutical company that focuses on transformative medicines for cancer , autoimmune and infectious diseases .
+########
+14
+Both BeyondSpring and Zai Lab went public on the Nasdaq in 2017 .
+########
+15
+<EOP> .
+########
+16
+John Oyler , founder and chief executive officer and chairman of BeiGene , said the company hopes its original products will be successfully offered in China to enable patients to benefit from the drugs in affordable manner .
+hopes	16	ps_cue
+will	20	ps_cue
+########
+17
+<EOP> .
+########
+18
+BeiGene has established a manufacturing base in Suzhou , Jiangsu province that can produce up to 100 million capsules annually , meeting the demands of some 20,000 to 50,000 patients .
+can	12	ps_cue
+########
+19
+It also has a macromolecular biotics manufacturing base under construction in Guangzhou .
+########
+20
+The two plants are preparing to produce the company 's new drugs , which are still in clinical research stage and yet to be commercialized .
+yet	21	neg_cue
+########
+21
+<EOP> .
+########
+22
+According to data from IMS , a pharmaceutical and healthcare consultancy services provider , China is the world 's second largest consumer of medicine , after the US .
+########
+23
+<EOP> .
+########
+24
+Chinese healthcare and medicine regulators have also made efforts to reform the drug review and approval system , which shortens time for a new drug to be widely used and encourages innovations and enables investors to achieve returns in a shorter period of time , said Song Ruilin , executive president of China Pharmaceutical Innovation and Research Development Association , at a recent conference .
+########
+25
+<EOP> .
+########
+26
+wuyiyao@chinadaily.com.cn <EOP> .
+########

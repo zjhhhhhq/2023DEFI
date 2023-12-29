@@ -1,0 +1,134 @@
+Does a dog protect eyesight
+0
+Keeping a pet cat puts owners at greater risk of going blind , but a dog appears to protect eyesight , a new study suggests .
+protect	18	PS+	PS+
+appears	16	ps_cue
+suggests	24	ps_cue
+########
+1
+<EOP> .
+########
+2
+Scientists have discovered that dogs and cats carry antigens which can prompt different immune responses in humans .
+can	10	ps_cue
+########
+3
+<EOP> .
+########
+4
+While the allergen which dogs carry reduces the chance of developing glaucoma _ the second leading cause of blindness in theUK _ owning a cat nearly doubles the risk of contracting the eye disease .
+########
+5
+<EOP> .
+########
+6
+Many pet owners suffer mild allergic reactions to their pets but still choose to keep them .
+########
+7
+However the new study suggests that even a small immune response could lead to blindness .
+suggests	4	ps_cue
+could	11	ps_cue
+########
+8
+<EOP> .
+########
+9
+The study by the University of California , Los Angeles , found that cat owners who reacted to their pet allergen had a 90 per cent increased risk of glaucoma compared with non_pet owners .
+########
+10
+But dog owners were 20 per cent less likely to develop the debilitation condition .
+likely	8	ps_cue
+########
+11
+<EOP> .
+########
+12
+Keeping a dog also has the added benefit that owners are outside more which has been proven to protect against short_sightedness .
+protect	18	CT+	PS+
+against	19	neg_cue
+########
+13
+<EOP> .
+########
+14
+`` Not only is Fido man 's best friend , he may also save your sight , '' said British laser eye surgeon Dr David Allamby .
+Not	1	neg_cue
+may	11	ps_cue
+########
+15
+<EOP> .
+########
+16
+`` Cats could cause our immune system to react in a way that predispose eyes to the development of glaucoma .
+could	2	ps_cue
+########
+17
+<EOP> .
+########
+18
+`` Exposure to dogs appears to be linked to the opposite effect and could be protective against the disease . ''
+appears	4	ps_cue
+could	13	ps_cue
+against	16	neg_cue
+########
+19
+<EOP> .
+########
+20
+Glaucoma occurs when fluid in the eyeball stops draining efficiently , causing a build_up of pressure which damages the optic nerve and nerve fibres from the retina .
+########
+21
+Previous studies have suggested that inflammation can drive the disease and the researchers wanted to find out if that could be triggered by pet allergens .
+suggested	3	ps_cue
+can	6	ps_cue
+wanted	13	ps_cue
+could	19	ps_cue
+########
+22
+<EOP> .
+########
+23
+Animals frequently groom themselves so allergens from saliva and secretions spread throughout the home , becoming airborne easily where they can be inhaled by humans .
+can	20	ps_cue
+########
+24
+<EOP> .
+########
+25
+The researchers believe that dogs are healthier for humans because they spend more time outdoors .
+########
+26
+<EOP> .
+########
+27
+`` The protective effect of dogs could be due to their natural antigens in their dead skin , but might also be because they spend more time outdoors and are happy to get dirty , whereas cats are cleaner animals , '' said Dr Anne Coleman , of UCLA .
+could	6	ps_cue
+might	19	ps_cue
+########
+28
+<EOP> .
+########
+29
+`` We already know that exposure to dogs and the germs and bacteria they carry can be good for the immune system .
+can	15	ps_cue
+########
+30
+Now it seems to be the case for the eyes too .
+seems	2	ps_cue
+########
+31
+<EOP> .
+########
+32
+`` Allergens from cats may have biochemical or physical properties that trigger antibodies targeting the optic nerve , while dog allergens may behave differently , possibly because dogs spend more time outdoors . ''
+may	4	ps_cue
+or	7	ps_cue
+may	21	ps_cue
+possibly	25	ps_cue
+########
+33
+<EOP> .
+########
+34
+Vocabulary : <EOP> .
+########

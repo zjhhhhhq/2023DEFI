@@ -1,0 +1,141 @@
+Was Beijing 's Parkview Green awarded the LEED Dynamic Plaque by the US Green Building Council
+0
+Beijing mall wins top US award <EOP> .
+########
+1
+2017_04_28 07:06 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+<EOP> .
+########
+4
+Malls used to be all about shopping , but as air quality becomes one of the top concerns globally , some of them have set out to make themselves urban retreats .
+########
+5
+<EOP> .
+########
+6
+Beijing 's Parkview Green , a complex that includes offices , a shopping mall , an art center and a hotel , was recently awarded the LEED Dynamic Plaque by the US Green Building Council , a nonprofit organization based in Washington which promotes sustainability in buildings .
+awarded	24	CT+	CT+
+########
+7
+<EOP> .
+########
+8
+This follows the LEED Platinum certification it earned in 2009 .
+########
+9
+<EOP> .
+########
+10
+Parkview Green is the first building in the Asia_Pacific region to win the plaque .
+win	11	CT+	CT+
+########
+11
+<EOP> .
+########
+12
+LEED , or Leadership in Energy and Environmental Design , is a rating system developed by USGBC that encourages green practices in the real estate industry by measuring energy efficiency , water conservation , waste and recycling , transportation and user experience .
+or	2	ps_cue
+########
+13
+It is used in more than 160 countries .
+########
+14
+<EOP> .
+########
+15
+The LEED Dynamic Plaque , which was launched recently , emphasizes a building 's performance like real_time monitoring for environmental protection and energy conservation , and user experience .
+like	15	ps_cue
+########
+16
+<EOP> .
+########
+17
+With its glass exterior and steel frame structures , Parkview Green 's energy consumption is 50 percent lower than industry standards .
+########
+18
+It also has a rain collection system that filters rain water for irrigation , and an air filtration system that keeps the PM2 .5 under 60 at all times .
+########
+19
+<EOP> .
+########
+20
+Oliver Lai , Parkview Green 's general manager , says that environmental protection is not about design , but is in day_to_day operations .
+not	14	neg_cue
+########
+21
+`` This is not just an award .
+not	3	neg_cue
+########
+22
+It is a lifetime motivator for us to be part of the green movement , '' he says .
+########
+23
+<EOP> .
+########
+24
+While this type of building requires more investment in the early stages , the cost will balance out in a few decades with the energy saved , he adds .
+will	15	ps_cue
+########
+25
+<EOP> .
+########
+26
+Parkview Green will display real_time energy conservation data in the building .
+will	2	ps_cue
+########
+27
+<EOP> .
+########
+28
+Sarah Alexander , the vice_president of USGBC , says that China is now the second country after the United States in LEED usage , with more than 3,300 projects , which cover more than 161 million square meters .
+########
+29
+<EOP> .
+########
+30
+`` Market transformation happens one project at a time , and China has an opportunity to drive sustainability on a global scale . ''
+########
+31
+<EOP> .
+########
+32
+In the next five years , she says she hopes China will aspire to getting thousands of buildings certified and set a goal of 1 billion square meters of certified space .
+hopes	9	ps_cue
+will	11	ps_cue
+########
+33
+<EOP> .
+########
+34
+Feng Yi , vice_chairman of the Beijing Construction Association , says he hopes the construction industry in China follows the Parkview Green example and becomes part of the green building movement .
+hopes	12	ps_cue
+########
+35
+<EOP> .
+########
+36
+<EOP> .
+########
+37
+<EOP> .
+########
+38
+<EOP> .
+########
+39
+The Marchesa bridal collection is presented during the Bridal Fashion Week in New York .
+########
+40
+AP <EOP> .
+########
+41
+<EOP> .
+########
+42
+LRB China Daily 04_28_2017 page18 RRB <EOP> .
+########

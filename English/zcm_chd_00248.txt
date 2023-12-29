@@ -1,0 +1,109 @@
+Is there a demand to fund a border wall 
+0
+Shutdown threat ebbs as Trump retreats on wall funding <EOP> .
+########
+1
+2017_04_27 07:01 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+<EOP> .
+########
+4
+WASHINGTON _ Donald Trump and US lawmakers inched closer to a deal on Tuesday avoiding a government shutdown , as the president , eager to showcase a win marking his first 100 days , retreated from a demand to fund a border wall .
+fund	39	CT+	PS+
+########
+5
+<EOP> .
+########
+6
+With the government set to exhaust its current funding at midnight on Friday , the White House is under the gun to craft a compromise that would keep the government running while not appearing to cave on Trump 's demand that Congress fund a wall on the border with Mexico .
+fund	42	CT+	PS+
+would	26	ps_cue
+not	32	neg_cue
+########
+7
+<EOP> .
+########
+8
+`` Hopefully , we 'll reach an agreement some time in the next couple of days , '' Senate Majority Leader Mitch McConnell said , but he did not rule out passing a short_term extension that gives lawmakers time to craft a final deal .
+Hopefully	1	ps_cue
+not	28	neg_cue
+########
+9
+<EOP> .
+########
+10
+While lawmakers said the funding legislation would steer clear of including funding for a border wall , it is expected to cover broader border security measures , such as the use of drones or anti_tunnelling technology .
+would	6	ps_cue
+expected	19	ps_cue
+or	33	ps_cue
+########
+11
+<EOP> .
+########
+12
+But a deal remained far from certain .
+########
+13
+Among the sticking points is the fate of cost_sharing arrangements that help reduce health insurance costs for low_income US citizens buying plans through the Affordable Care Act , the reform implemented by Trump 's predecessor Barack Obama .
+plans	21	ps_cue
+########
+14
+<EOP> .
+########
+15
+Trump had been on a collision course with lawmakers over the wall , demanding that Congress include funding to start construction in its new spending bill .
+########
+16
+<EOP> .
+########
+17
+Democrats blasted the approach , warning that Republicans risked being blamed for shuttering the government barely three months into Trump 's administration .
+blasted	1	neg_cue
+barely	15	neg_cue
+########
+18
+<EOP> .
+########
+19
+`` There are n't enough Republican votes to put the wall in '' to the spending bill , said veteran Senator Patrick Leahy , top Democrat on the Appropriations Committee .
+n't	3	neg_cue
+########
+20
+<EOP> .
+########
+21
+With jitters rippling through Washington , Trump apparently agreed to soften his demand days before the deadline .
+########
+22
+<EOP> .
+########
+23
+He said that he was open to delaying funding for the wall 's construction until September , according to The Washington Post .
+funding	8	CT-	PS+
+delaying	7	neg_cue
+########
+24
+<EOP> .
+########
+25
+By Tuesday , the government was acknowledging Trump 's plan could be pushed back .
+plan	9	ps_cue
+could	10	ps_cue
+########
+26
+<EOP> .
+########
+27
+`` Building that wall and having it funded remains an important priority to him , '' adviser Kellyanne Conway told Fox News .
+########
+28
+`` But we also know that that can happen later this year and into next year . ''
+can	7	ps_cue
+########
+29
+<EOP> .
+########

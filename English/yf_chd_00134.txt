@@ -1,0 +1,153 @@
+Does US Trade Representative initiate an investigation
+0
+Section 301 seen as wrong way to handle trade issue <EOP> .
+########
+1
+2017_12_14 06:49 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+US experts and former trade officials on Wednesday agreed that the recent Section 301 case against China is unhelpful and inconsistent with the obligations to the World Trade Organization LRB WTO RRB .
+agreed	8	CT+	CT+
+against	15	neg_cue
+########
+4
+<EOP> .
+########
+5
+US Trade Representative Robert Lighthizer on Aug 14 formally initiated an investigation into China 's policy and practice of intellectual property under Section 301 of the US Trade Act of 1974 .
+initiated	9	CT+	CT+
+########
+6
+<EOP> .
+########
+7
+Michael Froman , the USTR under the Obama administration , believes making a WTO case is a better way to solve problems than using Section 301 .
+########
+8
+<EOP> .
+########
+9
+He expressed that if the Trump administration imposes tariffs without going to the WTO , it would risk a tit_for_tat trade war .
+without	9	neg_cue
+would	16	ps_cue
+########
+10
+<EOP> .
+########
+11
+`` Does China retaliate ?
+########
+12
+Do we find ourselves in that tit_for_tat ?
+########
+13
+... That does begin the process of action , reaction , retaliation , raising cost , disrupting supply chain and hurting consumers , and the like , '' he said on Wednesday at the Center for Strategic and International Studies .
+like	25	ps_cue
+########
+14
+`` And , of course , putting ourselves in potential violation of our WTO obligations . ''
+potential	9	ps_cue
+########
+15
+<EOP> .
+########
+16
+Froman believes it could lead to other countries following the US approach , and the US ceding the moral high ground .
+could	3	ps_cue
+########
+17
+<EOP> .
+########
+18
+`` If we begin to apply WTO obligations selectively .
+########
+19
+... Other countries will say , well , selective obligations are the new fashion , '' Froman said .
+will	3	ps_cue
+########
+20
+<EOP> .
+########
+21
+He said that could have a significant negative impact on US companies , workers , farmers , ranchers and the like .
+could	3	ps_cue
+negative	7	neg_cue
+like	20	ps_cue
+########
+22
+<EOP> .
+########
+23
+John Veroneau , partner at the law firm Covington and Burling and a former deputy USTR under the George W. Bush administration , said it will depend on how the US threatens unilateral actions , in a full_blown way or in a subtle and quiet but clear way .
+will	25	ps_cue
+or	39	ps_cue
+########
+24
+<EOP> .
+########
+25
+He expressed that unilateral action will hurt both sides and is beneficial to neither .
+will	5	ps_cue
+neither	13	neg_cue
+########
+26
+<EOP> .
+########
+27
+`` We will see if it is done subtly , and move in a productive way .
+will	2	ps_cue
+########
+28
+If it 's not done so subtly , things could deteriorate , '' he said of the Section 301 investigation of China 's IP issue .
+not	3	neg_cue
+could	9	ps_cue
+########
+29
+<EOP> .
+########
+30
+Chad Bown , a senior fellow at the Peterson Institute for International Economics , said China is effective in retaliating in ways that can hurt the US .
+can	23	ps_cue
+########
+31
+<EOP> .
+########
+32
+There is much speculation that if the US imposes high tariffs after the Section 301 investigation , large US exports to China , such as farm produce and Boeing planes , could face the first retaliation .
+imposes	8	Uu	CT+
+face	32	CT+	CT+
+speculation	3	ps_cue
+could	31	ps_cue
+########
+33
+<EOP> .
+########
+34
+Bruce Hirsh , principal of Tailwind Global Strategies LLC and a former assistant USTR , expressed that imposing tariffs will be difficult now compared with the 1980s , because the economies are so integrated .
+will	19	ps_cue
+########
+35
+<EOP> .
+########
+36
+`` If we go on a route which is WTO_inconsistent , we will give China opportunities to rally others against us , '' Hirsh said .
+will	12	ps_cue
+opportunities	15	ps_cue
+against	19	neg_cue
+########
+37
+`` We wo n't have cooperation from others .
+n't	3	neg_cue
+########
+38
+They have a lot of levers to hit back . ''
+########
+39
+<EOP> .
+########
+40
+chenweihua@chinadailyusa.com <EOP> .
+########

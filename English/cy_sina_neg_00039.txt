@@ -1,0 +1,61 @@
+Do transgender people serve in `` any capacity '' in the military 
+0
+US President Donald Trump says transgender people can not serve in `` any capacity '' in the military .
+serve	9	CT-	CT-
+not	8	neg_cue
+can	7	ps_cue
+########
+1
+<EOP> .
+########
+2
+He tweeted that he had consulted with military experts and cited `` tremendous medical costs and disruption '' .
+########
+3
+<EOP> .
+########
+4
+The Obama administration decided last year to allow transgender people to serve openly in the military .
+########
+5
+<EOP> .
+########
+6
+But in June , Defence Secretary James Mattis agreed to a six_month delay in the recruitment of transgender people .
+########
+7
+<EOP> .
+########
+8
+Some Republicans have voiced opposition to allowing transgender people to serve at all .
+serve	10	CT-	CT-
+opposition	4	neg_cue
+########
+9
+<EOP> .
+########
+10
+The independent Rand Corporation estimated in 2016 that 2,450 of the 1.2 million active_duty service members are transgender .
+########
+11
+<EOP> .
+########
+12
+In a series of tweets , Mr Trump said : `` After consultation with my Generals and military experts , the United States Government will not accept or allow transgender individuals to serve in any capacity in the U.S. Military .
+serve	32	CT-	CT-
+not	25	neg_cue
+will	24	ps_cue
+or	27	ps_cue
+########
+13
+<EOP> .
+########
+14
+`` Our military must be focused on decisive and overwhelming victory and can not be burdened with the tremendous medical costs and disruption that transgender in the military would entail . ''
+can	12	ps_cue
+not	13	neg_cue
+would	28	ps_cue
+########
+15
+<EOP> .
+########

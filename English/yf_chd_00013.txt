@@ -1,0 +1,48 @@
+Does bitter cold turn Niagara Falls into winter wonderland
+0
+Bitter cold turns Niagara Falls into winter wonderland <EOP> .
+wonderland	7	CT+	CT+
+########
+1
+2018_01_04 10:49 <EOP> .
+########
+2
+China Daily <EOP> .
+########
+3
+NIAGARA FALLS , United States _ Niagara Falls is one place the nation 's deep freeze is as much seen as it is felt .
+########
+4
+<EOP> .
+########
+5
+Mist from the surging waters has been freezing instantly on everything it touches , coating trees , walkways , cliffs and overlooks in a dreamy , brilliant white .
+########
+6
+Visitors hardy enough to withstand the bone_chilling cold are treated to snapshots and selfies in a winter wonderland .
+wonderland	17	CT+	CT+
+########
+7
+<EOP> .
+########
+8
+`` It 's outstanding .
+########
+9
+As cold as it gets , it 's a year_round attraction , '' Paul Tabaczynski said during a visit to see the spectacle on Tuesday .
+attraction	10	CT+	CT+
+spectacle	22	CT+	CT+
+########
+10
+A Buffalo native , he lives in Dallas now but remembered to dress in layers _ flannel over a T_shirt and a lined sweatshirt that passes for his winter jacket in Texas .
+########
+11
+<EOP> .
+########
+12
+Although everything around them freezes , the three waterfalls that make up the natural attraction between the United States and Canada continue to flow and churn up the frosty mist .
+attraction	14	CT+	CT+
+########
+13
+<EOP> .
+########

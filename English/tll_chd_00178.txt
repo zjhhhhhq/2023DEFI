@@ -1,0 +1,105 @@
+Was Macron sworn in as new French president 
+0
+Macron sworn in as new French president <EOP> .
+sworn	1	CT+	CT+
+########
+1
+2017_05_15 09:12 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+French President Emmanuel Macron reacts during his inauguration after the handover ceremony at the Elysee Palace in Paris , France , May 14 , 2017 .
+inauguration	7	CT+	CT+
+May	21	ps_cue
+########
+4
+LRB Photo_Agencies RRB <EOP> .
+########
+5
+PARIS _ Centrist Emmanuel Macron was sworn in as the eighth president of the French Fifth Republic in a ceremony at the Elysee Palace here on Sunday .
+sworn	6	CT+	CT+
+########
+6
+<EOP> .
+########
+7
+After a warm welcome from outgoing President Francois Hollande at the Elysee Palace at around 10:00 am local time LRB 0800 GMT RRB , Macron and Hollande held a closed_door meeting during which Macron was handed the codes to launch France 's nuclear arsenal .
+########
+8
+<EOP> .
+########
+9
+President of the Constitutional Council Laurent Fabius then announced the final results of presidential elections and Macron officially assumed the office .
+########
+10
+<EOP> .
+########
+11
+In a speech to several hundred guests , Macron said , `` The French have chosen hope and the spirit of conquest . ''
+hope	16	ps_cue
+########
+12
+<EOP> .
+########
+13
+`` I will not give up on the commitments made with regard to the French , '' said the new president .
+will	2	ps_cue
+not	3	neg_cue
+########
+14
+<EOP> .
+########
+15
+`` Nothing will make me renounce to defend the interests of France .
+will	2	ps_cue
+########
+16
+From this evening I will be at work , '' he stressed .
+will	4	ps_cue
+########
+17
+<EOP> .
+########
+18
+During the coming five years of his governing term , Macron hopes to draw `` one of the most beautiful images of our history , '' in which Europe must be more `` efficient '' and more `` democratic . ''
+hopes	11	ps_cue
+########
+19
+<EOP> .
+########
+20
+Following the ceremony and a review of the guard of honor , the 39_year_old Macron will go to the Tomb of the Unknown Soldier , at the Arc de Triomphe at the top of the Champs_Elysees Avenue , a tradition followed by all his predecessors in France 's modern history .
+will	15	ps_cue
+########
+21
+<EOP> .
+########
+22
+Macron won a runoff on May 7 , beating far_right Front National candidate Marine Le Pen by a wide margin .
+May	5	ps_cue
+########
+23
+<EOP> .
+########
+24
+Macron , a pro_market advocate and ex_investment banker , offered a relief to the market and supporters for economic openness and closer European links .
+########
+25
+<EOP> .
+########
+26
+In his first official visit abroad , Macron will meet German Chancellor Angela Merkel on Monday in Berlin to forge closer links and seek ways to bolster integration in the European bloc .
+will	8	ps_cue
+########
+27
+<EOP> .
+########
+28
+Then , he will visit French army forces in the Sahel region , according to local media reports .
+will	3	ps_cue
+########
+29
+<EOP> .
+########

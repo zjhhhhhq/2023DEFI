@@ -1,0 +1,130 @@
+Will Britain leave the European Union
+0
+Britain could potentially leave the European Union as early as next year as Prime Minister David Cameron is allegedly already putting plans in motion to bring forward an in_outreferendum by a year .
+leave	3	PS+	PS+
+could	1	ps_cue
+potentially	2	ps_cue
+plans	21	ps_cue
+forward	26	ps_cue
+forward	26	neg_cue
+########
+1
+<EOP> .
+########
+2
+If Britons vote to leave the EU , this means the country could technically start severing its ties by the end of 2016 .
+leave	4	Uu	PS+
+could	12	ps_cue
+########
+3
+<EOP> .
+########
+4
+The Conservatives won the May 7 General Election with a 12 seat majority .
+May	4	ps_cue
+########
+5
+<EOP> .
+########
+6
+The Tories will have to deliver a referendum by 2017 over whether Britain will stay part of the EU or not , since it was a linchpin pledge during the campaign .
+will	2	ps_cue
+whether	11	ps_cue
+will	13	ps_cue
+or	19	ps_cue
+not	20	neg_cue
+########
+7
+<EOP> .
+########
+8
+According to the Guardian newspaper , which cited unnamed government sources , Cameron is keen to move the referendum forward , in order to capitalise on Tory support and to avoid being caught up in the French and German elections in 2017 .
+forward	19	ps_cue
+forward	19	neg_cue
+avoid	30	neg_cue
+########
+9
+<EOP> .
+########
+10
+`` The mood now is definitely to accelerate the process and give us the option of holding the referendum in 2016 , '' said one of the Guardian newspaper 's sources .
+########
+11
+<EOP> .
+########
+12
+`` We had always said that 2017 was a deadline rather than a fixed date . ''
+rather	10	neg_cue
+########
+13
+<EOP> .
+########
+14
+Another source said , `` it was made pretty clear that the European council LRB the grouping of the EU 's 28 leaders RRB would not engage seriously until the election result was clear .
+would	24	ps_cue
+not	25	neg_cue
+########
+15
+<EOP> .
+########
+16
+`` We expect the negotiations to take place in 2015 and 2016 so they finish well ahead of the French presidential elections LRB in the spring of 2017 RRB and the German federal elections LRB in September 2017 RRB . ''
+expect	2	ps_cue
+########
+17
+<EOP> .
+########
+18
+The Conservatives are under pressure to hold an EU referendum amid growing disdain for the 28_member bloc 's influence over the UK .
+########
+19
+<EOP> .
+########
+20
+In an ING analyst note this week , the group highlighted how the latest Eurobarometer public opinion survey shows just 23 % of Britons have a `` generally positive '' view of the EU , with only Greece having a lower rating LRB 22 % RRB .
+########
+21
+<EOP> .
+########
+22
+Couple this with the fact that 3.8 million people who voted for the UK Independence Party , which is opposed to staying in the union , and the number of Eurosceptics from other political factions and it could be a very real threat to Britain 's EU membership .
+opposed	19	neg_cue
+could	37	ps_cue
+########
+23
+<EOP> .
+########
+24
+However , although the Tories are pushing through the promise of a referendum , the party is largely against leaving the EU .
+against	18	neg_cue
+########
+25
+<EOP> .
+########
+26
+In January last year , UK Chancellor George Osborne said that the Tories were determined to deliver on the promise of a referendum but they would prefer to stay within the EU and negotiate `` a better deal . ''
+would	25	ps_cue
+########
+27
+<EOP> .
+########
+28
+`` Our determination is clear : to deliver the reform and then let the people decide , '' said Osborne in a speech at a Tory party conference on January 14 .
+########
+29
+<EOP> .
+########
+30
+`` It is the status quo which condemns the people of Europe to an ongoing economic crisis and continuing decline .
+condemns	7	neg_cue
+########
+31
+`` <EOP> .
+########
+32
+And so there is a simple choice for Europe : reform or decline .
+or	11	ps_cue
+########
+33
+<EOP> .
+########

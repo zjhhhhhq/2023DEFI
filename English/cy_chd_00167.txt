@@ -1,0 +1,103 @@
+Does military adventure lead Japan into own trap
+0
+Military adventure could lead Japan into own trap <EOP> .
+lead	3	PS+	PS+
+could	2	ps_cue
+########
+1
+2017_08_31 21:59 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+Japan 's Defense Ministry is seeking by far its highest budget for fiscal 2018 beginning next April , which , if approved , will be the sixth consecutive increase in the country 's defense expenditure , reflecting Prime Minister Shinzo Abe 's penchant for military expansion .
+seeking	5	ps_cue
+will	23	ps_cue
+########
+4
+The proposed 2.5 percent hike will raise the budget to 5.26 trillion yen LRB $ 48 billion RRB , which the ministry says is needed to pay for upgraded missile interceptors , six F_35 stealth fighters , four V_22 Osprey tilt_rotor aircraft , and new naval vessels , including a submarine and two compact warships .
+proposed	1	ps_cue
+will	5	ps_cue
+raise	6	ps_cue
+########
+5
+<EOP> .
+########
+6
+A country constitutionally bound to maintain armed forces purely for defensive purposes certainly does n't need such military equipment for national security , most of which is anyway provided by its military ally , the United States .
+n't	14	neg_cue
+need	15	ps_cue
+########
+7
+<EOP> .
+########
+8
+Yet Japan , under a bellicose Abe , has been setting one record after another not only in increasing military budgets but also in leading Japan on the dangerous path of militarism .
+not	15	neg_cue
+########
+9
+Instead of sincerely reflecting upon Japan 's wartime past and atoning for the atrocities the Japanese army committed before and during World War II , Abe has made every effort to revise Japan 's pacifist Constitution , so that he can build a strong military .
+can	40	ps_cue
+########
+10
+<EOP> .
+########
+11
+To justify Abe 's military expansion plans , many Japanese media outlets have accused China of posing a threat to Japan .
+plans	6	ps_cue
+########
+12
+They have used Japan 's maritime dispute with China in the East China Sea as an excuse for the hikes in Japan 's defense budgets , disregarding the fact that Tokyo was solely responsible for escalating the dispute .
+########
+13
+<EOP> .
+########
+14
+The Democratic People 's Republic of Korea , too , is high on Japan 's blame list , and by test_firing a missile over Japan on Tuesday , Pyongyang seems to have played into the hands of Tokyo .
+seems	29	ps_cue
+########
+15
+The DPRK deserves the strongest condemnation for its provocative action , but it remains unclear as to how great a threat it poses to Japan .
+unclear	14	ps_cue
+########
+16
+More importantly , countering a potential threat by building a bigger arsenal could lead to counterproductive and even dangerous outcomes , not only for Japan but also for the whole of Northeast Asia .
+lead	13	PS+	PS+
+could	12	ps_cue
+potential	5	ps_cue
+not	21	neg_cue
+########
+17
+<EOP> .
+########
+18
+The current deadlock over the Korean Peninsula nuclear issue shows using military action as an option to resolve it will worsen and complicate the situation further .
+will	19	ps_cue
+########
+19
+To salvage the situation , which seems to have reached a tipping point , the parties involved need to exercise strategic patience and establish communication .
+seems	6	ps_cue
+need	17	ps_cue
+########
+20
+<EOP> .
+########
+21
+But what Japan is doing , instead , could trigger an arms race , throwing the strategic equilibrium in the region off balance , setting alight the tinderbox that the peninsula has become .
+trigger	9	PS+	PS+
+could	8	ps_cue
+instead	6	neg_cue
+########
+22
+<EOP> .
+########
+23
+Should such a scenario become reality , Japan will find the consequences of its military ambition almost impossible to swallow .
+will	8	ps_cue
+impossible	17	ps_cue
+impossible	17	neg_cue
+########
+24
+<EOP> .
+########

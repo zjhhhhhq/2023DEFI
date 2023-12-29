@@ -1,0 +1,83 @@
+Does China need more innovation and talent in the philanthropy sector
+0
+China needs more innovation and talent in the philanthropy sector <EOP> .
+talent	5	CT+	CT+
+needs	1	ps_cue
+########
+1
+2017_04_10 15:11 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+China needs more innovation in philanthropy _ and more talent needs to be attracted to tackle the problems that need solving .
+talent	9	CT+	CT+
+needs	1	ps_cue
+needs	10	ps_cue
+need	19	ps_cue
+########
+4
+<EOP> .
+########
+5
+Li Yinuo , director of the China office of the Bill and Melinda Gates Foundation , said that philanthropy was the most challenging sector for innovation , as there were a large number of problems that people did not know how to solve .
+not	38	neg_cue
+########
+6
+<EOP> .
+########
+7
+Li was speaking at a philanthropy forum held by the Cheung Kong Graduate School of Business LRB CKGSB RRB on April 7 in Beijing .
+########
+8
+She said that , even inside the industry , it was easy to feel like an outsider as new situations were always arising .
+like	14	ps_cue
+########
+9
+<EOP> .
+########
+10
+Tang Chunxia , secretary general of the Shenzhen Cheung Kong Graduate School of Business Education Development Foundation , said that a lack of talent was a problem for the philanthropy sector .
+talent	23	CT+	CT+
+lack	21	neg_cue
+########
+11
+At present about 56.5 percent of full_time employees in the philanthropy industry earned salaries lower than the average for China , with about 15.2 percent on a monthly income of less than 2,000 yuan LRB $ 290 RRB and 27.3 percent on less than 3,000 yuan .
+########
+12
+<EOP> .
+########
+13
+`` Doing philanthropy in a good way is not easy but this industry has a great shortage of talent , so we need to work on how to improve the situation , '' she said .
+talent	18	CT+	CT+
+not	8	neg_cue
+need	22	ps_cue
+########
+14
+<EOP> .
+########
+15
+Hundreds of alumni participated in the forum , sharing their thoughts on philanthropy .
+########
+16
+<EOP> .
+########
+17
+Xiang Bing , founding dean and professor of China business and globalization at CKGSB , said that philanthropy was a requirement for Executive Master of Business Administration students at the school , each being required to make six_day philanthropy contribution before graduating .
+########
+18
+<EOP> .
+########
+19
+In 2016 , the EMBA students at the CKGSB held 69 philanthropic events and contributed 16,883 hours to philanthropy .
+########
+20
+CKGSB was also was the first to set up a philanthropic foundation , which had raised about 60 million yuan by the end of 2016 .
+########
+21
+It carries out hundreds of projects in such areas as education , poverty alleviation and disaster relief .
+########
+22
+<EOP> .
+########

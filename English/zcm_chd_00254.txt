@@ -1,0 +1,139 @@
+Will the Bahamas open direct flights to China
+0
+The Bahamas expects more cooperation with Chinese investors <EOP> .
+expects	2	ps_cue
+########
+1
+2017_04_21 18:22 <EOP> .
+########
+2
+chinadaily.com.cn <EOP> .
+########
+3
+The Bahamas expects to open direct flights to China and establish more cooperation in tourism and financial services with Chinese investors , officials said in April .
+open	4	PS+	PS+
+expects	2	ps_cue
+########
+4
+<EOP> .
+########
+5
+As a North American country with a population of just 400,000 , the Bahamas features the many uninhabited islands in the Caribbean Sea , the world 's only pink beach and a low_tax banking system for both corporations and individuals .
+########
+6
+<EOP> .
+########
+7
+This year marks the 20th anniversary of the establishment of diplomatic relations between China and the Bahamas .
+########
+8
+Celebrations including a fashion show , art exhibition and gala will be held starting May 26 , said Pau Andrew Gomez , Ambassador Extraordinary and Plenipotentiary of the Embassy of the Commonwealth of The Bahamas .
+will	10	ps_cue
+May	14	ps_cue
+########
+9
+<EOP> .
+########
+10
+The country will have a 130_square_meter booth to display its tourism and investment resources in the upcoming 2017 Beijing International Fair for Trade in Services held from May 28 to June 1 , he said .
+will	2	ps_cue
+May	27	ps_cue
+########
+11
+<EOP> .
+########
+12
+Since the Bahamas has a service_based economy , the event is very suitable as it focuses on tourism , ministration , hotel and other financial services , he said .
+########
+13
+<EOP> .
+########
+14
+`` We expect to bring China and the Bahamas ' businessmen together to see if it can be converted into real economic activities , '' he said .
+bring	4	PS+	PS+
+expect	2	ps_cue
+can	16	ps_cue
+########
+15
+<EOP> .
+########
+16
+As the only Caribbean country in which businessmen are allowed to do trading in RMB , many Chinese people have made investments in the Bahamas , mainly concerning ports , luxury hotels and resorts .
+########
+17
+<EOP> .
+########
+18
+The Export_Import Bank of China provided loan of $ 410 million to build a new port in Abaco , an island in the northern part of the country in 2012 .
+########
+19
+It cooperated with China Construction America , a subsidiary of China State Construction Engineering Corp , to construct Baha Mar resort , to be completed by the end of 2019 , according to Setter Yang , Consular Assistant of the Embassy of the Commonwealth of The Bahamas .
+########
+20
+<EOP> .
+########
+21
+They expect to build more budget hotels with no more than 45 rooms to attract tourists from Europe , America and the large market of China , she said .
+expect	1	ps_cue
+no	8	neg_cue
+########
+22
+<EOP> .
+########
+23
+Paul said they also welcomed Chinese banks to the area to engage in retail banking .
+########
+24
+<EOP> .
+########
+25
+There are 600 global banks in the Bahamas , and visitors can use almost any bank card from anywhere in the world , he said .
+can	11	ps_cue
+########
+26
+<EOP> .
+########
+27
+`` Financial services are the second_largest industry of the Bahamas .
+########
+28
+We have financial facilities , international business companies and many reputable lawyers , financial planners and analysts . ''
+########
+29
+<EOP> .
+########
+30
+More potential investment opportunities lie in other industries of culture , education , healthcare and manufacturing , he added .
+potential	1	ps_cue
+opportunities	3	ps_cue
+########
+31
+<EOP> .
+########
+32
+He said Chinese investors have provided job opportunities in the Bahamas .
+opportunities	7	ps_cue
+########
+33
+The port project of the Export_Import Bank of China , for example , created about 7,000 jobs .
+########
+34
+<EOP> .
+########
+35
+Last year saw 3,000 Chinese tourists visit the Bahamas , according to Paul .
+########
+36
+<EOP> .
+########
+37
+`` Though the two countries share visa_free travel for 30 days , challenges exist in the distance , '' he said .
+########
+38
+`` We are working on opening direct flights between Beijing and Nassau , capital of the Bahamas , or Shanghai to Nassau . ''
+opening	5	CT+	PS+
+or	18	ps_cue
+########
+39
+<EOP> .
+########

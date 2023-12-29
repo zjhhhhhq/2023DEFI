@@ -1,0 +1,40 @@
+Do Chinese and Laotian parties hold theory seminar 
+0
+Chinese , Laotian parties hold theory seminar <EOP> .
+hold	4	CT+	CT+
+########
+1
+2017_06_22 21:32 <EOP> .
+########
+2
+Xinhua <EOP> .
+########
+3
+BOAO , Hainan _ The Communist Party of China LRB CPC RRB and the Lao People 's Revolutionary Party LRB LPRP RRB held a theory seminar on Thursday in Boao in China 's southernmost province of Hainan .
+held	22	CT+	CT+
+########
+4
+<EOP> .
+########
+5
+It was the sixth seminar of this kind between the two parties .
+########
+6
+Liu Qibao , a member of the Political Bureau of the CPC Central Committee and of the Secretariat of the CPC Central Committee , and senior LPRP officials attended the seminar .
+########
+7
+<EOP> .
+########
+8
+Prior to the seminar , Liu , who is also the head of the Publicity Department of the CPC Central Committee , held talks with Lao officials , Chansy Phosikham , a member of the Political Bureau of the LPRP Central Committee and head of the central committee 's organization department , and Kikeo Khaykhamphithoune , head of the LPRP Central Committee 's Publicity Department .
+held	22	CT+	CT+
+########
+9
+<EOP> .
+########
+10
+The officials exchanged views on fields such the relationship between the two parties and strengthening media cooperation .
+########
+11
+<EOP> .
+########
